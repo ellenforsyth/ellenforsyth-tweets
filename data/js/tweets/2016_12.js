@@ -1,6 +1,1715 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 27 18:39:45 +0000 2016",
+		"id": 813816655394394100,
+		"id_str": "813816655394394113",
+		"text": "RT @perpetualgeek: This. Thread. https://t.co/PAzpRvSqdD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perpetualgeek",
+					"name": "Daniel Zuccarelli",
+					"id": 150886682,
+					"id_str": "150886682",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PAzpRvSqdD",
+					"expanded_url": "https://twitter.com/anne_theriault/status/813808116236226565",
+					"display_url": "twitter.com/anne_theriault…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2326,
+			"friends_count": 653,
+			"listed_count": 246,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2071,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 27 18:35:58 +0000 2016",
+			"id": 813815705447661600,
+			"id_str": "813815705447661568",
+			"text": "This. Thread. https://t.co/PAzpRvSqdD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PAzpRvSqdD",
+						"expanded_url": "https://twitter.com/anne_theriault/status/813808116236226565",
+						"display_url": "twitter.com/anne_theriault…",
+						"indices": [
+							14,
+							37
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150886682,
+				"id_str": "150886682",
+				"name": "Daniel Zuccarelli",
+				"screen_name": "perpetualgeek",
+				"location": "New Jersey, USA",
+				"description": "Ravenclaw. MLIS grad student. Searching for my Clean, Well-Lighted Place. Turn and face the strange.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1633,
+				"friends_count": 449,
+				"listed_count": 115,
+				"created_at": "Wed Jun 02 02:23:52 +0000 2010",
+				"favourites_count": 2019,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22078,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E9E7E5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/317238360/pgm_twitter_bg.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/317238360/pgm_twitter_bg.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/794611658840739841/TFS0i0Nb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/794611658840739841/TFS0i0Nb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/150886682/1482469942",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "333333",
+				"profile_sidebar_fill_color": "D1D1D1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 813808116236226600,
+			"quoted_status_id_str": "813808116236226565",
+			"quoted_status": {
+				"created_at": "Tue Dec 27 18:05:49 +0000 2016",
+				"id": 813808116236226600,
+				"id_str": "813808116236226565",
+				"text": "Everyone is sharing pictures of Fisher when she was young, but let me show you the Leia that was the most important… https://t.co/2J4OdTBP72",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/2J4OdTBP72",
+							"expanded_url": "https://twitter.com/i/web/status/813808116236226565",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 432134884,
+					"id_str": "432134884",
+					"name": "Anne Thériault",
+					"screen_name": "anne_theriault",
+					"location": "Toronto, Ontario",
+					"description": "here's your motivation: there's a witch, and she keeps leaving shit outside your door https://t.co/KURKzWkocb",
+					"url": "https://t.co/JUJZ9QugXR",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/JUJZ9QugXR",
+									"expanded_url": "http://bellejarblog.wordpress.com",
+									"display_url": "bellejarblog.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/KURKzWkocb",
+									"expanded_url": "http://patreon.com/anne_theriault",
+									"display_url": "patreon.com/anne_theriault",
+									"indices": [
+										86,
+										109
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 33150,
+					"friends_count": 2768,
+					"listed_count": 608,
+					"created_at": "Fri Dec 09 02:36:24 +0000 2011",
+					"favourites_count": 77769,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 56695,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/818830433/74724b08739562367fb43a90c866cad3.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/818830433/74724b08739562367fb43a90c866cad3.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/742912937237454848/9NQ8pY7F_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/742912937237454848/9NQ8pY7F_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/432134884/1363717572",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 31877,
+				"favorite_count": 62717,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 9,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 813808116236226600,
+		"quoted_status_id_str": "813808116236226565",
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 27 18:35:02 +0000 2016",
+		"id": 813815467508842500,
+		"id_str": "813815467508842496",
+		"text": "Heritage cooking to play around with  https://t.co/CmXNaZBb7N",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CmXNaZBb7N",
+					"expanded_url": "https://rarecooking.com/2016/12/23/to-make-newport-ginger-bread/",
+					"display_url": "rarecooking.com/2016/12/23/to-…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2326,
+			"friends_count": 653,
+			"listed_count": 246,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2071,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 27 18:27:33 +0000 2016",
+		"id": 813813586132803600,
+		"id_str": "813813586132803584",
+		"text": "RT @anne_theriault: Princess Leia was great, but General Organa was Fisher's real gift to us. And she's who I'm going to be looking to in d…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anne_theriault",
+					"name": "Anne Thériault",
+					"id": 432134884,
+					"id_str": "432134884",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2326,
+			"friends_count": 653,
+			"listed_count": 246,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2071,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 27 18:18:12 +0000 2016",
+			"id": 813811231232577500,
+			"id_str": "813811231232577536",
+			"text": "Princess Leia was great, but General Organa was Fisher's real gift to us. And she's who I'm going to be looking to in dark times.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 813811061178728400,
+			"in_reply_to_status_id_str": "813811061178728448",
+			"in_reply_to_user_id": 432134884,
+			"in_reply_to_user_id_str": "432134884",
+			"in_reply_to_screen_name": "anne_theriault",
+			"user": {
+				"id": 432134884,
+				"id_str": "432134884",
+				"name": "Anne Thériault",
+				"screen_name": "anne_theriault",
+				"location": "Toronto, Ontario",
+				"description": "here's your motivation: there's a witch, and she keeps leaving shit outside your door https://t.co/KURKzWkocb",
+				"url": "https://t.co/JUJZ9QugXR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JUJZ9QugXR",
+								"expanded_url": "http://bellejarblog.wordpress.com",
+								"display_url": "bellejarblog.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KURKzWkocb",
+								"expanded_url": "http://patreon.com/anne_theriault",
+								"display_url": "patreon.com/anne_theriault",
+								"indices": [
+									86,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 33150,
+				"friends_count": 2768,
+				"listed_count": 608,
+				"created_at": "Fri Dec 09 02:36:24 +0000 2011",
+				"favourites_count": 77769,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56695,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/818830433/74724b08739562367fb43a90c866cad3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/818830433/74724b08739562367fb43a90c866cad3.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/742912937237454848/9NQ8pY7F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/742912937237454848/9NQ8pY7F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/432134884/1363717572",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2701,
+			"favorite_count": 6785,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2701,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 27 18:27:31 +0000 2016",
+		"id": 813813575995170800,
+		"id_str": "813813575995170816",
+		"text": "RT @anne_theriault: In General Organa I see a woman changed by loss but not destroyed. I see a brilliant commander with good people skills…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anne_theriault",
+					"name": "Anne Thériault",
+					"id": 432134884,
+					"id_str": "432134884",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2326,
+			"friends_count": 653,
+			"listed_count": 246,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2071,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 27 18:17:31 +0000 2016",
+			"id": 813811061178728400,
+			"id_str": "813811061178728448",
+			"text": "In General Organa I see a woman changed by loss but not destroyed. I see a brilliant commander with good people skills &amp; tactical knowledge",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 813810580951810000,
+			"in_reply_to_status_id_str": "813810580951810048",
+			"in_reply_to_user_id": 432134884,
+			"in_reply_to_user_id_str": "432134884",
+			"in_reply_to_screen_name": "anne_theriault",
+			"user": {
+				"id": 432134884,
+				"id_str": "432134884",
+				"name": "Anne Thériault",
+				"screen_name": "anne_theriault",
+				"location": "Toronto, Ontario",
+				"description": "here's your motivation: there's a witch, and she keeps leaving shit outside your door https://t.co/KURKzWkocb",
+				"url": "https://t.co/JUJZ9QugXR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JUJZ9QugXR",
+								"expanded_url": "http://bellejarblog.wordpress.com",
+								"display_url": "bellejarblog.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KURKzWkocb",
+								"expanded_url": "http://patreon.com/anne_theriault",
+								"display_url": "patreon.com/anne_theriault",
+								"indices": [
+									86,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 33150,
+				"friends_count": 2768,
+				"listed_count": 608,
+				"created_at": "Fri Dec 09 02:36:24 +0000 2011",
+				"favourites_count": 77769,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56695,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/818830433/74724b08739562367fb43a90c866cad3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/818830433/74724b08739562367fb43a90c866cad3.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/742912937237454848/9NQ8pY7F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/742912937237454848/9NQ8pY7F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/432134884/1363717572",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2096,
+			"favorite_count": 5979,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2096,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 27 18:27:15 +0000 2016",
+		"id": 813813508718477300,
+		"id_str": "813813508718477312",
+		"text": "RT @ianrosewrites: This. There are Luke movies, Rey movies, etc, but Leia Organa is the hero of the Star Wars saga, because she spends her…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ianrosewrites",
+					"name": "Ian Rose",
+					"id": 577808775,
+					"id_str": "577808775",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2326,
+			"friends_count": 653,
+			"listed_count": 246,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2071,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 27 18:19:03 +0000 2016",
+			"id": 813811447167782900,
+			"id_str": "813811447167782912",
+			"text": "This. There are Luke movies, Rey movies, etc, but Leia Organa is the hero of the Star Wars saga, because she spends… https://t.co/OlxuOojJ4y",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OlxuOojJ4y",
+						"expanded_url": "https://twitter.com/i/web/status/813811447167782912",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 577808775,
+				"id_str": "577808775",
+				"name": "Ian Rose",
+				"screen_name": "ianrosewrites",
+				"location": "Beaverton, OR",
+				"description": "Writer, reader, occasional rithmaticker. Day job: Founder and lead developer, @fannocreekweb",
+				"url": "https://t.co/UNacSx8tPq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UNacSx8tPq",
+								"expanded_url": "http://ianrosewrites.com",
+								"display_url": "ianrosewrites.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 422,
+				"friends_count": 858,
+				"listed_count": 43,
+				"created_at": "Sat May 12 04:27:03 +0000 2012",
+				"favourites_count": 2661,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12563,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000387560239/25b305f3c9e9271d3f9469f3ff955c65_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000387560239/25b305f3c9e9271d3f9469f3ff955c65_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/577808775/1433462583",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 813809895598411800,
+			"quoted_status_id_str": "813809895598411776",
+			"quoted_status": {
+				"created_at": "Tue Dec 27 18:12:53 +0000 2016",
+				"id": 813809895598411800,
+				"id_str": "813809895598411776",
+				"text": "Unlike Luke or Han, Leia keeps fighting when things seem impossible. In spite of all the losses she's suffered, in spite of impossible odds.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 813809336778629100,
+				"in_reply_to_status_id_str": "813809336778629124",
+				"in_reply_to_user_id": 432134884,
+				"in_reply_to_user_id_str": "432134884",
+				"in_reply_to_screen_name": "anne_theriault",
+				"user": {
+					"id": 432134884,
+					"id_str": "432134884",
+					"name": "Anne Thériault",
+					"screen_name": "anne_theriault",
+					"location": "Toronto, Ontario",
+					"description": "here's your motivation: there's a witch, and she keeps leaving shit outside your door https://t.co/KURKzWkocb",
+					"url": "https://t.co/JUJZ9QugXR",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/JUJZ9QugXR",
+									"expanded_url": "http://bellejarblog.wordpress.com",
+									"display_url": "bellejarblog.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/KURKzWkocb",
+									"expanded_url": "http://patreon.com/anne_theriault",
+									"display_url": "patreon.com/anne_theriault",
+									"indices": [
+										86,
+										109
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 33150,
+					"friends_count": 2768,
+					"listed_count": 608,
+					"created_at": "Fri Dec 09 02:36:24 +0000 2011",
+					"favourites_count": 77769,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 56695,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/818830433/74724b08739562367fb43a90c866cad3.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/818830433/74724b08739562367fb43a90c866cad3.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/742912937237454848/9NQ8pY7F_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/742912937237454848/9NQ8pY7F_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/432134884/1363717572",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2748,
+				"favorite_count": 7403,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 144,
+			"favorite_count": 354,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 813809895598411800,
+		"quoted_status_id_str": "813809895598411776",
+		"retweet_count": 144,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 27 18:25:33 +0000 2016",
+		"id": 813813082744963100,
+		"id_str": "813813082744963072",
+		"text": "RT @GeeksOfColor: RIP Carrie Fisher. This is so heartbreaking. https://t.co/VWQIeryyDI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeeksOfColor",
+					"name": "Geeks Of Color",
+					"id": 4669412971,
+					"id_str": "4669412971",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 813810482280730600,
+					"id_str": "813810482280730624",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/C0s8UmbVEAAfubr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0s8UmbVEAAfubr.jpg",
+					"url": "https://t.co/VWQIeryyDI",
+					"display_url": "pic.twitter.com/VWQIeryyDI",
+					"expanded_url": "https://twitter.com/GeeksOfColor/status/813810497678114816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1202,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 813810497678114800,
+					"source_status_id_str": "813810497678114816",
+					"source_user_id": 4669412971,
+					"source_user_id_str": "4669412971"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 813810482280730600,
+					"id_str": "813810482280730624",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/C0s8UmbVEAAfubr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0s8UmbVEAAfubr.jpg",
+					"url": "https://t.co/VWQIeryyDI",
+					"display_url": "pic.twitter.com/VWQIeryyDI",
+					"expanded_url": "https://twitter.com/GeeksOfColor/status/813810497678114816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 902,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1202,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 813810497678114800,
+					"source_status_id_str": "813810497678114816",
+					"source_user_id": 4669412971,
+					"source_user_id_str": "4669412971"
+				},
+				{
+					"id": 813810482280661000,
+					"id_str": "813810482280660993",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/C0s8UmbUAAEmHfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0s8UmbUAAEmHfe.jpg",
+					"url": "https://t.co/VWQIeryyDI",
+					"display_url": "pic.twitter.com/VWQIeryyDI",
+					"expanded_url": "https://twitter.com/GeeksOfColor/status/813810497678114816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 678,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 813810497678114800,
+					"source_status_id_str": "813810497678114816",
+					"source_user_id": 4669412971,
+					"source_user_id_str": "4669412971"
+				},
+				{
+					"id": 813810482289090600,
+					"id_str": "813810482289090561",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/C0s8UmdUoAEYkD2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0s8UmdUoAEYkD2.jpg",
+					"url": "https://t.co/VWQIeryyDI",
+					"display_url": "pic.twitter.com/VWQIeryyDI",
+					"expanded_url": "https://twitter.com/GeeksOfColor/status/813810497678114816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 813810497678114800,
+					"source_status_id_str": "813810497678114816",
+					"source_user_id": 4669412971,
+					"source_user_id_str": "4669412971"
+				},
+				{
+					"id": 813810482372956200,
+					"id_str": "813810482372956160",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/C0s8UmxUUAAlca3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0s8UmxUUAAlca3.jpg",
+					"url": "https://t.co/VWQIeryyDI",
+					"display_url": "pic.twitter.com/VWQIeryyDI",
+					"expanded_url": "https://twitter.com/GeeksOfColor/status/813810497678114816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 813810497678114800,
+					"source_status_id_str": "813810497678114816",
+					"source_user_id": 4669412971,
+					"source_user_id_str": "4669412971"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2326,
+			"friends_count": 653,
+			"listed_count": 246,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2071,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30243,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 27 18:15:17 +0000 2016",
+			"id": 813810497678114800,
+			"id_str": "813810497678114816",
+			"text": "RIP Carrie Fisher. This is so heartbreaking. https://t.co/VWQIeryyDI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 813810482280730600,
+						"id_str": "813810482280730624",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/C0s8UmbVEAAfubr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0s8UmbVEAAfubr.jpg",
+						"url": "https://t.co/VWQIeryyDI",
+						"display_url": "pic.twitter.com/VWQIeryyDI",
+						"expanded_url": "https://twitter.com/GeeksOfColor/status/813810497678114816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 902,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1202,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 813810482280730600,
+						"id_str": "813810482280730624",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/C0s8UmbVEAAfubr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0s8UmbVEAAfubr.jpg",
+						"url": "https://t.co/VWQIeryyDI",
+						"display_url": "pic.twitter.com/VWQIeryyDI",
+						"expanded_url": "https://twitter.com/GeeksOfColor/status/813810497678114816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 902,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1202,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 813810482280661000,
+						"id_str": "813810482280660993",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/C0s8UmbUAAEmHfe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0s8UmbUAAEmHfe.jpg",
+						"url": "https://t.co/VWQIeryyDI",
+						"display_url": "pic.twitter.com/VWQIeryyDI",
+						"expanded_url": "https://twitter.com/GeeksOfColor/status/813810497678114816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 678,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 678,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 813810482289090600,
+						"id_str": "813810482289090561",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/C0s8UmdUoAEYkD2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0s8UmdUoAEYkD2.jpg",
+						"url": "https://t.co/VWQIeryyDI",
+						"display_url": "pic.twitter.com/VWQIeryyDI",
+						"expanded_url": "https://twitter.com/GeeksOfColor/status/813810497678114816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 813810482372956200,
+						"id_str": "813810482372956160",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/C0s8UmxUUAAlca3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0s8UmxUUAAlca3.jpg",
+						"url": "https://t.co/VWQIeryyDI",
+						"display_url": "pic.twitter.com/VWQIeryyDI",
+						"expanded_url": "https://twitter.com/GeeksOfColor/status/813810497678114816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4669412971,
+				"id_str": "4669412971",
+				"name": "Geeks Of Color",
+				"screen_name": "GeeksOfColor",
+				"location": "Worldwide ",
+				"description": "Welcome to Geeks of Color! We inform, entertain and interact in support of diverse comics, writers, characters and more. Contact: contact@geeksofcolor.co",
+				"url": "https://t.co/RcjswBsysL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RcjswBsysL",
+								"expanded_url": "http://geeksofcolor.co/",
+								"display_url": "geeksofcolor.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25681,
+				"friends_count": 922,
+				"listed_count": 275,
+				"created_at": "Mon Dec 28 20:38:55 +0000 2015",
+				"favourites_count": 5912,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12090,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/748932869691551744/ylM5qHlS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/748932869691551744/ylM5qHlS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4669412971/1467394486",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1316,
+			"favorite_count": 1362,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1316,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 27 06:11:17 +0000 2016",
 		"id": 813628296516681700,
 		"id_str": "813628296516681729",
