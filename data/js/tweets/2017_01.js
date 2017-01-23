@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sun Jan 22 19:03:12 +0000 2017",
+		"id": 823244643542306800,
+		"id_str": "823244643542306818",
+		"text": "What did Big Data find when it analysed 150 years of British history? https://t.co/cvVuHcbRmz via @sciencedaily interesting",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScienceDaily",
+					"name": "ScienceDaily",
+					"id": 18700629,
+					"id_str": "18700629",
+					"indices": [
+						98,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cvVuHcbRmz",
+					"expanded_url": "https://www.sciencedaily.com/releases/2017/01/170109191414.htm#.WIUB4Z2PkJU.twitter",
+					"display_url": "sciencedaily.com/releases/2017/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2333,
+			"friends_count": 652,
+			"listed_count": 247,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2215,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30425,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 22 18:35:37 +0000 2017",
+		"id": 823237700194943000,
+		"id_str": "823237700194942976",
+		"text": "The Noble Simplicity of Peter Zumthor's Allmannajuvet Zinc Mine Museum https://t.co/PQnzzJAC2B via @archdaily  interesting approach",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArchDaily",
+					"name": "ArchDaily",
+					"id": 14362241,
+					"id_str": "14362241",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PQnzzJAC2B",
+					"expanded_url": "http://www.archdaily.com/803691/the-noble-simplicity-of-peter-zumthors-allmannajuvet-zinc-mine-museum",
+					"display_url": "archdaily.com/803691/the-nob…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2333,
+			"friends_count": 652,
+			"listed_count": 247,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2215,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30425,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 22 09:24:52 +0000 2017",
+		"id": 823099097900908500,
+		"id_str": "823099097900908544",
+		"text": "RT @digitales_: What Cultural Competence Means for #Librarians: https://t.co/VwZ2Zjh7S5. #libchat https://t.co/FWho6KfeqN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Librarians",
+					"indices": [
+						51,
+						62
+					]
+				},
+				{
+					"text": "libchat",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "digitales_",
+					"name": "Digitales",
+					"id": 1000881960,
+					"id_str": "1000881960",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VwZ2Zjh7S5",
+					"expanded_url": "http://ow.ly/qWJR3088JI9",
+					"display_url": "ow.ly/qWJR3088JI9",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 822670205541351400,
+					"id_str": "822670205541351425",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/C2q2MXiXAAESbGF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2q2MXiXAAESbGF.jpg",
+					"url": "https://t.co/FWho6KfeqN",
+					"display_url": "pic.twitter.com/FWho6KfeqN",
+					"expanded_url": "https://twitter.com/digitales_/status/822670208154406912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 234,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 234,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 234,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 822670208154406900,
+					"source_status_id_str": "822670208154406912",
+					"source_user_id": 1000881960,
+					"source_user_id_str": "1000881960"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 822670205541351400,
+					"id_str": "822670205541351425",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/C2q2MXiXAAESbGF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2q2MXiXAAESbGF.jpg",
+					"url": "https://t.co/FWho6KfeqN",
+					"display_url": "pic.twitter.com/FWho6KfeqN",
+					"expanded_url": "https://twitter.com/digitales_/status/822670208154406912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 234,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 234,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 234,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 822670208154406900,
+					"source_status_id_str": "822670208154406912",
+					"source_user_id": 1000881960,
+					"source_user_id_str": "1000881960"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2333,
+			"friends_count": 652,
+			"listed_count": 247,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2215,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30425,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 21 05:00:36 +0000 2017",
+			"id": 822670208154406900,
+			"id_str": "822670208154406912",
+			"text": "What Cultural Competence Means for #Librarians: https://t.co/VwZ2Zjh7S5. #libchat https://t.co/FWho6KfeqN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Librarians",
+						"indices": [
+							35,
+							46
+						]
+					},
+					{
+						"text": "libchat",
+						"indices": [
+							73,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VwZ2Zjh7S5",
+						"expanded_url": "http://ow.ly/qWJR3088JI9",
+						"display_url": "ow.ly/qWJR3088JI9",
+						"indices": [
+							48,
+							71
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 822670205541351400,
+						"id_str": "822670205541351425",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/C2q2MXiXAAESbGF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2q2MXiXAAESbGF.jpg",
+						"url": "https://t.co/FWho6KfeqN",
+						"display_url": "pic.twitter.com/FWho6KfeqN",
+						"expanded_url": "https://twitter.com/digitales_/status/822670208154406912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 234,
+								"h": 300,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 234,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 234,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 822670205541351400,
+						"id_str": "822670205541351425",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/C2q2MXiXAAESbGF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2q2MXiXAAESbGF.jpg",
+						"url": "https://t.co/FWho6KfeqN",
+						"display_url": "pic.twitter.com/FWho6KfeqN",
+						"expanded_url": "https://twitter.com/digitales_/status/822670208154406912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 234,
+								"h": 300,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 234,
+								"h": 300,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 234,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1000881960,
+				"id_str": "1000881960",
+				"name": "Digitales",
+				"screen_name": "digitales_",
+				"location": "Australia",
+				"description": "Library supplier for online resources, streaming content, film, music, LOTE, literacy and numeracy media. Tweets library and education news and resources.",
+				"url": "http://t.co/zopuqHQL8Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zopuqHQL8Q",
+								"expanded_url": "http://www.digitales.com.au",
+								"display_url": "digitales.com.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 562,
+				"friends_count": 604,
+				"listed_count": 113,
+				"created_at": "Mon Dec 10 04:23:01 +0000 2012",
+				"favourites_count": 698,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2024,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/818300701583388672/UmZ1tKDX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/818300701583388672/UmZ1tKDX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1000881960/1446688256",
+				"profile_link_color": "213F7F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 22 03:54:22 +0000 2017",
 		"id": 823015927033708500,
 		"id_str": "823015927033708544",
