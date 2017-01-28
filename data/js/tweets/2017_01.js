@@ -1,6 +1,813 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 28 03:52:53 +0000 2017",
+		"id": 825189879923347500,
+		"id_str": "825189879923347457",
+		"text": "He was totally amazing https://t.co/hkDtGwGalQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hkDtGwGalQ",
+					"expanded_url": "https://twitter.com/abcnews/status/825178224543961088",
+					"display_url": "twitter.com/abcnews/status…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2327,
+			"friends_count": 653,
+			"listed_count": 247,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2235,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 825178224543961100,
+		"quoted_status_id_str": "825178224543961088",
+		"quoted_status": {
+			"created_at": "Sat Jan 28 03:06:34 +0000 2017",
+			"id": 825178224543961100,
+			"id_str": "825178224543961088",
+			"text": "Sir John Hurt, Harry Potter and Elephant Man actor, dies aged 77 #JohnHurt https://t.co/iSoj0W6Xdm https://t.co/DUzgZMFOns",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "JohnHurt",
+						"indices": [
+							65,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iSoj0W6Xdm",
+						"expanded_url": "http://ab.co/2kCSCJu",
+						"display_url": "ab.co/2kCSCJu",
+						"indices": [
+							75,
+							98
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 825178142230732800,
+						"id_str": "825178142230732800",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C3OfJfwUYAApyUP.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C3OfJfwUYAApyUP.jpg",
+						"url": "https://t.co/DUzgZMFOns",
+						"display_url": "pic.twitter.com/DUzgZMFOns",
+						"expanded_url": "https://twitter.com/abcnews/status/825178224543961088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 266,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 266,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 188,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 825178142230732800,
+						"id_str": "825178142230732800",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C3OfJfwUYAApyUP.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C3OfJfwUYAApyUP.jpg",
+						"url": "https://t.co/DUzgZMFOns",
+						"display_url": "pic.twitter.com/DUzgZMFOns",
+						"expanded_url": "https://twitter.com/abcnews/status/825178224543961088/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 266,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 266,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 188,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								240,
+								133
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C3OfJfwUYAApyUP.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2768501,
+				"id_str": "2768501",
+				"name": "ABC News",
+				"screen_name": "abcnews",
+				"location": "Australia",
+				"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+				"url": "http://t.co/knlFvfwxkf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/knlFvfwxkf",
+								"expanded_url": "http://www.abc.net.au/news",
+								"display_url": "abc.net.au/news",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1253418,
+				"friends_count": 1218,
+				"listed_count": 10640,
+				"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+				"favourites_count": 2831,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 252155,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/750107433243021313/KfdU1ONk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/750107433243021313/KfdU1ONk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1439986442",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "C8C8C8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 79,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 27 18:12:54 +0000 2017",
+		"id": 825043924083363800,
+		"id_str": "825043924083363841",
+		"text": "Dumfries Archival Mapping Project - Home more useful digitised maps via @natlibscotmaps  https://t.co/rrWpoBkwxY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "natlibscotmaps",
+					"name": "NLS Maps Department",
+					"id": 1119210314,
+					"id_str": "1119210314",
+					"indices": [
+						72,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rrWpoBkwxY",
+					"expanded_url": "http://www.damproject.org/",
+					"display_url": "damproject.org",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2327,
+			"friends_count": 653,
+			"listed_count": 247,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2235,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 27 18:11:56 +0000 2017",
+		"id": 825043679442149400,
+		"id_str": "825043679442149376",
+		"text": "Denying Denial - Holocaust Testimonies Online - via @soundarchive useful resource  https://t.co/wYpGEpnzaM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soundarchive",
+					"name": "Sound Archive",
+					"id": 22028935,
+					"id_str": "22028935",
+					"indices": [
+						52,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wYpGEpnzaM",
+					"expanded_url": "http://blogs.bl.uk/sound-and-vision/2017/01/denying-denial-holocaust-testimonies-online.html",
+					"display_url": "blogs.bl.uk/sound-and-visi…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2327,
+			"friends_count": 653,
+			"listed_count": 247,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2235,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 27 18:08:39 +0000 2017",
+		"id": 825042855181692900,
+		"id_str": "825042855181692928",
+		"text": "RT @Fife_Ambassador: New distillery map in latest @Unfilteredmag. Proud to see @welcometofife's @KingsbarnsDist @InchDairnieDist @EdenMill…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Fife_Ambassador",
+					"name": "Doug Barclay Clement",
+					"id": 2576775433,
+					"id_str": "2576775433",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "Unfilteredmag",
+					"name": "Unfiltered magazine",
+					"id": 122025444,
+					"id_str": "122025444",
+					"indices": [
+						50,
+						64
+					]
+				},
+				{
+					"screen_name": "welcometofife",
+					"name": "Welcome to Fife",
+					"id": 309691417,
+					"id_str": "309691417",
+					"indices": [
+						79,
+						93
+					]
+				},
+				{
+					"screen_name": "KingsbarnsDist",
+					"name": "KingsbarnsDistillery",
+					"id": 87298646,
+					"id_str": "87298646",
+					"indices": [
+						96,
+						111
+					]
+				},
+				{
+					"screen_name": "InchDairnieDist",
+					"name": "InchDairnie Whisky",
+					"id": 4736493465,
+					"id_str": "4736493465",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"screen_name": "EdenMill",
+					"name": "Eden Mill St Andrews",
+					"id": 498915970,
+					"id_str": "498915970",
+					"indices": [
+						129,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2327,
+			"friends_count": 653,
+			"listed_count": 247,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2235,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 12 10:49:12 +0000 2017",
+			"id": 819496443060875300,
+			"id_str": "819496443060875264",
+			"text": "New distillery map in latest @Unfilteredmag. Proud to see @welcometofife's @KingsbarnsDist @InchDairnieDist… https://t.co/1k3rYSbIlI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Unfilteredmag",
+						"name": "Unfiltered magazine",
+						"id": 122025444,
+						"id_str": "122025444",
+						"indices": [
+							29,
+							43
+						]
+					},
+					{
+						"screen_name": "welcometofife",
+						"name": "Welcome to Fife",
+						"id": 309691417,
+						"id_str": "309691417",
+						"indices": [
+							58,
+							72
+						]
+					},
+					{
+						"screen_name": "KingsbarnsDist",
+						"name": "KingsbarnsDistillery",
+						"id": 87298646,
+						"id_str": "87298646",
+						"indices": [
+							75,
+							90
+						]
+					},
+					{
+						"screen_name": "InchDairnieDist",
+						"name": "InchDairnie Whisky",
+						"id": 4736493465,
+						"id_str": "4736493465",
+						"indices": [
+							91,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1k3rYSbIlI",
+						"expanded_url": "https://twitter.com/i/web/status/819496443060875264",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2576775433,
+				"id_str": "2576775433",
+				"name": "Doug Barclay Clement",
+				"screen_name": "Fife_Ambassador",
+				"location": "Anstruther, Scotland",
+				"description": "Drinks/Tourism Entrepreneur. @WelcometoFife Ambassador. Thistle Awards 'Tourism & Hospitality Hero 2016'. Fan of @KingsbarnsDist/@WemyssMalts/@DarnleysViewGin.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1362,
+				"friends_count": 997,
+				"listed_count": 28,
+				"created_at": "Thu Jun 19 12:02:36 +0000 2014",
+				"favourites_count": 1960,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2519,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825228377946779648/97uekIb6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825228377946779648/97uekIb6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2576775433/1485551084",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 27 00:33:19 +0000 2017",
 		"id": 824777269952409600,
 		"id_str": "824777269952409601",
