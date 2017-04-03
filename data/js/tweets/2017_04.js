@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 03 07:05:22 +0000 2017",
+		"id": 848793531283939300,
+		"id_str": "848793531283939328",
+		"text": "Interview with Kate Young @sewkate! - craftivism. Via @craftivista - a fascinating post https://t.co/qdlKkOguuw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sewkate",
+					"name": "Kate Young",
+					"id": 3435587818,
+					"id_str": "3435587818",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "craftivista",
+					"name": "Betsy Greer",
+					"id": 17848020,
+					"id_str": "17848020",
+					"indices": [
+						54,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qdlKkOguuw",
+					"expanded_url": "http://craftivism.com/blog/interview-kate-young-sewkate/",
+					"display_url": "craftivism.com/blog/interview…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2358,
+			"friends_count": 671,
+			"listed_count": 244,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2438,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31078,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 03 07:03:38 +0000 2017",
+		"id": 848793097756475400,
+		"id_str": "848793097756475392",
+		"text": "Interesting and depressing https://t.co/UYmcF4SNmb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UYmcF4SNmb",
+					"expanded_url": "https://twitter.com/perkinsy/status/847561678992678912",
+					"display_url": "twitter.com/perkinsy/statu…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2358,
+			"friends_count": 671,
+			"listed_count": 244,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2438,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31078,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 847561678992678900,
+		"quoted_status_id_str": "847561678992678912",
+		"quoted_status": {
+			"created_at": "Thu Mar 30 21:30:25 +0000 2017",
+			"id": 847561678992678900,
+			"id_str": "847561678992678912",
+			"text": "#ThanksForTyping: Australian examples of unrecognised professional work by wives for their husbands https://t.co/maCJOddq7w #OzHist @RNDrive",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ThanksForTyping",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"text": "OzHist",
+						"indices": [
+							124,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RNDrive",
+						"name": "RN Drive",
+						"id": 442677627,
+						"id_str": "442677627",
+						"indices": [
+							132,
+							140
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/maCJOddq7w",
+						"expanded_url": "http://wp.me/p12nEl-1Fc",
+						"display_url": "wp.me/p12nEl-1Fc",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 199452278,
+				"id_str": "199452278",
+				"name": "Yvonne Perkins",
+				"screen_name": "perkinsy",
+				"location": "Sydney",
+				"description": "Writing about beliefs of #OzHist soldiers in #WWI using research tools from #DigitalHumanities. I share good books & history #AWW2017 #twitterstorians",
+				"url": "https://t.co/G9gMWIg4EX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G9gMWIg4EX",
+								"expanded_url": "http://www.stumblingpast.com",
+								"display_url": "stumblingpast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1149,
+				"friends_count": 555,
+				"listed_count": 100,
+				"created_at": "Wed Oct 06 22:22:18 +0000 2010",
+				"favourites_count": 270,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17724,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/484934331/xDSCN0938_Process_Twitter_Crop2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/484934331/xDSCN0938_Process_Twitter_Crop2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/644119990828855297/HD6Eu2Lb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/644119990828855297/HD6Eu2Lb_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 01 22:51:00 +0000 2017",
 		"id": 848306732568690700,
 		"id_str": "848306732568690688",
