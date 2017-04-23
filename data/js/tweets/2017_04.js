@@ -1,6 +1,503 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 22 22:59:02 +0000 2017",
+		"id": 855918900940230700,
+		"id_str": "855918900940230656",
+		"text": "RT @ScienceMarchGBR: What an awesome day celebrating science on the Great Barrier Reef! #sciencemarchgbr #marchforscience #marchforsciencea…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sciencemarchgbr",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "marchforscience",
+					"indices": [
+						105,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScienceMarchGBR",
+					"name": "MarchforScience GBR",
+					"id": 837190608393404400,
+					"id_str": "837190608393404416",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 675,
+			"listed_count": 243,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2530,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 22 12:36:31 +0000 2017",
+			"id": 855762236744192000,
+			"id_str": "855762236744192001",
+			"text": "What an awesome day celebrating science on the Great Barrier Reef! #sciencemarchgbr #marchforscience… https://t.co/Jr1g6C6Lrb",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sciencemarchgbr",
+						"indices": [
+							67,
+							83
+						]
+					},
+					{
+						"text": "marchforscience",
+						"indices": [
+							84,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Jr1g6C6Lrb",
+						"expanded_url": "https://twitter.com/i/web/status/855762236744192001",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 837190608393404400,
+				"id_str": "837190608393404416",
+				"name": "MarchforScience GBR",
+				"screen_name": "ScienceMarchGBR",
+				"location": "Cairns, Queensland",
+				"description": "Join us 22 April 2017 as a diverse, non-partisan group to champion 1) science that upholds the common good & 2) our leaders to enact evidence-based policies.",
+				"url": "https://t.co/evpqjCobiv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/evpqjCobiv",
+								"expanded_url": "http://marchforscienceaustralia.org/cairns",
+								"display_url": "marchforscienceaustralia.org/cairns",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 225,
+				"friends_count": 68,
+				"listed_count": 13,
+				"created_at": "Thu Mar 02 06:39:30 +0000 2017",
+				"favourites_count": 47,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 180,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/841138926068809728/qoO7dHl9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/841138926068809728/qoO7dHl9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/837190608393404416/1488449545",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "00c262dc7a56fb4e",
+				"url": "https://api.twitter.com/1.1/geo/id/00c262dc7a56fb4e.json",
+				"place_type": "city",
+				"name": "Cairns",
+				"full_name": "Cairns, Queensland",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								145.650457088,
+								-17.038658997
+							],
+							[
+								145.783431648,
+								-17.038658997
+							],
+							[
+								145.783431648,
+								-16.7223939305
+							],
+							[
+								145.650457088,
+								-16.7223939305
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 111,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 22 10:51:22 +0000 2017",
+		"id": 855735776591495200,
+		"id_str": "855735776591495169",
+		"text": "@DrMattFinch @WetheHumanities In Sydney we were singing in an Indigenous language, @luke_briscoe79 was teaching us… https://t.co/MNjrSutUCK",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrMattFinch",
+					"name": "Matt Finch",
+					"id": 258747765,
+					"id_str": "258747765",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "WetheHumanities",
+					"name": "WetheHums/Daniel",
+					"id": 2277666787,
+					"id_str": "2277666787",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "luke_briscoe79",
+					"name": "Luke Briscoe",
+					"id": 55042531,
+					"id_str": "55042531",
+					"indices": [
+						83,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MNjrSutUCK",
+					"expanded_url": "https://twitter.com/i/web/status/855735776591495169",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 855696841467244500,
+		"in_reply_to_status_id_str": "855696841467244544",
+		"in_reply_to_user_id": 258747765,
+		"in_reply_to_user_id_str": "258747765",
+		"in_reply_to_screen_name": "DrMattFinch",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 675,
+			"listed_count": 243,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2530,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Apr 22 07:55:41 +0000 2017",
+		"id": 855691562793148400,
+		"id_str": "855691562793148416",
+		"text": "@luke_briscoe79 I really enjoyed your talk, and the songs today, thank you for teaching us.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "luke_briscoe79",
+					"name": "Luke Briscoe",
+					"id": 55042531,
+					"id_str": "55042531",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 55042531,
+		"in_reply_to_user_id_str": "55042531",
+		"in_reply_to_screen_name": "luke_briscoe79",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 675,
+			"listed_count": 243,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2530,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 22 05:14:43 +0000 2017",
 		"id": 855651055354265600,
 		"id_str": "855651055354265600",
