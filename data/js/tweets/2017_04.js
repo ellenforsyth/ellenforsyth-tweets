@@ -1,6 +1,1350 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 26 01:37:12 +0000 2017",
+		"id": 857045868653944800,
+		"id_str": "857045868653944832",
+		"text": "RT @readwatchplay: are you ready for #tabletopday #rwpchat https://t.co/KSprzTYVxS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tabletopday",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"text": "rwpchat",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "readwatchplay",
+					"name": "Read Watch Play",
+					"id": 595268016,
+					"id_str": "595268016",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KSprzTYVxS",
+					"expanded_url": "https://twitter.com/TabletopDay/status/856605270020993024",
+					"display_url": "twitter.com/TabletopDay/st…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2369,
+			"friends_count": 677,
+			"listed_count": 242,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2534,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 25 22:17:01 +0000 2017",
+			"id": 856995490201653200,
+			"id_str": "856995490201653248",
+			"text": "are you ready for #tabletopday #rwpchat https://t.co/KSprzTYVxS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tabletopday",
+						"indices": [
+							18,
+							30
+						]
+					},
+					{
+						"text": "rwpchat",
+						"indices": [
+							31,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KSprzTYVxS",
+						"expanded_url": "https://twitter.com/TabletopDay/status/856605270020993024",
+						"display_url": "twitter.com/TabletopDay/st…",
+						"indices": [
+							40,
+							63
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595268016,
+				"id_str": "595268016",
+				"name": "Read Watch Play",
+				"screen_name": "readwatchplay",
+				"location": "",
+				"description": "Global twitter chat by NSW Readers' Advisory group & partners. What do you enjoying reading, watching and playing. Connect with librarians. Use #rwpchat",
+				"url": "http://t.co/M9meupecSc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/M9meupecSc",
+								"expanded_url": "http://readwatchplay.wordpress.com/",
+								"display_url": "readwatchplay.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 711,
+				"friends_count": 762,
+				"listed_count": 42,
+				"created_at": "Thu May 31 05:01:08 +0000 2012",
+				"favourites_count": 254,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4709,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F0F0F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497158503362879488/JpUm927d.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497158503362879488/JpUm927d.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595268016/1407365292",
+				"profile_link_color": "C93318",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "1C1C1C",
+				"profile_text_color": "627E91",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 856605270020993000,
+			"quoted_status_id_str": "856605270020993024",
+			"quoted_status": {
+				"created_at": "Mon Apr 24 20:26:25 +0000 2017",
+				"id": 856605270020993000,
+				"id_str": "856605270020993024",
+				"text": "The official #TabletopDay 2017 game schedule is here! Don't miss this incredible 18hr live stream on Saturday 4/29!… https://t.co/S14crYXLxS",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "TabletopDay",
+							"indices": [
+								13,
+								25
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/S14crYXLxS",
+							"expanded_url": "https://twitter.com/i/web/status/856605270020993024",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 883082780,
+					"id_str": "883082780",
+					"name": "Tabletop Day",
+					"screen_name": "TabletopDay",
+					"location": "Everywhere! Near You!",
+					"description": "International Tabletop Day 2017 is coming to a magical land near you on April 29, 2017! And we want to know: how did board games change your life? #TabletopDay",
+					"url": "https://t.co/OjFgKWPxmm",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/OjFgKWPxmm",
+									"expanded_url": "http://www.tabletopday.com",
+									"display_url": "tabletopday.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 25339,
+					"friends_count": 480,
+					"listed_count": 458,
+					"created_at": "Mon Oct 15 20:40:42 +0000 2012",
+					"favourites_count": 1917,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 2377,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/824496299152072704/mKeQyjCY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/824496299152072704/mKeQyjCY_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/883082780/1485410201",
+					"profile_link_color": "CC860C",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 28,
+				"favorite_count": 76,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 856605270020993000,
+		"quoted_status_id_str": "856605270020993024",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 25 10:08:32 +0000 2017",
+		"id": 856812159463899100,
+		"id_str": "856812159463899136",
+		"text": "@cfwriter @ThereseScott1 @readwatchplay thanks - looks interesting - political biographies seem a whole separate sphere",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfwriter",
+					"name": "Rachel Franks",
+					"id": 52325959,
+					"id_str": "52325959",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "ThereseScott1",
+					"name": "Therese Scott",
+					"id": 438175303,
+					"id_str": "438175303",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "readwatchplay",
+					"name": "Read Watch Play",
+					"id": 595268016,
+					"id_str": "595268016",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 856811808677646300,
+		"in_reply_to_status_id_str": "856811808677646336",
+		"in_reply_to_user_id": 52325959,
+		"in_reply_to_user_id_str": "52325959",
+		"in_reply_to_screen_name": "cfwriter",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2369,
+			"friends_count": 677,
+			"listed_count": 242,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2534,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 25 10:01:31 +0000 2017",
+		"id": 856810394811326500,
+		"id_str": "856810394811326465",
+		"text": "RT @ConversationEDU: Embroidery was a common form of therapy for wounded #Anzacs #crafts https://t.co/U2tnsTVUGT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Anzacs",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "crafts",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U2tnsTVUGT",
+					"expanded_url": "http://theconversation.com/stitching-lives-back-together-mens-rehabilitation-embroidery-in-wwi-76326",
+					"display_url": "theconversation.com/stitching-live…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2369,
+			"friends_count": 677,
+			"listed_count": 242,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2534,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 24 22:41:00 +0000 2017",
+			"id": 856639138061320200,
+			"id_str": "856639138061320193",
+			"text": "Embroidery was a common form of therapy for wounded #Anzacs #crafts https://t.co/U2tnsTVUGT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Anzacs",
+						"indices": [
+							52,
+							59
+						]
+					},
+					{
+						"text": "crafts",
+						"indices": [
+							60,
+							67
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/U2tnsTVUGT",
+						"expanded_url": "http://theconversation.com/stitching-lives-back-together-mens-rehabilitation-embroidery-in-wwi-76326",
+						"display_url": "theconversation.com/stitching-live…",
+						"indices": [
+							68,
+							91
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 224495471,
+				"id_str": "224495471",
+				"name": "The Conversation",
+				"screen_name": "ConversationEDU",
+				"location": "Australia",
+				"description": "Independent news + analysis from the sharpest academic minds. Monthly audience: 3.8m users onsite + 35m through creative commons republication.",
+				"url": "http://t.co/VYvls5mJi2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VYvls5mJi2",
+								"expanded_url": "http://www.theconversation.com",
+								"display_url": "theconversation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 122350,
+				"friends_count": 5014,
+				"listed_count": 2639,
+				"created_at": "Thu Dec 09 04:36:36 +0000 2010",
+				"favourites_count": 3476,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48778,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E5E5E5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169580278/722ans15.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169580278/722ans15.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2132690691/twitter_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2132690691/twitter_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/224495471/1433400391",
+				"profile_link_color": "D8362A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 25 09:56:28 +0000 2017",
+		"id": 856809122800566300,
+		"id_str": "856809122800566277",
+		"text": "I agree, and On Warne is amazing #biographyread #rwpchat https://t.co/YB1GgqNbu3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "biographyread",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"text": "rwpchat",
+					"indices": [
+						48,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YB1GgqNbu3",
+					"expanded_url": "https://twitter.com/ThereseScott1/status/856803206747140096",
+					"display_url": "twitter.com/ThereseScott1/…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2369,
+			"friends_count": 677,
+			"listed_count": 242,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2534,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 856803206747140100,
+		"quoted_status_id_str": "856803206747140096",
+		"quoted_status": {
+			"created_at": "Tue Apr 25 09:32:57 +0000 2017",
+			"id": 856803206747140100,
+			"id_str": "856803206747140096",
+			"text": "@cfwriter Gideon Haigh our master biographer . Certain admissions ; Stroke of Genius; On Warne :all in the writing #rwpchat",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rwpchat",
+						"indices": [
+							115,
+							123
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cfwriter",
+						"name": "Rachel Franks",
+						"id": 52325959,
+						"id_str": "52325959",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 856796179924893700,
+			"in_reply_to_status_id_str": "856796179924893697",
+			"in_reply_to_user_id": 52325959,
+			"in_reply_to_user_id_str": "52325959",
+			"in_reply_to_screen_name": "cfwriter",
+			"user": {
+				"id": 438175303,
+				"id_str": "438175303",
+				"name": "Therese Scott",
+				"screen_name": "ThereseScott1",
+				"location": "Sydney NSW Australia",
+				"description": "Don't go anywhere without a novel. Loved The Goldfinch; The Flamethrowers; All that is; Regeneration, Commonwealth. Go Wests Tigers! All opinions are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53,
+				"friends_count": 47,
+				"listed_count": 3,
+				"created_at": "Fri Dec 16 08:22:07 +0000 2011",
+				"favourites_count": 913,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 285,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1701344874/PKR_9170-1_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1701344874/PKR_9170-1_normal.JPG",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 25 09:41:05 +0000 2017",
+		"id": 856805253814960100,
+		"id_str": "856805253814960128",
+		"text": "another to read :D https://t.co/KrnGWTDjmK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KrnGWTDjmK",
+					"expanded_url": "https://twitter.com/ThereseScott1/status/856804528301068288",
+					"display_url": "twitter.com/ThereseScott1/…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2369,
+			"friends_count": 677,
+			"listed_count": 242,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2534,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 856804528301068300,
+		"quoted_status_id_str": "856804528301068288",
+		"quoted_status": {
+			"created_at": "Tue Apr 25 09:38:12 +0000 2017",
+			"id": 856804528301068300,
+			"id_str": "856804528301068288",
+			"text": "@ellenforsyth Reco: up and then down: the lives of elevators by nick paumgarten in the New Yorker, brilliant!#biographyread #rwpchat",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "biographyread",
+						"indices": [
+							109,
+							123
+						]
+					},
+					{
+						"text": "rwpchat",
+						"indices": [
+							124,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ellenforsyth",
+						"name": "ellen forsyth",
+						"id": 16970274,
+						"id_str": "16970274",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 856802728021864400,
+			"in_reply_to_status_id_str": "856802728021864448",
+			"in_reply_to_user_id": 16970274,
+			"in_reply_to_user_id_str": "16970274",
+			"in_reply_to_screen_name": "ellenforsyth",
+			"user": {
+				"id": 438175303,
+				"id_str": "438175303",
+				"name": "Therese Scott",
+				"screen_name": "ThereseScott1",
+				"location": "Sydney NSW Australia",
+				"description": "Don't go anywhere without a novel. Loved The Goldfinch; The Flamethrowers; All that is; Regeneration, Commonwealth. Go Wests Tigers! All opinions are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53,
+				"friends_count": 47,
+				"listed_count": 3,
+				"created_at": "Fri Dec 16 08:22:07 +0000 2011",
+				"favourites_count": 913,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 285,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1701344874/PKR_9170-1_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1701344874/PKR_9170-1_normal.JPG",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 25 09:31:03 +0000 2017",
+		"id": 856802728021864400,
+		"id_str": "856802728021864448",
+		"text": "@ThereseScott1 I have not tried that one, will add it to my to read list.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThereseScott1",
+					"name": "Therese Scott",
+					"id": 438175303,
+					"id_str": "438175303",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 856802555954815000,
+		"in_reply_to_status_id_str": "856802555954814976",
+		"in_reply_to_user_id": 438175303,
+		"in_reply_to_user_id_str": "438175303",
+		"in_reply_to_screen_name": "ThereseScott1",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2369,
+			"friends_count": 677,
+			"listed_count": 242,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2534,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 25 09:26:57 +0000 2017",
+		"id": 856801697389174800,
+		"id_str": "856801697389174784",
+		"text": "The Hidden Life of Trees: What They Feel, How They Communicate – Discoveries from a Secret World feels like a #biographyread #rwpchat",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "biographyread",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"text": "rwpchat",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2369,
+			"friends_count": 677,
+			"listed_count": 242,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2534,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 24 23:09:46 +0000 2017",
 		"id": 856646374967738400,
 		"id_str": "856646374967738368",
