@@ -1,6 +1,1887 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 05 20:43:31 +0000 2017",
+		"id": 860595839420440600,
+		"id_str": "860595839420440576",
+		"text": "RT @BLEnglish_Drama: Discovering Literature: Shakespeare and Renaissance Writers https://t.co/WwbkDSvPKd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLEnglish_Drama",
+					"name": "BL English and Drama",
+					"id": 3130729767,
+					"id_str": "3130729767",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WwbkDSvPKd",
+					"expanded_url": "http://blogs.bl.uk/english-and-drama/2017/05/discovering-literature-shakespeare-and-renaissance-writers.html",
+					"display_url": "blogs.bl.uk/english-and-dr…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 679,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2557,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 05 09:37:37 +0000 2017",
+			"id": 860428258491289600,
+			"id_str": "860428258491289600",
+			"text": "Discovering Literature: Shakespeare and Renaissance Writers https://t.co/WwbkDSvPKd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WwbkDSvPKd",
+						"expanded_url": "http://blogs.bl.uk/english-and-drama/2017/05/discovering-literature-shakespeare-and-renaissance-writers.html",
+						"display_url": "blogs.bl.uk/english-and-dr…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.typepad.com/\" rel=\"nofollow\">TypePad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3130729767,
+				"id_str": "3130729767",
+				"name": "BL English and Drama",
+				"screen_name": "BLEnglish_Drama",
+				"location": "London, England",
+				"description": "From Shakespeare's First Folio to Wendy Cope's emails, the literature and drama collections at the British Library are unparalleled.",
+				"url": "http://t.co/cA27E2XbDR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cA27E2XbDR",
+								"expanded_url": "http://www.bl.uk",
+								"display_url": "bl.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 468,
+				"friends_count": 330,
+				"listed_count": 16,
+				"created_at": "Tue Mar 31 15:32:05 +0000 2015",
+				"favourites_count": 271,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 488,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/590893705424416769/80qVr09p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/590893705424416769/80qVr09p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3130729767/1429714637",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 05 20:20:34 +0000 2017",
+		"id": 860590060747366400,
+		"id_str": "860590060747366400",
+		"text": "looks amazing https://t.co/zKmnXqXX9p",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zKmnXqXX9p",
+					"expanded_url": "https://twitter.com/PlayableCity/status/860427097000390657",
+					"display_url": "twitter.com/PlayableCity/s…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 679,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2557,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 860427097000390700,
+		"quoted_status_id_str": "860427097000390657",
+		"quoted_status": {
+			"created_at": "Fri May 05 09:33:00 +0000 2017",
+			"id": 860427097000390700,
+			"id_str": "860427097000390657",
+			"text": "Fantastic Opportunity to learn from the brilliant international #PlayableCity network https://t.co/fVLKvfX0eG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PlayableCity",
+						"indices": [
+							64,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fVLKvfX0eG",
+						"expanded_url": "http://www.watershed.co.uk/whatson/opportunities/2017-06-05/creative-producers-international",
+						"display_url": "watershed.co.uk/whatson/opport…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 740260237,
+				"id_str": "740260237",
+				"name": "Playable City",
+				"screen_name": "PlayableCity",
+				"location": "Bristol, UK",
+				"description": "Putting people and play at the heart of the future city. https://t.co/IWq74WB5IY",
+				"url": "https://t.co/IWq74WB5IY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IWq74WB5IY",
+								"expanded_url": "http://www.playablecity.com",
+								"display_url": "playablecity.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IWq74WB5IY",
+								"expanded_url": "http://www.playablecity.com",
+								"display_url": "playablecity.com",
+								"indices": [
+									57,
+									80
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3779,
+				"friends_count": 697,
+				"listed_count": 132,
+				"created_at": "Mon Aug 06 09:45:35 +0000 2012",
+				"favourites_count": 702,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1514,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF685D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/692245023/318a7d9e7b4c3a87c354d1cf306f6aa6.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/692245023/318a7d9e7b4c3a87c354d1cf306f6aa6.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2708257397/64337deda207808f21b8de4311e94e24_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2708257397/64337deda207808f21b8de4311e94e24_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/740260237/1414862359",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 05 20:16:26 +0000 2017",
+		"id": 860589022783000600,
+		"id_str": "860589022783000577",
+		"text": "many interesting and useful resources to explore https://t.co/W5jlbhcScn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W5jlbhcScn",
+					"expanded_url": "https://twitter.com/IntScout/status/860558046627540992",
+					"display_url": "twitter.com/IntScout/statu…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 679,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2557,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 860558046627541000,
+		"quoted_status_id_str": "860558046627540992",
+		"quoted_status": {
+			"created_at": "Fri May 05 18:13:21 +0000 2017",
+			"id": 860558046627541000,
+			"id_str": "860558046627540992",
+			"text": "The Scout Report is here! This week's edition features Historically Black, The Neglected Books Page, Garden... https://t.co/p7wvCy9Gcm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/p7wvCy9Gcm",
+						"expanded_url": "http://fb.me/1Slg8tXvh",
+						"display_url": "fb.me/1Slg8tXvh",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39374329,
+				"id_str": "39374329",
+				"name": "Internet Scout",
+				"screen_name": "IntScout",
+				"location": "UW-Madison",
+				"description": "Internet Scout develops tools and services for finding, filtering, and presenting online information. Projects include the Scout Report, AMSER, and ATE Central.",
+				"url": "http://t.co/TH0RXH16QJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TH0RXH16QJ",
+								"expanded_url": "http://www.scout.wisc.edu",
+								"display_url": "scout.wisc.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 864,
+				"friends_count": 890,
+				"listed_count": 71,
+				"created_at": "Mon May 11 23:32:45 +0000 2009",
+				"favourites_count": 2195,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4180,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0E0D02",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/801005351/d3337f4a0488aaada2c7e54b6bce1f14.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/801005351/d3337f4a0488aaada2c7e54b6bce1f14.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/479726954405322752/whHahZXi_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/479726954405322752/whHahZXi_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39374329/1403210760",
+				"profile_link_color": "895429",
+				"profile_sidebar_border_color": "BEDFB6",
+				"profile_sidebar_fill_color": "0E0D02",
+				"profile_text_color": "39BD91",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 05 11:42:39 +0000 2017",
+		"id": 860459723111284700,
+		"id_str": "860459723111284737",
+		"text": "RT @perkinsy: \"identity framed around misery can be a self-fulfilling prophecy\" says Stan Grant highlighting indigenous success https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "perkinsy",
+					"name": "Yvonne Perkins",
+					"id": 199452278,
+					"id_str": "199452278",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 679,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2557,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 05 09:35:12 +0000 2017",
+			"id": 860427648744517600,
+			"id_str": "860427648744517633",
+			"text": "\"identity framed around misery can be a self-fulfilling prophecy\" says Stan Grant highlighting indigenous success https://t.co/IA6Ms569kj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IA6Ms569kj",
+						"expanded_url": "http://ow.ly/k7V330bsgDb",
+						"display_url": "ow.ly/k7V330bsgDb",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 199452278,
+				"id_str": "199452278",
+				"name": "Yvonne Perkins",
+				"screen_name": "perkinsy",
+				"location": "Sydney",
+				"description": "Writing about beliefs of #OzHist soldiers in #WWI using research tools from #DigitalHumanities. I share good books & history #AWW2017 #twitterstorians",
+				"url": "https://t.co/G9gMWIg4EX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G9gMWIg4EX",
+								"expanded_url": "http://www.stumblingpast.com",
+								"display_url": "stumblingpast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1165,
+				"friends_count": 558,
+				"listed_count": 105,
+				"created_at": "Wed Oct 06 22:22:18 +0000 2010",
+				"favourites_count": 275,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17887,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/484934331/xDSCN0938_Process_Twitter_Crop2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/484934331/xDSCN0938_Process_Twitter_Crop2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/644119990828855297/HD6Eu2Lb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/644119990828855297/HD6Eu2Lb_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 05 11:40:02 +0000 2017",
+		"id": 860459067415736300,
+		"id_str": "860459067415736320",
+		"text": "RT @realscientists: There are now over 60 species of peacock spider with some still unnamed, and I'm sure, more to be discovered https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realscientists",
+					"name": "realscientists",
+					"id": 1144882621,
+					"id_str": "1144882621",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 679,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2557,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 05 11:29:52 +0000 2017",
+			"id": 860456507522957300,
+			"id_str": "860456507522957312",
+			"text": "There are now over 60 species of peacock spider with some still unnamed, and I'm sure, more to be discovered https://t.co/3j7zwzwNPn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 860456393840615400,
+						"id_str": "860456393840615424",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C_D0iAOVYAAoGkS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_D0iAOVYAAoGkS.jpg",
+						"url": "https://t.co/3j7zwzwNPn",
+						"display_url": "pic.twitter.com/3j7zwzwNPn",
+						"expanded_url": "https://twitter.com/realscientists/status/860456507522957312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1157,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 678,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 860456393840615400,
+						"id_str": "860456393840615424",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C_D0iAOVYAAoGkS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_D0iAOVYAAoGkS.jpg",
+						"url": "https://t.co/3j7zwzwNPn",
+						"display_url": "pic.twitter.com/3j7zwzwNPn",
+						"expanded_url": "https://twitter.com/realscientists/status/860456507522957312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1157,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 678,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1144882621,
+				"id_str": "1144882621",
+				"name": "realscientists",
+				"screen_name": "realscientists",
+				"location": "Everywhere",
+				"description": "Real science from real scientists, writers, communicators, artists & clinicians. This week: Lizzy Lowe | @LizyLowe",
+				"url": "https://t.co/FqOQaEew44",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FqOQaEew44",
+								"expanded_url": "http://realscientists.org",
+								"display_url": "realscientists.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49851,
+				"friends_count": 2280,
+				"listed_count": 1760,
+				"created_at": "Sun Feb 03 11:03:27 +0000 2013",
+				"favourites_count": 52332,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 139426,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/784950315/9005dd5e49ee1418833f32dc8eccf204.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/784950315/9005dd5e49ee1418833f32dc8eccf204.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/858596156070166528/82JmTugc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/858596156070166528/82JmTugc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144882621/1486887416",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 135,
+			"favorite_count": 224,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 05 11:39:09 +0000 2017",
+		"id": 860458844303933400,
+		"id_str": "860458844303933441",
+		"text": "RT @bbcdoctorwho: Delia Derbyshire, the woman who made the #DoctorWho theme song a \"howling masterpiece\" was born #OTD in 1937!\nhttps://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DoctorWho",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"text": "OTD",
+					"indices": [
+						114,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bbcdoctorwho",
+					"name": "Doctor Who Official",
+					"id": 237670274,
+					"id_str": "237670274",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 679,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2557,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 05 08:08:52 +0000 2017",
+			"id": 860405925529743400,
+			"id_str": "860405925529743361",
+			"text": "Delia Derbyshire, the woman who made the #DoctorWho theme song a \"howling masterpiece\" was born #OTD in 1937!… https://t.co/Bkqs6jzlZS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DoctorWho",
+						"indices": [
+							41,
+							51
+						]
+					},
+					{
+						"text": "OTD",
+						"indices": [
+							96,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Bkqs6jzlZS",
+						"expanded_url": "https://twitter.com/i/web/status/860405925529743361",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 237670274,
+				"id_str": "237670274",
+				"name": "Doctor Who Official",
+				"screen_name": "bbcdoctorwho",
+				"location": "",
+				"description": "The official @BBC Twitter feed for Doctor Who. Mentions and RTs do not constitute endorsement. https://t.co/5GikvvN2C6",
+				"url": "https://t.co/Vg7P5HKwqQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Vg7P5HKwqQ",
+								"expanded_url": "http://www.bbc.co.uk/doctorwho",
+								"display_url": "bbc.co.uk/doctorwho",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5GikvvN2C6",
+								"expanded_url": "https://Instagram.com/bbcdoctorwho",
+								"display_url": "Instagram.com/bbcdoctorwho",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1605422,
+				"friends_count": 0,
+				"listed_count": 7139,
+				"created_at": "Thu Jan 13 10:45:49 +0000 2011",
+				"favourites_count": 27,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10071,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "2C283F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000174443769/rJc8zJlg.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000174443769/rJc8zJlg.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816324843243274241/EQr4oejx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816324843243274241/EQr4oejx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/237670274/1489500289",
+				"profile_link_color": "727278",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "00304C",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 662,
+			"favorite_count": 1445,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 662,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 05 08:27:21 +0000 2017",
+		"id": 860410574785527800,
+		"id_str": "860410574785527808",
+		"text": "RT @BLMedieval: Lurking in the margins, Yoda lookalikes are https://t.co/fUFQDF4qD2 https://t.co/x1bej5jMsS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLMedieval",
+					"name": "Medieval Manuscripts",
+					"id": 468249929,
+					"id_str": "468249929",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fUFQDF4qD2",
+					"expanded_url": "http://blogs.bl.uk/digitisedmanuscripts/2017/05/ready-are-you-more-medieval-yodas.html",
+					"display_url": "blogs.bl.uk/digitisedmanus…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 860210679596204000,
+					"id_str": "860210679596204032",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/C_AVDjVUQAAapHb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_AVDjVUQAAapHb.jpg",
+					"url": "https://t.co/x1bej5jMsS",
+					"display_url": "pic.twitter.com/x1bej5jMsS",
+					"expanded_url": "https://twitter.com/BLMedieval/status/860210712773365761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1086,
+							"h": 780,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 488,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1086,
+							"h": 780,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860210712773365800,
+					"source_status_id_str": "860210712773365761",
+					"source_user_id": 468249929,
+					"source_user_id_str": "468249929"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 860210679596204000,
+					"id_str": "860210679596204032",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/C_AVDjVUQAAapHb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_AVDjVUQAAapHb.jpg",
+					"url": "https://t.co/x1bej5jMsS",
+					"display_url": "pic.twitter.com/x1bej5jMsS",
+					"expanded_url": "https://twitter.com/BLMedieval/status/860210712773365761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1086,
+							"h": 780,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 488,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1086,
+							"h": 780,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860210712773365800,
+					"source_status_id_str": "860210712773365761",
+					"source_user_id": 468249929,
+					"source_user_id_str": "468249929"
+				},
+				{
+					"id": 860210691948429300,
+					"id_str": "860210691948429312",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/C_AVERWUQAA8XKd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_AVERWUQAA8XKd.jpg",
+					"url": "https://t.co/x1bej5jMsS",
+					"display_url": "pic.twitter.com/x1bej5jMsS",
+					"expanded_url": "https://twitter.com/BLMedieval/status/860210712773365761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 760,
+							"h": 790,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 760,
+							"h": 790,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860210712773365800,
+					"source_status_id_str": "860210712773365761",
+					"source_user_id": 468249929,
+					"source_user_id_str": "468249929"
+				},
+				{
+					"id": 860210704652972000,
+					"id_str": "860210704652972032",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/C_AVFArUMAAuPlz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_AVFArUMAAuPlz.jpg",
+					"url": "https://t.co/x1bej5jMsS",
+					"display_url": "pic.twitter.com/x1bej5jMsS",
+					"expanded_url": "https://twitter.com/BLMedieval/status/860210712773365761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 882,
+							"h": 465,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 882,
+							"h": 465,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 860210712773365800,
+					"source_status_id_str": "860210712773365761",
+					"source_user_id": 468249929,
+					"source_user_id_str": "468249929"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 679,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2557,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31516,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 04 19:13:10 +0000 2017",
+			"id": 860210712773365800,
+			"id_str": "860210712773365761",
+			"text": "Lurking in the margins, Yoda lookalikes are https://t.co/fUFQDF4qD2 https://t.co/x1bej5jMsS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fUFQDF4qD2",
+						"expanded_url": "http://blogs.bl.uk/digitisedmanuscripts/2017/05/ready-are-you-more-medieval-yodas.html",
+						"display_url": "blogs.bl.uk/digitisedmanus…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 860210679596204000,
+						"id_str": "860210679596204032",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/C_AVDjVUQAAapHb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_AVDjVUQAAapHb.jpg",
+						"url": "https://t.co/x1bej5jMsS",
+						"display_url": "pic.twitter.com/x1bej5jMsS",
+						"expanded_url": "https://twitter.com/BLMedieval/status/860210712773365761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1086,
+								"h": 780,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 488,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1086,
+								"h": 780,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 860210679596204000,
+						"id_str": "860210679596204032",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/C_AVDjVUQAAapHb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_AVDjVUQAAapHb.jpg",
+						"url": "https://t.co/x1bej5jMsS",
+						"display_url": "pic.twitter.com/x1bej5jMsS",
+						"expanded_url": "https://twitter.com/BLMedieval/status/860210712773365761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1086,
+								"h": 780,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 488,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1086,
+								"h": 780,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 860210691948429300,
+						"id_str": "860210691948429312",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/C_AVERWUQAA8XKd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_AVERWUQAA8XKd.jpg",
+						"url": "https://t.co/x1bej5jMsS",
+						"display_url": "pic.twitter.com/x1bej5jMsS",
+						"expanded_url": "https://twitter.com/BLMedieval/status/860210712773365761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 760,
+								"h": 790,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 760,
+								"h": 790,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 654,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 860210704652972000,
+						"id_str": "860210704652972032",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/C_AVFArUMAAuPlz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_AVFArUMAAuPlz.jpg",
+						"url": "https://t.co/x1bej5jMsS",
+						"display_url": "pic.twitter.com/x1bej5jMsS",
+						"expanded_url": "https://twitter.com/BLMedieval/status/860210712773365761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 882,
+								"h": 465,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 359,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 882,
+								"h": 465,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://twittimer.com\" rel=\"nofollow\">Twittimer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 468249929,
+				"id_str": "468249929",
+				"name": "Medieval Manuscripts",
+				"screen_name": "BLMedieval",
+				"location": "British Library, London",
+				"description": "Tweeting about the British Library's marvellous medieval manuscripts",
+				"url": "https://t.co/VdtEpj4OJh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VdtEpj4OJh",
+								"expanded_url": "http://britishlibrary.typepad.co.uk/digitisedmanuscripts/",
+								"display_url": "britishlibrary.typepad.co.uk/digitisedmanus…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51163,
+				"friends_count": 198,
+				"listed_count": 1525,
+				"created_at": "Thu Jan 19 10:18:17 +0000 2012",
+				"favourites_count": 1941,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13236,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/404443014/K90058-24_19_D_iii_f._3_for_Twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/404443014/K90058-24_19_D_iii_f._3_for_Twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1766064061/E070014_for_Twitter_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1766064061/E070014_for_Twitter_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/468249929/1398941850",
+				"profile_link_color": "CF002A",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 109,
+			"favorite_count": 185,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 04 20:33:52 +0000 2017",
 		"id": 860231022973079600,
 		"id_str": "860231022973079552",
