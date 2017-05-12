@@ -1,6 +1,783 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 11 11:38:49 +0000 2017",
+		"id": 862633087645040600,
+		"id_str": "862633087645040640",
+		"text": "RT @abcnews: Mark Colvin remembered as 'a bit of a genius' by friends and colleagues https://t.co/x0jHPLG8U0 https://t.co/wySEg1QJRS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x0jHPLG8U0",
+					"expanded_url": "http://ab.co/2q5cE5C",
+					"display_url": "ab.co/2q5cE5C",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 862606383589408800,
+					"id_str": "862606383589408769",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/C_iauD8U0AAWsVu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_iauD8U0AAWsVu.jpg",
+					"url": "https://t.co/wySEg1QJRS",
+					"display_url": "pic.twitter.com/wySEg1QJRS",
+					"expanded_url": "https://twitter.com/abcnews/status/862610180701278208/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 467,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 467,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 862610180701278200,
+					"source_status_id_str": "862610180701278208",
+					"source_user_id": 2768501,
+					"source_user_id_str": "2768501"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 862606383589408800,
+					"id_str": "862606383589408769",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/C_iauD8U0AAWsVu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_iauD8U0AAWsVu.jpg",
+					"url": "https://t.co/wySEg1QJRS",
+					"display_url": "pic.twitter.com/wySEg1QJRS",
+					"expanded_url": "https://twitter.com/abcnews/status/862610180701278208/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 467,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 467,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 862610180701278200,
+					"source_status_id_str": "862610180701278208",
+					"source_user_id": 2768501,
+					"source_user_id_str": "2768501",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 159000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/862606383589408769/pl/gKhHcAZjIPqkgnrA.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/862606383589408769/vid/320x180/qeNEWJqiLPbk4jqB.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/862606383589408769/vid/1280x720/ZYbCiy_eohPU1KDI.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/862606383589408769/vid/640x360/SU3HI69xq1mbnXrX.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Peers pay tribute to Mark Colvin",
+						"description": "Mark Colvin towered above ABC news and current affairs for the best part of 40 years. Here some of his friends and colleagues remember a generous, funny and highly intelligent man.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://www.abc.net.au/news/2017-05-11/mark-colvin-abc-news-obituary/8513962"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 2768501,
+							"id_str": "2768501",
+							"name": "ABC News",
+							"screen_name": "abcnews",
+							"location": "Australia",
+							"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+							"url": "http://t.co/knlFvfwxkf",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/knlFvfwxkf",
+											"expanded_url": "http://www.abc.net.au/news",
+											"display_url": "abc.net.au/news",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1328965,
+							"friends_count": 1222,
+							"listed_count": 10859,
+							"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+							"favourites_count": 2859,
+							"utc_offset": 36000,
+							"time_zone": "Sydney",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 264110,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/851166911245107200/4xsqBmY5_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/851166911245107200/4xsqBmY5_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1491773924",
+							"profile_link_color": "0000FF",
+							"profile_sidebar_border_color": "CCCCCC",
+							"profile_sidebar_fill_color": "C8C8C8",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 679,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2575,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31537,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 11 10:07:48 +0000 2017",
+			"id": 862610180701278200,
+			"id_str": "862610180701278208",
+			"text": "Mark Colvin remembered as 'a bit of a genius' by friends and colleagues https://t.co/x0jHPLG8U0 https://t.co/wySEg1QJRS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/x0jHPLG8U0",
+						"expanded_url": "http://ab.co/2q5cE5C",
+						"display_url": "ab.co/2q5cE5C",
+						"indices": [
+							72,
+							95
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 862606383589408800,
+						"id_str": "862606383589408769",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C_iauD8U0AAWsVu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_iauD8U0AAWsVu.jpg",
+						"url": "https://t.co/wySEg1QJRS",
+						"display_url": "pic.twitter.com/wySEg1QJRS",
+						"expanded_url": "https://twitter.com/abcnews/status/862610180701278208/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 700,
+								"h": 467,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 467,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862606383589408800,
+						"id_str": "862606383589408769",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/C_iauD8U0AAWsVu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_iauD8U0AAWsVu.jpg",
+						"url": "https://t.co/wySEg1QJRS",
+						"display_url": "pic.twitter.com/wySEg1QJRS",
+						"expanded_url": "https://twitter.com/abcnews/status/862610180701278208/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 700,
+								"h": 467,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 467,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 159000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/862606383589408769/pl/gKhHcAZjIPqkgnrA.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/862606383589408769/vid/320x180/qeNEWJqiLPbk4jqB.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/862606383589408769/vid/1280x720/ZYbCiy_eohPU1KDI.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/862606383589408769/vid/640x360/SU3HI69xq1mbnXrX.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Peers pay tribute to Mark Colvin",
+							"description": "Mark Colvin towered above ABC news and current affairs for the best part of 40 years. Here some of his friends and colleagues remember a generous, funny and highly intelligent man.",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "http://www.abc.net.au/news/2017-05-11/mark-colvin-abc-news-obituary/8513962"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2768501,
+				"id_str": "2768501",
+				"name": "ABC News",
+				"screen_name": "abcnews",
+				"location": "Australia",
+				"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+				"url": "http://t.co/knlFvfwxkf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/knlFvfwxkf",
+								"expanded_url": "http://www.abc.net.au/news",
+								"display_url": "abc.net.au/news",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1328965,
+				"friends_count": 1222,
+				"listed_count": 10859,
+				"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+				"favourites_count": 2859,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 264110,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851166911245107200/4xsqBmY5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851166911245107200/4xsqBmY5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1491773924",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "C8C8C8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 124,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 11 11:34:08 +0000 2017",
+		"id": 862631909251100700,
+		"id_str": "862631909251100672",
+		"text": "RT @Wendy_Bacon: #MarkColvin @Colvinius journalistic skill was marked by an ability to ask just the right question in a calm &amp; polite manne…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MarkColvin",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wendy_Bacon",
+					"name": "Wendy Bacon",
+					"id": 18564887,
+					"id_str": "18564887",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Colvinius",
+					"name": "Mark Colvin",
+					"id": 21749564,
+					"id_str": "21749564",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2370,
+			"friends_count": 679,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2575,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31537,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 11 07:20:13 +0000 2017",
+			"id": 862568009730105300,
+			"id_str": "862568009730105344",
+			"text": "#MarkColvin @Colvinius journalistic skill was marked by an ability to ask just the right question in a calm &amp; polite manner &amp; not to backoff",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MarkColvin",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Colvinius",
+						"name": "Mark Colvin",
+						"id": 21749564,
+						"id_str": "21749564",
+						"indices": [
+							12,
+							22
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18564887,
+				"id_str": "18564887",
+				"name": "Wendy Bacon",
+				"screen_name": "Wendy_Bacon",
+				"location": "Sydney",
+				"description": "Journalist, Academic, Activist. Past Prof Journalism UTS",
+				"url": "https://t.co/YNM4DR4DyJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YNM4DR4DyJ",
+								"expanded_url": "http://wendybacon.com",
+								"display_url": "wendybacon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18518,
+				"friends_count": 3412,
+				"listed_count": 583,
+				"created_at": "Fri Jan 02 21:41:01 +0000 2009",
+				"favourites_count": 1365,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 63939,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/582855278049136640/RcvvmSLp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/582855278049136640/RcvvmSLp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18564887/1456692581",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "0A2C3B",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0073b76548e5984f",
+				"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+				"place_type": "city",
+				"name": "Sydney",
+				"full_name": "Sydney, New South Wales",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								150.520928608,
+								-34.1183470085
+							],
+							[
+								151.343020992,
+								-34.1183470085
+							],
+							[
+								151.343020992,
+								-33.578140996
+							],
+							[
+								150.520928608,
+								-33.578140996
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 10 19:48:20 +0000 2017",
 		"id": 862393891256909800,
 		"id_str": "862393891256909824",
