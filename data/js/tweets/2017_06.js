@@ -1,6 +1,459 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 19 22:22:19 +0000 2017",
+		"id": 876928156615057400,
+		"id_str": "876928156615057408",
+		"text": "RT @UNrefugees: This World #RefugeeDay stand #WithRefugees. When we stand together, we also stand for respect and diversity for all. https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RefugeeDay",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"text": "WithRefugees",
+					"indices": [
+						45,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNrefugees",
+					"name": "Australia for UNHCR",
+					"id": 22431691,
+					"id_str": "22431691",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2391,
+			"friends_count": 671,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2611,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31889,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 19 14:00:02 +0000 2017",
+			"id": 876801751579480000,
+			"id_str": "876801751579480064",
+			"text": "This World #RefugeeDay stand #WithRefugees. When we stand together, we also stand for respect and diversity for all… https://t.co/o7Tn9oaVkm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RefugeeDay",
+						"indices": [
+							11,
+							22
+						]
+					},
+					{
+						"text": "WithRefugees",
+						"indices": [
+							29,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/o7Tn9oaVkm",
+						"expanded_url": "https://twitter.com/i/web/status/876801751579480064",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22431691,
+				"id_str": "22431691",
+				"name": "Australia for UNHCR",
+				"screen_name": "UNrefugees",
+				"location": "Sydney, Australia",
+				"description": "Australia for UNHCR is dedicated to providing life-changing humanitarian support to refugees, displaced and stateless people.",
+				"url": "http://t.co/W1m5NYiYLh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/W1m5NYiYLh",
+								"expanded_url": "http://unrefugees.org.au",
+								"display_url": "unrefugees.org.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41368,
+				"friends_count": 9152,
+				"listed_count": 513,
+				"created_at": "Mon Mar 02 01:06:53 +0000 2009",
+				"favourites_count": 1599,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11363,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "13709E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440260581203771392/mj2tFaP-.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440260581203771392/mj2tFaP-.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3062833355/86f2c2021d5d8332d39d70f4c93bfd30_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3062833355/86f2c2021d5d8332d39d70f4c93bfd30_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22431691/1497911202",
+				"profile_link_color": "0072BC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 283,
+			"favorite_count": 286,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 283,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 19 22:21:59 +0000 2017",
+		"id": 876928070183075800,
+		"id_str": "876928070183075841",
+		"text": "One person forced to flee their home every three seconds by war and violence https://t.co/iovhxWkoEb via @guardian #WithRefugees",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WithRefugees",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iovhxWkoEb",
+					"expanded_url": "https://www.theguardian.com/global-development/2017/jun/19/one-person-forced-to-flee-their-home-every-three-seconds-by-war-and-violence?CMP=share_btn_tw",
+					"display_url": "theguardian.com/global-develop…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2391,
+			"friends_count": 671,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2611,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31889,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 19 11:16:14 +0000 2017",
+		"id": 876760532153278500,
+		"id_str": "876760532153278464",
+		"text": "J.K. Rowling made a huge correction to this 'Daily Mail' headline - Mashable https://t.co/zQJ1RdaUlq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zQJ1RdaUlq",
+					"expanded_url": "https://apple.news/AIsHc7UgBTKmeEl_2cEHELA",
+					"display_url": "apple.news/AIsHc7UgBTKmeE…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2391,
+			"friends_count": 671,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2611,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31889,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 18 10:49:59 +0000 2017",
 		"id": 876391534450548700,
 		"id_str": "876391534450548736",
