@@ -1,6 +1,3239 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 26 22:28:55 +0000 2017",
+		"id": 879466530005598200,
+		"id_str": "879466530005598208",
+		"text": "I like the idea of walker as an  insurgent https://t.co/GCibZPf9jV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GCibZPf9jV",
+					"expanded_url": "https://twitter.com/ConversationEDU/status/876629862664085504",
+					"display_url": "twitter.com/ConversationED…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 876629862664085500,
+		"quoted_status_id_str": "876629862664085504",
+		"quoted_status": {
+			"created_at": "Mon Jun 19 02:37:00 +0000 2017",
+			"id": 876629862664085500,
+			"id_str": "876629862664085504",
+			"text": "Psychology + geography = #psychogeography\n\nAnd it's a useful critique beyond mere urban re-enchantment.\n\nhttps://t.co/FexdaAQ79H",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "psychogeography",
+						"indices": [
+							25,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FexdaAQ79H",
+						"expanded_url": "https://theconversation.com/psychogeography-a-way-to-delve-into-the-soul-of-a-city-78032",
+						"display_url": "theconversation.com/psychogeograph…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 224495471,
+				"id_str": "224495471",
+				"name": "The Conversation",
+				"screen_name": "ConversationEDU",
+				"location": "Australia",
+				"description": "Independent news + analysis from the sharpest academic minds. Monthly audience: 4.8m users onsite + 35m through creative commons republication.",
+				"url": "http://t.co/VYvls5mJi2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VYvls5mJi2",
+								"expanded_url": "http://www.theconversation.com",
+								"display_url": "theconversation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 126364,
+				"friends_count": 5020,
+				"listed_count": 2674,
+				"created_at": "Thu Dec 09 04:36:36 +0000 2010",
+				"favourites_count": 3691,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 51311,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E5E5E5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169580278/722ans15.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169580278/722ans15.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2132690691/twitter_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2132690691/twitter_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/224495471/1495516072",
+				"profile_link_color": "D8362A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 22:00:06 +0000 2017",
+		"id": 879459280985796600,
+		"id_str": "879459280985796608",
+		"text": "Looking forward to this https://t.co/mfJJSKH2z2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mfJJSKH2z2",
+					"expanded_url": "https://twitter.com/readwatchplay/status/879433017709735936",
+					"display_url": "twitter.com/readwatchplay/…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 879433017709736000,
+		"quoted_status_id_str": "879433017709735936",
+		"quoted_status": {
+			"created_at": "Mon Jun 26 20:15:45 +0000 2017",
+			"id": 879433017709736000,
+			"id_str": "879433017709735936",
+			"text": "join the #epicread discussion today #rwpchat https://t.co/YU862Y1Qn0 https://t.co/cErsIwY9rv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "epicread",
+						"indices": [
+							9,
+							18
+						]
+					},
+					{
+						"text": "rwpchat",
+						"indices": [
+							36,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YU862Y1Qn0",
+						"expanded_url": "https://readwatchplay.wordpress.com/2017/06/27/join-the-epicread-discussion-today-rwpchat/",
+						"display_url": "readwatchplay.wordpress.com/2017/06/27/joi…",
+						"indices": [
+							45,
+							68
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 879433014324846600,
+						"id_str": "879433014324846593",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DDRfqsaVYAE7_dt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDRfqsaVYAE7_dt.jpg",
+						"url": "https://t.co/cErsIwY9rv",
+						"display_url": "pic.twitter.com/cErsIwY9rv",
+						"expanded_url": "https://twitter.com/readwatchplay/status/879433017709735936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 780,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 780,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 663,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 879433014324846600,
+						"id_str": "879433014324846593",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DDRfqsaVYAE7_dt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDRfqsaVYAE7_dt.jpg",
+						"url": "https://t.co/cErsIwY9rv",
+						"display_url": "pic.twitter.com/cErsIwY9rv",
+						"expanded_url": "https://twitter.com/readwatchplay/status/879433017709735936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 780,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 780,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 663,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595268016,
+				"id_str": "595268016",
+				"name": "Read Watch Play",
+				"screen_name": "readwatchplay",
+				"location": "",
+				"description": "Global twitter chat by NSW Readers' Advisory group & partners. What do you enjoying reading, watching and playing. Connect with librarians. Use #rwpchat",
+				"url": "http://t.co/M9meupecSc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/M9meupecSc",
+								"expanded_url": "http://readwatchplay.wordpress.com/",
+								"display_url": "readwatchplay.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 723,
+				"friends_count": 769,
+				"listed_count": 41,
+				"created_at": "Thu May 31 05:01:08 +0000 2012",
+				"favourites_count": 260,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4750,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F0F0F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497158503362879488/JpUm927d.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497158503362879488/JpUm927d.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595268016/1407365292",
+				"profile_link_color": "C93318",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "1C1C1C",
+				"profile_text_color": "627E91",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 20:00:44 +0000 2017",
+		"id": 879429240638144500,
+		"id_str": "879429240638144512",
+		"text": "Glasgow libraries opened up services to blind users https://t.co/xzmK1pVWFt via #johnvincent city wide approach",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "johnvincent",
+					"indices": [
+						80,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xzmK1pVWFt",
+					"expanded_url": "http://www.eveningtimes.co.uk/news/15357979.Glasgow_libraries_opened_up_services_to_blind_users/?ref=twtrec",
+					"display_url": "eveningtimes.co.uk/news/15357979.…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 19:59:46 +0000 2017",
+		"id": 879428995435028500,
+		"id_str": "879428995435028480",
+		"text": "Recording of the Week: Himba women’s songs from Namibia - Sound and vision blog https://t.co/mPXpcCkDPs via @soundarchive interesting series",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soundarchive",
+					"name": "Sound Archive",
+					"id": 22028935,
+					"id_str": "22028935",
+					"indices": [
+						108,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mPXpcCkDPs",
+					"expanded_url": "https://shar.es/1BCf82",
+					"display_url": "shar.es/1BCf82",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 19:52:55 +0000 2017",
+		"id": 879427274021392400,
+		"id_str": "879427274021392384",
+		"text": "RT @austmus: Bad day? This Marbled Velvet Gecko should help. 📷 by AM’s @jodirowley while on a Bush Blitz  of the NT --&gt; https://t.co/pRZ4fm…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "austmus",
+					"name": "Australian Museum",
+					"id": 20570871,
+					"id_str": "20570871",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "jodirowley",
+					"name": "Jodi Rowley",
+					"id": 216979622,
+					"id_str": "216979622",
+					"indices": [
+						71,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 06:24:50 +0000 2017",
+			"id": 879223913749782500,
+			"id_str": "879223913749782528",
+			"text": "Bad day? This Marbled Velvet Gecko should help. 📷 by AM’s @jodirowley while on a Bush Blitz  of the NT --&gt;… https://t.co/AVTQXmeZH3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jodirowley",
+						"name": "Jodi Rowley",
+						"id": 216979622,
+						"id_str": "216979622",
+						"indices": [
+							58,
+							69
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AVTQXmeZH3",
+						"expanded_url": "https://twitter.com/i/web/status/879223913749782528",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20570871,
+				"id_str": "20570871",
+				"name": "Australian Museum",
+				"screen_name": "austmus",
+				"location": "Sydney",
+				"description": "The museum of Australia and the Pacific, showcasing an outstanding natural history and cultural collection.",
+				"url": "http://t.co/WoNtgqXUvy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WoNtgqXUvy",
+								"expanded_url": "http://www.australianmuseum.net.au/",
+								"display_url": "australianmuseum.net.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18342,
+				"friends_count": 2568,
+				"listed_count": 679,
+				"created_at": "Wed Feb 11 04:23:20 +0000 2009",
+				"favourites_count": 8237,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19701,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493358587666649092/G08Ns4B0.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493358587666649092/G08Ns4B0.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/640700319165345793/pjqm5C40_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/640700319165345793/pjqm5C40_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20570871/1478838075",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 19:51:24 +0000 2017",
+		"id": 879426892436185100,
+		"id_str": "879426892436185092",
+		"text": "Eight recycled design projects driven by Beirut's trash crisis https://t.co/nLh3XuGTF7 via @dezeen very interesting",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dezeen",
+					"name": "Dezeen",
+					"id": 26012202,
+					"id_str": "26012202",
+					"indices": [
+						91,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nLh3XuGTF7",
+					"expanded_url": "https://www.dezeen.com/2017/06/26/roundup-eight-best-recycled-design-projects-driven-by-trash-crisis-beirut-design-week/",
+					"display_url": "dezeen.com/2017/06/26/rou…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 19:50:18 +0000 2017",
+		"id": 879426613212880900,
+		"id_str": "879426613212880896",
+		"text": "Study strengthens case for heart benefit in chocolate https://t.co/wmWhCIaVBT via @harvard (moderate amounts of chocolate...)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Harvard",
+					"name": "Harvard University",
+					"id": 39585367,
+					"id_str": "39585367",
+					"indices": [
+						82,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wmWhCIaVBT",
+					"expanded_url": "http://news.harvard.edu/gazette/story/2017/06/study-strengthens-case-for-heart-benefit-in-chocolate/",
+					"display_url": "news.harvard.edu/gazette/story/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 19:03:37 +0000 2017",
+		"id": 879414865613410300,
+		"id_str": "879414865613410305",
+		"text": "RT @Tuphlos: First up, if you're looking for review of Indie fiction, did you know that @ForewordReviews magazine is FREE for librarians? F…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tuphlos",
+					"name": "⚾️Robin Bradford ⚾️",
+					"id": 20703602,
+					"id_str": "20703602",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "ForewordReviews",
+					"name": "Foreword Reviews",
+					"id": 18914404,
+					"id_str": "18914404",
+					"indices": [
+						88,
+						104
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 15:35:42 +0000 2017",
+			"id": 879362544204267500,
+			"id_str": "879362544204267520",
+			"text": "First up, if you're looking for review of Indie fiction, did you know that @ForewordReviews magazine is FREE for librarians? F-R-E-E.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ForewordReviews",
+						"name": "Foreword Reviews",
+						"id": 18914404,
+						"id_str": "18914404",
+						"indices": [
+							75,
+							91
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20703602,
+				"id_str": "20703602",
+				"name": "⚾️Robin Bradford ⚾️",
+				"screen_name": "Tuphlos",
+				"location": "Midwest start/PNW currently",
+				"description": "librarian. lawyer. book blerd, baseball addict, #WhiteSox fan, BA,MA,MS,JD. 2016 RWA Cathie Linz Librarian of the Year!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4407,
+				"friends_count": 2219,
+				"listed_count": 369,
+				"created_at": "Thu Feb 12 18:54:05 +0000 2009",
+				"favourites_count": 5599,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 236563,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846699903212400641/Jp5v-o0V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846699903212400641/Jp5v-o0V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20703602/1404306997",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 19:03:20 +0000 2017",
+		"id": 879414794368856000,
+		"id_str": "879414794368856064",
+		"text": "RT @RAforAll: Here are the books I did for #ReadNRave https://t.co/u2Lhzvei5f",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ReadNRave",
+					"indices": [
+						43,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAforAll",
+					"name": "Becky Spratford",
+					"id": 2474412986,
+					"id_str": "2474412986",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u2Lhzvei5f",
+					"expanded_url": "http://raforall.blogspot.com/2017/06/ra-for-all-roadshow-hits-ala-read-n.html",
+					"display_url": "raforall.blogspot.com/2017/06/ra-for…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 16:44:05 +0000 2017",
+			"id": 879379750577467400,
+			"id_str": "879379750577467393",
+			"text": "Here are the books I did for #ReadNRave https://t.co/u2Lhzvei5f",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ReadNRave",
+						"indices": [
+							29,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/u2Lhzvei5f",
+						"expanded_url": "http://raforall.blogspot.com/2017/06/ra-for-all-roadshow-hits-ala-read-n.html",
+						"display_url": "raforall.blogspot.com/2017/06/ra-for…",
+						"indices": [
+							40,
+							63
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library, always. #Horror maven, sometimes. Jersey Girl, forever! @AmherstCollege alum. @ARRTreads @HorrorWriters",
+				"url": "http://t.co/UqsI4i2bun",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UqsI4i2bun",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1354,
+				"friends_count": 1276,
+				"listed_count": 93,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 6379,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13641,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 11:00:30 +0000 2017",
+		"id": 879293286959030300,
+		"id_str": "879293286959030273",
+		"text": "RT @DrRimmer: The Potted History of Harry Potter #HarryPotter20 @KidsBloomsbury https://t.co/vIq9buBr22 https://t.co/hQAmTKca7r",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HarryPotter20",
+					"indices": [
+						49,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrRimmer",
+					"name": "Matthew Rimmer",
+					"id": 51002583,
+					"id_str": "51002583",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "KidsBloomsbury",
+					"name": "Bloomsbury Kids UK",
+					"id": 507454698,
+					"id_str": "507454698",
+					"indices": [
+						64,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vIq9buBr22",
+					"expanded_url": "http://bit.ly/2sThuSc",
+					"display_url": "bit.ly/2sThuSc",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 877974488205455400,
+					"id_str": "877974488205455360",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DC8xJTNXcAAZrpk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC8xJTNXcAAZrpk.jpg",
+					"url": "https://t.co/hQAmTKca7r",
+					"display_url": "pic.twitter.com/hQAmTKca7r",
+					"expanded_url": "https://twitter.com/KidsBloomsbury/status/877974493125373952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 877974493125374000,
+					"source_status_id_str": "877974493125373952",
+					"source_user_id": 507454698,
+					"source_user_id_str": "507454698"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 877974488205455400,
+					"id_str": "877974488205455360",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DC8xJTNXcAAZrpk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DC8xJTNXcAAZrpk.jpg",
+					"url": "https://t.co/hQAmTKca7r",
+					"display_url": "pic.twitter.com/hQAmTKca7r",
+					"expanded_url": "https://twitter.com/KidsBloomsbury/status/877974493125373952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 877974493125374000,
+					"source_status_id_str": "877974493125373952",
+					"source_user_id": 507454698,
+					"source_user_id_str": "507454698"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 07:08:43 +0000 2017",
+			"id": 879234956668551200,
+			"id_str": "879234956668551168",
+			"text": "The Potted History of Harry Potter #HarryPotter20 @KidsBloomsbury https://t.co/vIq9buBr22 https://t.co/hQAmTKca7r",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HarryPotter20",
+						"indices": [
+							35,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KidsBloomsbury",
+						"name": "Bloomsbury Kids UK",
+						"id": 507454698,
+						"id_str": "507454698",
+						"indices": [
+							50,
+							65
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vIq9buBr22",
+						"expanded_url": "http://bit.ly/2sThuSc",
+						"display_url": "bit.ly/2sThuSc",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 877974488205455400,
+						"id_str": "877974488205455360",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DC8xJTNXcAAZrpk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC8xJTNXcAAZrpk.jpg",
+						"url": "https://t.co/hQAmTKca7r",
+						"display_url": "pic.twitter.com/hQAmTKca7r",
+						"expanded_url": "https://twitter.com/KidsBloomsbury/status/877974493125373952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 877974493125374000,
+						"source_status_id_str": "877974493125373952",
+						"source_user_id": 507454698,
+						"source_user_id_str": "507454698"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 877974488205455400,
+						"id_str": "877974488205455360",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DC8xJTNXcAAZrpk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DC8xJTNXcAAZrpk.jpg",
+						"url": "https://t.co/hQAmTKca7r",
+						"display_url": "pic.twitter.com/hQAmTKca7r",
+						"expanded_url": "https://twitter.com/KidsBloomsbury/status/877974493125373952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 877974493125374000,
+						"source_status_id_str": "877974493125373952",
+						"source_user_id": 507454698,
+						"source_user_id_str": "507454698"
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 51002583,
+				"id_str": "51002583",
+				"name": "Matthew Rimmer",
+				"screen_name": "DrRimmer",
+				"location": "Brisbane, Queensland",
+				"description": "Professor of IP & Innovation Law @QUTLaw @QUT_IP @QUTDMRC @HealthLawQUT #Copyright #Patent #TradeMark #3DPrinting #Access2meds #Plainpacks #Climate #TPP #RCEP",
+				"url": "https://t.co/u1eQok30Es",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u1eQok30Es",
+								"expanded_url": "http://works.bepress.com/matthew_rimmer/",
+								"display_url": "works.bepress.com/matthew_rimmer/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13109,
+				"friends_count": 14444,
+				"listed_count": 1776,
+				"created_at": "Fri Jun 26 10:17:54 +0000 2009",
+				"favourites_count": 48461,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 233488,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/629122208053379072/Enhe7GXU.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/629122208053379072/Enhe7GXU.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810799939605315584/byTvnTTr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810799939605315584/byTvnTTr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/51002583/1438828893",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 10:57:46 +0000 2017",
+		"id": 879292599139356700,
+		"id_str": "879292599139356672",
+		"text": "Lovely (and the Lewis chess pieces are brilliant) https://t.co/sHZol4E83b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sHZol4E83b",
+					"expanded_url": "https://twitter.com/britishmuseum/status/879289990311817216",
+					"display_url": "twitter.com/britishmuseum/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 879289990311817200,
+		"quoted_status_id_str": "879289990311817216",
+		"quoted_status": {
+			"created_at": "Mon Jun 26 10:47:24 +0000 2017",
+			"id": 879289990311817200,
+			"id_str": "879289990311817216",
+			"text": "The chess set in the first Harry Potter film was inspired by the Lewis Chessmen! #HarryPotter20\nRead more about the… https://t.co/VubvTmg6YW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HarryPotter20",
+						"indices": [
+							81,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VubvTmg6YW",
+						"expanded_url": "https://twitter.com/i/web/status/879289990311817216",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19066345,
+				"id_str": "19066345",
+				"name": "British Museum",
+				"screen_name": "britishmuseum",
+				"location": "London",
+				"description": "A museum of the world, for the world #Hokusai #Scythians https://t.co/62S4qPJXt8 House rules: https://t.co/Cuh8WM0b4U",
+				"url": "https://t.co/quzDfj8AMK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/quzDfj8AMK",
+								"expanded_url": "http://www.britishmuseum.org",
+								"display_url": "britishmuseum.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/62S4qPJXt8",
+								"expanded_url": "http://ow.ly/oQtb304exAf",
+								"display_url": "ow.ly/oQtb304exAf",
+								"indices": [
+									57,
+									80
+								]
+							},
+							{
+								"url": "https://t.co/Cuh8WM0b4U",
+								"expanded_url": "http://ow.ly/Y9zg304exDj",
+								"display_url": "ow.ly/Y9zg304exDj",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1386453,
+				"friends_count": 50853,
+				"listed_count": 13003,
+				"created_at": "Fri Jan 16 13:37:33 +0000 2009",
+				"favourites_count": 17457,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16281,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/480985997929246721/4J5Q-7Ru.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/480985997929246721/4J5Q-7Ru.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/552394937585500160/BN7fW_Et_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/552394937585500160/BN7fW_Et_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19066345/1497863176",
+				"profile_link_color": "4C90BD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EDF8FC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 324,
+			"favorite_count": 642,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 10:22:47 +0000 2017",
+		"id": 879283793642668000,
+		"id_str": "879283793642668032",
+		"text": "Harry Potter and the Dissertations of Phenomenal Curiosity - nice post by @bodleianlibs  https://t.co/eDZiX9cvZ4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bodleianlibs",
+					"name": "Bodleian Libraries",
+					"id": 135441822,
+					"id_str": "135441822",
+					"indices": [
+						74,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eDZiX9cvZ4",
+					"expanded_url": "http://bodleianlibs.tumblr.com/post/162272455760/harry-potter-and-the-dissertations-of-phenomenal",
+					"display_url": "bodleianlibs.tumblr.com/post/162272455…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 08:25:22 +0000 2017",
+		"id": 879254244687102000,
+		"id_str": "879254244687101952",
+		"text": "@kylastephan I agree",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kylastephan",
+					"name": "Kyla Stephan",
+					"id": 1183987591,
+					"id_str": "1183987591",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 879253649746088000,
+		"in_reply_to_status_id_str": "879253649746087936",
+		"in_reply_to_user_id": 1183987591,
+		"in_reply_to_user_id_str": "1183987591",
+		"in_reply_to_screen_name": "kylastephan",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 08:12:38 +0000 2017",
+		"id": 879251038892470300,
+		"id_str": "879251038892470273",
+		"text": "Want to feel old? It’s been 20 years since the first ‘Harry Potter’ was published  https://t.co/J3gFcOoHvJ https://t.co/xqlDX22U3h",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J3gFcOoHvJ",
+					"expanded_url": "https://www.washingtonpost.com/entertainment/books/want-to-feel-old-its-been-20-years-since-the-first-harry-potter-was-published/2017/06/21/4d3fc9e6-51e2-11e7-b064-828ba60fbb98_story.html",
+					"display_url": "washingtonpost.com/entertainment/…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 879251037026111500,
+					"id_str": "879251037026111492",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DDO6KOJV0AQNdxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDO6KOJV0AQNdxg.jpg",
+					"url": "https://t.co/xqlDX22U3h",
+					"display_url": "pic.twitter.com/xqlDX22U3h",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/879251038892470273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 879251037026111500,
+					"id_str": "879251037026111492",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DDO6KOJV0AQNdxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDO6KOJV0AQNdxg.jpg",
+					"url": "https://t.co/xqlDX22U3h",
+					"display_url": "pic.twitter.com/xqlDX22U3h",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/879251038892470273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 08:08:08 +0000 2017",
+		"id": 879249909920088000,
+		"id_str": "879249909920088068",
+		"text": "The race to save Florida’s devastated coral reefs from global warming via @washingtonpost  https://t.co/kEWoyq11d5 https://t.co/0iPuddD7zX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonpost",
+					"name": "Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						74,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kEWoyq11d5",
+					"expanded_url": "https://www.washingtonpost.com/classic-apps/the-race-to-save-floridas-devastated-coral-reefs-from-global-warming/2017/06/25/a1bd899a-3fa9-11e7-adba-394ee67a7582_story.html",
+					"display_url": "washingtonpost.com/classic-apps/t…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 879249907701252100,
+					"id_str": "879249907701252099",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DDO5IfFUAAMP2qJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDO5IfFUAAMP2qJ.jpg",
+					"url": "https://t.co/0iPuddD7zX",
+					"display_url": "pic.twitter.com/0iPuddD7zX",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/879249909920088068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 879249907701252100,
+					"id_str": "879249907701252099",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DDO5IfFUAAMP2qJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDO5IfFUAAMP2qJ.jpg",
+					"url": "https://t.co/0iPuddD7zX",
+					"display_url": "pic.twitter.com/0iPuddD7zX",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/879249909920088068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 08:03:09 +0000 2017",
+		"id": 879248654178992100,
+		"id_str": "879248654178992128",
+		"text": "How the 'Harry Potter effect' changed the face of children's publishing - via @abcnews https://t.co/9q7JuKmIMK https://t.co/Svop16nrk4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						78,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9q7JuKmIMK",
+					"expanded_url": "http://ab.co/2u6a1iH",
+					"display_url": "ab.co/2u6a1iH",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 879248652300042200,
+					"id_str": "879248652300042242",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DDO3_aWVwAINi1p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDO3_aWVwAINi1p.jpg",
+					"url": "https://t.co/Svop16nrk4",
+					"display_url": "pic.twitter.com/Svop16nrk4",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/879248654178992128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 879248652300042200,
+					"id_str": "879248652300042242",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/DDO3_aWVwAINi1p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDO3_aWVwAINi1p.jpg",
+					"url": "https://t.co/Svop16nrk4",
+					"display_url": "pic.twitter.com/Svop16nrk4",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/879248654178992128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 07:59:07 +0000 2017",
+		"id": 879247639627219000,
+		"id_str": "879247639627218944",
+		"text": "Great local studies resource too https://t.co/ab2H66AkGo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ab2H66AkGo",
+					"expanded_url": "https://twitter.com/wragge/status/879241219540254721",
+					"display_url": "twitter.com/wragge/status/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 672,
+			"listed_count": 240,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2623,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 879241219540254700,
+		"quoted_status_id_str": "879241219540254721",
+		"quoted_status": {
+			"created_at": "Mon Jun 26 07:33:36 +0000 2017",
+			"id": 879241219540254700,
+			"id_str": "879241219540254721",
+			"text": "Interested in drinking habits of NSW 1920s-70s? Tooth records at Noel Butlin Archive chart beer consumption by pub.… https://t.co/MgZA1Yrwz0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MgZA1Yrwz0",
+						"expanded_url": "https://twitter.com/i/web/status/879241219540254721",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18129652,
+				"id_str": "18129652",
+				"name": "Tim Sherratt",
+				"screen_name": "wragge",
+				"location": "Canberra, Australia",
+				"description": "Historian and hacker. Associate Professor of Digital Heritage, University of Canberra.",
+				"url": "https://t.co/Khu6oJWrGb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Khu6oJWrGb",
+								"expanded_url": "http://timsherratt.org",
+								"display_url": "timsherratt.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5691,
+				"friends_count": 3622,
+				"listed_count": 397,
+				"created_at": "Mon Dec 15 03:39:55 +0000 2008",
+				"favourites_count": 1565,
+				"utc_offset": 36000,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26679,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/18010030/69463r.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/18010030/69463r.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817212580531798017/APWWFIMI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817212580531798017/APWWFIMI_normal.jpg",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 25 20:19:27 +0000 2017",
 		"id": 879071560488767500,
 		"id_str": "879071560488767488",
