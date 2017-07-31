@@ -1,6 +1,754 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 30 23:47:46 +0000 2017",
+		"id": 891807561263054800,
+		"id_str": "891807561263054848",
+		"text": "#cookingforcopyright - what I made today https://t.co/pPzgDnz1bp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cookingforcopyright",
+					"indices": [
+						0,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pPzgDnz1bp",
+					"expanded_url": "http://ift.tt/2v9FaWA",
+					"display_url": "ift.tt/2v9FaWA",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 673,
+			"listed_count": 237,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2676,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 20:36:31 +0000 2017",
+		"id": 891759430689148900,
+		"id_str": "891759430689148928",
+		"text": "RT @GameGodde55: #Google Employees Weighed In On What Makes a #Manager Highly Effective @MSchneiderTwts https://t.co/NjMlmmaftx via @Inc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Google",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"text": "Manager",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GameGodde55",
+					"name": "Kara Behnke",
+					"id": 22236779,
+					"id_str": "22236779",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "MSchneiderTwts",
+					"name": "Mike Schneider",
+					"id": 2659510819,
+					"id_str": "2659510819",
+					"indices": [
+						88,
+						103
+					]
+				},
+				{
+					"screen_name": "Inc",
+					"name": "Inc.",
+					"id": 16896485,
+					"id_str": "16896485",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NjMlmmaftx",
+					"expanded_url": "https://www.inc.com/michael-schneider/google-did-an-internal-study-that-will-forever-change-how-they-hire-and-promote-.html",
+					"display_url": "inc.com/michael-schnei…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 673,
+			"listed_count": 237,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2676,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 30 18:02:50 +0000 2017",
+			"id": 891720755150438400,
+			"id_str": "891720755150438400",
+			"text": "#Google Employees Weighed In On What Makes a #Manager Highly Effective @MSchneiderTwts https://t.co/NjMlmmaftx via @Inc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Google",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "Manager",
+						"indices": [
+							45,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MSchneiderTwts",
+						"name": "Mike Schneider",
+						"id": 2659510819,
+						"id_str": "2659510819",
+						"indices": [
+							71,
+							86
+						]
+					},
+					{
+						"screen_name": "Inc",
+						"name": "Inc.",
+						"id": 16896485,
+						"id_str": "16896485",
+						"indices": [
+							115,
+							119
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NjMlmmaftx",
+						"expanded_url": "https://www.inc.com/michael-schneider/google-did-an-internal-study-that-will-forever-change-how-they-hire-and-promote-.html",
+						"display_url": "inc.com/michael-schnei…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22236779,
+				"id_str": "22236779",
+				"name": "Kara Behnke",
+				"screen_name": "GameGodde55",
+				"location": "Mountain View, CA",
+				"description": "My PhD research investigated #gamification in #CS education. I currently work as a Teaching & Learning Specialist for @Coursera.",
+				"url": "https://t.co/Y43tLrtQUP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y43tLrtQUP",
+								"expanded_url": "http://karabehnke.com",
+								"display_url": "karabehnke.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 640,
+				"friends_count": 1019,
+				"listed_count": 59,
+				"created_at": "Sat Feb 28 06:59:27 +0000 2009",
+				"favourites_count": 115,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 861,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/707361852657827842/e-SpK2lu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/707361852657827842/e-SpK2lu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22236779/1358971866",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 20:35:41 +0000 2017",
+		"id": 891759224606216200,
+		"id_str": "891759224606216192",
+		"text": "RT @davelucas: Yo TEAM! Google Spent 2 Years Studying 180 Teams. The Most Successful Shared These 5 Traits @MSchneiderTwts https://t.co/NZM…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davelucas",
+					"name": "Dave Lucas",
+					"id": 5966412,
+					"id_str": "5966412",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "MSchneiderTwts",
+					"name": "Mike Schneider",
+					"id": 2659510819,
+					"id_str": "2659510819",
+					"indices": [
+						107,
+						122
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 673,
+			"listed_count": 237,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2676,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 30 11:51:22 +0000 2017",
+			"id": 891627273039818800,
+			"id_str": "891627273039818752",
+			"text": "Yo TEAM! Google Spent 2 Years Studying 180 Teams. The Most Successful Shared These 5 Traits @MSchneiderTwts https://t.co/NZMUW6DZfo via @Inc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MSchneiderTwts",
+						"name": "Mike Schneider",
+						"id": 2659510819,
+						"id_str": "2659510819",
+						"indices": [
+							92,
+							107
+						]
+					},
+					{
+						"screen_name": "Inc",
+						"name": "Inc.",
+						"id": 16896485,
+						"id_str": "16896485",
+						"indices": [
+							136,
+							140
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NZMUW6DZfo",
+						"expanded_url": "https://www.inc.com/michael-schneider/google-thought-they-knew-how-to-create-the-perfect.html",
+						"display_url": "inc.com/michael-schnei…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5966412,
+				"id_str": "5966412",
+				"name": "Dave Lucas",
+				"screen_name": "davelucas",
+				"location": "WeChat ID: dave-lucas",
+				"description": "🎙Broadcast Journalist @WAMCRadio  Dave Lucas ♡'s music, style and pop culture!  https://t.co/letCWIDbus  snapchat/instagram/telegram: davelucas29 大卫卢卡斯",
+				"url": "https://t.co/vzTdCY9vqW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vzTdCY9vqW",
+								"expanded_url": "http://wamc.org/people/dave-lucas",
+								"display_url": "wamc.org/people/dave-lu…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/letCWIDbus",
+								"expanded_url": "http://dave-lucas.blogspot.com",
+								"display_url": "dave-lucas.blogspot.com",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 32098,
+				"friends_count": 416,
+				"listed_count": 180,
+				"created_at": "Fri May 11 16:13:49 +0000 2007",
+				"favourites_count": 6899,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 60225,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "82EB76",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/499646972274286592/rnz8XF5s.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/499646972274286592/rnz8XF5s.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/755743595165052929/WzNItdKz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/755743595165052929/WzNItdKz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5966412/1463664266",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "1D7641",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 20:29:36 +0000 2017",
+		"id": 891757691487506400,
+		"id_str": "891757691487506432",
+		"text": "Comics in the Classroom: Beyond Maus and Persepolis https://t.co/QYeSAazfcI via @amlibraries - some collection ideas",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amlibraries",
+					"name": "American Libraries",
+					"id": 18955776,
+					"id_str": "18955776",
+					"indices": [
+						80,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QYeSAazfcI",
+					"expanded_url": "https://americanlibrariesmagazine.org/blogs/the-scoop/comics-classroom-san-diego-comic-con/",
+					"display_url": "americanlibrariesmagazine.org/blogs/the-scoo…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2402,
+			"friends_count": 673,
+			"listed_count": 237,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2676,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 30 05:49:29 +0000 2017",
 		"id": 891536203144507400,
 		"id_str": "891536203144507392",
