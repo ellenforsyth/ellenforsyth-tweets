@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 19 20:49:22 +0000 2017",
+		"id": 899010423009067000,
+		"id_str": "899010423009067008",
+		"text": "RT @SaimaMir: The beautiful textiles and embroidery of India. https://t.co/5nct3ehtCA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaimaMir",
+					"name": "Saima Mir",
+					"id": 29430392,
+					"id_str": "29430392",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 897893412506095600,
+					"id_str": "897893412506095620",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DHX1TSqW0AQJK9y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHX1TSqW0AQJK9y.jpg",
+					"url": "https://t.co/5nct3ehtCA",
+					"display_url": "pic.twitter.com/5nct3ehtCA",
+					"expanded_url": "https://twitter.com/SaimaMir/status/897893423704821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 590,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 590,
+							"h": 718,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 897893423704821800,
+					"source_status_id_str": "897893423704821760",
+					"source_user_id": 29430392,
+					"source_user_id_str": "29430392"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897893412506095600,
+					"id_str": "897893412506095620",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DHX1TSqW0AQJK9y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHX1TSqW0AQJK9y.jpg",
+					"url": "https://t.co/5nct3ehtCA",
+					"display_url": "pic.twitter.com/5nct3ehtCA",
+					"expanded_url": "https://twitter.com/SaimaMir/status/897893423704821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 590,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 590,
+							"h": 718,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 897893423704821800,
+					"source_status_id_str": "897893423704821760",
+					"source_user_id": 29430392,
+					"source_user_id_str": "29430392"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2412,
+			"friends_count": 675,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2704,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32319,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 18:50:48 +0000 2017",
+			"id": 897893423704821800,
+			"id_str": "897893423704821760",
+			"text": "The beautiful textiles and embroidery of India. https://t.co/5nct3ehtCA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 897893412506095600,
+						"id_str": "897893412506095620",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DHX1TSqW0AQJK9y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHX1TSqW0AQJK9y.jpg",
+						"url": "https://t.co/5nct3ehtCA",
+						"display_url": "pic.twitter.com/5nct3ehtCA",
+						"expanded_url": "https://twitter.com/SaimaMir/status/897893423704821760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 590,
+								"h": 718,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 590,
+								"h": 718,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 559,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897893412506095600,
+						"id_str": "897893412506095620",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/DHX1TSqW0AQJK9y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHX1TSqW0AQJK9y.jpg",
+						"url": "https://t.co/5nct3ehtCA",
+						"display_url": "pic.twitter.com/5nct3ehtCA",
+						"expanded_url": "https://twitter.com/SaimaMir/status/897893423704821760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 590,
+								"h": 718,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 590,
+								"h": 718,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 559,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29430392,
+				"id_str": "29430392",
+				"name": "Saima Mir",
+				"screen_name": "SaimaMir",
+				"location": "England",
+				"description": "Former BBC journalist, Recipient of the CBA World View Award, Novelist represented by Elise Dillsworth Agency. https://t.co/9NOKYH2FHL",
+				"url": "http://t.co/LUeD9I8tTr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LUeD9I8tTr",
+								"expanded_url": "http://www.whosthedaadi.com",
+								"display_url": "whosthedaadi.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/9NOKYH2FHL",
+								"expanded_url": "https://www.youtube.com/watch?v=dQWh0U9GSmM",
+								"display_url": "youtube.com/watch?v=dQWh0U…",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6325,
+				"friends_count": 1391,
+				"listed_count": 121,
+				"created_at": "Tue Apr 07 11:40:48 +0000 2009",
+				"favourites_count": 2856,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24655,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859433145921396736/GJQT0NbM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859433145921396736/GJQT0NbM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29430392/1433188940",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "591C59",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 127,
+			"favorite_count": 213,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 19 20:49:15 +0000 2017",
+		"id": 899010393011503100,
+		"id_str": "899010393011503104",
+		"text": "RT @SaimaMir: This is very lovely. It's a map of Pakistan showing the embroidery techniques of its regions. https://t.co/rJvAxzNkhk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaimaMir",
+					"name": "Saima Mir",
+					"id": 29430392,
+					"id_str": "29430392",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 897813681446297600,
+					"id_str": "897813681446297601",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DHWsyVUXoAEBG2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHWsyVUXoAEBG2i.jpg",
+					"url": "https://t.co/rJvAxzNkhk",
+					"display_url": "pic.twitter.com/rJvAxzNkhk",
+					"expanded_url": "https://twitter.com/SaimaMir/status/897813698915467266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 897813698915467300,
+					"source_status_id_str": "897813698915467266",
+					"source_user_id": 29430392,
+					"source_user_id_str": "29430392"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 897813681446297600,
+					"id_str": "897813681446297601",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DHWsyVUXoAEBG2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHWsyVUXoAEBG2i.jpg",
+					"url": "https://t.co/rJvAxzNkhk",
+					"display_url": "pic.twitter.com/rJvAxzNkhk",
+					"expanded_url": "https://twitter.com/SaimaMir/status/897813698915467266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 897813698915467300,
+					"source_status_id_str": "897813698915467266",
+					"source_user_id": 29430392,
+					"source_user_id_str": "29430392"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2412,
+			"friends_count": 675,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2704,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32319,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 13:34:01 +0000 2017",
+			"id": 897813698915467300,
+			"id_str": "897813698915467266",
+			"text": "This is very lovely. It's a map of Pakistan showing the embroidery techniques of its regions. https://t.co/rJvAxzNkhk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 897813681446297600,
+						"id_str": "897813681446297601",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DHWsyVUXoAEBG2i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHWsyVUXoAEBG2i.jpg",
+						"url": "https://t.co/rJvAxzNkhk",
+						"display_url": "pic.twitter.com/rJvAxzNkhk",
+						"expanded_url": "https://twitter.com/SaimaMir/status/897813698915467266/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 897813681446297600,
+						"id_str": "897813681446297601",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DHWsyVUXoAEBG2i.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHWsyVUXoAEBG2i.jpg",
+						"url": "https://t.co/rJvAxzNkhk",
+						"display_url": "pic.twitter.com/rJvAxzNkhk",
+						"expanded_url": "https://twitter.com/SaimaMir/status/897813698915467266/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29430392,
+				"id_str": "29430392",
+				"name": "Saima Mir",
+				"screen_name": "SaimaMir",
+				"location": "England",
+				"description": "Former BBC journalist, Recipient of the CBA World View Award, Novelist represented by Elise Dillsworth Agency. https://t.co/9NOKYH2FHL",
+				"url": "http://t.co/LUeD9I8tTr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LUeD9I8tTr",
+								"expanded_url": "http://www.whosthedaadi.com",
+								"display_url": "whosthedaadi.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/9NOKYH2FHL",
+								"expanded_url": "https://www.youtube.com/watch?v=dQWh0U9GSmM",
+								"display_url": "youtube.com/watch?v=dQWh0U…",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6325,
+				"friends_count": 1391,
+				"listed_count": 121,
+				"created_at": "Tue Apr 07 11:40:48 +0000 2009",
+				"favourites_count": 2856,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24655,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859433145921396736/GJQT0NbM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859433145921396736/GJQT0NbM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29430392/1433188940",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "591C59",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22051,
+			"favorite_count": 60959,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22051,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 18 21:37:58 +0000 2017",
 		"id": 898660266526646300,
 		"id_str": "898660266526646272",
