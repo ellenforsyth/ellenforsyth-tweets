@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 05 23:29:00 +0000 2017",
+		"id": 905211191647133700,
+		"id_str": "905211191647133696",
+		"text": "These are lovely https://t.co/CrawXyH1e0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CrawXyH1e0",
+					"expanded_url": "https://twitter.com/asciencenerd/status/905209392303243264",
+					"display_url": "twitter.com/asciencenerd/s…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2414,
+			"friends_count": 674,
+			"listed_count": 236,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2734,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32485,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 905209392303243300,
+		"quoted_status_id_str": "905209392303243264",
+		"quoted_status": {
+			"created_at": "Tue Sep 05 23:21:51 +0000 2017",
+			"id": 905209392303243300,
+			"id_str": "905209392303243264",
+			"text": "'People still get excited when they see them': Meet the newest peacock spiders https://t.co/V8ySAiNDZz via @ABCNews",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "abcnews",
+						"name": "ABC News",
+						"id": 2768501,
+						"id_str": "2768501",
+						"indices": [
+							107,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/V8ySAiNDZz",
+						"expanded_url": "http://www.abc.net.au/news/2017-09-06/peacock-spiders-scientist-finds-five-more-species-in-wa/8870456",
+						"display_url": "abc.net.au/news/2017-09-0…",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 589163403,
+				"id_str": "589163403",
+				"name": "Sarah Bruce",
+				"screen_name": "asciencenerd",
+				"location": "-27.5, 153.0",
+				"description": "interests: attachment parenting, normal infant/child nutrition, science, maths, education. Views are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 311,
+				"friends_count": 979,
+				"listed_count": 36,
+				"created_at": "Thu May 24 12:26:48 +0000 2012",
+				"favourites_count": 1279,
+				"utc_offset": 36000,
+				"time_zone": "Brisbane",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3779,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/642369491/xfaaea2884a8845612965c2d6a713fad.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/642369491/xfaaea2884a8845612965c2d6a713fad.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2474349269/DSC01002_copy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2474349269/DSC01002_copy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/589163403/1425428493",
+				"profile_link_color": "8C94A2",
+				"profile_sidebar_border_color": "8CB2BD",
+				"profile_sidebar_fill_color": "424C55",
+				"profile_text_color": "8CB2BD",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 04 19:41:29 +0000 2017",
 		"id": 904791544372224000,
 		"id_str": "904791544372224002",
