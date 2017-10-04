@@ -1,6 +1,1154 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 03 19:09:57 +0000 2017",
+		"id": 915292860554997800,
+		"id_str": "915292860554997761",
+		"text": "RT @RAforAll: The post where I “Becky-splain” to @nytimesbooks How to Actually Professionally Review Genre Fiction https://t.co/n41fcaplq3…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAforAll",
+					"name": "Becky Spratford",
+					"id": 2474412986,
+					"id_str": "2474412986",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "nytimesbooks",
+					"name": "New York Times Books",
+					"id": 1434251,
+					"id_str": "1434251",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n41fcaplq3",
+					"expanded_url": "http://raforall.blogspot.com/2017/10/the-nytbr-response-to-romance-column.html",
+					"display_url": "raforall.blogspot.com/2017/10/the-ny…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2430,
+			"friends_count": 680,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2813,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 03 17:50:56 +0000 2017",
+			"id": 915272973363421200,
+			"id_str": "915272973363421186",
+			"text": "The post where I “Becky-splain” to @nytimesbooks How to Actually Professionally Review Genre Fiction… https://t.co/Q2bBJvA7Ln",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimesbooks",
+						"name": "New York Times Books",
+						"id": 1434251,
+						"id_str": "1434251",
+						"indices": [
+							35,
+							48
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Q2bBJvA7Ln",
+						"expanded_url": "https://twitter.com/i/web/status/915272973363421186",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library, always. #Horror maven, sometimes. Jersey Girl, forever! @AmherstCollege alum. @ARRTreads @HorrorWriters",
+				"url": "http://t.co/UqsI4i2bun",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UqsI4i2bun",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1479,
+				"friends_count": 1324,
+				"listed_count": 99,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 7601,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15668,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 03 19:07:46 +0000 2017",
+		"id": 915292308362297300,
+		"id_str": "915292308362297344",
+		"text": "RT @BLMedieval: Amazing work by Clarck Drieshen and @amyjeffs0, who've pieced together this prayerbook from pages at the BL and BM https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLMedieval",
+					"name": "Medieval Manuscripts",
+					"id": 468249929,
+					"id_str": "468249929",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "amyjeffs0",
+					"name": "Amy Jeffs",
+					"id": 1851004154,
+					"id_str": "1851004154",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2430,
+			"friends_count": 680,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2813,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 03 11:17:51 +0000 2017",
+			"id": 915174049726246900,
+			"id_str": "915174049726246912",
+			"text": "Amazing work by Clarck Drieshen and @amyjeffs0, who've pieced together this prayerbook from pages at the BL and BM… https://t.co/EnyBaHmbq9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "amyjeffs0",
+						"name": "Amy Jeffs",
+						"id": 1851004154,
+						"id_str": "1851004154",
+						"indices": [
+							36,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EnyBaHmbq9",
+						"expanded_url": "https://twitter.com/i/web/status/915174049726246912",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 468249929,
+				"id_str": "468249929",
+				"name": "Medieval Manuscripts",
+				"screen_name": "BLMedieval",
+				"location": "British Library, London",
+				"description": "Tweeting about the British Library's marvellous medieval manuscripts",
+				"url": "https://t.co/oAxMoR30QJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oAxMoR30QJ",
+								"expanded_url": "http://blogs.bl.uk/digitisedmanuscripts/",
+								"display_url": "blogs.bl.uk/digitisedmanus…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56588,
+				"friends_count": 200,
+				"listed_count": 1619,
+				"created_at": "Thu Jan 19 10:18:17 +0000 2012",
+				"favourites_count": 2193,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14148,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/404443014/K90058-24_19_D_iii_f._3_for_Twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/404443014/K90058-24_19_D_iii_f._3_for_Twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1766064061/E070014_for_Twitter_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1766064061/E070014_for_Twitter_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/468249929/1398941850",
+				"profile_link_color": "CF002A",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 03 19:04:48 +0000 2017",
+		"id": 915291562883477500,
+		"id_str": "915291562883477504",
+		"text": "RT @Europeanaeu: #CulturalHeritage professionals tell us why GLAM collections should be opened up https://t.co/6Wv30UB1is #openculture http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CulturalHeritage",
+					"indices": [
+						17,
+						34
+					]
+				},
+				{
+					"text": "openculture",
+					"indices": [
+						122,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Europeanaeu",
+					"name": "Europeana",
+					"id": 79299249,
+					"id_str": "79299249",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6Wv30UB1is",
+					"expanded_url": "http://bit.ly/2khCKBa",
+					"display_url": "bit.ly/2khCKBa",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2430,
+			"friends_count": 680,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2813,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 03 08:12:34 +0000 2017",
+			"id": 915127423469015000,
+			"id_str": "915127423469015040",
+			"text": "#CulturalHeritage professionals tell us why GLAM collections should be opened up https://t.co/6Wv30UB1is… https://t.co/i0I4kVZPiw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CulturalHeritage",
+						"indices": [
+							0,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6Wv30UB1is",
+						"expanded_url": "http://bit.ly/2khCKBa",
+						"display_url": "bit.ly/2khCKBa",
+						"indices": [
+							81,
+							104
+						]
+					},
+					{
+						"url": "https://t.co/i0I4kVZPiw",
+						"expanded_url": "https://twitter.com/i/web/status/915127423469015040",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79299249,
+				"id_str": "79299249",
+				"name": "Europeana",
+				"screen_name": "Europeanaeu",
+				"location": "Europe",
+				"description": "Europe's culture - collected for you. Explore millions of items from a range of Europe’s leading galleries, libraries, archives and museums.",
+				"url": "http://t.co/KUfdwVQgxz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KUfdwVQgxz",
+								"expanded_url": "http://europeana.eu",
+								"display_url": "europeana.eu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29620,
+				"friends_count": 1465,
+				"listed_count": 1869,
+				"created_at": "Fri Oct 02 22:05:55 +0000 2009",
+				"favourites_count": 10066,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11718,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFAFA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/85480551/twitter_bgv3.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/85480551/twitter_bgv3.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/689803529800806402/jPMe0-wn_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/689803529800806402/jPMe0-wn_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79299249/1504519832",
+				"profile_link_color": "56A7CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 03 07:51:47 +0000 2017",
+		"id": 915122192534331400,
+		"id_str": "915122192534331392",
+		"text": "RT @4corners: Digging into Adani is now up on @ABCiview  https://t.co/UT6mIneeyY #4Corners https://t.co/CCbxN4hRCk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "4Corners",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "4corners",
+					"name": "4corners",
+					"id": 16212771,
+					"id_str": "16212771",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "ABCiview",
+					"name": "ABC iview",
+					"id": 23375582,
+					"id_str": "23375582",
+					"indices": [
+						46,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UT6mIneeyY",
+					"expanded_url": "http://ab.co/2xNGvnj",
+					"display_url": "ab.co/2xNGvnj",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/CCbxN4hRCk",
+					"expanded_url": "https://twitter.com/neighbour_s/status/914964303991627777",
+					"display_url": "twitter.com/neighbour_s/st…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2430,
+			"friends_count": 680,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2813,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32792,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 03 01:24:33 +0000 2017",
+			"id": 915024740091289600,
+			"id_str": "915024740091289600",
+			"text": "Digging into Adani is now up on @ABCiview  https://t.co/UT6mIneeyY #4Corners https://t.co/CCbxN4hRCk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "4Corners",
+						"indices": [
+							67,
+							76
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ABCiview",
+						"name": "ABC iview",
+						"id": 23375582,
+						"id_str": "23375582",
+						"indices": [
+							32,
+							41
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UT6mIneeyY",
+						"expanded_url": "http://ab.co/2xNGvnj",
+						"display_url": "ab.co/2xNGvnj",
+						"indices": [
+							43,
+							66
+						]
+					},
+					{
+						"url": "https://t.co/CCbxN4hRCk",
+						"expanded_url": "https://twitter.com/neighbour_s/status/914964303991627777",
+						"display_url": "twitter.com/neighbour_s/st…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16212771,
+				"id_str": "16212771",
+				"name": "4corners",
+				"screen_name": "4corners",
+				"location": "Sydney, Australia",
+				"description": "Four Corners is Australia's premier current affairs program, and has been part of the national story for more than 50 years. An official @ABCaustralia account.",
+				"url": "http://t.co/9tYFLrZT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9tYFLrZT",
+								"expanded_url": "http://abc.net.au/4corners/",
+								"display_url": "abc.net.au/4corners/",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 123121,
+				"friends_count": 1134,
+				"listed_count": 1143,
+				"created_at": "Tue Sep 09 22:50:36 +0000 2008",
+				"favourites_count": 33816,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13239,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "421C08",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/420137005/4Corners-Twitter-bg_50yrs.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/420137005/4Corners-Twitter-bg_50yrs.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895150384314023937/xh2ZDiSv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895150384314023937/xh2ZDiSv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16212771/1506641080",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "F5A851",
+				"profile_sidebar_fill_color": "FFB245",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 914964303991627800,
+			"quoted_status_id_str": "914964303991627777",
+			"quoted_status": {
+				"created_at": "Mon Oct 02 21:24:23 +0000 2017",
+				"id": 914964303991627800,
+				"id_str": "914964303991627777",
+				"text": "Adani Australia: Investigation uncovers tax haven ties to British Virgin Is...\n#4Corners https://t.co/RLQAr5zS8Y https://t.co/E6aQwmPy8O",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "4Corners",
+							"indices": [
+								79,
+								88
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/RLQAr5zS8Y",
+							"expanded_url": "http://www.abc.net.au/news/2017-10-02/adanis-tax-haven-ties-to-british-virgin-islands-revealed/9007714",
+							"display_url": "abc.net.au/news/2017-10-0…",
+							"indices": [
+								89,
+								112
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 914964302112505900,
+							"id_str": "914964302112505856",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/media/DLKbL2GUQAAD1cF.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DLKbL2GUQAAD1cF.jpg",
+							"url": "https://t.co/E6aQwmPy8O",
+							"display_url": "pic.twitter.com/E6aQwmPy8O",
+							"expanded_url": "https://twitter.com/neighbour_s/status/914964303991627777/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 700,
+									"h": 467,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 454,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 700,
+									"h": 467,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 914964302112505900,
+							"id_str": "914964302112505856",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/media/DLKbL2GUQAAD1cF.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DLKbL2GUQAAD1cF.jpg",
+							"url": "https://t.co/E6aQwmPy8O",
+							"display_url": "pic.twitter.com/E6aQwmPy8O",
+							"expanded_url": "https://twitter.com/neighbour_s/status/914964303991627777/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 700,
+									"h": 467,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 454,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 700,
+									"h": 467,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1855608446,
+					"id_str": "1855608446",
+					"name": "Sally Neighbour",
+					"screen_name": "neighbour_s",
+					"location": "",
+					"description": "Executive Producer of Australia's premier public affairs TV program, ABC's 4 Corners. Nearly 60 years old and still going strong. The show that is.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 11293,
+					"friends_count": 1025,
+					"listed_count": 143,
+					"created_at": "Wed Sep 11 22:26:05 +0000 2013",
+					"favourites_count": 6812,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 4142,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/732171664620847104/kEb-vMpt_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/732171664620847104/kEb-vMpt_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1855608446/1437968182",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 77,
+				"favorite_count": 45,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 257,
+			"favorite_count": 252,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 914964303991627800,
+		"quoted_status_id_str": "914964303991627777",
+		"retweet_count": 257,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 02 22:24:16 +0000 2017",
 		"id": 914979373446455300,
 		"id_str": "914979373446455296",
@@ -659,7 +1807,7 @@ Grailbird.data.tweets_2017_10 =
 				"name": "Becky Lawton",
 				"screen_name": "bbeckyL",
 				"location": "",
-				"description": "PhD Student at @HyPIRUoL and @BLMedieval. Anglo-Saxon manuscript person interested in digital humanities/archives/heritage institutions 🙋🏻 👩🏻‍💻",
+				"description": "PhD Student at @HyPIRUoL and @BLMedieval. Anglo-Saxon manuscript person interested in digital humanities/archives/heritage institutions 🙋🏻 👩🏻💻",
 				"url": null,
 				"entities": {
 					"description": {
