@@ -1,6 +1,1379 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 12 06:34:32 +0000 2017",
+		"id": 918364242364919800,
+		"id_str": "918364242364919808",
+		"text": "'Forgotten' Indigenous digger recognised half a century on\n- via @abcnews https://t.co/sI4kjhqruC https://t.co/upVPXM9HRG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sI4kjhqruC",
+					"expanded_url": "http://www.abc.net.au/news/2017-10-12/forgotten-indigenous-digger-recognised-half-a-century-on/9040652",
+					"display_url": "abc.net.au/news/2017-10-1…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 918364240678809600,
+					"id_str": "918364240678809600",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DL6vaUQU8AA0g5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL6vaUQU8AA0g5R.jpg",
+					"url": "https://t.co/upVPXM9HRG",
+					"display_url": "pic.twitter.com/upVPXM9HRG",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/918364242364919808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 379,
+							"h": 252,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 379,
+							"h": 252,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 379,
+							"h": 252,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 918364240678809600,
+					"id_str": "918364240678809600",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DL6vaUQU8AA0g5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL6vaUQU8AA0g5R.jpg",
+					"url": "https://t.co/upVPXM9HRG",
+					"display_url": "pic.twitter.com/upVPXM9HRG",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/918364242364919808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 379,
+							"h": 252,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 379,
+							"h": 252,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 379,
+							"h": 252,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2433,
+			"friends_count": 680,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2833,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32853,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 12 06:33:42 +0000 2017",
+		"id": 918364032398123000,
+		"id_str": "918364032398123009",
+		"text": "You don't need to be a father to stand up to abusers. You need to believe w...\n- via @abcnews by @bairdjulia… https://t.co/cROcL1pxct",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"screen_name": "bairdjulia",
+					"name": "Julia Baird",
+					"id": 21128334,
+					"id_str": "21128334",
+					"indices": [
+						97,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cROcL1pxct",
+					"expanded_url": "https://twitter.com/i/web/status/918364032398123009",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2433,
+			"friends_count": 680,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2833,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32853,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 11 21:48:18 +0000 2017",
+		"id": 918231813117526000,
+		"id_str": "918231813117526017",
+		"text": "RT @RAforAll: #31DaysOfHorror Day 11 Features @BookDen and Why She Loves Horror- with a great annotated list. https://t.co/m96jfI9cNz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "31DaysOfHorror",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAforAll",
+					"name": "Becky Spratford",
+					"id": 2474412986,
+					"id_str": "2474412986",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "BookDen",
+					"name": "Jennifer",
+					"id": 242385312,
+					"id_str": "242385312",
+					"indices": [
+						46,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m96jfI9cNz",
+					"expanded_url": "http://raforallhorror.blogspot.com/2017/10/31-days-of-horror-day-11-guest-post-by.html",
+					"display_url": "raforallhorror.blogspot.com/2017/10/31-day…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2433,
+			"friends_count": 680,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2833,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32853,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 11 12:39:27 +0000 2017",
+			"id": 918093689695727600,
+			"id_str": "918093689695727617",
+			"text": "#31DaysOfHorror Day 11 Features @BookDen and Why She Loves Horror- with a great annotated list. https://t.co/m96jfI9cNz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "31DaysOfHorror",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BookDen",
+						"name": "Jennifer",
+						"id": 242385312,
+						"id_str": "242385312",
+						"indices": [
+							32,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/m96jfI9cNz",
+						"expanded_url": "http://raforallhorror.blogspot.com/2017/10/31-days-of-horror-day-11-guest-post-by.html",
+						"display_url": "raforallhorror.blogspot.com/2017/10/31-day…",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library, always. #Horror maven, sometimes. Jersey Girl, forever! @AmherstCollege alum. @ARRTreads @HorrorWriters",
+				"url": "http://t.co/UqsI4i2bun",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UqsI4i2bun",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1504,
+				"friends_count": 1337,
+				"listed_count": 101,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 7736,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15927,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 11 08:12:06 +0000 2017",
+		"id": 918026407065763800,
+		"id_str": "918026407065763842",
+		"text": "President Trump has made 1,318 false or misleading claims over 263 days via @washingtonpost  https://t.co/5GKW5Ym7I4 https://t.co/tqfIh9Nnv7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonpost",
+					"name": "Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						76,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5GKW5Ym7I4",
+					"expanded_url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/10/10/president-trump-has-made-1318-false-or-misleading-claims-over-263-days/",
+					"display_url": "washingtonpost.com/news/fact-chec…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 918026404653973500,
+					"id_str": "918026404653973506",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DL18Jq_UQAIxl6r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL18Jq_UQAIxl6r.jpg",
+					"url": "https://t.co/tqfIh9Nnv7",
+					"display_url": "pic.twitter.com/tqfIh9Nnv7",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/918026407065763842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 918026404653973500,
+					"id_str": "918026404653973506",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DL18Jq_UQAIxl6r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL18Jq_UQAIxl6r.jpg",
+					"url": "https://t.co/tqfIh9Nnv7",
+					"display_url": "pic.twitter.com/tqfIh9Nnv7",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/918026407065763842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2433,
+			"friends_count": 680,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2833,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32853,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 11 08:01:46 +0000 2017",
+		"id": 918023806714658800,
+		"id_str": "918023806714658816",
+		"text": "RT @BLMedieval: What did medieval libraries look like?\nhttps://t.co/QA8LuOqY3s #LibrariesWeek https://t.co/xW3LPUUzZp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LibrariesWeek",
+					"indices": [
+						79,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLMedieval",
+					"name": "Medieval Manuscripts",
+					"id": 468249929,
+					"id_str": "468249929",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QA8LuOqY3s",
+					"expanded_url": "http://blogs.bl.uk/digitisedmanuscripts/2017/02/medieval_shelfies.html",
+					"display_url": "blogs.bl.uk/digitisedmanus…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 918001992227733500,
+					"id_str": "918001992227733504",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DL1l8rnVwAA3dHs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL1l8rnVwAA3dHs.jpg",
+					"url": "https://t.co/xW3LPUUzZp",
+					"display_url": "pic.twitter.com/xW3LPUUzZp",
+					"expanded_url": "https://twitter.com/BLMedieval/status/918002030051983360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1204,
+							"h": 764,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 761,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 918002030051983400,
+					"source_status_id_str": "918002030051983360",
+					"source_user_id": 468249929,
+					"source_user_id_str": "468249929"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 918001992227733500,
+					"id_str": "918001992227733504",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DL1l8rnVwAA3dHs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL1l8rnVwAA3dHs.jpg",
+					"url": "https://t.co/xW3LPUUzZp",
+					"display_url": "pic.twitter.com/xW3LPUUzZp",
+					"expanded_url": "https://twitter.com/BLMedieval/status/918002030051983360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1204,
+							"h": 764,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 761,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 918002030051983400,
+					"source_status_id_str": "918002030051983360",
+					"source_user_id": 468249929,
+					"source_user_id_str": "468249929"
+				},
+				{
+					"id": 918002004160426000,
+					"id_str": "918002004160425984",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DL1l9YEUMAApoVL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL1l9YEUMAApoVL.jpg",
+					"url": "https://t.co/xW3LPUUzZp",
+					"display_url": "pic.twitter.com/xW3LPUUzZp",
+					"expanded_url": "https://twitter.com/BLMedieval/status/918002030051983360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 898,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 575,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 898,
+							"h": 759,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 918002030051983400,
+					"source_status_id_str": "918002030051983360",
+					"source_user_id": 468249929,
+					"source_user_id_str": "468249929"
+				},
+				{
+					"id": 918002016181293000,
+					"id_str": "918002016181293056",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DL1l-E2UEAA2rSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL1l-E2UEAA2rSv.jpg",
+					"url": "https://t.co/xW3LPUUzZp",
+					"display_url": "pic.twitter.com/xW3LPUUzZp",
+					"expanded_url": "https://twitter.com/BLMedieval/status/918002030051983360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 729,
+							"h": 945,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 729,
+							"h": 945,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 918002030051983400,
+					"source_status_id_str": "918002030051983360",
+					"source_user_id": 468249929,
+					"source_user_id_str": "468249929"
+				},
+				{
+					"id": 918002022950899700,
+					"id_str": "918002022950899712",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DL1l-eEUEAAnhOW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL1l-eEUEAAnhOW.jpg",
+					"url": "https://t.co/xW3LPUUzZp",
+					"display_url": "pic.twitter.com/xW3LPUUzZp",
+					"expanded_url": "https://twitter.com/BLMedieval/status/918002030051983360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 918002030051983400,
+					"source_status_id_str": "918002030051983360",
+					"source_user_id": 468249929,
+					"source_user_id_str": "468249929"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2433,
+			"friends_count": 680,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2833,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32853,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 11 06:35:14 +0000 2017",
+			"id": 918002030051983400,
+			"id_str": "918002030051983360",
+			"text": "What did medieval libraries look like?\nhttps://t.co/QA8LuOqY3s #LibrariesWeek https://t.co/xW3LPUUzZp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LibrariesWeek",
+						"indices": [
+							63,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QA8LuOqY3s",
+						"expanded_url": "http://blogs.bl.uk/digitisedmanuscripts/2017/02/medieval_shelfies.html",
+						"display_url": "blogs.bl.uk/digitisedmanus…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 918001992227733500,
+						"id_str": "918001992227733504",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DL1l8rnVwAA3dHs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DL1l8rnVwAA3dHs.jpg",
+						"url": "https://t.co/xW3LPUUzZp",
+						"display_url": "pic.twitter.com/xW3LPUUzZp",
+						"expanded_url": "https://twitter.com/BLMedieval/status/918002030051983360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1204,
+								"h": 764,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 761,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 431,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 918001992227733500,
+						"id_str": "918001992227733504",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DL1l8rnVwAA3dHs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DL1l8rnVwAA3dHs.jpg",
+						"url": "https://t.co/xW3LPUUzZp",
+						"display_url": "pic.twitter.com/xW3LPUUzZp",
+						"expanded_url": "https://twitter.com/BLMedieval/status/918002030051983360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1204,
+								"h": 764,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 761,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 431,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 918002004160426000,
+						"id_str": "918002004160425984",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DL1l9YEUMAApoVL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DL1l9YEUMAApoVL.jpg",
+						"url": "https://t.co/xW3LPUUzZp",
+						"display_url": "pic.twitter.com/xW3LPUUzZp",
+						"expanded_url": "https://twitter.com/BLMedieval/status/918002030051983360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 898,
+								"h": 759,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 575,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 898,
+								"h": 759,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 918002016181293000,
+						"id_str": "918002016181293056",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DL1l-E2UEAA2rSv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DL1l-E2UEAA2rSv.jpg",
+						"url": "https://t.co/xW3LPUUzZp",
+						"display_url": "pic.twitter.com/xW3LPUUzZp",
+						"expanded_url": "https://twitter.com/BLMedieval/status/918002030051983360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 729,
+								"h": 945,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 729,
+								"h": 945,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 918002022950899700,
+						"id_str": "918002022950899712",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DL1l-eEUEAAnhOW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DL1l-eEUEAAnhOW.jpg",
+						"url": "https://t.co/xW3LPUUzZp",
+						"display_url": "pic.twitter.com/xW3LPUUzZp",
+						"expanded_url": "https://twitter.com/BLMedieval/status/918002030051983360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://twittimer.com\" rel=\"nofollow\">Twittimer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 468249929,
+				"id_str": "468249929",
+				"name": "Medieval Manuscripts",
+				"screen_name": "BLMedieval",
+				"location": "British Library, London",
+				"description": "Tweeting about the British Library's marvellous medieval manuscripts",
+				"url": "https://t.co/oAxMoR30QJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oAxMoR30QJ",
+								"expanded_url": "http://blogs.bl.uk/digitisedmanuscripts/",
+								"display_url": "blogs.bl.uk/digitisedmanus…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56912,
+				"friends_count": 200,
+				"listed_count": 1620,
+				"created_at": "Thu Jan 19 10:18:17 +0000 2012",
+				"favourites_count": 2205,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14199,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/404443014/K90058-24_19_D_iii_f._3_for_Twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/404443014/K90058-24_19_D_iii_f._3_for_Twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1766064061/E070014_for_Twitter_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1766064061/E070014_for_Twitter_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/468249929/1398941850",
+				"profile_link_color": "CF002A",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 325,
+			"favorite_count": 514,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 325,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 11 06:26:17 +0000 2017",
 		"id": 917999779430277100,
 		"id_str": "917999779430277120",
@@ -533,7 +1906,7 @@ Grailbird.data.tweets_2017_10 =
 		"created_at": "Tue Oct 10 09:48:25 +0000 2017",
 		"id": 917688259563610100,
 		"id_str": "917688259563610112",
-		"text": "RT @abitof: Happy #AdaLovelaceDay !!!!!!!!!!!!! 😍😍😍💃💃💃👩‍💻👩‍💻👩‍💻👩‍🔬👩‍🔬👩‍🔬💯💯💯🔥🔥🔥 https://t.co/kAbNIwa9Fa",
+		"text": "RT @abitof: Happy #AdaLovelaceDay !!!!!!!!!!!!! 😍😍😍💃💃💃👩💻👩💻👩💻👩🔬👩🔬👩🔬💯💯💯🔥🔥🔥 https://t.co/kAbNIwa9Fa",
 		"truncated": false,
 		"entities": {
 			"hashtags": [
@@ -645,7 +2018,7 @@ Grailbird.data.tweets_2017_10 =
 			"created_at": "Tue Oct 10 09:46:23 +0000 2017",
 			"id": 917687747409834000,
 			"id_str": "917687747409833985",
-			"text": "Happy #AdaLovelaceDay !!!!!!!!!!!!! 😍😍😍💃💃💃👩‍💻👩‍💻👩‍💻👩‍🔬👩‍🔬👩‍🔬💯💯💯🔥🔥🔥 https://t.co/kAbNIwa9Fa",
+			"text": "Happy #AdaLovelaceDay !!!!!!!!!!!!! 😍😍😍💃💃💃👩💻👩💻👩💻👩🔬👩🔬👩🔬💯💯💯🔥🔥🔥 https://t.co/kAbNIwa9Fa",
 			"truncated": false,
 			"entities": {
 				"hashtags": [
