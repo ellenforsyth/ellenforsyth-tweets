@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 25 05:58:28 +0000 2017",
+		"id": 923066207019810800,
+		"id_str": "923066207019810817",
+		"text": "RT @NSWnet: The DPLA unveils a pilot program to test a new model for a library-owned ebook marketplace https://t.co/TNjYc61hqF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NSWnet",
+					"name": "NSW.net",
+					"id": 226344315,
+					"id_str": "226344315",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TNjYc61hqF",
+					"expanded_url": "http://www.noshelfrequired.com/digital-public-library-of-america-unveils-a-pilot-program-to-test-a-new-model-for-a-library-centered-ebook-marketplace/",
+					"display_url": "noshelfrequired.com/digital-public…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2439,
+			"friends_count": 681,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2864,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 25 01:21:07 +0000 2017",
+			"id": 922996411909554200,
+			"id_str": "922996411909554182",
+			"text": "The DPLA unveils a pilot program to test a new model for a library-owned ebook marketplace https://t.co/TNjYc61hqF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TNjYc61hqF",
+						"expanded_url": "http://www.noshelfrequired.com/digital-public-library-of-america-unveils-a-pilot-program-to-test-a-new-model-for-a-library-centered-ebook-marketplace/",
+						"display_url": "noshelfrequired.com/digital-public…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 226344315,
+				"id_str": "226344315",
+				"name": "NSW.net",
+				"screen_name": "NSWnet",
+				"location": "State Library of NSW",
+				"description": "We’re NSW.net  and we’re here to help libraries and councils with faster, easier and more cost effective access for their communities to the digital world.",
+				"url": "http://www.nswnet.net/",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://www.nswnet.net/",
+								"expanded_url": null,
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 229,
+				"friends_count": 139,
+				"listed_count": 12,
+				"created_at": "Mon Dec 13 23:15:40 +0000 2010",
+				"favourites_count": 106,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 123,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5F5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/364721303/bg_twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/364721303/bg_twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1609915704/nsw_twitter_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1609915704/nsw_twitter_normal.gif",
+				"profile_link_color": "CD3064",
+				"profile_sidebar_border_color": "F0DD09",
+				"profile_sidebar_fill_color": "CFCFCF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 24 10:58:16 +0000 2017",
+		"id": 922779269033427000,
+		"id_str": "922779269033426944",
+		"text": "Women do most of the housework and other surprising census figures via @GuardianAus and some people do no housework https://t.co/zvN1WZKVjE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuardianAus",
+					"name": "Guardian Australia",
+					"id": 1092378031,
+					"id_str": "1092378031",
+					"indices": [
+						71,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zvN1WZKVjE",
+					"expanded_url": "https://www.theguardian.com/business/grogonomics/2017/oct/24/women-do-most-of-the-housework-and-other-surprising-census-figures?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/business/grogo…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2439,
+			"friends_count": 681,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2864,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 24 10:46:22 +0000 2017",
+		"id": 922776274593923100,
+		"id_str": "922776274593923073",
+		"text": "RT @BLMedieval: #OTD, 1260, Chartres' Gothic Cathedral was dedicated. This Psalter was made there a century earlier https://t.co/AmO5ybrIWI…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OTD",
+					"indices": [
+						16,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLMedieval",
+					"name": "Medieval Manuscripts",
+					"id": 468249929,
+					"id_str": "468249929",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AmO5ybrIWI",
+					"expanded_url": "http://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_4804/1",
+					"display_url": "bl.uk/manuscripts/Fu…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2439,
+			"friends_count": 681,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2864,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 24 09:57:37 +0000 2017",
+			"id": 922764004166111200,
+			"id_str": "922764004166111232",
+			"text": "#OTD, 1260, Chartres' Gothic Cathedral was dedicated. This Psalter was made there a century earlier… https://t.co/gaehgheUsx",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OTD",
+						"indices": [
+							0,
+							4
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gaehgheUsx",
+						"expanded_url": "https://twitter.com/i/web/status/922764004166111232",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 468249929,
+				"id_str": "468249929",
+				"name": "Medieval Manuscripts",
+				"screen_name": "BLMedieval",
+				"location": "British Library, London",
+				"description": "Tweeting about the British Library's marvellous medieval manuscripts",
+				"url": "https://t.co/oAxMoR30QJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oAxMoR30QJ",
+								"expanded_url": "http://blogs.bl.uk/digitisedmanuscripts/",
+								"display_url": "blogs.bl.uk/digitisedmanus…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57384,
+				"friends_count": 199,
+				"listed_count": 1636,
+				"created_at": "Thu Jan 19 10:18:17 +0000 2012",
+				"favourites_count": 2286,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14310,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/404443014/K90058-24_19_D_iii_f._3_for_Twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/404443014/K90058-24_19_D_iii_f._3_for_Twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1766064061/E070014_for_Twitter_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1766064061/E070014_for_Twitter_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/468249929/1398941850",
+				"profile_link_color": "CF002A",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64,
+			"favorite_count": 139,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 24 00:07:36 +0000 2017",
 		"id": 922615521186529300,
 		"id_str": "922615521186529280",
