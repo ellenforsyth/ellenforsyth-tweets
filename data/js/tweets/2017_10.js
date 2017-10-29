@@ -1,6 +1,576 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 28 17:26:10 +0000 2017",
+		"id": 924326437049458700,
+		"id_str": "924326437049458688",
+		"text": "RT @BirdlifeOz: Day 6 of the #AussieBirdCount &amp;we've cracked our target, over 1.5m birds! One day to go, keep counting Australia! https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AussieBirdCount",
+					"indices": [
+						29,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BirdlifeOz",
+					"name": "BirdLife Australia",
+					"id": 145136771,
+					"id_str": "145136771",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2439,
+			"friends_count": 681,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2881,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33024,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 28 04:39:30 +0000 2017",
+			"id": 924133498113343500,
+			"id_str": "924133498113343488",
+			"text": "Day 6 of the #AussieBirdCount &amp;we've cracked our target, over 1.5m birds! One day to go, keep counting Australia!… https://t.co/AVtqNpyvRh",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AussieBirdCount",
+						"indices": [
+							13,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AVtqNpyvRh",
+						"expanded_url": "https://twitter.com/i/web/status/924133498113343488",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 145136771,
+				"id_str": "145136771",
+				"name": "BirdLife Australia",
+				"screen_name": "BirdlifeOz",
+				"location": "Australia",
+				"description": "BirdLife Australia is dedicated to creating a bright future for Australia's birds",
+				"url": "http://t.co/1FnHo8lZVd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1FnHo8lZVd",
+								"expanded_url": "http://birdlife.org.au",
+								"display_url": "birdlife.org.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10609,
+				"friends_count": 794,
+				"listed_count": 281,
+				"created_at": "Tue May 18 06:05:23 +0000 2010",
+				"favourites_count": 6787,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6152,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1580EB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/777224383/a7deac83e04ee175a7d340a7917425ca.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/777224383/a7deac83e04ee175a7d340a7917425ca.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/145136771/1505267430",
+				"profile_link_color": "003A80",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B6B8B1",
+				"profile_text_color": "0F0E0E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Oct 28 17:18:46 +0000 2017",
+		"id": 924324574652538900,
+		"id_str": "924324574652538890",
+		"text": "RT @segdeha: T. H. I. S. https://t.co/R8vKct4Mi9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "segdeha",
+					"name": "Andrew Hedges 🏡",
+					"id": 14824675,
+					"id_str": "14824675",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R8vKct4Mi9",
+					"expanded_url": "https://twitter.com/StockCats/status/923528882074083329",
+					"display_url": "twitter.com/StockCats/stat…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2439,
+			"friends_count": 681,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2881,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33024,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 28 06:59:35 +0000 2017",
+			"id": 924168751154577400,
+			"id_str": "924168751154577408",
+			"text": "T. H. I. S. https://t.co/R8vKct4Mi9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R8vKct4Mi9",
+						"expanded_url": "https://twitter.com/StockCats/status/923528882074083329",
+						"display_url": "twitter.com/StockCats/stat…",
+						"indices": [
+							12,
+							35
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14824675,
+				"id_str": "14824675",
+				"name": "Andrew Hedges 🏡",
+				"screen_name": "segdeha",
+				"location": "Portland, OR",
+				"description": "Engineering Manager @Hypothes_is",
+				"url": "https://t.co/t4r7SWvvdA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/t4r7SWvvdA",
+								"expanded_url": "http://andrew.hedges.name",
+								"display_url": "andrew.hedges.name",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4520,
+				"friends_count": 1001,
+				"listed_count": 220,
+				"created_at": "Sun May 18 21:13:00 +0000 2008",
+				"favourites_count": 38260,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27266,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/607678071093624832/oI6yAjhY.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/607678071093624832/oI6yAjhY.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900750079283273728/y1o8Jlck_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900750079283273728/y1o8Jlck_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14824675/1503590508",
+				"profile_link_color": "0061D1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "909090",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": {
+				"type": "Point",
+				"coordinates": [
+					47.58216119,
+					-122.60808713
+				]
+			},
+			"coordinates": {
+				"type": "Point",
+				"coordinates": [
+					-122.60808713,
+					47.58216119
+				]
+			},
+			"place": {
+				"id": "0049189e12ad9271",
+				"url": "https://api.twitter.com/1.1/geo/id/0049189e12ad9271.json",
+				"place_type": "city",
+				"name": "Enetai",
+				"full_name": "Enetai, WA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.621663,
+								47.573883
+							],
+							[
+								-122.591669,
+								47.573883
+							],
+							[
+								-122.591669,
+								47.596684
+							],
+							[
+								-122.621663,
+								47.596684
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 923528882074083300,
+			"quoted_status_id_str": "923528882074083329",
+			"quoted_status": {
+				"created_at": "Thu Oct 26 12:36:58 +0000 2017",
+				"id": 923528882074083300,
+				"id_str": "923528882074083329",
+				"text": "Dear Twitter, I don't want \"personalized content\" - I just want to see all the Tweets from people I follow in chronological order",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 60113926,
+					"id_str": "60113926",
+					"name": "StockCats",
+					"screen_name": "StockCats",
+					"location": "",
+					"description": "Stock Trader, Speculator, Technical Anarchist, Financial Media Critic. I work hard so my cats can have a better life.",
+					"url": "https://t.co/hb0tXUfn1w",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/hb0tXUfn1w",
+									"expanded_url": "http://www.StockCats.com",
+									"display_url": "StockCats.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 52975,
+					"friends_count": 896,
+					"listed_count": 1285,
+					"created_at": "Sat Jul 25 18:15:26 +0000 2009",
+					"favourites_count": 50957,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 67195,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/347943613/bluefadebg.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/347943613/bluefadebg.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/796396154988675072/ODjY4LIU_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/796396154988675072/ODjY4LIU_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/60113926/1398743678",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DEDEDE",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1932,
+				"favorite_count": 4500,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "vi"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 923528882074083300,
+		"quoted_status_id_str": "923528882074083329",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "vi"
+	},
+	{
 		"created_at": "Fri Oct 27 21:29:41 +0000 2017",
 		"id": 924025333694701600,
 		"id_str": "924025333694701569",
