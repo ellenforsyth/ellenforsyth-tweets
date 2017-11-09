@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 08 18:46:53 +0000 2017",
+		"id": 928333016279040000,
+		"id_str": "928333016279040000",
+		"text": "RT @datacarpentry: Grant from @US_IMLS to @UC3CDL supports growth of @LibCarpentry! Position open w/ CDL to be LC Project Coordinator. http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "datacarpentry",
+					"name": "Data Carpentry",
+					"id": 2493407430,
+					"id_str": "2493407430",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "US_IMLS",
+					"name": "IMLS",
+					"id": 36240331,
+					"id_str": "36240331",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"screen_name": "UC3CDL",
+					"name": "UC Curation Center",
+					"id": 1944535268,
+					"id_str": "1944535268",
+					"indices": [
+						42,
+						49
+					]
+				},
+				{
+					"screen_name": "LibCarpentry",
+					"name": "Library Carpentry",
+					"id": 736221501209202700,
+					"id_str": "736221501209202688",
+					"indices": [
+						69,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2436,
+			"friends_count": 682,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2910,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 06 19:11:51 +0000 2017",
+			"id": 927614525314023400,
+			"id_str": "927614525314023424",
+			"text": "Grant from @US_IMLS to @UC3CDL supports growth of @LibCarpentry! Position open w/ CDL to be LC Project Coordinator. https://t.co/yG90ITQINi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "US_IMLS",
+						"name": "IMLS",
+						"id": 36240331,
+						"id_str": "36240331",
+						"indices": [
+							11,
+							19
+						]
+					},
+					{
+						"screen_name": "UC3CDL",
+						"name": "UC Curation Center",
+						"id": 1944535268,
+						"id_str": "1944535268",
+						"indices": [
+							23,
+							30
+						]
+					},
+					{
+						"screen_name": "LibCarpentry",
+						"name": "Library Carpentry",
+						"id": 736221501209202700,
+						"id_str": "736221501209202688",
+						"indices": [
+							50,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yG90ITQINi",
+						"expanded_url": "http://www.datacarpentry.org/library-carpentry-cdl/",
+						"display_url": "datacarpentry.org/library-carpen…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2493407430,
+				"id_str": "2493407430",
+				"name": "Data Carpentry",
+				"screen_name": "datacarpentry",
+				"location": "",
+				"description": "Data Carpentry is teaching researchers basic concepts, skills and tools for working more effectively with data. Take a workshop or help us develop or teach!",
+				"url": "http://t.co/MgA7b5FVVV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MgA7b5FVVV",
+								"expanded_url": "http://datacarpentry.org",
+								"display_url": "datacarpentry.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5728,
+				"friends_count": 37,
+				"listed_count": 217,
+				"created_at": "Tue May 13 19:17:29 +0000 2014",
+				"favourites_count": 586,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1396,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/511900964924559360/35j4V6VI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/511900964924559360/35j4V6VI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2493407430/1410284512",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 08 18:12:12 +0000 2017",
+		"id": 928324289371050000,
+		"id_str": "928324289371049984",
+		"text": "Useful post looking at options to remove barriers to membership. How can you library remove barriers to membership? https://t.co/f6NIqtEjpW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f6NIqtEjpW",
+					"expanded_url": "https://twitter.com/janecowell8/status/928218612304932864",
+					"display_url": "twitter.com/janecowell8/st…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2436,
+			"friends_count": 682,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2910,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 928218612304932900,
+		"quoted_status_id_str": "928218612304932864",
+		"quoted_status": {
+			"created_at": "Wed Nov 08 11:12:17 +0000 2017",
+			"id": 928218612304932900,
+			"id_str": "928218612304932864",
+			"text": "I just published “Get Carded : Flexible Library membership” https://t.co/uvJF6QQRSD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uvJF6QQRSD",
+						"expanded_url": "https://medium.com/p/get-carded-flexible-library-membership-a63d16bff88a",
+						"display_url": "medium.com/p/get-carded-f…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://medium.com\" rel=\"nofollow\">Medium</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 717284725,
+				"id_str": "717284725",
+				"name": "Jane Cowell",
+				"screen_name": "janecowell8",
+				"location": "Brisbane, Queensland",
+				"description": "Librarian, interested in libraries, digital disruption, startups, Australian politics",
+				"url": "https://t.co/qsQRjQwKOu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qsQRjQwKOu",
+								"expanded_url": "https://www.linkedin.com/home?trk=nav_responsive_tab_home",
+								"display_url": "linkedin.com/home?trk=nav_r…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2565,
+				"friends_count": 2241,
+				"listed_count": 626,
+				"created_at": "Thu Jul 26 03:12:40 +0000 2012",
+				"favourites_count": 13134,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33115,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867982725323530241/OkuJpE1X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867982725323530241/OkuJpE1X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/717284725/1503387362",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 08 09:18:50 +0000 2017",
+		"id": 928190060742164500,
+		"id_str": "928190060742164481",
+		"text": "RT @cfwriter: My latest piece, in @ConversationEDU, on women in true crime narratives is now online: https://t.co/AVTcrFqO8u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfwriter",
+					"name": "Rachel Franks",
+					"id": 52325959,
+					"id_str": "52325959",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						34,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AVTcrFqO8u",
+					"expanded_url": "https://theconversation.com/a-criminal-record-women-and-australian-true-crime-stories-82590",
+					"display_url": "theconversation.com/a-criminal-rec…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2436,
+			"friends_count": 682,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2910,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 06 20:02:02 +0000 2017",
+			"id": 927627155466416100,
+			"id_str": "927627155466416130",
+			"text": "My latest piece, in @ConversationEDU, on women in true crime narratives is now online: https://t.co/AVTcrFqO8u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ConversationEDU",
+						"name": "The Conversation",
+						"id": 224495471,
+						"id_str": "224495471",
+						"indices": [
+							20,
+							36
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AVTcrFqO8u",
+						"expanded_url": "https://theconversation.com/a-criminal-record-women-and-australian-true-crime-stories-82590",
+						"display_url": "theconversation.com/a-criminal-rec…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52325959,
+				"id_str": "52325959",
+				"name": "Rachel Franks",
+				"screen_name": "cfwriter",
+				"location": "Sydney, Australia",
+				"description": "crime fiction / true crime / information science / popular culture / cats+kittens",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 893,
+				"friends_count": 880,
+				"listed_count": 65,
+				"created_at": "Tue Jun 30 06:33:54 +0000 2009",
+				"favourites_count": 2610,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4393,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/291719587/cfwriter_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/291719587/cfwriter_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52325959/1356151203",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 07 17:36:51 +0000 2017",
 		"id": 927953004929499100,
 		"id_str": "927953004929499136",
