@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Tue Nov 14 19:09:52 +0000 2017",
+		"id": 930513129221496800,
+		"id_str": "930513129221496833",
+		"text": "brilliant https://t.co/Jenk3YeeFL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jenk3YeeFL",
+					"expanded_url": "https://twitter.com/BL_DigiSchol/status/930397300010246144",
+					"display_url": "twitter.com/BL_DigiSchol/s…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2435,
+			"friends_count": 681,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 2938,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 930397300010246100,
+		"quoted_status_id_str": "930397300010246144",
+		"quoted_status": {
+			"created_at": "Tue Nov 14 11:29:36 +0000 2017",
+			"id": 930397300010246100,
+			"id_str": "930397300010246144",
+			"text": "All to play for: games, libraries and sharing skills @miss_wisdom blogs about the recent @BL_LivingKnow skills shar… https://t.co/q2zO1hvhTz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "miss_wisdom",
+						"name": "Stella Wisdom",
+						"id": 24890687,
+						"id_str": "24890687",
+						"indices": [
+							53,
+							65
+						]
+					},
+					{
+						"screen_name": "BL_LivingKnow",
+						"name": "LK Network",
+						"id": 710403218484957200,
+						"id_str": "710403218484957184",
+						"indices": [
+							89,
+							103
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/q2zO1hvhTz",
+						"expanded_url": "https://twitter.com/i/web/status/930397300010246144",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744814089172455400,
+				"id_str": "744814089172455424",
+				"name": "Digital Scholarship",
+				"screen_name": "BL_DigiSchol",
+				"location": "United Kingdom",
+				"description": "Enabling innovative research with @britishlibrary digital collections. Tweets by @ndalyrose, @miss_wisdom & @mia_out",
+				"url": "https://t.co/E7eDKDTLxe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/E7eDKDTLxe",
+								"expanded_url": "http://www.bl.uk/subjects/digital-scholarship",
+								"display_url": "bl.uk/subjects/digit…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 957,
+				"friends_count": 753,
+				"listed_count": 35,
+				"created_at": "Mon Jun 20 08:48:11 +0000 2016",
+				"favourites_count": 161,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 398,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744814089172455424/1466432652",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 13 19:13:12 +0000 2017",
 		"id": 930151580371894300,
 		"id_str": "930151580371894272",
