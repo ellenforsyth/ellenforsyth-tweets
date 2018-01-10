@@ -1,6 +1,2123 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 10 04:50:37 +0000 2018",
+		"id": 950952997369999400,
+		"id_str": "950952997369999360",
+		"text": "RT @bigibila: Train your dog (or children) to respond to #Wiradjuri commands. These verbs are in the command form, as underlined -dya, dha…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wiradjuri",
+					"indices": [
+						57,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bigibila",
+					"name": "Aaron Charles",
+					"id": 1129592851,
+					"id_str": "1129592851",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2457,
+			"friends_count": 689,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3135,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 10 03:58:08 +0000 2018",
+			"id": 950939793009008600,
+			"id_str": "950939793009008640",
+			"text": "Train your dog (or children) to respond to #Wiradjuri commands. These verbs are in the command form, as underlined… https://t.co/3n2tWDPmoS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Wiradjuri",
+						"indices": [
+							43,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3n2tWDPmoS",
+						"expanded_url": "https://twitter.com/i/web/status/950939793009008640",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1129592851,
+				"id_str": "1129592851",
+				"name": "Aaron Charles",
+				"screen_name": "bigibila",
+				"location": "Young, New South Wales",
+				"description": "Bearded Villain. Educator. Wiradjuri man teaching language and culture on country. Enthusiastic about sports. #CCMFC #TWERDER #GoRabbitohs #StandAside.",
+				"url": "https://t.co/CPL8BFRDzU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CPL8BFRDzU",
+								"expanded_url": "https://www.instagram.com/bigibila/",
+								"display_url": "instagram.com/bigibila/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 791,
+				"friends_count": 716,
+				"listed_count": 13,
+				"created_at": "Tue Jan 29 00:12:57 +0000 2013",
+				"favourites_count": 3325,
+				"utc_offset": 32400,
+				"time_zone": "Yakutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2640,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879672432587456512/wVzRuZ-2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879672432587456512/wVzRuZ-2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1129592851/1398415688",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 09 21:59:02 +0000 2018",
+		"id": 950849422497235000,
+		"id_str": "950849422497234944",
+		"text": "RT @readwatchplay: What have people started reading this year?  What is your #firstread for 2018? Your #firstread may be something you have…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "firstread",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "firstread",
+					"indices": [
+						103,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "readwatchplay",
+					"name": "Read Watch Play",
+					"id": 595268016,
+					"id_str": "595268016",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2457,
+			"friends_count": 689,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3135,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 21:16:38 +0000 2018",
+			"id": 950838751026016300,
+			"id_str": "950838751026016256",
+			"text": "What have people started reading this year?  What is your #firstread for 2018? Your #firstread may be something you… https://t.co/jN9Y6UmQiV",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "firstread",
+						"indices": [
+							58,
+							68
+						]
+					},
+					{
+						"text": "firstread",
+						"indices": [
+							84,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jN9Y6UmQiV",
+						"expanded_url": "https://twitter.com/i/web/status/950838751026016256",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595268016,
+				"id_str": "595268016",
+				"name": "Read Watch Play",
+				"screen_name": "readwatchplay",
+				"location": "",
+				"description": "Global twitter chat by NSW Readers' Advisory group & partners. What do you enjoying reading, watching and playing. Connect with librarians. Use #rwpchat",
+				"url": "http://t.co/M9meupecSc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/M9meupecSc",
+								"expanded_url": "http://readwatchplay.wordpress.com/",
+								"display_url": "readwatchplay.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 726,
+				"friends_count": 771,
+				"listed_count": 39,
+				"created_at": "Thu May 31 05:01:08 +0000 2012",
+				"favourites_count": 288,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4951,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F0F0F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497158503362879488/JpUm927d.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497158503362879488/JpUm927d.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595268016/1407365292",
+				"profile_link_color": "C93318",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "1C1C1C",
+				"profile_text_color": "627E91",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 09 19:39:22 +0000 2018",
+		"id": 950814270589091800,
+		"id_str": "950814270589091841",
+		"text": "RT @BOM_au: The #AnnualClimateStatement 2017 is out now: https://t.co/SWjKmMRHMT https://t.co/CfER9zNEaR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AnnualClimateStatement",
+					"indices": [
+						16,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BOM_au",
+					"name": "Bureau of Meteorology, Australia",
+					"id": 188545143,
+					"id_str": "188545143",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SWjKmMRHMT",
+					"expanded_url": "http://ow.ly/AFp130hF7nZ",
+					"display_url": "ow.ly/AFp130hF7nZ",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 950803122636705800,
+					"id_str": "950803122636705792",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/950803122636705792/pu/img/Weh752aApeWR21Qq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/950803122636705792/pu/img/Weh752aApeWR21Qq.jpg",
+					"url": "https://t.co/CfER9zNEaR",
+					"display_url": "pic.twitter.com/CfER9zNEaR",
+					"expanded_url": "https://twitter.com/BOM_au/status/950804408861896704/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1084,
+							"h": 610,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1084,
+							"h": 610,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950804408861896700,
+					"source_status_id_str": "950804408861896704",
+					"source_user_id": 188545143,
+					"source_user_id_str": "188545143"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 950803122636705800,
+					"id_str": "950803122636705792",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/950803122636705792/pu/img/Weh752aApeWR21Qq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/950803122636705792/pu/img/Weh752aApeWR21Qq.jpg",
+					"url": "https://t.co/CfER9zNEaR",
+					"display_url": "pic.twitter.com/CfER9zNEaR",
+					"expanded_url": "https://twitter.com/BOM_au/status/950804408861896704/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1084,
+							"h": 610,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1084,
+							"h": 610,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950804408861896700,
+					"source_status_id_str": "950804408861896704",
+					"source_user_id": 188545143,
+					"source_user_id_str": "188545143",
+					"video_info": {
+						"aspect_ratio": [
+							542,
+							305
+						],
+						"duration_millis": 5000,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/950803122636705792/pu/vid/318x180/VwkbYbuzRK8_SSn9.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/950803122636705792/pu/vid/638x360/TPHA0i1FBI33Kc5B.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/950803122636705792/pu/pl/ZLVw_KdVnop4KfaW.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 188545143,
+							"id_str": "188545143",
+							"name": "Bureau of Meteorology, Australia",
+							"screen_name": "BOM_au",
+							"location": "Australia",
+							"description": "Official Bureau of Meteorology account for national weather and Bureau information. Always check https://t.co/RBt18W1ROk for the latest warnings.",
+							"url": "http://t.co/2yfWnpvy0n",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/2yfWnpvy0n",
+											"expanded_url": "http://www.bom.gov.au",
+											"display_url": "bom.gov.au",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/RBt18W1ROk",
+											"expanded_url": "http://www.bom.gov.au/australia/warnings",
+											"display_url": "bom.gov.au/australia/warn…",
+											"indices": [
+												97,
+												120
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 82094,
+							"friends_count": 190,
+							"listed_count": 620,
+							"created_at": "Thu Sep 09 00:11:06 +0000 2010",
+							"favourites_count": 839,
+							"utc_offset": 39600,
+							"time_zone": "Melbourne",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 3931,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/876690692017278981/FML1vXfz_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/876690692017278981/FML1vXfz_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/188545143/1497854347",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2457,
+			"friends_count": 689,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3135,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 19:00:10 +0000 2018",
+			"id": 950804408861896700,
+			"id_str": "950804408861896704",
+			"text": "The #AnnualClimateStatement 2017 is out now: https://t.co/SWjKmMRHMT https://t.co/CfER9zNEaR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AnnualClimateStatement",
+						"indices": [
+							4,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SWjKmMRHMT",
+						"expanded_url": "http://ow.ly/AFp130hF7nZ",
+						"display_url": "ow.ly/AFp130hF7nZ",
+						"indices": [
+							45,
+							68
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 950803122636705800,
+						"id_str": "950803122636705792",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/950803122636705792/pu/img/Weh752aApeWR21Qq.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/950803122636705792/pu/img/Weh752aApeWR21Qq.jpg",
+						"url": "https://t.co/CfER9zNEaR",
+						"display_url": "pic.twitter.com/CfER9zNEaR",
+						"expanded_url": "https://twitter.com/BOM_au/status/950804408861896704/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1084,
+								"h": 610,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1084,
+								"h": 610,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950803122636705800,
+						"id_str": "950803122636705792",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/950803122636705792/pu/img/Weh752aApeWR21Qq.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/950803122636705792/pu/img/Weh752aApeWR21Qq.jpg",
+						"url": "https://t.co/CfER9zNEaR",
+						"display_url": "pic.twitter.com/CfER9zNEaR",
+						"expanded_url": "https://twitter.com/BOM_au/status/950804408861896704/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1084,
+								"h": 610,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1084,
+								"h": 610,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								542,
+								305
+							],
+							"duration_millis": 5000,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/950803122636705792/pu/vid/318x180/VwkbYbuzRK8_SSn9.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/950803122636705792/pu/vid/638x360/TPHA0i1FBI33Kc5B.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/950803122636705792/pu/pl/ZLVw_KdVnop4KfaW.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 188545143,
+				"id_str": "188545143",
+				"name": "Bureau of Meteorology, Australia",
+				"screen_name": "BOM_au",
+				"location": "Australia",
+				"description": "Official Bureau of Meteorology account for national weather and Bureau information. Always check https://t.co/RBt18W1ROk for the latest warnings.",
+				"url": "http://t.co/2yfWnpvy0n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2yfWnpvy0n",
+								"expanded_url": "http://www.bom.gov.au",
+								"display_url": "bom.gov.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RBt18W1ROk",
+								"expanded_url": "http://www.bom.gov.au/australia/warnings",
+								"display_url": "bom.gov.au/australia/warn…",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 82094,
+				"friends_count": 190,
+				"listed_count": 620,
+				"created_at": "Thu Sep 09 00:11:06 +0000 2010",
+				"favourites_count": 839,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3931,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876690692017278981/FML1vXfz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876690692017278981/FML1vXfz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/188545143/1497854347",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 81,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 09 19:38:44 +0000 2018",
+		"id": 950814114342780900,
+		"id_str": "950814114342780928",
+		"text": "RT @BOM_NSW: #NSWweather 2017: warmest year on record, driest year since 2006, and coldest winter nights since 1997. Full annual climate st…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NSWweather",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BOM_NSW",
+					"name": "Bureau of Meteorology, New South Wales",
+					"id": 2845888230,
+					"id_str": "2845888230",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2457,
+			"friends_count": 689,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3135,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 17:59:53 +0000 2018",
+			"id": 950789237271662600,
+			"id_str": "950789237271662592",
+			"text": "#NSWweather 2017: warmest year on record, driest year since 2006, and coldest winter nights since 1997. Full annual… https://t.co/bhduTe0LCj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NSWweather",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bhduTe0LCj",
+						"expanded_url": "https://twitter.com/i/web/status/950789237271662592",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2845888230,
+				"id_str": "2845888230",
+				"name": "Bureau of Meteorology, New South Wales",
+				"screen_name": "BOM_NSW",
+				"location": "New South Wales, Australia",
+				"description": "Official Bureau of Meteorology account for New South Wales weather information. Always check https://t.co/wdIsJywOiW for the latest warnings.",
+				"url": "http://t.co/AblD5Ys9wC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AblD5Ys9wC",
+								"expanded_url": "http://www.bom.gov.au/nsw",
+								"display_url": "bom.gov.au/nsw",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wdIsJywOiW",
+								"expanded_url": "http://www.bom.gov.au/nsw/warnings",
+								"display_url": "bom.gov.au/nsw/warnings",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 68050,
+				"friends_count": 166,
+				"listed_count": 430,
+				"created_at": "Wed Oct 08 03:35:46 +0000 2014",
+				"favourites_count": 103,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3356,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878136043966300161/nnfuf8WY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878136043966300161/nnfuf8WY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2845888230/1497854748",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 09 19:38:31 +0000 2018",
+		"id": 950814058432774100,
+		"id_str": "950814058432774144",
+		"text": "RT @BOM_NSW: #SydneyWeather 2017: another warm year, and the city's (Observatory Hill's) second warmest year on record after the record bre…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SydneyWeather",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BOM_NSW",
+					"name": "Bureau of Meteorology, New South Wales",
+					"id": 2845888230,
+					"id_str": "2845888230",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2457,
+			"friends_count": 689,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3135,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 18:07:32 +0000 2018",
+			"id": 950791163686121500,
+			"id_str": "950791163686121472",
+			"text": "#SydneyWeather 2017: another warm year, and the city's (Observatory Hill's) second warmest year on record after the… https://t.co/6DOXUFBOfw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SydneyWeather",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6DOXUFBOfw",
+						"expanded_url": "https://twitter.com/i/web/status/950791163686121472",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2845888230,
+				"id_str": "2845888230",
+				"name": "Bureau of Meteorology, New South Wales",
+				"screen_name": "BOM_NSW",
+				"location": "New South Wales, Australia",
+				"description": "Official Bureau of Meteorology account for New South Wales weather information. Always check https://t.co/wdIsJywOiW for the latest warnings.",
+				"url": "http://t.co/AblD5Ys9wC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AblD5Ys9wC",
+								"expanded_url": "http://www.bom.gov.au/nsw",
+								"display_url": "bom.gov.au/nsw",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wdIsJywOiW",
+								"expanded_url": "http://www.bom.gov.au/nsw/warnings",
+								"display_url": "bom.gov.au/nsw/warnings",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 68050,
+				"friends_count": 166,
+				"listed_count": 430,
+				"created_at": "Wed Oct 08 03:35:46 +0000 2014",
+				"favourites_count": 103,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3356,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878136043966300161/nnfuf8WY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878136043966300161/nnfuf8WY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2845888230/1497854748",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 09 19:06:25 +0000 2018",
+		"id": 950805978898776000,
+		"id_str": "950805978898776064",
+		"text": "Designing Libraries - Too many libraries? https://t.co/iU4NNgGjcl Western Australia looking at library strategy wit… https://t.co/xuWZfP782n",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iU4NNgGjcl",
+					"expanded_url": "http://www.designinglibraries.org.uk/index.asp?PageID=1483#.WlUSdmqQheo.twitter",
+					"display_url": "designinglibraries.org.uk/index.asp?Page…",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/xuWZfP782n",
+					"expanded_url": "https://twitter.com/i/web/status/950805978898776064",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2457,
+			"friends_count": 689,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3135,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 09 18:38:53 +0000 2018",
+		"id": 950799051464704000,
+		"id_str": "950799051464704000",
+		"text": "RT @ggnewed: \"But what if I'm a tap dancing mime artist focusing on the 18th century. Can I sumbit something to #GothNovJam?\" you ask. \"Yes…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GothNovJam",
+					"indices": [
+						112,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ggnewed",
+					"name": "Call me Ash",
+					"id": 190949289,
+					"id_str": "190949289",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2457,
+			"friends_count": 689,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3135,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 14:29:14 +0000 2018",
+			"id": 950736223525638100,
+			"id_str": "950736223525638144",
+			"text": "\"But what if I'm a tap dancing mime artist focusing on the 18th century. Can I sumbit something to #GothNovJam?\" yo… https://t.co/ShQXDhWZg7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GothNovJam",
+						"indices": [
+							99,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ShQXDhWZg7",
+						"expanded_url": "https://twitter.com/i/web/status/950736223525638144",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 190949289,
+				"id_str": "190949289",
+				"name": "Call me Ash",
+				"screen_name": "ggnewed",
+				"location": "Shire-of-Coblingdon",
+				"description": "Libraries - advocacy inc #LibraryAtoZ & creative tech. Makes daft little games, electronic music, interactive fiction for fun. TBQ. Call me Ash.",
+				"url": "https://t.co/L5EvdsapBE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L5EvdsapBE",
+								"expanded_url": "https://about.me/gary_green",
+								"display_url": "about.me/gary_green",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2319,
+				"friends_count": 2395,
+				"listed_count": 217,
+				"created_at": "Wed Sep 15 07:03:47 +0000 2010",
+				"favourites_count": 2736,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49645,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A3E2CD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/847063929/245c104fa9d7b8331428beb0da89f4d3.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/847063929/245c104fa9d7b8331428beb0da89f4d3.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/945984709724725248/dMXgd-Wr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/945984709724725248/dMXgd-Wr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/190949289/1399706509",
+				"profile_link_color": "19BF85",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FF725A",
+				"profile_text_color": "FFA65A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 950735761632088000,
+			"quoted_status_id_str": "950735761632088069",
+			"quoted_status": {
+				"created_at": "Tue Jan 09 14:27:24 +0000 2018",
+				"id": 950735761632088000,
+				"id_str": "950735761632088069",
+				"text": "Instead of just focusing on games, Gothic Novel Jam is open to all types of creative responses. So if you're a writ… https://t.co/qaCuPKJMiQ",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/qaCuPKJMiQ",
+							"expanded_url": "https://twitter.com/i/web/status/950735761632088069",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 190949289,
+					"id_str": "190949289",
+					"name": "Call me Ash",
+					"screen_name": "ggnewed",
+					"location": "Shire-of-Coblingdon",
+					"description": "Libraries - advocacy inc #LibraryAtoZ & creative tech. Makes daft little games, electronic music, interactive fiction for fun. TBQ. Call me Ash.",
+					"url": "https://t.co/L5EvdsapBE",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/L5EvdsapBE",
+									"expanded_url": "https://about.me/gary_green",
+									"display_url": "about.me/gary_green",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2319,
+					"friends_count": 2395,
+					"listed_count": 217,
+					"created_at": "Wed Sep 15 07:03:47 +0000 2010",
+					"favourites_count": 2736,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 49645,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "A3E2CD",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/847063929/245c104fa9d7b8331428beb0da89f4d3.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/847063929/245c104fa9d7b8331428beb0da89f4d3.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/945984709724725248/dMXgd-Wr_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/945984709724725248/dMXgd-Wr_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/190949289/1399706509",
+					"profile_link_color": "19BF85",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FF725A",
+					"profile_text_color": "FFA65A",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 950735761632088000,
+		"quoted_status_id_str": "950735761632088069",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 09 18:27:56 +0000 2018",
+		"id": 950796295651733500,
+		"id_str": "950796295651733504",
+		"text": "RT @RAforAll: The @StokerCon Librarians’ Day Schedule is up! Join me and @booksNyarn for a full day of CE. Appearances by @jgfaherty @Chris…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAforAll",
+					"name": "Becky Spratford",
+					"id": 2474412986,
+					"id_str": "2474412986",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "StokerCon",
+					"name": "StokerCon",
+					"id": 3218874535,
+					"id_str": "3218874535",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"screen_name": "booksNyarn",
+					"name": "☕️ 🧀 🐔 Kristi C.",
+					"id": 40269827,
+					"id_str": "40269827",
+					"indices": [
+						73,
+						84
+					]
+				},
+				{
+					"screen_name": "jgfaherty",
+					"name": "JG Faherty",
+					"id": 25814722,
+					"id_str": "25814722",
+					"indices": [
+						122,
+						132
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2457,
+			"friends_count": 689,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3135,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 14:47:18 +0000 2018",
+			"id": 950740770855759900,
+			"id_str": "950740770855759872",
+			"text": "The @StokerCon Librarians’ Day Schedule is up! Join me and @booksNyarn for a full day of CE. Appearances by… https://t.co/QfKZCnfzs1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StokerCon",
+						"name": "StokerCon",
+						"id": 3218874535,
+						"id_str": "3218874535",
+						"indices": [
+							4,
+							14
+						]
+					},
+					{
+						"screen_name": "booksNyarn",
+						"name": "☕️ 🧀 🐔 Kristi C.",
+						"id": 40269827,
+						"id_str": "40269827",
+						"indices": [
+							59,
+							70
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QfKZCnfzs1",
+						"expanded_url": "https://twitter.com/i/web/status/950740770855759872",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library, always. #Horror maven, sometimes. Jersey Girl, forever! @AmherstCollege alum. @ARRTreads @HorrorWriters",
+				"url": "http://t.co/UqsI4i2bun",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UqsI4i2bun",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1635,
+				"friends_count": 1405,
+				"listed_count": 105,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 8652,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17678,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 08 19:01:41 +0000 2018",
 		"id": 950442399624392700,
 		"id_str": "950442399624392704",
