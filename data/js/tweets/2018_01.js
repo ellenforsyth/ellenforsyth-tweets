@@ -1,6 +1,747 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 30 03:16:16 +0000 2018",
+		"id": 958177013910638600,
+		"id_str": "958177013910638593",
+		"text": "Knitting inspired by Tempestry project, local studies, craftivism and datavisualisation https://t.co/klGciJNhci",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/klGciJNhci",
+					"expanded_url": "http://ift.tt/2npGHC5",
+					"display_url": "ift.tt/2npGHC5",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 700,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3177,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 30 03:14:37 +0000 2018",
+		"id": 958176595222540300,
+		"id_str": "958176595222540288",
+		"text": "“Here’s My Secret Weapon: I Read” by @Jonwestenberg https://t.co/IhWGdlmgir the importance of reading \"If you don’t… https://t.co/fKR7Od9Db9",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jonwestenberg",
+					"name": "Jon Westenberg 🌈",
+					"id": 16836943,
+					"id_str": "16836943",
+					"indices": [
+						37,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IhWGdlmgir",
+					"expanded_url": "https://medium.com/hi-my-name-is-jon/heres-my-secret-weapon-i-read-a5d4b753efe4",
+					"display_url": "medium.com/hi-my-name-is-…",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/fKR7Od9Db9",
+					"expanded_url": "https://twitter.com/i/web/status/958176595222540288",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 700,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3177,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 30 00:41:11 +0000 2018",
+		"id": 958137985773420500,
+		"id_str": "958137985773420545",
+		"text": "RT @readwatchplay: join the #firstread discussion today for #rwpchat https://t.co/HKggX4Oetl https://t.co/XiVY96UvXj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "firstread",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"text": "rwpchat",
+					"indices": [
+						60,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "readwatchplay",
+					"name": "Read Watch Play",
+					"id": 595268016,
+					"id_str": "595268016",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HKggX4Oetl",
+					"expanded_url": "https://readwatchplay.wordpress.com/2018/01/30/join-the-firstread-discussion-today-for-rwpchat/",
+					"display_url": "readwatchplay.wordpress.com/2018/01/30/joi…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 958067877285736400,
+					"id_str": "958067877285736448",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DUu9qIhUMAAQ_lG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUu9qIhUMAAQ_lG.jpg",
+					"url": "https://t.co/XiVY96UvXj",
+					"display_url": "pic.twitter.com/XiVY96UvXj",
+					"expanded_url": "https://twitter.com/readwatchplay/status/958067879861215234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 423,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 423,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 423,
+							"h": 427,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 958067879861215200,
+					"source_status_id_str": "958067879861215234",
+					"source_user_id": 595268016,
+					"source_user_id_str": "595268016"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 958067877285736400,
+					"id_str": "958067877285736448",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DUu9qIhUMAAQ_lG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUu9qIhUMAAQ_lG.jpg",
+					"url": "https://t.co/XiVY96UvXj",
+					"display_url": "pic.twitter.com/XiVY96UvXj",
+					"expanded_url": "https://twitter.com/readwatchplay/status/958067879861215234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 423,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 423,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 423,
+							"h": 427,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 958067879861215200,
+					"source_status_id_str": "958067879861215234",
+					"source_user_id": 595268016,
+					"source_user_id_str": "595268016"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 700,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3177,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 29 20:02:37 +0000 2018",
+			"id": 958067879861215200,
+			"id_str": "958067879861215234",
+			"text": "join the #firstread discussion today for #rwpchat https://t.co/HKggX4Oetl https://t.co/XiVY96UvXj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "firstread",
+						"indices": [
+							9,
+							19
+						]
+					},
+					{
+						"text": "rwpchat",
+						"indices": [
+							41,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HKggX4Oetl",
+						"expanded_url": "https://readwatchplay.wordpress.com/2018/01/30/join-the-firstread-discussion-today-for-rwpchat/",
+						"display_url": "readwatchplay.wordpress.com/2018/01/30/joi…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 958067877285736400,
+						"id_str": "958067877285736448",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DUu9qIhUMAAQ_lG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUu9qIhUMAAQ_lG.jpg",
+						"url": "https://t.co/XiVY96UvXj",
+						"display_url": "pic.twitter.com/XiVY96UvXj",
+						"expanded_url": "https://twitter.com/readwatchplay/status/958067879861215234/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 423,
+								"h": 427,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 423,
+								"h": 427,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 423,
+								"h": 427,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 958067877285736400,
+						"id_str": "958067877285736448",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DUu9qIhUMAAQ_lG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUu9qIhUMAAQ_lG.jpg",
+						"url": "https://t.co/XiVY96UvXj",
+						"display_url": "pic.twitter.com/XiVY96UvXj",
+						"expanded_url": "https://twitter.com/readwatchplay/status/958067879861215234/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 423,
+								"h": 427,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 423,
+								"h": 427,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 423,
+								"h": 427,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595268016,
+				"id_str": "595268016",
+				"name": "Read Watch Play",
+				"screen_name": "readwatchplay",
+				"location": "",
+				"description": "Global twitter chat by NSW Readers' Advisory group & partners. What do you enjoying reading, watching and playing. Connect with librarians. Use #rwpchat",
+				"url": "http://t.co/M9meupecSc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/M9meupecSc",
+								"expanded_url": "http://readwatchplay.wordpress.com/",
+								"display_url": "readwatchplay.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 723,
+				"friends_count": 785,
+				"listed_count": 39,
+				"created_at": "Thu May 31 05:01:08 +0000 2012",
+				"favourites_count": 290,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4955,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F0F0F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497158503362879488/JpUm927d.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497158503362879488/JpUm927d.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595268016/1407365292",
+				"profile_link_color": "C93318",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "1C1C1C",
+				"profile_text_color": "627E91",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 29 18:49:16 +0000 2018",
+		"id": 958049421639393300,
+		"id_str": "958049421639393281",
+		"text": "Recording of the week: echolocating birds - Sound and vision blog https://t.co/QEGhfGPcKq via @soundarchive - this is great",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soundarchive",
+					"name": "Sound Archive",
+					"id": 22028935,
+					"id_str": "22028935",
+					"indices": [
+						94,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QEGhfGPcKq",
+					"expanded_url": "http://blogs.bl.uk/sound-and-vision/2018/01/recording-of-the-week-echolocating-birds.html#sthash.InvrGYoa.uxfs",
+					"display_url": "blogs.bl.uk/sound-and-visi…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 700,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3177,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 29 06:34:30 +0000 2018",
 		"id": 957864509871341600,
 		"id_str": "957864509871341568",
