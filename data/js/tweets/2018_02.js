@@ -1,6 +1,671 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 03 18:57:59 +0000 2018",
+		"id": 959863555624349700,
+		"id_str": "959863555624349696",
+		"text": "Fashion Design Competition Winner Announced - Digital scholarship blog https://t.co/UFdFJfdlLp by @Ed_Connolly via… https://t.co/Ur54YOzcvR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ed_Connolly",
+					"name": "Edmund Connolly",
+					"id": 264082015,
+					"id_str": "264082015",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UFdFJfdlLp",
+					"expanded_url": "http://blogs.bl.uk/digital-scholarship/2018/02/fashion-design-competition-winner-announced.html#sthash.UG05cLN5.uxfs",
+					"display_url": "blogs.bl.uk/digital-schola…",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/Ur54YOzcvR",
+					"expanded_url": "https://twitter.com/i/web/status/959863555624349696",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2463,
+			"friends_count": 700,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3193,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 03 18:42:46 +0000 2018",
+		"id": 959859724123426800,
+		"id_str": "959859724123426816",
+		"text": "RT @rowanmg: For @gdnlongread, I wrote about a smuggling sting that began when folks at @Durrell Wildlife Trust got wind of someone selling…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rowanmg",
+					"name": "Rowan Moore Gerety",
+					"id": 220789993,
+					"id_str": "220789993",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "gdnlongread",
+					"name": "The Long Read",
+					"id": 2853449164,
+					"id_str": "2853449164",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "Durrell",
+					"name": "Durrell Hawkins",
+					"id": 272271485,
+					"id_str": "272271485",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2463,
+			"friends_count": 700,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3193,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 02 20:44:22 +0000 2018",
+			"id": 959527938327752700,
+			"id_str": "959527938327752704",
+			"text": "For @gdnlongread, I wrote about a smuggling sting that began when folks at @Durrell Wildlife Trust got wind of some… https://t.co/UJV5Sbm3gm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gdnlongread",
+						"name": "The Long Read",
+						"id": 2853449164,
+						"id_str": "2853449164",
+						"indices": [
+							4,
+							16
+						]
+					},
+					{
+						"screen_name": "Durrell",
+						"name": "Durrell Hawkins",
+						"id": 272271485,
+						"id_str": "272271485",
+						"indices": [
+							75,
+							83
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UJV5Sbm3gm",
+						"expanded_url": "https://twitter.com/i/web/status/959527938327752704",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 220789993,
+				"id_str": "220789993",
+				"name": "Rowan Moore Gerety",
+				"screen_name": "rowanmg",
+				"location": "Miami",
+				"description": "Stories for the eyes and ears. Author of Go Tell the Crocodiles, out Feb 6th. https://t.co/12HtHuJAL1",
+				"url": "http://t.co/XHcwhiBJiI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XHcwhiBJiI",
+								"expanded_url": "http://www.rowanmg.com",
+								"display_url": "rowanmg.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/12HtHuJAL1",
+								"expanded_url": "http://thenewpress.com/books/go-tell-crocodiles",
+								"display_url": "thenewpress.com/books/go-tell-…",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 607,
+				"friends_count": 470,
+				"listed_count": 29,
+				"created_at": "Sun Nov 28 20:58:14 +0000 2010",
+				"favourites_count": 2003,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2804,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928411476448116736/4KZiz6yq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928411476448116736/4KZiz6yq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/220789993/1510185730",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 03 09:57:13 +0000 2018",
+		"id": 959727467941343200,
+		"id_str": "959727467941343232",
+		"text": "RT @abcnews: Scientists find 60,000 Mayan structures preserved under dense Guatemalan jungle (Pic: AP) \nhttps://t.co/BJ3EClJKg6 https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BJ3EClJKg6",
+					"expanded_url": "http://ab.co/2DZhsO9",
+					"display_url": "ab.co/2DZhsO9",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2463,
+			"friends_count": 700,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3193,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33601,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 03 09:54:15 +0000 2018",
+			"id": 959726720524931100,
+			"id_str": "959726720524931077",
+			"text": "Scientists find 60,000 Mayan structures preserved under dense Guatemalan jungle (Pic: AP) \nhttps://t.co/BJ3EClJKg6 https://t.co/P49rDYJdB4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BJ3EClJKg6",
+						"expanded_url": "http://ab.co/2DZhsO9",
+						"display_url": "ab.co/2DZhsO9",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 959726641986457600,
+						"id_str": "959726641986457600",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DVGiS8kU0AAdkGU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVGiS8kU0AAdkGU.jpg",
+						"url": "https://t.co/P49rDYJdB4",
+						"display_url": "pic.twitter.com/P49rDYJdB4",
+						"expanded_url": "https://twitter.com/abcnews/status/959726720524931077/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 940,
+								"h": 627,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 940,
+								"h": 627,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 959726641986457600,
+						"id_str": "959726641986457600",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DVGiS8kU0AAdkGU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVGiS8kU0AAdkGU.jpg",
+						"url": "https://t.co/P49rDYJdB4",
+						"display_url": "pic.twitter.com/P49rDYJdB4",
+						"expanded_url": "https://twitter.com/abcnews/status/959726720524931077/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 940,
+								"h": 627,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 940,
+								"h": 627,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2768501,
+				"id_str": "2768501",
+				"name": "ABC News",
+				"screen_name": "abcnews",
+				"location": "Australia",
+				"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+				"url": "http://t.co/knlFvfwxkf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/knlFvfwxkf",
+								"expanded_url": "http://www.abc.net.au/news",
+								"display_url": "abc.net.au/news",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1434382,
+				"friends_count": 1239,
+				"listed_count": 11238,
+				"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+				"favourites_count": 2939,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 289919,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851166911245107200/4xsqBmY5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851166911245107200/4xsqBmY5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1491773924",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "C8C8C8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 155,
+			"favorite_count": 327,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 03 03:38:00 +0000 2018",
 		"id": 959632032304218100,
 		"id_str": "959632032304218112",
