@@ -1,6 +1,695 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 17 18:42:45 +0000 2018",
+		"id": 964933152203423700,
+		"id_str": "964933152203423744",
+		"text": "RT @UBHumboldtUni: #IFLADH https://t.co/EvJRd1F0iq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFLADH",
+					"indices": [
+						19,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UBHumboldtUni",
+					"name": "UB HU Berlin",
+					"id": 47903084,
+					"id_str": "47903084",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 898131914422353900,
+					"id_str": "898131914422353921",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DHbON7iWAAEkfiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHbON7iWAAEkfiD.jpg",
+					"url": "https://t.co/EvJRd1F0iq",
+					"display_url": "pic.twitter.com/EvJRd1F0iq",
+					"expanded_url": "https://twitter.com/UBHumboldtUni/status/898131928947331072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1155,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 677,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898131928947331100,
+					"source_status_id_str": "898131928947331072",
+					"source_user_id": 47903084,
+					"source_user_id_str": "47903084"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 898131914422353900,
+					"id_str": "898131914422353921",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DHbON7iWAAEkfiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHbON7iWAAEkfiD.jpg",
+					"url": "https://t.co/EvJRd1F0iq",
+					"display_url": "pic.twitter.com/EvJRd1F0iq",
+					"expanded_url": "https://twitter.com/UBHumboldtUni/status/898131928947331072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1155,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 677,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 898131928947331100,
+					"source_status_id_str": "898131928947331072",
+					"source_user_id": 47903084,
+					"source_user_id_str": "47903084"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 702,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3254,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33661,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 17 10:38:33 +0000 2017",
+			"id": 898131928947331100,
+			"id_str": "898131928947331072",
+			"text": "#IFLADH https://t.co/EvJRd1F0iq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IFLADH",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 898131914422353900,
+						"id_str": "898131914422353921",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DHbON7iWAAEkfiD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHbON7iWAAEkfiD.jpg",
+						"url": "https://t.co/EvJRd1F0iq",
+						"display_url": "pic.twitter.com/EvJRd1F0iq",
+						"expanded_url": "https://twitter.com/UBHumboldtUni/status/898131928947331072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1155,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 677,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 898131914422353900,
+						"id_str": "898131914422353921",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/media/DHbON7iWAAEkfiD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHbON7iWAAEkfiD.jpg",
+						"url": "https://t.co/EvJRd1F0iq",
+						"display_url": "pic.twitter.com/EvJRd1F0iq",
+						"expanded_url": "https://twitter.com/UBHumboldtUni/status/898131928947331072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1155,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 677,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47903084,
+				"id_str": "47903084",
+				"name": "UB HU Berlin",
+				"screen_name": "UBHumboldtUni",
+				"location": "Berlin, Deutschland",
+				"description": "Universitätsbibliothek der Humboldt-Universität zu Berlin.",
+				"url": "http://t.co/SCsLtdpnoo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SCsLtdpnoo",
+								"expanded_url": "http://www.ub.hu-berlin.de",
+								"display_url": "ub.hu-berlin.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1752,
+				"friends_count": 607,
+				"listed_count": 85,
+				"created_at": "Wed Jun 17 08:56:01 +0000 2009",
+				"favourites_count": 690,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1795,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6B0123",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433268897/Bu_GZ_Lesesaal.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433268897/Bu_GZ_Lesesaal.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1566442897/hu_ub_klein_ohne_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1566442897/hu_ub_klein_ohne_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47903084/1399537839",
+				"profile_link_color": "7D072C",
+				"profile_sidebar_border_color": "848D91",
+				"profile_sidebar_fill_color": "E8EEF0",
+				"profile_text_color": "003366",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Feb 17 09:53:01 +0000 2018",
+		"id": 964799838075277300,
+		"id_str": "964799838075277312",
+		"text": "Pushing back: why it's time for women to rewrite the story via @guardian  https://t.co/jQq0fSctoT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jQq0fSctoT",
+					"expanded_url": "https://www.theguardian.com/books/2018/feb/17/pushing-back-why-its-time-for-women-to-rewrite-the-story?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/books/2018/feb…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 702,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3254,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33661,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Feb 17 09:10:53 +0000 2018",
+		"id": 964789236711899100,
+		"id_str": "964789236711899136",
+		"text": "Looks like trees roots but could be Entish. Plus I wonder if the tree roots effect is an acoustic treatment. https://t.co/bqEZ2XDzhQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bqEZ2XDzhQ",
+					"expanded_url": "https://twitter.com/cilipinfo/status/964481990895570944",
+					"display_url": "twitter.com/cilipinfo/stat…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 702,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3254,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33661,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 964481990895571000,
+		"quoted_status_id_str": "964481990895570944",
+		"quoted_status": {
+			"created_at": "Fri Feb 16 12:50:00 +0000 2018",
+			"id": 964481990895571000,
+			"id_str": "964481990895570944",
+			"text": "In January of 2018 the inhabitants of Oslo's Stovner district received a new social space in the form of a new libr… https://t.co/Me9aYebVsu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Me9aYebVsu",
+						"expanded_url": "https://twitter.com/i/web/status/964481990895570944",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61518146,
+				"id_str": "61518146",
+				"name": "CILIP",
+				"screen_name": "CILIPinfo",
+				"location": "Bloomsbury, London",
+				"description": "The leading professional body for librarians, information specialists and knowledge managers.",
+				"url": "http://t.co/CMBPuJTM4e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CMBPuJTM4e",
+								"expanded_url": "http://www.cilip.org.uk",
+								"display_url": "cilip.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21762,
+				"friends_count": 3548,
+				"listed_count": 1048,
+				"created_at": "Thu Jul 30 15:40:19 +0000 2009",
+				"favourites_count": 1522,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38327,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/466568297324875779/g_62cSMx.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/466568297324875779/g_62cSMx.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836513089881243648/Gl4dWUMS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836513089881243648/Gl4dWUMS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61518146/1510236981",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 56,
+			"favorite_count": 83,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 17 03:48:01 +0000 2018",
 		"id": 964707982788276200,
 		"id_str": "964707982788276225",
