@@ -1,6 +1,763 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 19 02:53:19 +0000 2018",
+		"id": 965418994109788200,
+		"id_str": "965418994109788160",
+		"text": "RT @janecowell8: This looks like an amazing #library Manager role working for the innovative @ChristchurchLib in New Zealand - Are you the…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "library",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janecowell8",
+					"name": "Jane Cowell",
+					"id": 717284725,
+					"id_str": "717284725",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "ChristchurchLib",
+					"name": "ChChCityLibraries",
+					"id": 190042686,
+					"id_str": "190042686",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 703,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3259,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33665,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 19 02:38:03 +0000 2018",
+			"id": 965415152525832200,
+			"id_str": "965415152525832195",
+			"text": "This looks like an amazing #library Manager role working for the innovative @ChristchurchLib in New Zealand - Are y… https://t.co/yP8tZIrPbt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "library",
+						"indices": [
+							27,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ChristchurchLib",
+						"name": "ChChCityLibraries",
+						"id": 190042686,
+						"id_str": "190042686",
+						"indices": [
+							76,
+							92
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yP8tZIrPbt",
+						"expanded_url": "https://twitter.com/i/web/status/965415152525832195",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 717284725,
+				"id_str": "717284725",
+				"name": "Jane Cowell",
+				"screen_name": "janecowell8",
+				"location": "Brisbane, Queensland",
+				"description": "Librarian, interested in libraries, digital disruption, startups, Australian politics",
+				"url": "https://t.co/qsQRjQwKOu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qsQRjQwKOu",
+								"expanded_url": "https://www.linkedin.com/home?trk=nav_responsive_tab_home",
+								"display_url": "linkedin.com/home?trk=nav_r…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2682,
+				"friends_count": 2342,
+				"listed_count": 628,
+				"created_at": "Thu Jul 26 03:12:40 +0000 2012",
+				"favourites_count": 14993,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35632,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867982725323530241/OkuJpE1X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867982725323530241/OkuJpE1X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/717284725/1517097328",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 19 02:37:35 +0000 2018",
+		"id": 965415032950374400,
+		"id_str": "965415032950374400",
+		"text": "RT @NatRecordsScot: Marriage entry of Polish soldier Franciszek Blaszczyk and Kathleen Panton, a library assistant, on 17 February 1942. Th…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NatRecordsScot",
+					"name": "NatRecordsScot",
+					"id": 1502612832,
+					"id_str": "1502612832",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 703,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3259,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33665,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 17 12:20:06 +0000 2018",
+			"id": 964836854427258900,
+			"id_str": "964836854427258880",
+			"text": "Marriage entry of Polish soldier Franciszek Blaszczyk and Kathleen Panton, a library assistant, on 17 February 1942… https://t.co/rD2nT3jCtw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rD2nT3jCtw",
+						"expanded_url": "https://twitter.com/i/web/status/964836854427258880",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1502612832,
+				"id_str": "1502612832",
+				"name": "NatRecordsScot",
+				"screen_name": "NatRecordsScot",
+				"location": "Edinburgh, Scotland",
+				"description": "National Records of Scotland.  Preserving the past | Recording the present | Informing the future.",
+				"url": "http://t.co/63ZKTcns2o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/63ZKTcns2o",
+								"expanded_url": "http://www.nrscotland.gov.uk",
+								"display_url": "nrscotland.gov.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4964,
+				"friends_count": 358,
+				"listed_count": 153,
+				"created_at": "Tue Jun 11 12:21:55 +0000 2013",
+				"favourites_count": 836,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4796,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7E2B97",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000057784412/01822ed50adbddc7cac36133175a3929.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000057784412/01822ed50adbddc7cac36133175a3929.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000155508612/e6589d60a2cf4074756a53188c8e9732_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000155508612/e6589d60a2cf4074756a53188c8e9732_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1502612832/1432199589",
+				"profile_link_color": "005883",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 18 18:27:25 +0000 2018",
+		"id": 965291682009776100,
+		"id_str": "965291682009776128",
+		"text": "some great titles for your library collections https://t.co/Bza53rYMgG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bza53rYMgG",
+					"expanded_url": "https://twitter.com/amlibraries/status/963838289030582277",
+					"display_url": "twitter.com/amlibraries/st…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 703,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3259,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33665,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 963838289030582300,
+		"quoted_status_id_str": "963838289030582277",
+		"quoted_status": {
+			"created_at": "Wed Feb 14 18:12:10 +0000 2018",
+			"id": 963838289030582300,
+			"id_str": "963838289030582277",
+			"text": "YALSA names 2018 Best Fiction for Young Adults https://t.co/lPnL43K1SE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lPnL43K1SE",
+						"expanded_url": "http://bit.ly/2GaJuH1",
+						"display_url": "bit.ly/2GaJuH1",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18955776,
+				"id_str": "18955776",
+				"name": "American Libraries",
+				"screen_name": "amlibraries",
+				"location": "Chicago",
+				"description": "The magazine of the American Library Association. Regular tweeters include Amy Carlton, George Eberhart, Sanhita SinhaRoy, Phil Morehart, and Terra Dankowski.",
+				"url": "http://t.co/2Dq9yGNmHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2Dq9yGNmHL",
+								"expanded_url": "http://americanlibrariesmagazine.org",
+								"display_url": "americanlibrariesmagazine.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 68226,
+				"friends_count": 931,
+				"listed_count": 2194,
+				"created_at": "Tue Jan 13 22:08:09 +0000 2009",
+				"favourites_count": 483,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20241,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18955776/1514910216",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 18 10:17:23 +0000 2018",
+		"id": 965168360299274200,
+		"id_str": "965168360299274240",
+		"text": "Cancer, Clare and me: actor Greg Wise on the death of his sister via @guardian  https://t.co/24pdnccOvc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/24pdnccOvc",
+					"expanded_url": "https://www.theguardian.com/books/2018/feb/18/actor-greg-wise-not-that-kind-of-love-memoir-blog-sister-clare-interview?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/books/2018/feb…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 703,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3259,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33665,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 17 18:42:45 +0000 2018",
 		"id": 964933152203423700,
 		"id_str": "964933152203423744",
