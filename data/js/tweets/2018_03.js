@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 17 19:48:30 +0000 2018",
+		"id": 975096556511621100,
+		"id_str": "975096556511621120",
+		"text": "RT @FastCompany: Meet the hardware artisans keeping classic video games alive https://t.co/y3uI5nhUO0 https://t.co/i3ip0CYO0M",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FastCompany",
+					"name": "Fast Company",
+					"id": 2735591,
+					"id_str": "2735591",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y3uI5nhUO0",
+					"expanded_url": "https://buff.ly/2FGnN5Z",
+					"display_url": "buff.ly/2FGnN5Z",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 974933418717974500,
+					"id_str": "974933418717974528",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DYeox2ZXkAABDgY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYeox2ZXkAABDgY.jpg",
+					"url": "https://t.co/i3ip0CYO0M",
+					"display_url": "pic.twitter.com/i3ip0CYO0M",
+					"expanded_url": "https://twitter.com/FastCompany/status/974933420701880320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 974933420701880300,
+					"source_status_id_str": "974933420701880320",
+					"source_user_id": 2735591,
+					"source_user_id_str": "2735591"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 974933418717974500,
+					"id_str": "974933418717974528",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DYeox2ZXkAABDgY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYeox2ZXkAABDgY.jpg",
+					"url": "https://t.co/i3ip0CYO0M",
+					"display_url": "pic.twitter.com/i3ip0CYO0M",
+					"expanded_url": "https://twitter.com/FastCompany/status/974933420701880320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 974933420701880300,
+					"source_status_id_str": "974933420701880320",
+					"source_user_id": 2735591,
+					"source_user_id_str": "2735591"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 719,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3436,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33934,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 17 09:00:15 +0000 2018",
+			"id": 974933420701880300,
+			"id_str": "974933420701880320",
+			"text": "Meet the hardware artisans keeping classic video games alive https://t.co/y3uI5nhUO0 https://t.co/i3ip0CYO0M",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y3uI5nhUO0",
+						"expanded_url": "https://buff.ly/2FGnN5Z",
+						"display_url": "buff.ly/2FGnN5Z",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 974933418717974500,
+						"id_str": "974933418717974528",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DYeox2ZXkAABDgY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYeox2ZXkAABDgY.jpg",
+						"url": "https://t.co/i3ip0CYO0M",
+						"display_url": "pic.twitter.com/i3ip0CYO0M",
+						"expanded_url": "https://twitter.com/FastCompany/status/974933420701880320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 974933418717974500,
+						"id_str": "974933418717974528",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DYeox2ZXkAABDgY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYeox2ZXkAABDgY.jpg",
+						"url": "https://t.co/i3ip0CYO0M",
+						"display_url": "pic.twitter.com/i3ip0CYO0M",
+						"expanded_url": "https://twitter.com/FastCompany/status/974933420701880320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2735591,
+				"id_str": "2735591",
+				"name": "Fast Company",
+				"screen_name": "FastCompany",
+				"location": "New York, NY",
+				"description": "Official Twitter feed for the Fast Company business media brand;  inspiring readers to think beyond traditional boundaries & create the future of business.",
+				"url": "http://t.co/GBtvUq9rZp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/GBtvUq9rZp",
+								"expanded_url": "http://www.fastcompany.com",
+								"display_url": "fastcompany.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2337956,
+				"friends_count": 4069,
+				"listed_count": 44683,
+				"created_at": "Wed Mar 28 22:39:21 +0000 2007",
+				"favourites_count": 8442,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 180620,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/425029708/2048x1600-fc-twitter-backgrd.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/425029708/2048x1600-fc-twitter-backgrd.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875769219400351744/ib7iIvRF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875769219400351744/ib7iIvRF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2735591/1519141870",
+				"profile_link_color": "9AB2B4",
+				"profile_sidebar_border_color": "5A5A5A",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 17 05:34:21 +0000 2018",
 		"id": 974881604014256100,
 		"id_str": "974881604014256129",
