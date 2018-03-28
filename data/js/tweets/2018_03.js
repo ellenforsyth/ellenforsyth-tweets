@@ -1,6 +1,858 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 27 18:47:07 +0000 2018",
+		"id": 978704988456153100,
+		"id_str": "978704988456153088",
+		"text": "A Free and Public-Serving Internet https://t.co/a4yGRBISba via @amlibraries",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amlibraries",
+					"name": "American Libraries",
+					"id": 18955776,
+					"id_str": "18955776",
+					"indices": [
+						63,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a4yGRBISba",
+					"expanded_url": "https://americanlibrariesmagazine.org/blogs/the-scoop/pla-free-public-serving-internet/",
+					"display_url": "americanlibrariesmagazine.org/blogs/the-scoo…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2472,
+			"friends_count": 721,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3482,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33976,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 27 17:43:11 +0000 2018",
+		"id": 978688898925645800,
+		"id_str": "978688898925645824",
+		"text": "RT @lorcanD: Interesting presentation of strategic priorities.... https://t.co/i9SvRMci1m",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lorcanD",
+					"name": "lorcan dempsey",
+					"id": 27106703,
+					"id_str": "27106703",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i9SvRMci1m",
+					"expanded_url": "https://twitter.com/jambina/status/978331467410386944",
+					"display_url": "twitter.com/jambina/status…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2472,
+			"friends_count": 721,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3482,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33976,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 27 17:27:17 +0000 2018",
+			"id": 978684899816366100,
+			"id_str": "978684899816366080",
+			"text": "Interesting presentation of strategic priorities.... https://t.co/i9SvRMci1m",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/i9SvRMci1m",
+						"expanded_url": "https://twitter.com/jambina/status/978331467410386944",
+						"display_url": "twitter.com/jambina/status…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27106703,
+				"id_str": "27106703",
+				"name": "lorcan dempsey",
+				"screen_name": "lorcanD",
+				"location": "Columbus, OH",
+				"description": "Working for libraries. Living with family in Ohio. Has worked for @dubcilib, @uniofbath, @jisc, @KingsCollegeLon, @oclc, ...",
+				"url": "http://t.co/2xNkAay81O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2xNkAay81O",
+								"expanded_url": "http://orweblog.oclc.org",
+								"display_url": "orweblog.oclc.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7122,
+				"friends_count": 1369,
+				"listed_count": 629,
+				"created_at": "Fri Mar 27 21:50:20 +0000 2009",
+				"favourites_count": 1091,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24136,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C49AE6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/209257727/smallcobblestones.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/209257727/smallcobblestones.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859593084589486080/A8fY4COX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859593084589486080/A8fY4COX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27106703/1439255884",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 978331467410387000,
+			"quoted_status_id_str": "978331467410386944",
+			"quoted_status": {
+				"created_at": "Mon Mar 26 18:02:53 +0000 2018",
+				"id": 978331467410387000,
+				"id_str": "978331467410386944",
+				"text": "why yes, yes i am stoked about our strategic priorities. one in particular has me doing a dance. (and yup, we’re go… https://t.co/bE6Vd1kJ6I",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/bE6Vd1kJ6I",
+							"expanded_url": "https://twitter.com/i/web/status/978331467410386944",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 11383102,
+					"id_str": "11383102",
+					"name": "amy buckland",
+					"screen_name": "jambina",
+					"location": "Guelph, Ontario",
+					"description": "public scholarship is everything. it's all remix, hon. CHALLENGE LEGACY PROCESSES. she/her/hers. tweets are mine. Montréal dans l'coeur. [Image @RoriComics]",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2806,
+					"friends_count": 518,
+					"listed_count": 318,
+					"created_at": "Thu Dec 20 20:21:26 +0000 2007",
+					"favourites_count": 5153,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 20683,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "E9EAF3",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/37862012/books.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/37862012/books.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/859038007260831745/bgxH88pZ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/859038007260831745/bgxH88pZ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/11383102/1472183884",
+					"profile_link_color": "9E193F",
+					"profile_sidebar_border_color": "E9EAF3",
+					"profile_sidebar_fill_color": "E9EAF3",
+					"profile_text_color": "0B092E",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 9,
+				"favorite_count": 111,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 978331467410387000,
+		"quoted_status_id_str": "978331467410386944",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 27 17:40:07 +0000 2018",
+		"id": 978688127383437300,
+		"id_str": "978688127383437313",
+		"text": "RT @bridgeyb: \"Here is a group of people who come from the town camps of Alice Springs, who live day in, day out with some of the most appa…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bridgeyb",
+					"name": "Bridget Brennan",
+					"id": 23560222,
+					"id_str": "23560222",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2472,
+			"friends_count": 721,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3482,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33976,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 26 20:44:01 +0000 2018",
+			"id": 978372020738994200,
+			"id_str": "978372020738994176",
+			"text": "\"Here is a group of people who come from the town camps of Alice Springs, who live day in, day out with some of the… https://t.co/y0g06hatOo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y0g06hatOo",
+						"expanded_url": "https://twitter.com/i/web/status/978372020738994176",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23560222,
+				"id_str": "23560222",
+				"name": "Bridget Brennan",
+				"screen_name": "bridgeyb",
+				"location": "Sydney, New South Wales",
+				"description": "National Indigenous Affairs Correspondent - @abcnews | [-o-] | Kicked out of Year 11 Maths | Views my own brennan.bridget@abc.net.au",
+				"url": "https://t.co/4cQxbi2eij",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4cQxbi2eij",
+								"expanded_url": "http://abc.net.au/news",
+								"display_url": "abc.net.au/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4788,
+				"friends_count": 3883,
+				"listed_count": 107,
+				"created_at": "Tue Mar 10 05:19:02 +0000 2009",
+				"favourites_count": 3190,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7214,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/80899945/sunset.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/80899945/sunset.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/957048426021048320/FCktXiY3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/957048426021048320/FCktXiY3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23560222/1517013184",
+				"profile_link_color": "6C148F",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 101,
+			"favorite_count": 168,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Mar 27 17:39:34 +0000 2018",
+		"id": 978687987515998200,
+		"id_str": "978687987515998208",
+		"text": "RT @AmyBrim: Most advantage and disadvantage areas in Australia according to latest census. #closingthegap @IndigenousXLtd #shameful #racis…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "closingthegap",
+					"indices": [
+						92,
+						106
+					]
+				},
+				{
+					"text": "shameful",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmyBrim",
+					"name": "Amy Brim",
+					"id": 2816118020,
+					"id_str": "2816118020",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "IndigenousXLtd",
+					"name": "IndigenousX Pty Ltd",
+					"id": 326765076,
+					"id_str": "326765076",
+					"indices": [
+						107,
+						122
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2472,
+			"friends_count": 721,
+			"listed_count": 235,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3482,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33976,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 27 05:25:03 +0000 2018",
+			"id": 978503141141332000,
+			"id_str": "978503141141331968",
+			"text": "Most advantage and disadvantage areas in Australia according to latest census. #closingthegap @IndigenousXLtd… https://t.co/HDAabO2gID",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "closingthegap",
+						"indices": [
+							79,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IndigenousXLtd",
+						"name": "IndigenousX Pty Ltd",
+						"id": 326765076,
+						"id_str": "326765076",
+						"indices": [
+							94,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HDAabO2gID",
+						"expanded_url": "https://twitter.com/i/web/status/978503141141331968",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2816118020,
+				"id_str": "2816118020",
+				"name": "Amy Brim",
+				"screen_name": "AmyBrim",
+				"location": "",
+				"description": "FN QLD Djabuganji and Kuku-Yalanji woman. Midwifery Student , family business owner & Mother of 4",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 560,
+				"friends_count": 466,
+				"listed_count": 11,
+				"created_at": "Thu Sep 18 02:12:43 +0000 2014",
+				"favourites_count": 9361,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5855,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/582129064242102273/Y-WwM4iz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/582129064242102273/Y-WwM4iz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2816118020/1415683992",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 26 20:03:53 +0000 2018",
 		"id": 978361919227674600,
 		"id_str": "978361919227674624",
