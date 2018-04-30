@@ -1,6 +1,540 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 29 10:40:00 +0000 2018",
+		"id": 990541202268213200,
+		"id_str": "990541202268213250",
+		"text": "When Solving Problems, Think About What You Could Do, Not What You Should Do - and it is about providing better sol… https://t.co/SiHfomqAYr",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SiHfomqAYr",
+					"expanded_url": "https://twitter.com/i/web/status/990541202268213250",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2484,
+			"friends_count": 730,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3681,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34134,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 29 10:11:18 +0000 2018",
+		"id": 990533979475329000,
+		"id_str": "990533979475329025",
+		"text": "RT @TheFoofinator: A short little comic I did today about casual imposter syndrome. https://t.co/ONseU6tR2M",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheFoofinator",
+					"name": "Sara Alfageeh @ crunch time",
+					"id": 2613399908,
+					"id_str": "2613399908",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 989946364539883500,
+					"id_str": "989946364539883521",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Dbz--T0W0AEx_04.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dbz--T0W0AEx_04.jpg",
+					"url": "https://t.co/ONseU6tR2M",
+					"display_url": "pic.twitter.com/ONseU6tR2M",
+					"expanded_url": "https://twitter.com/TheFoofinator/status/989946511025954817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 819,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1397,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989946511025954800,
+					"source_status_id_str": "989946511025954817",
+					"source_user_id": 2613399908,
+					"source_user_id_str": "2613399908"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 989946364539883500,
+					"id_str": "989946364539883521",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Dbz--T0W0AEx_04.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dbz--T0W0AEx_04.jpg",
+					"url": "https://t.co/ONseU6tR2M",
+					"display_url": "pic.twitter.com/ONseU6tR2M",
+					"expanded_url": "https://twitter.com/TheFoofinator/status/989946511025954817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 819,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1397,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989946511025954800,
+					"source_status_id_str": "989946511025954817",
+					"source_user_id": 2613399908,
+					"source_user_id_str": "2613399908"
+				},
+				{
+					"id": 989946453089976300,
+					"id_str": "989946453089976320",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Dbz_DdsWAAAijxp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dbz_DdsWAAAijxp.jpg",
+					"url": "https://t.co/ONseU6tR2M",
+					"display_url": "pic.twitter.com/ONseU6tR2M",
+					"expanded_url": "https://twitter.com/TheFoofinator/status/989946511025954817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 817,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1395,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989946511025954800,
+					"source_status_id_str": "989946511025954817",
+					"source_user_id": 2613399908,
+					"source_user_id_str": "2613399908"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2484,
+			"friends_count": 730,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3681,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34134,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678440996/79bf2e10c9506a57eaa918341d08b5fe.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 27 19:16:55 +0000 2018",
+			"id": 989946511025954800,
+			"id_str": "989946511025954817",
+			"text": "A short little comic I did today about casual imposter syndrome. https://t.co/ONseU6tR2M",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 989946364539883500,
+						"id_str": "989946364539883521",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/Dbz--T0W0AEx_04.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dbz--T0W0AEx_04.jpg",
+						"url": "https://t.co/ONseU6tR2M",
+						"display_url": "pic.twitter.com/ONseU6tR2M",
+						"expanded_url": "https://twitter.com/TheFoofinator/status/989946511025954817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 819,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1397,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 989946364539883500,
+						"id_str": "989946364539883521",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/Dbz--T0W0AEx_04.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dbz--T0W0AEx_04.jpg",
+						"url": "https://t.co/ONseU6tR2M",
+						"display_url": "pic.twitter.com/ONseU6tR2M",
+						"expanded_url": "https://twitter.com/TheFoofinator/status/989946511025954817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 819,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1397,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 989946453089976300,
+						"id_str": "989946453089976320",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/Dbz_DdsWAAAijxp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dbz_DdsWAAAijxp.jpg",
+						"url": "https://t.co/ONseU6tR2M",
+						"display_url": "pic.twitter.com/ONseU6tR2M",
+						"expanded_url": "https://twitter.com/TheFoofinator/status/989946511025954817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 817,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1395,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 463,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2613399908,
+				"id_str": "2613399908",
+				"name": "Sara Alfageeh @ crunch time",
+				"screen_name": "TheFoofinator",
+				"location": "Boston, MA",
+				"description": "I talk a lot. Draw a lot. Call people hun a lot. \n(She/Her) // contact at alfaillustration@gmail.com",
+				"url": "https://t.co/IMBmV5tidY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IMBmV5tidY",
+								"expanded_url": "https://www.sara-alfa.com/",
+								"display_url": "sara-alfa.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12448,
+				"friends_count": 1305,
+				"listed_count": 130,
+				"created_at": "Wed Jul 09 11:27:06 +0000 2014",
+				"favourites_count": 16070,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5056,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972278482674659328/cnGbYxxa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972278482674659328/cnGbYxxa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2613399908/1524105237",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9759,
+			"favorite_count": 27835,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9759,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 28 21:08:34 +0000 2018",
 		"id": 990336998891110400,
 		"id_str": "990336998891110400",
