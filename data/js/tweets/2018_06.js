@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 02 20:31:11 +0000 2018",
+		"id": 1003011167000784900,
+		"id_str": "1003011167000784896",
+		"text": "if you are looking for some cat related transcription to do, this may be for you 🐱 https://t.co/FboZNtXmdC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FboZNtXmdC",
+					"expanded_url": "https://twitter.com/ArchivesAmerArt/status/1002550479673614337",
+					"display_url": "twitter.com/ArchivesAmerAr…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2489,
+			"friends_count": 736,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1002550479673614300,
+		"quoted_status_id_str": "1002550479673614337",
+		"quoted_status": {
+			"created_at": "Fri Jun 01 14:00:35 +0000 2018",
+			"id": 1002550479673614300,
+			"id_str": "1002550479673614337",
+			"text": "Did you love our exhibition #BeforeInternetCats? Help transcribe even more feline finds from the Archives, includin… https://t.co/DVA7jjT3Eg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BeforeInternetCats",
+						"indices": [
+							28,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DVA7jjT3Eg",
+						"expanded_url": "https://twitter.com/i/web/status/1002550479673614337",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 185308330,
+				"id_str": "185308330",
+				"name": "ArchivesAmericanArt",
+				"screen_name": "ArchivesAmerArt",
+				"location": "Washington, DC",
+				"description": "The world's preeminent resource dedicated to collecting and preserving the papers and primary records of the visual arts in America. https://t.co/oHrluJeUFI",
+				"url": "http://t.co/D232xbuWY8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/D232xbuWY8",
+								"expanded_url": "http://www.aaa.si.edu",
+								"display_url": "aaa.si.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oHrluJeUFI",
+								"expanded_url": "http://si.edu/termsofuse",
+								"display_url": "si.edu/termsofuse",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 14471,
+				"friends_count": 413,
+				"listed_count": 632,
+				"created_at": "Tue Aug 31 17:47:59 +0000 2010",
+				"favourites_count": 706,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4792,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/601136551117074432/fHy_rxL2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/601136551117074432/fHy_rxL2_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/185308330/1432157132",
+				"profile_link_color": "6881B9",
+				"profile_sidebar_border_color": "6881B9",
+				"profile_sidebar_fill_color": "D3DBEE",
+				"profile_text_color": "4D4D4D",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 01 20:44:40 +0000 2018",
 		"id": 1002652169093304300,
 		"id_str": "1002652169093304320",
