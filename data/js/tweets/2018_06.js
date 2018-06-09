@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Fri Jun 08 20:19:28 +0000 2018",
+		"id": 1005182543140753400,
+		"id_str": "1005182543140753408",
+		"text": "RT @amlibraries: Read the June 8 issue of #ALDirect on our website at https://t.co/OIYN2Q9gFj . https://t.co/sZCUjvuW37",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDirect",
+					"indices": [
+						42,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amlibraries",
+					"name": "American Libraries",
+					"id": 18955776,
+					"id_str": "18955776",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OIYN2Q9gFj",
+					"expanded_url": "http://bit.ly/2MbPtiC",
+					"display_url": "bit.ly/2MbPtiC",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1005150351102697500,
+					"id_str": "1005150351102697472",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DfMC6zdV4AAnK2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfMC6zdV4AAnK2G.jpg",
+					"url": "https://t.co/sZCUjvuW37",
+					"display_url": "pic.twitter.com/sZCUjvuW37",
+					"expanded_url": "https://twitter.com/amlibraries/status/1005150352986042369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 90,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 90,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 90,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005150352986042400,
+					"source_status_id_str": "1005150352986042369",
+					"source_user_id": 18955776,
+					"source_user_id_str": "18955776"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1005150351102697500,
+					"id_str": "1005150351102697472",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DfMC6zdV4AAnK2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfMC6zdV4AAnK2G.jpg",
+					"url": "https://t.co/sZCUjvuW37",
+					"display_url": "pic.twitter.com/sZCUjvuW37",
+					"expanded_url": "https://twitter.com/amlibraries/status/1005150352986042369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 90,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 90,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 90,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005150352986042400,
+					"source_status_id_str": "1005150352986042369",
+					"source_user_id": 18955776,
+					"source_user_id_str": "18955776"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2494,
+			"friends_count": 735,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34298,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 08 18:11:33 +0000 2018",
+			"id": 1005150352986042400,
+			"id_str": "1005150352986042369",
+			"text": "Read the June 8 issue of #ALDirect on our website at https://t.co/OIYN2Q9gFj . https://t.co/sZCUjvuW37",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ALDirect",
+						"indices": [
+							25,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OIYN2Q9gFj",
+						"expanded_url": "http://bit.ly/2MbPtiC",
+						"display_url": "bit.ly/2MbPtiC",
+						"indices": [
+							53,
+							76
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1005150351102697500,
+						"id_str": "1005150351102697472",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DfMC6zdV4AAnK2G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfMC6zdV4AAnK2G.jpg",
+						"url": "https://t.co/sZCUjvuW37",
+						"display_url": "pic.twitter.com/sZCUjvuW37",
+						"expanded_url": "https://twitter.com/amlibraries/status/1005150352986042369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 400,
+								"h": 90,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 90,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 90,
+								"h": 90,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 90,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1005150351102697500,
+						"id_str": "1005150351102697472",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DfMC6zdV4AAnK2G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfMC6zdV4AAnK2G.jpg",
+						"url": "https://t.co/sZCUjvuW37",
+						"display_url": "pic.twitter.com/sZCUjvuW37",
+						"expanded_url": "https://twitter.com/amlibraries/status/1005150352986042369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 400,
+								"h": 90,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 90,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 90,
+								"h": 90,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 90,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18955776,
+				"id_str": "18955776",
+				"name": "American Libraries",
+				"screen_name": "amlibraries",
+				"location": "Chicago",
+				"description": "The magazine of the American Library Association. Regular tweeters include Amy Carlton, George Eberhart, Sanhita SinhaRoy, Phil Morehart, and Terra Dankowski.",
+				"url": "http://t.co/2Dq9yGNmHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2Dq9yGNmHL",
+								"expanded_url": "http://americanlibrariesmagazine.org",
+								"display_url": "americanlibrariesmagazine.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70654,
+				"friends_count": 1083,
+				"listed_count": 2221,
+				"created_at": "Tue Jan 13 22:08:09 +0000 2009",
+				"favourites_count": 536,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 21066,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18955776/1514910216",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 08 05:56:39 +0000 2018",
 		"id": 1004965410410717200,
 		"id_str": "1004965410410717184",
