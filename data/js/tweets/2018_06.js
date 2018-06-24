@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 23 10:18:35 +0000 2018",
+		"id": 1010467145476497400,
+		"id_str": "1010467145476497408",
+		"text": "Brilliant for  #CephalopodWeek #allthecephalopods https://t.co/H9FfmVCk1g",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CephalopodWeek",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "allthecephalopods",
+					"indices": [
+						31,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H9FfmVCk1g",
+					"expanded_url": "https://twitter.com/ashmoleanmuseum/status/1010434819275329536",
+					"display_url": "twitter.com/ashmoleanmuseu…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2493,
+			"friends_count": 734,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1010434819275329500,
+		"quoted_status_id_str": "1010434819275329536",
+		"quoted_status": {
+			"created_at": "Sat Jun 23 08:10:08 +0000 2018",
+			"id": 1010434819275329500,
+			"id_str": "1010434819275329536",
+			"text": "Did you know that it's #CephalopodWeek? Here is a 6-legged octopus on a Minoan clay storage jar from the Palace at… https://t.co/RprfnwsHZ3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CephalopodWeek",
+						"indices": [
+							23,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RprfnwsHZ3",
+						"expanded_url": "https://twitter.com/i/web/status/1010434819275329536",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147989108,
+				"id_str": "147989108",
+				"name": "Ashmolean Museum",
+				"screen_name": "AshmoleanMuseum",
+				"location": "Oxford, UK",
+				"description": "BOOK NOW! From experiments in abstraction to precisionist paintings, #AmericasCoolModernism explores the cool in early 20th-century American Art. Open now.",
+				"url": "http://t.co/xPfqGDHdoD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xPfqGDHdoD",
+								"expanded_url": "http://www.ashmolean.org/",
+								"display_url": "ashmolean.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70953,
+				"friends_count": 5305,
+				"listed_count": 1495,
+				"created_at": "Tue May 25 15:10:10 +0000 2010",
+				"favourites_count": 18395,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17307,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817025618118377472/lhE6-Wqu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817025618118377472/lhE6-Wqu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147989108/1519033614",
+				"profile_link_color": "CB8D2C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 133,
+			"favorite_count": 274,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 22 23:26:22 +0000 2018",
 		"id": 1010303007425089500,
 		"id_str": "1010303007425089537",
