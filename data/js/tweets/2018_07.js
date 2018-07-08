@@ -1,6 +1,942 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 07 20:23:32 +0000 2018",
+		"id": 1015692813877407700,
+		"id_str": "1015692813877407744",
+		"text": "RT @HHoangWrites: The Changing Face of Romance  by @xanalter at @nytimes.\n\n@RdotSpoon @K_StetzWaters @UzmaWrites @AlishaRai @Sonali_Dev @Pr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HHoangWrites",
+					"name": "Helen Hoang",
+					"id": 2543626539,
+					"id_str": "2543626539",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "xanalter",
+					"name": "Alexandra Alter",
+					"id": 77056184,
+					"id_str": "77056184",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"screen_name": "RdotSpoon",
+					"name": "Rebekah Weatherspoon",
+					"id": 117155917,
+					"id_str": "117155917",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"screen_name": "K_StetzWaters",
+					"name": "Karelia Stetz-Waters",
+					"id": 85625448,
+					"id_str": "85625448",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"screen_name": "UzmaWrites",
+					"name": "Uzma Jalaluddin",
+					"id": 755202419915579400,
+					"id_str": "755202419915579392",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"screen_name": "AlishaRai",
+					"name": "Alisha Rai",
+					"id": 30343566,
+					"id_str": "30343566",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"screen_name": "Sonali_Dev",
+					"name": "So-nasty-Li Dev",
+					"id": 568739081,
+					"id_str": "568739081",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2493,
+			"friends_count": 734,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34381,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 07 13:27:48 +0000 2018",
+			"id": 1015588193171894300,
+			"id_str": "1015588193171894272",
+			"text": "The Changing Face of Romance  by @xanalter at @nytimes.\n\n@RdotSpoon @K_StetzWaters @UzmaWrites @AlishaRai… https://t.co/PEkTeKgzG7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "xanalter",
+						"name": "Alexandra Alter",
+						"id": 77056184,
+						"id_str": "77056184",
+						"indices": [
+							33,
+							42
+						]
+					},
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							46,
+							54
+						]
+					},
+					{
+						"screen_name": "RdotSpoon",
+						"name": "Rebekah Weatherspoon",
+						"id": 117155917,
+						"id_str": "117155917",
+						"indices": [
+							57,
+							67
+						]
+					},
+					{
+						"screen_name": "K_StetzWaters",
+						"name": "Karelia Stetz-Waters",
+						"id": 85625448,
+						"id_str": "85625448",
+						"indices": [
+							68,
+							82
+						]
+					},
+					{
+						"screen_name": "UzmaWrites",
+						"name": "Uzma Jalaluddin",
+						"id": 755202419915579400,
+						"id_str": "755202419915579392",
+						"indices": [
+							83,
+							94
+						]
+					},
+					{
+						"screen_name": "AlishaRai",
+						"name": "Alisha Rai",
+						"id": 30343566,
+						"id_str": "30343566",
+						"indices": [
+							95,
+							105
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PEkTeKgzG7",
+						"expanded_url": "https://twitter.com/i/web/status/1015588193171894272",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2543626539,
+				"id_str": "2543626539",
+				"name": "Helen Hoang",
+				"screen_name": "HHoangWrites",
+				"location": "San Diego, CA",
+				"description": "Author of #TheKissQuotient and #TheBrideTest (May 2019). 2016 #PitchWars alum. Hapa. Neurodiverse. Rep'd by @BookEndsKim. Saying it with a love story.",
+				"url": "https://t.co/at7JTKC6vb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/at7JTKC6vb",
+								"expanded_url": "http://www.helenhoang.com",
+								"display_url": "helenhoang.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2812,
+				"friends_count": 1879,
+				"listed_count": 52,
+				"created_at": "Mon May 12 19:54:53 +0000 2014",
+				"favourites_count": 31197,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7650,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988946032061894656/sfPm9MaX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988946032061894656/sfPm9MaX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2543626539/1516897817",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 92,
+			"favorite_count": 272,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 07 20:20:28 +0000 2018",
+		"id": 1015692043287269400,
+		"id_str": "1015692043287269376",
+		"text": "interesting local studies data too https://t.co/r4lsLuPWCG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r4lsLuPWCG",
+					"expanded_url": "https://twitter.com/infodocket/status/1015213778546384896",
+					"display_url": "twitter.com/infodocket/sta…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2493,
+			"friends_count": 734,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34381,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1015213778546384900,
+		"quoted_status_id_str": "1015213778546384896",
+		"quoted_status": {
+			"created_at": "Fri Jul 06 12:40:01 +0000 2018",
+			"id": 1015213778546384900,
+			"id_str": "1015213778546384896",
+			"text": "New Research/Reference Tools: University of Wisconsin-Madison Debuts First-of-Its Kind Neighborhood #Map to Guide M… https://t.co/PLlRnOUlgC",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Map",
+						"indices": [
+							100,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PLlRnOUlgC",
+						"expanded_url": "https://twitter.com/i/web/status/1015213778546384896",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 252735965,
+				"id_str": "252735965",
+				"name": "LJ's infoDOCKET",
+				"screen_name": "infodocket",
+				"location": "",
+				"description": "Shirl Kennedy and Gary Price are now blogging at: http://t.co/V4SkdecdeK & http://t.co/D9vrwV9XYi",
+				"url": "http://t.co/3gr2XTEAIX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3gr2XTEAIX",
+								"expanded_url": "http://infodocket.com",
+								"display_url": "infodocket.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/V4SkdecdeK",
+								"expanded_url": "http://fulltextreports.com",
+								"display_url": "fulltextreports.com",
+								"indices": [
+									50,
+									72
+								]
+							},
+							{
+								"url": "http://t.co/D9vrwV9XYi",
+								"expanded_url": "http://INFOdocket.com",
+								"display_url": "INFOdocket.com",
+								"indices": [
+									75,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5327,
+				"friends_count": 190,
+				"listed_count": 585,
+				"created_at": "Tue Feb 15 20:10:49 +0000 2011",
+				"favourites_count": 98,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24956,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "250B26",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2109567933/Library_Journal_INFOdocket_logo2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2109567933/Library_Journal_INFOdocket_logo2_normal.jpeg",
+				"profile_link_color": "57676E",
+				"profile_sidebar_border_color": "75E9CF",
+				"profile_sidebar_fill_color": "78B0A8",
+				"profile_text_color": "3A3140",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 07 20:19:24 +0000 2018",
+		"id": 1015691777024507900,
+		"id_str": "1015691777024507905",
+		"text": "RT @infodocket: Report: Why Public #Libraries Can’t Buy Some of Canada’s Top #Audiobooks https://t.co/X1VGgyZLXz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Libraries",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "Audiobooks",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "infodocket",
+					"name": "LJ's infoDOCKET",
+					"id": 252735965,
+					"id_str": "252735965",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X1VGgyZLXz",
+					"expanded_url": "http://ow.ly/Fm1d30kQi5U",
+					"display_url": "ow.ly/Fm1d30kQi5U",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2493,
+			"friends_count": 734,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34381,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 07 13:03:27 +0000 2018",
+			"id": 1015582065092329500,
+			"id_str": "1015582065092329472",
+			"text": "Report: Why Public #Libraries Can’t Buy Some of Canada’s Top #Audiobooks https://t.co/X1VGgyZLXz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Libraries",
+						"indices": [
+							19,
+							29
+						]
+					},
+					{
+						"text": "Audiobooks",
+						"indices": [
+							61,
+							72
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/X1VGgyZLXz",
+						"expanded_url": "http://ow.ly/Fm1d30kQi5U",
+						"display_url": "ow.ly/Fm1d30kQi5U",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 252735965,
+				"id_str": "252735965",
+				"name": "LJ's infoDOCKET",
+				"screen_name": "infodocket",
+				"location": "",
+				"description": "Shirl Kennedy and Gary Price are now blogging at: http://t.co/V4SkdecdeK & http://t.co/D9vrwV9XYi",
+				"url": "http://t.co/3gr2XTEAIX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3gr2XTEAIX",
+								"expanded_url": "http://infodocket.com",
+								"display_url": "infodocket.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/V4SkdecdeK",
+								"expanded_url": "http://fulltextreports.com",
+								"display_url": "fulltextreports.com",
+								"indices": [
+									50,
+									72
+								]
+							},
+							{
+								"url": "http://t.co/D9vrwV9XYi",
+								"expanded_url": "http://INFOdocket.com",
+								"display_url": "INFOdocket.com",
+								"indices": [
+									75,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5327,
+				"friends_count": 190,
+				"listed_count": 585,
+				"created_at": "Tue Feb 15 20:10:49 +0000 2011",
+				"favourites_count": 98,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24956,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "250B26",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2109567933/Library_Journal_INFOdocket_logo2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2109567933/Library_Journal_INFOdocket_logo2_normal.jpeg",
+				"profile_link_color": "57676E",
+				"profile_sidebar_border_color": "75E9CF",
+				"profile_sidebar_fill_color": "78B0A8",
+				"profile_text_color": "3A3140",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 07 19:42:40 +0000 2018",
+		"id": 1015682532610736100,
+		"id_str": "1015682532610736128",
+		"text": "Aboriginal family photos a passion for inspirational photographer  via ⁦@abcnews⁩  https://t.co/gseGit3QkW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gseGit3QkW",
+					"expanded_url": "http://www.abc.net.au/news/2018-07-08/aboriginal-family-photos-showcase-culture-and-landscape/9945052",
+					"display_url": "abc.net.au/news/2018-07-0…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things.  The opinions are my own.",
+			"url": "http://t.co/MonZqw0FwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MonZqw0FwM",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2493,
+			"friends_count": 734,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34381,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jul 06 20:05:44 +0000 2018",
 		"id": 1015325949485723600,
 		"id_str": "1015325949485723648",
