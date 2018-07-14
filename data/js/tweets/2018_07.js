@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 13 20:09:42 +0000 2018",
+		"id": 1017863659555455000,
+		"id_str": "1017863659555454976",
+		"text": "RT @BL_DigiSchol: Exciting to see people, such as @CinereusDarrow &amp; @HazelRaah, working on their #GothNovJam @readwatchplay entries. @miss_…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GothNovJam",
+					"indices": [
+						101,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BL_DigiSchol",
+					"name": "Digital Scholarship",
+					"id": 744814089172455400,
+					"id_str": "744814089172455424",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "CinereusDarrow",
+					"name": "_Ash",
+					"id": 2806513041,
+					"id_str": "2806513041",
+					"indices": [
+						50,
+						65
+					]
+				},
+				{
+					"screen_name": "HazelRaah",
+					"name": "Hazel-Rah",
+					"id": 887627268134195200,
+					"id_str": "887627268134195200",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"screen_name": "readwatchplay",
+					"name": "Read Watch Play",
+					"id": 595268016,
+					"id_str": "595268016",
+					"indices": [
+						113,
+						127
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Kamilaroi country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2489,
+			"friends_count": 736,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34398,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 13 12:44:47 +0000 2018",
+			"id": 1017751693776359400,
+			"id_str": "1017751693776359424",
+			"text": "Exciting to see people, such as @CinereusDarrow &amp; @HazelRaah, working on their #GothNovJam @readwatchplay entries.… https://t.co/E5HfzoWTIu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GothNovJam",
+						"indices": [
+							83,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CinereusDarrow",
+						"name": "_Ash",
+						"id": 2806513041,
+						"id_str": "2806513041",
+						"indices": [
+							32,
+							47
+						]
+					},
+					{
+						"screen_name": "HazelRaah",
+						"name": "Hazel-Rah",
+						"id": 887627268134195200,
+						"id_str": "887627268134195200",
+						"indices": [
+							54,
+							64
+						]
+					},
+					{
+						"screen_name": "readwatchplay",
+						"name": "Read Watch Play",
+						"id": 595268016,
+						"id_str": "595268016",
+						"indices": [
+							95,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/E5HfzoWTIu",
+						"expanded_url": "https://twitter.com/i/web/status/1017751693776359424",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744814089172455400,
+				"id_str": "744814089172455424",
+				"name": "Digital Scholarship",
+				"screen_name": "BL_DigiSchol",
+				"location": "United Kingdom",
+				"description": "Enabling innovative research with @britishlibrary digital collections. Tweets by @ndalyrose, @miss_wisdom & @mia_out",
+				"url": "https://t.co/E7eDKDTLxe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/E7eDKDTLxe",
+								"expanded_url": "http://www.bl.uk/subjects/digital-scholarship",
+								"display_url": "bl.uk/subjects/digit…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1408,
+				"friends_count": 834,
+				"listed_count": 41,
+				"created_at": "Mon Jun 20 08:48:11 +0000 2016",
+				"favourites_count": 234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 659,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744814089172455424/1466432652",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 13 20:08:35 +0000 2018",
+		"id": 1017863381489889300,
+		"id_str": "1017863381489889280",
+		"text": "No card, no waits at state's growing e-book library https://t.co/qozLwgCdNM a Minnesota initiative ' titles ranging… https://t.co/pbWaluoyJH",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qozLwgCdNM",
+					"expanded_url": "http://strib.mn/2z4b3D6",
+					"display_url": "strib.mn/2z4b3D6",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/pbWaluoyJH",
+					"expanded_url": "https://twitter.com/i/web/status/1017863381489889280",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Kamilaroi country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2489,
+			"friends_count": 736,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 3954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34398,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 11 19:12:15 +0000 2018",
 		"id": 1017124428897906700,
 		"id_str": "1017124428897906688",
