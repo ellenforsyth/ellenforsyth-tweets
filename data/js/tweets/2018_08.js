@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 09 19:34:14 +0000 2018",
+		"id": 1027639207236329500,
+		"id_str": "1027639207236329473",
+		"text": "RT @kitchensisters: A Call for Keepers / The Hotline's Open: 415-496-9049. https://t.co/jGMCUEVkfp https://t.co/c1SLh2aQLj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kitchensisters",
+					"name": "The Kitchen Sisters",
+					"id": 16459243,
+					"id_str": "16459243",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jGMCUEVkfp",
+					"expanded_url": "https://mailchi.mp/kitchensisters/a-call-for-keepers",
+					"display_url": "mailchi.mp/kitchensisters…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1027595711750099000,
+					"id_str": "1027595711750098944",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DkLA2vuUUAAMgPl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkLA2vuUUAAMgPl.jpg",
+					"url": "https://t.co/c1SLh2aQLj",
+					"display_url": "pic.twitter.com/c1SLh2aQLj",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1027595890989486081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 738,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 738,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 627,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027595890989486100,
+					"source_status_id_str": "1027595890989486081",
+					"source_user_id": 16459243,
+					"source_user_id_str": "16459243"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027595711750099000,
+					"id_str": "1027595711750098944",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DkLA2vuUUAAMgPl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkLA2vuUUAAMgPl.jpg",
+					"url": "https://t.co/c1SLh2aQLj",
+					"display_url": "pic.twitter.com/c1SLh2aQLj",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1027595890989486081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 738,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 738,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 627,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027595890989486100,
+					"source_status_id_str": "1027595890989486081",
+					"source_user_id": 16459243,
+					"source_user_id_str": "16459243"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Kamilaroi country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2491,
+			"friends_count": 737,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34469,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 09 16:42:06 +0000 2018",
+			"id": 1027595890989486100,
+			"id_str": "1027595890989486081",
+			"text": "A Call for Keepers / The Hotline's Open: 415-496-9049. https://t.co/jGMCUEVkfp https://t.co/c1SLh2aQLj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jGMCUEVkfp",
+						"expanded_url": "https://mailchi.mp/kitchensisters/a-call-for-keepers",
+						"display_url": "mailchi.mp/kitchensisters…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1027595711750099000,
+						"id_str": "1027595711750098944",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DkLA2vuUUAAMgPl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkLA2vuUUAAMgPl.jpg",
+						"url": "https://t.co/c1SLh2aQLj",
+						"display_url": "pic.twitter.com/c1SLh2aQLj",
+						"expanded_url": "https://twitter.com/kitchensisters/status/1027595890989486081/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 738,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 738,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 627,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1027595711750099000,
+						"id_str": "1027595711750098944",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DkLA2vuUUAAMgPl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkLA2vuUUAAMgPl.jpg",
+						"url": "https://t.co/c1SLh2aQLj",
+						"display_url": "pic.twitter.com/c1SLh2aQLj",
+						"expanded_url": "https://twitter.com/kitchensisters/status/1027595890989486081/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 738,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 738,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 627,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16459243,
+				"id_str": "16459243",
+				"name": "The Kitchen Sisters",
+				"screen_name": "kitchensisters",
+				"location": "San Francisco",
+				"description": "The Kitchen Sisters (Davia Nelson & Nikki Silva), producers of NPR's Hidden Kitchens, The Hidden World of Girls & The Kitchen Sisters Present podcast",
+				"url": "http://t.co/AVmB8ffkDA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AVmB8ffkDA",
+								"expanded_url": "http://www.kitchensisters.org",
+								"display_url": "kitchensisters.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15091,
+				"friends_count": 3602,
+				"listed_count": 618,
+				"created_at": "Thu Sep 25 22:38:03 +0000 2008",
+				"favourites_count": 4991,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8597,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16459243/1511977532",
+				"profile_link_color": "1EBBEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 08 19:44:43 +0000 2018",
 		"id": 1027279456614973400,
 		"id_str": "1027279456614973441",
