@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 11 18:34:17 +0000 2018",
+		"id": 1028348895477125100,
+		"id_str": "1028348895477125120",
+		"text": "RT @RAforAll: Listen to this brilliant man. https://t.co/GsguWgqxsK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAforAll",
+					"name": "Becky Spratford",
+					"id": 2474412986,
+					"id_str": "2474412986",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GsguWgqxsK",
+					"expanded_url": "https://twitter.com/JeffStrand/status/1028293895736774656",
+					"display_url": "twitter.com/JeffStrand/sta…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Kamilaroi country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2491,
+			"friends_count": 737,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34472,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 11 16:46:49 +0000 2018",
+			"id": 1028321853721509900,
+			"id_str": "1028321853721509889",
+			"text": "Listen to this brilliant man. https://t.co/GsguWgqxsK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GsguWgqxsK",
+						"expanded_url": "https://twitter.com/JeffStrand/status/1028293895736774656",
+						"display_url": "twitter.com/JeffStrand/sta…",
+						"indices": [
+							30,
+							53
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library, always. #Horror maven, sometimes. Jersey Girl, forever! @AmherstCollege alum. @ARRTreads @HorrorWriters",
+				"url": "http://t.co/UqsI4i2bun",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UqsI4i2bun",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1940,
+				"friends_count": 1522,
+				"listed_count": 120,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 11563,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21235,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1028293895736774700,
+			"quoted_status_id_str": "1028293895736774656",
+			"quoted_status": {
+				"created_at": "Sat Aug 11 14:55:44 +0000 2018",
+				"id": 1028293895736774700,
+				"id_str": "1028293895736774656",
+				"text": "You should never feel uncomfortable telling an author you got their book from the library. Libraries are awesome. A… https://t.co/jq58bAq07P",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/jq58bAq07P",
+							"expanded_url": "https://twitter.com/i/web/status/1028293895736774656",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 17577038,
+					"id_str": "17577038",
+					"name": "JeffStrand",
+					"screen_name": "JeffStrand",
+					"location": "Atlanta, Georgia",
+					"description": "Author of a great many delightful books for your reading ecstasy. Sometimes called the king of horror comedy. Sometimes not called that.",
+					"url": "https://t.co/tGSM28KqO6",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/tGSM28KqO6",
+									"expanded_url": "http://www.jeffstrand.com",
+									"display_url": "jeffstrand.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3754,
+					"friends_count": 589,
+					"listed_count": 152,
+					"created_at": "Sun Nov 23 19:26:56 +0000 2008",
+					"favourites_count": 4475,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 6856,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A1B1F",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/852564263709310978/JVGK8qAo_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/852564263709310978/JVGK8qAo_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/17577038/1514405298",
+					"profile_link_color": "2FC2EF",
+					"profile_sidebar_border_color": "181A1E",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "666666",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 32,
+				"favorite_count": 180,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1028293895736774700,
+		"quoted_status_id_str": "1028293895736774656",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 10 20:05:44 +0000 2018",
 		"id": 1028009525050134500,
 		"id_str": "1028009525050134528",
