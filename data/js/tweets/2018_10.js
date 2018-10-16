@@ -1,6 +1,945 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 21:19:27 +0000 2018",
+		"id": 1051945672818090000,
+		"id_str": "1051945672818089984",
+		"full_text": "about Timor Leste by @WFP for #worldfoodday https://t.co/dzrsTWXh0Z some progress, lots of opportunities",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "worldfoodday",
+					"indices": [
+						30,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WFP",
+					"name": "World Food Programme",
+					"id": 27830610,
+					"id_str": "27830610",
+					"indices": [
+						21,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dzrsTWXh0Z",
+					"expanded_url": "http://www1.wfp.org/countries/timor-leste",
+					"display_url": "www1.wfp.org/countries/timo…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2461,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "about Timor Leste by @WFP for #worldfoodday https://t.co/dzrsTWXh0Z some progress, lots of opportunities"
+	},
+	{
+		"created_at": "Thu Oct 11 21:54:24 +0000 2018",
+		"id": 1050504919751581700,
+		"id_str": "1050504919751581696",
+		"full_text": "Announcing the Top 10 FAIR Data Things Global Sprint https://t.co/rbwuBpKMVT organized by @LibCarpentry @ands_nectar_rds @resdatall L4RD w/ @RDA_Europe, @fosterscience, @aarnet, @ESIPfed, @CalDigLib, @datadryad, and @GOFAIRofficial Join us at the end of November!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LibCarpentry",
+					"name": "Library Carpentry",
+					"id": 736221501209202700,
+					"id_str": "736221501209202688",
+					"indices": [
+						90,
+						103
+					]
+				},
+				{
+					"screen_name": "ands_nectar_rds",
+					"name": "Australian Research Data Commons (ARDC)",
+					"id": 402333494,
+					"id_str": "402333494",
+					"indices": [
+						104,
+						120
+					]
+				},
+				{
+					"screen_name": "resdatall",
+					"name": "ResearchDataAlliance",
+					"id": 1219888003,
+					"id_str": "1219888003",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"screen_name": "RDA_Europe",
+					"name": "RDA Europe",
+					"id": 817074074,
+					"id_str": "817074074",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"screen_name": "fosterscience",
+					"name": "Foster Open Science",
+					"id": 2283463274,
+					"id_str": "2283463274",
+					"indices": [
+						153,
+						167
+					]
+				},
+				{
+					"screen_name": "AARNet",
+					"name": "AARNet Australia",
+					"id": 34174918,
+					"id_str": "34174918",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"screen_name": "ESIPfed",
+					"name": "ESIP Federation",
+					"id": 214615015,
+					"id_str": "214615015",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"screen_name": "CalDigLib",
+					"name": "CA Digital Library",
+					"id": 74765855,
+					"id_str": "74765855",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"screen_name": "datadryad",
+					"name": "Dryad",
+					"id": 93950513,
+					"id_str": "93950513",
+					"indices": [
+						200,
+						210
+					]
+				},
+				{
+					"screen_name": "GOFAIRofficial",
+					"name": "GO FAIR",
+					"id": 957947484063649800,
+					"id_str": "957947484063649793",
+					"indices": [
+						216,
+						231
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rbwuBpKMVT",
+					"expanded_url": "https://librarycarpentry.org/blog/2018/10/11/top-ten-fair-announcement/",
+					"display_url": "librarycarpentry.org/blog/2018/10/1…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 736221501209202700,
+			"id_str": "736221501209202688",
+			"name": "Library Carpentry",
+			"screen_name": "LibCarpentry",
+			"location": "Everywhere!",
+			"description": "Library Carpentry: software & data skills training for library professionals. Join our growing community.",
+			"url": "https://t.co/JH0BAZBPMM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JH0BAZBPMM",
+							"expanded_url": "https://librarycarpentry.org",
+							"display_url": "librarycarpentry.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1972,
+			"friends_count": 98,
+			"listed_count": 62,
+			"created_at": "Fri May 27 15:44:19 +0000 2016",
+			"favourites_count": 903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 490,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804598210052374528/mk8654ws_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804598210052374528/mk8654ws_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736221501209202688/1480666162",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Announcing the Top 10 FAIR Data Things Global Sprint https://t.co/rbwuBpKMVT organized by @LibCarpentry @ands_nectar_rds @resdatall L4RD w/ @RDA_Europe, @fosterscience, @aarnet, @ESIPfed, @CalDigLib, @datadryad, and @GOFAIRofficial Join us at the end of November!"
+	},
+	{
+		"created_at": "Mon Oct 15 19:48:50 +0000 2018",
+		"id": 1051922868479569900,
+		"id_str": "1051922868479569922",
+		"full_text": "music has great potential for local studies collections too - and this shows benefits of contemporary collecting https://t.co/sGO7owgXJ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sGO7owgXJ1",
+					"expanded_url": "https://twitter.com/soundarchive/status/1051149353635762176",
+					"display_url": "twitter.com/soundarchive/s…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2461,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051149353635762200,
+		"quoted_status_id_str": "1051149353635762176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sGO7owgXJ1",
+			"expanded": "https://twitter.com/soundarchive/status/1051149353635762176",
+			"display": "twitter.com/soundarchive/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 13 16:35:09 +0000 2018",
+			"id": 1051149353635762200,
+			"id_str": "1051149353635762176",
+			"full_text": "Recording of the week: discoveries among a collection of demo tapes - Fastilio, an all-female Bologna-based experimental band from the 1990s https://t.co/BuhdaeQoLw https://t.co/pdRbhnDwcj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BuhdaeQoLw",
+						"expanded_url": "https://shar.es/a1Ae3w",
+						"display_url": "shar.es/a1Ae3w",
+						"indices": [
+							141,
+							164
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1051149037892710400,
+						"id_str": "1051149037892710400",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/DpZuexGWsAAxmx7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpZuexGWsAAxmx7.jpg",
+						"url": "https://t.co/pdRbhnDwcj",
+						"display_url": "pic.twitter.com/pdRbhnDwcj",
+						"expanded_url": "https://twitter.com/soundarchive/status/1051149353635762176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 580,
+								"h": 389,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 389,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 580,
+								"h": 389,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1051149037892710400,
+						"id_str": "1051149037892710400",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/DpZuexGWsAAxmx7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpZuexGWsAAxmx7.jpg",
+						"url": "https://t.co/pdRbhnDwcj",
+						"display_url": "pic.twitter.com/pdRbhnDwcj",
+						"expanded_url": "https://twitter.com/soundarchive/status/1051149353635762176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 580,
+								"h": 389,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 389,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 580,
+								"h": 389,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22028935,
+				"id_str": "22028935",
+				"name": "Sound Archive",
+				"screen_name": "soundarchive",
+				"location": "London, UK",
+				"description": "Sound Archive @BritishLibrary: 7 million recordings of music, voices, environments. Tweets by Richard Ranft. Blog: http://t.co/TuSRYUV7Ns",
+				"url": "http://t.co/QQ7BIbQ40P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QQ7BIbQ40P",
+								"expanded_url": "http://www.bl.uk/soundarchive",
+								"display_url": "bl.uk/soundarchive",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/TuSRYUV7Ns",
+								"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision",
+								"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+								"indices": [
+									115,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18221,
+				"friends_count": 1431,
+				"listed_count": 847,
+				"created_at": "Thu Feb 26 16:36:05 +0000 2009",
+				"favourites_count": 263,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5321,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22028935/1535972358",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "music has great potential for local studies collections too - and this shows benefits of contemporary collecting https://t.co/sGO7owgXJ1"
+	},
+	{
+		"created_at": "Mon Oct 15 05:34:53 +0000 2018",
+		"id": 1051707963813982200,
+		"id_str": "1051707963813982208",
+		"full_text": "Fantastic piece https://t.co/OlEKFeuJr6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OlEKFeuJr6",
+					"expanded_url": "https://twitter.com/justine_hyde/status/1051625628422696960",
+					"display_url": "twitter.com/justine_hyde/s…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1210761828,
+			"id_str": "1210761828",
+			"name": "Anne Doherty",
+			"screen_name": "anne_doherty1",
+			"location": "Sydney mainly",
+			"description": "Saturday's child ...plus books, writing,  food etc, not necessarily in that order",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157,
+			"friends_count": 652,
+			"listed_count": 1,
+			"created_at": "Sat Feb 23 06:01:03 +0000 2013",
+			"favourites_count": 1786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 614,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/513189862288007168/ccAgR-Om_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/513189862288007168/ccAgR-Om_normal.jpeg",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051625628422697000,
+		"quoted_status_id_str": "1051625628422696960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OlEKFeuJr6",
+			"expanded": "https://twitter.com/justine_hyde/status/1051625628422696960",
+			"display": "twitter.com/justine_hyde/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 15 00:07:42 +0000 2018",
+			"id": 1051625628422697000,
+			"id_str": "1051625628422696960",
+			"full_text": "Hello. I said some things about power and silence and books and libraries in @Meanjin @Library_Vic https://t.co/hlYACH6pJK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Meanjin",
+						"name": "Meanjin Quarterly",
+						"id": 28512755,
+						"id_str": "28512755",
+						"indices": [
+							77,
+							85
+						]
+					},
+					{
+						"screen_name": "Library_Vic",
+						"name": "State Library Vic",
+						"id": 116586841,
+						"id_str": "116586841",
+						"indices": [
+							86,
+							98
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hlYACH6pJK",
+						"expanded_url": "https://meanjin.com.au/blog/silence-power-and-gender-equality-in-the-arts/",
+						"display_url": "meanjin.com.au/blog/silence-p…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 617898141,
+				"id_str": "617898141",
+				"name": "Justine Hyde 🏳️‍🌈",
+				"screen_name": "justine_hyde",
+				"location": "Melbin",
+				"description": "“Delightfully savage”. Director @library_Vic. Short fiction and essay writer. Book critic. Library spruiker. https://t.co/tiL2CsgoyL",
+				"url": "https://t.co/yiaXWaZj9I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yiaXWaZj9I",
+								"expanded_url": "http://justinehyde.wordpress.com",
+								"display_url": "justinehyde.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tiL2CsgoyL",
+								"expanded_url": "http://au.linkedin.com/in/justinehyde/",
+								"display_url": "au.linkedin.com/in/justinehyde/",
+								"indices": [
+									109,
+									132
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3617,
+				"friends_count": 2226,
+				"listed_count": 157,
+				"created_at": "Mon Jun 25 05:50:09 +0000 2012",
+				"favourites_count": 13982,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17122,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1026754789080674304/CJG5JvvF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026754789080674304/CJG5JvvF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/617898141/1536128188",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01864a8a64df9dc4",
+				"url": "https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json",
+				"place_type": "city",
+				"name": "Melbourne",
+				"full_name": "Melbourne, Victoria",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								144.593741856,
+								-38.433859306
+							],
+							[
+								145.512528832,
+								-38.433859306
+							],
+							[
+								145.512528832,
+								-37.5112737225
+							],
+							[
+								144.593741856,
+								-37.5112737225
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic piece https://t.co/OlEKFeuJr6"
+	},
+	{
 		"created_at": "Sun Oct 14 20:01:44 +0000 2018",
 		"id": 1051563728158699500,
 		"id_str": "1051563728158699520",
