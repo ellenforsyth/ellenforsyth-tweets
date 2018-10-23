@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 23 01:59:04 +0000 2018",
+		"id": 1054552757405835300,
+		"id_str": "1054552757405835264",
+		"full_text": "I just participated in the @BirdLifeOz Aussie Backyard Bird Count! https://t.co/wqCv9pCcHE #aussiebirdcount I did it in @RBGSydney -not sure if a nearby drone was keeping the count down",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aussiebirdcount",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BirdlifeOz",
+					"name": "BirdLife Australia",
+					"id": 145136771,
+					"id_str": "145136771",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "RBGSydney",
+					"name": "Royal Botanic Garden",
+					"id": 96283324,
+					"id_str": "96283324",
+					"indices": [
+						120,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wqCv9pCcHE",
+					"expanded_url": "https://app.aussiebirdcount.org.au/share/4b76782a-8453-4e2d-ab1e-c679554f6e9b",
+					"display_url": "app.aussiebirdcount.org.au/share/4b76782a…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2459,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34729,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I just participated in the @BirdLifeOz Aussie Backyard Bird Count! https://t.co/wqCv9pCcHE #aussiebirdcount I did it in @RBGSydney -not sure if a nearby drone was keeping the count down"
+	},
+	{
+		"created_at": "Sun Oct 21 20:11:09 +0000 2018",
+		"id": 1054102811330404400,
+		"id_str": "1054102811330404352",
+		"full_text": "'Our national history cannot be national if, in the near future, one in three young adults feels their stories remain untold' https://t.co/2U3TUHazVc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2U3TUHazVc",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2018/oct/21/we-risk-losing-slices-of-our-history-if-we-dont-root-out-racism-in-our-unversities",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20431901,
+			"id_str": "20431901",
+			"name": "Dr Mia Ridge",
+			"screen_name": "mia_out",
+			"location": "London, mostly",
+			"description": "Digital Curator @BritishLibrary @BL_DigiSchol. Collections as data, UX, crowdsourcing in cultural heritage, libraries, museums. Digital History PhD. She, they.",
+			"url": "https://t.co/J7DSovI3v5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J7DSovI3v5",
+							"expanded_url": "http://www.worldcat.org/title/crowdsourcing-our-cultural-heritage/oclc/883391279",
+							"display_url": "worldcat.org/title/crowdsou…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7950,
+			"friends_count": 473,
+			"listed_count": 714,
+			"created_at": "Mon Feb 09 12:32:56 +0000 2009",
+			"favourites_count": 6765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41396,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/666703610114416640/2471UIHT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/666703610114416640/2471UIHT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20431901/1475055023",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Our national history cannot be national if, in the near future, one in three young adults feels their stories remain untold' https://t.co/2U3TUHazVc"
+	},
+	{
+		"created_at": "Thu Oct 18 15:10:04 +0000 2018",
+		"id": 1052939878059495400,
+		"id_str": "1052939878059495425",
+		"full_text": "Anthea Bell obituary https://t.co/O9znwgpDvi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O9znwgpDvi",
+					"expanded_url": "https://www.theguardian.com/books/2018/oct/18/anthea-bell-obituary?CMP=twt_books_b-gdnbooks",
+					"display_url": "theguardian.com/books/2018/oct…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22001973,
+			"id_str": "22001973",
+			"name": "Guardian Books",
+			"screen_name": "GuardianBooks",
+			"location": "London",
+			"description": "News, reviews and author interviews plus tweets from the @Guardian and Observer books team",
+			"url": "http://t.co/952FKQhnU7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/952FKQhnU7",
+							"expanded_url": "http://www.theguardian.com/books",
+							"display_url": "theguardian.com/books",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2171218,
+			"friends_count": 1246,
+			"listed_count": 13123,
+			"created_at": "Thu Feb 26 12:10:19 +0000 2009",
+			"favourites_count": 724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 40705,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952820309882744833/VDNYM-Ab_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952820309882744833/VDNYM-Ab_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22001973/1516005024",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CAE3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anthea Bell obituary https://t.co/O9znwgpDvi"
+	},
+	{
+		"created_at": "Sat Oct 20 19:46:23 +0000 2018",
+		"id": 1053734192633176000,
+		"id_str": "1053734192633176064",
+		"full_text": "amazing to look at @SeaEagleCAM https://t.co/NtWRfd8FkJ - for a lift for your day",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SeaEagleCAM",
+					"name": "Sea EagleCAM",
+					"id": 337609393,
+					"id_str": "337609393",
+					"indices": [
+						19,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NtWRfd8FkJ",
+					"expanded_url": "http://www.sea-eaglecam.org/video.html",
+					"display_url": "sea-eaglecam.org/video.html",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2459,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34729,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "amazing to look at @SeaEagleCAM https://t.co/NtWRfd8FkJ - for a lift for your day"
+	},
+	{
 		"created_at": "Thu Oct 18 15:10:04 +0000 2018",
 		"id": 1052939878059495400,
 		"id_str": "1052939878059495425",
