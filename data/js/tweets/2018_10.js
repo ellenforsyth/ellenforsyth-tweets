@@ -1,6 +1,1866 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 28 05:42:52 +0000 2018",
+		"id": 1056421018841935900,
+		"id_str": "1056421018841935872",
+		"full_text": "Shearers, sheep and inside the shearing shed via ⁦@abcnews⁩ some great photographs of wool related work https://t.co/ms8XgO9ztF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ms8XgO9ztF",
+					"expanded_url": "http://www.abc.net.au/news/2018-10-28/wool-industry-photography-gives-insight/10435016",
+					"display_url": "abc.net.au/news/2018-10-2…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shearers, sheep and inside the shearing shed via ⁦@abcnews⁩ some great photographs of wool related work https://t.co/ms8XgO9ztF"
+	},
+	{
+		"created_at": "Sun Oct 28 05:40:59 +0000 2018",
+		"id": 1056420542880768000,
+		"id_str": "1056420542880768005",
+		"full_text": "Fans do their own detective work to help ABC restore 1970s television classic via ⁦@abcnews⁩ interesting about the rights, plus it is potential local studies viewing too https://t.co/KvK9jmb7on",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KvK9jmb7on",
+					"expanded_url": "http://www.abc.net.au/news/2018-10-28/pastures-of-the-blue-crane-revived-for-fans/10419244",
+					"display_url": "abc.net.au/news/2018-10-2…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fans do their own detective work to help ABC restore 1970s television classic via ⁦@abcnews⁩ interesting about the rights, plus it is potential local studies viewing too https://t.co/KvK9jmb7on"
+	},
+	{
+		"created_at": "Mon Oct 30 01:50:05 +0000 2017",
+		"id": 924815638513799200,
+		"id_str": "924815638513799168",
+		"full_text": "Did you miss @UNESCO's #AudiovisualHeritageDay on the weekend? Catch up with @kellydwiltshire's blog #TorresStrait https://t.co/ScVXTGGHEO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AudiovisualHeritageDay",
+					"indices": [
+						23,
+						46
+					]
+				},
+				{
+					"text": "TorresStrait",
+					"indices": [
+						101,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNESCO",
+					"name": "UNESCO",
+					"id": 20646711,
+					"id_str": "20646711",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"screen_name": "kellydwiltshire",
+					"name": "Kelly D. Wiltshire",
+					"id": 876233779399884800,
+					"id_str": "876233779399884801",
+					"indices": [
+						77,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ScVXTGGHEO",
+					"expanded_url": "https://aiatsis.gov.au/news-and-events/blog/audiovisual-heritage-torres-strait-singing-and-dancing",
+					"display_url": "aiatsis.gov.au/news-and-event…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1523973469,
+			"id_str": "1523973469",
+			"name": "AIATSIS",
+			"screen_name": "AIATSIS",
+			"location": "Canberra",
+			"description": "The only national institution focused exclusively on the diverse #history, #cultures and #heritage of #Aboriginal and #TorresStraitIslander Australians",
+			"url": "https://t.co/cuFViFU3y0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cuFViFU3y0",
+							"expanded_url": "http://www.aiatsis.gov.au",
+							"display_url": "aiatsis.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6270,
+			"friends_count": 1830,
+			"listed_count": 106,
+			"created_at": "Mon Jun 17 05:00:39 +0000 2013",
+			"favourites_count": 2518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3839,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875488926206615555/KGEb8qB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875488926206615555/KGEb8qB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1523973469/1540517006",
+			"profile_link_color": "D64527",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you miss @UNESCO's #AudiovisualHeritageDay on the weekend? Catch up with @kellydwiltshire's blog #TorresStrait https://t.co/ScVXTGGHEO"
+	},
+	{
+		"created_at": "Sat Oct 27 20:00:39 +0000 2018",
+		"id": 1056274498993832000,
+		"id_str": "1056274498993831936",
+		"full_text": "great to see this collection available https://t.co/Nl96D21EtS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nl96D21EtS",
+					"expanded_url": "https://twitter.com/UNESCO/status/1056274384300789761",
+					"display_url": "twitter.com/UNESCO/status/…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1056274384300789800,
+		"quoted_status_id_str": "1056274384300789761",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Nl96D21EtS",
+			"expanded": "https://twitter.com/UNESCO/status/1056274384300789761",
+			"display": "twitter.com/UNESCO/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 27 20:00:12 +0000 2018",
+			"id": 1056274384300789800,
+			"id_str": "1056274384300789761",
+			"full_text": "Today is #AudiovisualHeritageDay! Check and discover our UNESCO video stories about Heritage!\n\n#Unesco4Heritage\n\n📽 https://t.co/EDJ3QtG7ju https://t.co/RR18jIieuu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AudiovisualHeritageDay",
+						"indices": [
+							9,
+							32
+						]
+					},
+					{
+						"text": "Unesco4Heritage",
+						"indices": [
+							95,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EDJ3QtG7ju",
+						"expanded_url": "https://www.youtube.com/playlist?list=PLWuYED1WVJIM-FaAwD7uBahVPbqJyCz2C",
+						"display_url": "youtube.com/playlist?list=…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1056273175842041900,
+						"id_str": "1056273175842041857",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056273175842041857/pu/img/Sgr8owaycDUYvCP2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056273175842041857/pu/img/Sgr8owaycDUYvCP2.jpg",
+						"url": "https://t.co/RR18jIieuu",
+						"display_url": "pic.twitter.com/RR18jIieuu",
+						"expanded_url": "https://twitter.com/UNESCO/status/1056274384300789761/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1056273175842041900,
+						"id_str": "1056273175842041857",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1056273175842041857/pu/img/Sgr8owaycDUYvCP2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1056273175842041857/pu/img/Sgr8owaycDUYvCP2.jpg",
+						"url": "https://t.co/RR18jIieuu",
+						"display_url": "pic.twitter.com/RR18jIieuu",
+						"expanded_url": "https://twitter.com/UNESCO/status/1056274384300789761/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 18120,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1056273175842041857/pu/vid/320x180/-SZuu4un0bZnKgzw.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1056273175842041857/pu/vid/1280x720/RVoXQnjGwLJRsW-5.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1056273175842041857/pu/vid/640x360/CBOMQ6bKMrTz_5S1.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1056273175842041857/pu/pl/UOlLuwDV1p0zfrgv.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20646711,
+				"id_str": "20646711",
+				"name": "UNESCO",
+				"screen_name": "UNESCO",
+				"location": "",
+				"description": "Building peace where it starts - in the minds of men & women.",
+				"url": "https://t.co/OvfOpKeG83",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OvfOpKeG83",
+								"expanded_url": "http://www.unesco.org",
+								"display_url": "unesco.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3034941,
+				"friends_count": 1581,
+				"listed_count": 8927,
+				"created_at": "Thu Feb 12 01:46:13 +0000 2009",
+				"favourites_count": 13450,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20443,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20646711/1539791661",
+				"profile_link_color": "0077D4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great to see this collection available https://t.co/Nl96D21EtS"
+	},
+	{
+		"created_at": "Sat Oct 27 08:29:23 +0000 2018",
+		"id": 1056100536628310000,
+		"id_str": "1056100536628310016",
+		"full_text": "New article on @TroveAustralia by @emcstainforth, 'Treasuring Trove: Why Australia’s digital heritage platform is so special': https://t.co/dzKA2QkwsY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TroveAustralia",
+					"name": "Trove",
+					"id": 119219640,
+					"id_str": "119219640",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "emcstainforth",
+					"name": "Liz Stainforth",
+					"id": 1550763188,
+					"id_str": "1550763188",
+					"indices": [
+						34,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dzKA2QkwsY",
+					"expanded_url": "https://pursuit.unimelb.edu.au/articles/treasuring-trove-why-australia-s-digital-heritage-platform-is-so-special",
+					"display_url": "pursuit.unimelb.edu.au/articles/treas…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18129652,
+			"id_str": "18129652",
+			"name": "Tim Sherratt",
+			"screen_name": "wragge",
+			"location": "Canberra, Australia",
+			"description": "Historian and hacker. Associate Professor of Digital Heritage, University of Canberra.",
+			"url": "https://t.co/Khu6oJWrGb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Khu6oJWrGb",
+							"expanded_url": "http://timsherratt.org",
+							"display_url": "timsherratt.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6542,
+			"friends_count": 3903,
+			"listed_count": 418,
+			"created_at": "Mon Dec 15 03:39:55 +0000 2008",
+			"favourites_count": 3048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32054,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817212580531798017/APWWFIMI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817212580531798017/APWWFIMI_normal.jpg",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New article on @TroveAustralia by @emcstainforth, 'Treasuring Trove: Why Australia’s digital heritage platform is so special': https://t.co/dzKA2QkwsY"
+	},
+	{
+		"created_at": "Sat Oct 27 09:46:32 +0000 2018",
+		"id": 1056119949666611200,
+		"id_str": "1056119949666611200",
+		"full_text": "How remote school students are leading research into aquatic tarantulas  via ⁦@abcnews⁩ a good news story https://t.co/xvVsY3up2E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						78,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xvVsY3up2E",
+					"expanded_url": "http://www.abc.net.au/news/2018-10-27/maningrida-students-research-diving-floodplain-tarantulas/10430354",
+					"display_url": "abc.net.au/news/2018-10-2…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How remote school students are leading research into aquatic tarantulas  via ⁦@abcnews⁩ a good news story https://t.co/xvVsY3up2E"
+	},
+	{
+		"created_at": "Thu Oct 25 22:44:49 +0000 2018",
+		"id": 1055591034040725500,
+		"id_str": "1055591034040725504",
+		"full_text": "Over $4M stripped from #humanities researchers as former Minister @Birmo rejected 11 grants after rigorous peer review process. Political interference is a fundamental attack on the integrity of our research funding system. @uniaus @arc_gov_au @SenKimCarr\nhttps://t.co/aw0zr49msp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "humanities",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Birmo",
+					"name": "Simon Birmingham",
+					"id": 22196776,
+					"id_str": "22196776",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"screen_name": "uniaus",
+					"name": "Universities Aust.",
+					"id": 83358795,
+					"id_str": "83358795",
+					"indices": [
+						224,
+						231
+					]
+				},
+				{
+					"screen_name": "arc_gov_au",
+					"name": "ARC",
+					"id": 243479125,
+					"id_str": "243479125",
+					"indices": [
+						232,
+						243
+					]
+				},
+				{
+					"screen_name": "SenKimCarr",
+					"name": "Kim Carr",
+					"id": 711691441,
+					"id_str": "711691441",
+					"indices": [
+						244,
+						255
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aw0zr49msp",
+					"expanded_url": "https://www.humanities.org.au/2018/10/26/government-strips-4m-from-humanities-researchers/",
+					"display_url": "humanities.org.au/2018/10/26/gov…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2903066796,
+			"id_str": "2903066796",
+			"name": "Australian Academy of the Humanities",
+			"screen_name": "HumanitiesAU",
+			"location": "Canberra, Australia",
+			"description": "Official account of the Australian Academy of the Humanities. Tweets by Comms Team. RTs ≠ endorsements. Follow news of Academy Fellows on #AAHFellow",
+			"url": "http://t.co/mHsgfv1nRD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mHsgfv1nRD",
+							"expanded_url": "http://www.humanities.org.au",
+							"display_url": "humanities.org.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2622,
+			"friends_count": 1445,
+			"listed_count": 55,
+			"created_at": "Mon Nov 17 23:36:17 +0000 2014",
+			"favourites_count": 1506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2718,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCE0E3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/534503339430395904/-OPNiSS7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/534503339430395904/-OPNiSS7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2903066796/1535672102",
+			"profile_link_color": "005695",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 477,
+		"favorite_count": 388,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Over $4M stripped from #humanities researchers as former Minister @Birmo rejected 11 grants after rigorous peer review process. Political interference is a fundamental attack on the integrity of our research funding system. @uniaus @arc_gov_au @SenKimCarr\nhttps://t.co/aw0zr49msp"
+	},
+	{
+		"created_at": "Fri Oct 26 19:20:53 +0000 2018",
+		"id": 1055902102252220400,
+		"id_str": "1055902102252220416",
+		"full_text": "make sure to have a look at this series, some great ideas for local studies and #readadv in the mix https://t.co/SSXpQZfQDV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "readadv",
+					"indices": [
+						80,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SSXpQZfQDV",
+					"expanded_url": "https://twitter.com/SamiNorling/status/1055560175686483968",
+					"display_url": "twitter.com/SamiNorling/st…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055560175686484000,
+		"quoted_status_id_str": "1055560175686483968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SSXpQZfQDV",
+			"expanded": "https://twitter.com/SamiNorling/status/1055560175686483968",
+			"display": "twitter.com/SamiNorling/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 25 20:42:11 +0000 2018",
+			"id": 1055560175686484000,
+			"id_str": "1055560175686483968",
+			"full_text": "Love the @kitchensisters \"Keeper of the Day\" feature - a daily, year-long social media series featuring keepers from around the world. #KeeperOfTheDay\nhttps://t.co/1hModw7Kgv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KeeperOfTheDay",
+						"indices": [
+							135,
+							150
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kitchensisters",
+						"name": "The Kitchen Sisters",
+						"id": 16459243,
+						"id_str": "16459243",
+						"indices": [
+							9,
+							24
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1hModw7Kgv",
+						"expanded_url": "http://www.kitchensisters.org/keeperoftheday/",
+						"display_url": "kitchensisters.org/keeperoftheday/",
+						"indices": [
+							151,
+							174
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48163152,
+				"id_str": "48163152",
+				"name": "Sami Norling",
+				"screen_name": "SamiNorling",
+				"location": "Indian- and Minne-apolis",
+				"description": "Digital Collections Manager @Newfields_Lab at @NewfieldsToday archives / museums / linked data / LAM collaboration ~ Opinions my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 973,
+				"friends_count": 620,
+				"listed_count": 67,
+				"created_at": "Wed Jun 17 23:35:08 +0000 2009",
+				"favourites_count": 1835,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5621,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E3E3E3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/519550368766648320/txknQouR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/519550368766648320/txknQouR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48163152/1486321307",
+				"profile_link_color": "7D9E7D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FAC399",
+				"profile_text_color": "302E30",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "make sure to have a look at this series, some great ideas for local studies and #readadv in the mix https://t.co/SSXpQZfQDV"
+	},
+	{
+		"created_at": "Fri Oct 26 18:53:48 +0000 2018",
+		"id": 1055895285363179500,
+		"id_str": "1055895285363179520",
+		"full_text": "@scalzi @ThatAndromeda Currently reading Collapsing empire from library (and really enjoying it), have bought other titles by @scalzi - crucial to have a mix of options. Libraries great for many reasons 🐉",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scalzi",
+					"name": "John Scalzi",
+					"id": 14202817,
+					"id_str": "14202817",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "ThatAndromeda",
+					"name": "Andromeda Yelton",
+					"id": 102080846,
+					"id_str": "102080846",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"screen_name": "scalzi",
+					"name": "John Scalzi",
+					"id": 14202817,
+					"id_str": "14202817",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1055814388903563300,
+		"in_reply_to_status_id_str": "1055814388903563264",
+		"in_reply_to_user_id": 14202817,
+		"in_reply_to_user_id_str": "14202817",
+		"in_reply_to_screen_name": "scalzi",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34745,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@scalzi @ThatAndromeda Currently reading Collapsing empire from library (and really enjoying it), have bought other titles by @scalzi - crucial to have a mix of options. Libraries great for many reasons 🐉"
+	},
+	{
+		"created_at": "Fri Oct 26 13:32:21 +0000 2018",
+		"id": 1055814388903563300,
+		"id_str": "1055814388903563264",
+		"full_text": "So, while I've been on tour, I've had a couple of people apologize about getting my books from the library rather than purchasing them. Let's have a quick thread about books and sales and libraries, shall we?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14202817,
+			"id_str": "14202817",
+			"name": "John Scalzi",
+			"screen_name": "scalzi",
+			"location": "Bradford, Ohio, USA",
+			"description": "I enjoy pie.",
+			"url": "http://t.co/27Copmnrzm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/27Copmnrzm",
+							"expanded_url": "http://whatever.scalzi.com",
+							"display_url": "whatever.scalzi.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155218,
+			"friends_count": 476,
+			"listed_count": 5591,
+			"created_at": "Sun Mar 23 17:23:32 +0000 2008",
+			"favourites_count": 2743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 143032,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4A262E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3475245194/59992708a306aaa836bf1699f8b47d5d_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3475245194/59992708a306aaa836bf1699f8b47d5d_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14202817/1535938012",
+			"profile_link_color": "15421F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B3865B",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1155,
+		"favorite_count": 4700,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "So, while I've been on tour, I've had a couple of people apologize about getting my books from the library rather than purchasing them. Let's have a quick thread about books and sales and libraries, shall we?"
+	},
+	{
+		"created_at": "Fri Oct 26 01:46:51 +0000 2018",
+		"id": 1055636844434546700,
+		"id_str": "1055636844434546690",
+		"full_text": "love this! looking forward to seeing the online celebrations this Sunday.. https://t.co/zN9o5ykT9T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zN9o5ykT9T",
+					"expanded_url": "https://twitter.com/UNESCO/status/1054822300720250882",
+					"display_url": "twitter.com/UNESCO/status/…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749173567162429400,
+			"id_str": "749173567162429440",
+			"name": "Jo Fleming",
+			"screen_name": "jo_fleming_",
+			"location": "Sydney, New South Wales",
+			"description": "Audiovisual archivist, film curator, digital collecting and preservation enthusiast. Crochet addict.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80,
+			"friends_count": 161,
+			"listed_count": 2,
+			"created_at": "Sat Jul 02 09:31:12 +0000 2016",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/790997562199150592/Kih1tRHm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/790997562199150592/Kih1tRHm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749173567162429440/1512008342",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1054822300720250900,
+		"quoted_status_id_str": "1054822300720250882",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zN9o5ykT9T",
+			"expanded": "https://twitter.com/UNESCO/status/1054822300720250882",
+			"display": "twitter.com/UNESCO/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 23 19:50:08 +0000 2018",
+			"id": 1054822300720250900,
+			"id_str": "1054822300720250882",
+			"full_text": "Archives are humanity’s collective memory bank.\n\nCelebrate with us World Day for #AudiovisualHeritage on 27 October ➡️ https://t.co/6JWPrGmKmD https://t.co/pOngwEdfXs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AudiovisualHeritage",
+						"indices": [
+							81,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6JWPrGmKmD",
+						"expanded_url": "https://on.unesco.org/2EFTH26",
+						"display_url": "on.unesco.org/2EFTH26",
+						"indices": [
+							119,
+							142
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1054822298392371200,
+						"id_str": "1054822298392371201",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/DqN7SqzWoAELlqe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqN7SqzWoAELlqe.jpg",
+						"url": "https://t.co/pOngwEdfXs",
+						"display_url": "pic.twitter.com/pOngwEdfXs",
+						"expanded_url": "https://twitter.com/UNESCO/status/1054822300720250882/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 956,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 542,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 956,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1054822298392371200,
+						"id_str": "1054822298392371201",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/DqN7SqzWoAELlqe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqN7SqzWoAELlqe.jpg",
+						"url": "https://t.co/pOngwEdfXs",
+						"display_url": "pic.twitter.com/pOngwEdfXs",
+						"expanded_url": "https://twitter.com/UNESCO/status/1054822300720250882/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 956,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 542,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 956,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20646711,
+				"id_str": "20646711",
+				"name": "UNESCO",
+				"screen_name": "UNESCO",
+				"location": "",
+				"description": "Building peace where it starts - in the minds of men & women.",
+				"url": "https://t.co/OvfOpKeG83",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OvfOpKeG83",
+								"expanded_url": "http://www.unesco.org",
+								"display_url": "unesco.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3034941,
+				"friends_count": 1581,
+				"listed_count": 8927,
+				"created_at": "Thu Feb 12 01:46:13 +0000 2009",
+				"favourites_count": 13450,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20443,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20646711/1539791661",
+				"profile_link_color": "0077D4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 89,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "love this! looking forward to seeing the online celebrations this Sunday.. https://t.co/zN9o5ykT9T"
+	},
+	{
 		"created_at": "Thu Oct 25 22:44:49 +0000 2018",
 		"id": 1055591034040725500,
 		"id_str": "1055591034040725504",
