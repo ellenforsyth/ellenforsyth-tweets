@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 28 19:51:27 +0000 2018",
+		"id": 1056634569414377500,
+		"id_str": "1056634569414377472",
+		"full_text": "What does ten years on twitter look like? https://t.co/FDXzk9UMuF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FDXzk9UMuF",
+					"expanded_url": "https://ift.tt/2qfdxHB",
+					"display_url": "ift.tt/2qfdxHB",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2466,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What does ten years on twitter look like? https://t.co/FDXzk9UMuF"
+	},
+	{
+		"created_at": "Sun Oct 28 19:07:39 +0000 2018",
+		"id": 1056623545839583200,
+		"id_str": "1056623545839583232",
+		"full_text": "The Library of Congress levels up, makes it easier to preserve culturally important video games https://t.co/9LWd3vf7aO this is important news",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9LWd3vf7aO",
+					"expanded_url": "https://www.syfy.com/syfywire/the-library-of-congress-levels-up-makes-it-easier-to-preserve-culturally-important-video",
+					"display_url": "syfy.com/syfywire/the-l…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2466,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Library of Congress levels up, makes it easier to preserve culturally important video games https://t.co/9LWd3vf7aO this is important news"
+	},
+	{
+		"created_at": "Sun Oct 28 18:31:19 +0000 2018",
+		"id": 1056614403036987400,
+		"id_str": "1056614403036987393",
+		"full_text": "Home movies can contain some great information https://t.co/YJefXDaVLQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YJefXDaVLQ",
+					"expanded_url": "https://twitter.com/slqld/status/1055942266018242560",
+					"display_url": "twitter.com/slqld/status/1…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2466,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055942266018242600,
+		"quoted_status_id_str": "1055942266018242560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YJefXDaVLQ",
+			"expanded": "https://twitter.com/slqld/status/1055942266018242560",
+			"display": "twitter.com/slqld/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 26 22:00:29 +0000 2018",
+			"id": 1055942266018242600,
+			"id_str": "1055942266018242560",
+			"full_text": "Today is @UNESCO World Day for Audiovisual Heritage, a day to honour audiovisual preservation professionals who safeguard this heritage for future generations. One of our recently digitised films is this 1970s home movie of Brisbane- https://t.co/5Q4wqw1NWP #WDAVH2018 https://t.co/ARnKMNZtRG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WDAVH2018",
+						"indices": [
+							258,
+							268
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UNESCO",
+						"name": "UNESCO",
+						"id": 20646711,
+						"id_str": "20646711",
+						"indices": [
+							9,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5Q4wqw1NWP",
+						"expanded_url": "https://bit.ly/2EUlBaG",
+						"display_url": "bit.ly/2EUlBaG",
+						"indices": [
+							234,
+							257
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1055942263812096000,
+						"id_str": "1055942263812096002",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/Dqd15PHXgAIftoL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dqd15PHXgAIftoL.jpg",
+						"url": "https://t.co/ARnKMNZtRG",
+						"display_url": "pic.twitter.com/ARnKMNZtRG",
+						"expanded_url": "https://twitter.com/slqld/status/1055942266018242560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 813,
+								"h": 586,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 813,
+								"h": 586,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055942263812096000,
+						"id_str": "1055942263812096002",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/Dqd15PHXgAIftoL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dqd15PHXgAIftoL.jpg",
+						"url": "https://t.co/ARnKMNZtRG",
+						"display_url": "pic.twitter.com/ARnKMNZtRG",
+						"expanded_url": "https://twitter.com/slqld/status/1055942266018242560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 813,
+								"h": 586,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 813,
+								"h": 586,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22097835,
+				"id_str": "22097835",
+				"name": "State Library of Qld",
+				"screen_name": "slqld",
+				"location": "Brisbane, Queensland Australia",
+				"description": "Conversations about Queensland’s memory and the latest news, opportunities, and events from SLQ",
+				"url": "http://t.co/T584ccF2s3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/T584ccF2s3",
+								"expanded_url": "http://www.slq.qld.gov.au",
+								"display_url": "slq.qld.gov.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37891,
+				"friends_count": 1514,
+				"listed_count": 553,
+				"created_at": "Fri Feb 27 02:40:15 +0000 2009",
+				"favourites_count": 2416,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13156,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DB0C41",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868987325711212544/gg0lMhxA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868987325711212544/gg0lMhxA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22097835/1520570697",
+				"profile_link_color": "E0003F",
+				"profile_sidebar_border_color": "E3E3E3",
+				"profile_sidebar_fill_color": "C7C7C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Home movies can contain some great information https://t.co/YJefXDaVLQ"
+	},
+	{
 		"created_at": "Sun Oct 28 05:42:52 +0000 2018",
 		"id": 1056421018841935900,
 		"id_str": "1056421018841935872",
