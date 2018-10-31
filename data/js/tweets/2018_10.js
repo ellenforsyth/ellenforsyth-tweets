@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 30 11:04:00 +0000 2018",
+		"id": 1057226610569400300,
+		"id_str": "1057226610569400320",
+		"full_text": "Where did chocolate come from? It's not where we thought via ⁦@abcnews⁩ important research  https://t.co/OQKPaVKM3S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OQKPaVKM3S",
+					"expanded_url": "http://www.abc.net.au/news/science/2018-10-30/origins-of-chocolate-rewritten-by-archaeology-find-in-ecuador/10434798",
+					"display_url": "abc.net.au/news/science/2…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 743,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34757,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1349551780",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Where did chocolate come from? It's not where we thought via ⁦@abcnews⁩ important research  https://t.co/OQKPaVKM3S"
+	},
+	{
+		"created_at": "Mon Oct 29 23:51:55 +0000 2018",
+		"id": 1057057475478773800,
+		"id_str": "1057057475478773760",
+		"full_text": "Last chance to submit your ideas for actions to fulfil the IFLA Global Vision. https://t.co/BnvSU4PqEt #Lib4Dev #StoriesThatMatter #SDGs #DA21 #APSDG #WorldLibraryMap",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lib4Dev",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "StoriesThatMatter",
+					"indices": [
+						112,
+						130
+					]
+				},
+				{
+					"text": "SDGs",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "DA21",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "APSDG",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "WorldLibraryMap",
+					"indices": [
+						150,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BnvSU4PqEt",
+					"expanded_url": "https://ideas.ifla.org",
+					"display_url": "ideas.ifla.org",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1057056471563661300,
+		"in_reply_to_status_id_str": "1057056471563661312",
+		"in_reply_to_user_id": 177536523,
+		"in_reply_to_user_id_str": "177536523",
+		"in_reply_to_screen_name": "sallyturbitt",
+		"user": {
+			"id": 177536523,
+			"id_str": "177536523",
+			"name": "Sally Turbitt",
+			"screen_name": "sallyturbitt",
+			"location": "Central Coast, NSW",
+			"description": "She/Her. Librarian, ALIA NSW State Manager, reader, Eurovision, podcaster at https://t.co/HpCjZV6kXi.",
+			"url": "https://t.co/sCglqTQ0hH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sCglqTQ0hH",
+							"expanded_url": "http://www.sallyturbitt.com",
+							"display_url": "sallyturbitt.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HpCjZV6kXi",
+							"expanded_url": "http://turbittnduck.com",
+							"display_url": "turbittnduck.com",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2154,
+			"friends_count": 3283,
+			"listed_count": 93,
+			"created_at": "Thu Aug 12 11:45:14 +0000 2010",
+			"favourites_count": 4518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17755,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990108307787415552/Q8xqVqjL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990108307787415552/Q8xqVqjL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/177536523/1534249016",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last chance to submit your ideas for actions to fulfil the IFLA Global Vision. https://t.co/BnvSU4PqEt #Lib4Dev #StoriesThatMatter #SDGs #DA21 #APSDG #WorldLibraryMap"
+	},
+	{
 		"created_at": "Mon Oct 29 23:51:55 +0000 2018",
 		"id": 1057057475478773800,
 		"id_str": "1057057475478773760",
