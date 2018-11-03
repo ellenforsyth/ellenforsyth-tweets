@@ -352,6 +352,205 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 742,
+			"friends_count": 797,
+			"listed_count": 39,
+			"created_at": "Thu May 31 05:01:08 +0000 2012",
+			"favourites_count": 309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5121,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0F0F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595268016/1407365292",
+			"profile_link_color": "C93318",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "627E91",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "November is time for #crimeread for #rwpchat https://t.co/mixLt2Wmug https://t.co/QUaqKs4czr"
+	},
+	{
+		"created_at": "Wed Oct 31 18:27:09 +0000 2018",
+		"id": 1057700518032744400,
+		"id_str": "1057700518032744449",
+		"full_text": "November is time for #crimeread for #rwpchat https://t.co/mixLt2Wmug https://t.co/QUaqKs4czr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crimeread",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"text": "rwpchat",
+					"indices": [
+						36,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mixLt2Wmug",
+					"expanded_url": "https://readwatchplay.wordpress.com/2018/11/01/november-is-time-for-crimeread-for-rwpchat/",
+					"display_url": "readwatchplay.wordpress.com/2018/11/01/nov…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1057700515927220200,
+					"id_str": "1057700515927220225",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq21A-qW4AE17uJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq21A-qW4AE17uJ.jpg",
+					"url": "https://t.co/QUaqKs4czr",
+					"display_url": "pic.twitter.com/QUaqKs4czr",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1057700518032744449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 415,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 353,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1057700515927220200,
+					"id_str": "1057700515927220225",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq21A-qW4AE17uJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq21A-qW4AE17uJ.jpg",
+					"url": "https://t.co/QUaqKs4czr",
+					"display_url": "pic.twitter.com/QUaqKs4czr",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1057700518032744449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 415,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 353,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595268016,
+			"id_str": "595268016",
+			"name": "Read Watch Play",
+			"screen_name": "readwatchplay",
+			"location": "",
+			"description": "Global twitter chat by NSW Readers' Advisory group & partners. What do you enjoying reading, watching and playing. Connect with librarians. Use #rwpchat",
+			"url": "http://t.co/M9meupecSc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/M9meupecSc",
+							"expanded_url": "http://readwatchplay.wordpress.com/",
+							"display_url": "readwatchplay.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 742,
 			"friends_count": 798,
 			"listed_count": 39,
 			"created_at": "Thu May 31 05:01:08 +0000 2012",
