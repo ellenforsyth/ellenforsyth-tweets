@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 06 19:21:11 +0000 2018",
+		"id": 1059888444145569800,
+		"id_str": "1059888444145569794",
+		"full_text": "A few thoughts in Archiving the U=unspeakable: silence, memory, and the photographic record in Cambodia  by Michelle Caswell   https://t.co/1IbEVP19ZP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1IbEVP19ZP",
+					"expanded_url": "https://ift.tt/2yTB85k",
+					"display_url": "ift.tt/2yTB85k",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2463,
+			"friends_count": 748,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34822,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A few thoughts in Archiving the U=unspeakable: silence, memory, and the photographic record in Cambodia  by Michelle Caswell   https://t.co/1IbEVP19ZP"
+	},
+	{
+		"created_at": "Tue Nov 06 19:15:39 +0000 2018",
+		"id": 1059887052693467100,
+		"id_str": "1059887052693467136",
+		"full_text": "How could Wikimedia Commons be improved? A conversation with designer George Oates  https://t.co/2Wosb2lPLJ via @artefactors highlights the need for greater diversity",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "artefactors",
+					"name": "artefacto",
+					"id": 880391678,
+					"id_str": "880391678",
+					"indices": [
+						112,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2Wosb2lPLJ",
+					"expanded_url": "https://wikimediafoundation.org/2018/10/29/george-oates-conversation?year=2018",
+					"display_url": "wikimediafoundation.org/2018/10/29/geo…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2463,
+			"friends_count": 748,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34822,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How could Wikimedia Commons be improved? A conversation with designer George Oates  https://t.co/2Wosb2lPLJ via @artefactors highlights the need for greater diversity"
+	},
+	{
+		"created_at": "Tue Nov 06 19:13:34 +0000 2018",
+		"id": 1059886529303076900,
+		"id_str": "1059886529303076869",
+		"full_text": "some interesting library reading here https://t.co/PypbsfhskS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PypbsfhskS",
+					"expanded_url": "https://twitter.com/artefactors/status/1059754840400769024",
+					"display_url": "twitter.com/artefactors/st…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2463,
+			"friends_count": 748,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34822,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1059754840400769000,
+		"quoted_status_id_str": "1059754840400769024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PypbsfhskS",
+			"expanded": "https://twitter.com/artefactors/status/1059754840400769024",
+			"display": "twitter.com/artefactors/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 06 10:30:17 +0000 2018",
+			"id": 1059754840400769000,
+			"id_str": "1059754840400769024",
+			"full_text": "Newslet for #Libraries, issue 107 is now out &amp; this issue we're sharing great updates, tips &amp; resources from @DeutscheWelle, @jmarkockerbloom, @PrinchApp, @informationhead, @shelley_gee, @everylibrary, @katiedavis, #GreatSchoolLibraries &amp; more https://t.co/feS79FHoGV https://t.co/jtwCKR7hP9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Libraries",
+						"indices": [
+							12,
+							22
+						]
+					},
+					{
+						"text": "GreatSchoolLibraries",
+						"indices": [
+							223,
+							244
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DeutscheWelle",
+						"name": "DW Deutsche Welle",
+						"id": 16449615,
+						"id_str": "16449615",
+						"indices": [
+							117,
+							131
+						]
+					},
+					{
+						"screen_name": "JMarkOckerbloom",
+						"name": "John Mark Ockerbloom",
+						"id": 40326609,
+						"id_str": "40326609",
+						"indices": [
+							133,
+							149
+						]
+					},
+					{
+						"screen_name": "PrinchApp",
+						"name": "Princh",
+						"id": 3401324758,
+						"id_str": "3401324758",
+						"indices": [
+							151,
+							161
+						]
+					},
+					{
+						"screen_name": "InformationHead",
+						"name": "ᛃᚩᚺᚾ John Garland",
+						"id": 199701207,
+						"id_str": "199701207",
+						"indices": [
+							163,
+							179
+						]
+					},
+					{
+						"screen_name": "shelley_gee",
+						"name": "Shelley Gullikson",
+						"id": 1242003854,
+						"id_str": "1242003854",
+						"indices": [
+							181,
+							193
+						]
+					},
+					{
+						"screen_name": "EveryLibrary",
+						"name": "EveryLibrary",
+						"id": 572079091,
+						"id_str": "572079091",
+						"indices": [
+							195,
+							208
+						]
+					},
+					{
+						"screen_name": "katiedavis",
+						"name": "Kate Davis",
+						"id": 8261692,
+						"id_str": "8261692",
+						"indices": [
+							210,
+							221
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/feS79FHoGV",
+						"expanded_url": "https://mailchi.mp/218bc4bf1c57/newslet-for-libraries-issue-107",
+						"display_url": "mailchi.mp/218bc4bf1c57/n…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1059754838098100200,
+						"id_str": "1059754838098100235",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/DrUBaRHWwAsrgKE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrUBaRHWwAsrgKE.jpg",
+						"url": "https://t.co/jtwCKR7hP9",
+						"display_url": "pic.twitter.com/jtwCKR7hP9",
+						"expanded_url": "https://twitter.com/artefactors/status/1059754840400769024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 362,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1091,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1059754838098100200,
+						"id_str": "1059754838098100235",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/DrUBaRHWwAsrgKE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrUBaRHWwAsrgKE.jpg",
+						"url": "https://t.co/jtwCKR7hP9",
+						"display_url": "pic.twitter.com/jtwCKR7hP9",
+						"expanded_url": "https://twitter.com/artefactors/status/1059754840400769024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 362,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1091,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 880391678,
+				"id_str": "880391678",
+				"name": "artefacto",
+				"screen_name": "artefactors",
+				"location": "London",
+				"description": "Librarians & Makers. London-based creative tech company. We work with cultural organisations to bring innovative ideas to life",
+				"url": "https://t.co/PetU7lX8ih",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PetU7lX8ih",
+								"expanded_url": "https://www.artefacto.org.uk",
+								"display_url": "artefacto.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 510,
+				"friends_count": 504,
+				"listed_count": 40,
+				"created_at": "Sun Oct 14 15:41:42 +0000 2012",
+				"favourites_count": 670,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1652,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948154479739891713/NXRsxQux_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948154479739891713/NXRsxQux_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/880391678/1389810660",
+				"profile_link_color": "4A5583",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some interesting library reading here https://t.co/PypbsfhskS"
+	},
+	{
 		"created_at": "Mon Nov 05 18:33:49 +0000 2018",
 		"id": 1059514135354912800,
 		"id_str": "1059514135354912772",
