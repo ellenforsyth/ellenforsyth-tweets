@@ -1,6 +1,665 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 03:42:22 +0000 2018",
+		"id": 1062188896388186100,
+		"id_str": "1062188896388186113",
+		"full_text": "@DrMattFinch Thanks for this suggestion. While I have a very long to read list, comics generally queue jump, which is what this one is doing.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrMattFinch",
+					"name": "Matt Finch",
+					"id": 258747765,
+					"id_str": "258747765",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1062083541666877400,
+		"in_reply_to_status_id_str": "1062083541666877447",
+		"in_reply_to_user_id": 258747765,
+		"in_reply_to_user_id_str": "258747765",
+		"in_reply_to_screen_name": "DrMattFinch",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2455,
+			"friends_count": 748,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34838,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrMattFinch Thanks for this suggestion. While I have a very long to read list, comics generally queue jump, which is what this one is doing."
+	},
+	{
+		"created_at": "Mon Nov 12 19:23:31 +0000 2018",
+		"id": 1062063360458416100,
+		"id_str": "1062063360458416128",
+		"full_text": "#NotEnoughSciFi: Feels, Facts, and Reason https://t.co/uizA5oh7nx via @DrMattFinch some interesting titles which I have added to my 'to read' list (and I am way behind on all my reading)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NotEnoughSciFi",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrMattFinch",
+					"name": "Matt Finch",
+					"id": 258747765,
+					"id_str": "258747765",
+					"indices": [
+						70,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uizA5oh7nx",
+					"expanded_url": "https://mechanicaldolphin.com/2018/11/09/notenoughscifi-feels-facts-and-reason/",
+					"display_url": "mechanicaldolphin.com/2018/11/09/not…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2455,
+			"friends_count": 748,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34838,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NotEnoughSciFi: Feels, Facts, and Reason https://t.co/uizA5oh7nx via @DrMattFinch some interesting titles which I have added to my 'to read' list (and I am way behind on all my reading)"
+	},
+	{
+		"created_at": "Mon Nov 12 19:18:08 +0000 2018",
+		"id": 1062062002443448300,
+		"id_str": "1062062002443448320",
+		"full_text": "Don’t Want to Fall for Fake News? Don’t Be Lazy https://t.co/tTPXtm1Ned via @WIRED",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WIRED",
+					"name": "WIRED",
+					"id": 1344951,
+					"id_str": "1344951",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tTPXtm1Ned",
+					"expanded_url": "https://www.wired.com/story/dont-want-to-fall-for-fake-news-dont-be-lazy/?mbid=social_twitter_onsiteshare",
+					"display_url": "wired.com/story/dont-wan…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2455,
+			"friends_count": 748,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34838,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t Want to Fall for Fake News? Don’t Be Lazy https://t.co/tTPXtm1Ned via @WIRED"
+	},
+	{
+		"created_at": "Mon Nov 12 19:11:28 +0000 2018",
+		"id": 1062060325812363300,
+		"id_str": "1062060325812363264",
+		"full_text": "Look inside PANDORA to reveal a history of lost websites - https://t.co/6agZp8UChp via @library_vic a great reminder of the usefulness of Pandora",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Library_Vic",
+					"name": "State Library Vic",
+					"id": 116586841,
+					"id_str": "116586841",
+					"indices": [
+						87,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6agZp8UChp",
+					"expanded_url": "https://go.shr.lc/2zQTpQC",
+					"display_url": "go.shr.lc/2zQTpQC",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2455,
+			"friends_count": 748,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34838,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look inside PANDORA to reveal a history of lost websites - https://t.co/6agZp8UChp via @library_vic a great reminder of the usefulness of Pandora"
+	},
+	{
+		"created_at": "Mon Nov 12 18:59:53 +0000 2018",
+		"id": 1062057412193075200,
+		"id_str": "1062057412193075201",
+		"full_text": "Comics legend Stan Lee dead at 95 https://t.co/AWRARNZKjt https://t.co/TwMRHXQOcI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AWRARNZKjt",
+					"expanded_url": "https://boingboing.net/2018/11/12/comics-legend-stan-lee-dead-at.html",
+					"display_url": "boingboing.net/2018/11/12/com…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1062057410553135100,
+					"id_str": "1062057410553135105",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr0vln8XQAEluDr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr0vln8XQAEluDr.jpg",
+					"url": "https://t.co/TwMRHXQOcI",
+					"display_url": "pic.twitter.com/TwMRHXQOcI",
+					"expanded_url": "https://twitter.com/BoingBoing/status/1062057412193075201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 534,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062057410553135100,
+					"id_str": "1062057410553135105",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr0vln8XQAEluDr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr0vln8XQAEluDr.jpg",
+					"url": "https://t.co/TwMRHXQOcI",
+					"display_url": "pic.twitter.com/TwMRHXQOcI",
+					"expanded_url": "https://twitter.com/BoingBoing/status/1062057412193075201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 534,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5971922,
+			"id_str": "5971922",
+			"name": "Boing Boing",
+			"screen_name": "BoingBoing",
+			"location": "Directory of Wonderful Things",
+			"description": "SUBSCRIBE: https://t.co/b3WS3ZtmB2",
+			"url": "https://t.co/84Dq61NblP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/84Dq61NblP",
+							"expanded_url": "http://www.boingboing.net",
+							"display_url": "boingboing.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/b3WS3ZtmB2",
+							"expanded_url": "http://eepurl.com/dEkrNX",
+							"display_url": "eepurl.com/dEkrNX",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 231495,
+			"friends_count": 2202,
+			"listed_count": 13065,
+			"created_at": "Fri May 11 19:14:39 +0000 2007",
+			"favourites_count": 14233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 234231,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/616924998226153472/0EfZYjr2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/616924998226153472/0EfZYjr2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5971922/1435347157",
+			"profile_link_color": "CC0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DCDCDC",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Comics legend Stan Lee dead at 95 https://t.co/AWRARNZKjt https://t.co/TwMRHXQOcI"
+	},
+	{
 		"created_at": "Sun Nov 11 19:31:21 +0000 2018",
 		"id": 1061702940518305800,
 		"id_str": "1061702940518305793",
