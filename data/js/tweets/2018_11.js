@@ -1,6 +1,545 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 18:10:08 +0000 2018",
+		"id": 1062407277238476800,
+		"id_str": "1062407277238476800",
+		"full_text": "Have you heard of \"tempestries\"? #sciart and #scicomm meet knitting!\nhttps://t.co/JnvMzYswVQ https://t.co/UYR8hK6ucN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sciart",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "scicomm",
+					"indices": [
+						45,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JnvMzYswVQ",
+					"expanded_url": "http://ow.ly/2ymo30mATHV",
+					"display_url": "ow.ly/2ymo30mATHV",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1062407273979486200,
+					"id_str": "1062407273979486208",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr5tyWxWoAAoqec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr5tyWxWoAAoqec.jpg",
+					"url": "https://t.co/UYR8hK6ucN",
+					"display_url": "pic.twitter.com/UYR8hK6ucN",
+					"expanded_url": "https://twitter.com/GNSIorg/status/1062407277238476800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1998,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062407273979486200,
+					"id_str": "1062407273979486208",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr5tyWxWoAAoqec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr5tyWxWoAAoqec.jpg",
+					"url": "https://t.co/UYR8hK6ucN",
+					"display_url": "pic.twitter.com/UYR8hK6ucN",
+					"expanded_url": "https://twitter.com/GNSIorg/status/1062407277238476800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1998,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2775639769,
+			"id_str": "2775639769",
+			"name": "Guild of Natural Science Illustrators",
+			"screen_name": "GNSIorg",
+			"location": "",
+			"description": "The GNSI supports all types of visual communicators working in the natural sciences. Cover pic ©Lucia Antunes. #sciart",
+			"url": "https://t.co/kbRtU5ogPA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kbRtU5ogPA",
+							"expanded_url": "http://gnsi.org",
+							"display_url": "gnsi.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1757,
+			"friends_count": 576,
+			"listed_count": 67,
+			"created_at": "Thu Aug 28 03:12:48 +0000 2014",
+			"favourites_count": 677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1876,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946137821961633792/bui29gQo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946137821961633792/bui29gQo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2775639769/1533330273",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you heard of \"tempestries\"? #sciart and #scicomm meet knitting!\nhttps://t.co/JnvMzYswVQ https://t.co/UYR8hK6ucN"
+	},
+	{
+		"created_at": "Tue Nov 13 17:20:33 +0000 2018",
+		"id": 1062394801813884900,
+		"id_str": "1062394801813884928",
+		"full_text": "Today's Call to Action post is one of my favorite hacks for getting all staff to book talk more AND it is also an easy interactive display idea. #readadv: https://t.co/lv96mYAPCq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "readadv",
+					"indices": [
+						145,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lv96mYAPCq",
+					"expanded_url": "http://raforall.blogspot.com/2018/11/call-to-action-booktalking-prompts-made.html",
+					"display_url": "raforall.blogspot.com/2018/11/call-t…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library, always. #Horror maven, sometimes. Jersey Girl, forever! @AmherstCollege alum. @ARRTreads @HorrorWriters",
+			"url": "http://t.co/UqsI4i2bun",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/UqsI4i2bun",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2042,
+			"friends_count": 1580,
+			"listed_count": 121,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 12753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today's Call to Action post is one of my favorite hacks for getting all staff to book talk more AND it is also an easy interactive display idea. #readadv: https://t.co/lv96mYAPCq"
+	},
+	{
+		"created_at": "Tue Nov 13 19:36:06 +0000 2018",
+		"id": 1062428911101866000,
+		"id_str": "1062428911101865984",
+		"full_text": "really interesting #readadv discussion happening now https://t.co/z2CUYyOpIw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "readadv",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z2CUYyOpIw",
+					"expanded_url": "https://twitter.com/RAforAll/status/1062355819969294337",
+					"display_url": "twitter.com/RAforAll/statu…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2457,
+			"friends_count": 748,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34840,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062355819969294300,
+		"quoted_status_id_str": "1062355819969294337",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z2CUYyOpIw",
+			"expanded": "https://twitter.com/RAforAll/status/1062355819969294337",
+			"display": "twitter.com/RAforAll/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 13 14:45:39 +0000 2018",
+			"id": 1062355819969294300,
+			"id_str": "1062355819969294337",
+			"full_text": "All the details on how you can still join us are here: https://t.co/aoLF3WqXTP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aoLF3WqXTP",
+						"expanded_url": "http://raforall.blogspot.com/2018/11/new-rusa-codes-convo-and-now-im-part-of.html",
+						"display_url": "raforall.blogspot.com/2018/11/new-ru…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1062355818740412400,
+			"in_reply_to_status_id_str": "1062355818740412416",
+			"in_reply_to_user_id": 2474412986,
+			"in_reply_to_user_id_str": "2474412986",
+			"in_reply_to_screen_name": "RAforAll",
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library, always. #Horror maven, sometimes. Jersey Girl, forever! @AmherstCollege alum. @ARRTreads @HorrorWriters",
+				"url": "http://t.co/UqsI4i2bun",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UqsI4i2bun",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2042,
+				"friends_count": 1580,
+				"listed_count": 121,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 12753,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22612,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "really interesting #readadv discussion happening now https://t.co/z2CUYyOpIw"
+	},
+	{
 		"created_at": "Tue Nov 13 03:42:22 +0000 2018",
 		"id": 1062188896388186100,
 		"id_str": "1062188896388186113",
