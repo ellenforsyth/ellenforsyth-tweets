@@ -1,6 +1,1123 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 15 11:13:59 +0000 2018",
+		"id": 1063027325330247700,
+		"id_str": "1063027325330247681",
+		"full_text": "80 years ago Quakers accompanied the Jewish delegation to plead the case for the #Kindertransport. \n\nAround 10,000 children were evacuated to Britain between 1938 and the outbreak of WWII in 1939. https://t.co/jlyRnuvYUp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kindertransport",
+					"indices": [
+						81,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jlyRnuvYUp",
+					"expanded_url": "https://quakerstrongrooms.org/2018/11/15/kristallnacht-kindertransport-and-help-for-refugees/",
+					"display_url": "quakerstrongrooms.org/2018/11/15/kri…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117089224,
+			"id_str": "117089224",
+			"name": "Quakers in Britain",
+			"screen_name": "BritishQuakers",
+			"location": "Great Britain",
+			"description": "Radical faith community grounded in stillness. We believe in working together – across borders and beliefs – to create a more just, equal and peaceful world",
+			"url": "https://t.co/z3bHR45Fyh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z3bHR45Fyh",
+							"expanded_url": "http://www.quaker.org.uk",
+							"display_url": "quaker.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9465,
+			"friends_count": 757,
+			"listed_count": 219,
+			"created_at": "Wed Feb 24 14:08:24 +0000 2010",
+			"favourites_count": 2061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8170,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037374703923617792/1ttRKwiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037374703923617792/1ttRKwiY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117089224/1541778287",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "80 years ago Quakers accompanied the Jewish delegation to plead the case for the #Kindertransport. \n\nAround 10,000 children were evacuated to Britain between 1938 and the outbreak of WWII in 1939. https://t.co/jlyRnuvYUp"
+	},
+	{
+		"created_at": "Thu Nov 15 12:42:04 +0000 2018",
+		"id": 1063049493820661800,
+		"id_str": "1063049493820661762",
+		"full_text": "Stories from the #Kindertransport survivors have been shared in the @guardian this week and are part of a poignant exhibition at @JewishMuseumLDN https://t.co/WLr9ZfNG8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kindertransport",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"screen_name": "JewishMuseumLDN",
+					"name": "Jewish Museum London",
+					"id": 117392695,
+					"id_str": "117392695",
+					"indices": [
+						129,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WLr9ZfNG8c",
+					"expanded_url": "https://www.theguardian.com/world/2018/nov/06/the-kindertransport-children-80-years-on-we-thought-we-were-going-on-an-adventure?CMP=share_btn_tw",
+					"display_url": "theguardian.com/world/2018/nov…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1063049492688240600,
+		"in_reply_to_status_id_str": "1063049492688240641",
+		"in_reply_to_user_id": 117089224,
+		"in_reply_to_user_id_str": "117089224",
+		"in_reply_to_screen_name": "BritishQuakers",
+		"user": {
+			"id": 117089224,
+			"id_str": "117089224",
+			"name": "Quakers in Britain",
+			"screen_name": "BritishQuakers",
+			"location": "Great Britain",
+			"description": "Radical faith community grounded in stillness. We believe in working together – across borders and beliefs – to create a more just, equal and peaceful world",
+			"url": "https://t.co/z3bHR45Fyh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z3bHR45Fyh",
+							"expanded_url": "http://www.quaker.org.uk",
+							"display_url": "quaker.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9465,
+			"friends_count": 757,
+			"listed_count": 219,
+			"created_at": "Wed Feb 24 14:08:24 +0000 2010",
+			"favourites_count": 2061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8170,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037374703923617792/1ttRKwiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037374703923617792/1ttRKwiY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117089224/1541778287",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stories from the #Kindertransport survivors have been shared in the @guardian this week and are part of a poignant exhibition at @JewishMuseumLDN https://t.co/WLr9ZfNG8c"
+	},
+	{
+		"created_at": "Thu Nov 15 18:25:10 +0000 2018",
+		"id": 1063135839364870100,
+		"id_str": "1063135839364870145",
+		"full_text": "@jobeaz Sounds like a very tough time",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jobeaz",
+					"name": "Jo Beazley",
+					"id": 16292857,
+					"id_str": "16292857",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1062988963256782800,
+		"in_reply_to_status_id_str": "1062988963256782848",
+		"in_reply_to_user_id": 16292857,
+		"in_reply_to_user_id_str": "16292857",
+		"in_reply_to_screen_name": "jobeaz",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2458,
+			"friends_count": 750,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34845,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jobeaz Sounds like a very tough time"
+	},
+	{
+		"created_at": "Thu Nov 15 18:23:00 +0000 2018",
+		"id": 1063135291047731200,
+		"id_str": "1063135291047731200",
+		"full_text": "@CatyJ It is great for fruitcake",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatyJ",
+					"name": "CatyJ",
+					"id": 15732431,
+					"id_str": "15732431",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1062996152549703700,
+		"in_reply_to_status_id_str": "1062996152549703680",
+		"in_reply_to_user_id": 15732431,
+		"in_reply_to_user_id_str": "15732431",
+		"in_reply_to_screen_name": "CatyJ",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2458,
+			"friends_count": 750,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34845,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CatyJ It is great for fruitcake"
+	},
+	{
+		"created_at": "Thu Nov 15 09:21:29 +0000 2018",
+		"id": 1062999017267679200,
+		"id_str": "1062999017267679232",
+		"full_text": "What makes a hobby a business? This researcher studied 400,000 knitters to find out. Via ⁦@washingtonpost⁩ very interesting research  https://t.co/txWlWV4SsE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						90,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/txWlWV4SsE",
+					"expanded_url": "https://www.washingtonpost.com/business/2018/11/14/how-an-economist-found-an-ideal-dataset-inside-facebook-knitting/",
+					"display_url": "washingtonpost.com/business/2018/…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2458,
+			"friends_count": 750,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34845,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What makes a hobby a business? This researcher studied 400,000 knitters to find out. Via ⁦@washingtonpost⁩ very interesting research  https://t.co/txWlWV4SsE"
+	},
+	{
+		"created_at": "Tue Nov 13 18:10:08 +0000 2018",
+		"id": 1062407277238476800,
+		"id_str": "1062407277238476800",
+		"full_text": "Have you heard of \"tempestries\"? #sciart and #scicomm meet knitting!\nhttps://t.co/JnvMzYswVQ https://t.co/UYR8hK6ucN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sciart",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "scicomm",
+					"indices": [
+						45,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JnvMzYswVQ",
+					"expanded_url": "http://ow.ly/2ymo30mATHV",
+					"display_url": "ow.ly/2ymo30mATHV",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1062407273979486200,
+					"id_str": "1062407273979486208",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr5tyWxWoAAoqec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr5tyWxWoAAoqec.jpg",
+					"url": "https://t.co/UYR8hK6ucN",
+					"display_url": "pic.twitter.com/UYR8hK6ucN",
+					"expanded_url": "https://twitter.com/GNSIorg/status/1062407277238476800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1998,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062407273979486200,
+					"id_str": "1062407273979486208",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr5tyWxWoAAoqec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr5tyWxWoAAoqec.jpg",
+					"url": "https://t.co/UYR8hK6ucN",
+					"display_url": "pic.twitter.com/UYR8hK6ucN",
+					"expanded_url": "https://twitter.com/GNSIorg/status/1062407277238476800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1998,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2775639769,
+			"id_str": "2775639769",
+			"name": "Guild of Natural Science Illustrators",
+			"screen_name": "GNSIorg",
+			"location": "",
+			"description": "The GNSI supports all types of visual communicators working in the natural sciences. Cover pic ©Lucia Antunes. #sciart",
+			"url": "https://t.co/kbRtU5ogPA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kbRtU5ogPA",
+							"expanded_url": "http://gnsi.org",
+							"display_url": "gnsi.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1760,
+			"friends_count": 576,
+			"listed_count": 68,
+			"created_at": "Thu Aug 28 03:12:48 +0000 2014",
+			"favourites_count": 677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1878,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946137821961633792/bui29gQo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946137821961633792/bui29gQo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2775639769/1533330273",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you heard of \"tempestries\"? #sciart and #scicomm meet knitting!\nhttps://t.co/JnvMzYswVQ https://t.co/UYR8hK6ucN"
+	},
+	{
+		"created_at": "Tue Nov 13 17:20:33 +0000 2018",
+		"id": 1062394801813884900,
+		"id_str": "1062394801813884928",
+		"full_text": "Today's Call to Action post is one of my favorite hacks for getting all staff to book talk more AND it is also an easy interactive display idea. #readadv: https://t.co/lv96mYAPCq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "readadv",
+					"indices": [
+						145,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lv96mYAPCq",
+					"expanded_url": "http://raforall.blogspot.com/2018/11/call-to-action-booktalking-prompts-made.html",
+					"display_url": "raforall.blogspot.com/2018/11/call-t…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library, always. #Horror maven, sometimes. Jersey Girl, forever! @AmherstCollege alum. @ARRTreads @HorrorWriters",
+			"url": "http://t.co/UqsI4i2bun",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/UqsI4i2bun",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2045,
+			"friends_count": 1581,
+			"listed_count": 121,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 12776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22639,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today's Call to Action post is one of my favorite hacks for getting all staff to book talk more AND it is also an easy interactive display idea. #readadv: https://t.co/lv96mYAPCq"
+	},
+	{
+		"created_at": "Tue Nov 13 19:36:06 +0000 2018",
+		"id": 1062428911101866000,
+		"id_str": "1062428911101865984",
+		"full_text": "really interesting #readadv discussion happening now https://t.co/z2CUYyOpIw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "readadv",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z2CUYyOpIw",
+					"expanded_url": "https://twitter.com/RAforAll/status/1062355819969294337",
+					"display_url": "twitter.com/RAforAll/statu…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2458,
+			"friends_count": 750,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34845,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062355819969294300,
+		"quoted_status_id_str": "1062355819969294337",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z2CUYyOpIw",
+			"expanded": "https://twitter.com/RAforAll/status/1062355819969294337",
+			"display": "twitter.com/RAforAll/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 13 14:45:39 +0000 2018",
+			"id": 1062355819969294300,
+			"id_str": "1062355819969294337",
+			"full_text": "All the details on how you can still join us are here: https://t.co/aoLF3WqXTP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aoLF3WqXTP",
+						"expanded_url": "http://raforall.blogspot.com/2018/11/new-rusa-codes-convo-and-now-im-part-of.html",
+						"display_url": "raforall.blogspot.com/2018/11/new-ru…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1062355818740412400,
+			"in_reply_to_status_id_str": "1062355818740412416",
+			"in_reply_to_user_id": 2474412986,
+			"in_reply_to_user_id_str": "2474412986",
+			"in_reply_to_screen_name": "RAforAll",
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library, always. #Horror maven, sometimes. Jersey Girl, forever! @AmherstCollege alum. @ARRTreads @HorrorWriters",
+				"url": "http://t.co/UqsI4i2bun",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UqsI4i2bun",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2045,
+				"friends_count": 1581,
+				"listed_count": 121,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 12776,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22639,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "really interesting #readadv discussion happening now https://t.co/z2CUYyOpIw"
+	},
+	{
 		"created_at": "Tue Nov 13 18:10:08 +0000 2018",
 		"id": 1062407277238476800,
 		"id_str": "1062407277238476800",
