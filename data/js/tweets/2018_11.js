@@ -65,6 +65,118 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 735,
+			"friends_count": 725,
+			"listed_count": 75,
+			"created_at": "Sun Nov 06 20:38:58 +0000 2011",
+			"favourites_count": 1008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2137,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740806920177651712/l3WW8_jI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740806920177651712/l3WW8_jI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/406523945/1480539639",
+			"profile_link_color": "CF1F08",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "CF1F08",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NDFNZ live stream here https://t.co/QvvN5DLABz Kindly sponsored by @InternetNZ"
+	},
+	{
+		"created_at": "Mon Nov 19 20:31:41 +0000 2018",
+		"id": 1064617229856071700,
+		"id_str": "1064617229856071680",
+		"full_text": "#NDFNZ live stream here https://t.co/QvvN5DLABz Kindly sponsored by @InternetNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NDFNZ",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "InternetNZ",
+					"name": "InternetNZ",
+					"id": 83757126,
+					"id_str": "83757126",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QvvN5DLABz",
+					"expanded_url": "http://www.ndf.org.nz/ndf-live-stream/",
+					"display_url": "ndf.org.nz/ndf-live-strea…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 406523945,
+			"id_str": "406523945",
+			"name": "Nils Pokel",
+			"screen_name": "nilscreates",
+			"location": "Nelson City, New Zealand",
+			"description": "Accredited super-dad, new Nelsonian, Experience Leader & #musetech whizz @nelsonmuseumnz #Viewsmyownyouknowthedeal",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 732,
 			"friends_count": 723,
 			"listed_count": 75,
