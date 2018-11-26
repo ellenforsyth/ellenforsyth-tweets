@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 25 01:30:17 +0000 2018",
+		"id": 1066504312447107100,
+		"id_str": "1066504312447107072",
+		"full_text": "Read up on how to best care for your collection.  Some practical tips from the @slqld conservators and links to their great video series on how to care for your own collections https://t.co/sujkSqnakc via @ABCNews",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slqld",
+					"name": "State Library of Qld",
+					"id": 22097835,
+					"id_str": "22097835",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						205,
+						213
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sujkSqnakc",
+					"expanded_url": "https://www.abc.net.au/news/2018-11-25/how-to-look-after-fragile-books/10544490",
+					"display_url": "abc.net.au/news/2018-11-2…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 534853449,
+			"id_str": "534853449",
+			"name": "Vicki McDonald",
+			"screen_name": "coffeemiss",
+			"location": "",
+			"description": "libraries | content | access and discovery | experiences | design | sharing | .....and coffee too! (all opinions are my own) Working at @slqld",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1218,
+			"friends_count": 523,
+			"listed_count": 136,
+			"created_at": "Fri Mar 23 22:21:42 +0000 2012",
+			"favourites_count": 6046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11671,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2790483161/6320423887380102d9c44a560fd40880_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2790483161/6320423887380102d9c44a560fd40880_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/534853449/1452417344",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read up on how to best care for your collection.  Some practical tips from the @slqld conservators and links to their great video series on how to care for your own collections https://t.co/sujkSqnakc via @ABCNews"
+	},
+	{
 		"created_at": "Sat Nov 24 03:31:55 +0000 2018",
 		"id": 1066172536671547400,
 		"id_str": "1066172536671547392",
