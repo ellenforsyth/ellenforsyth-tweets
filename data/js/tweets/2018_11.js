@@ -1,6 +1,1556 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 27 07:05:33 +0000 2018",
+		"id": 1067313459870629900,
+		"id_str": "1067313459870629890",
+		"full_text": "Tweets for the next few days will be from #SWITCH2018 https://t.co/3jxeiQABce I am here for my work @statelibrarynsw https://t.co/woEfEpnrjl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SWITCH2018",
+					"indices": [
+						42,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "statelibrarynsw",
+					"name": "State Library of NSW",
+					"id": 121597205,
+					"id_str": "121597205",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3jxeiQABce",
+					"expanded_url": "https://nswpla.org.au/switch2018/",
+					"display_url": "nswpla.org.au/switch2018/",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1067313449502310400,
+					"id_str": "1067313449502310403",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds_b7W2VAAMGFzx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds_b7W2VAAMGFzx.jpg",
+					"url": "https://t.co/woEfEpnrjl",
+					"display_url": "pic.twitter.com/woEfEpnrjl",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/1067313459870629890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067313449502310400,
+					"id_str": "1067313449502310403",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds_b7W2VAAMGFzx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds_b7W2VAAMGFzx.jpg",
+					"url": "https://t.co/woEfEpnrjl",
+					"display_url": "pic.twitter.com/woEfEpnrjl",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/1067313459870629890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2459,
+			"friends_count": 750,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34867,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tweets for the next few days will be from #SWITCH2018 https://t.co/3jxeiQABce I am here for my work @statelibrarynsw https://t.co/woEfEpnrjl"
+	},
+	{
+		"created_at": "Mon Nov 26 10:56:27 +0000 2018",
+		"id": 1067009180249280500,
+		"id_str": "1067009180249280513",
+		"full_text": "Gold and garnet. Silver and swords. @BLMedieval delves into the many intricate treasures of the @staffshoard which are currently on display in our #BLAngloSaxons exhibition. https://t.co/AHxA6OBK0b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLAngloSaxons",
+					"indices": [
+						147,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLMedieval",
+					"name": "Medieval Manuscripts",
+					"id": 468249929,
+					"id_str": "468249929",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"screen_name": "staffshoard",
+					"name": "Staffordshire Hoard",
+					"id": 234907442,
+					"id_str": "234907442",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AHxA6OBK0b",
+					"expanded_url": "https://bit.ly/2DWZ7EU",
+					"display_url": "bit.ly/2DWZ7EU",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21744554,
+			"id_str": "21744554",
+			"name": "The British Library",
+			"screen_name": "britishlibrary",
+			"location": "London NW1 2DB",
+			"description": "All the news from the British Library. #BLAngloSaxons open until 19 Feb 2019: https://t.co/qga4XgbwV0. Our social media approach: https://t.co/pTGrYOq8iN",
+			"url": "http://t.co/IWioJdCOng",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/IWioJdCOng",
+							"expanded_url": "http://www.bl.uk",
+							"display_url": "bl.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qga4XgbwV0",
+							"expanded_url": "http://bit.ly/2wumkIu",
+							"display_url": "bit.ly/2wumkIu",
+							"indices": [
+								78,
+								101
+							]
+						},
+						{
+							"url": "https://t.co/pTGrYOq8iN",
+							"expanded_url": "http://bit.ly/2iW2Tlr",
+							"display_url": "bit.ly/2iW2Tlr",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1896329,
+			"friends_count": 804,
+			"listed_count": 9413,
+			"created_at": "Tue Feb 24 10:56:49 +0000 2009",
+			"favourites_count": 6934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12467,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C22121",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013723163996377089/2QodCQ3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013723163996377089/2QodCQ3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21744554/1539330161",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CC1111",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gold and garnet. Silver and swords. @BLMedieval delves into the many intricate treasures of the @staffshoard which are currently on display in our #BLAngloSaxons exhibition. https://t.co/AHxA6OBK0b"
+	},
+	{
+		"created_at": "Mon Nov 26 19:28:38 +0000 2018",
+		"id": 1067138078173683700,
+		"id_str": "1067138078173683712",
+		"full_text": "Recording of the week: Dungeons and Dragons' curious renaissance - Sound and vision blog https://t.co/yCzQ59dQWF via @soundarchive some great listening and reading",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soundarchive",
+					"name": "Sound Archive",
+					"id": 22028935,
+					"id_str": "22028935",
+					"indices": [
+						117,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yCzQ59dQWF",
+					"expanded_url": "https://shar.es/aatUCa",
+					"display_url": "shar.es/aatUCa",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2459,
+			"friends_count": 750,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34867,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Recording of the week: Dungeons and Dragons' curious renaissance - Sound and vision blog https://t.co/yCzQ59dQWF via @soundarchive some great listening and reading"
+	},
+	{
+		"created_at": "Tue Nov 20 18:18:25 +0000 2018",
+		"id": 1064946077189599200,
+		"id_str": "1064946077189599232",
+		"full_text": "#KeeperoftheDay No. 26 - The Association of Tribal Archives, Libraries, and Museums / @TribalALM. \"Providing a network of support for Indigenous Archives, Libraries, and Museums.” https://t.co/IzAsBoQ0r4 https://t.co/r4HeLRcyc0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KeeperoftheDay",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TribalALM",
+					"name": "ATALM",
+					"id": 475069703,
+					"id_str": "475069703",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IzAsBoQ0r4",
+					"expanded_url": "http://www.kitchensisters.org/2018/11/20/association-of-tribal-archives-libraries-and-museums-keeperoftheday/",
+					"display_url": "kitchensisters.org/2018/11/20/ass…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1064945772947361800,
+					"id_str": "1064945772947361792",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/DsdyicWU0AAh6XW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsdyicWU0AAh6XW.jpg",
+					"url": "https://t.co/r4HeLRcyc0",
+					"display_url": "pic.twitter.com/r4HeLRcyc0",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1064946077189599232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064945772947361800,
+					"id_str": "1064945772947361792",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/DsdyicWU0AAh6XW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsdyicWU0AAh6XW.jpg",
+					"url": "https://t.co/r4HeLRcyc0",
+					"display_url": "pic.twitter.com/r4HeLRcyc0",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1064946077189599232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16459243,
+			"id_str": "16459243",
+			"name": "The Kitchen Sisters",
+			"screen_name": "kitchensisters",
+			"location": "San Francisco",
+			"description": "The Kitchen Sisters (Davia Nelson & Nikki Silva), producers of NPR's Hidden Kitchens, The Hidden World of Girls & The Kitchen Sisters Present podcast",
+			"url": "http://t.co/AVmB8ffkDA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AVmB8ffkDA",
+							"expanded_url": "http://www.kitchensisters.org",
+							"display_url": "kitchensisters.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15940,
+			"friends_count": 3710,
+			"listed_count": 633,
+			"created_at": "Thu Sep 25 22:38:03 +0000 2008",
+			"favourites_count": 5958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16459243/1539716780",
+			"profile_link_color": "1EBBEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#KeeperoftheDay No. 26 - The Association of Tribal Archives, Libraries, and Museums / @TribalALM. \"Providing a network of support for Indigenous Archives, Libraries, and Museums.” https://t.co/IzAsBoQ0r4 https://t.co/r4HeLRcyc0"
+	},
+	{
+		"created_at": "Mon Nov 26 17:01:08 +0000 2018",
+		"id": 1067100955932586000,
+		"id_str": "1067100955932585984",
+		"full_text": "\"A world of black cake, gingerbread, slant rhyme, secret loves, family scandals, and poems composed on the backs of coconut cake recipes and chocolate wrappers.\" https://t.co/QNqO6ULlHj via @kitchensisters",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kitchensisters",
+					"name": "The Kitchen Sisters",
+					"id": 16459243,
+					"id_str": "16459243",
+					"indices": [
+						190,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QNqO6ULlHj",
+					"expanded_url": "http://www.kitchensisters.org/present/the-keepers-emily-dickinsons-hidden-kitchen/",
+					"display_url": "kitchensisters.org/present/the-ke…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3180799929,
+			"id_str": "3180799929",
+			"name": "Jenny from the bloc",
+			"screen_name": "JenLouiseWilson",
+			"location": "",
+			"description": "Writer | PhD in Russian literature | words at @nytimes @newyorker @parisreview @theatlantic @guardian",
+			"url": "https://t.co/mhUY9XWvK4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhUY9XWvK4",
+							"expanded_url": "http://www.jennyfromthebloc.com",
+							"display_url": "jennyfromthebloc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1835,
+			"friends_count": 578,
+			"listed_count": 52,
+			"created_at": "Sat Apr 18 21:09:42 +0000 2015",
+			"favourites_count": 4743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834863546429239299/llxgsH0s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834863546429239299/llxgsH0s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3180799929/1488332953",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"A world of black cake, gingerbread, slant rhyme, secret loves, family scandals, and poems composed on the backs of coconut cake recipes and chocolate wrappers.\" https://t.co/QNqO6ULlHj via @kitchensisters"
+	},
+	{
+		"created_at": "Mon Nov 26 18:33:25 +0000 2018",
+		"id": 1067124182566133800,
+		"id_str": "1067124182566133760",
+		"full_text": "#KeeperoftheDay Transgender Archives / @TransArchives @uvic \nPreserving \"the history of pioneering activists, community leaders, and researchers who have contributed to the betterment of trans, non-binary, and Two-Spirit people.\"\n#TransgenderAwarenessMonth https://t.co/5EBWcdxVZB https://t.co/3cyNikDNl1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KeeperoftheDay",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "TransgenderAwarenessMonth",
+					"indices": [
+						230,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TransArchives",
+					"name": "TransChairArchives",
+					"id": 1708400634,
+					"id_str": "1708400634",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "uvic",
+					"name": "UniversityOfVictoria",
+					"id": 256735205,
+					"id_str": "256735205",
+					"indices": [
+						54,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5EBWcdxVZB",
+					"expanded_url": "http://www.kitchensisters.org/2018/11/26/transgender-archives-keeperoftheday/",
+					"display_url": "kitchensisters.org/2018/11/26/tra…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1067123611209654300,
+					"id_str": "1067123611209654272",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds8vRUGVYAAm0vb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds8vRUGVYAAm0vb.jpg",
+					"url": "https://t.co/3cyNikDNl1",
+					"display_url": "pic.twitter.com/3cyNikDNl1",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1067124182566133760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067123611209654300,
+					"id_str": "1067123611209654272",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds8vRUGVYAAm0vb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds8vRUGVYAAm0vb.jpg",
+					"url": "https://t.co/3cyNikDNl1",
+					"display_url": "pic.twitter.com/3cyNikDNl1",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1067124182566133760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16459243,
+			"id_str": "16459243",
+			"name": "The Kitchen Sisters",
+			"screen_name": "kitchensisters",
+			"location": "San Francisco",
+			"description": "The Kitchen Sisters (Davia Nelson & Nikki Silva), producers of NPR's Hidden Kitchens, The Hidden World of Girls & The Kitchen Sisters Present podcast",
+			"url": "http://t.co/AVmB8ffkDA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AVmB8ffkDA",
+							"expanded_url": "http://www.kitchensisters.org",
+							"display_url": "kitchensisters.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15940,
+			"friends_count": 3710,
+			"listed_count": 633,
+			"created_at": "Thu Sep 25 22:38:03 +0000 2008",
+			"favourites_count": 5958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9146,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16459243/1539716780",
+			"profile_link_color": "1EBBEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#KeeperoftheDay Transgender Archives / @TransArchives @uvic \nPreserving \"the history of pioneering activists, community leaders, and researchers who have contributed to the betterment of trans, non-binary, and Two-Spirit people.\"\n#TransgenderAwarenessMonth https://t.co/5EBWcdxVZB https://t.co/3cyNikDNl1"
+	},
+	{
+		"created_at": "Mon Nov 26 18:41:16 +0000 2018",
+		"id": 1067126157211025400,
+		"id_str": "1067126157211025414",
+		"full_text": "join the #crimeread discussion today for #rwpchat https://t.co/mrZkUBPaot https://t.co/Zv8IPA84vQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crimeread",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"text": "rwpchat",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mrZkUBPaot",
+					"expanded_url": "https://readwatchplay.wordpress.com/2018/11/27/join-the-crimeread-discussion-today-for-rwpchat/",
+					"display_url": "readwatchplay.wordpress.com/2018/11/27/joi…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1067126155147272200,
+					"id_str": "1067126155147272192",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds8xlZAU4AAIwWh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds8xlZAU4AAIwWh.jpg",
+					"url": "https://t.co/Zv8IPA84vQ",
+					"display_url": "pic.twitter.com/Zv8IPA84vQ",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1067126157211025414/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 415,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 353,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067126155147272200,
+					"id_str": "1067126155147272192",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds8xlZAU4AAIwWh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds8xlZAU4AAIwWh.jpg",
+					"url": "https://t.co/Zv8IPA84vQ",
+					"display_url": "pic.twitter.com/Zv8IPA84vQ",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1067126157211025414/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 415,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 353,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595268016,
+			"id_str": "595268016",
+			"name": "Read Watch Play",
+			"screen_name": "readwatchplay",
+			"location": "",
+			"description": "Global twitter chat by NSW Readers' Advisory group & partners. What do you enjoying reading, watching and playing. Connect with librarians. Use #rwpchat",
+			"url": "http://t.co/M9meupecSc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/M9meupecSc",
+							"expanded_url": "http://readwatchplay.wordpress.com/",
+							"display_url": "readwatchplay.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 734,
+			"friends_count": 798,
+			"listed_count": 39,
+			"created_at": "Thu May 31 05:01:08 +0000 2012",
+			"favourites_count": 310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5121,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0F0F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595268016/1407365292",
+			"profile_link_color": "C93318",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "627E91",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "join the #crimeread discussion today for #rwpchat https://t.co/mrZkUBPaot https://t.co/Zv8IPA84vQ"
+	},
+	{
+		"created_at": "Mon Nov 26 09:51:46 +0000 2018",
+		"id": 1066992903975649300,
+		"id_str": "1066992903975649281",
+		"full_text": "@FeralLibrary I count comics as I read and enjoy them.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FeralLibrary",
+					"name": "Feral Librarian",
+					"id": 925110726754295800,
+					"id_str": "925110726754295813",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1066725166741377000,
+		"in_reply_to_status_id_str": "1066725166741377024",
+		"in_reply_to_user_id": 925110726754295800,
+		"in_reply_to_user_id_str": "925110726754295813",
+		"in_reply_to_screen_name": "FeralLibrary",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2459,
+			"friends_count": 750,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34867,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@FeralLibrary I count comics as I read and enjoy them."
+	},
+	{
+		"created_at": "Mon Nov 26 09:42:55 +0000 2018",
+		"id": 1066990676531798000,
+		"id_str": "1066990676531798018",
+		"full_text": "Life as a woman in 2018: 5 key statistics and the stories behind them via ⁦@washingtonpost⁩ some tough data to read https://t.co/sXwm8s6dmw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						75,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sXwm8s6dmw",
+					"expanded_url": "https://www.washingtonpost.com/classic-apps/womens-lives-behind-the-data/2018/11/19/ecc464fe-d09e-11e8-8c22-fa2ef74bd6d6_story.html",
+					"display_url": "washingtonpost.com/classic-apps/w…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2459,
+			"friends_count": 750,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34867,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Life as a woman in 2018: 5 key statistics and the stories behind them via ⁦@washingtonpost⁩ some tough data to read https://t.co/sXwm8s6dmw"
+	},
+	{
+		"created_at": "Sun Nov 25 01:30:17 +0000 2018",
+		"id": 1066504312447107100,
+		"id_str": "1066504312447107072",
+		"full_text": "Read up on how to best care for your collection.  Some practical tips from the @slqld conservators and links to their great video series on how to care for your own collections https://t.co/sujkSqnakc via @ABCNews",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slqld",
+					"name": "State Library of Qld",
+					"id": 22097835,
+					"id_str": "22097835",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						205,
+						213
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sujkSqnakc",
+					"expanded_url": "https://www.abc.net.au/news/2018-11-25/how-to-look-after-fragile-books/10544490",
+					"display_url": "abc.net.au/news/2018-11-2…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 534853449,
+			"id_str": "534853449",
+			"name": "Vicki McDonald",
+			"screen_name": "coffeemiss",
+			"location": "",
+			"description": "libraries | content | access and discovery | experiences | design | sharing | .....and coffee too! (all opinions are my own) Working at @slqld",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1219,
+			"friends_count": 523,
+			"listed_count": 136,
+			"created_at": "Fri Mar 23 22:21:42 +0000 2012",
+			"favourites_count": 6046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11671,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2790483161/6320423887380102d9c44a560fd40880_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2790483161/6320423887380102d9c44a560fd40880_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/534853449/1452417344",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read up on how to best care for your collection.  Some practical tips from the @slqld conservators and links to their great video series on how to care for your own collections https://t.co/sujkSqnakc via @ABCNews"
+	},
+	{
 		"created_at": "Sun Nov 25 01:30:17 +0000 2018",
 		"id": 1066504312447107100,
 		"id_str": "1066504312447107072",
