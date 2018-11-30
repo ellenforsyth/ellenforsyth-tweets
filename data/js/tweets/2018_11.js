@@ -1,6 +1,1544 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 30 06:53:38 +0000 2018",
+		"id": 1068397627169894400,
+		"id_str": "1068397627169894400",
+		"full_text": "The power of stitching names during the AIDS crisis https://t.co/xaGL1Bx9hA via @te_papa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Te_Papa",
+					"name": "Te Papa",
+					"id": 29090322,
+					"id_str": "29090322",
+					"indices": [
+						80,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xaGL1Bx9hA",
+					"expanded_url": "https://blog.tepapa.govt.nz/2018/11/28/the-power-of-stitching-names-during-the-aids-crisis/",
+					"display_url": "blog.tepapa.govt.nz/2018/11/28/the…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 752,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35007,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The power of stitching names during the AIDS crisis https://t.co/xaGL1Bx9hA via @te_papa"
+	},
+	{
+		"created_at": "Thu Nov 29 19:07:03 +0000 2018",
+		"id": 1068219809962152000,
+		"id_str": "1068219809962151936",
+		"full_text": "...and lacemaking as well #IntangibleHeritage https://t.co/ltYjnDQyel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IntangibleHeritage",
+					"indices": [
+						26,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ltYjnDQyel",
+					"expanded_url": "https://twitter.com/unesco/status/1068112574623805440",
+					"display_url": "twitter.com/unesco/status/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 752,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35007,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068112574623805400,
+		"quoted_status_id_str": "1068112574623805440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ltYjnDQyel",
+			"expanded": "https://twitter.com/unesco/status/1068112574623805440",
+			"display": "twitter.com/unesco/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 29 12:00:57 +0000 2018",
+			"id": 1068112574623805400,
+			"id_str": "1068112574623805440",
+			"full_text": "🔴 BREAKING\n\nNew inscription on the #IntangibleHeritage List: Bobbin lacemaking in #Slovenia🇸🇮. Congrats!!\n\nℹ️ https://t.co/Ui59w41Tnd #LivingHeritage https://t.co/Ixst7yvivG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IntangibleHeritage",
+						"indices": [
+							35,
+							54
+						]
+					},
+					{
+						"text": "Slovenia",
+						"indices": [
+							82,
+							91
+						]
+					},
+					{
+						"text": "LivingHeritage",
+						"indices": [
+							134,
+							149
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ui59w41Tnd",
+						"expanded_url": "https://ich.unesco.org/en/RL/01378",
+						"display_url": "ich.unesco.org/en/RL/01378",
+						"indices": [
+							110,
+							133
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1068112486962999300,
+						"id_str": "1068112486962999296",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/DtKypdWWsAAVyh6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtKypdWWsAAVyh6.jpg",
+						"url": "https://t.co/Ixst7yvivG",
+						"display_url": "pic.twitter.com/Ixst7yvivG",
+						"expanded_url": "https://twitter.com/UNESCO/status/1068112574623805440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1068112486962999300,
+						"id_str": "1068112486962999296",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/DtKypdWWsAAVyh6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtKypdWWsAAVyh6.jpg",
+						"url": "https://t.co/Ixst7yvivG",
+						"display_url": "pic.twitter.com/Ixst7yvivG",
+						"expanded_url": "https://twitter.com/UNESCO/status/1068112574623805440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20646711,
+				"id_str": "20646711",
+				"name": "UNESCO",
+				"screen_name": "UNESCO",
+				"location": "",
+				"description": "Building peace where it starts - in the minds of men & women. #RightToEducation",
+				"url": "https://t.co/BChdPGRroe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BChdPGRroe",
+								"expanded_url": "https://en.unesco.org",
+								"display_url": "en.unesco.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3001869,
+				"friends_count": 1624,
+				"listed_count": 8969,
+				"created_at": "Thu Feb 12 01:46:13 +0000 2009",
+				"favourites_count": 13981,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20868,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20646711/1542207871",
+				"profile_link_color": "0077D4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "...and lacemaking as well #IntangibleHeritage https://t.co/ltYjnDQyel"
+	},
+	{
+		"created_at": "Thu Nov 29 19:06:15 +0000 2018",
+		"id": 1068219606295167000,
+		"id_str": "1068219606295166976",
+		"full_text": "some embroidery is also being recognised for #IntangibleHeritage https://t.co/ewrKDkqqNH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IntangibleHeritage",
+					"indices": [
+						45,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ewrKDkqqNH",
+					"expanded_url": "https://twitter.com/UNESCO/status/1068122645345038336",
+					"display_url": "twitter.com/UNESCO/status/…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 752,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35007,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068122645345038300,
+		"quoted_status_id_str": "1068122645345038336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ewrKDkqqNH",
+			"expanded": "https://twitter.com/UNESCO/status/1068122645345038336",
+			"display": "twitter.com/UNESCO/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 29 12:40:58 +0000 2018",
+			"id": 1068122645345038300,
+			"id_str": "1068122645345038336",
+			"full_text": "🔴 BREAKING\n\nNew inscription on the #IntangibleHeritage List: Chakan, embroidery art in the Republic of #Tajikistan🇹🇯. Congratulations! 👏\n\nℹ️ https://t.co/WOPpVuib5G #LivingHeritage https://t.co/k73rELkJLF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IntangibleHeritage",
+						"indices": [
+							35,
+							54
+						]
+					},
+					{
+						"text": "Tajikistan",
+						"indices": [
+							103,
+							114
+						]
+					},
+					{
+						"text": "LivingHeritage",
+						"indices": [
+							165,
+							180
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WOPpVuib5G",
+						"expanded_url": "https://ich.unesco.org/en/RL/01397",
+						"display_url": "ich.unesco.org/en/RL/01397",
+						"indices": [
+							141,
+							164
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1068122123783348200,
+						"id_str": "1068122123783348225",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/DtK7aZTXoAE-aXv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtK7aZTXoAE-aXv.jpg",
+						"url": "https://t.co/k73rELkJLF",
+						"display_url": "pic.twitter.com/k73rELkJLF",
+						"expanded_url": "https://twitter.com/UNESCO/status/1068122645345038336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1068122123783348200,
+						"id_str": "1068122123783348225",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/DtK7aZTXoAE-aXv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtK7aZTXoAE-aXv.jpg",
+						"url": "https://t.co/k73rELkJLF",
+						"display_url": "pic.twitter.com/k73rELkJLF",
+						"expanded_url": "https://twitter.com/UNESCO/status/1068122645345038336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20646711,
+				"id_str": "20646711",
+				"name": "UNESCO",
+				"screen_name": "UNESCO",
+				"location": "",
+				"description": "Building peace where it starts - in the minds of men & women. #RightToEducation",
+				"url": "https://t.co/BChdPGRroe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BChdPGRroe",
+								"expanded_url": "https://en.unesco.org",
+								"display_url": "en.unesco.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3001869,
+				"friends_count": 1624,
+				"listed_count": 8969,
+				"created_at": "Thu Feb 12 01:46:13 +0000 2009",
+				"favourites_count": 13981,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20868,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20646711/1542207871",
+				"profile_link_color": "0077D4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some embroidery is also being recognised for #IntangibleHeritage https://t.co/ewrKDkqqNH"
+	},
+	{
+		"created_at": "Thu Nov 29 19:05:20 +0000 2018",
+		"id": 1068219375390355500,
+		"id_str": "1068219375390355456",
+		"full_text": "Lovely to see #IntangibleHeritage being recognised this way https://t.co/PoYixu0W90",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IntangibleHeritage",
+					"indices": [
+						14,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PoYixu0W90",
+					"expanded_url": "https://twitter.com/unesco/status/1068130300218220544",
+					"display_url": "twitter.com/unesco/status/…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 752,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35007,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068130300218220500,
+		"quoted_status_id_str": "1068130300218220544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PoYixu0W90",
+			"expanded": "https://twitter.com/unesco/status/1068130300218220544",
+			"display": "twitter.com/unesco/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 29 13:11:23 +0000 2018",
+			"id": 1068130300218220500,
+			"id_str": "1068130300218220544",
+			"full_text": "🔴 BREAKING\n\nNew inscription on the #IntangibleHeritage list: Pottery skills of the women of Sejnane. Congratulations #Tunisia🇹🇳! 👏\n\nℹ️ https://t.co/iJnaALKvgE #LivingHeritage https://t.co/8gRuhsBfSz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IntangibleHeritage",
+						"indices": [
+							35,
+							54
+						]
+					},
+					{
+						"text": "Tunisia",
+						"indices": [
+							117,
+							125
+						]
+					},
+					{
+						"text": "LivingHeritage",
+						"indices": [
+							159,
+							174
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iJnaALKvgE",
+						"expanded_url": "https://ich.unesco.org/en/RL/01406",
+						"display_url": "ich.unesco.org/en/RL/01406",
+						"indices": [
+							135,
+							158
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1068128953158852600,
+						"id_str": "1068128953158852613",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/DtLBn6tX4AUWeZu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtLBn6tX4AUWeZu.jpg",
+						"url": "https://t.co/8gRuhsBfSz",
+						"display_url": "pic.twitter.com/8gRuhsBfSz",
+						"expanded_url": "https://twitter.com/UNESCO/status/1068130300218220544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1068128953158852600,
+						"id_str": "1068128953158852613",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/DtLBn6tX4AUWeZu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtLBn6tX4AUWeZu.jpg",
+						"url": "https://t.co/8gRuhsBfSz",
+						"display_url": "pic.twitter.com/8gRuhsBfSz",
+						"expanded_url": "https://twitter.com/UNESCO/status/1068130300218220544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20646711,
+				"id_str": "20646711",
+				"name": "UNESCO",
+				"screen_name": "UNESCO",
+				"location": "",
+				"description": "Building peace where it starts - in the minds of men & women. #RightToEducation",
+				"url": "https://t.co/BChdPGRroe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BChdPGRroe",
+								"expanded_url": "https://en.unesco.org",
+								"display_url": "en.unesco.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3001869,
+				"friends_count": 1624,
+				"listed_count": 8969,
+				"created_at": "Thu Feb 12 01:46:13 +0000 2009",
+				"favourites_count": 13981,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20868,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20646711/1542207871",
+				"profile_link_color": "0077D4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 87,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lovely to see #IntangibleHeritage being recognised this way https://t.co/PoYixu0W90"
+	},
+	{
+		"created_at": "Thu Nov 29 19:04:32 +0000 2018",
+		"id": 1068219175808622600,
+		"id_str": "1068219175808622592",
+		"full_text": "Some very interesting #IntangibleHeritage being recognised https://t.co/UCqqMYT3JE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IntangibleHeritage",
+					"indices": [
+						22,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UCqqMYT3JE",
+					"expanded_url": "https://twitter.com/unesco/status/1068139787289354240",
+					"display_url": "twitter.com/unesco/status/…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 752,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35007,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068139787289354200,
+		"quoted_status_id_str": "1068139787289354240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UCqqMYT3JE",
+			"expanded": "https://twitter.com/unesco/status/1068139787289354240",
+			"display": "twitter.com/unesco/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 29 13:49:05 +0000 2018",
+			"id": 1068139787289354200,
+			"id_str": "1068139787289354240",
+			"full_text": "🔴 BREAKING\n\nLand-of-Legends programme, for promoting &amp; revitalizing the art of storytelling in Kronoberg Region, has been added to the Register of Good Safeguarding Practices of #IntangibleHeritage. Congratulations #Sweden🇸🇪! 👏\n\nℹ️ https://t.co/7IChmNzeQt #LivingHeritage https://t.co/AqA1IPVugX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IntangibleHeritage",
+						"indices": [
+							182,
+							201
+						]
+					},
+					{
+						"text": "Sweden",
+						"indices": [
+							219,
+							226
+						]
+					},
+					{
+						"text": "LivingHeritage",
+						"indices": [
+							260,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7IChmNzeQt",
+						"expanded_url": "https://ich.unesco.org/en/Art18/01392",
+						"display_url": "ich.unesco.org/en/Art18/01392",
+						"indices": [
+							236,
+							259
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1068138566931398700,
+						"id_str": "1068138566931398657",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/DtLKXgzXQAERC1v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtLKXgzXQAERC1v.jpg",
+						"url": "https://t.co/AqA1IPVugX",
+						"display_url": "pic.twitter.com/AqA1IPVugX",
+						"expanded_url": "https://twitter.com/UNESCO/status/1068139787289354240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1068138566931398700,
+						"id_str": "1068138566931398657",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/DtLKXgzXQAERC1v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtLKXgzXQAERC1v.jpg",
+						"url": "https://t.co/AqA1IPVugX",
+						"display_url": "pic.twitter.com/AqA1IPVugX",
+						"expanded_url": "https://twitter.com/UNESCO/status/1068139787289354240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20646711,
+				"id_str": "20646711",
+				"name": "UNESCO",
+				"screen_name": "UNESCO",
+				"location": "",
+				"description": "Building peace where it starts - in the minds of men & women. #RightToEducation",
+				"url": "https://t.co/BChdPGRroe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BChdPGRroe",
+								"expanded_url": "https://en.unesco.org",
+								"display_url": "en.unesco.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3001869,
+				"friends_count": 1624,
+				"listed_count": 8969,
+				"created_at": "Thu Feb 12 01:46:13 +0000 2009",
+				"favourites_count": 13981,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20868,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004384526511067136/8oMIrJoY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20646711/1542207871",
+				"profile_link_color": "0077D4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some very interesting #IntangibleHeritage being recognised https://t.co/UCqqMYT3JE"
+	},
+	{
+		"created_at": "Thu Nov 29 17:07:14 +0000 2018",
+		"id": 1068189653314920400,
+		"id_str": "1068189653314920449",
+		"full_text": "Reggae reigns as global 'cultural treasure', says UNESCO via ⁦@abcnews⁩  https://t.co/PbRyXotvC1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PbRyXotvC1",
+					"expanded_url": "http://www.abc.net.au/news/2018-11-30/unesco-declares-reggae-a-cultural-treasure/10569344",
+					"display_url": "abc.net.au/news/2018-11-3…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 752,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35007,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reggae reigns as global 'cultural treasure', says UNESCO via ⁦@abcnews⁩  https://t.co/PbRyXotvC1"
+	},
+	{
 		"created_at": "Thu Nov 29 05:49:39 +0000 2018",
 		"id": 1068019135810916400,
 		"id_str": "1068019135810916352",
