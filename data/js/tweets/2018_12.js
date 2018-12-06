@@ -1,6 +1,1570 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 05 23:30:53 +0000 2018",
+		"id": 1070460533063577600,
+		"id_str": "1070460533063577602",
+		"full_text": "Looks amazing https://t.co/vXdly76HOU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vXdly76HOU",
+					"expanded_url": "https://twitter.com/janecowell8/status/1070437389200371712",
+					"display_url": "twitter.com/janecowell8/st…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 752,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1070437389200371700,
+		"quoted_status_id_str": "1070437389200371712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vXdly76HOU",
+			"expanded": "https://twitter.com/janecowell8/status/1070437389200371712",
+			"display": "twitter.com/janecowell8/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 05 21:58:56 +0000 2018",
+			"id": 1070437389200371700,
+			"id_str": "1070437389200371712",
+			"full_text": "Love it - Oodi is here!  #Libraries #LibraryArchitecture https://t.co/Qho2rHtaZ5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Libraries",
+						"indices": [
+							25,
+							35
+						]
+					},
+					{
+						"text": "LibraryArchitecture",
+						"indices": [
+							36,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Qho2rHtaZ5",
+						"expanded_url": "https://twitter.com/INGMEDIA/status/1070367366981275648",
+						"display_url": "twitter.com/INGMEDIA/statu…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 717284725,
+				"id_str": "717284725",
+				"name": "Jane Cowell",
+				"screen_name": "janecowell8",
+				"location": "Melbourne, Victoria",
+				"description": "Librarian, innovator, interested in libraries, digital disruption, startups, Australian politics, views are my own, retweets are not endorsements",
+				"url": "https://t.co/qsQRjQOlG2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qsQRjQOlG2",
+								"expanded_url": "https://www.linkedin.com/home?trk=nav_responsive_tab_home",
+								"display_url": "linkedin.com/home?trk=nav_r…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3129,
+				"friends_count": 2825,
+				"listed_count": 620,
+				"created_at": "Thu Jul 26 03:12:40 +0000 2012",
+				"favourites_count": 22217,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43298,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867982725323530241/OkuJpE1X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867982725323530241/OkuJpE1X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/717284725/1540704556",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1070367366981275600,
+			"quoted_status_id_str": "1070367366981275648",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Qho2rHtaZ5",
+				"expanded": "https://twitter.com/INGMEDIA/status/1070367366981275648",
+				"display": "twitter.com/INGMEDIA/statu…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looks amazing https://t.co/vXdly76HOU"
+	},
+	{
+		"created_at": "Tue Dec 04 19:39:45 +0000 2018",
+		"id": 1070039977193431000,
+		"id_str": "1070039977193431040",
+		"full_text": "An insight into Indigenous Weather Knowledge.\n\nAn @BOM_au acknowledgement of the intricate understanding of the environment Aboriginal and Torres Strait Islander peoples have delevoped over many thousands of years. \n\nhttps://t.co/tOlLO6V3CJ https://t.co/qNE1gp4Iwc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BOM_au",
+					"name": "Bureau of Meteorology, Australia",
+					"id": 188545143,
+					"id_str": "188545143",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tOlLO6V3CJ",
+					"expanded_url": "http://bom.gov.au/iwk/?ref=ftr",
+					"display_url": "bom.gov.au/iwk/?ref=ftr",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1070039965331910700,
+					"id_str": "1070039965331910656",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/DtmLrd0UcAA7OEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtmLrd0UcAA7OEa.jpg",
+					"url": "https://t.co/qNE1gp4Iwc",
+					"display_url": "pic.twitter.com/qNE1gp4Iwc",
+					"expanded_url": "https://twitter.com/cfwriter/status/1070039977193431040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1177,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070039965331910700,
+					"id_str": "1070039965331910656",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/DtmLrd0UcAA7OEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtmLrd0UcAA7OEa.jpg",
+					"url": "https://t.co/qNE1gp4Iwc",
+					"display_url": "pic.twitter.com/qNE1gp4Iwc",
+					"expanded_url": "https://twitter.com/cfwriter/status/1070039977193431040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1177,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52325959,
+			"id_str": "52325959",
+			"name": "Dr Rachel Franks",
+			"screen_name": "cfwriter",
+			"location": "Sydney : Gadigal Land, NSW",
+			"description": "crime fiction / true crime / information science / popular culture / cats + kittens",
+			"url": "https://t.co/VD2ArN9iyY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VD2ArN9iyY",
+							"expanded_url": "https://rachelfranks.academia.edu",
+							"display_url": "rachelfranks.academia.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1130,
+			"friends_count": 1013,
+			"listed_count": 64,
+			"created_at": "Tue Jun 30 06:33:54 +0000 2009",
+			"favourites_count": 6168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6545,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/291719587/cfwriter_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/291719587/cfwriter_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52325959/1356151203",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An insight into Indigenous Weather Knowledge.\n\nAn @BOM_au acknowledgement of the intricate understanding of the environment Aboriginal and Torres Strait Islander peoples have delevoped over many thousands of years. \n\nhttps://t.co/tOlLO6V3CJ https://t.co/qNE1gp4Iwc"
+	},
+	{
+		"created_at": "Mon Dec 03 15:01:40 +0000 2018",
+		"id": 1069607607583862800,
+		"id_str": "1069607607583862785",
+		"full_text": "“At best the Internet Archive has collected 0.39% of the web.” @edsu reminds us, with @bergisjules, that we can’t collect and preserve the complete record of any media, nor should we. “The Ferguson Principles” https://t.co/sEMv3Z0LdW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edsu",
+					"name": "Ed Summers",
+					"id": 14331818,
+					"id_str": "14331818",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"screen_name": "BergisJules",
+					"name": "Bergis Jules 🇱🇨",
+					"id": 1012488631,
+					"id_str": "1012488631",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sEMv3Z0LdW",
+					"expanded_url": "https://inkdroid.org/2018/11/08/ferguson-principles/",
+					"display_url": "inkdroid.org/2018/11/08/fer…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14181097,
+			"id_str": "14181097",
+			"name": "Dan Cohen",
+			"screen_name": "dancohen",
+			"location": "Boston",
+			"description": "Vice Provost for Information Collaboration, Dean of the Libraries, and Professor of History @Northeastern | Host of @podcastwhatsnew | Views are my own",
+			"url": "https://t.co/PsV4Uu393w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PsV4Uu393w",
+							"expanded_url": "http://dancohen.org",
+							"display_url": "dancohen.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18329,
+			"friends_count": 1204,
+			"listed_count": 1382,
+			"created_at": "Thu Mar 20 00:37:35 +0000 2008",
+			"favourites_count": 7288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28837,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/932683140212101125/4yAVrlzt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/932683140212101125/4yAVrlzt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14181097/1349744877",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“At best the Internet Archive has collected 0.39% of the web.” @edsu reminds us, with @bergisjules, that we can’t collect and preserve the complete record of any media, nor should we. “The Ferguson Principles” https://t.co/sEMv3Z0LdW"
+	},
+	{
+		"created_at": "Mon Dec 03 09:08:59 +0000 2018",
+		"id": 1069518852445405200,
+		"id_str": "1069518852445405185",
+		"full_text": "Blowing your own trumpet? How to promote your research without being obnoxious? https://t.co/yLREXDjrtl \n\n@researchwhisper @thesiswhisperer @aib_uki @AIB_World @LNVH_NL @PhDStudents @PhDForum @AcademicsSay @WriteThatPhD @AOM_OB @LSEImpactBlog @fasttrackimpact @researchimpact https://t.co/8FVrRxCFJE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "researchwhisper",
+					"name": "Research Whisperer",
+					"id": 313140358,
+					"id_str": "313140358",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "thesiswhisperer",
+					"name": "Dr Inger Mewburn",
+					"id": 38630406,
+					"id_str": "38630406",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"screen_name": "aib_uki",
+					"name": "aib_uki",
+					"id": 1377034968,
+					"id_str": "1377034968",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"screen_name": "AIB_World",
+					"name": "Academy of International Business",
+					"id": 1007203880,
+					"id_str": "1007203880",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"screen_name": "LNVH_NL",
+					"name": "LNVH",
+					"id": 3092711651,
+					"id_str": "3092711651",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"screen_name": "PhDStudents",
+					"name": "PhDStudent",
+					"id": 526624220,
+					"id_str": "526624220",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"screen_name": "PhDForum",
+					"name": "PhD Forum",
+					"id": 604416116,
+					"id_str": "604416116",
+					"indices": [
+						182,
+						191
+					]
+				},
+				{
+					"screen_name": "AcademicsSay",
+					"name": "Shit Academics Say",
+					"id": 1891806212,
+					"id_str": "1891806212",
+					"indices": [
+						192,
+						205
+					]
+				},
+				{
+					"screen_name": "WriteThatPhD",
+					"name": "Write That PhD",
+					"id": 3224063257,
+					"id_str": "3224063257",
+					"indices": [
+						206,
+						219
+					]
+				},
+				{
+					"screen_name": "AOM_OB",
+					"name": "AOM OB division",
+					"id": 4856501123,
+					"id_str": "4856501123",
+					"indices": [
+						220,
+						227
+					]
+				},
+				{
+					"screen_name": "LSEImpactBlog",
+					"name": "LSE Impact Blog",
+					"id": 273935884,
+					"id_str": "273935884",
+					"indices": [
+						228,
+						242
+					]
+				},
+				{
+					"screen_name": "fasttrackimpact",
+					"name": "Fast Track Impact",
+					"id": 340212738,
+					"id_str": "340212738",
+					"indices": [
+						243,
+						259
+					]
+				},
+				{
+					"screen_name": "researchimpact",
+					"name": "Research Impact Canada",
+					"id": 37030356,
+					"id_str": "37030356",
+					"indices": [
+						260,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yLREXDjrtl",
+					"expanded_url": "https://harzing.com/blog/2018/12/how-to-promote-your-research-achievements-without-being-obnoxious",
+					"display_url": "harzing.com/blog/2018/12/h…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1069517822827610100,
+					"id_str": "1069517822827610113",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DtewyxaWwAEe7nC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtewyxaWwAEe7nC.jpg",
+					"url": "https://t.co/8FVrRxCFJE",
+					"display_url": "pic.twitter.com/8FVrRxCFJE",
+					"expanded_url": "https://twitter.com/AWHarzing/status/1069518852445405185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1018,
+							"h": 621,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069517822827610100,
+					"id_str": "1069517822827610113",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DtewyxaWwAEe7nC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtewyxaWwAEe7nC.jpg",
+					"url": "https://t.co/8FVrRxCFJE",
+					"display_url": "pic.twitter.com/8FVrRxCFJE",
+					"expanded_url": "https://twitter.com/AWHarzing/status/1069518852445405185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1018,
+							"h": 621,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4105400200,
+			"id_str": "4105400200",
+			"name": "Anne-Wil Harzing",
+			"screen_name": "AWHarzing",
+			"location": "London, England",
+			"description": "Professor @MiddlesexUni, London. Research and Career Mentor. Founder of  #cygna_london\n#language #IHRM #identity #evaluation #bibliometrics #genderequity",
+			"url": "https://t.co/h0hSnJuIGh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h0hSnJuIGh",
+							"expanded_url": "http://www.harzing.com",
+							"display_url": "harzing.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1309,
+			"friends_count": 249,
+			"listed_count": 44,
+			"created_at": "Tue Nov 03 15:13:48 +0000 2015",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1964,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/661563046263980032/JXXc3ydy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/661563046263980032/JXXc3ydy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4105400200/1511715806",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Blowing your own trumpet? How to promote your research without being obnoxious? https://t.co/yLREXDjrtl \n\n@researchwhisper @thesiswhisperer @aib_uki @AIB_World @LNVH_NL @PhDStudents @PhDForum @AcademicsSay @WriteThatPhD @AOM_OB @LSEImpactBlog @fasttrackimpact @researchimpact https://t.co/8FVrRxCFJE"
+	},
+	{
+		"created_at": "Tue Dec 04 19:14:37 +0000 2018",
+		"id": 1070033650031353900,
+		"id_str": "1070033650031353856",
+		"full_text": "Helsinki Central Library Oodi will open its doors to the public on 5 December, https://t.co/pwKOKlRMbU looking forward to seeing pictures of this",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pwKOKlRMbU",
+					"expanded_url": "https://www.hel.fi/uutiset/en/kulttuurin-ja-vapaa-ajan-toimiala/oodi-will-open-to-the-public-on-5-december",
+					"display_url": "hel.fi/uutiset/en/kul…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 752,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Helsinki Central Library Oodi will open its doors to the public on 5 December, https://t.co/pwKOKlRMbU looking forward to seeing pictures of this"
+	},
+	{
+		"created_at": "Tue Dec 04 09:23:03 +0000 2018",
+		"id": 1069884777992339500,
+		"id_str": "1069884777992339456",
+		"full_text": "Happy birthday @TroveAustralia thank you for making it possible to find out which libraries hold what (we need more libraries to add more of their holdings), and I have a lot of fun with the newspapers and the api (and big thanks to @wragge for his work with the api too) https://t.co/l2Myw5H2oM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TroveAustralia",
+					"name": "Trove",
+					"id": 119219640,
+					"id_str": "119219640",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "wragge",
+					"name": "Tim Sherratt",
+					"id": 18129652,
+					"id_str": "18129652",
+					"indices": [
+						233,
+						240
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l2Myw5H2oM",
+					"expanded_url": "https://twitter.com/TroveAustralia/status/1069733016321306624",
+					"display_url": "twitter.com/TroveAustralia…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 752,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1069733016321306600,
+		"quoted_status_id_str": "1069733016321306624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l2Myw5H2oM",
+			"expanded": "https://twitter.com/TroveAustralia/status/1069733016321306624",
+			"display": "twitter.com/TroveAustralia…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 03 23:20:00 +0000 2018",
+			"id": 1069733016321306600,
+			"id_str": "1069733016321306624",
+			"full_text": "We've just celebrated our 9th birthday! 🎂 Give us a like, retweet or comment to say happy birthday. Double digits next year!!!! 🎁 https://t.co/GGWwFvXHn6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1069416871168892900,
+						"id_str": "1069416871168892928",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/DtdU-nLU4AANywg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtdU-nLU4AANywg.jpg",
+						"url": "https://t.co/GGWwFvXHn6",
+						"display_url": "pic.twitter.com/GGWwFvXHn6",
+						"expanded_url": "https://twitter.com/TroveAustralia/status/1069733016321306624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 570,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1069416871168892900,
+						"id_str": "1069416871168892928",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/DtdU-nLU4AANywg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtdU-nLU4AANywg.jpg",
+						"url": "https://t.co/GGWwFvXHn6",
+						"display_url": "pic.twitter.com/GGWwFvXHn6",
+						"expanded_url": "https://twitter.com/TroveAustralia/status/1069733016321306624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 570,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119219640,
+				"id_str": "119219640",
+				"name": "Trove",
+				"screen_name": "TroveAustralia",
+				"location": "Canberra, Australia",
+				"description": "Trove is your window into Australia's stories. Tweets by the Trove Outreach Team at National Library of Australia. We blog at https://t.co/1SSvF8ZkFn",
+				"url": "http://t.co/xJewI037dI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xJewI037dI",
+								"expanded_url": "http://trove.nla.gov.au/",
+								"display_url": "trove.nla.gov.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1SSvF8ZkFn",
+								"expanded_url": "https://www.nla.gov.au/blogs/trove",
+								"display_url": "nla.gov.au/blogs/trove",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19818,
+				"friends_count": 1856,
+				"listed_count": 495,
+				"created_at": "Wed Mar 03 00:52:10 +0000 2010",
+				"favourites_count": 7197,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8675,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C3E065",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879109788570763264/pCYV2488_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879109788570763264/pCYV2488_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119219640/1498431472",
+				"profile_link_color": "619744",
+				"profile_sidebar_border_color": "D8F098",
+				"profile_sidebar_fill_color": "ECF0D6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 171,
+			"favorite_count": 567,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy birthday @TroveAustralia thank you for making it possible to find out which libraries hold what (we need more libraries to add more of their holdings), and I have a lot of fun with the newspapers and the api (and big thanks to @wragge for his work with the api too) https://t.co/l2Myw5H2oM"
+	},
+	{
+		"created_at": "Mon Dec 03 08:00:25 +0000 2018",
+		"id": 1069501597896646700,
+		"id_str": "1069501597896646656",
+		"full_text": "The #AussieBirdCount results are in! Together we counted over 2.7m birds including 305k Rainbow Lorikeets! This puts the Rainbow Lorikeet at the top of the count for 5 consecutive years. Why are Rainbows ruling the roost? Head to the website to find out: https://t.co/ie8hHuyQdM https://t.co/RZQFkAP9gO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AussieBirdCount",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ie8hHuyQdM",
+					"expanded_url": "http://bit.ly/2018ABBCResults",
+					"display_url": "bit.ly/2018ABBCResults",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1069501595359092700,
+					"id_str": "1069501595359092737",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DteiCNYXoAE1jZM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DteiCNYXoAE1jZM.jpg",
+					"url": "https://t.co/RZQFkAP9gO",
+					"display_url": "pic.twitter.com/RZQFkAP9gO",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1069501597896646656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1484,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 869,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069501595359092700,
+					"id_str": "1069501595359092737",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DteiCNYXoAE1jZM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DteiCNYXoAE1jZM.jpg",
+					"url": "https://t.co/RZQFkAP9gO",
+					"display_url": "pic.twitter.com/RZQFkAP9gO",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1069501597896646656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1484,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 869,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1069501595841384400,
+					"id_str": "1069501595841384448",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DteiCPLW0AALxbD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DteiCPLW0AALxbD.jpg",
+					"url": "https://t.co/RZQFkAP9gO",
+					"display_url": "pic.twitter.com/RZQFkAP9gO",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1069501597896646656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1590,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 931,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1069501595396776000,
+					"id_str": "1069501595396775937",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DteiCNhWoAEG_xU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DteiCNhWoAEG_xU.jpg",
+					"url": "https://t.co/RZQFkAP9gO",
+					"display_url": "pic.twitter.com/RZQFkAP9gO",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1069501597896646656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1734,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145136771,
+			"id_str": "145136771",
+			"name": "BirdLife Australia",
+			"screen_name": "BirdlifeOz",
+			"location": "Australia",
+			"description": "BirdLife Australia is dedicated to creating a bright future for Australia's birds",
+			"url": "http://t.co/1FnHo8lZVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FnHo8lZVd",
+							"expanded_url": "http://birdlife.org.au",
+							"display_url": "birdlife.org.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13586,
+			"friends_count": 822,
+			"listed_count": 313,
+			"created_at": "Tue May 18 06:05:23 +0000 2010",
+			"favourites_count": 9305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7669,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1580EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145136771/1543875510",
+			"profile_link_color": "003A80",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B6B8B1",
+			"profile_text_color": "0F0E0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #AussieBirdCount results are in! Together we counted over 2.7m birds including 305k Rainbow Lorikeets! This puts the Rainbow Lorikeet at the top of the count for 5 consecutive years. Why are Rainbows ruling the roost? Head to the website to find out: https://t.co/ie8hHuyQdM https://t.co/RZQFkAP9gO"
+	},
+	{
 		"created_at": "Mon Dec 03 15:01:40 +0000 2018",
 		"id": 1069607607583862800,
 		"id_str": "1069607607583862785",
