@@ -1,6 +1,902 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 08 04:36:02 +0000 2018",
+		"id": 1071262102130573300,
+		"id_str": "1071262102130573312",
+		"full_text": "Corley Explorer looks great in Home exhibition. Over 280 stories added to house photos. Is your house here? Do you have a story to contribute https://t.co/4ep7sVOkqk ⁦@slqld⁩ #slqhome https://t.co/Bpt2mOagdV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "slqhome",
+					"indices": [
+						175,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slqld",
+					"name": "State Library of Qld",
+					"id": 22097835,
+					"id_str": "22097835",
+					"indices": [
+						167,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4ep7sVOkqk",
+					"expanded_url": "https://explorer.corley.slq.qld.gov.au/#!/stories",
+					"display_url": "explorer.corley.slq.qld.gov.au/#!/stories",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1071262090847912000,
+					"id_str": "1071262090847911937",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt3jMiJVAAEqdHI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt3jMiJVAAEqdHI.jpg",
+					"url": "https://t.co/Bpt2mOagdV",
+					"display_url": "pic.twitter.com/Bpt2mOagdV",
+					"expanded_url": "https://twitter.com/Annar/status/1071262102130573312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071262090847912000,
+					"id_str": "1071262090847911937",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt3jMiJVAAEqdHI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt3jMiJVAAEqdHI.jpg",
+					"url": "https://t.co/Bpt2mOagdV",
+					"display_url": "pic.twitter.com/Bpt2mOagdV",
+					"expanded_url": "https://twitter.com/Annar/status/1071262102130573312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10477442,
+			"id_str": "10477442",
+			"name": "Anna Raunik",
+			"screen_name": "Annar",
+			"location": "Queensland, South Brisbane",
+			"description": "Working at State Library of Qld - focused on collections, content and data  - description, access, discovery and long term preservation. https://t.co/nXJHGHLrB7",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nXJHGHLrB7",
+							"expanded_url": "http://www.slq.qld.gov.au",
+							"display_url": "slq.qld.gov.au",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 865,
+			"friends_count": 1038,
+			"listed_count": 66,
+			"created_at": "Thu Nov 22 22:30:22 +0000 2007",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4186,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695562182373691392/Fq4QQU_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695562182373691392/Fq4QQU_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10477442/1495851143",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Corley Explorer looks great in Home exhibition. Over 280 stories added to house photos. Is your house here? Do you have a story to contribute https://t.co/4ep7sVOkqk ⁦@slqld⁩ #slqhome https://t.co/Bpt2mOagdV"
+	},
+	{
+		"created_at": "Sat Dec 08 19:22:42 +0000 2018",
+		"id": 1071485239304826900,
+		"id_str": "1071485239304826880",
+		"full_text": "Safety. \nDignity. \nHuman Rights. \n\nFor all migrants. Regardless of their status. At all times. https://t.co/QvxkvQC69Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1017798683440701400,
+					"id_str": "1017798683440701440",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1017798683440701440/img/n65N7XjUP5TJUBfB.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1017798683440701440/img/n65N7XjUP5TJUBfB.jpg",
+					"url": "https://t.co/QvxkvQC69Y",
+					"display_url": "pic.twitter.com/QvxkvQC69Y",
+					"expanded_url": "https://twitter.com/UNmigration/status/1071162438471565313/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1071162438471565300,
+					"source_status_id_str": "1071162438471565313",
+					"source_user_id": 85469815,
+					"source_user_id_str": "85469815"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1017798683440701400,
+					"id_str": "1017798683440701440",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1017798683440701440/img/n65N7XjUP5TJUBfB.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1017798683440701440/img/n65N7XjUP5TJUBfB.jpg",
+					"url": "https://t.co/QvxkvQC69Y",
+					"display_url": "pic.twitter.com/QvxkvQC69Y",
+					"expanded_url": "https://twitter.com/UNmigration/status/1071162438471565313/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1071162438471565300,
+					"source_status_id_str": "1071162438471565313",
+					"source_user_id": 85469815,
+					"source_user_id_str": "85469815",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24942,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1017798683440701440/vid/480x480/a45zDy3WXeibk-x_.mp4?tag=3"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1017798683440701440/vid/720x720/zeLgz0vqiXCoR_a8.mp4?tag=3"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1017798683440701440/vid/240x240/auSlYUHmkjnIvaGa.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1017798683440701440/pl/GPxg6hdvkZG8gP-X.m3u8?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 85469815,
+							"id_str": "85469815",
+							"name": "IOM - UN Migration",
+							"screen_name": "UNmigration",
+							"location": "173 locations",
+							"description": "Official Global Account of IOM - UN Migration • HQ in Geneva • Also in French (@onumigration) • Check out our latest campaign on Internal Displacement",
+							"url": "https://t.co/lbE9bbgoSm",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/lbE9bbgoSm",
+											"expanded_url": "http://holding-on.iom.int",
+											"display_url": "holding-on.iom.int",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 98986,
+							"friends_count": 3406,
+							"listed_count": 1982,
+							"created_at": "Tue Oct 27 01:32:17 +0000 2009",
+							"favourites_count": 13560,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 23072,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/922642942581399552/x-cJajWc_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/922642942581399552/x-cJajWc_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/85469815/1542926090",
+							"profile_link_color": "91D2FA",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "2B2B2B",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 85469815,
+			"id_str": "85469815",
+			"name": "IOM - UN Migration",
+			"screen_name": "UNmigration",
+			"location": "173 locations",
+			"description": "Official Global Account of IOM - UN Migration • HQ in Geneva • Also in French (@onumigration) • Check out our latest campaign on Internal Displacement",
+			"url": "https://t.co/lbE9bbgoSm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lbE9bbgoSm",
+							"expanded_url": "http://holding-on.iom.int",
+							"display_url": "holding-on.iom.int",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98986,
+			"friends_count": 3406,
+			"listed_count": 1982,
+			"created_at": "Tue Oct 27 01:32:17 +0000 2009",
+			"favourites_count": 13560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922642942581399552/x-cJajWc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922642942581399552/x-cJajWc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/85469815/1542926090",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "2B2B2B",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 642,
+		"favorite_count": 1507,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Safety. \nDignity. \nHuman Rights. \n\nFor all migrants. Regardless of their status. At all times. https://t.co/QvxkvQC69Y"
+	},
+	{
+		"created_at": "Sat Dec 08 19:50:41 +0000 2018",
+		"id": 1071492278613614600,
+		"id_str": "1071492278613614594",
+		"full_text": "The scope of existing memory institutions will evolve in this complex environment in which a diffuse pattern of institutions is stepping up to a memory role.  https://t.co/TdZnO4BBnW via @lorcanD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lorcanD",
+					"name": "lorcan dempsey",
+					"id": 27106703,
+					"id_str": "27106703",
+					"indices": [
+						187,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TdZnO4BBnW",
+					"expanded_url": "http://orweblog.oclc.org/memory-institutions-redux/",
+					"display_url": "orweblog.oclc.org/memory-institu…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27106703,
+			"id_str": "27106703",
+			"name": "lorcan dempsey",
+			"screen_name": "lorcanD",
+			"location": "Columbus, OH",
+			"description": "Working for libraries. Living with family in Ohio. Has worked for @dubcilib, @uniofbath, @jisc, @KingsCollegeLon, @oclc, ...",
+			"url": "http://t.co/2xNkAay81O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2xNkAay81O",
+							"expanded_url": "http://orweblog.oclc.org",
+							"display_url": "orweblog.oclc.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7113,
+			"friends_count": 1417,
+			"listed_count": 624,
+			"created_at": "Fri Mar 27 21:50:20 +0000 2009",
+			"favourites_count": 1200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25565,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C49AE6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/859593084589486080/A8fY4COX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/859593084589486080/A8fY4COX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27106703/1439255884",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The scope of existing memory institutions will evolve in this complex environment in which a diffuse pattern of institutions is stepping up to a memory role.  https://t.co/TdZnO4BBnW via @lorcanD"
+	},
+	{
+		"created_at": "Sat Dec 08 19:38:07 +0000 2018",
+		"id": 1071489116691263500,
+		"id_str": "1071489116691263489",
+		"full_text": "Hoping to see a diverse and inclusive range of titles #Libfaves18 https://t.co/kJlaSrGMe6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Libfaves18",
+					"indices": [
+						54,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kJlaSrGMe6",
+					"expanded_url": "https://twitter.com/joe_jones/status/1071460748122038272",
+					"display_url": "twitter.com/joe_jones/stat…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2464,
+			"friends_count": 752,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1071460748122038300,
+		"quoted_status_id_str": "1071460748122038272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kJlaSrGMe6",
+			"expanded": "https://twitter.com/joe_jones/status/1071460748122038272",
+			"display": "twitter.com/joe_jones/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 08 17:45:23 +0000 2018",
+			"id": 1071460748122038300,
+			"id_str": "1071460748122038272",
+			"full_text": "Librarians—2 days to go to get your list down to your Top 10 Books published in 2018! The fun begins Monday as we tweet 1 title a day in ALL CAPS using the hashtag #Libfaves18 https://t.co/jXrLdAbs3i",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Libfaves18",
+						"indices": [
+							164,
+							175
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1071460739800551400,
+						"id_str": "1071460739800551424",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dt6X3bKW0AAc-8T.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dt6X3bKW0AAc-8T.jpg",
+						"url": "https://t.co/jXrLdAbs3i",
+						"display_url": "pic.twitter.com/jXrLdAbs3i",
+						"expanded_url": "https://twitter.com/Joe_Jones/status/1071460748122038272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 302,
+								"h": 180,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 302,
+								"h": 180,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 302,
+								"h": 180,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1071460739800551400,
+						"id_str": "1071460739800551424",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dt6X3bKW0AAc-8T.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dt6X3bKW0AAc-8T.jpg",
+						"url": "https://t.co/jXrLdAbs3i",
+						"display_url": "pic.twitter.com/jXrLdAbs3i",
+						"expanded_url": "https://twitter.com/Joe_Jones/status/1071460748122038272/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 302,
+								"h": 180,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 302,
+								"h": 180,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 302,
+								"h": 180,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								151,
+								90
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/Dt6X3bKW0AAc-8T.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15636977,
+				"id_str": "15636977",
+				"name": "Joe_Jones",
+				"screen_name": "Joe_Jones",
+				"location": "Northeast Ohio",
+				"description": "Reader, Gamer, Sports fan, Beer & Whiskey enthusiast who also loves to cook and works in a library. Views are all my own for good or bad.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 971,
+				"friends_count": 1247,
+				"listed_count": 46,
+				"created_at": "Mon Jul 28 20:17:31 +0000 2008",
+				"favourites_count": 7669,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13160,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/736561048585523200/ufn4rXH1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/736561048585523200/ufn4rXH1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15636977/1349030182",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hoping to see a diverse and inclusive range of titles #Libfaves18 https://t.co/kJlaSrGMe6"
+	},
+	{
 		"created_at": "Sat Dec 08 19:22:42 +0000 2018",
 		"id": 1071485239304826900,
 		"id_str": "1071485239304826880",
