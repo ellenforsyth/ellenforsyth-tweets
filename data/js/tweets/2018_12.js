@@ -1,6 +1,833 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 11 21:31:19 +0000 2018",
+		"id": 1072604767954849800,
+		"id_str": "1072604767954849799",
+		"full_text": "#crimeread for #rwpchat - what are your favourites? https://t.co/JiIgwrL0q4 https://t.co/QbWpAflElk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "crimeread",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "rwpchat",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JiIgwrL0q4",
+					"expanded_url": "https://readwatchplay.wordpress.com/2018/12/12/crimeread/",
+					"display_url": "readwatchplay.wordpress.com/2018/12/12/cri…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072604765689909200,
+					"id_str": "1072604765689909248",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DuKoWftWkAAyw8u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuKoWftWkAAyw8u.jpg",
+					"url": "https://t.co/QbWpAflElk",
+					"display_url": "pic.twitter.com/QbWpAflElk",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1072604767954849799/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072604765689909200,
+					"id_str": "1072604765689909248",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DuKoWftWkAAyw8u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuKoWftWkAAyw8u.jpg",
+					"url": "https://t.co/QbWpAflElk",
+					"display_url": "pic.twitter.com/QbWpAflElk",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1072604767954849799/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595268016,
+			"id_str": "595268016",
+			"name": "Read Watch Play",
+			"screen_name": "readwatchplay",
+			"location": "",
+			"description": "Global twitter chat by NSW Readers' Advisory group & partners. What do you enjoying reading, watching and playing. Connect with librarians. Use #rwpchat",
+			"url": "http://t.co/M9meupecSc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/M9meupecSc",
+							"expanded_url": "http://readwatchplay.wordpress.com/",
+							"display_url": "readwatchplay.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 739,
+			"friends_count": 799,
+			"listed_count": 39,
+			"created_at": "Thu May 31 05:01:08 +0000 2012",
+			"favourites_count": 310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5135,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0F0F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595268016/1407365292",
+			"profile_link_color": "C93318",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "627E91",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#crimeread for #rwpchat - what are your favourites? https://t.co/JiIgwrL0q4 https://t.co/QbWpAflElk"
+	},
+	{
+		"created_at": "Mon Dec 10 10:10:55 +0000 2018",
+		"id": 1072071150635806700,
+		"id_str": "1072071150635806722",
+		"full_text": "*National Library digitises *entire* first edition of iconic encyclopaedia*\n*Looks around nonchalantly*\n*Posts link*\n*Waits*\n*Adds picture of nodding Kingfisher*\n\nhttps://t.co/nkg6BlU8pS …\n\n#Britannica250 #MondayMotivation @Britannica @nlsrarebooks https://t.co/rlbimQL8eE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Britannica250",
+					"indices": [
+						190,
+						204
+					]
+				},
+				{
+					"text": "MondayMotivation",
+					"indices": [
+						205,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Britannica",
+					"name": "Britannica",
+					"id": 14254408,
+					"id_str": "14254408",
+					"indices": [
+						223,
+						234
+					]
+				},
+				{
+					"screen_name": "nlsrarebooks",
+					"name": "Rare Books and Music",
+					"id": 3345358402,
+					"id_str": "3345358402",
+					"indices": [
+						235,
+						248
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nkg6BlU8pS",
+					"expanded_url": "https://digital.nls.uk/encyclopaedia-britannica/archive/144133900",
+					"display_url": "digital.nls.uk/encyclopaedia-…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072070657507319800,
+					"id_str": "1072070657507319808",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DuDClTrX4AAa8QU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DuDClTrX4AAa8QU.jpg",
+					"url": "https://t.co/rlbimQL8eE",
+					"display_url": "pic.twitter.com/rlbimQL8eE",
+					"expanded_url": "https://twitter.com/natlibscot/status/1072071150635806722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 848,
+							"h": 712,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 571,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072070657507319800,
+					"id_str": "1072070657507319808",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DuDClTrX4AAa8QU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DuDClTrX4AAa8QU.jpg",
+					"url": "https://t.co/rlbimQL8eE",
+					"display_url": "pic.twitter.com/rlbimQL8eE",
+					"expanded_url": "https://twitter.com/natlibscot/status/1072071150635806722/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 848,
+							"h": 712,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 571,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							106,
+							89
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DuDClTrX4AAa8QU.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75286820,
+			"id_str": "75286820",
+			"name": "National Library of Scotland",
+			"screen_name": "natlibscot",
+			"location": "Edinburgh, Scotland",
+			"description": "Scotland's national library. We hold over 29 million items; if you can think of it, we probably have it. Social media contact: @stewarthardy_",
+			"url": "https://t.co/rFWJQ32r32",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rFWJQ32r32",
+							"expanded_url": "http://www.nls.uk",
+							"display_url": "nls.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35628,
+			"friends_count": 2537,
+			"listed_count": 841,
+			"created_at": "Fri Sep 18 14:01:31 +0000 2009",
+			"favourites_count": 34781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23735,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "241A1A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057906231745093632/hCkKsgR5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057906231745093632/hCkKsgR5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75286820/1542386391",
+			"profile_link_color": "241A1A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 266,
+		"favorite_count": 715,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*National Library digitises *entire* first edition of iconic encyclopaedia*\n*Looks around nonchalantly*\n*Posts link*\n*Waits*\n*Adds picture of nodding Kingfisher*\n\nhttps://t.co/nkg6BlU8pS …\n\n#Britannica250 #MondayMotivation @Britannica @nlsrarebooks https://t.co/rlbimQL8eE"
+	},
+	{
+		"created_at": "Tue Dec 11 09:27:56 +0000 2018",
+		"id": 1072422722653827100,
+		"id_str": "1072422722653827074",
+		"full_text": "Our most popular post. . . thanks to @AnitaHeiss for #rwpchat https://t.co/jgzb8oTol0 https://t.co/qUi2xSJ0cw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rwpchat",
+					"indices": [
+						53,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnitaHeiss",
+					"name": "Dr Anita Heiss",
+					"id": 42200093,
+					"id_str": "42200093",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jgzb8oTol0",
+					"expanded_url": "https://readwatchplay.wordpress.com/2018/12/11/our-most-popular-post/",
+					"display_url": "readwatchplay.wordpress.com/2018/12/11/our…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072422720791556100,
+					"id_str": "1072422720791556097",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DuICyFnWsAEtVhw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuICyFnWsAEtVhw.jpg",
+					"url": "https://t.co/qUi2xSJ0cw",
+					"display_url": "pic.twitter.com/qUi2xSJ0cw",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1072422722653827074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072422720791556100,
+					"id_str": "1072422720791556097",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DuICyFnWsAEtVhw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuICyFnWsAEtVhw.jpg",
+					"url": "https://t.co/qUi2xSJ0cw",
+					"display_url": "pic.twitter.com/qUi2xSJ0cw",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1072422722653827074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595268016,
+			"id_str": "595268016",
+			"name": "Read Watch Play",
+			"screen_name": "readwatchplay",
+			"location": "",
+			"description": "Global twitter chat by NSW Readers' Advisory group & partners. What do you enjoying reading, watching and playing. Connect with librarians. Use #rwpchat",
+			"url": "http://t.co/M9meupecSc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/M9meupecSc",
+							"expanded_url": "http://readwatchplay.wordpress.com/",
+							"display_url": "readwatchplay.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 739,
+			"friends_count": 799,
+			"listed_count": 39,
+			"created_at": "Thu May 31 05:01:08 +0000 2012",
+			"favourites_count": 310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5135,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0F0F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595268016/1407365292",
+			"profile_link_color": "C93318",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "627E91",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our most popular post. . . thanks to @AnitaHeiss for #rwpchat https://t.co/jgzb8oTol0 https://t.co/qUi2xSJ0cw"
+	},
+	{
+		"created_at": "Mon Dec 10 21:16:55 +0000 2018",
+		"id": 1072238758639091700,
+		"id_str": "1072238758639091717",
+		"full_text": "We're counting down. . .for #rwpchat https://t.co/pooUTh0wW4 https://t.co/fi8KU9Z09l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rwpchat",
+					"indices": [
+						28,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pooUTh0wW4",
+					"expanded_url": "https://readwatchplay.wordpress.com/2018/12/11/were-counting-down/",
+					"display_url": "readwatchplay.wordpress.com/2018/12/11/wer…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072238756978057200,
+					"id_str": "1072238756978057217",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DuFbd_AVYAEbJu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuFbd_AVYAEbJu3.jpg",
+					"url": "https://t.co/fi8KU9Z09l",
+					"display_url": "pic.twitter.com/fi8KU9Z09l",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1072238758639091717/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 553,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072238756978057200,
+					"id_str": "1072238756978057217",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DuFbd_AVYAEbJu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuFbd_AVYAEbJu3.jpg",
+					"url": "https://t.co/fi8KU9Z09l",
+					"display_url": "pic.twitter.com/fi8KU9Z09l",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1072238758639091717/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 553,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595268016,
+			"id_str": "595268016",
+			"name": "Read Watch Play",
+			"screen_name": "readwatchplay",
+			"location": "",
+			"description": "Global twitter chat by NSW Readers' Advisory group & partners. What do you enjoying reading, watching and playing. Connect with librarians. Use #rwpchat",
+			"url": "http://t.co/M9meupecSc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/M9meupecSc",
+							"expanded_url": "http://readwatchplay.wordpress.com/",
+							"display_url": "readwatchplay.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 739,
+			"friends_count": 799,
+			"listed_count": 39,
+			"created_at": "Thu May 31 05:01:08 +0000 2012",
+			"favourites_count": 310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5135,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0F0F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595268016/1407365292",
+			"profile_link_color": "C93318",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "627E91",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're counting down. . .for #rwpchat https://t.co/pooUTh0wW4 https://t.co/fi8KU9Z09l"
+	},
+	{
 		"created_at": "Mon Dec 10 21:16:55 +0000 2018",
 		"id": 1072238758639091700,
 		"id_str": "1072238758639091717",
