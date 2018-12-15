@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 14 22:01:33 +0000 2018",
+		"id": 1073699541671497700,
+		"id_str": "1073699541671497728",
+		"full_text": "How every theme for #rwpchat in 2018 connected to Matthew Reilly titles https://t.co/gPtUekrg1u https://t.co/7ImTg0RyYv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rwpchat",
+					"indices": [
+						20,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gPtUekrg1u",
+					"expanded_url": "https://readwatchplay.wordpress.com/2018/12/15/how-every-theme-connected-to-matthew-reilly/",
+					"display_url": "readwatchplay.wordpress.com/2018/12/15/how…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1073699538660089900,
+					"id_str": "1073699538660089858",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DuaMCq1V4AIgPOe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuaMCq1V4AIgPOe.jpg",
+					"url": "https://t.co/7ImTg0RyYv",
+					"display_url": "pic.twitter.com/7ImTg0RyYv",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1073699541671497728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 397,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 397,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073699538660089900,
+					"id_str": "1073699538660089858",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DuaMCq1V4AIgPOe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuaMCq1V4AIgPOe.jpg",
+					"url": "https://t.co/7ImTg0RyYv",
+					"display_url": "pic.twitter.com/7ImTg0RyYv",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1073699541671497728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 397,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 397,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595268016,
+			"id_str": "595268016",
+			"name": "Read Watch Play",
+			"screen_name": "readwatchplay",
+			"location": "",
+			"description": "Global twitter chat by NSW Readers' Advisory group & partners. What do you enjoying reading, watching and playing. Connect with librarians. Use #rwpchat",
+			"url": "http://t.co/M9meupecSc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/M9meupecSc",
+							"expanded_url": "http://readwatchplay.wordpress.com/",
+							"display_url": "readwatchplay.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 739,
+			"friends_count": 799,
+			"listed_count": 39,
+			"created_at": "Thu May 31 05:01:08 +0000 2012",
+			"favourites_count": 310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5139,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0F0F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595268016/1407365292",
+			"profile_link_color": "C93318",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "627E91",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How every theme for #rwpchat in 2018 connected to Matthew Reilly titles https://t.co/gPtUekrg1u https://t.co/7ImTg0RyYv"
+	},
+	{
+		"created_at": "Fri Dec 14 19:12:27 +0000 2018",
+		"id": 1073656986212782100,
+		"id_str": "1073656986212782080",
+		"full_text": "this is rather wonderful https://t.co/jZXX8UnIXG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jZXX8UnIXG",
+					"expanded_url": "https://twitter.com/designboom/status/1073540716406693888",
+					"display_url": "twitter.com/designboom/sta…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2467,
+			"friends_count": 754,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1073540716406693900,
+		"quoted_status_id_str": "1073540716406693888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jZXX8UnIXG",
+			"expanded": "https://twitter.com/designboom/status/1073540716406693888",
+			"display": "twitter.com/designboom/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 14 11:30:26 +0000 2018",
+			"id": 1073540716406693900,
+			"id_str": "1073540716406693888",
+			"full_text": "psychiatrist knits anatomically correct model of the human brain\nhttps://t.co/jC9AsSfaXI https://t.co/yoq9RnnId0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jC9AsSfaXI",
+						"expanded_url": "https://www.designboom.com/art/karen-norberg-knitted-human-brain-model-12-14-2018/",
+						"display_url": "designboom.com/art/karen-norb…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1073540714905124900,
+						"id_str": "1073540714905124866",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DuX7l6PWwAIvzpk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuX7l6PWwAIvzpk.jpg",
+						"url": "https://t.co/yoq9RnnId0",
+						"display_url": "pic.twitter.com/yoq9RnnId0",
+						"expanded_url": "https://twitter.com/designboom/status/1073540716406693888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 818,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 818,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1073540714905124900,
+						"id_str": "1073540714905124866",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DuX7l6PWwAIvzpk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuX7l6PWwAIvzpk.jpg",
+						"url": "https://t.co/yoq9RnnId0",
+						"display_url": "pic.twitter.com/yoq9RnnId0",
+						"expanded_url": "https://twitter.com/designboom/status/1073540716406693888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 818,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 818,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24799500,
+				"id_str": "24799500",
+				"name": "designboom",
+				"screen_name": "designboom",
+				"location": "",
+				"description": "est.1999, designboom magazine is the web's first source for the best of architecture, art, and design.",
+				"url": "http://t.co/mmwPhXm9xZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/mmwPhXm9xZ",
+								"expanded_url": "http://www.designboom.com/",
+								"display_url": "designboom.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1168498,
+				"friends_count": 2838,
+				"listed_count": 10381,
+				"created_at": "Mon Mar 16 23:54:01 +0000 2009",
+				"favourites_count": 440,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 68330,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFA05",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2488952290/rracjn6v3803d6txfpo2_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2488952290/rracjn6v3803d6txfpo2_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24799500/1480094004",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is rather wonderful https://t.co/jZXX8UnIXG"
+	},
+	{
+		"created_at": "Fri Dec 14 19:07:47 +0000 2018",
+		"id": 1073655810478137300,
+		"id_str": "1073655810478137344",
+		"full_text": "#libfaves18 KNITSONIK STRANDED COLOURWORK PLAYBOOK by @knitsonik This is a joyful read, there is a lovely knitted correspondence, bunting, and an amazing scarf which celebrates the loveliness of bricks in Reading further demonstrating the local studies potential of knitting.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "libfaves18",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "knitsonik",
+					"name": "Felicity Ford ♥️🇪🇺",
+					"id": 18935811,
+					"id_str": "18935811",
+					"indices": [
+						54,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2467,
+			"friends_count": 754,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "#libfaves18 KNITSONIK STRANDED COLOURWORK PLAYBOOK by @knitsonik This is a joyful read, there is a lovely knitted correspondence, bunting, and an amazing scarf which celebrates the loveliness of bricks in Reading further demonstrating the local studies potential of knitting."
+	},
+	{
+		"created_at": "Thu Dec 13 22:03:13 +0000 2018",
+		"id": 1073337573223718900,
+		"id_str": "1073337573223718914",
+		"full_text": "what are you looking forward to in reference and information for 2019 - hopefully #risg2019 is on your list - too early for a program yet, but it will be exciting",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "risg2019",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44496145,
+			"id_str": "44496145",
+			"name": "NSWRISG",
+			"screen_name": "NSWRISG",
+			"location": "Sydney, Australia",
+			"description": "New South Wales Reference and Information Services Group, supporting readers advisory and reference & information services throughout NSW public libraries.",
+			"url": "http://t.co/OyNDWqQX8f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/OyNDWqQX8f",
+							"expanded_url": "http://referenceandinformationservices.wikifoundry.com/",
+							"display_url": "…ndinformationservices.wikifoundry.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 171,
+			"friends_count": 39,
+			"listed_count": 20,
+			"created_at": "Thu Jun 04 00:06:15 +0000 2009",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 779,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/248937245/risg__logo_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/248937245/risg__logo_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44496145/1525311075",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "what are you looking forward to in reference and information for 2019 - hopefully #risg2019 is on your list - too early for a program yet, but it will be exciting"
+	},
+	{
 		"created_at": "Thu Dec 13 22:03:13 +0000 2018",
 		"id": 1073337573223718900,
 		"id_str": "1073337573223718914",
