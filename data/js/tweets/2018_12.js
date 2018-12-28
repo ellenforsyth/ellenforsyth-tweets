@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 23 00:55:19 +0000 2018",
+		"id": 1076642375089287200,
+		"id_str": "1076642375089287168",
+		"full_text": "Study by Amnesty International reveals that 1.1 million abusive tweets were sent to #women in 2017; that's 1 every 30 seconds. Like others, I regularly report hateful tweets. #Twitter needs to be consistent in closing down sites which send such tweets. https://t.co/ZBRqRiWxHT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "women",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "Twitter",
+					"indices": [
+						175,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZBRqRiWxHT",
+					"expanded_url": "https://www.amnesty.org.uk/press-releases/women-abused-twitter-every-30-seconds-new-study",
+					"display_url": "amnesty.org.uk/press-releases…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191849753,
+			"id_str": "191849753",
+			"name": "Helen Clark",
+			"screen_name": "HelenClarkNZ",
+			"location": "",
+			"description": "I'm former Prime Minister of #NewZealand & former @UNDP Administrator: passionate about human & sustainable #development world-wide.",
+			"url": "https://t.co/EsTrSJfv0c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EsTrSJfv0c",
+							"expanded_url": "http://helenclarknz.com",
+							"display_url": "helenclarknz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186811,
+			"friends_count": 4098,
+			"listed_count": 2767,
+			"created_at": "Fri Sep 17 14:33:29 +0000 2010",
+			"favourites_count": 120467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56797,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/899373833764839426/ccHkoXYV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/899373833764839426/ccHkoXYV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191849753/1398606409",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Study by Amnesty International reveals that 1.1 million abusive tweets were sent to #women in 2017; that's 1 every 30 seconds. Like others, I regularly report hateful tweets. #Twitter needs to be consistent in closing down sites which send such tweets. https://t.co/ZBRqRiWxHT"
+	},
+	{
+		"created_at": "Thu Dec 27 09:21:02 +0000 2018",
+		"id": 1078219193479094300,
+		"id_str": "1078219193479094273",
+		"full_text": "@GillMeller @QuadrilleFood Really enjoying this book, lovely recipes and the photographs of different kitchens are brilliant.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GillMeller",
+					"name": "Gill meller",
+					"id": 930483116,
+					"id_str": "930483116",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "QuadrilleFood",
+					"name": "Quadrille Food",
+					"id": 19864215,
+					"id_str": "19864215",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1000635998475292700,
+		"in_reply_to_status_id_str": "1000635998475292672",
+		"in_reply_to_user_id": 930483116,
+		"in_reply_to_user_id_str": "930483116",
+		"in_reply_to_screen_name": "GillMeller",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 755,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35078,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GillMeller @QuadrilleFood Really enjoying this book, lovely recipes and the photographs of different kitchens are brilliant."
+	},
+	{
 		"created_at": "Thu Dec 27 00:18:58 +0000 2018",
 		"id": 1078082777520566300,
 		"id_str": "1078082777520566272",
