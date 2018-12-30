@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 30 02:08:37 +0000 2018",
+		"id": 1079197536793968600,
+		"id_str": "1079197536793968642",
+		"full_text": "Chilling discovery: ice house found under London street via ⁦@guardian⁩ looks amazing  https://t.co/XoSk2t9N29",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XoSk2t9N29",
+					"expanded_url": "https://www.theguardian.com/science/2018/dec/28/chilling-discovery-archaeologists-uncover-lost-ice-house-under-london-street?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/science/2018/d…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2466,
+			"friends_count": 755,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35081,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chilling discovery: ice house found under London street via ⁦@guardian⁩ looks amazing  https://t.co/XoSk2t9N29"
+	},
+	{
+		"created_at": "Thu Dec 27 17:52:29 +0000 2018",
+		"id": 1078347903184355300,
+		"id_str": "1078347903184355330",
+		"full_text": "Public Domain Day Is Coming: On January 1st, 2019, Copyrighted Works Will Enter the Public Domain for the First Time in 21 Years https://t.co/U3WD6ORCd7 https://t.co/NJLTtDaXtM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U3WD6ORCd7",
+					"expanded_url": "http://www.openculture.com/?p=1059485",
+					"display_url": "openculture.com/?p=1059485",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1078347890626646000,
+					"id_str": "1078347890626646020",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/DvcPsXUX0AQKEZ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvcPsXUX0AQKEZ2.jpg",
+					"url": "https://t.co/NJLTtDaXtM",
+					"display_url": "pic.twitter.com/NJLTtDaXtM",
+					"expanded_url": "https://twitter.com/openculture/status/1078347903184355330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078347890626646000,
+					"id_str": "1078347890626646020",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/DvcPsXUX0AQKEZ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvcPsXUX0AQKEZ2.jpg",
+					"url": "https://t.co/NJLTtDaXtM",
+					"display_url": "pic.twitter.com/NJLTtDaXtM",
+					"expanded_url": "https://twitter.com/openculture/status/1078347903184355330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19826509,
+			"id_str": "19826509",
+			"name": "Open Culture",
+			"screen_name": "openculture",
+			"location": "Mountain View, CA",
+			"description": "We make the web a more intelligent place. A Thought-Provoking Blog. Free Courses. Free Audio Books & eBooks. And more.",
+			"url": "http://t.co/HVA1Vpy2Ba",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HVA1Vpy2Ba",
+							"expanded_url": "http://www.openculture.com",
+							"display_url": "openculture.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 419644,
+			"friends_count": 944,
+			"listed_count": 13594,
+			"created_at": "Sat Jan 31 19:01:34 +0000 2009",
+			"favourites_count": 530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86ACB7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19826509/1491930107",
+			"profile_link_color": "306885",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "F6F2E3",
+			"profile_text_color": "62625D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 169,
+		"favorite_count": 205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Public Domain Day Is Coming: On January 1st, 2019, Copyrighted Works Will Enter the Public Domain for the First Time in 21 Years https://t.co/U3WD6ORCd7 https://t.co/NJLTtDaXtM"
+	},
+	{
+		"created_at": "Fri Dec 28 00:31:00 +0000 2018",
+		"id": 1078448192579141600,
+		"id_str": "1078448192579141632",
+		"full_text": "We are offering two scholarships for Aboriginal and Torres Strait Islander student studying Library and Information Science.\n\nApplications close 3 Feb 2019 \n\nhttps://t.co/ib3zqQUmA0 https://t.co/m5ysQxlkA5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ib3zqQUmA0",
+					"expanded_url": "http://bit.ly/2PIJCGP",
+					"display_url": "bit.ly/2PIJCGP",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1068009910963601400,
+					"id_str": "1068009910963601413",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/DtJVWv-VAAUuN1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtJVWv-VAAUuN1j.jpg",
+					"url": "https://t.co/m5ysQxlkA5",
+					"display_url": "pic.twitter.com/m5ysQxlkA5",
+					"expanded_url": "https://twitter.com/ALIANational/status/1078448192579141632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1250,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068009910963601400,
+					"id_str": "1068009910963601413",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/DtJVWv-VAAUuN1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtJVWv-VAAUuN1j.jpg",
+					"url": "https://t.co/m5ysQxlkA5",
+					"display_url": "pic.twitter.com/m5ysQxlkA5",
+					"expanded_url": "https://twitter.com/ALIANational/status/1078448192579141632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1250,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43796164,
+			"id_str": "43796164",
+			"name": "Aust Lib & Info Assn",
+			"screen_name": "ALIANational",
+			"location": "Canberra, Australia",
+			"description": "Australia's peak body for library and information professionals - Australian Library and Information Association",
+			"url": "http://t.co/Vo7rN2KMEn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Vo7rN2KMEn",
+							"expanded_url": "http://www.alia.org.au",
+							"display_url": "alia.org.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10083,
+			"friends_count": 947,
+			"listed_count": 530,
+			"created_at": "Mon Jun 01 01:11:18 +0000 2009",
+			"favourites_count": 7752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000545938548/5b6097f515bfa4d032e528cf3a13ebdc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000545938548/5b6097f515bfa4d032e528cf3a13ebdc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43796164/1496018435",
+			"profile_link_color": "64CBC9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are offering two scholarships for Aboriginal and Torres Strait Islander student studying Library and Information Science.\n\nApplications close 3 Feb 2019 \n\nhttps://t.co/ib3zqQUmA0 https://t.co/m5ysQxlkA5"
+	},
+	{
+		"created_at": "Sun Dec 23 00:55:19 +0000 2018",
+		"id": 1076642375089287200,
+		"id_str": "1076642375089287168",
+		"full_text": "Study by Amnesty International reveals that 1.1 million abusive tweets were sent to #women in 2017; that's 1 every 30 seconds. Like others, I regularly report hateful tweets. #Twitter needs to be consistent in closing down sites which send such tweets. https://t.co/ZBRqRiWxHT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "women",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "Twitter",
+					"indices": [
+						175,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZBRqRiWxHT",
+					"expanded_url": "https://www.amnesty.org.uk/press-releases/women-abused-twitter-every-30-seconds-new-study",
+					"display_url": "amnesty.org.uk/press-releases…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191849753,
+			"id_str": "191849753",
+			"name": "Helen Clark",
+			"screen_name": "HelenClarkNZ",
+			"location": "",
+			"description": "I'm former Prime Minister of #NewZealand & former @UNDP Administrator: passionate about human & sustainable #development world-wide.",
+			"url": "https://t.co/EsTrSJfv0c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EsTrSJfv0c",
+							"expanded_url": "http://helenclarknz.com",
+							"display_url": "helenclarknz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186995,
+			"friends_count": 4103,
+			"listed_count": 2763,
+			"created_at": "Fri Sep 17 14:33:29 +0000 2010",
+			"favourites_count": 120547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56842,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/899373833764839426/ccHkoXYV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/899373833764839426/ccHkoXYV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191849753/1398606409",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Study by Amnesty International reveals that 1.1 million abusive tweets were sent to #women in 2017; that's 1 every 30 seconds. Like others, I regularly report hateful tweets. #Twitter needs to be consistent in closing down sites which send such tweets. https://t.co/ZBRqRiWxHT"
+	},
+	{
 		"created_at": "Thu Dec 27 17:52:29 +0000 2018",
 		"id": 1078347903184355300,
 		"id_str": "1078347903184355330",
