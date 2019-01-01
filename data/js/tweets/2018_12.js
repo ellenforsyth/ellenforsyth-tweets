@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 31 06:42:04 +0000 2018",
+		"id": 1079628740315902000,
+		"id_str": "1079628740315901952",
+		"full_text": "Great news to see the New Year in! As of tomorrow millions of items will fall out of copyright for the first time, finally becoming free for all to use.\nRead more 👉 https://t.co/Ku1HaLmZl2\n\n📷 F.W. Niven &amp; Co. (1914). Buy war loan bonds  https://t.co/TnvJLLgCf7\n\n#auspublicdomain https://t.co/IB6cu4pgn7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auspublicdomain",
+					"indices": [
+						266,
+						282
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ku1HaLmZl2",
+					"expanded_url": "https://bit.ly/2An7s1j",
+					"display_url": "bit.ly/2An7s1j",
+					"indices": [
+						165,
+						188
+					]
+				},
+				{
+					"url": "https://t.co/TnvJLLgCf7",
+					"expanded_url": "http://nla.gov.au/nla.obj-138355441",
+					"display_url": "nla.gov.au/nla.obj-138355…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1079628648968142800,
+					"id_str": "1079628648968142848",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/DvuciT8UwAA_b0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvuciT8UwAA_b0F.jpg",
+					"url": "https://t.co/IB6cu4pgn7",
+					"display_url": "pic.twitter.com/IB6cu4pgn7",
+					"expanded_url": "https://twitter.com/TroveAustralia/status/1079628740315901952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1079628648968142800,
+					"id_str": "1079628648968142848",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/DvuciT8UwAA_b0F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvuciT8UwAA_b0F.jpg",
+					"url": "https://t.co/IB6cu4pgn7",
+					"display_url": "pic.twitter.com/IB6cu4pgn7",
+					"expanded_url": "https://twitter.com/TroveAustralia/status/1079628740315901952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119219640,
+			"id_str": "119219640",
+			"name": "Trove",
+			"screen_name": "TroveAustralia",
+			"location": "Canberra, Australia",
+			"description": "Trove is your window into Australia's stories. Tweets by the Trove Outreach Team at National Library of Australia. We blog at https://t.co/1SSvF8ZkFn",
+			"url": "http://t.co/xJewI037dI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xJewI037dI",
+							"expanded_url": "http://trove.nla.gov.au/",
+							"display_url": "trove.nla.gov.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1SSvF8ZkFn",
+							"expanded_url": "https://www.nla.gov.au/blogs/trove",
+							"display_url": "nla.gov.au/blogs/trove",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19907,
+			"friends_count": 1854,
+			"listed_count": 494,
+			"created_at": "Wed Mar 03 00:52:10 +0000 2010",
+			"favourites_count": 7230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8687,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C3E065",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879109788570763264/pCYV2488_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879109788570763264/pCYV2488_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119219640/1544506662",
+			"profile_link_color": "619744",
+			"profile_sidebar_border_color": "D8F098",
+			"profile_sidebar_fill_color": "ECF0D6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great news to see the New Year in! As of tomorrow millions of items will fall out of copyright for the first time, finally becoming free for all to use.\nRead more 👉 https://t.co/Ku1HaLmZl2\n\n📷 F.W. Niven &amp; Co. (1914). Buy war loan bonds  https://t.co/TnvJLLgCf7\n\n#auspublicdomain https://t.co/IB6cu4pgn7"
+	},
+	{
 		"created_at": "Mon Dec 31 00:28:11 +0000 2018",
 		"id": 1079534647497769000,
 		"id_str": "1079534647497768960",
