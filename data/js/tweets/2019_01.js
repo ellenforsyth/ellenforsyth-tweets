@@ -1,6 +1,537 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 03 22:12:13 +0000 2019",
+		"id": 1080949981698277400,
+		"id_str": "1080949981698277381",
+		"full_text": "Useful resources for libraries from #rwpchat https://t.co/EBR5dlMP1Z https://t.co/560sHWlCyc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rwpchat",
+					"indices": [
+						36,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EBR5dlMP1Z",
+					"expanded_url": "https://readwatchplay.wordpress.com/2019/01/04/useful-resources-for-libraries-from-rwpchat/",
+					"display_url": "readwatchplay.wordpress.com/2019/01/04/use…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1080949979160633300,
+					"id_str": "1080949979160633344",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DwBOR2fV4AAAEOI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwBOR2fV4AAAEOI.jpg",
+					"url": "https://t.co/560sHWlCyc",
+					"display_url": "pic.twitter.com/560sHWlCyc",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1080949981698277381/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080949979160633300,
+					"id_str": "1080949979160633344",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DwBOR2fV4AAAEOI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwBOR2fV4AAAEOI.jpg",
+					"url": "https://t.co/560sHWlCyc",
+					"display_url": "pic.twitter.com/560sHWlCyc",
+					"expanded_url": "https://twitter.com/readwatchplay/status/1080949981698277381/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595268016,
+			"id_str": "595268016",
+			"name": "Read Watch Play",
+			"screen_name": "readwatchplay",
+			"location": "",
+			"description": "Global twitter chat by NSW Readers' Advisory group & partners. What do you enjoying reading, watching and playing. Connect with librarians. Use #rwpchat",
+			"url": "http://t.co/M9meupecSc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/M9meupecSc",
+							"expanded_url": "http://readwatchplay.wordpress.com/",
+							"display_url": "readwatchplay.wordpress.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 736,
+			"friends_count": 796,
+			"listed_count": 39,
+			"created_at": "Thu May 31 05:01:08 +0000 2012",
+			"favourites_count": 327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5185,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0F0F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2456766532/vpyfx1bozjcsdi7t52p8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595268016/1407365292",
+			"profile_link_color": "C93318",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "627E91",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Useful resources for libraries from #rwpchat https://t.co/EBR5dlMP1Z https://t.co/560sHWlCyc"
+	},
+	{
+		"created_at": "Wed Jan 02 20:44:17 +0000 2019",
+		"id": 1080565464453939200,
+		"id_str": "1080565464453939201",
+		"full_text": "Why #libraries matter “If we stay curious, if we accept that we don’t know everything and embrace that we are a nation of wonderfully diverse perspectives, we can fight the ignorance and misinformation that breeds hate.”  https://t.co/H7Umj0OeXk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "libraries",
+					"indices": [
+						4,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H7Umj0OeXk",
+					"expanded_url": "https://www.salon.com/2019/01/01/one-easy-new-years-resolution-to-help-save-democracy-in-2019-go-to-the-library/",
+					"display_url": "salon.com/2019/01/01/one…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49912461,
+			"id_str": "49912461",
+			"name": "kate torney",
+			"screen_name": "katetorney",
+			"location": "melbourne ",
+			"description": "CEO, State Library Victoria. Former Dir. News, Australian Broadcasting Corporation",
+			"url": "https://t.co/wEqZSWwwhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wEqZSWwwhO",
+							"expanded_url": "http://www.slv.vic.gov.au",
+							"display_url": "slv.vic.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7860,
+			"friends_count": 1296,
+			"listed_count": 154,
+			"created_at": "Tue Jun 23 07:08:50 +0000 2009",
+			"favourites_count": 3967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2692,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/646269898063147008/VzCm5ZL7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/646269898063147008/VzCm5ZL7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49912461/1479797448",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why #libraries matter “If we stay curious, if we accept that we don’t know everything and embrace that we are a nation of wonderfully diverse perspectives, we can fight the ignorance and misinformation that breeds hate.”  https://t.co/H7Umj0OeXk"
+	},
+	{
+		"created_at": "Thu Jan 03 18:11:52 +0000 2019",
+		"id": 1080889495292006400,
+		"id_str": "1080889495292006400",
+		"full_text": "Crucial research https://t.co/MoTv6iAXQt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MoTv6iAXQt",
+					"expanded_url": "https://twitter.com/brewingarchives/status/1080600216259031040",
+					"display_url": "twitter.com/brewingarchive…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 756,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1080600216259031000,
+		"quoted_status_id_str": "1080600216259031040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MoTv6iAXQt",
+			"expanded": "https://twitter.com/brewingarchives/status/1080600216259031040",
+			"display": "twitter.com/brewingarchive…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 02 23:02:22 +0000 2019",
+			"id": 1080600216259031000,
+			"id_str": "1080600216259031040",
+			"full_text": "Here’s your chance to get some $$ to study hops and brewing history! https://t.co/u2t4efOz8M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/u2t4efOz8M",
+						"expanded_url": "https://twitter.com/osuscarc/status/1080562897502244865",
+						"display_url": "twitter.com/osuscarc/statu…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2416280948,
+				"id_str": "2416280948",
+				"name": "OHBA",
+				"screen_name": "brewingarchives",
+				"location": "Corvallis, Oregon",
+				"description": "The Oregon Hops & Brewing Archives collects, saves, and shares the story of hops production, the craft beer industry, and communities in our region.",
+				"url": "http://t.co/9MxTeFRMz3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9MxTeFRMz3",
+								"expanded_url": "http://scarc.library.oregonstate.edu/ohba.html",
+								"display_url": "scarc.library.oregonstate.edu/ohba.html",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 749,
+				"friends_count": 280,
+				"listed_count": 64,
+				"created_at": "Fri Mar 28 18:15:34 +0000 2014",
+				"favourites_count": 1045,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7264,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F2F5F7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583312294546796547/UWu01gDO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583312294546796547/UWu01gDO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2416280948/1427907761",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1080562897502244900,
+			"quoted_status_id_str": "1080562897502244865",
+			"quoted_status_permalink": {
+				"url": "https://t.co/u2t4efOz8M",
+				"expanded": "https://twitter.com/osuscarc/status/1080562897502244865",
+				"display": "twitter.com/osuscarc/statu…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Crucial research https://t.co/MoTv6iAXQt"
+	},
+	{
 		"created_at": "Thu Jan 03 02:17:21 +0000 2019",
 		"id": 1080649283064365000,
 		"id_str": "1080649283064365056",
