@@ -1,6 +1,621 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 07 19:27:19 +0000 2019",
+		"id": 1082358036058988500,
+		"id_str": "1082358036058988544",
+		"full_text": "lovely datavisualisation, as well as a recording of local information - so this would be a local studies scarf https://t.co/n1SPuVN8fQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n1SPuVN8fQ",
+					"expanded_url": "https://twitter.com/knitgrrl/status/1082116625971712000",
+					"display_url": "twitter.com/knitgrrl/statu…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2466,
+			"friends_count": 759,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35118,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082116625971712000,
+		"quoted_status_id_str": "1082116625971712000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n1SPuVN8fQ",
+			"expanded": "https://twitter.com/knitgrrl/status/1082116625971712000",
+			"display": "twitter.com/knitgrrl/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 07 03:28:03 +0000 2019",
+			"id": 1082116625971712000,
+			"id_str": "1082116625971712000",
+			"full_text": "“My mother is a Munich-area commuter and enthusiastic knitter. In 2018 she knitted a \"train delay scarf.\" Two rows per day: gray for less than 5 minutes, pink for 5 to 30 minutes delay, red for a delay on both trips, or once more than 30 minutes.” https://t.co/7ekUXNd1im",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7ekUXNd1im",
+						"expanded_url": "https://twitter.com/sara__weber/status/1081950904671240192",
+						"display_url": "twitter.com/sara__weber/st…",
+						"indices": [
+							248,
+							271
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5372932,
+				"id_str": "5372932",
+				"name": "Shannon Okey",
+				"screen_name": "knitgrrl",
+				"location": "Cleveland, OH",
+				"description": "Author. Publisher. Designer. Snarky.",
+				"url": "https://t.co/4gC8kbmGAD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4gC8kbmGAD",
+								"expanded_url": "http://patreon.com/knitgrrl",
+								"display_url": "patreon.com/knitgrrl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12841,
+				"friends_count": 2284,
+				"listed_count": 650,
+				"created_at": "Sat Apr 21 05:11:47 +0000 2007",
+				"favourites_count": 78011,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41917,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/687378612220243968/krHk6cXu_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/687378612220243968/krHk6cXu_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5372932/1533083867",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0eb9676d24b211f1",
+				"url": "https://api.twitter.com/1.1/geo/id/0eb9676d24b211f1.json",
+				"place_type": "city",
+				"name": "Cleveland",
+				"full_name": "Cleveland, OH",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-81.877771,
+								41.392684
+							],
+							[
+								-81.5331634,
+								41.392684
+							],
+							[
+								-81.5331634,
+								41.599195
+							],
+							[
+								-81.877771,
+								41.599195
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1081950904671240200,
+			"quoted_status_id_str": "1081950904671240192",
+			"quoted_status_permalink": {
+				"url": "https://t.co/7ekUXNd1im",
+				"expanded": "https://twitter.com/sara__weber/status/1081950904671240192",
+				"display": "twitter.com/sara__weber/st…"
+			},
+			"retweet_count": 1019,
+			"favorite_count": 3494,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lovely datavisualisation, as well as a recording of local information - so this would be a local studies scarf https://t.co/n1SPuVN8fQ"
+	},
+	{
+		"created_at": "Mon Jan 07 19:11:29 +0000 2019",
+		"id": 1082354052183347200,
+		"id_str": "1082354052183347212",
+		"full_text": "Maths through knitting? https://t.co/MCedg3xBBQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MCedg3xBBQ",
+					"expanded_url": "https://wonderfulengineering.com/this-professor-teaches-advance-mathematics-through-knitting/?fbclid=IwAR3AY1C4vlPuWCFICCUXHq6t_4TVWcyB5v7hzVX2Ygr_aVCZ_03vhsGIGwQ",
+					"display_url": "wonderfulengineering.com/this-professor…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2545404338,
+			"id_str": "2545404338",
+			"name": "UofGKnitting",
+			"screen_name": "UofGknitting",
+			"location": "Glasgow, UK",
+			"description": "Knit History is a forum that showcases the research and activities of staff and students at Glasgow University in the field of knitting and textile history.",
+			"url": "http://t.co/t91gzrd4ma",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/t91gzrd4ma",
+							"expanded_url": "http://knithistory.academicblogs.co.uk/",
+							"display_url": "knithistory.academicblogs.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1694,
+			"friends_count": 1225,
+			"listed_count": 41,
+			"created_at": "Wed Jun 04 06:44:09 +0000 2014",
+			"favourites_count": 267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1195,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/641587776606052352/kPrr9S3X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/641587776606052352/kPrr9S3X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2545404338/1519209591",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maths through knitting? https://t.co/MCedg3xBBQ"
+	},
+	{
+		"created_at": "Mon Jan 07 16:22:29 +0000 2019",
+		"id": 1082311519898095600,
+		"id_str": "1082311519898095620",
+		"full_text": "\"I care about our voices and, for me, Indigenous voices have been  missing. I care that the next generation has an opportunity to hear and  understand.\" \n\nThis Digitizing The Ancestors project in Alberta sounds incredible. https://t.co/WQbKOBi3JG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WQbKOBi3JG",
+					"expanded_url": "https://twitter.com/pamryan/status/1082250564577050624",
+					"display_url": "twitter.com/pamryan/status…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2742722138,
+			"id_str": "2742722138",
+			"name": "Rabble",
+			"screen_name": "RabbleBabbles",
+			"location": "Madison, WI",
+			"description": "We build software with libraries that empowers them to support and sustain their local creative communities.",
+			"url": "http://t.co/IDIxlWSLir",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/IDIxlWSLir",
+							"expanded_url": "http://www.musicat.co/",
+							"display_url": "musicat.co",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 325,
+			"friends_count": 419,
+			"listed_count": 23,
+			"created_at": "Mon Aug 18 18:36:12 +0000 2014",
+			"favourites_count": 896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1021,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955883993722912768/Vyn282Rp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955883993722912768/Vyn282Rp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2742722138/1519070027",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082250564577050600,
+		"quoted_status_id_str": "1082250564577050624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WQbKOBi3JG",
+			"expanded": "https://twitter.com/pamryan/status/1082250564577050624",
+			"display": "twitter.com/pamryan/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 07 12:20:16 +0000 2019",
+			"id": 1082250564577050600,
+			"id_str": "1082250564577050624",
+			"full_text": "Bought for a buck, now priceless: Indigenous Alberta media archive digitized | CBC News https://t.co/MBwc95cRsH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MBwc95cRsH",
+						"expanded_url": "https://www.cbc.ca/news/canada/edmonton/indigenous-archives-edmonton-1.4967857",
+						"display_url": "cbc.ca/news/canada/ed…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4448781,
+				"id_str": "4448781",
+				"name": "Pam Ryan",
+				"screen_name": "pamryan",
+				"location": "Toronto, ON",
+				"description": "A Canadian librarian. Director, Service Development & Innovation @torontolibrary",
+				"url": "https://t.co/UtxPUHqE7R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UtxPUHqE7R",
+								"expanded_url": "http://pamryan.info",
+								"display_url": "pamryan.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1772,
+				"friends_count": 603,
+				"listed_count": 125,
+				"created_at": "Fri Apr 13 03:51:44 +0000 2007",
+				"favourites_count": 6221,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5081,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079898963304697856/nu8hfJWi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079898963304697856/nu8hfJWi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4448781/1546381926",
+				"profile_link_color": "854793",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3797791ff9c0e4c6",
+				"url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json",
+				"place_type": "city",
+				"name": "Toronto",
+				"full_name": "Toronto, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-79.639319,
+								43.403221
+							],
+							[
+								-78.90582,
+								43.403221
+							],
+							[
+								-78.90582,
+								43.855401
+							],
+							[
+								-79.639319,
+								43.855401
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I care about our voices and, for me, Indigenous voices have been  missing. I care that the next generation has an opportunity to hear and  understand.\" \n\nThis Digitizing The Ancestors project in Alberta sounds incredible. https://t.co/WQbKOBi3JG"
+	},
+	{
 		"created_at": "Sun Jan 06 19:10:52 +0000 2019",
 		"id": 1081991508012613600,
 		"id_str": "1081991508012613632",
