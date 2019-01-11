@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 20:24:27 +0000 2019",
+		"id": 1083459578270867500,
+		"id_str": "1083459578270867456",
+		"full_text": "Speculative Fiction on Tap: Winter Books, Winter Beer- https://t.co/60wgzs8BO7 via @bookriot - some book and beer matching (for #readadv in libraries consider partnerships with local breweries)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "readadv",
+					"indices": [
+						128,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BookRiot",
+					"name": "Book Riot",
+					"id": 355321621,
+					"id_str": "355321621",
+					"indices": [
+						83,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/60wgzs8BO7",
+					"expanded_url": "https://bookriot.com/2019/01/08/speculative-winter-books/",
+					"display_url": "bookriot.com/2019/01/08/spe…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2466,
+			"friends_count": 759,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Speculative Fiction on Tap: Winter Books, Winter Beer- https://t.co/60wgzs8BO7 via @bookriot - some book and beer matching (for #readadv in libraries consider partnerships with local breweries)"
+	},
+	{
+		"created_at": "Thu Jan 10 10:35:13 +0000 2019",
+		"id": 1083311290074853400,
+		"id_str": "1083311290074853376",
+		"full_text": "Find out about life as a librarian in the Māori community in this interview with Moana Munro, where she discusses her role as a Kaitiakipukapuka (Maori librarian).  https://t.co/Un8Rbt8Tnk.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Un8Rbt8Tnk",
+					"expanded_url": "https://oxford.ly/2LskEGr",
+					"display_url": "oxford.ly/2LskEGr",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.percolate.com\" rel=\"nofollow\">Percolate</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6580122,
+			"id_str": "6580122",
+			"name": "Oxford Academic",
+			"screen_name": "OUPAcademic",
+			"location": "New York City & Oxford",
+			"description": "Oxford University Press’s academic news and insights for the thinking world, brought to you by OUP's social media team.",
+			"url": "http://t.co/JU3e2aMphQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JU3e2aMphQ",
+							"expanded_url": "http://blog.oup.com",
+							"display_url": "blog.oup.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89362,
+			"friends_count": 3409,
+			"listed_count": 2598,
+			"created_at": "Mon Jun 04 21:33:13 +0000 2007",
+			"favourites_count": 3266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BFBFBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/583516526742999040/HWzESF4N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/583516526742999040/HWzESF4N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6580122/1398257568",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "002147",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Find out about life as a librarian in the Māori community in this interview with Moana Munro, where she discusses her role as a Kaitiakipukapuka (Maori librarian).  https://t.co/Un8Rbt8Tnk."
+	},
+	{
+		"created_at": "Thu Jan 10 07:51:14 +0000 2019",
+		"id": 1083270022850596900,
+		"id_str": "1083270022850596864",
+		"full_text": "'Solar System' quilt by Ellen Harding Baker of Cedar County, Iowa, US in 1876, used as a teaching aid for her lectures on astronomy in the small towns of her state #womensart https://t.co/aBfASbX5pH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "womensart",
+					"indices": [
+						164,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083269860124250100,
+					"id_str": "1083269860124250113",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/DwiMMsiX0AEbOmR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwiMMsiX0AEbOmR.jpg",
+					"url": "https://t.co/aBfASbX5pH",
+					"display_url": "pic.twitter.com/aBfASbX5pH",
+					"expanded_url": "https://twitter.com/womensart1/status/1083270022850596864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083269860124250100,
+					"id_str": "1083269860124250113",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/DwiMMsiX0AEbOmR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwiMMsiX0AEbOmR.jpg",
+					"url": "https://t.co/aBfASbX5pH",
+					"display_url": "pic.twitter.com/aBfASbX5pH",
+					"expanded_url": "https://twitter.com/womensart1/status/1083270022850596864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4823705386,
+			"id_str": "4823705386",
+			"name": "#WOMENSART",
+			"screen_name": "womensart1",
+			"location": "",
+			"description": "#womensart celebrating ♀'s art and creativity, created and curated by freelance writer/reviewer @PL_Henderson1 Images are © to their respective owners",
+			"url": "https://t.co/gDV7wWbjgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gDV7wWbjgm",
+							"expanded_url": "https://womensartblog.wordpress.com/",
+							"display_url": "womensartblog.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204800,
+			"friends_count": 0,
+			"listed_count": 2646,
+			"created_at": "Mon Jan 18 10:32:28 +0000 2016",
+			"favourites_count": 17936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22165,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4823705386/1496667909",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 919,
+		"favorite_count": 3082,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Solar System' quilt by Ellen Harding Baker of Cedar County, Iowa, US in 1876, used as a teaching aid for her lectures on astronomy in the small towns of her state #womensart https://t.co/aBfASbX5pH"
+	},
+	{
 		"created_at": "Wed Jan 09 23:49:21 +0000 2019",
 		"id": 1083148753974878200,
 		"id_str": "1083148753974878208",
