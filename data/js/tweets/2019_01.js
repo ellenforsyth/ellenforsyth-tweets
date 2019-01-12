@@ -1,6 +1,746 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 13:00:36 +0000 2019",
+		"id": 1082623102830501900,
+		"id_str": "1083893028673093632",
+		"full_text": "This article about graphic medicine combines elements of @NarrativeMed at Columbia University and the work of our Presidential scholar, @matteofarinella. Read more about illustrating the stories of medicine here: https://t.co/lM2Q1KBaw8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NarrativeMed",
+					"name": "Narrative Medicine",
+					"id": 1241883242,
+					"id_str": "1241883242",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"screen_name": "matteofarinella",
+					"name": "Matteo Farinella",
+					"id": 45704206,
+					"id_str": "45704206",
+					"indices": [
+						136,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lM2Q1KBaw8",
+					"expanded_url": "http://ow.ly/YIiQ30ndS9V",
+					"display_url": "ow.ly/YIiQ30ndS9V",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3236204367,
+			"id_str": "3236204367",
+			"name": "CSS at Columbia",
+			"screen_name": "columbiacss",
+			"location": "New York, NY",
+			"description": "The Center for Science & Society @Columbia brings together a variety of scholars to support interdisciplinary studies of science in past & present societies.",
+			"url": "https://t.co/ZzZOhZB9QI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZzZOhZB9QI",
+							"expanded_url": "http://scienceandsociety.columbia.edu/",
+							"display_url": "scienceandsociety.columbia.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1035,
+			"friends_count": 540,
+			"listed_count": 67,
+			"created_at": "Tue May 05 16:37:08 +0000 2015",
+			"favourites_count": 3217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/595634618058997760/lPKUvjrS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/595634618058997760/lPKUvjrS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3236204367/1543959392",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This article about graphic medicine combines elements of @NarrativeMed at Columbia University and the work of our Presidential scholar, @matteofarinella. Read more about illustrating the stories of medicine here: https://t.co/lM2Q1KBaw8"
+	},
+	{
+		"created_at": "Fri Jan 11 20:27:37 +0000 2019",
+		"id": 1083822761095491600,
+		"id_str": "1083822761095491585",
+		"full_text": "Ten great Australian beach reads set at the beach https://t.co/At3pyUquHO via @ConversationEDU an interesting look at beach reads #readadv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "readadv",
+					"indices": [
+						130,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						78,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/At3pyUquHO",
+					"expanded_url": "http://theconversation.com/ten-great-australian-beach-reads-set-at-the-beach-108083?utm_source=twitter&utm_medium=twitterbutton",
+					"display_url": "theconversation.com/ten-great-aust…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2467,
+			"friends_count": 759,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35131,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ten great Australian beach reads set at the beach https://t.co/At3pyUquHO via @ConversationEDU an interesting look at beach reads #readadv"
+	},
+	{
+		"created_at": "Thu Jan 10 14:09:33 +0000 2019",
+		"id": 1083365229923393500,
+		"id_str": "1083822541506899968",
+		"full_text": "Many #MedievalManuscripts are full of decorated capital letters that add colour to the page. They come in all styles and sizes, but what exactly are they and what was their purpose? Read our blog to find out: 👉https://t.co/jcX3y56WC2 https://t.co/tQDp82yJc7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MedievalManuscripts",
+					"indices": [
+						5,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jcX3y56WC2",
+					"expanded_url": "https://bit.ly/2RIyz0G",
+					"display_url": "bit.ly/2RIyz0G",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083365112436662300,
+					"id_str": "1083365112436662273",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwji1HDWoAEmdvq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwji1HDWoAEmdvq.jpg",
+					"url": "https://t.co/tQDp82yJc7",
+					"display_url": "pic.twitter.com/tQDp82yJc7",
+					"expanded_url": "https://twitter.com/Europeanaeu/status/1083365229923393543/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083365112436662300,
+					"id_str": "1083365112436662273",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwji1HDWoAEmdvq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwji1HDWoAEmdvq.jpg",
+					"url": "https://t.co/tQDp82yJc7",
+					"display_url": "pic.twitter.com/tQDp82yJc7",
+					"expanded_url": "https://twitter.com/Europeanaeu/status/1083365229923393543/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79299249,
+			"id_str": "79299249",
+			"name": "Europeana",
+			"screen_name": "Europeanaeu",
+			"location": "Europe",
+			"description": "Europe's culture - collected for you. \nExplore millions of items on Europeana Collections. \nCo-financed by the Connecting Europe Facility of the European Union.",
+			"url": "http://t.co/KUfdwVQgxz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/KUfdwVQgxz",
+							"expanded_url": "http://europeana.eu",
+							"display_url": "europeana.eu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34150,
+			"friends_count": 1497,
+			"listed_count": 1998,
+			"created_at": "Fri Oct 02 22:05:55 +0000 2009",
+			"favourites_count": 15771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/689803529800806402/jPMe0-wn_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/689803529800806402/jPMe0-wn_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79299249/1543919810",
+			"profile_link_color": "56A7CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Many #MedievalManuscripts are full of decorated capital letters that add colour to the page. They come in all styles and sizes, but what exactly are they and what was their purpose? Read our blog to find out: 👉https://t.co/jcX3y56WC2 https://t.co/tQDp82yJc7"
+	},
+	{
+		"created_at": "Fri Jan 11 19:26:20 +0000 2019",
+		"id": 1083807338920693800,
+		"id_str": "1083807338920693760",
+		"full_text": "this is brilliant https://t.co/HetA78BJGv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HetA78BJGv",
+					"expanded_url": "https://twitter.com/ThirdVaultYarns/status/1083793575262019586",
+					"display_url": "twitter.com/ThirdVaultYarn…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2467,
+			"friends_count": 759,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35131,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083793575262019600,
+		"quoted_status_id_str": "1083793575262019586",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HetA78BJGv",
+			"expanded": "https://twitter.com/ThirdVaultYarns/status/1083793575262019586",
+			"display": "twitter.com/ThirdVaultYarn…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 11 18:31:38 +0000 2019",
+			"id": 1083793575262019600,
+			"id_str": "1083793575262019586",
+			"full_text": "We're celebrating female and non binary writers of science fiction and fantasy across the world. Join us in reading and discussing the first books. The Binti Series by Nnedi Okorafor and grab some yarn from the website if you love the colours! https://t.co/P7hsBO7b2M https://t.co/MhP3b5I3Rn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/P7hsBO7b2M",
+						"expanded_url": "https://thirdvaultyarns.com/ourshop/prod_6601957-YOTM-Book-Club-Binti.html",
+						"display_url": "thirdvaultyarns.com/ourshop/prod_6…",
+						"indices": [
+							244,
+							267
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1083760115348586500,
+						"id_str": "1083760115348586498",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/DwpKFTkWwAIR2_y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwpKFTkWwAIR2_y.jpg",
+						"url": "https://t.co/MhP3b5I3Rn",
+						"display_url": "pic.twitter.com/MhP3b5I3Rn",
+						"expanded_url": "https://twitter.com/ThirdVaultYarns/status/1083793575262019586/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1083760115348586500,
+						"id_str": "1083760115348586498",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/DwpKFTkWwAIR2_y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwpKFTkWwAIR2_y.jpg",
+						"url": "https://t.co/MhP3b5I3Rn",
+						"display_url": "pic.twitter.com/MhP3b5I3Rn",
+						"expanded_url": "https://twitter.com/ThirdVaultYarns/status/1083793575262019586/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33947546,
+				"id_str": "33947546",
+				"name": "Omolola J",
+				"screen_name": "ThirdVaultYarns",
+				"location": "London",
+				"description": "Programmer, Geek , Knitter, Indie Dyer at Third Vault Yarns. Hand Dyeing Sci Fi and Fantasy Inspired yarn and watching too much Doctor Who",
+				"url": "https://t.co/tbF9qSD2WI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tbF9qSD2WI",
+								"expanded_url": "https://thirdvaultyarns.com",
+								"display_url": "thirdvaultyarns.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 132,
+				"friends_count": 176,
+				"listed_count": 5,
+				"created_at": "Tue Apr 21 16:02:43 +0000 2009",
+				"favourites_count": 365,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 388,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/666996485368713217/iSHf4CfD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/666996485368713217/iSHf4CfD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33947546/1447859430",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is brilliant https://t.co/HetA78BJGv"
+	},
+	{
 		"created_at": "Thu Jan 10 20:24:27 +0000 2019",
 		"id": 1083459578270867500,
 		"id_str": "1083459578270867456",
