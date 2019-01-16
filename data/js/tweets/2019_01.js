@@ -1,6 +1,755 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 14:05:25 +0000 2019",
+		"id": 1085176128590020600,
+		"id_str": "1085401001849487360",
+		"full_text": "#eBooks: the costs of convenience? Read our blog for Day 2 of #CopyrightWeek to see what research into 100 000 eBooks reveals about the challenges #libraries face in lending digital content https://t.co/TR29DuDC0e #Copyright4Libraries #eLending #FixCopyright https://t.co/XJPVfFEca1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eBooks",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "CopyrightWeek",
+					"indices": [
+						62,
+						76
+					]
+				},
+				{
+					"text": "libraries",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "Copyright4Libraries",
+					"indices": [
+						214,
+						234
+					]
+				},
+				{
+					"text": "eLending",
+					"indices": [
+						235,
+						244
+					]
+				},
+				{
+					"text": "FixCopyright",
+					"indices": [
+						245,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TR29DuDC0e",
+					"expanded_url": "http://bit.ly/2Hb3n5V",
+					"display_url": "bit.ly/2Hb3n5V",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1085165768310956000,
+					"id_str": "1085165768310956037",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw9IhE6WoAUrqqi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw9IhE6WoAUrqqi.jpg",
+					"url": "https://t.co/XJPVfFEca1",
+					"display_url": "pic.twitter.com/XJPVfFEca1",
+					"expanded_url": "https://twitter.com/IFLA/status/1085176128590020613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1391,
+							"h": 785,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085165768310956000,
+					"id_str": "1085165768310956037",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw9IhE6WoAUrqqi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw9IhE6WoAUrqqi.jpg",
+					"url": "https://t.co/XJPVfFEca1",
+					"display_url": "pic.twitter.com/XJPVfFEca1",
+					"expanded_url": "https://twitter.com/IFLA/status/1085176128590020613/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1391,
+							"h": 785,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53361561,
+			"id_str": "53361561",
+			"name": "IFLA",
+			"screen_name": "IFLA",
+			"location": "The Hague, The Netherlands",
+			"description": "The International Federation of Library Associations and Institutions (IFLA) is the global voice of the library and information profession.",
+			"url": "https://t.co/l1M6glk56U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l1M6glk56U",
+							"expanded_url": "http://www.ifla.org",
+							"display_url": "ifla.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23711,
+			"friends_count": 362,
+			"listed_count": 988,
+			"created_at": "Fri Jul 03 11:32:45 +0000 2009",
+			"favourites_count": 786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0EDD4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53361561/1545222187",
+			"profile_link_color": "00502F",
+			"profile_sidebar_border_color": "C8002F",
+			"profile_sidebar_fill_color": "F0EDD4",
+			"profile_text_color": "002D19",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#eBooks: the costs of convenience? Read our blog for Day 2 of #CopyrightWeek to see what research into 100 000 eBooks reveals about the challenges #libraries face in lending digital content https://t.co/TR29DuDC0e #Copyright4Libraries #eLending #FixCopyright https://t.co/XJPVfFEca1"
+	},
+	{
+		"created_at": "Mon Jan 14 16:43:25 +0000 2019",
+		"id": 1084853503787454500,
+		"id_str": "1085400980341096448",
+		"full_text": "#Copyright reforms affecting #libraries are coming up in 2019 in many countries – is your country affected? Read our updated report on ongoing reforms around the world here: https://t.co/sNYyX2x50R \n#Copyright4Libraries #FixCopyright @EIFLnet @ipwatch @ICArchiv @IcomOfficiel https://t.co/T1EFRwp7Fc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Copyright",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "libraries",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"text": "Copyright4Libraries",
+					"indices": [
+						199,
+						219
+					]
+				},
+				{
+					"text": "FixCopyright",
+					"indices": [
+						220,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EIFLnet",
+					"name": "EIFL",
+					"id": 95746263,
+					"id_str": "95746263",
+					"indices": [
+						234,
+						242
+					]
+				},
+				{
+					"screen_name": "ipwatch",
+					"name": "Intellectual Property Watch",
+					"id": 16883630,
+					"id_str": "16883630",
+					"indices": [
+						243,
+						251
+					]
+				},
+				{
+					"screen_name": "ICArchiv",
+					"name": "ICA",
+					"id": 1979083904,
+					"id_str": "1979083904",
+					"indices": [
+						252,
+						261
+					]
+				},
+				{
+					"screen_name": "IcomOfficiel",
+					"name": "ICOM",
+					"id": 1722429451,
+					"id_str": "1722429451",
+					"indices": [
+						262,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sNYyX2x50R",
+					"expanded_url": "http://bit.ly/2FpMpze",
+					"display_url": "bit.ly/2FpMpze",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084853403610742800,
+					"id_str": "1084853403610742786",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw4sbDuXgAIU79l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw4sbDuXgAIU79l.jpg",
+					"url": "https://t.co/T1EFRwp7Fc",
+					"display_url": "pic.twitter.com/T1EFRwp7Fc",
+					"expanded_url": "https://twitter.com/IFLA/status/1084853503787454464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1390,
+							"h": 785,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084853403610742800,
+					"id_str": "1084853403610742786",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw4sbDuXgAIU79l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw4sbDuXgAIU79l.jpg",
+					"url": "https://t.co/T1EFRwp7Fc",
+					"display_url": "pic.twitter.com/T1EFRwp7Fc",
+					"expanded_url": "https://twitter.com/IFLA/status/1084853503787454464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1390,
+							"h": 785,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53361561,
+			"id_str": "53361561",
+			"name": "IFLA",
+			"screen_name": "IFLA",
+			"location": "The Hague, The Netherlands",
+			"description": "The International Federation of Library Associations and Institutions (IFLA) is the global voice of the library and information profession.",
+			"url": "https://t.co/l1M6glk56U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l1M6glk56U",
+							"expanded_url": "http://www.ifla.org",
+							"display_url": "ifla.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23711,
+			"friends_count": 362,
+			"listed_count": 988,
+			"created_at": "Fri Jul 03 11:32:45 +0000 2009",
+			"favourites_count": 786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2812,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0EDD4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53361561/1545222187",
+			"profile_link_color": "00502F",
+			"profile_sidebar_border_color": "C8002F",
+			"profile_sidebar_fill_color": "F0EDD4",
+			"profile_text_color": "002D19",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Copyright reforms affecting #libraries are coming up in 2019 in many countries – is your country affected? Read our updated report on ongoing reforms around the world here: https://t.co/sNYyX2x50R \n#Copyright4Libraries #FixCopyright @EIFLnet @ipwatch @ICArchiv @IcomOfficiel https://t.co/T1EFRwp7Fc"
+	},
+	{
+		"created_at": "Tue Jan 15 21:25:14 +0000 2019",
+		"id": 1085286812157763600,
+		"id_str": "1085286812157763584",
+		"full_text": "hoping to see more people add their local libraries to #libraryplanet https://t.co/rImpJxl8es",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "libraryplanet",
+					"indices": [
+						55,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rImpJxl8es",
+					"expanded_url": "https://twitter.com/MarieeEiriksson/status/1085158174372564993",
+					"display_url": "twitter.com/MarieeEiriksso…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2467,
+			"friends_count": 761,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35137,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085158174372565000,
+		"quoted_status_id_str": "1085158174372564993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rImpJxl8es",
+			"expanded": "https://twitter.com/MarieeEiriksson/status/1085158174372564993",
+			"display": "twitter.com/MarieeEiriksso…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 15 12:54:04 +0000 2019",
+			"id": 1085158174372565000,
+			"id_str": "1085158174372564993",
+			"full_text": "This library is as cool as it is beautiful! Thank you @timtomch for adding this beautiful library to #libraryplanet we hope to se more from https://t.co/fw32ryWsDN in the future ❤️ #libraries #libraytravel \nhttps://t.co/9LXa0IKXFF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "libraryplanet",
+						"indices": [
+							101,
+							115
+						]
+					},
+					{
+						"text": "libraries",
+						"indices": [
+							181,
+							191
+						]
+					},
+					{
+						"text": "libraytravel",
+						"indices": [
+							192,
+							205
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "timtomch",
+						"name": "Thomas Guignard",
+						"id": 268404861,
+						"id_str": "268404861",
+						"indices": [
+							54,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fw32ryWsDN",
+						"expanded_url": "https://www.instagram.com/concretelibraries/",
+						"display_url": "instagram.com/concretelibrar…",
+						"indices": [
+							140,
+							163
+						]
+					},
+					{
+						"url": "https://t.co/9LXa0IKXFF",
+						"expanded_url": "http://libraryplanet.net/2019/01/15/toronto-reference-library/",
+						"display_url": "libraryplanet.net/2019/01/15/tor…",
+						"indices": [
+							207,
+							230
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 997728964020965400,
+				"id_str": "997728964020965376",
+				"name": "Marie E Eiriksson",
+				"screen_name": "MarieeEiriksson",
+				"location": "",
+				"description": "Librarian, consultant, IFLA fan girl and standing comittee member | advocacy | library services to people with special needs | libraries I #libraryplanet editor",
+				"url": "https://t.co/dAzfeDmP9Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dAzfeDmP9Y",
+								"expanded_url": "https://libraryplanet.net",
+								"display_url": "libraryplanet.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 584,
+				"friends_count": 1030,
+				"listed_count": 17,
+				"created_at": "Sat May 19 06:41:36 +0000 2018",
+				"favourites_count": 8083,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 865,
+				"lang": "da",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/999341861268475904/ET-2hCDQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/999341861268475904/ET-2hCDQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/997728964020965376/1527096656",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "hoping to see more people add their local libraries to #libraryplanet https://t.co/rImpJxl8es"
+	},
+	{
 		"created_at": "Mon Jan 14 10:19:06 +0000 2019",
 		"id": 1084756788589736000,
 		"id_str": "1084756788589735936",
