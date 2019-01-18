@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 15:04:39 +0000 2019",
+		"id": 1085915810751746000,
+		"id_str": "1085968450512547840",
+		"full_text": "What an amazing story by my badass friend @bijubelinky on how cake recipes resisted censorship in 1960s Brazil, reminds me of the Hidden Kitchens series @kitchensisters 🔥🍰\nhttps://t.co/uFPlKdbIof",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bijubelinky",
+					"name": "biju belinky",
+					"id": 2149754665,
+					"id_str": "2149754665",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "kitchensisters",
+					"name": "The Kitchen Sisters",
+					"id": 16459243,
+					"id_str": "16459243",
+					"indices": [
+						153,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uFPlKdbIof",
+					"expanded_url": "https://munchies.vice.com/en_uk/article/j57exd/how-cake-became-a-form-of-resistance-under-brazils-military-dictatorship",
+					"display_url": "munchies.vice.com/en_uk/article/…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52924568,
+			"id_str": "52924568",
+			"name": "Vivien Chan",
+			"screen_name": "Tweet_Vivien",
+			"location": "London",
+			"description": "Design historian, sometimes illustrator/animator/filmmaker 💫@COTCAProject PhD @UniofNottingham, @dhs_ambassadors, V&A/RCA @HistoryofDesign alum",
+			"url": "https://t.co/qwGt8256vo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qwGt8256vo",
+							"expanded_url": "http://www.vivienchan.co.uk",
+							"display_url": "vivienchan.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 459,
+			"friends_count": 646,
+			"listed_count": 7,
+			"created_at": "Thu Jul 02 01:31:54 +0000 2009",
+			"favourites_count": 2005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3361,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036574354467966982/xMRM8pk__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036574354467966982/xMRM8pk__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52924568/1524593327",
+			"profile_link_color": "D1C1C8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E7FFDB",
+			"profile_text_color": "E0A6BD",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What an amazing story by my badass friend @bijubelinky on how cake recipes resisted censorship in 1960s Brazil, reminds me of the Hidden Kitchens series @kitchensisters 🔥🍰\nhttps://t.co/uFPlKdbIof"
+	},
+	{
 		"created_at": "Thu Jan 17 05:08:23 +0000 2019",
 		"id": 1085765754513838100,
 		"id_str": "1085765754513838080",
