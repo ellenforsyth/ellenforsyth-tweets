@@ -1,6 +1,664 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 18 00:43:32 +0000 2019",
+		"id": 1086061491151810600,
+		"id_str": "1086395421730242560",
+		"full_text": "'Aboriginal languages were to be forbidden even in the playground. The use of mission dormitories, separating children from families, compounded the attack on language' https://t.co/etzsyerKKS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/etzsyerKKS",
+					"expanded_url": "http://theconversation.com/why-do-so-few-aussies-speak-an-australian-language-109570?utm_source=twitter&utm_medium=twitterbutton",
+					"display_url": "theconversation.com/why-do-so-few-…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 554855266,
+			"id_str": "554855266",
+			"name": "Nakari Thorpe",
+			"screen_name": "nakarithorpe",
+			"location": "Parliament House, Canberra",
+			"description": "Gunnai-Gunditjmara-Goreng Goreng | Political Correspondent @NITV | nakari.thorpe@sbs.com.au",
+			"url": "https://t.co/GkY5CWd5kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GkY5CWd5kc",
+							"expanded_url": "http://nitv.org.au",
+							"display_url": "nitv.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5069,
+			"friends_count": 1133,
+			"listed_count": 77,
+			"created_at": "Mon Apr 16 04:14:08 +0000 2012",
+			"favourites_count": 10503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7448,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004708595487784961/td8_qo0O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004708595487784961/td8_qo0O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/554855266/1542850142",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Aboriginal languages were to be forbidden even in the playground. The use of mission dormitories, separating children from families, compounded the attack on language' https://t.co/etzsyerKKS"
+	},
+	{
+		"created_at": "Fri Jan 18 22:10:03 +0000 2019",
+		"id": 1086385256800825300,
+		"id_str": "1086385256800825344",
+		"full_text": "this is a joyful read (and with some lovely dogs in their jumpers) https://t.co/rbySXIaxlZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rbySXIaxlZ",
+					"expanded_url": "https://twitter.com/vogueknitting/status/1085590317850607623",
+					"display_url": "twitter.com/vogueknitting/…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2469,
+			"friends_count": 762,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35145,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085590317850607600,
+		"quoted_status_id_str": "1085590317850607623",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rbySXIaxlZ",
+			"expanded": "https://twitter.com/vogueknitting/status/1085590317850607623",
+			"display": "twitter.com/vogueknitting/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 16 17:31:15 +0000 2019",
+			"id": 1085590317850607600,
+			"id_str": "1085590317850607623",
+			"full_text": "Dana Williams-Johnson and Mason-Dixon Knitting show you how to miniaturize a people sweater for for your smallest friend, modeled by the adorable Cher and Jellybean. https://t.co/TYKgkt5tHl https://t.co/TYKgkt5tHl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TYKgkt5tHl",
+						"expanded_url": "https://www.masondixonknitting.com/custom-dog-sweaters-formula/",
+						"display_url": "masondixonknitting.com/custom-dog-swe…",
+						"indices": [
+							166,
+							189
+						]
+					},
+					{
+						"url": "https://t.co/TYKgkt5tHl",
+						"expanded_url": "https://www.masondixonknitting.com/custom-dog-sweaters-formula/",
+						"display_url": "masondixonknitting.com/custom-dog-swe…",
+						"indices": [
+							190,
+							213
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 226405727,
+				"id_str": "226405727",
+				"name": "Vogue Knitting",
+				"screen_name": "vogueknitting",
+				"location": "New York",
+				"description": "Vogue Knitting is the leading fashion magazine in the world of hand knitting!",
+				"url": "http://t.co/tkw2QsRCp1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tkw2QsRCp1",
+								"expanded_url": "http://vogueknitting.com",
+								"display_url": "vogueknitting.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35620,
+				"friends_count": 258,
+				"listed_count": 599,
+				"created_at": "Tue Dec 14 02:39:15 +0000 2010",
+				"favourites_count": 23,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4697,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "039AE6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/831538368651538432/8MU6eu93_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/831538368651538432/8MU6eu93_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/226405727/1487089089",
+				"profile_link_color": "DE242D",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is a joyful read (and with some lovely dogs in their jumpers) https://t.co/rbySXIaxlZ"
+	},
+	{
+		"created_at": "Fri Jan 18 20:23:36 +0000 2019",
+		"id": 1086358464908017700,
+		"id_str": "1086358464908017664",
+		"full_text": "plus you get to find out about a sourdough library which is exciting as well as practical (although I suppose that describes most libraries) https://t.co/7rZHksECyH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7rZHksECyH",
+					"expanded_url": "https://twitter.com/IntScout/status/1086306382608064514",
+					"display_url": "twitter.com/IntScout/statu…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2469,
+			"friends_count": 762,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35145,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556570112/IMG_0101_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1086306382608064500,
+		"quoted_status_id_str": "1086306382608064514",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7rZHksECyH",
+			"expanded": "https://twitter.com/IntScout/status/1086306382608064514",
+			"display": "twitter.com/IntScout/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 18 16:56:38 +0000 2019",
+			"id": 1086306382608064500,
+			"id_str": "1086306382608064514",
+			"full_text": "That #FridayFeeling when you realize a new Scout Report is out! Included is @PublicDomainRev highlighting works of literature and art that are in the public domain &amp; @DukeCSPD examining how the public domain relates to speech and other things. Click here..\nhttps://t.co/Ro1bzUzRS7 https://t.co/kqPLnQeQmN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FridayFeeling",
+						"indices": [
+							5,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PublicDomainRev",
+						"name": "Public Domain Review",
+						"id": 203307838,
+						"id_str": "203307838",
+						"indices": [
+							76,
+							92
+						]
+					},
+					{
+						"screen_name": "DukeCSPD",
+						"name": "Public Domain Center",
+						"id": 68207464,
+						"id_str": "68207464",
+						"indices": [
+							170,
+							179
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ro1bzUzRS7",
+						"expanded_url": "https://scout.wisc.edu/report/2019/0118",
+						"display_url": "scout.wisc.edu/report/2019/01…",
+						"indices": [
+							261,
+							284
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1086306306225594400,
+						"id_str": "1086306306225594369",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/DxNV1HvX4AE9PWo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxNV1HvX4AE9PWo.jpg",
+						"url": "https://t.co/kqPLnQeQmN",
+						"display_url": "pic.twitter.com/kqPLnQeQmN",
+						"expanded_url": "https://twitter.com/IntScout/status/1086306382608064514/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1243,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 728,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 413,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1086306306225594400,
+						"id_str": "1086306306225594369",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/DxNV1HvX4AE9PWo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxNV1HvX4AE9PWo.jpg",
+						"url": "https://t.co/kqPLnQeQmN",
+						"display_url": "pic.twitter.com/kqPLnQeQmN",
+						"expanded_url": "https://twitter.com/IntScout/status/1086306382608064514/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1243,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 728,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 413,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39374329,
+				"id_str": "39374329",
+				"name": "Internet Scout",
+				"screen_name": "IntScout",
+				"location": "UW-Madison",
+				"description": "Internet Scout develops tools and services for finding, filtering, and presenting online information. Projects include the Scout Report, AMSER, and ATE Central.",
+				"url": "http://t.co/TH0RXH16QJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TH0RXH16QJ",
+								"expanded_url": "http://www.scout.wisc.edu",
+								"display_url": "scout.wisc.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 945,
+				"friends_count": 1006,
+				"listed_count": 77,
+				"created_at": "Mon May 11 23:32:45 +0000 2009",
+				"favourites_count": 2508,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5489,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0E0D02",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/479726954405322752/whHahZXi_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/479726954405322752/whHahZXi_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39374329/1403210760",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BEDFB6",
+				"profile_sidebar_fill_color": "0E0D02",
+				"profile_text_color": "39BD91",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "plus you get to find out about a sourdough library which is exciting as well as practical (although I suppose that describes most libraries) https://t.co/7rZHksECyH"
+	},
+	{
 		"created_at": "Thu Jan 17 15:04:39 +0000 2019",
 		"id": 1085915810751746000,
 		"id_str": "1085968450512547840",
