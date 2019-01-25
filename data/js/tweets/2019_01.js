@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 09:31:33 +0000 2019",
+		"id": 1088368701022265300,
+		"id_str": "1088585637215621120",
+		"full_text": "Hold the front pages: meet the endpaper enthusiasts | Books | The Guardian https://t.co/PY4kRobuTV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PY4kRobuTV",
+					"expanded_url": "https://www.theguardian.com/books/booksblog/2019/jan/24/hold-the-front-pages-meet-the-endpaper-enthusiasts",
+					"display_url": "theguardian.com/books/booksblo…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 507955259,
+			"id_str": "507955259",
+			"name": "Maggie Patton",
+			"screen_name": "MaggiePatts",
+			"location": "Sydney",
+			"description": "Libraries, librarians, rare books, maps, digital stuff - not necessarily in that order...working @statelibrarynsw all opinions and photos are my own!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 434,
+			"friends_count": 437,
+			"listed_count": 27,
+			"created_at": "Tue Feb 28 21:35:27 +0000 2012",
+			"favourites_count": 1613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2361,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077678832880996352/GH_iumvr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077678832880996352/GH_iumvr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/507955259/1524656227",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hold the front pages: meet the endpaper enthusiasts | Books | The Guardian https://t.co/PY4kRobuTV"
+	},
+	{
 		"created_at": "Tue Jan 22 19:19:52 +0000 2019",
 		"id": 1087791979520417800,
 		"id_str": "1087791979520417792",
