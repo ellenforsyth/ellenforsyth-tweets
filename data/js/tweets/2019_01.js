@@ -1,6 +1,1033 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 09:00:03 +0000 2019",
+		"id": 1088723160562716700,
+		"id_str": "1089044821556129794",
+		"full_text": "Danzel Baker has been announced as the 2019 Young Australian of the Year. Danzel has achieved mainstream success rapping in the Yolngu Matha language and uses his talent to inspire Indigenous youth to embrace their culture and take up leadership positions. https://t.co/gFwVSoMV5m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088722697658331100,
+					"id_str": "1088722697658331136",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/DxvrhnTUcAA4LiY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxvrhnTUcAA4LiY.jpg",
+					"url": "https://t.co/gFwVSoMV5m",
+					"display_url": "pic.twitter.com/gFwVSoMV5m",
+					"expanded_url": "https://twitter.com/ausoftheyear/status/1088723160562716678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088722697658331100,
+					"id_str": "1088722697658331136",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/DxvrhnTUcAA4LiY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxvrhnTUcAA4LiY.jpg",
+					"url": "https://t.co/gFwVSoMV5m",
+					"display_url": "pic.twitter.com/gFwVSoMV5m",
+					"expanded_url": "https://twitter.com/ausoftheyear/status/1088723160562716678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 324663673,
+			"id_str": "324663673",
+			"name": "AusoftheYearAwards",
+			"screen_name": "ausoftheyear",
+			"location": "Australia",
+			"description": "Each year we celebrate the achievement and contributions of Australians creating a better country. Stay tuned for our 2019 awards presentation on 25th January!",
+			"url": "https://t.co/1x4UopUlmj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1x4UopUlmj",
+							"expanded_url": "http://australianoftheyear.org.au/nominate",
+							"display_url": "australianoftheyear.org.au/nominate",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8228,
+			"friends_count": 1029,
+			"listed_count": 60,
+			"created_at": "Mon Jun 27 01:01:16 +0000 2011",
+			"favourites_count": 2809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3272,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871287156081278976/mWbklHyL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871287156081278976/mWbklHyL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/324663673/1543962983",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 280,
+		"favorite_count": 902,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Danzel Baker has been announced as the 2019 Young Australian of the Year. Danzel has achieved mainstream success rapping in the Yolngu Matha language and uses his talent to inspire Indigenous youth to embrace their culture and take up leadership positions. https://t.co/gFwVSoMV5m"
+	},
+	{
+		"created_at": "Sat Jan 26 00:51:56 +0000 2019",
+		"id": 1088962708009959400,
+		"id_str": "1088962708009959424",
+		"full_text": "looks an interesting use of space https://t.co/Yzt06Xxnuf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yzt06Xxnuf",
+					"expanded_url": "https://twitter.com/mecanoo_/status/1085503566666711046",
+					"display_url": "twitter.com/mecanoo_/statu…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 762,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085503566666711000,
+		"quoted_status_id_str": "1085503566666711046",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yzt06Xxnuf",
+			"expanded": "https://twitter.com/mecanoo_/status/1085503566666711046",
+			"display": "twitter.com/mecanoo_/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 16 11:46:32 +0000 2019",
+			"id": 1085503566666711000,
+			"id_str": "1085503566666711046",
+			"full_text": ".@mecanoo_ completes the interior design of the @lochal013 Library - a true collaborative effort to deliver a world-class library for #Tilburg in an iconic former locomotive shed of the Dutch National Railways. Full image report by @OvanDuivenbode at https://t.co/8aJLoxoqaW 📚💻 https://t.co/rSaTxwmzcs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Tilburg",
+						"indices": [
+							134,
+							142
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mecanoo_",
+						"name": "mecanoo",
+						"id": 163844956,
+						"id_str": "163844956",
+						"indices": [
+							1,
+							10
+						]
+					},
+					{
+						"screen_name": "lochal013",
+						"name": "LocHal",
+						"id": 719891525363200000,
+						"id_str": "719891525363200000",
+						"indices": [
+							48,
+							58
+						]
+					},
+					{
+						"screen_name": "OvanDuivenbode",
+						"name": "Ossip van Duivenbode",
+						"id": 119377360,
+						"id_str": "119377360",
+						"indices": [
+							232,
+							247
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8aJLoxoqaW",
+						"expanded_url": "http://bit.ly/2AKu9g8",
+						"display_url": "bit.ly/2AKu9g8",
+						"indices": [
+							251,
+							274
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1085500664699064300,
+						"id_str": "1085500664699064321",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/DxB5GnLWkAEfMHG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxB5GnLWkAEfMHG.jpg",
+						"url": "https://t.co/rSaTxwmzcs",
+						"display_url": "pic.twitter.com/rSaTxwmzcs",
+						"expanded_url": "https://twitter.com/mecanoo_/status/1085503566666711046/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1500,
+								"h": 1060,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1085500664699064300,
+						"id_str": "1085500664699064321",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/DxB5GnLWkAEfMHG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxB5GnLWkAEfMHG.jpg",
+						"url": "https://t.co/rSaTxwmzcs",
+						"display_url": "pic.twitter.com/rSaTxwmzcs",
+						"expanded_url": "https://twitter.com/mecanoo_/status/1085503566666711046/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1500,
+								"h": 1060,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1085500707661336600,
+						"id_str": "1085500707661336577",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/DxB5JHOW0AE_Fxv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxB5JHOW0AE_Fxv.jpg",
+						"url": "https://t.co/rSaTxwmzcs",
+						"display_url": "pic.twitter.com/rSaTxwmzcs",
+						"expanded_url": "https://twitter.com/mecanoo_/status/1085503566666711046/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 848,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1060,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1085500727659774000,
+						"id_str": "1085500727659773953",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/DxB5KRuWwAEFLGp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxB5KRuWwAEFLGp.jpg",
+						"url": "https://t.co/rSaTxwmzcs",
+						"display_url": "pic.twitter.com/rSaTxwmzcs",
+						"expanded_url": "https://twitter.com/mecanoo_/status/1085503566666711046/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 848,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1060,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 163844956,
+				"id_str": "163844956",
+				"name": "mecanoo",
+				"screen_name": "mecanoo_",
+				"location": "Delft",
+				"description": "We are mecanoo, an international practice focused on  people, architecture, urban planning, landscape and interior. Be prepared for unpredictable change.",
+				"url": "https://t.co/C3l6sWW7KE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C3l6sWW7KE",
+								"expanded_url": "http://www.mecanoo.nl",
+								"display_url": "mecanoo.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11663,
+				"friends_count": 1147,
+				"listed_count": 308,
+				"created_at": "Wed Jul 07 12:28:56 +0000 2010",
+				"favourites_count": 3148,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3953,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/454603399925743616/48OmPu66_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/454603399925743616/48OmPu66_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/163844956/1540997234",
+				"profile_link_color": "002FA7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "de4a6927f1d07eca",
+				"url": "https://api.twitter.com/1.1/geo/id/de4a6927f1d07eca.json",
+				"place_type": "city",
+				"name": "Tilburg",
+				"full_name": "Tilburg, Nederland",
+				"country_code": "NL",
+				"country": "The Netherlands",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								4.9479152,
+								51.5294472
+							],
+							[
+								5.1793323,
+								51.5294472
+							],
+							[
+								5.1793323,
+								51.640588
+							],
+							[
+								4.9479152,
+								51.640588
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "looks an interesting use of space https://t.co/Yzt06Xxnuf"
+	},
+	{
+		"created_at": "Fri Jan 25 19:26:58 +0000 2019",
+		"id": 1088880927218921500,
+		"id_str": "1088880927218921472",
+		"full_text": "Is it hot right now? https://t.co/9E2R1A2OYQ via @geekinsydney a helpful site to know about",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeekinSydney",
+					"name": "Geek in Sydney",
+					"id": 539533382,
+					"id_str": "539533382",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9E2R1A2OYQ",
+					"expanded_url": "https://www.geekinsydney.com/10751/is-it-hot-right-now/",
+					"display_url": "geekinsydney.com/10751/is-it-ho…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 762,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is it hot right now? https://t.co/9E2R1A2OYQ via @geekinsydney a helpful site to know about"
+	},
+	{
+		"created_at": "Fri Jan 25 18:59:27 +0000 2019",
+		"id": 1088874005669376000,
+		"id_str": "1088874005669376000",
+		"full_text": "This looks lovely https://t.co/V5Oh6BA6TP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V5Oh6BA6TP",
+					"expanded_url": "https://twitter.com/auckland_libs/status/1088556813027606532",
+					"display_url": "twitter.com/auckland_libs/…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 762,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088556813027606500,
+		"quoted_status_id_str": "1088556813027606532",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V5Oh6BA6TP",
+			"expanded": "https://twitter.com/auckland_libs/status/1088556813027606532",
+			"display": "twitter.com/auckland_libs/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 24 21:59:03 +0000 2019",
+			"id": 1088556813027606500,
+			"id_str": "1088556813027606532",
+			"full_text": "We're excited to announce Kura Heritage Collections Online is now live! Kura provides easy and free access to our world-renowned heritage collections. Explore Kura now: https://t.co/6zZ6ldxkht https://t.co/5PEGwWv9lf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				192
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6zZ6ldxkht",
+						"expanded_url": "https://kura.aucklandlibraries.govt.nz/",
+						"display_url": "kura.aucklandlibraries.govt.nz",
+						"indices": [
+							169,
+							192
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1088556808422215700,
+						"id_str": "1088556808422215686",
+						"indices": [
+							193,
+							216
+						],
+						"media_url": "http://pbs.twimg.com/media/DxtUplvW0AYL3nI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxtUplvW0AYL3nI.jpg",
+						"url": "https://t.co/5PEGwWv9lf",
+						"display_url": "pic.twitter.com/5PEGwWv9lf",
+						"expanded_url": "https://twitter.com/Auckland_Libs/status/1088556813027606532/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1088556808422215700,
+						"id_str": "1088556808422215686",
+						"indices": [
+							193,
+							216
+						],
+						"media_url": "http://pbs.twimg.com/media/DxtUplvW0AYL3nI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxtUplvW0AYL3nI.jpg",
+						"url": "https://t.co/5PEGwWv9lf",
+						"display_url": "pic.twitter.com/5PEGwWv9lf",
+						"expanded_url": "https://twitter.com/Auckland_Libs/status/1088556813027606532/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 151286086,
+				"id_str": "151286086",
+				"name": "Auckland Libraries",
+				"screen_name": "Auckland_Libs",
+				"location": "Auckland, NZ",
+				"description": "We share library-related news, events, pics, & articles. Tīhau mai, Ngāti Kai-pukapuka! We’re here Mon-Fri, 9-5, exl. pub holidays. If urgent, call 09 377 0209.",
+				"url": "https://t.co/B3LQcHy2Ui",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B3LQcHy2Ui",
+								"expanded_url": "http://www.aucklandlibraries.govt.nz",
+								"display_url": "aucklandlibraries.govt.nz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9988,
+				"friends_count": 5094,
+				"listed_count": 254,
+				"created_at": "Thu Jun 03 02:01:50 +0000 2010",
+				"favourites_count": 15393,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27888,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "688D01",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931005236272963584/j3Lz9giY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931005236272963584/j3Lz9giY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/151286086/1548368111",
+				"profile_link_color": "155200",
+				"profile_sidebar_border_color": "F2FEF5",
+				"profile_sidebar_fill_color": "D2EC89",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This looks lovely https://t.co/V5Oh6BA6TP"
+	},
+	{
 		"created_at": "Thu Jan 24 09:31:33 +0000 2019",
 		"id": 1088368701022265300,
 		"id_str": "1088585637215621120",
