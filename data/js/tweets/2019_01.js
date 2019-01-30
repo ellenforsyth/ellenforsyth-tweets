@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 23:23:27 +0000 2019",
+		"id": 1090027606060060700,
+		"id_str": "1090148380292960256",
+		"full_text": "#OnThisDay in 1957 the winning design for the Sydney Opera House was announced. Judges said the iconic design by Danish architect Jørn Utzon was \"... capable of becoming one of the great buildings of the world\".\n\n📷: Wolfgang Sievers, 1973 https://t.co/Bfm38eeFsC https://t.co/5V8Vd6EXGJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnThisDay",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bfm38eeFsC",
+					"expanded_url": "http://nla.gov.au/nla.obj-160793459",
+					"display_url": "nla.gov.au/nla.obj-160793…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1090027506340483100,
+					"id_str": "1090027506340483072",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/DyCOPebUUAAF_so.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyCOPebUUAAF_so.jpg",
+					"url": "https://t.co/5V8Vd6EXGJ",
+					"display_url": "pic.twitter.com/5V8Vd6EXGJ",
+					"expanded_url": "https://twitter.com/nlagovau/status/1090027606060060672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 527,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090027506340483100,
+					"id_str": "1090027506340483072",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/DyCOPebUUAAF_so.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyCOPebUUAAF_so.jpg",
+					"url": "https://t.co/5V8Vd6EXGJ",
+					"display_url": "pic.twitter.com/5V8Vd6EXGJ",
+					"expanded_url": "https://twitter.com/nlagovau/status/1090027606060060672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 527,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42354375,
+			"id_str": "42354375",
+			"name": "National Library Aus",
+			"screen_name": "nlagovau",
+			"location": "Canberra, Australia",
+			"description": "We collect, preserve and make accessible the best Australian stories. Read all about it.",
+			"url": "http://t.co/wb67iCGQsu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wb67iCGQsu",
+							"expanded_url": "http://www.nla.gov.au",
+							"display_url": "nla.gov.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41906,
+			"friends_count": 222,
+			"listed_count": 1000,
+			"created_at": "Mon May 25 05:09:03 +0000 2009",
+			"favourites_count": 7611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42354375/1537744316",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OnThisDay in 1957 the winning design for the Sydney Opera House was announced. Judges said the iconic design by Danish architect Jørn Utzon was \"... capable of becoming one of the great buildings of the world\".\n\n📷: Wolfgang Sievers, 1973 https://t.co/Bfm38eeFsC https://t.co/5V8Vd6EXGJ"
+	},
+	{
 		"created_at": "Mon Jan 28 19:06:08 +0000 2019",
 		"id": 1089962849764397000,
 		"id_str": "1089962849764397057",
