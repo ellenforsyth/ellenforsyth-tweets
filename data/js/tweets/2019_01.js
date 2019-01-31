@@ -1,6 +1,107 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 20:54:03 +0000 2019",
+		"id": 1086003742158262300,
+		"id_str": "1090779767035461632",
+		"full_text": "Obituary: Alec Brian Deer (1945-2019) https://t.co/AkNsaqfwkq\n\nDeer, a Kahnawake Mohawk librarian, designed his classification system with the goal of reflecting indigenous viewpoints and values in knowledge organization https://t.co/R6RXeAELms",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AkNsaqfwkq",
+					"expanded_url": "http://montrealgazette.remembering.ca/obituary/alec-deer-1072226393",
+					"display_url": "montrealgazette.remembering.ca/obituary/alec-…",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/R6RXeAELms",
+					"expanded_url": "https://en.wikipedia.org/wiki/A._Brian_Deer",
+					"display_url": "en.wikipedia.org/wiki/A._Brian_…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 784763256174809100,
+			"id_str": "784763256174809088",
+			"name": "Montreal LIS/IM",
+			"screen_name": "MontrealLIS",
+			"location": "Montréal, Québec",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 67,
+			"listed_count": 6,
+			"created_at": "Sat Oct 08 14:31:55 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 505,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/784771835753820160/YhPTnUEG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/784771835753820160/YhPTnUEG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Obituary: Alec Brian Deer (1945-2019) https://t.co/AkNsaqfwkq\n\nDeer, a Kahnawake Mohawk librarian, designed his classification system with the goal of reflecting indigenous viewpoints and values in knowledge organization https://t.co/R6RXeAELms"
+	},
+	{
 		"created_at": "Mon Jan 28 23:23:27 +0000 2019",
 		"id": 1090027606060060700,
 		"id_str": "1090148380292960256",
