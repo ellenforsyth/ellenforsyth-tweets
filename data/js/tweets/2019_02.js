@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 04 18:50:54 +0000 2019",
+		"id": 1092495731447935000,
+		"id_str": "1092495731447934976",
+		"full_text": "Recording of the week: life in a rock pool - Sound and vision blog https://t.co/QajXo0Bej7 via @soundarchive this is wonderful",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soundarchive",
+					"name": "Sound Archive",
+					"id": 22028935,
+					"id_str": "22028935",
+					"indices": [
+						95,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QajXo0Bej7",
+					"expanded_url": "https://blogs.bl.uk/sound-and-vision/2019/02/recording-of-the-week-life-in-a-rock-pool.html",
+					"display_url": "blogs.bl.uk/sound-and-visi…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 767,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Recording of the week: life in a rock pool - Sound and vision blog https://t.co/QajXo0Bej7 via @soundarchive this is wonderful"
+	},
+	{
+		"created_at": "Mon Feb 04 18:15:19 +0000 2019",
+		"id": 1092486775165964300,
+		"id_str": "1092486775165964294",
+		"full_text": "An interesting way to explore collections https://t.co/2Ql9rSPRLj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Ql9rSPRLj",
+					"expanded_url": "https://twitter.com/britishlibrary/status/1092411698177179648",
+					"display_url": "twitter.com/britishlibrary…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2468,
+			"friends_count": 767,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092411698177179600,
+		"quoted_status_id_str": "1092411698177179648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2Ql9rSPRLj",
+			"expanded": "https://twitter.com/britishlibrary/status/1092411698177179648",
+			"display": "twitter.com/britishlibrary…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 04 13:16:59 +0000 2019",
+			"id": 1092411698177179600,
+			"id_str": "1092411698177179648",
+			"full_text": "Get your colouring pencils out, it's #ColorOurCollections Week! We're joining @NYAMHistory and other cultural institutions with items from our collection. Download our colouring book, have fun and share your masterpieces with us: https://t.co/ldDBXoyThn https://t.co/ZjTTgf9DK9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ColorOurCollections",
+						"indices": [
+							37,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NYAMHistory",
+						"name": "NYAMHistory",
+						"id": 138090747,
+						"id_str": "138090747",
+						"indices": [
+							78,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ldDBXoyThn",
+						"expanded_url": "http://ow.ly/8qk050kvX4G",
+						"display_url": "ow.ly/8qk050kvX4G",
+						"indices": [
+							230,
+							253
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1092410967445524500,
+						"id_str": "1092410967445524484",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1092410967445524484/pu/img/P84J512xTJ2uDYdX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1092410967445524484/pu/img/P84J512xTJ2uDYdX.jpg",
+						"url": "https://t.co/ZjTTgf9DK9",
+						"display_url": "pic.twitter.com/ZjTTgf9DK9",
+						"expanded_url": "https://twitter.com/britishlibrary/status/1092411698177179648/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 464,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 464,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1092410967445524500,
+						"id_str": "1092410967445524484",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1092410967445524484/pu/img/P84J512xTJ2uDYdX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1092410967445524484/pu/img/P84J512xTJ2uDYdX.jpg",
+						"url": "https://t.co/ZjTTgf9DK9",
+						"display_url": "pic.twitter.com/ZjTTgf9DK9",
+						"expanded_url": "https://twitter.com/britishlibrary/status/1092411698177179648/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 464,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 464,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 464,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								40,
+								29
+							],
+							"duration_millis": 27250,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1092410967445524484/pu/vid/248x180/PoQMF5tUTGotbVXt.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1092410967445524484/pu/pl/952qFAi9YfdkPpnV.m3u8?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1092410967445524484/pu/vid/640x464/2dHkAVqOn2_8vjWb.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21744554,
+				"id_str": "21744554",
+				"name": "The British Library",
+				"screen_name": "britishlibrary",
+				"location": "London NW1 2DB",
+				"description": "All the news from the British Library. #BLAngloSaxons open until 19 Feb 2019: https://t.co/qga4XgbwV0. Our social media approach: https://t.co/pTGrYOq8iN",
+				"url": "http://t.co/IWioJdCOng",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IWioJdCOng",
+								"expanded_url": "http://www.bl.uk",
+								"display_url": "bl.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qga4XgbwV0",
+								"expanded_url": "http://bit.ly/2wumkIu",
+								"display_url": "bit.ly/2wumkIu",
+								"indices": [
+									78,
+									101
+								]
+							},
+							{
+								"url": "https://t.co/pTGrYOq8iN",
+								"expanded_url": "http://bit.ly/2iW2Tlr",
+								"display_url": "bit.ly/2iW2Tlr",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1900177,
+				"friends_count": 803,
+				"listed_count": 9473,
+				"created_at": "Tue Feb 24 10:56:49 +0000 2009",
+				"favourites_count": 7201,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12631,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C22121",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013723163996377089/2QodCQ3L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013723163996377089/2QodCQ3L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21744554/1539330161",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CC1111",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 136,
+			"favorite_count": 278,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An interesting way to explore collections https://t.co/2Ql9rSPRLj"
+	},
+	{
 		"created_at": "Sun Feb 03 19:20:42 +0000 2019",
 		"id": 1092140842163175400,
 		"id_str": "1092140842163175424",
