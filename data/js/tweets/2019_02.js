@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 03 22:56:25 +0000 2019",
+		"id": 1092195131241857000,
+		"id_str": "1092858766846963712",
+		"full_text": "New #VIDAblog by @leahmouse on #migrant #mothers and #digital #community. #dighist #feminism https://t.co/I7iXF4q6Xa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDAblog",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "migrant",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "mothers",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"text": "digital",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"text": "community",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "dighist",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "feminism",
+					"indices": [
+						83,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leahmouse",
+					"name": "Leah Williams Veazey",
+					"id": 14435148,
+					"id_str": "14435148",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I7iXF4q6Xa",
+					"expanded_url": "http://www.auswhn.org.au/blog/digital-community-mothering/",
+					"display_url": "auswhn.org.au/blog/digital-c…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3270341498,
+			"id_str": "3270341498",
+			"name": "AWHN",
+			"screen_name": "auswhn",
+			"location": "",
+			"description": "The Australian Women’s History Network promotes research & writing in #wmnhist, #histgender & #feminism. We publish peer-reviewed @LilithJournal & #VIDAblog.",
+			"url": "https://t.co/3e8WAc7Lco",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3e8WAc7Lco",
+							"expanded_url": "http://www.auswhn.org.au/",
+							"display_url": "auswhn.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3573,
+			"friends_count": 4420,
+			"listed_count": 87,
+			"created_at": "Mon Jul 06 20:39:03 +0000 2015",
+			"favourites_count": 612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9813,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618973256800841729/NDopSbLk_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618973256800841729/NDopSbLk_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3270341498/1467578389",
+			"profile_link_color": "007D6A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New #VIDAblog by @leahmouse on #migrant #mothers and #digital #community. #dighist #feminism https://t.co/I7iXF4q6Xa"
+	},
+	{
 		"created_at": "Mon Feb 04 18:50:54 +0000 2019",
 		"id": 1092495731447935000,
 		"id_str": "1092495731447934976",
