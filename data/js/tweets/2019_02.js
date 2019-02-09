@@ -1,6 +1,1774 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 09 04:45:57 +0000 2019",
+		"id": 1094095031051243500,
+		"id_str": "1094095031051243521",
+		"full_text": "Titian, tapestries and toilets; what do preschoolers and their families value in a museum visit? https://t.co/ZbDZlKwVF4 via @LeicsMusStud I found this when looking for something else, highlights the importance of practitioner led research",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeicsMusStud",
+					"name": "Museum Studies Leics",
+					"id": 1147822231,
+					"id_str": "1147822231",
+					"indices": [
+						125,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZbDZlKwVF4",
+					"expanded_url": "https://journals.le.ac.uk/ojs1/index.php/mas/article/view/2794/2671?acceptCookies=1#.XF5ZKC3enCw.twitter",
+					"display_url": "journals.le.ac.uk/ojs1/index.php…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 767,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35193,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Titian, tapestries and toilets; what do preschoolers and their families value in a museum visit? https://t.co/ZbDZlKwVF4 via @LeicsMusStud I found this when looking for something else, highlights the importance of practitioner led research"
+	},
+	{
+		"created_at": "Sat Feb 09 00:23:30 +0000 2019",
+		"id": 1094028982658293800,
+		"id_str": "1094041683904217088",
+		"full_text": "This thread... :) #WomenInHorrorMonth https://t.co/NoM5KDa0uR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WomenInHorrorMonth",
+					"indices": [
+						18,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NoM5KDa0uR",
+					"expanded_url": "https://twitter.com/KealanBurke/status/1093896429565820928",
+					"display_url": "twitter.com/KealanBurke/st…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15732431,
+			"id_str": "15732431",
+			"name": "CatyJ",
+			"screen_name": "CatyJ",
+			"location": "Gumbayngirr land, north coast ",
+			"description": "Librarian, parent, passionate about reading & literacy, frazzled dingo-wrangler, trying not to kill all the plants in my garden, serial crafter .....",
+			"url": "https://t.co/j8hvNFTtKl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j8hvNFTtKl",
+							"expanded_url": "http://achivasregalmoment.blogspot.com.au/",
+							"display_url": "achivasregalmoment.blogspot.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395,
+			"friends_count": 547,
+			"listed_count": 58,
+			"created_at": "Tue Aug 05 04:40:27 +0000 2008",
+			"favourites_count": 2341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13182,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058941483301007360/PFHCLDud_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058941483301007360/PFHCLDud_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15732431/1541306357",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093896429565820900,
+		"quoted_status_id_str": "1093896429565820928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NoM5KDa0uR",
+			"expanded": "https://twitter.com/KealanBurke/status/1093896429565820928",
+			"display": "twitter.com/KealanBurke/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 08 15:36:47 +0000 2019",
+			"id": 1093896429565820900,
+			"id_str": "1093896429565820928",
+			"full_text": "#WomenInHorrorMonth #WiHM \n\n“I would read more women, but too few of them write horror.”\n\nAsh Tudor: @AshTudor888 \nChrista Carmen: @christaqua \nStephanie Wytovich: @SWytovich \nAutumn Christian: @teachrobotslove \nCina Pelayo: @cinapelayo \nKaaron Warren: @KaaronWarren",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WomenInHorrorMonth",
+						"indices": [
+							0,
+							19
+						]
+					},
+					{
+						"text": "WiHM",
+						"indices": [
+							20,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AshTudor888",
+						"name": "Ash Tudor",
+						"id": 4824137085,
+						"id_str": "4824137085",
+						"indices": [
+							101,
+							113
+						]
+					},
+					{
+						"screen_name": "christaqua",
+						"name": "Christa Carmen 🌒🦉🔮",
+						"id": 413535555,
+						"id_str": "413535555",
+						"indices": [
+							131,
+							142
+						]
+					},
+					{
+						"screen_name": "SWytovich",
+						"name": "Stephanie M Wytovich",
+						"id": 112587688,
+						"id_str": "112587688",
+						"indices": [
+							164,
+							174
+						]
+					},
+					{
+						"screen_name": "teachrobotslove",
+						"name": "Autumn Christian",
+						"id": 2851541997,
+						"id_str": "2851541997",
+						"indices": [
+							194,
+							210
+						]
+					},
+					{
+						"screen_name": "cinapelayo",
+						"name": "Cina Pelayo",
+						"id": 284563995,
+						"id_str": "284563995",
+						"indices": [
+							225,
+							236
+						]
+					},
+					{
+						"screen_name": "KaaronWarren",
+						"name": "Kaaron Warren",
+						"id": 81991872,
+						"id_str": "81991872",
+						"indices": [
+							253,
+							266
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17479016,
+				"id_str": "17479016",
+				"name": "Kealan Patrick Burke",
+				"screen_name": "KealanBurke",
+				"location": "Columbus, OH",
+				"description": "Dislocated Irishman. Award-Winning Horror Novelist. Refugee from The Twilight Zone.",
+				"url": "https://t.co/H5szZrhcBh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H5szZrhcBh",
+								"expanded_url": "http://www.kealanpatrickburke.com",
+								"display_url": "kealanpatrickburke.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9919,
+				"friends_count": 4635,
+				"listed_count": 257,
+				"created_at": "Wed Nov 19 03:31:49 +0000 2008",
+				"favourites_count": 61751,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 24794,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030303",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047579098850230274/WQkPf2qK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047579098850230274/WQkPf2qK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17479016/1534960363",
+				"profile_link_color": "CF0201",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68,
+			"favorite_count": 147,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This thread... :) #WomenInHorrorMonth https://t.co/NoM5KDa0uR"
+	},
+	{
+		"created_at": "Fri Feb 08 23:34:35 +0000 2019",
+		"id": 1094016673265270800,
+		"id_str": "1094016673265270784",
+		"full_text": "yes, this https://t.co/ThSKZPSszo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ThSKZPSszo",
+					"expanded_url": "https://twitter.com/DrMattFinch/status/1093789426092855302",
+					"display_url": "twitter.com/DrMattFinch/st…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 767,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35193,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093789426092855300,
+		"quoted_status_id_str": "1093789426092855302",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ThSKZPSszo",
+			"expanded": "https://twitter.com/DrMattFinch/status/1093789426092855302",
+			"display": "twitter.com/DrMattFinch/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 08 08:31:35 +0000 2019",
+			"id": 1093789426092855300,
+			"id_str": "1093789426092855302",
+			"full_text": "\"Heart-wrenching, world-changing thoughts &amp; images can be found in all kinds of books, by all kinds of people in all kinds of forms, &amp; found in all kinds of places\" - great piece by my fave Aussie novelist on libraries, gender, genre, and \"literary merit\" https://t.co/sidap4MF4c",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				287
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sidap4MF4c",
+						"expanded_url": "https://www.theguardian.com/books/2019/feb/08/theres-no-shame-in-reading-whatever-books-you-want-literary-snobs-be-damned",
+						"display_url": "theguardian.com/books/2019/feb…",
+						"indices": [
+							264,
+							287
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 258747765,
+				"id_str": "258747765",
+				"name": "Matt Finch",
+				"screen_name": "DrMattFinch",
+				"location": "",
+				"description": "I help people to find good ideas, share them, and turn them into reality. 🇩🇪 🇬🇧",
+				"url": "https://t.co/rbwGXfz4JJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rbwGXfz4JJ",
+								"expanded_url": "http://mechanicaldolphin.com/about",
+								"display_url": "mechanicaldolphin.com/about",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3485,
+				"friends_count": 2138,
+				"listed_count": 114,
+				"created_at": "Mon Feb 28 12:01:03 +0000 2011",
+				"favourites_count": 71382,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54249,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1045052751720452098/-oD5QRGN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045052751720452098/-oD5QRGN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/258747765/1533841034",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "yes, this https://t.co/ThSKZPSszo"
+	},
+	{
+		"created_at": "Fri Feb 08 21:34:43 +0000 2019",
+		"id": 1093986509533802500,
+		"id_str": "1093986509533802496",
+		"full_text": "some really great points here https://t.co/jDeZVI1NuE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jDeZVI1NuE",
+					"expanded_url": "https://twitter.com/RAforAll/status/1093627067059580934",
+					"display_url": "twitter.com/RAforAll/statu…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 767,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35193,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093627067059580900,
+		"quoted_status_id_str": "1093627067059580934",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jDeZVI1NuE",
+			"expanded": "https://twitter.com/RAforAll/status/1093627067059580934",
+			"display": "twitter.com/RAforAll/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 07 21:46:26 +0000 2019",
+			"id": 1093627067059580900,
+			"id_str": "1093627067059580934",
+			"full_text": "#readadv Call to Action: Stop Spreading the Fake News That Library Books Are Free: https://t.co/5wKlvQIFRx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "readadv",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5wKlvQIFRx",
+						"expanded_url": "http://raforall.blogspot.com/2019/02/call-to-action-stop-spreading-fake-news.html",
+						"display_url": "raforall.blogspot.com/2019/02/call-t…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library, always. #Horror maven, sometimes. Jersey Girl, 4ever! @AmherstCollege alum. @ARRTreads @HorrorWriters Board",
+				"url": "http://t.co/UqsI4i2bun",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UqsI4i2bun",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2107,
+				"friends_count": 1611,
+				"listed_count": 124,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 13869,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23478,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some really great points here https://t.co/jDeZVI1NuE"
+	},
+	{
+		"created_at": "Fri Feb 08 21:32:46 +0000 2019",
+		"id": 1093986016921215000,
+		"id_str": "1093986016921214976",
+		"full_text": "great profile of  National Museum of African American History and Culture Library https://t.co/gEEISrleZs  via @SILibraries really like 'meet the staff'",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SILibraries",
+					"name": "SmithsonianLibraries",
+					"id": 15092914,
+					"id_str": "15092914",
+					"indices": [
+						111,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gEEISrleZs",
+					"expanded_url": "https://blog.library.si.edu/blog/2019/02/07/spotlight-national-museum-of-african-american-history-and-culture-library/",
+					"display_url": "blog.library.si.edu/blog/2019/02/0…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 767,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35193,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great profile of  National Museum of African American History and Culture Library https://t.co/gEEISrleZs  via @SILibraries really like 'meet the staff'"
+	},
+	{
+		"created_at": "Fri Feb 08 21:30:33 +0000 2019",
+		"id": 1093985461620531200,
+		"id_str": "1093985461620531200",
+		"full_text": "great to have remote participation available https://t.co/R8hbEiy4ID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R8hbEiy4ID",
+					"expanded_url": "https://twitter.com/SILibraries/status/1093147960718823424",
+					"display_url": "twitter.com/SILibraries/st…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 767,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35193,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093147960718823400,
+		"quoted_status_id_str": "1093147960718823424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R8hbEiy4ID",
+			"expanded": "https://twitter.com/SILibraries/status/1093147960718823424",
+			"display": "twitter.com/SILibraries/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 06 14:02:38 +0000 2019",
+			"id": 1093147960718823400,
+			"id_str": "1093147960718823424",
+			"full_text": "#DYK you can join us *remotely* for our @Wikipedia editing event with @BioDivLibrary ? All the details: https://t.co/J2TF9vxWBB   https://t.co/NqxRxvHV1q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DYK",
+						"indices": [
+							0,
+							4
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Wikipedia",
+						"name": "Wikipedia",
+						"id": 86390214,
+						"id_str": "86390214",
+						"indices": [
+							40,
+							50
+						]
+					},
+					{
+						"screen_name": "BioDivLibrary",
+						"name": "BHL",
+						"id": 20813165,
+						"id_str": "20813165",
+						"indices": [
+							70,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/J2TF9vxWBB",
+						"expanded_url": "https://s.si.edu/2RKl9wW",
+						"display_url": "s.si.edu/2RKl9wW",
+						"indices": [
+							104,
+							127
+						]
+					},
+					{
+						"url": "https://t.co/NqxRxvHV1q",
+						"expanded_url": "https://twitter.com/TessaBoase/status/1093126532976074753",
+						"display_url": "twitter.com/TessaBoase/sta…",
+						"indices": [
+							130,
+							153
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15092914,
+				"id_str": "15092914",
+				"name": "SmithsonianLibraries",
+				"screen_name": "SILibraries",
+				"location": "Washington, DC",
+				"description": "The world's largest museum library, based at the Smithsonian Institution. Legal: https://t.co/I5q5Tub1PR",
+				"url": "http://t.co/kbq7XhTeE7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kbq7XhTeE7",
+								"expanded_url": "http://library.si.edu/",
+								"display_url": "library.si.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/I5q5Tub1PR",
+								"expanded_url": "http://www.si.edu/Termsofuse",
+								"display_url": "si.edu/Termsofuse",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 64198,
+				"friends_count": 917,
+				"listed_count": 1920,
+				"created_at": "Thu Jun 12 03:57:19 +0000 2008",
+				"favourites_count": 3170,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12860,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/522032392748277760/4uCgF7UF_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/522032392748277760/4uCgF7UF_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15092914/1546007688",
+				"profile_link_color": "0592A5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A6E05C",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1093126532976074800,
+			"quoted_status_id_str": "1093126532976074753",
+			"quoted_status_permalink": {
+				"url": "https://t.co/NqxRxvHV1q",
+				"expanded": "https://twitter.com/TessaBoase/status/1093126532976074753",
+				"display": "twitter.com/TessaBoase/sta…"
+			},
+			"retweet_count": 7,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great to have remote participation available https://t.co/R8hbEiy4ID"
+	},
+	{
+		"created_at": "Fri Feb 08 21:29:35 +0000 2019",
+		"id": 1093985214366281700,
+		"id_str": "1093985214366281728",
+		"full_text": "nice https://t.co/3DQuBWXZoc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3DQuBWXZoc",
+					"expanded_url": "https://twitter.com/SILibraries/status/1093591685584617473",
+					"display_url": "twitter.com/SILibraries/st…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2465,
+			"friends_count": 767,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35193,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093591685584617500,
+		"quoted_status_id_str": "1093591685584617473",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3DQuBWXZoc",
+			"expanded": "https://twitter.com/SILibraries/status/1093591685584617473",
+			"display": "twitter.com/SILibraries/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 07 19:25:50 +0000 2019",
+			"id": 1093591685584617500,
+			"id_str": "1093591685584617473",
+			"full_text": "If you can't wait 'til March to celebrate women in natural history, download @BioDivLibrary new, free coloring book for #ColorOurCollections! It features all female illustrators, many from our collection: https://t.co/cmVJ1q0gJH https://t.co/VkaODH09Rj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ColorOurCollections",
+						"indices": [
+							120,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BioDivLibrary",
+						"name": "BHL",
+						"id": 20813165,
+						"id_str": "20813165",
+						"indices": [
+							77,
+							91
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cmVJ1q0gJH",
+						"expanded_url": "https://s.si.edu/2DXIt6K",
+						"display_url": "s.si.edu/2DXIt6K",
+						"indices": [
+							205,
+							228
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1093591683604906000,
+						"id_str": "1093591683604905986",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/Dy0315aXgAIJ8iz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dy0315aXgAIJ8iz.jpg",
+						"url": "https://t.co/VkaODH09Rj",
+						"display_url": "pic.twitter.com/VkaODH09Rj",
+						"expanded_url": "https://twitter.com/SILibraries/status/1093591685584617473/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 595,
+								"h": 781,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 518,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 595,
+								"h": 781,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1093591683604906000,
+						"id_str": "1093591683604905986",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/Dy0315aXgAIJ8iz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dy0315aXgAIJ8iz.jpg",
+						"url": "https://t.co/VkaODH09Rj",
+						"display_url": "pic.twitter.com/VkaODH09Rj",
+						"expanded_url": "https://twitter.com/SILibraries/status/1093591685584617473/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 595,
+								"h": 781,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 518,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 595,
+								"h": 781,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": 1093580186434572300,
+			"in_reply_to_status_id_str": "1093580186434572288",
+			"in_reply_to_user_id": 15092914,
+			"in_reply_to_user_id_str": "15092914",
+			"in_reply_to_screen_name": "SILibraries",
+			"user": {
+				"id": 15092914,
+				"id_str": "15092914",
+				"name": "SmithsonianLibraries",
+				"screen_name": "SILibraries",
+				"location": "Washington, DC",
+				"description": "The world's largest museum library, based at the Smithsonian Institution. Legal: https://t.co/I5q5Tub1PR",
+				"url": "http://t.co/kbq7XhTeE7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kbq7XhTeE7",
+								"expanded_url": "http://library.si.edu/",
+								"display_url": "library.si.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/I5q5Tub1PR",
+								"expanded_url": "http://www.si.edu/Termsofuse",
+								"display_url": "si.edu/Termsofuse",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 64198,
+				"friends_count": 917,
+				"listed_count": 1920,
+				"created_at": "Thu Jun 12 03:57:19 +0000 2008",
+				"favourites_count": 3170,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12860,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/522032392748277760/4uCgF7UF_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/522032392748277760/4uCgF7UF_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15092914/1546007688",
+				"profile_link_color": "0592A5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A6E05C",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "nice https://t.co/3DQuBWXZoc"
+	},
+	{
+		"created_at": "Thu Feb 07 06:32:12 +0000 2019",
+		"id": 1093396995463499800,
+		"id_str": "1093984945536589824",
+		"full_text": "‘Recent yrs have seen a huge push by Aboriginal &amp; Torres Strait Islander communities to take agency of their culture, language, &amp; history.’\n\nRead the blog by Gunggari woman Hollie: https://t.co/0BStovsKbe \n\nLearn more @ our conference this wknd: https://t.co/1XcdOz8936  #IYIL2019 https://t.co/Q3Aw8kwS2G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IYIL2019",
+					"indices": [
+						279,
+						288
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0BStovsKbe",
+					"expanded_url": "http://nla.gov.au/stories/exhibitions/2019/02/06/living-voices",
+					"display_url": "nla.gov.au/stories/exhibi…",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/1XcdOz8936",
+					"expanded_url": "http://nla.gov.au/event/language-keepers-0",
+					"display_url": "nla.gov.au/event/language…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093396879176433700,
+					"id_str": "1093396879176433664",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/DyyGqyXVAAANx6q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyyGqyXVAAANx6q.jpg",
+					"url": "https://t.co/Q3Aw8kwS2G",
+					"display_url": "pic.twitter.com/Q3Aw8kwS2G",
+					"expanded_url": "https://twitter.com/nlagovau/status/1093396995463499778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1792,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093396879176433700,
+					"id_str": "1093396879176433664",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/DyyGqyXVAAANx6q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyyGqyXVAAANx6q.jpg",
+					"url": "https://t.co/Q3Aw8kwS2G",
+					"display_url": "pic.twitter.com/Q3Aw8kwS2G",
+					"expanded_url": "https://twitter.com/nlagovau/status/1093396995463499778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1792,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42354375,
+			"id_str": "42354375",
+			"name": "National Library Aus",
+			"screen_name": "nlagovau",
+			"location": "Canberra, Australia",
+			"description": "We collect, preserve and make accessible the best Australian stories. Read all about it.",
+			"url": "http://t.co/wb67iCGQsu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wb67iCGQsu",
+							"expanded_url": "http://www.nla.gov.au",
+							"display_url": "nla.gov.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41913,
+			"friends_count": 222,
+			"listed_count": 1000,
+			"created_at": "Mon May 25 05:09:03 +0000 2009",
+			"favourites_count": 7632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42354375/1537744316",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Recent yrs have seen a huge push by Aboriginal &amp; Torres Strait Islander communities to take agency of their culture, language, &amp; history.’\n\nRead the blog by Gunggari woman Hollie: https://t.co/0BStovsKbe \n\nLearn more @ our conference this wknd: https://t.co/1XcdOz8936  #IYIL2019 https://t.co/Q3Aw8kwS2G"
+	},
+	{
 		"created_at": "Fri Feb 08 00:15:16 +0000 2019",
 		"id": 1093664523368583200,
 		"id_str": "1093664523368583169",
