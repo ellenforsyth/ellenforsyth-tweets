@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 18:43:10 +0000 2019",
+		"id": 1093943335235059700,
+		"id_str": "1094354087338885120",
+		"full_text": "A while ago I wrote a thing about harmful language in description and cataloging and then my colleagues made it better and now it's on our website: https://t.co/ORNVwLTA4H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ORNVwLTA4H",
+					"expanded_url": "https://library.temple.edu/scrc/research/harmful-language",
+					"display_url": "library.temple.edu/scrc/research/…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15274817,
+			"id_str": "15274817",
+			"name": "Katy Rawdon ❄️",
+			"screen_name": "lemurchild",
+			"location": "Philadelphia-ish",
+			"description": "Archivist, librarian, feminist, sportsball enthusiast, poetess, writer of smoochy stories.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105,
+			"friends_count": 415,
+			"listed_count": 67,
+			"created_at": "Mon Jun 30 01:01:56 +0000 2008",
+			"favourites_count": 31934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19311,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092501643457937408/bFhxg3St_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092501643457937408/bFhxg3St_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15274817/1542909167",
+			"profile_link_color": "1477A1",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "080B0C",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A while ago I wrote a thing about harmful language in description and cataloging and then my colleagues made it better and now it's on our website: https://t.co/ORNVwLTA4H"
+	},
+	{
 		"created_at": "Sat Feb 09 04:45:57 +0000 2019",
 		"id": 1094095031051243500,
 		"id_str": "1094095031051243521",
