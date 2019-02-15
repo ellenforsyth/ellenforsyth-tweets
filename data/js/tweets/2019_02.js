@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 01:54:17 +0000 2019",
+		"id": 1096226155772801000,
+		"id_str": "1096264229416402944",
+		"full_text": "Never mind Valentines Day - 15 Feb is World Hippo Day! To celebrate, we've put together some of our favourite hippos of the internet, real and imagined. Here's a fearsome hippo as imagined in 1553 by Pierre Belon. For more, see our blog https://t.co/qsBZDOSOTU #hippoday https://t.co/c9jEvjRXok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hippoday",
+					"indices": [
+						261,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qsBZDOSOTU",
+					"expanded_url": "http://blogs.usyd.edu.au/sydneypublishing/2019/02/happy_world_hippo_day.html",
+					"display_url": "blogs.usyd.edu.au/sydneypublishi…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096225487884410900,
+					"id_str": "1096225487884410880",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/DzaTRe8UYAAXP5d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzaTRe8UYAAXP5d.jpg",
+					"url": "https://t.co/c9jEvjRXok",
+					"display_url": "pic.twitter.com/c9jEvjRXok",
+					"expanded_url": "https://twitter.com/SydneyUniPress/status/1096226155772801024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 571,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 571,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 571,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096225487884410900,
+					"id_str": "1096225487884410880",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/DzaTRe8UYAAXP5d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzaTRe8UYAAXP5d.jpg",
+					"url": "https://t.co/c9jEvjRXok",
+					"display_url": "pic.twitter.com/c9jEvjRXok",
+					"expanded_url": "https://twitter.com/SydneyUniPress/status/1096226155772801024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 571,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 571,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 571,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48606605,
+			"id_str": "48606605",
+			"name": "Sydney Uni Press",
+			"screen_name": "SydneyUniPress",
+			"location": "Sydney, Australia",
+			"description": "Publisher of new research in social sciences and humanities, and Australian classics. Tweets are meant to be informative and thought-provoking (RT ≠ E).",
+			"url": "http://t.co/cWS4MrZUDT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/cWS4MrZUDT",
+							"expanded_url": "http://sydney.edu.au/sup",
+							"display_url": "sydney.edu.au/sup",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6064,
+			"friends_count": 3621,
+			"listed_count": 270,
+			"created_at": "Fri Jun 19 04:16:39 +0000 2009",
+			"favourites_count": 319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6244,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0D0D08",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/344830501/SUP_logo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/344830501/SUP_logo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48606605/1496801563",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "F7FAF2",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Never mind Valentines Day - 15 Feb is World Hippo Day! To celebrate, we've put together some of our favourite hippos of the internet, real and imagined. Here's a fearsome hippo as imagined in 1553 by Pierre Belon. For more, see our blog https://t.co/qsBZDOSOTU #hippoday https://t.co/c9jEvjRXok"
+	},
+	{
+		"created_at": "Thu Feb 14 09:49:30 +0000 2019",
+		"id": 1095983363171721200,
+		"id_str": "1096111746119397376",
+		"full_text": "The full text of ‘Who belongs? Reading identity, ownership, and legitimacy’, my talk for #text2data last week, is now online. Includes slides, code, data &amp; more… #dhhacks https://t.co/OO278T9TvC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "text2data",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "dhhacks",
+					"indices": [
+						166,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OO278T9TvC",
+					"expanded_url": "https://timsherratt.org/blog/who-belongs/",
+					"display_url": "timsherratt.org/blog/who-belon…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://micro.blog/\" rel=\"nofollow\">Micro.blog</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18129652,
+			"id_str": "18129652",
+			"name": "Tim Sherratt",
+			"screen_name": "wragge",
+			"location": "Canberra, Australia",
+			"description": "Historian and hacker. Associate Professor of Digital Heritage, University of Canberra.",
+			"url": "https://t.co/Khu6oJWrGb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Khu6oJWrGb",
+							"expanded_url": "http://timsherratt.org",
+							"display_url": "timsherratt.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6625,
+			"friends_count": 3941,
+			"listed_count": 420,
+			"created_at": "Mon Dec 15 03:39:55 +0000 2008",
+			"favourites_count": 3203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32625,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817212580531798017/APWWFIMI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817212580531798017/APWWFIMI_normal.jpg",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The full text of ‘Who belongs? Reading identity, ownership, and legitimacy’, my talk for #text2data last week, is now online. Includes slides, code, data &amp; more… #dhhacks https://t.co/OO278T9TvC"
+	},
+	{
 		"created_at": "Thu Feb 14 05:57:07 +0000 2019",
 		"id": 1095924882297184300,
 		"id_str": "1095924882297184258",
