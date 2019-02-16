@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 14 15:00:28 +0000 2019",
+		"id": 1096061620130926600,
+		"id_str": "1096522075060105216",
+		"full_text": "Sesame Street is coming to the Library via the American Archive of Public Broadcasting. Nearly 4,500 digitized episodes of the groundbreaking children’s TV series have been donated to the archives &amp; will be available on-site. https://t.co/E8v3nvdUJP https://t.co/Sdb9e0YTlw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E8v3nvdUJP",
+					"expanded_url": "https://www.loc.gov/item/prn-19-019/?loclr=twloc",
+					"display_url": "loc.gov/item/prn-19-01…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096061617958281200,
+					"id_str": "1096061617958281223",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/DzX-O_5X4AcbWtt.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzX-O_5X4AcbWtt.png",
+					"url": "https://t.co/Sdb9e0YTlw",
+					"display_url": "pic.twitter.com/Sdb9e0YTlw",
+					"expanded_url": "https://twitter.com/librarycongress/status/1096061620130926593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 486,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 486,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096061617958281200,
+					"id_str": "1096061617958281223",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/DzX-O_5X4AcbWtt.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzX-O_5X4AcbWtt.png",
+					"url": "https://t.co/Sdb9e0YTlw",
+					"display_url": "pic.twitter.com/Sdb9e0YTlw",
+					"expanded_url": "https://twitter.com/librarycongress/status/1096061620130926593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 486,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 486,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7152572,
+			"id_str": "7152572",
+			"name": "Library of Congress",
+			"screen_name": "librarycongress",
+			"location": "Washington, DC",
+			"description": "World’s largest library. Explore collections, services & plan a visit. Follow @LibnOfCongress to meet Carla Hayden, 14th Librarian of Congress.",
+			"url": "http://t.co/Y59Fk0BSEE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Y59Fk0BSEE",
+							"expanded_url": "http://www.loc.gov",
+							"display_url": "loc.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1186073,
+			"friends_count": 11,
+			"listed_count": 15345,
+			"created_at": "Fri Jun 29 14:23:25 +0000 2007",
+			"favourites_count": 3563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031924537070428160/r_nQaWjy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031924537070428160/r_nQaWjy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7152572/1536611336",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "C5E0F1",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "6C6A6A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 229,
+		"favorite_count": 603,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sesame Street is coming to the Library via the American Archive of Public Broadcasting. Nearly 4,500 digitized episodes of the groundbreaking children’s TV series have been donated to the archives &amp; will be available on-site. https://t.co/E8v3nvdUJP https://t.co/Sdb9e0YTlw"
+	},
+	{
 		"created_at": "Fri Feb 15 01:54:17 +0000 2019",
 		"id": 1096226155772801000,
 		"id_str": "1096264229416402944",
