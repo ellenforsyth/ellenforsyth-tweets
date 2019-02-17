@@ -1,6 +1,802 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 16 21:46:18 +0000 2019",
+		"id": 1096888527931945000,
+		"id_str": "1096888527931944960",
+		"full_text": "Exploring the true history behind Game of Thrones at the National Museum of Scotland https://t.co/Pwg0UAxtWJ via @NtlMuseumsScot sounds a lot of fun",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NtlMuseumsScot",
+					"name": "National Museums Scotland",
+					"id": 95401304,
+					"id_str": "95401304",
+					"indices": [
+						113,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pwg0UAxtWJ",
+					"expanded_url": "https://blog.nms.ac.uk/2019/02/14/exploring-the-true-history-behind-game-of-thrones-at-the-national-museum-of-scotland/",
+					"display_url": "blog.nms.ac.uk/2019/02/14/exp…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2475,
+			"friends_count": 773,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exploring the true history behind Game of Thrones at the National Museum of Scotland https://t.co/Pwg0UAxtWJ via @NtlMuseumsScot sounds a lot of fun"
+	},
+	{
+		"created_at": "Sat Feb 16 21:43:16 +0000 2019",
+		"id": 1096887763402518500,
+		"id_str": "1096887763402518528",
+		"full_text": "Making the museum dementia friendly https://t.co/6ldrqOkzWW a useful post via @v_and_a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "V_and_A",
+					"name": "V&A",
+					"id": 18807671,
+					"id_str": "18807671",
+					"indices": [
+						78,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6ldrqOkzWW",
+					"expanded_url": "https://www.vam.ac.uk/blog/museum-life/making-the-museum-dementia-friendly",
+					"display_url": "vam.ac.uk/blog/museum-li…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2475,
+			"friends_count": 773,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Making the museum dementia friendly https://t.co/6ldrqOkzWW a useful post via @v_and_a"
+	},
+	{
+		"created_at": "Sat Feb 16 21:42:20 +0000 2019",
+		"id": 1096887526990667800,
+		"id_str": "1096887526990667777",
+		"full_text": "Love &amp; lust in the library https://t.co/WMaRWSYa93 via @nlagovau just catching up with this wonderful legal deposit post",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nlagovau",
+					"name": "National Library Aus",
+					"id": 42354375,
+					"id_str": "42354375",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WMaRWSYa93",
+					"expanded_url": "https://www.nla.gov.au/stories/behind-the-scenes/2019/02/13/love-lust-in-the-library",
+					"display_url": "nla.gov.au/stories/behind…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2475,
+			"friends_count": 773,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love &amp; lust in the library https://t.co/WMaRWSYa93 via @nlagovau just catching up with this wonderful legal deposit post"
+	},
+	{
+		"created_at": "Wed Feb 13 10:21:42 +0000 2019",
+		"id": 1095629078760226800,
+		"id_str": "1096885438688546816",
+		"full_text": "The term hacking is used to evoke a #participatory alternative to top-down #SmartCity #technology implementations. #Hacking suggests a novel logic to organise urban society. \"The hackable city\" a free #ebook :\nhttps://t.co/kmGApbv0Vb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "participatory",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"text": "SmartCity",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "technology",
+					"indices": [
+						86,
+						97
+					]
+				},
+				{
+					"text": "Hacking",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "ebook",
+					"indices": [
+						201,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kmGApbv0Vb",
+					"expanded_url": "https://www.springer.com/us/book/9789811326936",
+					"display_url": "springer.com/us/book/978981…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4830648545,
+			"id_str": "4830648545",
+			"name": "Faubourg Numérique",
+			"screen_name": "Hub_Faubourg",
+			"location": "Saint-Quentin, France",
+			"description": "@French_TechSTQ . Living Lab IoT projects: industry, smart agriculture & smart city. @IHub_eu FIWARE. Member of @iot_epi ,  @oascities, @StartUpEU",
+			"url": "https://t.co/r73CAEC8u7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r73CAEC8u7",
+							"expanded_url": "http://faubourgnumerique.com",
+							"display_url": "faubourgnumerique.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 720,
+			"friends_count": 1384,
+			"listed_count": 112,
+			"created_at": "Wed Jan 20 20:01:52 +0000 2016",
+			"favourites_count": 1476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 879,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/689903618074484740/etczGY1A_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/689903618074484740/etczGY1A_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4830648545/1542979261",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The term hacking is used to evoke a #participatory alternative to top-down #SmartCity #technology implementations. #Hacking suggests a novel logic to organise urban society. \"The hackable city\" a free #ebook :\nhttps://t.co/kmGApbv0Vb"
+	},
+	{
+		"created_at": "Sat Feb 16 21:31:42 +0000 2019",
+		"id": 1096884849938321400,
+		"id_str": "1096884849938321408",
+		"full_text": "I have just downloaded this - really appreciate that it is available. https://t.co/hAOJ2a999P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hAOJ2a999P",
+					"expanded_url": "https://twitter.com/mdelange/status/1093531937979936771",
+					"display_url": "twitter.com/mdelange/statu…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2475,
+			"friends_count": 773,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093531937979936800,
+		"quoted_status_id_str": "1093531937979936771",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hAOJ2a999P",
+			"expanded": "https://twitter.com/mdelange/status/1093531937979936771",
+			"display": "twitter.com/mdelange/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 07 15:28:25 +0000 2019",
+			"id": 1093531937979936800,
+			"id_str": "1093531937979936771",
+			"full_text": "Available now: #OpenAccess book \"The Playful Citizen\", eds. @TheLookingGlas @Sybille1 @mdelange @Raessens @imardevries https://t.co/H3H1BAeqI6 #playfulcitizen @OAmediascholar",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenAccess",
+						"indices": [
+							15,
+							26
+						]
+					},
+					{
+						"text": "playfulcitizen",
+						"indices": [
+							143,
+							158
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheLookingGlas",
+						"name": "René Glas",
+						"id": 33158481,
+						"id_str": "33158481",
+						"indices": [
+							60,
+							75
+						]
+					},
+					{
+						"screen_name": "Sybille1",
+						"name": "Sybille Lammes",
+						"id": 24343654,
+						"id_str": "24343654",
+						"indices": [
+							76,
+							85
+						]
+					},
+					{
+						"screen_name": "mdelange",
+						"name": "Michiel de Lange",
+						"id": 18135155,
+						"id_str": "18135155",
+						"indices": [
+							86,
+							95
+						]
+					},
+					{
+						"screen_name": "Raessens",
+						"name": "Joost Raessens",
+						"id": 48642923,
+						"id_str": "48642923",
+						"indices": [
+							96,
+							105
+						]
+					},
+					{
+						"screen_name": "imardevries",
+						"name": "Imar de Vries",
+						"id": 12540362,
+						"id_str": "12540362",
+						"indices": [
+							106,
+							118
+						]
+					},
+					{
+						"screen_name": "OAmediascholar",
+						"name": "Open Access in Media Studies",
+						"id": 799717948994818000,
+						"id_str": "799717948994818048",
+						"indices": [
+							159,
+							174
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/H3H1BAeqI6",
+						"expanded_url": "http://www.oapen.org/search?identifier=1004135",
+						"display_url": "oapen.org/search?identif…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18135155,
+				"id_str": "18135155",
+				"name": "Michiel de Lange",
+				"screen_name": "mdelange",
+				"location": "Amsterdam, The Netherlands",
+				"description": "Assistant Professor Media & Culture Studies Utrecht University | mobile media urban culture, identity, play | cofounder @themobilecity | https://t.co/fSf4Dbpx5v",
+				"url": "https://t.co/ka7eyC8Y5f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ka7eyC8Y5f",
+								"expanded_url": "https://www.uu.nl/staff/MLdeLange/0",
+								"display_url": "uu.nl/staff/MLdeLang…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fSf4Dbpx5v",
+								"expanded_url": "http://blog.bijt.org",
+								"display_url": "blog.bijt.org",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1918,
+				"friends_count": 2013,
+				"listed_count": 127,
+				"created_at": "Mon Dec 15 11:58:50 +0000 2008",
+				"favourites_count": 248,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2167,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3542945158/7076d0444bfcb65186ab1cd5f92f49c1_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3542945158/7076d0444bfcb65186ab1cd5f92f49c1_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have just downloaded this - really appreciate that it is available. https://t.co/hAOJ2a999P"
+	},
+	{
 		"created_at": "Thu Feb 14 15:00:28 +0000 2019",
 		"id": 1096061620130926600,
 		"id_str": "1096522075060105216",
