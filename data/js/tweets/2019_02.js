@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 20 18:07:35 +0000 2019",
+		"id": 1098283036662128600,
+		"id_str": "1098283036662128642",
+		"full_text": "great listening, and highlights the importance of collecting oral history about sport when telling the story of your community https://t.co/UwzVcJueFO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UwzVcJueFO",
+					"expanded_url": "https://twitter.com/NunnCenter/status/1097345586720690178",
+					"display_url": "twitter.com/NunnCenter/sta…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2470,
+			"friends_count": 774,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1097345586720690200,
+		"quoted_status_id_str": "1097345586720690178",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UwzVcJueFO",
+			"expanded": "https://twitter.com/NunnCenter/status/1097345586720690178",
+			"display": "twitter.com/NunnCenter/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 18 04:02:30 +0000 2019",
+			"id": 1097345586720690200,
+			"id_str": "1097345586720690178",
+			"full_text": "Listen to our interview with Effa Manley from our Desegregation of Major League Baseball #oralhistory project. Manley was 1st African American woman to own professional baseball team (Newark Eagles) and 1st woman  inducted into the Baseball Hall of Fame. https://t.co/eUNOc0J3aS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oralhistory",
+						"indices": [
+							89,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eUNOc0J3aS",
+						"expanded_url": "https://nunncenter.net/ohms-spokedb/render.php?cachefile=1977oh079_chan041_ohm.xml",
+						"display_url": "nunncenter.net/ohms-spokedb/r…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24750752,
+				"id_str": "24750752",
+				"name": "Nunn Center",
+				"screen_name": "NunnCenter",
+				"location": "University of Kentucky",
+				"description": "Louie B. Nunn Center for Oral History--Doug Boyd, Director",
+				"url": "http://t.co/cxhNBDhFGJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cxhNBDhFGJ",
+								"expanded_url": "http://www.uky.edu/libraries/nunncenter",
+								"display_url": "uky.edu/libraries/nunn…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1056,
+				"friends_count": 225,
+				"listed_count": 47,
+				"created_at": "Mon Mar 16 19:26:35 +0000 2009",
+				"favourites_count": 192,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 520,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0C104B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/687074147860611072/JS4LbRBp_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/687074147860611072/JS4LbRBp_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24750752/1480967328",
+				"profile_link_color": "271FC7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great listening, and highlights the importance of collecting oral history about sport when telling the story of your community https://t.co/UwzVcJueFO"
+	},
+	{
+		"created_at": "Wed Feb 20 18:00:04 +0000 2019",
+		"id": 1098281144011771900,
+		"id_str": "1098281144011771904",
+		"full_text": "Lesbians on the Loose  One of Australia's ground breaking magazines now online https://t.co/AxRMCbhm0p read this moving article about its influence via @nlagovau",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nlagovau",
+					"name": "National Library Aus",
+					"id": 42354375,
+					"id_str": "42354375",
+					"indices": [
+						152,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AxRMCbhm0p",
+					"expanded_url": "https://www.nla.gov.au/stories/trove/2019/02/20/lesbians-on-the-loose",
+					"display_url": "nla.gov.au/stories/trove/…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2470,
+			"friends_count": 774,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lesbians on the Loose  One of Australia's ground breaking magazines now online https://t.co/AxRMCbhm0p read this moving article about its influence via @nlagovau"
+	},
+	{
 		"created_at": "Tue Feb 19 19:16:34 +0000 2019",
 		"id": 1097938008668401700,
 		"id_str": "1097938008668401665",
