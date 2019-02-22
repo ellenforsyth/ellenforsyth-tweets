@@ -1,6 +1,835 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 13:42:56 +0000 2019",
+		"id": 1098578822402895900,
+		"id_str": "1098795610717663232",
+		"full_text": "When The Gruffalo has sold over 14 million copies and is even featured on a new coin, why is its co-creator Axel Scheffler so invisible in media coverage?\n\nWhat's the problem? WHY does it matter? What can we do about it? New blog: https://t.co/oaGRQAlYqj #PicturesMeanBusiness https://t.co/XdzXqCGlKj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PicturesMeanBusiness",
+					"indices": [
+						255,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oaGRQAlYqj",
+					"expanded_url": "https://jabberworks.livejournal.com/826064.html",
+					"display_url": "jabberworks.livejournal.com/826064.html",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098578091675435000,
+					"id_str": "1098578091675435009",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz7u9DBXQAEp6uF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz7u9DBXQAEp6uF.jpg",
+					"url": "https://t.co/XdzXqCGlKj",
+					"display_url": "pic.twitter.com/XdzXqCGlKj",
+					"expanded_url": "https://twitter.com/jabberworks/status/1098578822402895873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 255,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098578091675435000,
+					"id_str": "1098578091675435009",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz7u9DBXQAEp6uF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz7u9DBXQAEp6uF.jpg",
+					"url": "https://t.co/XdzXqCGlKj",
+					"display_url": "pic.twitter.com/XdzXqCGlKj",
+					"expanded_url": "https://twitter.com/jabberworks/status/1098578822402895873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 255,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38708614,
+			"id_str": "38708614",
+			"name": "Sarah McIntyre",
+			"screen_name": "jabberworks",
+			"location": "London",
+			"description": "New books! THE NEW NEIGHBOURS + THE LEGEND OF KEVIN with @philipreeve1. Drawing challenges @StudioTeaBreak Campaign https://t.co/HUecxZa6eg",
+			"url": "https://t.co/Z6qmi3WvgG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z6qmi3WvgG",
+							"expanded_url": "http://www.jabberworks.co.uk",
+							"display_url": "jabberworks.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HUecxZa6eg",
+							"expanded_url": "http://picturesmeanbusiness.com",
+							"display_url": "picturesmeanbusiness.com",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18150,
+			"friends_count": 4655,
+			"listed_count": 614,
+			"created_at": "Fri May 08 17:44:21 +0000 2009",
+			"favourites_count": 78135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108528,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040999185464602624/J9hOc7np_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040999185464602624/J9hOc7np_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38708614/1534610229",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCEA80",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 229,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When The Gruffalo has sold over 14 million copies and is even featured on a new coin, why is its co-creator Axel Scheffler so invisible in media coverage?\n\nWhat's the problem? WHY does it matter? What can we do about it? New blog: https://t.co/oaGRQAlYqj #PicturesMeanBusiness https://t.co/XdzXqCGlKj"
+	},
+	{
+		"created_at": "Thu Feb 21 01:16:00 +0000 2019",
+		"id": 1098390848620777500,
+		"id_str": "1098710074816487424",
+		"full_text": "JUST UPLOADED: @doctorow and I on the reasons for declining writer incomes, how to break Amazon’s dominance over the book market, and how Cory’s ebook platform 'Shut up and take my money' can help get authors a bigger share. \n\nhttps://t.co/RpQQGpz9nz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doctorow",
+					"name": "son of an asylum seeker, father of an immigrant",
+					"id": 2729061,
+					"id_str": "2729061",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RpQQGpz9nz",
+					"expanded_url": "https://authorsinterest.org/2019/02/21/cory-doctorow-on-declining-writer-incomes-breaking-amazons-dominance-and-getting-a-bigger-share-for-authors/",
+					"display_url": "authorsinterest.org/2019/02/21/cor…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 256823402,
+			"id_str": "256823402",
+			"name": "Rebecca Giblin",
+			"screen_name": "rgibli",
+			"location": "Melbourne again, mostly..!",
+			"description": "ARC Future Fellow working @ intersection of law & literary culture. Follow @authorsinterest; https://t.co/7F0m9v0Dhl; @elendingproject; https://t.co/OKgXwWoEJC.",
+			"url": "https://t.co/Fmhkp2CNZm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fmhkp2CNZm",
+							"expanded_url": "https://research.monash.edu/en/persons/rebecca-giblin",
+							"display_url": "research.monash.edu/en/persons/reb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7F0m9v0Dhl",
+							"expanded_url": "http://authorsinterest.org",
+							"display_url": "authorsinterest.org",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/OKgXwWoEJC",
+							"expanded_url": "http://elendingproject.org",
+							"display_url": "elendingproject.org",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2315,
+			"friends_count": 904,
+			"listed_count": 111,
+			"created_at": "Thu Feb 24 04:14:17 +0000 2011",
+			"favourites_count": 2404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A92731",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958457010575499264/lgO0V2-I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958457010575499264/lgO0V2-I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256823402/1538047138",
+			"profile_link_color": "83AFA5",
+			"profile_sidebar_border_color": "DDE1BE",
+			"profile_sidebar_fill_color": "C7D2B5",
+			"profile_text_color": "7E6060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JUST UPLOADED: @doctorow and I on the reasons for declining writer incomes, how to break Amazon’s dominance over the book market, and how Cory’s ebook platform 'Shut up and take my money' can help get authors a bigger share. \n\nhttps://t.co/RpQQGpz9nz"
+	},
+	{
+		"created_at": "Thu Feb 21 20:51:24 +0000 2019",
+		"id": 1098686648085180400,
+		"id_str": "1098686648085180416",
+		"full_text": "well worth a look at as it does not gloss over past problems https://t.co/YyZLNY2bXZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YyZLNY2bXZ",
+					"expanded_url": "https://twitter.com/LibraryJournal/status/1098685056963543042",
+					"display_url": "twitter.com/LibraryJournal…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Currently in Eora country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2471,
+			"friends_count": 774,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35364,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "B80707",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098685056963543000,
+		"quoted_status_id_str": "1098685056963543042",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YyZLNY2bXZ",
+			"expanded": "https://twitter.com/LibraryJournal/status/1098685056963543042",
+			"display": "twitter.com/LibraryJournal…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 21 20:45:04 +0000 2019",
+			"id": 1098685056963543000,
+			"id_str": "1098685056963543042",
+			"full_text": "A visual history of the American public library https://t.co/ZRZZED39hF  via @CityLab https://t.co/JLsplKjHrl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CityLab",
+						"name": "CityLab",
+						"id": 331803536,
+						"id_str": "331803536",
+						"indices": [
+							77,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZRZZED39hF",
+						"expanded_url": "http://ow.ly/uhSp30nMZWk",
+						"display_url": "ow.ly/uhSp30nMZWk",
+						"indices": [
+							48,
+							71
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1098685055470395400,
+						"id_str": "1098685055470395392",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz9QPKNX4AAAxOt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz9QPKNX4AAAxOt.jpg",
+						"url": "https://t.co/JLsplKjHrl",
+						"display_url": "pic.twitter.com/JLsplKjHrl",
+						"expanded_url": "https://twitter.com/LibraryJournal/status/1098685056963543042/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 1103,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 1103,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1098685055470395400,
+						"id_str": "1098685055470395392",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz9QPKNX4AAAxOt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz9QPKNX4AAAxOt.jpg",
+						"url": "https://t.co/JLsplKjHrl",
+						"display_url": "pic.twitter.com/JLsplKjHrl",
+						"expanded_url": "https://twitter.com/LibraryJournal/status/1098685056963543042/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 1103,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 1103,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15169290,
+				"id_str": "15169290",
+				"name": "Library Journal",
+				"screen_name": "LibraryJournal",
+				"location": "New York, NY",
+				"description": "Library views, news, and book reviews from LJ staffers",
+				"url": "http://t.co/WSOb61lYld",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WSOb61lYld",
+								"expanded_url": "http://www.libraryjournal.com",
+								"display_url": "libraryjournal.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 200679,
+				"friends_count": 364,
+				"listed_count": 6030,
+				"created_at": "Thu Jun 19 13:51:48 +0000 2008",
+				"favourites_count": 1853,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 32990,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5E9F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15169290/1539277524",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "6C6C6C",
+				"profile_sidebar_fill_color": "CBCDC5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "well worth a look at as it does not gloss over past problems https://t.co/YyZLNY2bXZ"
+	},
+	{
+		"created_at": "Thu Feb 21 00:45:00 +0000 2019",
+		"id": 1098383048343765000,
+		"id_str": "1098680589148872704",
+		"full_text": "You can read the new ALIA report 'Improving library services for Aboriginal and Torres Strait Islander peoples'.\n\nhttps://t.co/qi4DDC5KmW https://t.co/YQAtEIzgZk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qi4DDC5KmW",
+					"expanded_url": "http://bit.ly/2EjCKbx",
+					"display_url": "bit.ly/2EjCKbx",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098375522009018400,
+					"id_str": "1098375522009018368",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz42t8NU8AAbtsk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz42t8NU8AAbtsk.jpg",
+					"url": "https://t.co/YQAtEIzgZk",
+					"display_url": "pic.twitter.com/YQAtEIzgZk",
+					"expanded_url": "https://twitter.com/ALIANational/status/1098383048343764992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1132,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098375522009018400,
+					"id_str": "1098375522009018368",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz42t8NU8AAbtsk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz42t8NU8AAbtsk.jpg",
+					"url": "https://t.co/YQAtEIzgZk",
+					"display_url": "pic.twitter.com/YQAtEIzgZk",
+					"expanded_url": "https://twitter.com/ALIANational/status/1098383048343764992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1132,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43796164,
+			"id_str": "43796164",
+			"name": "Aust Lib & Info Assn",
+			"screen_name": "ALIANational",
+			"location": "Canberra, Australia",
+			"description": "Australia's peak body for library and information professionals - Australian Library and Information Association",
+			"url": "http://t.co/Vo7rN2KMEn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Vo7rN2KMEn",
+							"expanded_url": "http://www.alia.org.au",
+							"display_url": "alia.org.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10207,
+			"friends_count": 973,
+			"listed_count": 532,
+			"created_at": "Mon Jun 01 01:11:18 +0000 2009",
+			"favourites_count": 7802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23740,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000545938548/5b6097f515bfa4d032e528cf3a13ebdc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000545938548/5b6097f515bfa4d032e528cf3a13ebdc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43796164/1496018435",
+			"profile_link_color": "64CBC9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can read the new ALIA report 'Improving library services for Aboriginal and Torres Strait Islander peoples'.\n\nhttps://t.co/qi4DDC5KmW https://t.co/YQAtEIzgZk"
+	},
+	{
 		"created_at": "Wed Feb 20 18:07:35 +0000 2019",
 		"id": 1098283036662128600,
 		"id_str": "1098283036662128642",
