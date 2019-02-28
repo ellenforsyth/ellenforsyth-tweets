@@ -1,6 +1,127 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 26 01:10:04 +0000 2019",
+		"id": 1100201295644901400,
+		"id_str": "1100814541435355136",
+		"full_text": "Want to contribute to the guidelines on describing #Metadata for Services and related #Collections? Opportunity to give feedback on the good practice guide has been extended until 4 March 2019! Read more: https://t.co/9ZY0djPmH9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Metadata",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"text": "Collections",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ZY0djPmH9",
+					"expanded_url": "https://documentation.ands.org.au/display/DOC/Metadata+for+Services+and+related+Collections%3A+Good+Practice+Guide%3A+draft",
+					"display_url": "documentation.ands.org.au/display/DOC/Me…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 402333494,
+			"id_str": "402333494",
+			"name": "Australian Research Data Commons (ARDC)",
+			"screen_name": "ARDC_AU",
+			"location": "Australia",
+			"description": "The Australian Research Data Commons (ARDC) is built on ANDS, Nectar and RDS.",
+			"url": "https://t.co/6ND6QKDP0V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6ND6QKDP0V",
+							"expanded_url": "https://ardc.edu.au",
+							"display_url": "ardc.edu.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3328,
+			"friends_count": 1228,
+			"listed_count": 193,
+			"created_at": "Mon Oct 31 22:21:00 +0000 2011",
+			"favourites_count": 1525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6396,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073436004659355648/ap7JMXdl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073436004659355648/ap7JMXdl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/402333494/1545354049",
+			"profile_link_color": "F8F8FF",
+			"profile_sidebar_border_color": "000300",
+			"profile_sidebar_fill_color": "092902",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to contribute to the guidelines on describing #Metadata for Services and related #Collections? Opportunity to give feedback on the good practice guide has been extended until 4 March 2019! Read more: https://t.co/9ZY0djPmH9"
+	},
+	{
 		"created_at": "Tue Feb 26 09:59:35 +0000 2019",
 		"id": 1100334552713637900,
 		"id_str": "1100334552713637888",
