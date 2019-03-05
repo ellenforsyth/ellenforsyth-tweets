@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 18:55:11 +0000 2019",
+		"id": 1102643670216519700,
+		"id_str": "1102643670216519681",
+		"full_text": "Content unavailable webpage - how do you let your searchers know? https://t.co/xLtVO5qLXJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xLtVO5qLXJ",
+					"expanded_url": "https://ift.tt/2ENUegz",
+					"display_url": "ift.tt/2ENUegz",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2481,
+			"friends_count": 776,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35398,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Content unavailable webpage - how do you let your searchers know? https://t.co/xLtVO5qLXJ"
+	},
+	{
+		"created_at": "Mon Mar 04 18:38:56 +0000 2019",
+		"id": 1102639577632727000,
+		"id_str": "1102639577632727040",
+		"full_text": "@DrMattFinch @jewishmuseumVIE @MDAH_Official Important to keep making these comments as good examples in this space are rare. I will add those two to my ‘to visit’ list (much as it will be a while before I get near either). I find @SitesConscience useful to follow.",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrMattFinch",
+					"name": "Matt Finch",
+					"id": 258747765,
+					"id_str": "258747765",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "jewishmuseumVIE",
+					"name": "Jewish Museum Vienna",
+					"id": 225755943,
+					"id_str": "225755943",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "MDAH_Official",
+					"name": "MS Depart. of Archives & History",
+					"id": 918862802642538500,
+					"id_str": "918862802642538502",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "SitesConscience",
+					"name": "Sites of Conscience",
+					"id": 240818804,
+					"id_str": "240818804",
+					"indices": [
+						231,
+						247
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1102617177612582900,
+		"in_reply_to_status_id_str": "1102617177612582913",
+		"in_reply_to_user_id": 258747765,
+		"in_reply_to_user_id_str": "258747765",
+		"in_reply_to_screen_name": "DrMattFinch",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2481,
+			"friends_count": 776,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35398,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrMattFinch @jewishmuseumVIE @MDAH_Official Important to keep making these comments as good examples in this space are rare. I will add those two to my ‘to visit’ list (much as it will be a while before I get near either). I find @SitesConscience useful to follow."
+	},
+	{
+		"created_at": "Mon Mar 04 09:08:23 +0000 2019",
+		"id": 1102430086710456300,
+		"id_str": "1102495996972396544",
+		"full_text": "This is how massacres spread across Australia between 1794 and 1928. This is the #KillingTimes: the massacres of Aboriginal people Australia must confront https://t.co/GH2rKQPbIW #massacremap #thekillingtimes https://t.co/u8JGensFu3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KillingTimes",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"text": "massacremap",
+					"indices": [
+						179,
+						191
+					]
+				},
+				{
+					"text": "thekillingtimes",
+					"indices": [
+						192,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GH2rKQPbIW",
+					"expanded_url": "https://www.theguardian.com/australia-news/2019/mar/04/the-killing-times-the-massacres-of-aboriginal-people-australia-must-confront?CMP=soc_568",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102429989784322000,
+					"id_str": "1102429989784322048",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102429989784322048/pu/img/CL8D3qGp88nDF7zE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102429989784322048/pu/img/CL8D3qGp88nDF7zE.jpg",
+					"url": "https://t.co/u8JGensFu3",
+					"display_url": "pic.twitter.com/u8JGensFu3",
+					"expanded_url": "https://twitter.com/GuardianAus/status/1102430086710456320/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 648,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1068,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1068,
+							"h": 1120,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102429989784322000,
+					"id_str": "1102429989784322048",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1102429989784322048/pu/img/CL8D3qGp88nDF7zE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1102429989784322048/pu/img/CL8D3qGp88nDF7zE.jpg",
+					"url": "https://t.co/u8JGensFu3",
+					"display_url": "pic.twitter.com/u8JGensFu3",
+					"expanded_url": "https://twitter.com/GuardianAus/status/1102430086710456320/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 648,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1068,
+							"h": 1120,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1068,
+							"h": 1120,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							267,
+							280
+						],
+						"duration_millis": 20920,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102429989784322048/pu/vid/720x754/i8bFmYvGk9o_RgrK.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1102429989784322048/pu/pl/MvnzFrGTElUrqtLJ.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102429989784322048/pu/vid/360x376/OW4Iyt7_5gs4Ov7u.mp4?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1102429989784322048/pu/vid/320x334/VZehWl1yrOWA4WGN.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092378031,
+			"id_str": "1092378031",
+			"name": "Guardian Australia",
+			"screen_name": "GuardianAus",
+			"location": "Australia",
+			"description": "Latest news from Guardian Australia",
+			"url": "https://t.co/yhI6Vqsr3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhI6Vqsr3q",
+							"expanded_url": "https://support.theguardian.com/au/contribute",
+							"display_url": "support.theguardian.com/au/contribute",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184982,
+			"friends_count": 140,
+			"listed_count": 2277,
+			"created_at": "Tue Jan 15 15:16:44 +0000 2013",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 179671,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2AFA9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061908763169509376/dNslMkWo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061908763169509376/dNslMkWo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092378031/1542013739",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is how massacres spread across Australia between 1794 and 1928. This is the #KillingTimes: the massacres of Aboriginal people Australia must confront https://t.co/GH2rKQPbIW #massacremap #thekillingtimes https://t.co/u8JGensFu3"
+	},
+	{
 		"created_at": "Sun Mar 03 23:55:39 +0000 2019",
 		"id": 1102338006428471300,
 		"id_str": "1102356894625087489",
