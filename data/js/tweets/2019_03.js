@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 07 21:44:42 +0000 2019",
+		"id": 1103773493097713700,
+		"id_str": "1103773493097713665",
+		"full_text": "Pussyhats, period poverty, and Parliament: Improving gender balance in the collections https://t.co/sPiRNGFtRd via @te_papa some collection highlights",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Te_Papa",
+					"name": "Te Papa",
+					"id": 29090322,
+					"id_str": "29090322",
+					"indices": [
+						115,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sPiRNGFtRd",
+					"expanded_url": "https://blog.tepapa.govt.nz/2019/03/08/pussyhats-period-poverty-and-parliament-improving-gender-balance-in-the-collections/",
+					"display_url": "blog.tepapa.govt.nz/2019/03/08/pus…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2479,
+			"friends_count": 777,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35404,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pussyhats, period poverty, and Parliament: Improving gender balance in the collections https://t.co/sPiRNGFtRd via @te_papa some collection highlights"
+	},
+	{
+		"created_at": "Thu Mar 07 19:32:45 +0000 2019",
+		"id": 1102351195354607600,
+		"id_str": "1103740285312483330",
+		"full_text": "Conference papers and presentations are available online.\n\nChoose the session you would like to view, click on the speaker’s name documents will be available as downloads.\n\nPlease note not all speakers chose to submit papers or slides. \n\nhttps://t.co/LtRetaUY21",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LtRetaUY21",
+					"expanded_url": "http://bit.ly/2uJIuq5",
+					"display_url": "bit.ly/2uJIuq5",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 508563953,
+			"id_str": "508563953",
+			"name": "ALIA Info Online",
+			"screen_name": "ALIAonline",
+			"location": "Sydney, Australia",
+			"description": "Join us for the ALIA Information Online 2019 Conference held at @Hilton_Sydney || Monday 11 to Friday 15 February 2019 || #InfoOnline19 ||",
+			"url": "https://t.co/3jh2x0b0MH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3jh2x0b0MH",
+							"expanded_url": "http://informationonline.alia.org.au/",
+							"display_url": "informationonline.alia.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2426,
+			"friends_count": 229,
+			"listed_count": 70,
+			"created_at": "Wed Feb 29 08:08:16 +0000 2012",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1861,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "54585A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897695432587005952/t06o8d1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897695432587005952/t06o8d1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/508563953/1518411169",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Conference papers and presentations are available online.\n\nChoose the session you would like to view, click on the speaker’s name documents will be available as downloads.\n\nPlease note not all speakers chose to submit papers or slides. \n\nhttps://t.co/LtRetaUY21"
+	},
+	{
+		"created_at": "Thu Mar 07 19:31:00 +0000 2019",
+		"id": 1102694199869112300,
+		"id_str": "1103739847930494978",
+		"full_text": "The @elendingproject's first results paper is now live! 'Available - but not accessible?' shines new light on the availability, terms and pricing of ebooks to libraries in Australia, the US, UK, Canada and NZ. Download the full text:  https://t.co/aE77m5zIOl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elendingproject",
+					"name": "elendingproject",
+					"id": 1026637308391391200,
+					"id_str": "1026637308391391232",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aE77m5zIOl",
+					"expanded_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3346199",
+					"display_url": "papers.ssrn.com/sol3/papers.cf…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 256823402,
+			"id_str": "256823402",
+			"name": "Rebecca Giblin",
+			"screen_name": "rgibli",
+			"location": "Melbourne again, mostly..!",
+			"description": "ARC Future Fellow working @ intersection of law & literary culture. Follow @authorsinterest; https://t.co/7F0m9v0Dhl; @elendingproject; https://t.co/OKgXwWoEJC.",
+			"url": "https://t.co/Fmhkp2CNZm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fmhkp2CNZm",
+							"expanded_url": "https://research.monash.edu/en/persons/rebecca-giblin",
+							"display_url": "research.monash.edu/en/persons/reb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7F0m9v0Dhl",
+							"expanded_url": "http://authorsinterest.org",
+							"display_url": "authorsinterest.org",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/OKgXwWoEJC",
+							"expanded_url": "http://elendingproject.org",
+							"display_url": "elendingproject.org",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2324,
+			"friends_count": 912,
+			"listed_count": 111,
+			"created_at": "Thu Feb 24 04:14:17 +0000 2011",
+			"favourites_count": 2435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A92731",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958457010575499264/lgO0V2-I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958457010575499264/lgO0V2-I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256823402/1538047138",
+			"profile_link_color": "83AFA5",
+			"profile_sidebar_border_color": "DDE1BE",
+			"profile_sidebar_fill_color": "C7D2B5",
+			"profile_text_color": "7E6060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @elendingproject's first results paper is now live! 'Available - but not accessible?' shines new light on the availability, terms and pricing of ebooks to libraries in Australia, the US, UK, Canada and NZ. Download the full text:  https://t.co/aE77m5zIOl"
+	},
+	{
 		"created_at": "Tue Mar 05 10:59:04 +0000 2019",
 		"id": 1102886237348589600,
 		"id_str": "1102886237348589568",
