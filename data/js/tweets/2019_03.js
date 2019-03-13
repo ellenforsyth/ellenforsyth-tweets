@@ -1,6 +1,551 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 02:51:53 +0000 2019",
+		"id": 1103954016948518900,
+		"id_str": "1105662736258621440",
+		"full_text": "These stats are extraordinary - what a success story!  Congrats to @oodihelsinki https://t.co/KddwB3t6sZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oodihelsinki",
+					"name": "Keskustakirjasto Oodi",
+					"id": 994899114235256800,
+					"id_str": "994899114235256832",
+					"indices": [
+						67,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KddwB3t6sZ",
+					"expanded_url": "https://twitter.com/tommilaitio/status/1102574754261884928",
+					"display_url": "twitter.com/tommilaitio/st…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 534853449,
+			"id_str": "534853449",
+			"name": "Vicki McDonald",
+			"screen_name": "coffeemiss",
+			"location": "",
+			"description": "libraries | content | access and discovery | experiences | design | sharing | .....and coffee too! (all opinions are my own) Working at @slqld",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1273,
+			"friends_count": 541,
+			"listed_count": 131,
+			"created_at": "Fri Mar 23 22:21:42 +0000 2012",
+			"favourites_count": 6962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12021,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2790483161/6320423887380102d9c44a560fd40880_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2790483161/6320423887380102d9c44a560fd40880_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/534853449/1452417344",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102574754261884900,
+		"quoted_status_id_str": "1102574754261884928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KddwB3t6sZ",
+			"expanded": "https://twitter.com/tommilaitio/status/1102574754261884928",
+			"display": "twitter.com/tommilaitio/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 04 14:21:20 +0000 2019",
+			"id": 1102574754261884900,
+			"id_str": "1102574754261884928",
+			"full_text": "People need places. This is pretty incredible: #Helsinki´s new central #library @oodihelsinki has had 780 000 visitors in its first 3 months (by the end of February 2019) - in a city of 650 000 residents. @HelsinkiKuva #myhelsinki https://t.co/aLjzoiWnwR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Helsinki",
+						"indices": [
+							47,
+							56
+						]
+					},
+					{
+						"text": "library",
+						"indices": [
+							71,
+							79
+						]
+					},
+					{
+						"text": "myhelsinki",
+						"indices": [
+							219,
+							230
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "oodihelsinki",
+						"name": "Keskustakirjasto Oodi",
+						"id": 994899114235256800,
+						"id_str": "994899114235256832",
+						"indices": [
+							80,
+							93
+						]
+					},
+					{
+						"screen_name": "HelsinkiKuva",
+						"name": "Kulttuuri ja vapaa-aika",
+						"id": 2904830885,
+						"id_str": "2904830885",
+						"indices": [
+							205,
+							218
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1102574267001176000,
+						"id_str": "1102574267001176064",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/D00hdEMXgAAB9qE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D00hdEMXgAAB9qE.jpg",
+						"url": "https://t.co/aLjzoiWnwR",
+						"display_url": "pic.twitter.com/aLjzoiWnwR",
+						"expanded_url": "https://twitter.com/tommilaitio/status/1102574754261884928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1102574267001176000,
+						"id_str": "1102574267001176064",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/D00hdEMXgAAB9qE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D00hdEMXgAAB9qE.jpg",
+						"url": "https://t.co/aLjzoiWnwR",
+						"display_url": "pic.twitter.com/aLjzoiWnwR",
+						"expanded_url": "https://twitter.com/tommilaitio/status/1102574754261884928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31802128,
+				"id_str": "31802128",
+				"name": "Tommi Laitio",
+				"screen_name": "tommilaitio",
+				"location": "Helsinki, Finland",
+				"description": "@HelsinkiKuva toimialajohtaja. Executive Director #Helsinki, Culture and Leisure (Culture, Sports, Youth, Libraries).",
+				"url": "https://t.co/7b6tUCrmRr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7b6tUCrmRr",
+								"expanded_url": "http://tommilaitio.munstadi.fi",
+								"display_url": "tommilaitio.munstadi.fi",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8642,
+				"friends_count": 759,
+				"listed_count": 105,
+				"created_at": "Thu Apr 16 13:52:06 +0000 2009",
+				"favourites_count": 2593,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8376,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1096804388977426432/4gFQcjyI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096804388977426432/4gFQcjyI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31802128/1550333672",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 73,
+			"favorite_count": 227,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These stats are extraordinary - what a success story!  Congrats to @oodihelsinki https://t.co/KddwB3t6sZ"
+	},
+	{
+		"created_at": "Tue Mar 12 22:48:31 +0000 2019",
+		"id": 1105601493971828700,
+		"id_str": "1105601493971828736",
+		"full_text": "Brilliant https://t.co/TuWMStoH67",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TuWMStoH67",
+					"expanded_url": "https://twitter.com/abcnews/status/1105551883333132288",
+					"display_url": "twitter.com/abcnews/status…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2478,
+			"friends_count": 776,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35409,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105551883333132300,
+		"quoted_status_id_str": "1105551883333132288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TuWMStoH67",
+			"expanded": "https://twitter.com/abcnews/status/1105551883333132288",
+			"display": "twitter.com/abcnews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 12 19:31:23 +0000 2019",
+			"id": 1105551883333132300,
+			"id_str": "1105551883333132288",
+			"full_text": "Australia's ugly 90s websites will live forever in a new archive https://t.co/cV9APwKWqK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cV9APwKWqK",
+						"expanded_url": "https://www.abc.net.au/news/2019-03-13/australias-ugliest-90s-websites-are-archived/10894098",
+						"display_url": "abc.net.au/news/2019-03-1…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft PowerApps and Flow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2768501,
+				"id_str": "2768501",
+				"name": "ABC News",
+				"screen_name": "abcnews",
+				"location": "Australia",
+				"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+				"url": "http://t.co/knlFvfwxkf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/knlFvfwxkf",
+								"expanded_url": "http://www.abc.net.au/news",
+								"display_url": "abc.net.au/news",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1503442,
+				"friends_count": 1209,
+				"listed_count": 11814,
+				"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+				"favourites_count": 2833,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 285992,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1541643477",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "C8C8C8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brilliant https://t.co/TuWMStoH67"
+	},
+	{
 		"created_at": "Sat Mar 09 21:32:01 +0000 2019",
 		"id": 1104495077076852700,
 		"id_str": "1104495077076852736",
