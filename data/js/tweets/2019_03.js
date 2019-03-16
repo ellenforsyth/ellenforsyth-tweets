@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 20:21:49 +0000 2019",
+		"id": 1106383019483504600,
+		"id_str": "1106651736217915392",
+		"full_text": "Print books remain the most popular form of reading, with 67% of Americans having read a print book in the past year. https://t.co/DnlKxq4eI3 https://t.co/0LxhyPlPzv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DnlKxq4eI3",
+					"expanded_url": "https://pewrsr.ch/2If6Qgy",
+					"display_url": "pewrsr.ch/2If6Qgy",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1106383017390542800,
+					"id_str": "1106383017390542848",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D1qpfhEWkAA9abi.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1qpfhEWkAA9abi.png",
+					"url": "https://t.co/0LxhyPlPzv",
+					"display_url": "pic.twitter.com/0LxhyPlPzv",
+					"expanded_url": "https://twitter.com/pewresearch/status/1106383019483504640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 467,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 467,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 467,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106383017390542800,
+					"id_str": "1106383017390542848",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D1qpfhEWkAA9abi.png",
+					"media_url_https": "https://pbs.twimg.com/media/D1qpfhEWkAA9abi.png",
+					"url": "https://t.co/0LxhyPlPzv",
+					"display_url": "pic.twitter.com/0LxhyPlPzv",
+					"expanded_url": "https://twitter.com/pewresearch/status/1106383019483504640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 467,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 467,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 467,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22642788,
+			"id_str": "22642788",
+			"name": "Pew Research Center",
+			"screen_name": "pewresearch",
+			"location": "Washington, DC",
+			"description": "Nonpartisan, non-advocacy data and analysis on the issues, attitudes and trends shaping the world. Also follow @FactTank, our data blog.",
+			"url": "http://t.co/NpejxRVoNw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NpejxRVoNw",
+							"expanded_url": "http://pewresearch.org/",
+							"display_url": "pewresearch.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388831,
+			"friends_count": 91,
+			"listed_count": 13343,
+			"created_at": "Tue Mar 03 16:39:39 +0000 2009",
+			"favourites_count": 353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 70709,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EFEFEF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879728447026868228/U4Uzpdp6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879728447026868228/U4Uzpdp6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22642788/1494338667",
+			"profile_link_color": "0083B3",
+			"profile_sidebar_border_color": "DBE7ED",
+			"profile_sidebar_fill_color": "DBE7ED",
+			"profile_text_color": "525151",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Print books remain the most popular form of reading, with 67% of Americans having read a print book in the past year. https://t.co/DnlKxq4eI3 https://t.co/0LxhyPlPzv"
+	},
+	{
+		"created_at": "Fri Mar 15 20:20:59 +0000 2019",
+		"id": 1106026604902244400,
+		"id_str": "1106651528880967680",
+		"full_text": "Congratulations to the winners of the 2018 Indigenous STEM Awards https://t.co/Z6bvM7YUyc via @IndigenousXLtd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IndigenousXLtd",
+					"name": "IndigenousX Pty Ltd",
+					"id": 326765076,
+					"id_str": "326765076",
+					"indices": [
+						94,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z6bvM7YUyc",
+					"expanded_url": "http://bit.ly/2EYoLHn",
+					"display_url": "bit.ly/2EYoLHn",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 326765076,
+			"id_str": "326765076",
+			"name": "IndigenousX Pty Ltd",
+			"screen_name": "IndigenousXLtd",
+			"location": "Australia",
+			"description": "IndigenousX Pty Ltd is behind @IndigenousX & https://t.co/eJmojFdFHY and also offers a range of consulting and training services.",
+			"url": "https://t.co/RRulyGMipd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RRulyGMipd",
+							"expanded_url": "https://www.patreon.com/IndigenousX",
+							"display_url": "patreon.com/IndigenousX",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eJmojFdFHY",
+							"expanded_url": "http://IndigenousX.com.au",
+							"display_url": "IndigenousX.com.au",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33259,
+			"friends_count": 5655,
+			"listed_count": 371,
+			"created_at": "Thu Jun 30 13:11:41 +0000 2011",
+			"favourites_count": 23054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43061,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085387766735781888/nch3rbHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085387766735781888/nch3rbHt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326765076/1547611546",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to the winners of the 2018 Indigenous STEM Awards https://t.co/Z6bvM7YUyc via @IndigenousXLtd"
+	},
+	{
+		"created_at": "Fri Mar 15 20:20:15 +0000 2019",
+		"id": 1106039429855146000,
+		"id_str": "1106651344658751488",
+		"full_text": "I turned my Torres Strait Islander culture into a video game | Rhett Loban https://t.co/E3j4NM9vUX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E3j4NM9vUX",
+					"expanded_url": "https://trib.al/SPgkhHA",
+					"display_url": "trib.al/SPgkhHA",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092378031,
+			"id_str": "1092378031",
+			"name": "Guardian Australia",
+			"screen_name": "GuardianAus",
+			"location": "Australia",
+			"description": "Latest news from Guardian Australia",
+			"url": "https://t.co/yhI6Vqsr3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhI6Vqsr3q",
+							"expanded_url": "https://support.theguardian.com/au/contribute",
+							"display_url": "support.theguardian.com/au/contribute",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185626,
+			"friends_count": 140,
+			"listed_count": 2283,
+			"created_at": "Tue Jan 15 15:16:44 +0000 2013",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 180738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2AFA9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061908763169509376/dNslMkWo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061908763169509376/dNslMkWo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092378031/1542013739",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I turned my Torres Strait Islander culture into a video game | Rhett Loban https://t.co/E3j4NM9vUX"
+	},
+	{
 		"created_at": "Fri Mar 15 03:27:51 +0000 2019",
 		"id": 1106396565936062500,
 		"id_str": "1106396565936062467",
