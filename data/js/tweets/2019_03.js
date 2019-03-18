@@ -1,6 +1,160 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 18 04:46:15 +0000 2019",
+		"id": 1107448481117945900,
+		"id_str": "1107503460021202944",
+		"full_text": "How is your library responding to the #Christchurch attacks? We know you are experts in bringing your communities together. Send us photos of what you are doing so we can share and heal together: officeadmin@lianza.org.nz @lahatte @LIANZAPresident @tepaeatepaea @r_esson @bmacnz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Christchurch",
+					"indices": [
+						38,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lahatte",
+					"name": "Louise LaHatte",
+					"id": 29813922,
+					"id_str": "29813922",
+					"indices": [
+						222,
+						230
+					]
+				},
+				{
+					"screen_name": "LIANZAPresident",
+					"name": "LIANZA President",
+					"id": 2225880726,
+					"id_str": "2225880726",
+					"indices": [
+						231,
+						247
+					]
+				},
+				{
+					"screen_name": "tepaeatepaea",
+					"name": "Te Paea Paringatai",
+					"id": 632829516,
+					"id_str": "632829516",
+					"indices": [
+						248,
+						261
+					]
+				},
+				{
+					"screen_name": "r_esson",
+					"name": "Rachel Esson",
+					"id": 792174561299083300,
+					"id_str": "792174561299083264",
+					"indices": [
+						262,
+						270
+					]
+				},
+				{
+					"screen_name": "bmacnz",
+					"name": "Bill Macnaught",
+					"id": 230929784,
+					"id_str": "230929784",
+					"indices": [
+						271,
+						278
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117247211,
+			"id_str": "117247211",
+			"name": "LIANZA",
+			"screen_name": "lianzaoffice",
+			"location": "Wellington, NZ",
+			"description": "LIANZA (Library & Information Association NZ Aotearoa). Strengthening our members to be innovative & responsive to future information needs",
+			"url": "https://t.co/r3OcMci7Kb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3OcMci7Kb",
+							"expanded_url": "http://www.lianza.org.nz",
+							"display_url": "lianza.org.nz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3273,
+			"friends_count": 2618,
+			"listed_count": 174,
+			"created_at": "Thu Feb 25 00:49:57 +0000 2010",
+			"favourites_count": 8296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026656408677179392/6CKL-uPy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026656408677179392/6CKL-uPy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117247211/1533612601",
+			"profile_link_color": "2E8992",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "How is your library responding to the #Christchurch attacks? We know you are experts in bringing your communities together. Send us photos of what you are doing so we can share and heal together: officeadmin@lianza.org.nz @lahatte @LIANZAPresident @tepaeatepaea @r_esson @bmacnz"
+	},
+	{
 		"created_at": "Sat Mar 16 20:04:36 +0000 2019",
 		"id": 1107009793535819800,
 		"id_str": "1107009793535819777",
