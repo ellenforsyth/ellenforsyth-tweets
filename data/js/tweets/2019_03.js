@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 06:59:06 +0000 2019",
+		"id": 1107417512885391400,
+		"id_str": "1107899279023267840",
+		"full_text": "NEW from the @elendingproject team: 'What can 100,000 books tell us about the international public library e-lending landscape?' Our second scientific paper, now in press with open access journal Information Research. Download the full text: https://t.co/Ja3OgJoSkt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elendingproject",
+					"name": "elendingproject",
+					"id": 1026637308391391200,
+					"id_str": "1026637308391391232",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ja3OgJoSkt",
+					"expanded_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3354215",
+					"display_url": "papers.ssrn.com/sol3/papers.cf…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 256823402,
+			"id_str": "256823402",
+			"name": "Rebecca Giblin",
+			"screen_name": "rgibli",
+			"location": "Melbourne again, mostly..!",
+			"description": "ARC Future Fellow working @ intersection of law & literary culture. Follow @authorsinterest; https://t.co/7F0m9v0Dhl; @elendingproject; https://t.co/OKgXwWoEJC.",
+			"url": "https://t.co/Fmhkp2CNZm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fmhkp2CNZm",
+							"expanded_url": "https://research.monash.edu/en/persons/rebecca-giblin",
+							"display_url": "research.monash.edu/en/persons/reb…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7F0m9v0Dhl",
+							"expanded_url": "http://authorsinterest.org",
+							"display_url": "authorsinterest.org",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/OKgXwWoEJC",
+							"expanded_url": "http://elendingproject.org",
+							"display_url": "elendingproject.org",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2323,
+			"friends_count": 917,
+			"listed_count": 111,
+			"created_at": "Thu Feb 24 04:14:17 +0000 2011",
+			"favourites_count": 2460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7445,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A92731",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958457010575499264/lgO0V2-I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958457010575499264/lgO0V2-I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256823402/1538047138",
+			"profile_link_color": "83AFA5",
+			"profile_sidebar_border_color": "DDE1BE",
+			"profile_sidebar_fill_color": "C7D2B5",
+			"profile_text_color": "7E6060",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW from the @elendingproject team: 'What can 100,000 books tell us about the international public library e-lending landscape?' Our second scientific paper, now in press with open access journal Information Research. Download the full text: https://t.co/Ja3OgJoSkt"
+	},
+	{
+		"created_at": "Tue Mar 19 06:16:35 +0000 2019",
+		"id": 1107888581106905100,
+		"id_str": "1107888581106905088",
+		"full_text": "A few thoughts on The Feminist Reference Desk: Concepts, Critiques, and Conversations https://t.co/b01XwFHadx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b01XwFHadx",
+					"expanded_url": "https://ift.tt/2TfD5Af",
+					"display_url": "ift.tt/2TfD5Af",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2480,
+			"friends_count": 778,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35488,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A few thoughts on The Feminist Reference Desk: Concepts, Critiques, and Conversations https://t.co/b01XwFHadx"
+	},
+	{
+		"created_at": "Mon Mar 18 19:14:10 +0000 2019",
+		"id": 1107721877240184800,
+		"id_str": "1107721877240184832",
+		"full_text": "Recording of the week: Will Montgomery - Submarine - Sound and vision blog https://t.co/GTEmGTMq8w via @soundarchive this is wonderful",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soundarchive",
+					"name": "Sound Archive",
+					"id": 22028935,
+					"id_str": "22028935",
+					"indices": [
+						103,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GTEmGTMq8w",
+					"expanded_url": "https://shar.es/amdDHe",
+					"display_url": "shar.es/amdDHe",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2480,
+			"friends_count": 778,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35488,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Recording of the week: Will Montgomery - Submarine - Sound and vision blog https://t.co/GTEmGTMq8w via @soundarchive this is wonderful"
+	},
+	{
 		"created_at": "Mon Mar 18 04:46:15 +0000 2019",
 		"id": 1107448481117945900,
 		"id_str": "1107503460021202944",
