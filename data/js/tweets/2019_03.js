@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 20 08:33:52 +0000 2019",
+		"id": 1108236474586062800,
+		"id_str": "1108285514644217856",
+		"full_text": "Want to help Australia's frogs? Download the free #FrogID app on your smart phone &amp; record the calls of frogs anytime you hear them! This Peron's Tree Frog (Litoria peronii) agrees! https://t.co/DRd8Epfi38 #worldfrogday #WildOz @FrogIDAus @austmus @unswbees @UNSWScience https://t.co/TGh0EtMnwW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FrogID",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "worldfrogday",
+					"indices": [
+						210,
+						223
+					]
+				},
+				{
+					"text": "WildOz",
+					"indices": [
+						224,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FrogIDAus",
+					"name": "FrogID",
+					"id": 904933218754879500,
+					"id_str": "904933218754879488",
+					"indices": [
+						232,
+						242
+					]
+				},
+				{
+					"screen_name": "austmus",
+					"name": "Australian Museum",
+					"id": 20570871,
+					"id_str": "20570871",
+					"indices": [
+						243,
+						251
+					]
+				},
+				{
+					"screen_name": "unswbees",
+					"name": "UNSW BEES",
+					"id": 950592744426111000,
+					"id_str": "950592744426110976",
+					"indices": [
+						252,
+						261
+					]
+				},
+				{
+					"screen_name": "UNSWScience",
+					"name": "UNSW Science",
+					"id": 468825843,
+					"id_str": "468825843",
+					"indices": [
+						262,
+						274
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DRd8Epfi38",
+					"expanded_url": "http://www.frogid.net.au",
+					"display_url": "frogid.net.au",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1108110232989782000,
+					"id_str": "1108110232989782016",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108110232989782016/pu/img/wZragEenPvD7eqBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108110232989782016/pu/img/wZragEenPvD7eqBo.jpg",
+					"url": "https://t.co/TGh0EtMnwW",
+					"display_url": "pic.twitter.com/TGh0EtMnwW",
+					"expanded_url": "https://twitter.com/jodirowley/status/1108236474586062848/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108110232989782000,
+					"id_str": "1108110232989782016",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108110232989782016/pu/img/wZragEenPvD7eqBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108110232989782016/pu/img/wZragEenPvD7eqBo.jpg",
+					"url": "https://t.co/TGh0EtMnwW",
+					"display_url": "pic.twitter.com/TGh0EtMnwW",
+					"expanded_url": "https://twitter.com/jodirowley/status/1108236474586062848/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 3070,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1108110232989782016/pu/pl/-f419_5Rg_Do-8Iq.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108110232989782016/pu/vid/640x360/NfmEP3W2l8FY-jcq.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108110232989782016/pu/vid/1280x720/t8Nze9STh0TvUjmZ.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108110232989782016/pu/vid/320x180/uxw05Cg5FVkLml3y.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216979622,
+			"id_str": "216979622",
+			"name": "Jodi Rowley",
+			"screen_name": "jodirowley",
+			"location": "Australian Museum & UNSW",
+			"description": "Conservation #biologist obsessed with #amphibians. Chief Scientist at #FrogID. Searching for the Peppered Tree #Frog. @austmus & @UNSW. #SciComm. Views my own.",
+			"url": "https://t.co/WDoBwYhDYS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WDoBwYhDYS",
+							"expanded_url": "http://www.jodirowley.com",
+							"display_url": "jodirowley.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7337,
+			"friends_count": 1477,
+			"listed_count": 227,
+			"created_at": "Thu Nov 18 07:08:51 +0000 2010",
+			"favourites_count": 15315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9753,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E3B39",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816499907288711169/Au5kRUr3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816499907288711169/Au5kRUr3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216979622/1398342662",
+			"profile_link_color": "F0593E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "D4C8D4",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to help Australia's frogs? Download the free #FrogID app on your smart phone &amp; record the calls of frogs anytime you hear them! This Peron's Tree Frog (Litoria peronii) agrees! https://t.co/DRd8Epfi38 #worldfrogday #WildOz @FrogIDAus @austmus @unswbees @UNSWScience https://t.co/TGh0EtMnwW"
+	},
+	{
 		"created_at": "Wed Mar 20 04:51:12 +0000 2019",
 		"id": 1108229480986763300,
 		"id_str": "1108229480986763264",
