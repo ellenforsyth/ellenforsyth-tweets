@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 09:10:16 +0000 2019",
+		"id": 1108460463472283600,
+		"id_str": "1108657063800918017",
+		"full_text": "The Keeper Quarterly—a compendium of all the keepers featured (so far) on #KeeperoftheDay. Explore the collection at https://t.co/8UdbztvjL6 https://t.co/Ln9VAt9qx0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KeeperoftheDay",
+					"indices": [
+						74,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8UdbztvjL6",
+					"expanded_url": "http://kitchensisters.org/keeperoftheday",
+					"display_url": "kitchensisters.org/keeperoftheday",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1108460219397365800,
+					"id_str": "1108460219397365760",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108460219397365760/pu/img/zv6_ES_QOkXhenW4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108460219397365760/pu/img/zv6_ES_QOkXhenW4.jpg",
+					"url": "https://t.co/Ln9VAt9qx0",
+					"display_url": "pic.twitter.com/Ln9VAt9qx0",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1108460463472283648/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108460219397365800,
+					"id_str": "1108460219397365760",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108460219397365760/pu/img/zv6_ES_QOkXhenW4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108460219397365760/pu/img/zv6_ES_QOkXhenW4.jpg",
+					"url": "https://t.co/Ln9VAt9qx0",
+					"display_url": "pic.twitter.com/Ln9VAt9qx0",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1108460463472283648/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 39239,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108460219397365760/pu/vid/720x900/yB08i6ISsZ9Q7plM.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1108460219397365760/pu/pl/HYbetblJbSPSKbJo.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108460219397365760/pu/vid/360x450/TxEOET9DfK3-psYW.mp4?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108460219397365760/pu/vid/320x400/lnRwBmfVClib9jQb.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16459243,
+			"id_str": "16459243",
+			"name": "The Kitchen Sisters",
+			"screen_name": "kitchensisters",
+			"location": "San Francisco",
+			"description": "The Kitchen Sisters (Davia Nelson & Nikki Silva), producers of NPR's The Keepers, Hidden Kitchens, Hidden World of Girls & The Kitchen Sisters Present podcast",
+			"url": "http://t.co/AVmB8ffkDA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AVmB8ffkDA",
+							"expanded_url": "http://www.kitchensisters.org",
+							"display_url": "kitchensisters.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16128,
+			"friends_count": 3756,
+			"listed_count": 640,
+			"created_at": "Thu Sep 25 22:38:03 +0000 2008",
+			"favourites_count": 6692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9603,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16459243/1546894354",
+			"profile_link_color": "1EBBEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Keeper Quarterly—a compendium of all the keepers featured (so far) on #KeeperoftheDay. Explore the collection at https://t.co/8UdbztvjL6 https://t.co/Ln9VAt9qx0"
+	},
+	{
 		"created_at": "Wed Mar 20 08:33:52 +0000 2019",
 		"id": 1108236474586062800,
 		"id_str": "1108285514644217856",
