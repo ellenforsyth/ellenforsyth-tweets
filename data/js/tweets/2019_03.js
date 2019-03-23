@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 22 19:47:28 +0000 2019",
+		"id": 1109179808041189400,
+		"id_str": "1109179808041189376",
+		"full_text": "very interesting reading https://t.co/aVsWjVmoQb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aVsWjVmoQb",
+					"expanded_url": "https://twitter.com/LSEImpactBlog/status/1109077475299078150",
+					"display_url": "twitter.com/LSEImpactBlog/…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2482,
+			"friends_count": 785,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35523,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1109077475299078100,
+		"quoted_status_id_str": "1109077475299078150",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aVsWjVmoQb",
+			"expanded": "https://twitter.com/LSEImpactBlog/status/1109077475299078150",
+			"display": "twitter.com/LSEImpactBlog/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 22 13:00:50 +0000 2019",
+			"id": 1109077475299078100,
+			"id_str": "1109077475299078150",
+			"full_text": "“If you use social media then you are not working” - How do social scientists perceive altmetrics and online forms of scholarly communication? \n\n#phdchat #ecrchat https://t.co/y73QBWStvd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "phdchat",
+						"indices": [
+							145,
+							153
+						]
+					},
+					{
+						"text": "ecrchat",
+						"indices": [
+							154,
+							162
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y73QBWStvd",
+						"expanded_url": "https://wp.me/p4m9em-98e",
+						"display_url": "wp.me/p4m9em-98e",
+						"indices": [
+							163,
+							186
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273935884,
+				"id_str": "273935884",
+				"name": "LSE Impact Blog",
+				"screen_name": "LSEImpactBlog",
+				"location": "London",
+				"description": "A forum for those interested in increasing the impact of academic research on policy, society and business. Views are not those of the LSE.",
+				"url": "http://t.co/j2QGFYPVRs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/j2QGFYPVRs",
+								"expanded_url": "http://blogs.lse.ac.uk/impactofsocialsciences/",
+								"display_url": "blogs.lse.ac.uk/impactofsocial…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50004,
+				"friends_count": 4698,
+				"listed_count": 1745,
+				"created_at": "Tue Mar 29 12:17:04 +0000 2011",
+				"favourites_count": 1778,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30062,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908703729813254145/hfgw7Shs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908703729813254145/hfgw7Shs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/273935884/1465570717",
+				"profile_link_color": "9C6A5E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "very interesting reading https://t.co/aVsWjVmoQb"
+	},
+	{
+		"created_at": "Fri Mar 22 19:41:08 +0000 2019",
+		"id": 1109061805752619000,
+		"id_str": "1109178213794607104",
+		"full_text": "How diverse is your reading list? (Probably not very…) \nShout out to the #citingafrica blog @AfricaAtLSE \n\nhttps://t.co/GEG9mUqFqk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "citingafrica",
+					"indices": [
+						73,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AfricaAtLSE",
+					"name": "Africa@LSE",
+					"id": 296171455,
+					"id_str": "296171455",
+					"indices": [
+						92,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GEG9mUqFqk",
+					"expanded_url": "https://wp.me/p4m9em-98W",
+					"display_url": "wp.me/p4m9em-98W",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 273935884,
+			"id_str": "273935884",
+			"name": "LSE Impact Blog",
+			"screen_name": "LSEImpactBlog",
+			"location": "London",
+			"description": "A forum for those interested in increasing the impact of academic research on policy, society and business. Views are not those of the LSE.",
+			"url": "http://t.co/j2QGFYPVRs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/j2QGFYPVRs",
+							"expanded_url": "http://blogs.lse.ac.uk/impactofsocialsciences/",
+							"display_url": "blogs.lse.ac.uk/impactofsocial…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50004,
+			"friends_count": 4698,
+			"listed_count": 1745,
+			"created_at": "Tue Mar 29 12:17:04 +0000 2011",
+			"favourites_count": 1778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30062,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908703729813254145/hfgw7Shs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908703729813254145/hfgw7Shs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/273935884/1465570717",
+			"profile_link_color": "9C6A5E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How diverse is your reading list? (Probably not very…) \nShout out to the #citingafrica blog @AfricaAtLSE \n\nhttps://t.co/GEG9mUqFqk"
+	},
+	{
 		"created_at": "Thu Mar 21 09:10:16 +0000 2019",
 		"id": 1108460463472283600,
 		"id_str": "1108657063800918017",
