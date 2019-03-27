@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 06:53:36 +0000 2019",
+		"id": 1110726906876477400,
+		"id_str": "1110796999517863936",
+		"full_text": "Dorothea Eliza Smith's watercolors of fruits from the Lima (Peru) market (1850-53) include botanical details like cross-sections &amp; seed pods. @oak_spring explores the life &amp; contributions of this largely unknown botanical artist for #HerNaturalHistory: https://t.co/Xz0wyfjolX https://t.co/etjrfoXVUd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HerNaturalHistory",
+					"indices": [
+						241,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oak_spring",
+					"name": "Oak Spring Garden",
+					"id": 789467679170134000,
+					"id_str": "789467679170134016",
+					"indices": [
+						146,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xz0wyfjolX",
+					"expanded_url": "https://s.si.edu/2usAOba",
+					"display_url": "s.si.edu/2usAOba",
+					"indices": [
+						261,
+						284
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110726905123295200,
+					"id_str": "1110726905123295233",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/D2oYPD5X0AEGrIu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2oYPD5X0AEGrIu.jpg",
+					"url": "https://t.co/etjrfoXVUd",
+					"display_url": "pic.twitter.com/etjrfoXVUd",
+					"expanded_url": "https://twitter.com/BioDivLibrary/status/1110726906876477441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1194,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1194,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110726905123295200,
+					"id_str": "1110726905123295233",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/D2oYPD5X0AEGrIu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2oYPD5X0AEGrIu.jpg",
+					"url": "https://t.co/etjrfoXVUd",
+					"display_url": "pic.twitter.com/etjrfoXVUd",
+					"expanded_url": "https://twitter.com/BioDivLibrary/status/1110726906876477441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1194,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1194,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20813165,
+			"id_str": "20813165",
+			"name": "BHL",
+			"screen_name": "BioDivLibrary",
+			"location": "everywhere, all the time",
+			"description": "Biodiversity Heritage Library provides free & #openaccess to #biodiversity literature online. Legal: https://t.co/dJOZaQ7IFu",
+			"url": "http://t.co/uVc0sELg3X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uVc0sELg3X",
+							"expanded_url": "http://www.biodiversitylibrary.org",
+							"display_url": "biodiversitylibrary.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dJOZaQ7IFu",
+							"expanded_url": "http://s.si.edu/legal",
+							"display_url": "s.si.edu/legal",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22163,
+			"friends_count": 1411,
+			"listed_count": 1084,
+			"created_at": "Fri Feb 13 22:26:16 +0000 2009",
+			"favourites_count": 29761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32300,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1542638971/BHL_Small_Logo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542638971/BHL_Small_Logo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20813165/1479386651",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dorothea Eliza Smith's watercolors of fruits from the Lima (Peru) market (1850-53) include botanical details like cross-sections &amp; seed pods. @oak_spring explores the life &amp; contributions of this largely unknown botanical artist for #HerNaturalHistory: https://t.co/Xz0wyfjolX https://t.co/etjrfoXVUd"
+	},
+	{
 		"created_at": "Sun Mar 24 10:06:22 +0000 2019",
 		"id": 1109758343659176000,
 		"id_str": "1109758343659175937",
