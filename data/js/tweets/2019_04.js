@@ -1,6 +1,1322 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 20:19:47 +0000 2019",
+		"id": 1116073310171721700,
+		"id_str": "1116073310171721728",
+		"full_text": "Read Local eBooks - Edmonton Public Library https://t.co/ycVuU3sKpC via @EPLdotCA nice to see a promotion of local authors - and great for local studies too",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EPLdotCA",
+					"name": "Edm Public Library",
+					"id": 20818272,
+					"id_str": "20818272",
+					"indices": [
+						72,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ycVuU3sKpC",
+					"expanded_url": "https://www.epl.ca/?p=503168",
+					"display_url": "epl.ca/?p=503168",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2486,
+			"friends_count": 790,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35562,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read Local eBooks - Edmonton Public Library https://t.co/ycVuU3sKpC via @EPLdotCA nice to see a promotion of local authors - and great for local studies too"
+	},
+	{
+		"created_at": "Wed Apr 10 20:14:42 +0000 2019",
+		"id": 1116072031089356800,
+		"id_str": "1116072031089356800",
+		"full_text": "Designing Libraries - Grünerløkka Library: a toolkit for localism https://t.co/I8lQnui1Fa via @librarydesign and interesting refurbishment, I wonder what the acoustics are like?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "librarydesign",
+					"name": "Designing Libraries",
+					"id": 41336407,
+					"id_str": "41336407",
+					"indices": [
+						94,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I8lQnui1Fa",
+					"expanded_url": "http://designinglibraries.org.uk/index.asp?PageID=1595#.XK5OjQrNAJU.twitter",
+					"display_url": "designinglibraries.org.uk/index.asp?Page…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2486,
+			"friends_count": 790,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35562,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Designing Libraries - Grünerløkka Library: a toolkit for localism https://t.co/I8lQnui1Fa via @librarydesign and interesting refurbishment, I wonder what the acoustics are like?"
+	},
+	{
+		"created_at": "Wed Apr 10 20:12:58 +0000 2019",
+		"id": 1116071595020177400,
+		"id_str": "1116071595020177408",
+		"full_text": "hmm, very interesting, and there are more maps to look at too https://t.co/uwmzEOiNRK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uwmzEOiNRK",
+					"expanded_url": "https://twitter.com/OurWorldInData/status/1115901018854907905",
+					"display_url": "twitter.com/OurWorldInData…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2486,
+			"friends_count": 790,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35562,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115901018854907900,
+		"quoted_status_id_str": "1115901018854907905",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uwmzEOiNRK",
+			"expanded": "https://twitter.com/OurWorldInData/status/1115901018854907905",
+			"display": "twitter.com/OurWorldInData…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 10 08:55:09 +0000 2019",
+			"id": 1115901018854907900,
+			"id_str": "1115901018854907905",
+			"full_text": "Which are the most patient countries in the world?\n\nResearchers looked at willingness to postpone rewards to try to answer this question.\n\nSweden comes out on top.\n\nYou can find results &amp; overview here:\nhttps://t.co/xPkICTjs23 https://t.co/YjHAArcj2S",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xPkICTjs23",
+						"expanded_url": "https://ourworldindata.org/which-are-the-most-patient-countries-in-the-world",
+						"display_url": "ourworldindata.org/which-are-the-…",
+						"indices": [
+							207,
+							230
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1115900764608716800,
+						"id_str": "1115900764608716801",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/D3x51UcW4AE-JNb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3x51UcW4AE-JNb.jpg",
+						"url": "https://t.co/YjHAArcj2S",
+						"display_url": "pic.twitter.com/YjHAArcj2S",
+						"expanded_url": "https://twitter.com/OurWorldInData/status/1115901018854907905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 847,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1446,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1115900764608716800,
+						"id_str": "1115900764608716801",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/D3x51UcW4AE-JNb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3x51UcW4AE-JNb.jpg",
+						"url": "https://t.co/YjHAArcj2S",
+						"display_url": "pic.twitter.com/YjHAArcj2S",
+						"expanded_url": "https://twitter.com/OurWorldInData/status/1115901018854907905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 847,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1446,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3169963433,
+				"id_str": "3169963433",
+				"name": "Our World in Data",
+				"screen_name": "OurWorldInData",
+				"location": "Oxford, England",
+				"description": "Visualizing the long-term changes in our world – Tweeting the latest updates on our web publication – Based out of @UniOfOxford & founded by @MaxCRoser",
+				"url": "https://t.co/OdthyPjHDt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OdthyPjHDt",
+								"expanded_url": "http://www.OurWorldInData.org",
+								"display_url": "OurWorldInData.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32669,
+				"friends_count": 7,
+				"listed_count": 459,
+				"created_at": "Wed Apr 15 12:51:37 +0000 2015",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 82,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849966057934737408/GIyr_w-b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849966057934737408/GIyr_w-b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3169963433/1491483147",
+				"profile_link_color": "002147",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "hmm, very interesting, and there are more maps to look at too https://t.co/uwmzEOiNRK"
+	},
+	{
+		"created_at": "Wed Apr 10 20:07:58 +0000 2019",
+		"id": 1115985776356073500,
+		"id_str": "1116070335479074816",
+		"full_text": "Celebrating Citizen Science Day 2019, PT.3 https://t.co/hkf84cu04C https://t.co/IEinfbPnfn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hkf84cu04C",
+					"expanded_url": "http://blog.zooniverse.org/2019/04/10/celebrating-citizen-science-day-2019-pt-3/",
+					"display_url": "blog.zooniverse.org/2019/04/10/cel…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115985774418305000,
+					"id_str": "1115985774418305024",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/D3zHJiqXoAAV88r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3zHJiqXoAAV88r.jpg",
+					"url": "https://t.co/IEinfbPnfn",
+					"display_url": "pic.twitter.com/IEinfbPnfn",
+					"expanded_url": "https://twitter.com/the_zooniverse/status/1115985776356073472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 611,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115985774418305000,
+					"id_str": "1115985774418305024",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/D3zHJiqXoAAV88r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3zHJiqXoAAV88r.jpg",
+					"url": "https://t.co/IEinfbPnfn",
+					"display_url": "pic.twitter.com/IEinfbPnfn",
+					"expanded_url": "https://twitter.com/the_zooniverse/status/1115985776356073472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 611,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87899230,
+			"id_str": "87899230",
+			"name": "The Zooniverse",
+			"screen_name": "the_zooniverse",
+			"location": "Zooniverse HQ",
+			"description": "The world's largest and most successful citizen science organisation. Our projects include Galaxy Zoo, Old Weather, Planet Hunters, Snapshot Serengeti & more.",
+			"url": "http://t.co/iU1deWtR4a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iU1deWtR4a",
+							"expanded_url": "http://zooniverse.org",
+							"display_url": "zooniverse.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19897,
+			"friends_count": 872,
+			"listed_count": 795,
+			"created_at": "Fri Nov 06 08:45:48 +0000 2009",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685085534251790336/BCv9jjBW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685085534251790336/BCv9jjBW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87899230/1389704414",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Celebrating Citizen Science Day 2019, PT.3 https://t.co/hkf84cu04C https://t.co/IEinfbPnfn"
+	},
+	{
+		"created_at": "Wed Apr 10 20:07:51 +0000 2019",
+		"id": 1115643672983478300,
+		"id_str": "1116070306009870336",
+		"full_text": "Celebrating citizen science day 2019, PT.2 https://t.co/Eg9JvyTbQI https://t.co/oH1vlpXZue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Eg9JvyTbQI",
+					"expanded_url": "http://blog.zooniverse.org/2019/04/09/celebrating-citizen-science-day-2019-pt-2/",
+					"display_url": "blog.zooniverse.org/2019/04/09/cel…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115643670542344200,
+					"id_str": "1115643670542344199",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/D3uQAeaW4Ac6M6O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3uQAeaW4Ac6M6O.jpg",
+					"url": "https://t.co/oH1vlpXZue",
+					"display_url": "pic.twitter.com/oH1vlpXZue",
+					"expanded_url": "https://twitter.com/the_zooniverse/status/1115643672983478272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1015,
+							"h": 734,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1015,
+							"h": 734,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115643670542344200,
+					"id_str": "1115643670542344199",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/D3uQAeaW4Ac6M6O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3uQAeaW4Ac6M6O.jpg",
+					"url": "https://t.co/oH1vlpXZue",
+					"display_url": "pic.twitter.com/oH1vlpXZue",
+					"expanded_url": "https://twitter.com/the_zooniverse/status/1115643672983478272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1015,
+							"h": 734,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1015,
+							"h": 734,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87899230,
+			"id_str": "87899230",
+			"name": "The Zooniverse",
+			"screen_name": "the_zooniverse",
+			"location": "Zooniverse HQ",
+			"description": "The world's largest and most successful citizen science organisation. Our projects include Galaxy Zoo, Old Weather, Planet Hunters, Snapshot Serengeti & more.",
+			"url": "http://t.co/iU1deWtR4a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iU1deWtR4a",
+							"expanded_url": "http://zooniverse.org",
+							"display_url": "zooniverse.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19897,
+			"friends_count": 872,
+			"listed_count": 795,
+			"created_at": "Fri Nov 06 08:45:48 +0000 2009",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685085534251790336/BCv9jjBW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685085534251790336/BCv9jjBW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87899230/1389704414",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Celebrating citizen science day 2019, PT.2 https://t.co/Eg9JvyTbQI https://t.co/oH1vlpXZue"
+	},
+	{
+		"created_at": "Wed Apr 10 20:07:44 +0000 2019",
+		"id": 1115343451019784200,
+		"id_str": "1116070279212556289",
+		"full_text": "Celebrating Citizen Science Day 2019, pt. 1 https://t.co/wsPw7toUr3 https://t.co/91ZehlfYT1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wsPw7toUr3",
+					"expanded_url": "http://blog.zooniverse.org/2019/04/08/celebrating-citizen-science-day-2019-pt-1/",
+					"display_url": "blog.zooniverse.org/2019/04/08/cel…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115343449153245200,
+					"id_str": "1115343449153245184",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D3p-9SlWkAAF-zz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3p-9SlWkAAF-zz.jpg",
+					"url": "https://t.co/91ZehlfYT1",
+					"display_url": "pic.twitter.com/91ZehlfYT1",
+					"expanded_url": "https://twitter.com/the_zooniverse/status/1115343451019784203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115343449153245200,
+					"id_str": "1115343449153245184",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D3p-9SlWkAAF-zz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3p-9SlWkAAF-zz.jpg",
+					"url": "https://t.co/91ZehlfYT1",
+					"display_url": "pic.twitter.com/91ZehlfYT1",
+					"expanded_url": "https://twitter.com/the_zooniverse/status/1115343451019784203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 563,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87899230,
+			"id_str": "87899230",
+			"name": "The Zooniverse",
+			"screen_name": "the_zooniverse",
+			"location": "Zooniverse HQ",
+			"description": "The world's largest and most successful citizen science organisation. Our projects include Galaxy Zoo, Old Weather, Planet Hunters, Snapshot Serengeti & more.",
+			"url": "http://t.co/iU1deWtR4a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iU1deWtR4a",
+							"expanded_url": "http://zooniverse.org",
+							"display_url": "zooniverse.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19897,
+			"friends_count": 872,
+			"listed_count": 795,
+			"created_at": "Fri Nov 06 08:45:48 +0000 2009",
+			"favourites_count": 860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685085534251790336/BCv9jjBW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685085534251790336/BCv9jjBW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87899230/1389704414",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Celebrating Citizen Science Day 2019, pt. 1 https://t.co/wsPw7toUr3 https://t.co/91ZehlfYT1"
+	},
+	{
+		"created_at": "Wed Apr 10 20:05:23 +0000 2019",
+		"id": 1116069685106057200,
+		"id_str": "1116069685106057217",
+		"full_text": "Why we're making the age of our journalism clearer at the Guardian https://t.co/g0JU5FbnfD via @guardian helpful",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						95,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g0JU5FbnfD",
+					"expanded_url": "https://www.theguardian.com/help/insideguardian/2019/apr/02/why-were-making-the-age-of-our-journalism-clearer?CMP=share_btn_tw",
+					"display_url": "theguardian.com/help/insidegua…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2486,
+			"friends_count": 790,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35562,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why we're making the age of our journalism clearer at the Guardian https://t.co/g0JU5FbnfD via @guardian helpful"
+	},
+	{
+		"created_at": "Wed Apr 10 18:55:17 +0000 2019",
+		"id": 1116052044094173200,
+		"id_str": "1116052044094173184",
+		"full_text": "'We're seeing the unseeable': Scientists reveal first image of a black hole via ⁦@abcnews⁩  https://t.co/C3ecXux5lA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						81,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C3ecXux5lA",
+					"expanded_url": "http://www.abc.net.au/news/science/2019-04-10/black-hole-event-horizon-telescope-announcement-astrophysics/10989534",
+					"display_url": "abc.net.au/news/science/2…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2486,
+			"friends_count": 790,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 4999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35562,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'We're seeing the unseeable': Scientists reveal first image of a black hole via ⁦@abcnews⁩  https://t.co/C3ecXux5lA"
+	},
+	{
 		"created_at": "Tue Apr 09 19:57:54 +0000 2019",
 		"id": 1115484793808941000,
 		"id_str": "1115705414862163969",
