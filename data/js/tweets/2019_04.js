@@ -1,6 +1,159 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 20:14:15 +0000 2019",
+		"id": 1117003751309529100,
+		"id_str": "1117883856915316736",
+		"full_text": "It's our 10th Wild Pollinator Count! Just in time for #CitizenScienceDay. Join in any time this week from anywhere in Australia to contribute #ozpollinators observations @KarenRetra #wildoz #CitSciDay2019 #citsci https://t.co/aXL1JwfQ9t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CitizenScienceDay",
+					"indices": [
+						54,
+						72
+					]
+				},
+				{
+					"text": "ozpollinators",
+					"indices": [
+						142,
+						156
+					]
+				},
+				{
+					"text": "wildoz",
+					"indices": [
+						182,
+						189
+					]
+				},
+				{
+					"text": "CitSciDay2019",
+					"indices": [
+						190,
+						204
+					]
+				},
+				{
+					"text": "citsci",
+					"indices": [
+						205,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KarenRetra",
+					"name": "Karen Retra",
+					"id": 143773648,
+					"id_str": "143773648",
+					"indices": [
+						170,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aXL1JwfQ9t",
+					"expanded_url": "https://wildpollinatorcount.com/2019/04/13/its-autumn-count-time/",
+					"display_url": "wildpollinatorcount.com/2019/04/13/its…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2574559213,
+			"id_str": "2574559213",
+			"name": "Dr Manu Saunders",
+			"screen_name": "ManuSaunders",
+			"location": "Armidale, New South Wales",
+			"description": "Community Ecologist @UniNewEngland. Insects | Ecosystem Services | Networks | Agroecology | Natural History | #SciComm | #Ozpollinators",
+			"url": "https://t.co/UJIHYWQ9ae",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UJIHYWQ9ae",
+							"expanded_url": "http://ecologyisnotadirtyword.com",
+							"display_url": "ecologyisnotadirtyword.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5533,
+			"friends_count": 2870,
+			"listed_count": 222,
+			"created_at": "Wed Jun 18 09:59:16 +0000 2014",
+			"favourites_count": 25368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15793,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0466F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964761319487324162/vnkxNMiR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964761319487324162/vnkxNMiR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2574559213/1545294591",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's our 10th Wild Pollinator Count! Just in time for #CitizenScienceDay. Join in any time this week from anywhere in Australia to contribute #ozpollinators observations @KarenRetra #wildoz #CitSciDay2019 #citsci https://t.co/aXL1JwfQ9t"
+	},
+	{
 		"created_at": "Sun Apr 14 11:07:10 +0000 2019",
 		"id": 1117383792262434800,
 		"id_str": "1117383792262434817",
