@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 20:15:04 +0000 2019",
+		"id": 1116743480548778000,
+		"id_str": "1118246452399083522",
+		"full_text": "How can academic librarians support scholars who put Indigenous perspectives at the center of inquiry? Excited to announce that today @IthakaSR published When Research is Relational Supporting the Research Practices of Indigenous Studies Scholars https://t.co/lZYGmnXAG6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IthakaSR",
+					"name": "Ithaka S+R",
+					"id": 54889245,
+					"id_str": "54889245",
+					"indices": [
+						134,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lZYGmnXAG6",
+					"expanded_url": "https://sr.ithaka.org/publications/supporting-the-research-practices-of-indigenous-studies-scholars/",
+					"display_url": "sr.ithaka.org/publications/s…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1435741686,
+			"id_str": "1435741686",
+			"name": "Danielle Cooper",
+			"screen_name": "dm_cooper",
+			"location": "New York City",
+			"description": "Senior Researcher @IthakaSR focusing on information practices in higher-ed & cultural organizations; Slow twitter practitioner 🐢💻🐌",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1343,
+			"friends_count": 992,
+			"listed_count": 31,
+			"created_at": "Fri May 17 14:09:46 +0000 2013",
+			"favourites_count": 3166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F590E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/887411133870735360/1NKvxFEL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/887411133870735360/1NKvxFEL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1435741686/1439601346",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How can academic librarians support scholars who put Indigenous perspectives at the center of inquiry? Excited to announce that today @IthakaSR published When Research is Relational Supporting the Research Practices of Indigenous Studies Scholars https://t.co/lZYGmnXAG6"
+	},
+	{
 		"created_at": "Mon Apr 15 20:14:15 +0000 2019",
 		"id": 1117003751309529100,
 		"id_str": "1117883856915316736",
