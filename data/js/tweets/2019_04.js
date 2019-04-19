@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 20:57:54 +0000 2019",
+		"id": 1118982005482328000,
+		"id_str": "1118982005482328064",
+		"full_text": "News organizations have all but abandoned their archives https://t.co/7P1VX8TQb9 via @boingboing - make sure you click through and read the report as well",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoingBoing",
+					"name": "Boing Boing",
+					"id": 5971922,
+					"id_str": "5971922",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7P1VX8TQb9",
+					"expanded_url": "https://boingboing.net/2019/04/04/the-memory-hole-2.html",
+					"display_url": "boingboing.net/2019/04/04/the…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2488,
+			"friends_count": 792,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35581,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "News organizations have all but abandoned their archives https://t.co/7P1VX8TQb9 via @boingboing - make sure you click through and read the report as well"
+	},
+	{
+		"created_at": "Thu Apr 18 20:53:13 +0000 2019",
+		"id": 1118892170084257800,
+		"id_str": "1118980828829106176",
+		"full_text": "new #BLdigital blog post by @giugimonogatari about collecting emerging formats https://t.co/yUUxnMj29k @Contemporary_BL @BL_DigiSchol @IanCooke13 @CaylinSSmith @mopennock @Notagoth @_jerryjenkins @pressfuturist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLdigital",
+					"indices": [
+						4,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "giugimonogatari",
+					"name": "Giulia C Rossi",
+					"id": 44106928,
+					"id_str": "44106928",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "Contemporary_BL",
+					"name": "Contemporary_BL",
+					"id": 701819935111123000,
+					"id_str": "701819935111122949",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"screen_name": "BL_DigiSchol",
+					"name": "Digital Scholarship",
+					"id": 744814089172455400,
+					"id_str": "744814089172455424",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"screen_name": "IanCooke13",
+					"name": "Ian Cooke",
+					"id": 990545664,
+					"id_str": "990545664",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"screen_name": "CaylinSSmith",
+					"name": "Caylin Smith",
+					"id": 167967494,
+					"id_str": "167967494",
+					"indices": [
+						146,
+						159
+					]
+				},
+				{
+					"screen_name": "mopennock",
+					"name": "Maureen Pennock",
+					"id": 200005386,
+					"id_str": "200005386",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"screen_name": "Notagoth",
+					"name": "Lynda Clark",
+					"id": 19528182,
+					"id_str": "19528182",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"screen_name": "_jerryjenkins",
+					"name": "Jerry Jenkins 🇪🇺",
+					"id": 436722350,
+					"id_str": "436722350",
+					"indices": [
+						181,
+						195
+					]
+				},
+				{
+					"screen_name": "pressfuturist",
+					"name": "Alastair Horne",
+					"id": 31697976,
+					"id_str": "31697976",
+					"indices": [
+						196,
+						210
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yUUxnMj29k",
+					"expanded_url": "https://blogs.bl.uk/digital-scholarship/2019/04/collecting-emerging-formats.html",
+					"display_url": "blogs.bl.uk/digital-schola…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24890687,
+			"id_str": "24890687",
+			"name": "Stella Wisdom",
+			"screen_name": "miss_wisdom",
+			"location": "London, UK",
+			"description": "Digital Curator for @Contemporary_BL @britishlibrary",
+			"url": "https://t.co/jnVOlIQUPV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jnVOlIQUPV",
+							"expanded_url": "http://britishlibrary.typepad.co.uk/digital-scholarship/",
+							"display_url": "britishlibrary.typepad.co.uk/digital-schola…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3383,
+			"friends_count": 4727,
+			"listed_count": 129,
+			"created_at": "Tue Mar 17 14:40:39 +0000 2009",
+			"favourites_count": 2603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5240,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946462307/lib_for_twitter_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946462307/lib_for_twitter_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24890687/1414770819",
+			"profile_link_color": "D6160F",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "new #BLdigital blog post by @giugimonogatari about collecting emerging formats https://t.co/yUUxnMj29k @Contemporary_BL @BL_DigiSchol @IanCooke13 @CaylinSSmith @mopennock @Notagoth @_jerryjenkins @pressfuturist"
+	},
+	{
 		"created_at": "Wed Apr 17 19:56:40 +0000 2019",
 		"id": 1118287990000947200,
 		"id_str": "1118604207030857729",
