@@ -1,6 +1,780 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 20:58:31 +0000 2019",
+		"id": 1118904034512052200,
+		"id_str": "1119344550177148928",
+		"full_text": "🚨 This year the 2019 #RSFIndex reflects a world where verbal attacks against journalists have degenerated into violence, contributing to an increase in fear. The number of countries regarded as safe has declined. Authoritarian regimes tighten their grip. https://t.co/TnpoFDBu5W https://t.co/OLpuxprhZ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RSFIndex",
+					"indices": [
+						21,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TnpoFDBu5W",
+					"expanded_url": "http://bit.ly/2VaCiWq",
+					"display_url": "bit.ly/2VaCiWq",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118901231332876300,
+					"id_str": "1118901231332876288",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D4civeBX4AAhkLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4civeBX4AAhkLW.jpg",
+					"url": "https://t.co/OLpuxprhZ9",
+					"display_url": "pic.twitter.com/OLpuxprhZ9",
+					"expanded_url": "https://twitter.com/RSF_en/status/1118904034512052224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1468,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 860,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118901231332876300,
+					"id_str": "1118901231332876288",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D4civeBX4AAhkLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4civeBX4AAhkLW.jpg",
+					"url": "https://t.co/OLpuxprhZ9",
+					"display_url": "pic.twitter.com/OLpuxprhZ9",
+					"expanded_url": "https://twitter.com/RSF_en/status/1118904034512052224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1468,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 860,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710179663281320000,
+			"id_str": "710179663281319938",
+			"name": "RSF in English",
+			"screen_name": "RSF_en",
+			"location": "",
+			"description": "Official account of Reporters Without Borders (RSF). We fight for press freedom all over the world.",
+			"url": "https://t.co/FNpIDnSNxl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FNpIDnSNxl",
+							"expanded_url": "http://en.rsf.org",
+							"display_url": "en.rsf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14449,
+			"friends_count": 974,
+			"listed_count": 409,
+			"created_at": "Wed Mar 16 19:03:21 +0000 2016",
+			"favourites_count": 3159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8513,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/710189930748764162/O74x73vy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/710189930748764162/O74x73vy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710179663281319938/1555601588",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨 This year the 2019 #RSFIndex reflects a world where verbal attacks against journalists have degenerated into violence, contributing to an increase in fear. The number of countries regarded as safe has declined. Authoritarian regimes tighten their grip. https://t.co/TnpoFDBu5W https://t.co/OLpuxprhZ9"
+	},
+	{
+		"created_at": "Fri Apr 19 20:51:21 +0000 2019",
+		"id": 1119342743942131700,
+		"id_str": "1119342743942131712",
+		"full_text": "very interesting, and libraries are part of this mix https://t.co/HGolRWfsM1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HGolRWfsM1",
+					"expanded_url": "https://twitter.com/knightfdn/status/1118877210792857600",
+					"display_url": "twitter.com/knightfdn/stat…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2489,
+			"friends_count": 793,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35584,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118877210792857600,
+		"quoted_status_id_str": "1118877210792857600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HGolRWfsM1",
+			"expanded": "https://twitter.com/knightfdn/status/1118877210792857600",
+			"display": "twitter.com/knightfdn/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 18 14:01:29 +0000 2019",
+			"id": 1118877210792857600,
+			"id_str": "1118877210792857600",
+			"full_text": "As American communities face increasing levels of social &amp; economic division, a new report shows how five U.S. cities are reimagining #publicspaces to bring residents together &amp; revive neighborhoods: https://t.co/mmJKTah23B #knightcities @CivicCommonsUS @RockefellerFdn @kresgefdn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				288
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "publicspaces",
+						"indices": [
+							138,
+							151
+						]
+					},
+					{
+						"text": "knightcities",
+						"indices": [
+							232,
+							245
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CivicCommonsUS",
+						"name": "Civic Commons US",
+						"id": 4493282237,
+						"id_str": "4493282237",
+						"indices": [
+							246,
+							261
+						]
+					},
+					{
+						"screen_name": "RockefellerFdn",
+						"name": "The Rockefeller Foundation",
+						"id": 119049214,
+						"id_str": "119049214",
+						"indices": [
+							262,
+							277
+						]
+					},
+					{
+						"screen_name": "kresgefdn",
+						"name": "Kresge Foundation",
+						"id": 280619711,
+						"id_str": "280619711",
+						"indices": [
+							278,
+							288
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mmJKTah23B",
+						"expanded_url": "http://kf.org/rcc",
+						"display_url": "kf.org/rcc",
+						"indices": [
+							208,
+							231
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14073364,
+				"id_str": "14073364",
+				"name": "Knight Foundation",
+				"screen_name": "knightfdn",
+				"location": "Miami, FL",
+				"description": "Knight Foundation supports informed and engaged communities, which are essential for a well-functioning democracy. We invest in journalism, the arts and cities.",
+				"url": "https://t.co/sNkLPCR4Ex",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sNkLPCR4Ex",
+								"expanded_url": "http://kf.org",
+								"display_url": "kf.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 146740,
+				"friends_count": 3356,
+				"listed_count": 6354,
+				"created_at": "Mon Mar 03 16:56:37 +0000 2008",
+				"favourites_count": 55693,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 57091,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1E4A7F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775046459007860736/ZJ17WXrl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775046459007860736/ZJ17WXrl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14073364/1488369442",
+				"profile_link_color": "00B0EA",
+				"profile_sidebar_border_color": "BA0076",
+				"profile_sidebar_fill_color": "EFF3F5",
+				"profile_text_color": "221C1C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "very interesting, and libraries are part of this mix https://t.co/HGolRWfsM1"
+	},
+	{
+		"created_at": "Fri Apr 19 20:49:28 +0000 2019",
+		"id": 1119342269826396200,
+		"id_str": "1119342269826396161",
+		"full_text": "interesting collection (and I think this counts as a very interesting local studies collection) https://t.co/TenHcIVshh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TenHcIVshh",
+					"expanded_url": "https://twitter.com/SmithsonianMag/status/1119299682570784768",
+					"display_url": "twitter.com/SmithsonianMag…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2489,
+			"friends_count": 793,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35584,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119299682570784800,
+		"quoted_status_id_str": "1119299682570784768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TenHcIVshh",
+			"expanded": "https://twitter.com/SmithsonianMag/status/1119299682570784768",
+			"display": "twitter.com/SmithsonianMag…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 19 18:00:14 +0000 2019",
+			"id": 1119299682570784800,
+			"id_str": "1119299682570784768",
+			"full_text": "In Anchorage, all you need to check out a snowy owl or a mounted rockfish is a library card. https://t.co/xufe3B09Ck",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xufe3B09Ck",
+						"expanded_url": "http://smithmag.co/dv6zXH",
+						"display_url": "smithmag.co/dv6zXH",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17998609,
+				"id_str": "17998609",
+				"name": "Smithsonian Magazine",
+				"screen_name": "SmithsonianMag",
+				"location": "Washington, D.C.",
+				"description": "Official Twitter feed for Smithsonian magazine. @ replies may be reprinted in the magazine. Legal: http://t.co/FT9zvv7aQC",
+				"url": "http://t.co/tDPmKOzpk2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tDPmKOzpk2",
+								"expanded_url": "http://smithsonianmag.com",
+								"display_url": "smithsonianmag.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/FT9zvv7aQC",
+								"expanded_url": "http://www.si.edu/Termsofuse",
+								"display_url": "si.edu/Termsofuse",
+								"indices": [
+									99,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 248647,
+				"friends_count": 546,
+				"listed_count": 6458,
+				"created_at": "Tue Dec 09 18:52:17 +0000 2008",
+				"favourites_count": 628,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 108502,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2677315307/207d6d6e13e8c4b3da5f609397433a09_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2677315307/207d6d6e13e8c4b3da5f609397433a09_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17998609/1398267980",
+				"profile_link_color": "25707D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "interesting collection (and I think this counts as a very interesting local studies collection) https://t.co/TenHcIVshh"
+	},
+	{
+		"created_at": "Fri Apr 19 20:23:27 +0000 2019",
+		"id": 1118556045373255700,
+		"id_str": "1119335724916957184",
+		"full_text": "I've recently stopped asking patrons \"did you find everything you needed?\" and now ask, \"was there anything you wanted that you DIDN'T find?\"  As a result I'm learning a lot more about our collection gaps, bc ppl are conditioned to say yes to the first question. #librarylife",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "librarylife",
+					"indices": [
+						263,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1457643133,
+			"id_str": "1457643133",
+			"name": "Andria Amaral",
+			"screen_name": "andriaamaral",
+			"location": "charleston, sc",
+			"description": "Bookish bohemian changing the world, one reader at a time. YA Librarian. Crazy dog lady. Bleeding heart liberal. Opinions my own and firmly held but I listen.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1566,
+			"friends_count": 2495,
+			"listed_count": 66,
+			"created_at": "Sat May 25 17:45:38 +0000 2013",
+			"favourites_count": 18570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7198,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E0D02",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013488286470324224/ShA0ILu0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013488286470324224/ShA0ILu0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1457643133/1369505335",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "BEDFB6",
+			"profile_sidebar_fill_color": "0E0D02",
+			"profile_text_color": "39BD91",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 233,
+		"favorite_count": 1167,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I've recently stopped asking patrons \"did you find everything you needed?\" and now ask, \"was there anything you wanted that you DIDN'T find?\"  As a result I'm learning a lot more about our collection gaps, bc ppl are conditioned to say yes to the first question. #librarylife"
+	},
+	{
 		"created_at": "Thu Apr 18 20:57:54 +0000 2019",
 		"id": 1118982005482328000,
 		"id_str": "1118982005482328064",
