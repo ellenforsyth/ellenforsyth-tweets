@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 21:07:00 +0000 2019",
+		"id": 1118167716945367000,
+		"id_str": "1119709069541920768",
+		"full_text": "A fascinating long read on the links between Scotland and the country of my parents, Guyana, in the colonial era. This explains why 5% of my DNA is Celtic...\n\nhttps://t.co/J3uHRRGNHB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J3uHRRGNHB",
+					"expanded_url": "https://www.theguardian.com/news/2019/apr/16/scotland-guyana-past-abolitionists-slavery-caribbean?CMP=Share_AndroidApp_Copy_to_clipboard",
+					"display_url": "theguardian.com/news/2019/apr/…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18020612,
+			"id_str": "18020612",
+			"name": "David Lammy",
+			"screen_name": "DavidLammy",
+			"location": "Tottenham and Westminster",
+			"description": "Labour MP for Tottenham. Campaigner. Former Minister (Higher Education, Culture, Justice, Health) now on the backbenches telling it like it is. Spurs fan #COYS",
+			"url": "https://t.co/YGsqF2k4JJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YGsqF2k4JJ",
+							"expanded_url": "http://www.davidlammy.co.uk",
+							"display_url": "davidlammy.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 501408,
+			"friends_count": 4448,
+			"listed_count": 2605,
+			"created_at": "Wed Dec 10 14:53:54 +0000 2008",
+			"favourites_count": 10017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615620009604345856/fqNS8Xg9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615620009604345856/fqNS8Xg9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18020612/1553627585",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 1125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A fascinating long read on the links between Scotland and the country of my parents, Guyana, in the colonial era. This explains why 5% of my DNA is Celtic...\n\nhttps://t.co/J3uHRRGNHB"
+	},
+	{
 		"created_at": "Fri Apr 19 20:58:31 +0000 2019",
 		"id": 1118904034512052200,
 		"id_str": "1119344550177148928",
