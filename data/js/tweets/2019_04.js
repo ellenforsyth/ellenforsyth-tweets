@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 00:14:49 +0000 2019",
+		"id": 1120118724139204600,
+		"id_str": "1120118724139204608",
+		"full_text": "and could be useful additions to library board game collections https://t.co/43RkQqPtVa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/43RkQqPtVa",
+					"expanded_url": "https://twitter.com/vorwerk_rachael/status/1119966723958947841",
+					"display_url": "twitter.com/vorwerk_rachae…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2489,
+			"friends_count": 793,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35587,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119966723958947800,
+		"quoted_status_id_str": "1119966723958947841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/43RkQqPtVa",
+			"expanded": "https://twitter.com/vorwerk_rachael/status/1119966723958947841",
+			"display": "twitter.com/vorwerk_rachae…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 21 14:10:49 +0000 2019",
+			"id": 1119966723958947800,
+			"id_str": "1119966723958947841",
+			"full_text": "A great #STEM game isn’t one that bombards you with information; rather, it’s one that elegantly communicates the key messages through its mechanics—wise words by @samillingworth, #scicomm lecturer at @ManMetUni on learning science through board games https://t.co/bQ5P08MqTs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "STEM",
+						"indices": [
+							8,
+							13
+						]
+					},
+					{
+						"text": "scicomm",
+						"indices": [
+							180,
+							188
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "samillingworth",
+						"name": "Sam Illingworth",
+						"id": 27057263,
+						"id_str": "27057263",
+						"indices": [
+							163,
+							178
+						]
+					},
+					{
+						"screen_name": "ManMetUni",
+						"name": "Manchester Met Uni",
+						"id": 14743052,
+						"id_str": "14743052",
+						"indices": [
+							201,
+							211
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bQ5P08MqTs",
+						"expanded_url": "https://www.theguardian.com/science/2019/apr/20/board-games-turning-science-into-playtime",
+						"display_url": "theguardian.com/science/2019/a…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 998370781531856900,
+				"id_str": "998370781531856897",
+				"name": "Rachael Vorwerk",
+				"screen_name": "vorwerk_rachael",
+				"location": "Melbourne, Victoria",
+				"description": "Science communicator at @ScienceinPublic. Nature enthusiast.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 124,
+				"friends_count": 553,
+				"listed_count": 0,
+				"created_at": "Mon May 21 01:11:57 +0000 2018",
+				"favourites_count": 409,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 288,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/998526748705734656/AkYSWNT2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/998526748705734656/AkYSWNT2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/998370781531856897/1526903141",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "and could be useful additions to library board game collections https://t.co/43RkQqPtVa"
+	},
+	{
 		"created_at": "Sat Apr 20 21:07:00 +0000 2019",
 		"id": 1118167716945367000,
 		"id_str": "1119709069541920768",
