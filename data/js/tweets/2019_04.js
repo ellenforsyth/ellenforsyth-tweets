@@ -1,6 +1,1267 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 20:52:50 +0000 2019",
+		"id": 1121879835112984600,
+		"id_str": "1121879835112984576",
+		"full_text": "sounds exciting https://t.co/Eq8jYmtfuk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Eq8jYmtfuk",
+					"expanded_url": "https://twitter.com/dpla/status/1120737913640189955",
+					"display_url": "twitter.com/dpla/status/11…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2493,
+			"friends_count": 794,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35599,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120737913640190000,
+		"quoted_status_id_str": "1120737913640189955",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Eq8jYmtfuk",
+			"expanded": "https://twitter.com/dpla/status/1120737913640189955",
+			"display": "twitter.com/dpla/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 23 17:15:15 +0000 2019",
+			"id": 1120737913640190000,
+			"id_str": "1120737913640189955",
+			"full_text": "We are thrilled to collaborate with New York Public Library (@nypl) and @LYRASIS to help provide all public libraries with a free, open, library-controlled platform for managing their #ebooks and audiobook services! Read more: https://t.co/FnUO8mSeko",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ebooks",
+						"indices": [
+							184,
+							191
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nypl",
+						"name": "NY Public Library",
+						"id": 17544803,
+						"id_str": "17544803",
+						"indices": [
+							61,
+							66
+						]
+					},
+					{
+						"screen_name": "LYRASIS",
+						"name": "LYRASIS",
+						"id": 18941213,
+						"id_str": "18941213",
+						"indices": [
+							72,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FnUO8mSeko",
+						"expanded_url": "https://dp.la/news/new-collaborative-effort-to-develop-a-national-digital-ebooks-platform-for-libraries-announced",
+						"display_url": "dp.la/news/new-colla…",
+						"indices": [
+							227,
+							250
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 365017572,
+				"id_str": "365017572",
+				"name": "DPLA",
+				"screen_name": "dpla",
+				"location": "",
+				"description": "The Digital Public Library of America (DPLA) brings together the riches of America’s libraries, archives, and museums, and makes them freely available to all.",
+				"url": "http://t.co/c8kVFbbGnU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/c8kVFbbGnU",
+								"expanded_url": "http://dp.la",
+								"display_url": "dp.la",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41118,
+				"friends_count": 776,
+				"listed_count": 1930,
+				"created_at": "Tue Aug 30 18:36:22 +0000 2011",
+				"favourites_count": 3187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5811,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0E0E0F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1561009466/web_white_-square-no-words_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1561009466/web_white_-square-no-words_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/365017572/1524587025",
+				"profile_link_color": "886565",
+				"profile_sidebar_border_color": "D7D29A",
+				"profile_sidebar_fill_color": "C2BFBE",
+				"profile_text_color": "4C3C3C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "sounds exciting https://t.co/Eq8jYmtfuk"
+	},
+	{
+		"created_at": "Fri Apr 26 20:02:06 +0000 2019",
+		"id": 1121867067848679400,
+		"id_str": "1121867067848679426",
+		"full_text": "Lovely https://t.co/eVs9rm1kCI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eVs9rm1kCI",
+					"expanded_url": "https://twitter.com/bl_prints/status/1121699852121931777",
+					"display_url": "twitter.com/bl_prints/stat…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2493,
+			"friends_count": 794,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35599,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121699852121931800,
+		"quoted_status_id_str": "1121699852121931777",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eVs9rm1kCI",
+			"expanded": "https://twitter.com/bl_prints/status/1121699852121931777",
+			"display": "twitter.com/bl_prints/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 26 08:57:39 +0000 2019",
+			"id": 1121699852121931800,
+			"id_str": "1121699852121931777",
+			"full_text": "This fan, designed for cyclists, carries a street map of Paris, map of the environs of the city, and, on the reverse, a map of the Bois de Boulogne. The map of the environs bears a key indicating recommended cycling routes. https://t.co/QggKrmNqFz #Archive30 #Object https://t.co/rhrDYa4Utv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Archive30",
+						"indices": [
+							248,
+							258
+						]
+					},
+					{
+						"text": "Object",
+						"indices": [
+							259,
+							266
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QggKrmNqFz",
+						"expanded_url": "https://www.bl.uk/picturing-places",
+						"display_url": "bl.uk/picturing-plac…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1121699247164985300,
+						"id_str": "1121699247164985344",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/D5EThbQXkAAcKm9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5EThbQXkAAcKm9.jpg",
+						"url": "https://t.co/rhrDYa4Utv",
+						"display_url": "pic.twitter.com/rhrDYa4Utv",
+						"expanded_url": "https://twitter.com/BL_prints/status/1121699852121931777/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 853,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 483,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1066,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121699247164985300,
+						"id_str": "1121699247164985344",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/D5EThbQXkAAcKm9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5EThbQXkAAcKm9.jpg",
+						"url": "https://t.co/rhrDYa4Utv",
+						"display_url": "pic.twitter.com/rhrDYa4Utv",
+						"expanded_url": "https://twitter.com/BL_prints/status/1121699852121931777/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 853,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 483,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1066,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1121699297253306400,
+						"id_str": "1121699297253306368",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/D5ETkV2WsAAS_aL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5ETkV2WsAAS_aL.jpg",
+						"url": "https://t.co/rhrDYa4Utv",
+						"display_url": "pic.twitter.com/rhrDYa4Utv",
+						"expanded_url": "https://twitter.com/BL_prints/status/1121699852121931777/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1071,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 857,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 846680138683236400,
+				"id_str": "846680138683236352",
+				"name": "BL Prints & Drawings",
+				"screen_name": "BL_prints",
+				"location": "London, England",
+				"description": "Felicity Myrone, Lead Curator of Western Prints and Drawings at British Library: prints & drawings in Manuscripts, Maps and Printed Books.",
+				"url": "https://t.co/enzUhH3N1a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/enzUhH3N1a",
+								"expanded_url": "http://www.bl.uk/picturing-places",
+								"display_url": "bl.uk/picturing-plac…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6133,
+				"friends_count": 1012,
+				"listed_count": 114,
+				"created_at": "Tue Mar 28 11:07:30 +0000 2017",
+				"favourites_count": 4799,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5451,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1101413449731584001/ZVCUrSL8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101413449731584001/ZVCUrSL8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/846680138683236352/1551432238",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 160,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lovely https://t.co/eVs9rm1kCI"
+	},
+	{
+		"created_at": "Fri Apr 26 19:55:05 +0000 2019",
+		"id": 1121585752997916700,
+		"id_str": "1121865301258227712",
+		"full_text": "Do you live and breathe @NRL? The @statelibrarynsw has digitised The Rugby League news. On Trove you can find editions from 1920-1973! https://t.co/l9jLyccyzY\n#footyfever https://t.co/Ze9fVnEFEg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "footyfever",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NRL",
+					"name": "NRL",
+					"id": 18470775,
+					"id_str": "18470775",
+					"indices": [
+						24,
+						28
+					]
+				},
+				{
+					"screen_name": "statelibrarynsw",
+					"name": "State Library of NSW",
+					"id": 121597205,
+					"id_str": "121597205",
+					"indices": [
+						34,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l9jLyccyzY",
+					"expanded_url": "https://nla.gov.au/nla.obj-598579045",
+					"display_url": "nla.gov.au/nla.obj-598579…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1121585686602104800,
+					"id_str": "1121585686602104832",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D5CsPVMUwAAcHfi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5CsPVMUwAAcHfi.jpg",
+					"url": "https://t.co/Ze9fVnEFEg",
+					"display_url": "pic.twitter.com/Ze9fVnEFEg",
+					"expanded_url": "https://twitter.com/TroveAustralia/status/1121585752997916677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 765,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 765,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121585686602104800,
+					"id_str": "1121585686602104832",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D5CsPVMUwAAcHfi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5CsPVMUwAAcHfi.jpg",
+					"url": "https://t.co/Ze9fVnEFEg",
+					"display_url": "pic.twitter.com/Ze9fVnEFEg",
+					"expanded_url": "https://twitter.com/TroveAustralia/status/1121585752997916677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 765,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 765,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119219640,
+			"id_str": "119219640",
+			"name": "Trove",
+			"screen_name": "TroveAustralia",
+			"location": "Canberra, Australia",
+			"description": "Trove is your window into Australia's stories. Tweets by the Trove Outreach Team at National Library of Australia. We blog at https://t.co/1SSvF8ZkFn",
+			"url": "http://t.co/xJewI037dI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xJewI037dI",
+							"expanded_url": "http://trove.nla.gov.au/",
+							"display_url": "trove.nla.gov.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1SSvF8ZkFn",
+							"expanded_url": "https://www.nla.gov.au/blogs/trove",
+							"display_url": "nla.gov.au/blogs/trove",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20594,
+			"friends_count": 1853,
+			"listed_count": 508,
+			"created_at": "Wed Mar 03 00:52:10 +0000 2010",
+			"favourites_count": 7391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C3E065",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879109788570763264/pCYV2488_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879109788570763264/pCYV2488_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119219640/1554070853",
+			"profile_link_color": "619744",
+			"profile_sidebar_border_color": "D8F098",
+			"profile_sidebar_fill_color": "ECF0D6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you live and breathe @NRL? The @statelibrarynsw has digitised The Rugby League news. On Trove you can find editions from 1920-1973! https://t.co/l9jLyccyzY\n#footyfever https://t.co/Ze9fVnEFEg"
+	},
+	{
+		"created_at": "Fri Apr 26 19:51:20 +0000 2019",
+		"id": 1121864358403854300,
+		"id_str": "1121864358403854336",
+		"full_text": "This is great https://t.co/XePfbfRThb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XePfbfRThb",
+					"expanded_url": "https://twitter.com/natlibscotmaps/status/1121739682474283009",
+					"display_url": "twitter.com/natlibscotmaps…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2493,
+			"friends_count": 794,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35599,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121739682474283000,
+		"quoted_status_id_str": "1121739682474283009",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XePfbfRThb",
+			"expanded": "https://twitter.com/natlibscotmaps/status/1121739682474283009",
+			"display": "twitter.com/natlibscotmaps…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 26 11:35:55 +0000 2019",
+			"id": 1121739682474283000,
+			"id_str": "1121739682474283009",
+			"full_text": "News!! A new georeferenced layer of mid-20th century Britain is now online. This is the latest out-of-copyright mapping covering #England, #Scotland and #Wales! You can compare to present day #maps (and older maps!) using our side by side viewer: https://t.co/PfRUUjRt1L https://t.co/GEkqUUbydH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "England",
+						"indices": [
+							129,
+							137
+						]
+					},
+					{
+						"text": "Scotland",
+						"indices": [
+							139,
+							148
+						]
+					},
+					{
+						"text": "Wales",
+						"indices": [
+							153,
+							159
+						]
+					},
+					{
+						"text": "maps",
+						"indices": [
+							192,
+							197
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PfRUUjRt1L",
+						"expanded_url": "https://maps.nls.uk/geo/explore/side-by-side/#zoom=15&lat=52.9584&lon=0.8527&layers=193&right=BingHyb",
+						"display_url": "maps.nls.uk/geo/explore/si…",
+						"indices": [
+							247,
+							270
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1121739344727937000,
+						"id_str": "1121739344727937029",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5E3_aUWkAUqoaU.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5E3_aUWkAUqoaU.jpg",
+						"url": "https://t.co/GEkqUUbydH",
+						"display_url": "pic.twitter.com/GEkqUUbydH",
+						"expanded_url": "https://twitter.com/natlibscotmaps/status/1121739682474283009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1670,
+								"h": 936,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121739344727937000,
+						"id_str": "1121739344727937029",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D5E3_aUWkAUqoaU.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D5E3_aUWkAUqoaU.jpg",
+						"url": "https://t.co/GEkqUUbydH",
+						"display_url": "pic.twitter.com/GEkqUUbydH",
+						"expanded_url": "https://twitter.com/natlibscotmaps/status/1121739682474283009/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1670,
+								"h": 936,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								835,
+								468
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D5E3_aUWkAUqoaU.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1119210314,
+				"id_str": "1119210314",
+				"name": "NLS Map Collections",
+				"screen_name": "natlibscotmaps",
+				"location": "Edinburgh",
+				"description": "Tweets from the Map Room, National Library of Scotland. News, views and interesting finds for map lovers.",
+				"url": "https://t.co/KxmEZBJMpT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KxmEZBJMpT",
+								"expanded_url": "http://maps.nls.uk",
+								"display_url": "maps.nls.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7619,
+				"friends_count": 976,
+				"listed_count": 205,
+				"created_at": "Fri Jan 25 12:36:40 +0000 2013",
+				"favourites_count": 8377,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5385,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/646295822410338304/pM-GjWcL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/646295822410338304/pM-GjWcL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1119210314/1546852166",
+				"profile_link_color": "1E49E6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 212,
+			"favorite_count": 456,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is great https://t.co/XePfbfRThb"
+	},
+	{
+		"created_at": "Fri Apr 26 10:23:50 +0000 2019",
+		"id": 1121721541975130100,
+		"id_str": "1121721541975130118",
+		"full_text": "@CatyJ I hope everyone is okay.",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatyJ",
+					"name": "CatyJ",
+					"id": 15732431,
+					"id_str": "15732431",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1121710162815770600,
+		"in_reply_to_status_id_str": "1121710162815770625",
+		"in_reply_to_user_id": 15732431,
+		"in_reply_to_user_id_str": "15732431",
+		"in_reply_to_screen_name": "CatyJ",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2493,
+			"friends_count": 794,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35599,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CatyJ I hope everyone is okay."
+	},
+	{
 		"created_at": "Fri Apr 26 00:16:54 +0000 2019",
 		"id": 1121568802032853000,
 		"id_str": "1121568802032852992",
