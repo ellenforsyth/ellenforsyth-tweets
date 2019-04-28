@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 20:29:07 +0000 2019",
+		"id": 1122218858490757100,
+		"id_str": "1122236253821210624",
+		"full_text": "The nine scientists who worked on capturing the first photograph of a black hole tell us what they like to read, how the photograph can be read as art, and explain the science behind black holes in language English majors can understand. https://t.co/HbEawtpifr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HbEawtpifr",
+					"expanded_url": "https://www.theparisreview.org/blog/2019/04/25/what-the-scientists-who-photographed-the-black-hole-like-to-read/",
+					"display_url": "theparisreview.org/blog/2019/04/2…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71256932,
+			"id_str": "71256932",
+			"name": "The Paris Review",
+			"screen_name": "parisreview",
+			"location": "New York, NY",
+			"description": "Quarterly literary magazine founded in 1953.",
+			"url": "http://t.co/oXirIX6rPZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oXirIX6rPZ",
+							"expanded_url": "http://theparisreview.org",
+							"display_url": "theparisreview.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 940961,
+			"friends_count": 4672,
+			"listed_count": 11754,
+			"created_at": "Thu Sep 03 13:48:31 +0000 2009",
+			"favourites_count": 12715,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 65752,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773206272632057857/3Or-FkJz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773206272632057857/3Or-FkJz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71256932/1551804470",
+			"profile_link_color": "D97B41",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The nine scientists who worked on capturing the first photograph of a black hole tell us what they like to read, how the photograph can be read as art, and explain the science behind black holes in language English majors can understand. https://t.co/HbEawtpifr"
+	},
+	{
 		"created_at": "Fri Apr 26 20:52:50 +0000 2019",
 		"id": 1121879835112984600,
 		"id_str": "1121879835112984576",
