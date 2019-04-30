@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 29 19:50:40 +0000 2019",
+		"id": 1122951351019790300,
+		"id_str": "1122951351019790336",
+		"full_text": "Have a try with this, it is fun https://t.co/fYHqKghswp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fYHqKghswp",
+					"expanded_url": "https://twitter.com/megmcardle/status/1122880427260305409",
+					"display_url": "twitter.com/megmcardle/sta…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2494,
+			"friends_count": 795,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35600,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "990066",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1122880427260305400,
+		"quoted_status_id_str": "1122880427260305409",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fYHqKghswp",
+			"expanded": "https://twitter.com/megmcardle/status/1122880427260305409",
+			"display": "twitter.com/megmcardle/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 29 15:08:50 +0000 2019",
+			"id": 1122880427260305400,
+			"id_str": "1122880427260305409",
+			"full_text": "I've loaded my biggest update of titles to the Genre Blender in a year -- about 90 more titles of genre-mixing goodness. If you haven't used the blender in a while, give it a whirl! Just pick 2-3 genres you like and find some blends: https://t.co/SbyKgzpKZh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SbyKgzpKZh",
+						"expanded_url": "http://blender.genrify.com/",
+						"display_url": "blender.genrify.com",
+						"indices": [
+							234,
+							257
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29761632,
+				"id_str": "29761632",
+				"name": "Megan McArdle",
+				"screen_name": "megmcardle",
+				"location": "",
+				"description": "Librarian, book reviewer, and founder of Genrify, home of the Genre Blender.",
+				"url": "http://t.co/fPhgjTY41G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fPhgjTY41G",
+								"expanded_url": "http://Genrify.com",
+								"display_url": "Genrify.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 788,
+				"friends_count": 576,
+				"listed_count": 67,
+				"created_at": "Wed Apr 08 17:00:10 +0000 2009",
+				"favourites_count": 1466,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1699,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1954458183/102857-9.30.book.MALONEY-01_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1954458183/102857-9.30.book.MALONEY-01_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29761632/1406519113",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have a try with this, it is fun https://t.co/fYHqKghswp"
+	},
+	{
 		"created_at": "Sat Apr 27 20:29:07 +0000 2019",
 		"id": 1122218858490757100,
 		"id_str": "1122236253821210624",
