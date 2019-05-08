@@ -1,6 +1,663 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 20:23:32 +0000 2019",
+		"id": 1125858725225353200,
+		"id_str": "1125858725225353216",
+		"full_text": "BookNet Canada Reports, “Majority of Canadian Readers Seek Out Diverse Books” https://t.co/PFGUJTBdJB via @infodocket interesting research",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "infodocket",
+					"name": "LJ's infoDOCKET",
+					"id": 252735965,
+					"id_str": "252735965",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PFGUJTBdJB",
+					"expanded_url": "https://www.infodocket.com/2019/05/07/booknet-canada-reports-majority-of-canadian-readers-seek-out-diverse-books/",
+					"display_url": "infodocket.com/2019/05/07/boo…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2497,
+			"friends_count": 798,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BookNet Canada Reports, “Majority of Canadian Readers Seek Out Diverse Books” https://t.co/PFGUJTBdJB via @infodocket interesting research"
+	},
+	{
+		"created_at": "Tue May 07 20:20:08 +0000 2019",
+		"id": 1125857872816906200,
+		"id_str": "1125857872816906240",
+		"full_text": "really enjoy reading these library visitor profiles from @slqld https://t.co/MmnjLbaauY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slqld",
+					"name": "State Library of Qld",
+					"id": 22097835,
+					"id_str": "22097835",
+					"indices": [
+						57,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MmnjLbaauY",
+					"expanded_url": "https://twitter.com/slqld/status/1125656554487853057",
+					"display_url": "twitter.com/slqld/status/1…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2497,
+			"friends_count": 798,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125656554487853000,
+		"quoted_status_id_str": "1125656554487853057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MmnjLbaauY",
+			"expanded": "https://twitter.com/slqld/status/1125656554487853057",
+			"display": "twitter.com/slqld/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 07 07:00:10 +0000 2019",
+			"id": 1125656554487853000,
+			"id_str": "1125656554487853057",
+			"full_text": "State Library is visited by a wide range of people, for a variety of reasons. Read our SLQ Today blog and find out about one of our regular users on why they visit State Library. https://t.co/xcVVud6Aw9 #qldlibraries #slqvisitors https://t.co/K8ngsVFi49",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "qldlibraries",
+						"indices": [
+							203,
+							216
+						]
+					},
+					{
+						"text": "slqvisitors",
+						"indices": [
+							217,
+							229
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xcVVud6Aw9",
+						"expanded_url": "https://bit.ly/2VNh5SJ",
+						"display_url": "bit.ly/2VNh5SJ",
+						"indices": [
+							179,
+							202
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1125656552361398300,
+						"id_str": "1125656552361398273",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/D58iq56XkAEGR6a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D58iq56XkAEGR6a.jpg",
+						"url": "https://t.co/K8ngsVFi49",
+						"display_url": "pic.twitter.com/K8ngsVFi49",
+						"expanded_url": "https://twitter.com/slqld/status/1125656554487853057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 689,
+								"h": 387,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 689,
+								"h": 387,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1125656552361398300,
+						"id_str": "1125656552361398273",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/D58iq56XkAEGR6a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D58iq56XkAEGR6a.jpg",
+						"url": "https://t.co/K8ngsVFi49",
+						"display_url": "pic.twitter.com/K8ngsVFi49",
+						"expanded_url": "https://twitter.com/slqld/status/1125656554487853057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 689,
+								"h": 387,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 689,
+								"h": 387,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22097835,
+				"id_str": "22097835",
+				"name": "State Library of Qld",
+				"screen_name": "slqld",
+				"location": "Brisbane, Queensland Australia",
+				"description": "Conversations about Queensland’s memory and the latest news, opportunities, and events from State Library",
+				"url": "http://t.co/T584ccF2s3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/T584ccF2s3",
+								"expanded_url": "http://www.slq.qld.gov.au",
+								"display_url": "slq.qld.gov.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37542,
+				"friends_count": 1509,
+				"listed_count": 557,
+				"created_at": "Fri Feb 27 02:40:15 +0000 2009",
+				"favourites_count": 2721,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13936,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DB0C41",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868987325711212544/gg0lMhxA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868987325711212544/gg0lMhxA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22097835/1554073416",
+				"profile_link_color": "E0003F",
+				"profile_sidebar_border_color": "E3E3E3",
+				"profile_sidebar_fill_color": "C7C7C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "really enjoy reading these library visitor profiles from @slqld https://t.co/MmnjLbaauY"
+	},
+	{
+		"created_at": "Tue May 07 20:03:27 +0000 2019",
+		"id": 1125853672175333400,
+		"id_str": "1125853672175333376",
+		"full_text": "important reading https://t.co/Mm0tUVQZId",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mm0tUVQZId",
+					"expanded_url": "https://twitter.com/PuawaiCairns/status/1125578117504876544",
+					"display_url": "twitter.com/PuawaiCairns/s…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2497,
+			"friends_count": 798,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125578117504876500,
+		"quoted_status_id_str": "1125578117504876544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Mm0tUVQZId",
+			"expanded": "https://twitter.com/PuawaiCairns/status/1125578117504876544",
+			"display": "twitter.com/PuawaiCairns/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 07 01:48:30 +0000 2019",
+			"id": 1125578117504876500,
+			"id_str": "1125578117504876544",
+			"full_text": "A quiet blog I wrote mediating on the use of language in museums that can include and exclude communities and the diverse ways of knowing. \n\nIs there a culture of exclusion in museums? | Te Papa’s Blog https://t.co/LiEJy20lZm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LiEJy20lZm",
+						"expanded_url": "https://blog.tepapa.govt.nz/2019/05/07/is-there-a-culture-of-exclusion-in-museums/",
+						"display_url": "blog.tepapa.govt.nz/2019/05/07/is-…",
+						"indices": [
+							202,
+							225
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 994815421114191900,
+				"id_str": "994815421114191873",
+				"name": "Puawai Cairns",
+				"screen_name": "PuawaiCairns",
+				"location": "He uri o Tauranga Moana ki WGN",
+				"description": "Head of Mātauranga Māori / Kaihāpai Mātauranga Māori at Te Papa. Advocate for community centred curatorial practice, indigenous museology, honouring connections",
+				"url": "https://t.co/w8UbzIJimV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w8UbzIJimV",
+								"expanded_url": "http://blog.tepapa.govt.nz/author/puawai2011/",
+								"display_url": "blog.tepapa.govt.nz/author/puawai2…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 902,
+				"friends_count": 1320,
+				"listed_count": 21,
+				"created_at": "Fri May 11 05:44:13 +0000 2018",
+				"favourites_count": 993,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1124,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054614779325607936/QjFidrot_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054614779325607936/QjFidrot_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/994815421114191873/1537259777",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "important reading https://t.co/Mm0tUVQZId"
+	},
+	{
 		"created_at": "Sat May 04 06:27:18 +0000 2019",
 		"id": 1124433452496035800,
 		"id_str": "1124561116921655296",
