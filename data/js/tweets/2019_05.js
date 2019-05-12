@@ -1,6 +1,672 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 18:04:45 +0000 2019",
+		"id": 1127273351922077700,
+		"id_str": "1127273351922077696",
+		"full_text": "@RAforAll Thanks for all these tweets, really helps when having to follow @stokercon from a distance,",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAforAll",
+					"name": "Becky Spratford",
+					"id": 2474412986,
+					"id_str": "2474412986",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "StokerCon",
+					"name": "StokerCon",
+					"id": 3218874535,
+					"id_str": "3218874535",
+					"indices": [
+						74,
+						84
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1127266379797880800,
+		"in_reply_to_status_id_str": "1127266379797880833",
+		"in_reply_to_user_id": 2474412986,
+		"in_reply_to_user_id_str": "2474412986",
+		"in_reply_to_screen_name": "RAforAll",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2497,
+			"friends_count": 798,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35630,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RAforAll Thanks for all these tweets, really helps when having to follow @stokercon from a distance,"
+	},
+	{
+		"created_at": "Sat May 11 18:02:19 +0000 2019",
+		"id": 1127230934934270000,
+		"id_str": "1127272738488328192",
+		"full_text": "\"Horror fiction allows us to tell some of the most terrible truths we have to tell.\" @Gabino_Iglesias at the \"Why Does Horror Matter\" panel @StokerCon  YES THIS 🖤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gabino_Iglesias",
+					"name": "Gabino Iglesias",
+					"id": 262365555,
+					"id_str": "262365555",
+					"indices": [
+						85,
+						101
+					]
+				},
+				{
+					"screen_name": "StokerCon",
+					"name": "StokerCon",
+					"id": 3218874535,
+					"id_str": "3218874535",
+					"indices": [
+						140,
+						150
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1063174779648258000,
+			"id_str": "1063174779648258048",
+			"name": "emily vinci",
+			"screen_name": "vinci_emily",
+			"location": "Chicago, IL",
+			"description": "librarian, writer \nA Year of Programs for Millennials and More, 50+ Fandom Programs, Pop Culture-Inspired Programs @ALAEditions SC @ARRTReads May '19 @StokerCon",
+			"url": "https://t.co/Hb6IaJOyS9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hb6IaJOyS9",
+							"expanded_url": "https://www.linkedin.com/in/emilyvinci",
+							"display_url": "linkedin.com/in/emilyvinci",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67,
+			"friends_count": 202,
+			"listed_count": 1,
+			"created_at": "Thu Nov 15 20:59:55 +0000 2018",
+			"favourites_count": 305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063182373477629952/l-D5062W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063182373477629952/l-D5062W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1063174779648258048/1542329106",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"Horror fiction allows us to tell some of the most terrible truths we have to tell.\" @Gabino_Iglesias at the \"Why Does Horror Matter\" panel @StokerCon  YES THIS 🖤"
+	},
+	{
+		"created_at": "Sat May 11 17:58:36 +0000 2019",
+		"id": 1126736207264665600,
+		"id_str": "1127271806199451648",
+		"full_text": "Japanese artist Hokusai died #onthisday in 1849. \n\nHis 1831 masterpiece ‘The Great Wave’ is now one of the most famous artworks in the world, but back then you could buy a print of it for the price of two helpings of noodles! 🍜🍜🌊 https://t.co/JDpptPvv35 https://t.co/LKZfugt8Iw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onthisday",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JDpptPvv35",
+					"expanded_url": "http://ow.ly/vr3130oGUh6",
+					"display_url": "ow.ly/vr3130oGUh6",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126736201988227100,
+					"id_str": "1126736201988227072",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/D6L4myMUwAAET2r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6L4myMUwAAET2r.jpg",
+					"url": "https://t.co/LKZfugt8Iw",
+					"display_url": "pic.twitter.com/LKZfugt8Iw",
+					"expanded_url": "https://twitter.com/britishmuseum/status/1126736207264665600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1960,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 827,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126736201988227100,
+					"id_str": "1126736201988227072",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/D6L4myMUwAAET2r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6L4myMUwAAET2r.jpg",
+					"url": "https://t.co/LKZfugt8Iw",
+					"display_url": "pic.twitter.com/LKZfugt8Iw",
+					"expanded_url": "https://twitter.com/britishmuseum/status/1126736207264665600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1960,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 827,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19066345,
+			"id_str": "19066345",
+			"name": "British Museum",
+			"screen_name": "britishmuseum",
+			"location": "London",
+			"description": "A museum of the world, for the world. Book tickets for #MunchExhibition and #MangaExhibition: https://t.co/66FjDmSUyW House rules: https://t.co/Cuh8WM0b4U",
+			"url": "https://t.co/quzDfj8AMK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/quzDfj8AMK",
+							"expanded_url": "http://www.britishmuseum.org",
+							"display_url": "britishmuseum.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/66FjDmSUyW",
+							"expanded_url": "http://ow.ly/RNAm30lkVgW",
+							"display_url": "ow.ly/RNAm30lkVgW",
+							"indices": [
+								94,
+								117
+							]
+						},
+						{
+							"url": "https://t.co/Cuh8WM0b4U",
+							"expanded_url": "http://ow.ly/Y9zg304exDj",
+							"display_url": "ow.ly/Y9zg304exDj",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2009141,
+			"friends_count": 49559,
+			"listed_count": 13956,
+			"created_at": "Fri Jan 16 13:37:33 +0000 2009",
+			"favourites_count": 31647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19722,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/552394937585500160/BN7fW_Et_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/552394937585500160/BN7fW_Et_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19066345/1546958700",
+			"profile_link_color": "4C90BD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDF8FC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 668,
+		"favorite_count": 1665,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Japanese artist Hokusai died #onthisday in 1849. \n\nHis 1831 masterpiece ‘The Great Wave’ is now one of the most famous artworks in the world, but back then you could buy a print of it for the price of two helpings of noodles! 🍜🍜🌊 https://t.co/JDpptPvv35 https://t.co/LKZfugt8Iw"
+	},
+	{
+		"created_at": "Sat May 11 17:53:47 +0000 2019",
+		"id": 1127270591243833300,
+		"id_str": "1127270591243833344",
+		"full_text": "Five Ways To Get Excited About Your Morning Commute With Your Free State Library Membership https://t.co/413O2zSD9R a lovely promotion from @slqld",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slqld",
+					"name": "State Library of Qld",
+					"id": 22097835,
+					"id_str": "22097835",
+					"indices": [
+						140,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/413O2zSD9R",
+					"expanded_url": "http://blogs.slq.qld.gov.au/slq-today/2019/05/10/five-ways-to-get-excited-about-your-morning-commute/",
+					"display_url": "blogs.slq.qld.gov.au/slq-today/2019…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2497,
+			"friends_count": 798,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35630,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Five Ways To Get Excited About Your Morning Commute With Your Free State Library Membership https://t.co/413O2zSD9R a lovely promotion from @slqld"
+	},
+	{
+		"created_at": "Sat May 11 17:51:49 +0000 2019",
+		"id": 1127270097284808700,
+		"id_str": "1127270097284808704",
+		"full_text": "All sewn up: British Library colleagues work together to ensure the survival of 100 embroidered and textile bookbindings - Collection Care blog https://t.co/hreRl6Xx7G via@britishlibrary lovely",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hreRl6Xx7G",
+					"expanded_url": "https://shar.es/a0boUT",
+					"display_url": "shar.es/a0boUT",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2497,
+			"friends_count": 798,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35630,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All sewn up: British Library colleagues work together to ensure the survival of 100 embroidered and textile bookbindings - Collection Care blog https://t.co/hreRl6Xx7G via@britishlibrary lovely"
+	},
+	{
 		"created_at": "Thu May 09 04:09:04 +0000 2019",
 		"id": 1126337441588174800,
 		"id_str": "1126338269178785792",
