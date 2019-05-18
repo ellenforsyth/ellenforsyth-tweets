@@ -1,6 +1,858 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 01:16:42 +0000 2019",
+		"id": 1129556384381407200,
+		"id_str": "1129556384381407232",
+		"full_text": "@kylastephan @sallyturbitt Not wanting to make you jealous, I had #democracysausage (as well as haloumi options), there was a cake stall (although missing lovely marshmallows from previous years) + election day relish (tomato and spices) which was a brilliant idea, so I bought a bottle",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "democracysausage",
+					"indices": [
+						66,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kylastephan",
+					"name": "Kyla Stephan",
+					"id": 1183987591,
+					"id_str": "1183987591",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "sallyturbitt",
+					"name": "Sally Turbitt",
+					"id": 177536523,
+					"id_str": "177536523",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1129554491739476000,
+		"in_reply_to_status_id_str": "1129554491739475968",
+		"in_reply_to_user_id": 1183987591,
+		"in_reply_to_user_id_str": "1183987591",
+		"in_reply_to_screen_name": "kylastephan",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2496,
+			"friends_count": 799,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kylastephan @sallyturbitt Not wanting to make you jealous, I had #democracysausage (as well as haloumi options), there was a cake stall (although missing lovely marshmallows from previous years) + election day relish (tomato and spices) which was a brilliant idea, so I bought a bottle"
+	},
+	{
+		"created_at": "Fri May 17 21:58:35 +0000 2019",
+		"id": 1129506524244525000,
+		"id_str": "1129506524244525056",
+		"full_text": "they have an amazing range of resources.  I was reminded of this thanks to an alert from @IntScout https://t.co/oNpcnv3t6k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IntScout",
+					"name": "Internet Scout",
+					"id": 39374329,
+					"id_str": "39374329",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oNpcnv3t6k",
+					"expanded_url": "https://twitter.com/MusicAtSI/status/1074288179891593222",
+					"display_url": "twitter.com/MusicAtSI/stat…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2496,
+			"friends_count": 799,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074288179891593200,
+		"quoted_status_id_str": "1074288179891593222",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oNpcnv3t6k",
+			"expanded": "https://twitter.com/MusicAtSI/status/1074288179891593222",
+			"display": "twitter.com/MusicAtSI/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 16 13:00:36 +0000 2018",
+			"id": 1074288179891593200,
+			"id_str": "1074288179891593222",
+			"full_text": "Did you know the Smithsonian’s combined musical resources would make us the world’s largest museum of music? Join us in 2019 for the Smithsonian Year of Music. https://t.co/yvr2MgpyQy #SmithsonianMusic https://t.co/yDBLUNw8sa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SmithsonianMusic",
+						"indices": [
+							184,
+							201
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yvr2MgpyQy",
+						"expanded_url": "http://music.si.edu",
+						"display_url": "music.si.edu",
+						"indices": [
+							160,
+							183
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1074288175034466300,
+						"id_str": "1074288175034466305",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/media/DuijZ0NVAAEiQoI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuijZ0NVAAEiQoI.jpg",
+						"url": "https://t.co/yDBLUNw8sa",
+						"display_url": "pic.twitter.com/yDBLUNw8sa",
+						"expanded_url": "https://twitter.com/MusicAtSI/status/1074288179891593222/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1148,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1148,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1074288175034466300,
+						"id_str": "1074288175034466305",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/media/DuijZ0NVAAEiQoI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuijZ0NVAAEiQoI.jpg",
+						"url": "https://t.co/yDBLUNw8sa",
+						"display_url": "pic.twitter.com/yDBLUNw8sa",
+						"expanded_url": "https://twitter.com/MusicAtSI/status/1074288179891593222/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1148,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1148,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 758294140425732100,
+				"id_str": "758294140425732100",
+				"name": "Smithsonian Music",
+				"screen_name": "MusicAtSI",
+				"location": "Washington, DC",
+				"description": "Celebrate the Smithsonian Year of Music by joining the conversation at #SmithsonianMusic | Legal: https://t.co/dJOZaQ7IFu",
+				"url": "https://t.co/axv1t4i8EY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/axv1t4i8EY",
+								"expanded_url": "https://music.si.edu",
+								"display_url": "music.si.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dJOZaQ7IFu",
+								"expanded_url": "http://s.si.edu/legal",
+								"display_url": "s.si.edu/legal",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 191,
+				"friends_count": 53,
+				"listed_count": 3,
+				"created_at": "Wed Jul 27 13:33:06 +0000 2016",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 77,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1074870960996712448/GgImuGk-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074870960996712448/GgImuGk-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/758294140425732100/1469627119",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "they have an amazing range of resources.  I was reminded of this thanks to an alert from @IntScout https://t.co/oNpcnv3t6k"
+	},
+	{
+		"created_at": "Fri May 17 21:51:57 +0000 2019",
+		"id": 1129504857386233900,
+		"id_str": "1129504857386233856",
+		"full_text": "How a community of obscure language inventors made it big with ‘Game of Thrones’ https://t.co/j3l2Mk6seH via @washingtonpost",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						109,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j3l2Mk6seH",
+					"expanded_url": "https://wapo.st/2Q97Jvb?tid=ss_tw&utm_term=.f7e6d927f1bf",
+					"display_url": "wapo.st/2Q97Jvb?tid=ss…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2496,
+			"friends_count": 799,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How a community of obscure language inventors made it big with ‘Game of Thrones’ https://t.co/j3l2Mk6seH via @washingtonpost"
+	},
+	{
+		"created_at": "Fri May 17 20:29:57 +0000 2019",
+		"id": 1129484218965286900,
+		"id_str": "1129484218965286912",
+		"full_text": "@JustinLibrarian @BCLainhart @mjingle @pokane1958 @ned_potter @flexlibris @kirby_mcc @GingerReads @ScrewyDecimal @slavenslaven @WNHastings @Bathtub_Reader @melissabrisbin @agorathauma @HuisceBeatha @kennykozel @JessMarie910 @warrencheetham Thank you @JustinLibrarian very kind 🦑",
+		"truncated": false,
+		"display_text_range": [
+			240,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JustinLibrarian",
+					"name": "Justin Hoenke",
+					"id": 15172643,
+					"id_str": "15172643",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "BCLainhart",
+					"name": "Ben Lainhart",
+					"id": 70774195,
+					"id_str": "70774195",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "mjingle",
+					"name": "Mary J.",
+					"id": 50545869,
+					"id_str": "50545869",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"screen_name": "pokane1958",
+					"name": "Peggy OKane",
+					"id": 88951061,
+					"id_str": "88951061",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"screen_name": "ned_potter",
+					"name": "Ned Potter",
+					"id": 94360076,
+					"id_str": "94360076",
+					"indices": [
+						50,
+						61
+					]
+				},
+				{
+					"screen_name": "flexlibris",
+					"name": "Alison Macrina",
+					"id": 108146685,
+					"id_str": "108146685",
+					"indices": [
+						62,
+						73
+					]
+				},
+				{
+					"screen_name": "kirby_mcc",
+					"name": "Kirby",
+					"id": 124774460,
+					"id_str": "124774460",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"screen_name": "GingerReads",
+					"name": "Kristen Thorp",
+					"id": 187970322,
+					"id_str": "187970322",
+					"indices": [
+						85,
+						97
+					]
+				},
+				{
+					"screen_name": "ScrewyDecimal",
+					"name": "Rita Meade",
+					"id": 190708265,
+					"id_str": "190708265",
+					"indices": [
+						98,
+						112
+					]
+				},
+				{
+					"screen_name": "slavenslaven",
+					"name": "Slaven Slaven",
+					"id": 347358347,
+					"id_str": "347358347",
+					"indices": [
+						113,
+						126
+					]
+				},
+				{
+					"screen_name": "WNHastings",
+					"name": "WNHastings",
+					"id": 780867936,
+					"id_str": "780867936",
+					"indices": [
+						127,
+						138
+					]
+				},
+				{
+					"screen_name": "Bathtub_Reader",
+					"name": "Jessica Meyer",
+					"id": 1904178889,
+					"id_str": "1904178889",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"screen_name": "melissabrisbin",
+					"name": "Melissa Brisbin",
+					"id": 21679803,
+					"id_str": "21679803",
+					"indices": [
+						155,
+						170
+					]
+				},
+				{
+					"screen_name": "agorathauma",
+					"name": "Ale QH",
+					"id": 1131679592,
+					"id_str": "1131679592",
+					"indices": [
+						171,
+						183
+					]
+				},
+				{
+					"screen_name": "HuisceBeatha",
+					"name": "Heather McCormack",
+					"id": 15729915,
+					"id_str": "15729915",
+					"indices": [
+						184,
+						197
+					]
+				},
+				{
+					"screen_name": "kennykozel",
+					"name": "Kenneth Kozel",
+					"id": 109041994,
+					"id_str": "109041994",
+					"indices": [
+						198,
+						209
+					]
+				},
+				{
+					"screen_name": "JessMarie910",
+					"name": "Jess the Fantasy Champion",
+					"id": 594209712,
+					"id_str": "594209712",
+					"indices": [
+						210,
+						223
+					]
+				},
+				{
+					"screen_name": "warrencheetham",
+					"name": "Warren Cheetham",
+					"id": 14297476,
+					"id_str": "14297476",
+					"indices": [
+						224,
+						239
+					]
+				},
+				{
+					"screen_name": "JustinLibrarian",
+					"name": "Justin Hoenke",
+					"id": 15172643,
+					"id_str": "15172643",
+					"indices": [
+						250,
+						266
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1129379816636129300,
+		"in_reply_to_status_id_str": "1129379816636129281",
+		"in_reply_to_user_id": 15172643,
+		"in_reply_to_user_id_str": "15172643",
+		"in_reply_to_screen_name": "JustinLibrarian",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2496,
+			"friends_count": 799,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JustinLibrarian @BCLainhart @mjingle @pokane1958 @ned_potter @flexlibris @kirby_mcc @GingerReads @ScrewyDecimal @slavenslaven @WNHastings @Bathtub_Reader @melissabrisbin @agorathauma @HuisceBeatha @kennykozel @JessMarie910 @warrencheetham Thank you @JustinLibrarian very kind 🦑"
+	},
+	{
 		"created_at": "Sat May 11 18:04:45 +0000 2019",
 		"id": 1127273351922077700,
 		"id_str": "1127273351922077696",
