@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 20:35:08 +0000 2019",
+		"id": 1128670667799498800,
+		"id_str": "1129847910642831360",
+		"full_text": "Don't forget to use this award list for displays, CE, suggestions, and more. Details on the blog and in my Horror Awards Index always: https://t.co/pUj7Fjqv9I\n\n[Special congrats to @GwendolynKiste and @LOTFpod]",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GwendolynKiste",
+					"name": "Gwendolyn Kiste",
+					"id": 2247766735,
+					"id_str": "2247766735",
+					"indices": [
+						181,
+						196
+					]
+				},
+				{
+					"screen_name": "LOTFpod",
+					"name": "Ladies of the Fright Podcast",
+					"id": 954821450212442100,
+					"id_str": "954821450212442118",
+					"indices": [
+						201,
+						209
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pUj7Fjqv9I",
+					"expanded_url": "http://raforallhorror.blogspot.com/p/horror-awards.html",
+					"display_url": "raforallhorror.blogspot.com/p/horror-award…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128670666859982800,
+		"in_reply_to_status_id_str": "1128670666859982848",
+		"in_reply_to_user_id": 2474412986,
+		"in_reply_to_user_id_str": "2474412986",
+		"in_reply_to_screen_name": "RAforAll",
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library especially #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege alum @ARRTreads @HorrorWriters Board",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2279,
+			"friends_count": 1681,
+			"listed_count": 124,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 15425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24953,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't forget to use this award list for displays, CE, suggestions, and more. Details on the blog and in my Horror Awards Index always: https://t.co/pUj7Fjqv9I\n\n[Special congrats to @GwendolynKiste and @LOTFpod]"
+	},
+	{
 		"created_at": "Sat May 18 01:16:42 +0000 2019",
 		"id": 1129556384381407200,
 		"id_str": "1129556384381407232",
