@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 17:37:05 +0000 2019",
+		"id": 1131114988347842600,
+		"id_str": "1131252657111220224",
+		"full_text": "“We can disagree and still love each other. Unless your disagreement is rooted in my oppression.” My column on the AMAZING response to that debate in today’s @guardian \nhttps://t.co/dTUvozyuUN @marcusryder @rydermc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"screen_name": "marcusryder",
+					"name": "Marcus Ryder",
+					"id": 14845609,
+					"id_str": "14845609",
+					"indices": [
+						193,
+						205
+					]
+				},
+				{
+					"screen_name": "rydermc",
+					"name": "Matthew Ryder",
+					"id": 17616537,
+					"id_str": "17616537",
+					"indices": [
+						206,
+						214
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dTUvozyuUN",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2019/may/22/racism-tv-debate-exploitative",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20137622,
+			"id_str": "20137622",
+			"name": "Afua Hirsch",
+			"screen_name": "afuahirsch",
+			"location": "London",
+			"description": "Wallis Annenberg Chair of Journalism 2019 @USC. Writer, Broadcaster, @ManBookerPrize Judge 2019, author of bestselling book Brit(ish) out now!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101390,
+			"friends_count": 9326,
+			"listed_count": 1233,
+			"created_at": "Thu Feb 05 10:57:43 +0000 2009",
+			"favourites_count": 2168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6DC1E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097321847631290369/lGCHlV31_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097321847631290369/lGCHlV31_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20137622/1536959717",
+			"profile_link_color": "050505",
+			"profile_sidebar_border_color": "0A0B0B",
+			"profile_sidebar_fill_color": "F42A2C",
+			"profile_text_color": "131010",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1285,
+		"favorite_count": 3396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“We can disagree and still love each other. Unless your disagreement is rooted in my oppression.” My column on the AMAZING response to that debate in today’s @guardian \nhttps://t.co/dTUvozyuUN @marcusryder @rydermc"
+	},
+	{
 		"created_at": "Tue May 21 19:41:03 +0000 2019",
 		"id": 1130921465564475400,
 		"id_str": "1130921465564475392",
