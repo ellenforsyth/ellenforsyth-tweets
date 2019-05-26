@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 25 22:33:30 +0000 2019",
+		"id": 1132402013415792600,
+		"id_str": "1132414417188999168",
+		"full_text": "Today is National #SorryDay. It’s a time when I think of all those young children and all those parents who suffered extreme loss at the hands of racist Government policy. My heart goes out to those who never found their way home and those who are still searching. #SorryDay2019 https://t.co/MHREVaiLQC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SorryDay",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"text": "SorryDay2019",
+					"indices": [
+						265,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132402006621007900,
+					"id_str": "1132402006621007872",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D7cZoBOVsAA7iAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7cZoBOVsAA7iAL.jpg",
+					"url": "https://t.co/MHREVaiLQC",
+					"display_url": "pic.twitter.com/MHREVaiLQC",
+					"expanded_url": "https://twitter.com/AnitaHeiss/status/1132402013415792640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 649,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1560,
+							"h": 844,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132402006621007900,
+					"id_str": "1132402006621007872",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D7cZoBOVsAA7iAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7cZoBOVsAA7iAL.jpg",
+					"url": "https://t.co/MHREVaiLQC",
+					"display_url": "pic.twitter.com/MHREVaiLQC",
+					"expanded_url": "https://twitter.com/AnitaHeiss/status/1132402013415792640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 649,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1560,
+							"h": 844,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42200093,
+			"id_str": "42200093",
+			"name": "💧Prof Anita Heiss",
+			"screen_name": "AnitaHeiss",
+			"location": "Jagera",
+			"description": "Wiradjuri. Author. Runner. Prof of Communications @ UQ.                Board Member @slqld  Ambassador @GOFoundationAU @IndigenousLF #LivingTheBestLifeIcan",
+			"url": "https://t.co/ai3SyX76EW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ai3SyX76EW",
+							"expanded_url": "http://www.anitaheiss.com",
+							"display_url": "anitaheiss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26468,
+			"friends_count": 4000,
+			"listed_count": 613,
+			"created_at": "Sun May 24 11:40:17 +0000 2009",
+			"favourites_count": 54293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 103969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039437731976241153/Y7KU2giL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039437731976241153/Y7KU2giL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42200093/1511680186",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 570,
+		"favorite_count": 976,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is National #SorryDay. It’s a time when I think of all those young children and all those parents who suffered extreme loss at the hands of racist Government policy. My heart goes out to those who never found their way home and those who are still searching. #SorryDay2019 https://t.co/MHREVaiLQC"
+	},
+	{
+		"created_at": "Sat May 25 21:29:10 +0000 2019",
+		"id": 1132398224788996100,
+		"id_str": "1132398224788996096",
+		"full_text": "Making the National Library 12” LP collection visible https://t.co/aa6qCCJ4zK via @nlnz I like hearing about cataloguing and about why a particular approach was taken",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NLNZ",
+					"name": "National Library NZ",
+					"id": 16248122,
+					"id_str": "16248122",
+					"indices": [
+						82,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aa6qCCJ4zK",
+					"expanded_url": "https://natlib.govt.nz/blog/posts/making-the-national-library-12-lp-collection-visible",
+					"display_url": "natlib.govt.nz/blog/posts/mak…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2495,
+			"friends_count": 798,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Making the National Library 12” LP collection visible https://t.co/aa6qCCJ4zK via @nlnz I like hearing about cataloguing and about why a particular approach was taken"
+	},
+	{
 		"created_at": "Fri May 24 19:26:14 +0000 2019",
 		"id": 1132004898617188400,
 		"id_str": "1132004898617188352",
