@@ -1,6 +1,416 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 20:28:32 +0000 2019",
+		"id": 1135644458010042400,
+		"id_str": "1135644458010042368",
+		"full_text": "some ideas for public libraries to consider in this as well - since they are public spaces too https://t.co/59TCjWWRCb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/59TCjWWRCb",
+					"expanded_url": "https://twitter.com/PPS_Placemaking/status/1135554571177250816",
+					"display_url": "twitter.com/PPS_Placemakin…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2498,
+			"friends_count": 800,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135554571177250800,
+		"quoted_status_id_str": "1135554571177250816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/59TCjWWRCb",
+			"expanded": "https://twitter.com/PPS_Placemaking/status/1135554571177250816",
+			"display": "twitter.com/PPS_Placemakin…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 03 14:31:22 +0000 2019",
+			"id": 1135554571177250800,
+			"id_str": "1135554571177250816",
+			"full_text": "When we aim to make public spaces that are truly for and by the public at large, simply turning the traditional planning process on its head is not enough. How can we make the #placemaking process more inclusive? https://t.co/F8h2GCy5HF https://t.co/PA9OYwU0BV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "placemaking",
+						"indices": [
+							176,
+							188
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/F8h2GCy5HF",
+						"expanded_url": "https://www.pps.org/article/a-playbook-for-inclusive-placemaking-community-process",
+						"display_url": "pps.org/article/a-play…",
+						"indices": [
+							213,
+							236
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1135554568711036900,
+						"id_str": "1135554568711036930",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/D8JM3SMX4AIk1p_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8JM3SMX4AIk1p_.jpg",
+						"url": "https://t.co/PA9OYwU0BV",
+						"display_url": "pic.twitter.com/PA9OYwU0BV",
+						"expanded_url": "https://twitter.com/PPS_Placemaking/status/1135554571177250816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1135554568711036900,
+						"id_str": "1135554568711036930",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/D8JM3SMX4AIk1p_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8JM3SMX4AIk1p_.jpg",
+						"url": "https://t.co/PA9OYwU0BV",
+						"display_url": "pic.twitter.com/PA9OYwU0BV",
+						"expanded_url": "https://twitter.com/PPS_Placemaking/status/1135554571177250816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21919812,
+				"id_str": "21919812",
+				"name": "Proj 4 Public Spaces",
+				"screen_name": "PPS_Placemaking",
+				"location": "New York City",
+				"description": "Project for Public Spaces is the \"town hall\" of the #placemaking movement! Follow our events: @WalkBikePlaces @Public_Markets",
+				"url": "https://t.co/AcxJy05Fiz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AcxJy05Fiz",
+								"expanded_url": "http://www.pps.org/events",
+								"display_url": "pps.org/events",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78627,
+				"friends_count": 12532,
+				"listed_count": 2842,
+				"created_at": "Wed Feb 25 21:14:43 +0000 2009",
+				"favourites_count": 19837,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26420,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1067826773054885888/p5C6ryb1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067826773054885888/p5C6ryb1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21919812/1543345399",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "ADD8FA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some ideas for public libraries to consider in this as well - since they are public spaces too https://t.co/59TCjWWRCb"
+	},
+	{
+		"created_at": "Mon Jun 03 10:39:37 +0000 2019",
+		"id": 1135434100628758500,
+		"id_str": "1135496249367334912",
+		"full_text": "Land clearing up more than 50% in NSW even before new laws introduced https://t.co/dkXcxOzWph",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dkXcxOzWph",
+					"expanded_url": "https://www.theguardian.com/australia-news/2019/jun/03/land-clearing-up-more-than-50-in-nsw-even-before-new-laws-introduced?utm_term=Autofeed&CMP=soc_568&utm_medium=Social&utm_source=Twitter#Echobox=1559543558",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092378031,
+			"id_str": "1092378031",
+			"name": "Guardian Australia",
+			"screen_name": "GuardianAus",
+			"location": "Australia",
+			"description": "Latest news from Guardian Australia",
+			"url": "https://t.co/yhI6Vqsr3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhI6Vqsr3q",
+							"expanded_url": "https://support.theguardian.com/au/contribute",
+							"display_url": "support.theguardian.com/au/contribute",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190843,
+			"friends_count": 142,
+			"listed_count": 2305,
+			"created_at": "Tue Jan 15 15:16:44 +0000 2013",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 188646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2AFA9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061908763169509376/dNslMkWo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061908763169509376/dNslMkWo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092378031/1542013739",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Land clearing up more than 50% in NSW even before new laws introduced https://t.co/dkXcxOzWph"
+	},
+	{
 		"created_at": "Sun Jun 02 22:16:59 +0000 2019",
 		"id": 1135246548374364200,
 		"id_str": "1135309361662685184",
