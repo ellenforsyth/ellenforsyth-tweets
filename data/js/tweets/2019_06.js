@@ -1,6 +1,721 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 20:29:04 +0000 2019",
+		"id": 1136614428198223900,
+		"id_str": "1136731753836666880",
+		"full_text": "Amidst today's refugee crisis, cross-cultural children's books have the power to connect the world. This month for World Refugee Day, learn how you can help cultivate compassion in young readers:  https://t.co/KSzxa9fGBM #ThursdayThoughts #WithRefugees https://t.co/jdpM0ihIV1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThursdayThoughts",
+					"indices": [
+						221,
+						238
+					]
+				},
+				{
+					"text": "WithRefugees",
+					"indices": [
+						239,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KSzxa9fGBM",
+					"expanded_url": "https://bit.ly/2KuFAOz",
+					"display_url": "bit.ly/2KuFAOz",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136614423072825300,
+					"id_str": "1136614423072825344",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/D8YQy7XXYAAV9D2.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8YQy7XXYAAV9D2.png",
+					"url": "https://t.co/jdpM0ihIV1",
+					"display_url": "pic.twitter.com/jdpM0ihIV1",
+					"expanded_url": "https://twitter.com/RoomtoRead/status/1136614428198223872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 723,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 723,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136614423072825300,
+					"id_str": "1136614423072825344",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/D8YQy7XXYAAV9D2.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8YQy7XXYAAV9D2.png",
+					"url": "https://t.co/jdpM0ihIV1",
+					"display_url": "pic.twitter.com/jdpM0ihIV1",
+					"expanded_url": "https://twitter.com/RoomtoRead/status/1136614428198223872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 723,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 723,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64823914,
+			"id_str": "64823914",
+			"name": "Room to Read",
+			"screen_name": "RoomtoRead",
+			"location": "San Francisco, CA",
+			"description": "We partner with communities across the globe to promote literacy and girls' education. World change starts with educated children.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572409,
+			"friends_count": 3658,
+			"listed_count": 5684,
+			"created_at": "Tue Aug 11 21:08:40 +0000 2009",
+			"favourites_count": 4325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1D9AD9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/769217849470619648/hHeKiLwY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/769217849470619648/hHeKiLwY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64823914/1517433242",
+			"profile_link_color": "3399FF",
+			"profile_sidebar_border_color": "96B24B",
+			"profile_sidebar_fill_color": "D7F397",
+			"profile_text_color": "007BA4",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amidst today's refugee crisis, cross-cultural children's books have the power to connect the world. This month for World Refugee Day, learn how you can help cultivate compassion in young readers:  https://t.co/KSzxa9fGBM #ThursdayThoughts #WithRefugees https://t.co/jdpM0ihIV1"
+	},
+	{
+		"created_at": "Thu Jun 06 20:28:23 +0000 2019",
+		"id": 1136169987201101800,
+		"id_str": "1136731581106851840",
+		"full_text": "We’re thrilled that the Library Amendment Bill 2019 passed NSW Parliament today, a decision vital to the future development of the State Library’s collections for the people of NSW and beyond. \n\nLearn more: https://t.co/JtMjL33Dv4 https://t.co/n87oVK3Jch",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JtMjL33Dv4",
+					"expanded_url": "https://www.sl.nsw.gov.au/blogs/library-amendment-bill-2019",
+					"display_url": "sl.nsw.gov.au/blogs/library-…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136168252978094100,
+					"id_str": "1136168252978094080",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/D8R7AaPV4AA3eij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8R7AaPV4AA3eij.jpg",
+					"url": "https://t.co/n87oVK3Jch",
+					"display_url": "pic.twitter.com/n87oVK3Jch",
+					"expanded_url": "https://twitter.com/statelibrarynsw/status/1136169987201101824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136168252978094100,
+					"id_str": "1136168252978094080",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/D8R7AaPV4AA3eij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8R7AaPV4AA3eij.jpg",
+					"url": "https://t.co/n87oVK3Jch",
+					"display_url": "pic.twitter.com/n87oVK3Jch",
+					"expanded_url": "https://twitter.com/statelibrarynsw/status/1136169987201101824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121597205,
+			"id_str": "121597205",
+			"name": "State Library of NSW",
+			"screen_name": "statelibrarynsw",
+			"location": "Sydney, Australia",
+			"description": "Collecting, connecting and challenging ideas since 1826. Funded by the NSW Government.",
+			"url": "https://t.co/M4rzAKs3RK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M4rzAKs3RK",
+							"expanded_url": "http://www.sl.nsw.gov.au",
+							"display_url": "sl.nsw.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15603,
+			"friends_count": 964,
+			"listed_count": 435,
+			"created_at": "Wed Mar 10 00:43:42 +0000 2010",
+			"favourites_count": 4953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937050911/intero_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937050911/intero_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121597205/1504572564",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A6A6A6",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re thrilled that the Library Amendment Bill 2019 passed NSW Parliament today, a decision vital to the future development of the State Library’s collections for the people of NSW and beyond. \n\nLearn more: https://t.co/JtMjL33Dv4 https://t.co/n87oVK3Jch"
+	},
+	{
+		"created_at": "Thu Jun 06 20:21:14 +0000 2019",
+		"id": 1136729785676156900,
+		"id_str": "1136729785676156928",
+		"full_text": "lovely https://t.co/XOqa0TnBTP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XOqa0TnBTP",
+					"expanded_url": "https://twitter.com/NFSAonline/status/1135735535983562752",
+					"display_url": "twitter.com/NFSAonline/sta…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2499,
+			"friends_count": 800,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135735535983562800,
+		"quoted_status_id_str": "1135735535983562752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XOqa0TnBTP",
+			"expanded": "https://twitter.com/NFSAonline/status/1135735535983562752",
+			"display": "twitter.com/NFSAonline/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 04 02:30:27 +0000 2019",
+			"id": 1135735535983562800,
+			"id_str": "1135735535983562752",
+			"full_text": "#Skippy is a very financially savvy kangaroo, with an integrated safety deposit box!\nNew online-only exhibition now available: https://t.co/wV7m1pcKlI https://t.co/cWNoFVgfgX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Skippy",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wV7m1pcKlI",
+						"expanded_url": "https://www.nfsa.gov.au/skippy",
+						"display_url": "nfsa.gov.au/skippy",
+						"indices": [
+							127,
+							150
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1135735426415779800,
+						"id_str": "1135735426415779840",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135735426415779840/pu/img/ZxtFwDhHykihNtBt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135735426415779840/pu/img/ZxtFwDhHykihNtBt.jpg",
+						"url": "https://t.co/cWNoFVgfgX",
+						"display_url": "pic.twitter.com/cWNoFVgfgX",
+						"expanded_url": "https://twitter.com/NFSAonline/status/1135735535983562752/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 576,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1135735426415779800,
+						"id_str": "1135735426415779840",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135735426415779840/pu/img/ZxtFwDhHykihNtBt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135735426415779840/pu/img/ZxtFwDhHykihNtBt.jpg",
+						"url": "https://t.co/cWNoFVgfgX",
+						"display_url": "pic.twitter.com/cWNoFVgfgX",
+						"expanded_url": "https://twitter.com/NFSAonline/status/1135735535983562752/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 576,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 83760,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1135735426415779840/pu/vid/480x360/Ip8_3afyEO8a0A2A.mp4?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1135735426415779840/pu/vid/768x576/Ed53h_3zSLILQfGU.mp4?tag=9"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1135735426415779840/pu/vid/240x180/hSRqwgecjyG1gAfQ.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1135735426415779840/pu/pl/R66aTN41ZMeBoOQg.m3u8?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62450822,
+				"id_str": "62450822",
+				"name": "NFSAonline",
+				"screen_name": "NFSAonline",
+				"location": "Australia",
+				"description": "Australia's 'living' archive – custodians of over 2.8 million audiovisual items that we collect, preserve, and share. Legal notices: https://t.co/YNqzh4bMIm",
+				"url": "https://t.co/6Skbh6d92Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6Skbh6d92Q",
+								"expanded_url": "http://www.nfsa.gov.au",
+								"display_url": "nfsa.gov.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YNqzh4bMIm",
+								"expanded_url": "http://ow.ly/4Pul307hsz7",
+								"display_url": "ow.ly/4Pul307hsz7",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7792,
+				"friends_count": 1382,
+				"listed_count": 338,
+				"created_at": "Mon Aug 03 06:05:26 +0000 2009",
+				"favourites_count": 2158,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10632,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/797974780548743168/NUzRSlj9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/797974780548743168/NUzRSlj9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62450822/1549426715",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lovely https://t.co/XOqa0TnBTP"
+	},
+	{
 		"created_at": "Thu Jun 06 07:13:28 +0000 2019",
 		"id": 1136531534607818800,
 		"id_str": "1136531534607818752",
