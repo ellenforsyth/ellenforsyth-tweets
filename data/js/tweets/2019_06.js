@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 22 07:14:19 +0000 2019",
+		"id": 1142329953741992000,
+		"id_str": "1142329953741991937",
+		"full_text": "Warialda Public School turning the page on bedtime reading routine with videos going viral | The Inverell Times - a nice story about reading https://t.co/JZM7aKblro",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JZM7aKblro",
+					"expanded_url": "https://www.moreechampion.com.au/story/6230136/reading-revolution-warialda-school-turning-the-page-on-bedtime-reading-with-viral-videos/",
+					"display_url": "moreechampion.com.au/story/6230136/…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2498,
+			"friends_count": 799,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Warialda Public School turning the page on bedtime reading routine with videos going viral | The Inverell Times - a nice story about reading https://t.co/JZM7aKblro"
+	},
+	{
+		"created_at": "Fri Jun 21 20:40:07 +0000 2019",
+		"id": 1140862065193541600,
+		"id_str": "1142170355303428096",
+		"full_text": "Fantastic #OzHist project: Digitisation of library records reveals reading habits of 19thC working-class Australians https://t.co/G37UCtKVRA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OzHist",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G37UCtKVRA",
+					"expanded_url": "https://www.theguardian.com/books/2019/jun/18/revolutionary-project-reveals-reading-habits-of-19th-century-working-class-australians?CMP=share_btn_tw",
+					"display_url": "theguardian.com/books/2019/jun…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 199452278,
+			"id_str": "199452278",
+			"name": "Yvonne Perkins",
+			"screen_name": "perkinsy",
+			"location": "Sydney",
+			"description": "Writing about beliefs of #OzHist soldiers in #WWI using research tools from #DigitalHumanities. I share good books & history #AWW2018 #twitterstorians",
+			"url": "https://t.co/G9gMWIg4EX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G9gMWIg4EX",
+							"expanded_url": "http://www.stumblingpast.com",
+							"display_url": "stumblingpast.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1325,
+			"friends_count": 612,
+			"listed_count": 102,
+			"created_at": "Wed Oct 06 22:22:18 +0000 2010",
+			"favourites_count": 633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/644119990828855297/HD6Eu2Lb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/644119990828855297/HD6Eu2Lb_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic #OzHist project: Digitisation of library records reveals reading habits of 19thC working-class Australians https://t.co/G37UCtKVRA"
+	},
+	{
+		"created_at": "Fri Jun 21 20:37:58 +0000 2019",
+		"id": 1141474006291353600,
+		"id_str": "1142169811696390145",
+		"full_text": "\"We have this incredible, vast expanse of recorded memory of Australia from the 20th century and all of it, now, is at risk — through technological obsolescence — of being lost altogether.\" @naagovau is extremely worried about 130,000 hours of tape: https://t.co/KnkfdNBENI https://t.co/9EsDJrw3se",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naagovau",
+					"name": "National Archives of Australia",
+					"id": 153658423,
+					"id_str": "153658423",
+					"indices": [
+						190,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KnkfdNBENI",
+					"expanded_url": "https://ab.co/2Kqv1Nd",
+					"display_url": "ab.co/2Kqv1Nd",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1141474004299132900,
+					"id_str": "1141474004299132934",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/D9dUjyKXsAYVqNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9dUjyKXsAYVqNV.jpg",
+					"url": "https://t.co/9EsDJrw3se",
+					"display_url": "pic.twitter.com/9EsDJrw3se",
+					"expanded_url": "https://twitter.com/ABCReligion/status/1141474006291353606/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 627,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 940,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141474004299132900,
+					"id_str": "1141474004299132934",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/D9dUjyKXsAYVqNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9dUjyKXsAYVqNV.jpg",
+					"url": "https://t.co/9EsDJrw3se",
+					"display_url": "pic.twitter.com/9EsDJrw3se",
+					"expanded_url": "https://twitter.com/ABCReligion/status/1141474006291353606/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 627,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 940,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.spredfast.com/\" rel=\"nofollow\">Spredfast app</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22092333,
+			"id_str": "22092333",
+			"name": "ABC Religion&Ethics",
+			"screen_name": "ABCReligion",
+			"location": "Australia",
+			"description": "Religion and ethics news, opinion and programs from the ABC.",
+			"url": "http://t.co/fXo4ZyqsDh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fXo4ZyqsDh",
+							"expanded_url": "http://www.abc.net.au/religion",
+							"display_url": "abc.net.au/religion",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23830,
+			"friends_count": 1920,
+			"listed_count": 712,
+			"created_at": "Fri Feb 27 01:39:57 +0000 2009",
+			"favourites_count": 352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039774503348256768/br3N21UM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039774503348256768/br3N21UM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22092333/1537152647",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"We have this incredible, vast expanse of recorded memory of Australia from the 20th century and all of it, now, is at risk — through technological obsolescence — of being lost altogether.\" @naagovau is extremely worried about 130,000 hours of tape: https://t.co/KnkfdNBENI https://t.co/9EsDJrw3se"
+	},
+	{
+		"created_at": "Fri Jun 21 20:37:02 +0000 2019",
+		"id": 1141582219267285000,
+		"id_str": "1142169577113214980",
+		"full_text": "Our languages are a tool to understanding our ways of knowing and being, via @dauareb_le for @IndigenousX #LowitjaConf2019 https://t.co/gm3RK8w6IM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LowitjaConf2019",
+					"indices": [
+						106,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dauareb_le",
+					"name": "Ali Drummond",
+					"id": 1464386738,
+					"id_str": "1464386738",
+					"indices": [
+						77,
+						88
+					]
+				},
+				{
+					"screen_name": "IndigenousX",
+					"name": "Ali Drummond",
+					"id": 172652106,
+					"id_str": "172652106",
+					"indices": [
+						93,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gm3RK8w6IM",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2019/jun/20/our-languages-are-a-tool-to-understanding-our-ways-of-knowing-and-being?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 326765076,
+			"id_str": "326765076",
+			"name": "IndigenousX Pty Ltd",
+			"screen_name": "IndigenousXLtd",
+			"location": "Australia",
+			"description": "IndigenousX Pty Ltd is behind @IndigenousX & https://t.co/eJmojFdFHY and also offers a range of consulting and training services.",
+			"url": "https://t.co/RRulyGMipd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RRulyGMipd",
+							"expanded_url": "https://www.patreon.com/IndigenousX",
+							"display_url": "patreon.com/IndigenousX",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eJmojFdFHY",
+							"expanded_url": "http://IndigenousX.com.au",
+							"display_url": "IndigenousX.com.au",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34899,
+			"friends_count": 5693,
+			"listed_count": 370,
+			"created_at": "Thu Jun 30 13:11:41 +0000 2011",
+			"favourites_count": 23093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085387766735781888/nch3rbHt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085387766735781888/nch3rbHt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326765076/1547611546",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our languages are a tool to understanding our ways of knowing and being, via @dauareb_le for @IndigenousX #LowitjaConf2019 https://t.co/gm3RK8w6IM"
+	},
+	{
 		"created_at": "Wed Jun 19 18:54:09 +0000 2019",
 		"id": 1141372740752068600,
 		"id_str": "1141418912040411136",
