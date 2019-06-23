@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 23 03:19:20 +0000 2019",
+		"id": 1142633206224584700,
+		"id_str": "1142633206224584704",
+		"full_text": "@emelaarghh @margaretwerth Yes, it is exciting work, and even led me to do some hyperbolic crochet 🧶",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emelaarghh",
+					"name": "🌏💧Margaret L Ruwoldt",
+					"id": 554986167,
+					"id_str": "554986167",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "margaretwerth",
+					"name": "Margaret Wertheim",
+					"id": 31533792,
+					"id_str": "31533792",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1142549975391334400,
+		"in_reply_to_status_id_str": "1142549975391334400",
+		"in_reply_to_user_id": 554986167,
+		"in_reply_to_user_id_str": "554986167",
+		"in_reply_to_screen_name": "emelaarghh",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2498,
+			"friends_count": 799,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@emelaarghh @margaretwerth Yes, it is exciting work, and even led me to do some hyperbolic crochet 🧶"
+	},
+	{
+		"created_at": "Sat Jun 22 21:14:26 +0000 2019",
+		"id": 1142541378687160300,
+		"id_str": "1142541378687160320",
+		"full_text": "There is a very interesting research project being done too https://t.co/RSgA5u0VBy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RSgA5u0VBy",
+					"expanded_url": "https://twitter.com/ojollyknits/status/1129544671095656448",
+					"display_url": "twitter.com/ojollyknits/st…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2498,
+			"friends_count": 799,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129544671095656400,
+		"quoted_status_id_str": "1129544671095656448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RSgA5u0VBy",
+			"expanded": "https://twitter.com/ojollyknits/status/1129544671095656448",
+			"display": "twitter.com/ojollyknits/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 18 00:30:10 +0000 2019",
+			"id": 1129544671095656400,
+			"id_str": "1129544671095656448",
+			"full_text": "‘Knitting is Coding’ and Yarn is Programmable in This Physics Lab https://t.co/Y1WxdQNC2j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Y1WxdQNC2j",
+						"expanded_url": "https://www.nytimes.com/2019/05/17/science/math-physics-knitting-matsumoto.html",
+						"display_url": "nytimes.com/2019/05/17/sci…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 233227432,
+				"id_str": "233227432",
+				"name": "Olgalyn Jolly",
+				"screen_name": "ojollyknits",
+				"location": "New York NY",
+				"description": "Knit designer & instructor Olgalyn Jolly, creator of online course How to Cut & Sew a Sweater. https://t.co/JBrtlk9xhN",
+				"url": "https://t.co/fd9fuRTrAa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fd9fuRTrAa",
+								"expanded_url": "https://www.ojolly.net",
+								"display_url": "ojolly.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JBrtlk9xhN",
+								"expanded_url": "http://SewSweaters.com",
+								"display_url": "SewSweaters.com",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1484,
+				"friends_count": 1151,
+				"listed_count": 75,
+				"created_at": "Sun Jan 02 17:30:18 +0000 2011",
+				"favourites_count": 546,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9637,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1032773839971860481/lGNa0JVl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032773839971860481/lGNa0JVl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/233227432/1413557354",
+				"profile_link_color": "A16D20",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "696255",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There is a very interesting research project being done too https://t.co/RSgA5u0VBy"
+	},
+	{
+		"created_at": "Sat Jun 22 21:08:45 +0000 2019",
+		"id": 1140050481563045900,
+		"id_str": "1142539949398470657",
+		"full_text": "My pal @BenFeist put together this incredible online toolfor #Apollo50 that anyone can go to to see Apollo 11 in real-time with video and audio of the astronauts and mission control and pictures and it's amazing\n\nhttps://t.co/jKM8Dn7krR https://t.co/FfGGRhihfV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Apollo50",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BenFeist",
+					"name": "Ben Feist",
+					"id": 28721531,
+					"id_str": "28721531",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jKM8Dn7krR",
+					"expanded_url": "https://apolloinrealtime.org/11",
+					"display_url": "apolloinrealtime.org/11",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1140050476102066200,
+					"id_str": "1140050476102066176",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/D9JF3iYUIAAECLm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9JF3iYUIAAECLm.jpg",
+					"url": "https://t.co/FfGGRhihfV",
+					"display_url": "pic.twitter.com/FfGGRhihfV",
+					"expanded_url": "https://twitter.com/tweetsoutloud/status/1140050481563045888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1106,
+							"h": 1902,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 698,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 395,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140050476102066200,
+					"id_str": "1140050476102066176",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/D9JF3iYUIAAECLm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9JF3iYUIAAECLm.jpg",
+					"url": "https://t.co/FfGGRhihfV",
+					"display_url": "pic.twitter.com/FfGGRhihfV",
+					"expanded_url": "https://twitter.com/tweetsoutloud/status/1140050481563045888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1106,
+							"h": 1902,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 698,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 395,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61306578,
+			"id_str": "61306578",
+			"name": "Bobak Ferdowsi",
+			"screen_name": "tweetsoutloud",
+			"location": " Pasadena, CA",
+			"description": "Explorer of space. Engineer on NISAR Earth Science & Europa Clipper. Mars Curiosity, Cassini Saturn. Cat dad. Self-opinioned.",
+			"url": "https://t.co/ex43odHCPD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ex43odHCPD",
+							"expanded_url": "http://www.instagram.com/tweetsoutloud",
+							"display_url": "instagram.com/tweetsoutloud",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121840,
+			"friends_count": 825,
+			"listed_count": 2319,
+			"created_at": "Wed Jul 29 21:56:58 +0000 2009",
+			"favourites_count": 14919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800851532258242561/gNd_hSSq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800851532258242561/gNd_hSSq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61306578/1417456731",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My pal @BenFeist put together this incredible online toolfor #Apollo50 that anyone can go to to see Apollo 11 in real-time with video and audio of the astronauts and mission control and pictures and it's amazing\n\nhttps://t.co/jKM8Dn7krR https://t.co/FfGGRhihfV"
+	},
+	{
 		"created_at": "Sat Jun 22 07:14:19 +0000 2019",
 		"id": 1142329953741992000,
 		"id_str": "1142329953741991937",
