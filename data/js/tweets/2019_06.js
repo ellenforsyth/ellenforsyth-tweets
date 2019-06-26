@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 25 20:19:19 +0000 2019",
+		"id": 1138243444940296200,
+		"id_str": "1143614671770902528",
+		"full_text": "Excited to share a new article I co-authored with @katiedavis and @partridh, an exploration into everyday life social media information experiences, published today in Information Research journal in Sweden/UK. The paper is available to read here: https://t.co/ZMNQLDSSNN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katiedavis",
+					"name": "Kate Davis",
+					"id": 8261692,
+					"id_str": "8261692",
+					"indices": [
+						50,
+						61
+					]
+				},
+				{
+					"screen_name": "partridh",
+					"name": "Helen Partridge",
+					"id": 6850322,
+					"id_str": "6850322",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZMNQLDSSNN",
+					"expanded_url": "http://www.informationr.net/ir/24-2/paper824.html",
+					"display_url": "informationr.net/ir/24-2/paper8…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1913118212,
+			"id_str": "1913118212",
+			"name": "Faye Miller",
+			"screen_name": "feliqzm",
+			"location": "",
+			"description": "social researcher, lecturer, documentary producer, muso",
+			"url": "https://t.co/sBbL262tS8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sBbL262tS8",
+							"expanded_url": "http://fayeqmiller.net",
+							"display_url": "fayeqmiller.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 419,
+			"friends_count": 823,
+			"listed_count": 45,
+			"created_at": "Sat Sep 28 04:45:32 +0000 2013",
+			"favourites_count": 1539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E8AB3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058827258054373376/fARhND2r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058827258054373376/fARhND2r_normal.jpg",
+			"profile_link_color": "0148CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to share a new article I co-authored with @katiedavis and @partridh, an exploration into everyday life social media information experiences, published today in Information Research journal in Sweden/UK. The paper is available to read here: https://t.co/ZMNQLDSSNN"
+	},
+	{
 		"created_at": "Mon Jun 24 10:33:30 +0000 2019",
 		"id": 1143104855277310000,
 		"id_str": "1143104855277309952",
