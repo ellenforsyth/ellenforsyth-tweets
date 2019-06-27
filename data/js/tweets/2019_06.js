@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 26 19:49:20 +0000 2019",
+		"id": 1143969513307689000,
+		"id_str": "1143969513307688960",
+		"full_text": "exciting, crowdsourced, contemporary collecting of local studies material by @slqld with their 2019 Year of Outback Queensland Tourism Flickr Group https://t.co/DtMIVjjiLx this is brilliant",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slqld",
+					"name": "State Library of Qld",
+					"id": 22097835,
+					"id_str": "22097835",
+					"indices": [
+						77,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DtMIVjjiLx",
+					"expanded_url": "http://blogs.slq.qld.gov.au/plconnect/2019/06/21/year-of-outbackqueensland-on-flickr/",
+					"display_url": "blogs.slq.qld.gov.au/plconnect/2019…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2498,
+			"friends_count": 799,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "exciting, crowdsourced, contemporary collecting of local studies material by @slqld with their 2019 Year of Outback Queensland Tourism Flickr Group https://t.co/DtMIVjjiLx this is brilliant"
+	},
+	{
+		"created_at": "Wed Jun 26 19:40:09 +0000 2019",
+		"id": 1143311599958155300,
+		"id_str": "1143967199939502080",
+		"full_text": "\"This new way of displaying guns from our collection . . . . transforms them from banal emotionless artifacts to objects that carry the weight of the violent acts they were used to commit.\" Great article by @shortylashaw @AAMers \n@oaklandmuseumca https://t.co/zU5DjUFCMV https://t.co/R2V1fZVTuZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shortylashaw",
+					"name": "Christine Lashaw",
+					"id": 1588927627,
+					"id_str": "1588927627",
+					"indices": [
+						207,
+						220
+					]
+				},
+				{
+					"screen_name": "AAMers",
+					"name": "Alliance of Museums",
+					"id": 23070306,
+					"id_str": "23070306",
+					"indices": [
+						221,
+						228
+					]
+				},
+				{
+					"screen_name": "oaklandmuseumca",
+					"name": "Oakland Museum of California",
+					"id": 18785238,
+					"id_str": "18785238",
+					"indices": [
+						230,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zU5DjUFCMV",
+					"expanded_url": "https://buff.ly/2XZKB5K",
+					"display_url": "buff.ly/2XZKB5K",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1143311598578257900,
+					"id_str": "1143311598578257921",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/D93b12TXUAESQWx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D93b12TXUAESQWx.jpg",
+					"url": "https://t.co/R2V1fZVTuZ",
+					"display_url": "pic.twitter.com/R2V1fZVTuZ",
+					"expanded_url": "https://twitter.com/MuseumJones/status/1143311599958155264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143311598578257900,
+					"id_str": "1143311598578257921",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/D93b12TXUAESQWx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D93b12TXUAESQWx.jpg",
+					"url": "https://t.co/R2V1fZVTuZ",
+					"display_url": "pic.twitter.com/R2V1fZVTuZ",
+					"expanded_url": "https://twitter.com/MuseumJones/status/1143311599958155264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39085182,
+			"id_str": "39085182",
+			"name": "Andrea Jones ⚡️",
+			"screen_name": "MuseumJones",
+			"location": "Washington, DC",
+			"description": "Educational Experience Designer. Envelope Pusher. Big Picture Thinker. Transformational learning in museums.",
+			"url": "https://t.co/e23dMdBrti",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e23dMdBrti",
+							"expanded_url": "http://www.peakexperiencelab.com/",
+							"display_url": "peakexperiencelab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1246,
+			"friends_count": 829,
+			"listed_count": 30,
+			"created_at": "Sun May 10 17:56:59 +0000 2009",
+			"favourites_count": 2172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/987118822720090112/uk4t1PVE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/987118822720090112/uk4t1PVE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39085182/1524182550",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"This new way of displaying guns from our collection . . . . transforms them from banal emotionless artifacts to objects that carry the weight of the violent acts they were used to commit.\" Great article by @shortylashaw @AAMers \n@oaklandmuseumca https://t.co/zU5DjUFCMV https://t.co/R2V1fZVTuZ"
+	},
+	{
 		"created_at": "Tue Jun 25 20:19:19 +0000 2019",
 		"id": 1138243444940296200,
 		"id_str": "1143614671770902528",
