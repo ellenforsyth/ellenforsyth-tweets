@@ -1,6 +1,1224 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 20:12:48 +0000 2019",
+		"id": 1144337806354874400,
+		"id_str": "1144337806354874368",
+		"full_text": "Old fishes telling new stories https://t.co/JrJue04K7K via @te_papa very interesting research",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Te_Papa",
+					"name": "Te Papa",
+					"id": 29090322,
+					"id_str": "29090322",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JrJue04K7K",
+					"expanded_url": "https://blog.tepapa.govt.nz/2019/06/27/old-fishes-telling-new-stories/",
+					"display_url": "blog.tepapa.govt.nz/2019/06/27/old…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2498,
+			"friends_count": 799,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Old fishes telling new stories https://t.co/JrJue04K7K via @te_papa very interesting research"
+	},
+	{
+		"created_at": "Thu Jun 27 19:56:55 +0000 2019",
+		"id": 1139341186395758600,
+		"id_str": "1144333811439661058",
+		"full_text": "23% of non-broadband users say the most important reason for them not having a broadband connection at home is because their smartphones let them do everything they need to do online - up from 12% in 2015 https://t.co/GGLtzFWiOh https://t.co/XTNaeAvO6k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GGLtzFWiOh",
+					"expanded_url": "https://pewrsr.ch/2KeVYDv",
+					"display_url": "pewrsr.ch/2KeVYDv",
+					"indices": [
+						205,
+						228
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1139341184780968000,
+					"id_str": "1139341184780967938",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/D8_AxWTXoAI74J9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8_AxWTXoAI74J9.jpg",
+					"url": "https://t.co/XTNaeAvO6k",
+					"display_url": "pic.twitter.com/XTNaeAvO6k",
+					"expanded_url": "https://twitter.com/pewinternet/status/1139341186395758592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 358,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 1198,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139341184780968000,
+					"id_str": "1139341184780967938",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/D8_AxWTXoAI74J9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8_AxWTXoAI74J9.jpg",
+					"url": "https://t.co/XTNaeAvO6k",
+					"display_url": "pic.twitter.com/XTNaeAvO6k",
+					"expanded_url": "https://twitter.com/pewinternet/status/1139341186395758592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 358,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 1198,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17071048,
+			"id_str": "17071048",
+			"name": "Pew Research Internet",
+			"screen_name": "pewinternet",
+			"location": "Washington, DC",
+			"description": "Nonpartisan, non-advocacy @pewresearch data about technology and the internet",
+			"url": "https://t.co/rtNTrBrUQB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rtNTrBrUQB",
+							"expanded_url": "http://pewresearch.org/internet",
+							"display_url": "pewresearch.org/internet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118782,
+			"friends_count": 547,
+			"listed_count": 6637,
+			"created_at": "Thu Oct 30 18:40:17 +0000 2008",
+			"favourites_count": 930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879731041099034627/PyT6S0zf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879731041099034627/PyT6S0zf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17071048/1494251660",
+			"profile_link_color": "044F85",
+			"profile_sidebar_border_color": "9BAABA",
+			"profile_sidebar_fill_color": "DEDEDE",
+			"profile_text_color": "2B2B2B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "23% of non-broadband users say the most important reason for them not having a broadband connection at home is because their smartphones let them do everything they need to do online - up from 12% in 2015 https://t.co/GGLtzFWiOh https://t.co/XTNaeAvO6k"
+	},
+	{
+		"created_at": "Thu Jun 27 19:54:14 +0000 2019",
+		"id": 1142817844859744300,
+		"id_str": "1144333134495772672",
+		"full_text": "Mobile Connectivity in Emerging Economies https://t.co/kDZ6h7VNGa https://t.co/7O6tLETUwE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kDZ6h7VNGa",
+					"expanded_url": "https://pewrsr.ch/2FF7iFq",
+					"display_url": "pewrsr.ch/2FF7iFq",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142817843320414200,
+					"id_str": "1142817843320414208",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/D9waxgoXYAA0onQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9waxgoXYAA0onQ.jpg",
+					"url": "https://t.co/7O6tLETUwE",
+					"display_url": "pic.twitter.com/7O6tLETUwE",
+					"expanded_url": "https://twitter.com/pewinternet/status/1142817844859744257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142817843320414200,
+					"id_str": "1142817843320414208",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/D9waxgoXYAA0onQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9waxgoXYAA0onQ.jpg",
+					"url": "https://t.co/7O6tLETUwE",
+					"display_url": "pic.twitter.com/7O6tLETUwE",
+					"expanded_url": "https://twitter.com/pewinternet/status/1142817844859744257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17071048,
+			"id_str": "17071048",
+			"name": "Pew Research Internet",
+			"screen_name": "pewinternet",
+			"location": "Washington, DC",
+			"description": "Nonpartisan, non-advocacy @pewresearch data about technology and the internet",
+			"url": "https://t.co/rtNTrBrUQB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rtNTrBrUQB",
+							"expanded_url": "http://pewresearch.org/internet",
+							"display_url": "pewresearch.org/internet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118782,
+			"friends_count": 547,
+			"listed_count": 6637,
+			"created_at": "Thu Oct 30 18:40:17 +0000 2008",
+			"favourites_count": 930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879731041099034627/PyT6S0zf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879731041099034627/PyT6S0zf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17071048/1494251660",
+			"profile_link_color": "044F85",
+			"profile_sidebar_border_color": "9BAABA",
+			"profile_sidebar_fill_color": "DEDEDE",
+			"profile_text_color": "2B2B2B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mobile Connectivity in Emerging Economies https://t.co/kDZ6h7VNGa https://t.co/7O6tLETUwE"
+	},
+	{
+		"created_at": "Thu Jun 27 19:53:20 +0000 2019",
+		"id": 1139568964898566100,
+		"id_str": "1144332905616818176",
+		"full_text": "🚨🚨2019 social media usage data is now available🚨🚨 https://t.co/j7XLJTTumD https://t.co/uHBEB66gRz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j7XLJTTumD",
+					"expanded_url": "http://pewrsr.ch/2jbcwOh",
+					"display_url": "pewrsr.ch/2jbcwOh",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1139568864432459800,
+					"id_str": "1139568864432459777",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9CP2DGXkAEZxXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9CP2DGXkAEZxXv.jpg",
+					"url": "https://t.co/uHBEB66gRz",
+					"display_url": "pic.twitter.com/uHBEB66gRz",
+					"expanded_url": "https://twitter.com/pewinternet/status/1139568964898566144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139568864432459800,
+					"id_str": "1139568864432459777",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9CP2DGXkAEZxXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9CP2DGXkAEZxXv.jpg",
+					"url": "https://t.co/uHBEB66gRz",
+					"display_url": "pic.twitter.com/uHBEB66gRz",
+					"expanded_url": "https://twitter.com/pewinternet/status/1139568964898566144/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 1040,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D9CP2DGXkAEZxXv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17071048,
+			"id_str": "17071048",
+			"name": "Pew Research Internet",
+			"screen_name": "pewinternet",
+			"location": "Washington, DC",
+			"description": "Nonpartisan, non-advocacy @pewresearch data about technology and the internet",
+			"url": "https://t.co/rtNTrBrUQB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rtNTrBrUQB",
+							"expanded_url": "http://pewresearch.org/internet",
+							"display_url": "pewresearch.org/internet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118782,
+			"friends_count": 547,
+			"listed_count": 6637,
+			"created_at": "Thu Oct 30 18:40:17 +0000 2008",
+			"favourites_count": 930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879731041099034627/PyT6S0zf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879731041099034627/PyT6S0zf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17071048/1494251660",
+			"profile_link_color": "044F85",
+			"profile_sidebar_border_color": "9BAABA",
+			"profile_sidebar_fill_color": "DEDEDE",
+			"profile_text_color": "2B2B2B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨🚨2019 social media usage data is now available🚨🚨 https://t.co/j7XLJTTumD https://t.co/uHBEB66gRz"
+	},
+	{
+		"created_at": "Thu Jun 27 19:51:07 +0000 2019",
+		"id": 1144235110436397000,
+		"id_str": "1144332348797800448",
+		"full_text": "This fly was painted by a nun at the Cistercian nunnery in Medingen. We have digitized six manuscripts produced by the Medingen nuns: https://t.co/w7S6QNaRFU #PolonskyGerman https://t.co/KtAKO1bsg0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PolonskyGerman",
+					"indices": [
+						158,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w7S6QNaRFU",
+					"expanded_url": "https://hab.bodleian.ox.ac.uk/en/digitized-items/",
+					"display_url": "hab.bodleian.ox.ac.uk/en/digitized-i…",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"url": "https://t.co/KtAKO1bsg0",
+					"expanded_url": "https://twitter.com/BDLSS/status/1144207030527451136",
+					"display_url": "twitter.com/BDLSS/status/1…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 409452226,
+			"id_str": "409452226",
+			"name": "Bodleian Digital Library",
+			"screen_name": "BDLSS",
+			"location": "Oxford",
+			"description": "Bodleian Digital Library Systems & Services: support/systems for @bodleianlibs, including digitization & preservation. Social media contact: @e_stanf.",
+			"url": "http://t.co/gZ3DSIUpM6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gZ3DSIUpM6",
+							"expanded_url": "http://www.bodleian.ox.ac.uk/bdlss",
+							"display_url": "bodleian.ox.ac.uk/bdlss",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17391,
+			"friends_count": 637,
+			"listed_count": 477,
+			"created_at": "Thu Nov 10 19:14:20 +0000 2011",
+			"favourites_count": 759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931134121887354880/tMaYomtS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931134121887354880/tMaYomtS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/409452226/1510834146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1144207030527451100,
+		"quoted_status_id_str": "1144207030527451136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KtAKO1bsg0",
+			"expanded": "https://twitter.com/BDLSS/status/1144207030527451136",
+			"display": "twitter.com/BDLSS/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 27 11:33:09 +0000 2019",
+			"id": 1144207030527451100,
+			"id_str": "1144207030527451136",
+			"full_text": "A 15th-century fly.\n\n@dombib_hi J 27, fol. 75r: https://t.co/yBF7er36i1 #PolonskyGerman https://t.co/buluOih45q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PolonskyGerman",
+						"indices": [
+							72,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dombib_hi",
+						"name": "Dombib Hi",
+						"id": 834056143374778400,
+						"id_str": "834056143374778368",
+						"indices": [
+							21,
+							31
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yBF7er36i1",
+						"expanded_url": "https://hab.bodleian.ox.ac.uk/en/image-viewer/?manifest=https://iiif.hab.de/object/mss_ed000218/manifest.json",
+						"display_url": "hab.bodleian.ox.ac.uk/en/image-viewe…",
+						"indices": [
+							48,
+							71
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1144206833478975500,
+						"id_str": "1144206833478975488",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/D-EKDYMWwAAeh2x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-EKDYMWwAAeh2x.jpg",
+						"url": "https://t.co/buluOih45q",
+						"display_url": "pic.twitter.com/buluOih45q",
+						"expanded_url": "https://twitter.com/BDLSS/status/1144207030527451136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1418,
+								"h": 1198,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 574,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1014,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1144206833478975500,
+						"id_str": "1144206833478975488",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/D-EKDYMWwAAeh2x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-EKDYMWwAAeh2x.jpg",
+						"url": "https://t.co/buluOih45q",
+						"display_url": "pic.twitter.com/buluOih45q",
+						"expanded_url": "https://twitter.com/BDLSS/status/1144207030527451136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1418,
+								"h": 1198,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 574,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1014,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 409452226,
+				"id_str": "409452226",
+				"name": "Bodleian Digital Library",
+				"screen_name": "BDLSS",
+				"location": "Oxford",
+				"description": "Bodleian Digital Library Systems & Services: support/systems for @bodleianlibs, including digitization & preservation. Social media contact: @e_stanf.",
+				"url": "http://t.co/gZ3DSIUpM6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/gZ3DSIUpM6",
+								"expanded_url": "http://www.bodleian.ox.ac.uk/bdlss",
+								"display_url": "bodleian.ox.ac.uk/bdlss",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17391,
+				"friends_count": 637,
+				"listed_count": 477,
+				"created_at": "Thu Nov 10 19:14:20 +0000 2011",
+				"favourites_count": 759,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4486,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931134121887354880/tMaYomtS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931134121887354880/tMaYomtS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/409452226/1510834146",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 26,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This fly was painted by a nun at the Cistercian nunnery in Medingen. We have digitized six manuscripts produced by the Medingen nuns: https://t.co/w7S6QNaRFU #PolonskyGerman https://t.co/KtAKO1bsg0"
+	},
+	{
+		"created_at": "Thu Jun 27 19:07:17 +0000 2019",
+		"id": 1144245265072889900,
+		"id_str": "1144321318982045697",
+		"full_text": "The National Library in New Zealand (@NLNZ) have released nearly 50,000 old aerial photographs, free to use under a CC-BY licence. No doubt these will be of interest for historical mapping.\n\n🔗 https://t.co/W7lRkEKlfx\nFeatured in Spatial Awareness: https://t.co/CSYnzTJEfs https://t.co/3gViaCyuNy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NLNZ",
+					"name": "National Library NZ",
+					"id": 16248122,
+					"id_str": "16248122",
+					"indices": [
+						37,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W7lRkEKlfx",
+					"expanded_url": "https://buff.ly/2NdKaDO",
+					"display_url": "buff.ly/2NdKaDO",
+					"indices": [
+						193,
+						216
+					]
+				},
+				{
+					"url": "https://t.co/CSYnzTJEfs",
+					"expanded_url": "https://buff.ly/2LjxKrm",
+					"display_url": "buff.ly/2LjxKrm",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1144245262896046100,
+					"id_str": "1144245262896046080",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/D-EtAQ7XoAAwdYG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-EtAQ7XoAAwdYG.jpg",
+					"url": "https://t.co/3gViaCyuNy",
+					"display_url": "pic.twitter.com/3gViaCyuNy",
+					"expanded_url": "https://twitter.com/robhawkes/status/1144245265072889856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 776,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 776,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144245262896046100,
+					"id_str": "1144245262896046080",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/D-EtAQ7XoAAwdYG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-EtAQ7XoAAwdYG.jpg",
+					"url": "https://t.co/3gViaCyuNy",
+					"display_url": "pic.twitter.com/3gViaCyuNy",
+					"expanded_url": "https://twitter.com/robhawkes/status/1144245265072889856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 776,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 776,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14442542,
+			"id_str": "14442542",
+			"name": "Robin Hawkes",
+			"screen_name": "robhawkes",
+			"location": "Chester, UK",
+			"description": "Contract JavaScript developer. Creator of @ViziCities. Previously Senior Engineer @UrbanSim, worldwide devrel @Mozilla & @Pusher. Obsessed with maps and data.",
+			"url": "https://t.co/eipCgebjU8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eipCgebjU8",
+							"expanded_url": "https://robinhawkes.com",
+							"display_url": "robinhawkes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9915,
+			"friends_count": 1235,
+			"listed_count": 734,
+			"created_at": "Sat Apr 19 11:47:47 +0000 2008",
+			"favourites_count": 7115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/987236188913328130/bKUAsQGe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/987236188913328130/bKUAsQGe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14442542/1485381444",
+			"profile_link_color": "B3000F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The National Library in New Zealand (@NLNZ) have released nearly 50,000 old aerial photographs, free to use under a CC-BY licence. No doubt these will be of interest for historical mapping.\n\n🔗 https://t.co/W7lRkEKlfx\nFeatured in Spatial Awareness: https://t.co/CSYnzTJEfs https://t.co/3gViaCyuNy"
+	},
+	{
 		"created_at": "Wed Jun 26 19:49:20 +0000 2019",
 		"id": 1143969513307689000,
 		"id_str": "1143969513307688960",
