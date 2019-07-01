@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 30 22:31:30 +0000 2019",
+		"id": 1143889379540123600,
+		"id_str": "1145459875964526592",
+		"full_text": "KnittyBlogged by @pennyshima: What's What Wednesdays https://t.co/Ni4roNbfgP #fb #knittymag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fb",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "knittymag",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pennyshima",
+					"name": "Penny Shima Glanz",
+					"id": 361884686,
+					"id_str": "361884686",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ni4roNbfgP",
+					"expanded_url": "http://knittyblog.com/2019/06/www-some-craftivism-links-from-the-archives/",
+					"display_url": "knittyblog.com/2019/06/www-so…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://knittyblog.com\" rel=\"nofollow\">knittyblogNOV2014</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18513281,
+			"id_str": "18513281",
+			"name": "Amy Singer",
+			"screen_name": "knittymag",
+			"location": "Hamilton, Ontario",
+			"description": "knitty: the online knitting mag, est. 2002. Amy, editor: est. quite a while before that. 🌈 *All* are welcome here, except hate. Raveler No 147 #knittymag",
+			"url": "https://t.co/96ALKpiMVN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96ALKpiMVN",
+							"expanded_url": "http://knitty.com",
+							"display_url": "knitty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33121,
+			"friends_count": 712,
+			"listed_count": 1421,
+			"created_at": "Wed Dec 31 19:07:22 +0000 2008",
+			"favourites_count": 22373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142542563423019010/nEC7n4iU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142542563423019010/nEC7n4iU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18513281/1512231375",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KnittyBlogged by @pennyshima: What's What Wednesdays https://t.co/Ni4roNbfgP #fb #knittymag"
+	},
+	{
+		"created_at": "Sun Jun 30 20:38:30 +0000 2019",
+		"id": 1133401511290183700,
+		"id_str": "1145431437421662209",
+		"full_text": "New in T&amp;W magazine from @jehanwrites. #radicallibrarian\nhttps://t.co/FnOpJm5AaB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "radicallibrarian",
+					"indices": [
+						43,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jehanwrites",
+					"name": "Jehan",
+					"id": 988082125,
+					"id_str": "988082125",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FnOpJm5AaB",
+					"expanded_url": "https://teachersandwritersmagazine.org/knowledge-isnt-neutral-on-radical-librarianship-6020.htm",
+					"display_url": "teachersandwritersmagazine.org/knowledge-isnt…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 499188423,
+			"id_str": "499188423",
+			"name": "Teachers & Writers",
+			"screen_name": "twc_org",
+			"location": "NYC",
+			"description": "Teachers & Writers Collaborative provides resources about the teaching of creative writing. https://t.co/2xXB0bdmha #artsed #nyc #poetry #teachwriting",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2xXB0bdmha",
+							"expanded_url": "http://www.twc.org",
+							"display_url": "twc.org",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2584,
+			"friends_count": 1588,
+			"listed_count": 113,
+			"created_at": "Tue Feb 21 21:31:42 +0000 2012",
+			"favourites_count": 7295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1844163347/lessons-1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1844163347/lessons-1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/499188423/1398270070",
+			"profile_link_color": "147FC7",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New in T&amp;W magazine from @jehanwrites. #radicallibrarian\nhttps://t.co/FnOpJm5AaB"
+	},
+	{
 		"created_at": "Thu Jun 27 20:12:48 +0000 2019",
 		"id": 1144337806354874400,
 		"id_str": "1144337806354874368",
