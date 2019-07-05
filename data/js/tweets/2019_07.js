@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 04 20:09:23 +0000 2019",
+		"id": 1146873662575792100,
+		"id_str": "1146873662575792128",
+		"full_text": "how is your library participating in the Austlang national codeathon? https://t.co/0kbfVJtd0p the link has information about what this is and how to participate.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0kbfVJtd0p",
+					"expanded_url": "https://www.nla.gov.au/our-collections/processing-and-describing-the-collections/Austlang-national-codeathon",
+					"display_url": "nla.gov.au/our-collection…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2500,
+			"friends_count": 799,
+			"listed_count": 230,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "how is your library participating in the Austlang national codeathon? https://t.co/0kbfVJtd0p the link has information about what this is and how to participate."
+	},
+	{
+		"created_at": "Thu Jul 04 20:07:25 +0000 2019",
+		"id": 1146680060268752900,
+		"id_str": "1146873168742641664",
+		"full_text": "ICYMI: The Ngarinyman Dictionary was launched at #ANIRC on Tuesday night- the first dictionary to be printed with assistance from the AIATSIS Foundation's Dictionaries project. Thanks to @frankelly08 @cvanextel and @RNBreakfast for this great story:\n\nhttps://t.co/xylxJE7xGt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ANIRC",
+					"indices": [
+						49,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankelly08",
+					"name": "Fran Kelly",
+					"id": 86823243,
+					"id_str": "86823243",
+					"indices": [
+						187,
+						199
+					]
+				},
+				{
+					"screen_name": "cvanextel",
+					"name": "Cathy Van Extel",
+					"id": 161565350,
+					"id_str": "161565350",
+					"indices": [
+						200,
+						210
+					]
+				},
+				{
+					"screen_name": "RNBreakfast",
+					"name": "RN Breakfast",
+					"id": 20138772,
+					"id_str": "20138772",
+					"indices": [
+						215,
+						227
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xylxJE7xGt",
+					"expanded_url": "https://www.abc.net.au/radionational/programs/breakfast/new-nt-aboriginal-language-dictionary-released/11273362",
+					"display_url": "abc.net.au/radionational/…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1523973469,
+			"id_str": "1523973469",
+			"name": "AIATSIS",
+			"screen_name": "AIATSIS",
+			"location": "Canberra",
+			"description": "Our vision is a world in which Aboriginal and Torres Strait Islander peoples’ knowledge and cultures are recognised, respected, celebrated and valued.",
+			"url": "https://t.co/cuFViFU3y0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cuFViFU3y0",
+							"expanded_url": "http://www.aiatsis.gov.au",
+							"display_url": "aiatsis.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7339,
+			"friends_count": 1830,
+			"listed_count": 116,
+			"created_at": "Mon Jun 17 05:00:39 +0000 2013",
+			"favourites_count": 2700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875488926206615555/KGEb8qB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875488926206615555/KGEb8qB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1523973469/1562306105",
+			"profile_link_color": "D64527",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ICYMI: The Ngarinyman Dictionary was launched at #ANIRC on Tuesday night- the first dictionary to be printed with assistance from the AIATSIS Foundation's Dictionaries project. Thanks to @frankelly08 @cvanextel and @RNBreakfast for this great story:\n\nhttps://t.co/xylxJE7xGt"
+	},
+	{
 		"created_at": "Tue Jul 02 22:50:00 +0000 2019",
 		"id": 1146189307285143600,
 		"id_str": "1146189307285143552",
