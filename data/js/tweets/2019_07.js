@@ -1,6 +1,976 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 06 21:15:25 +0000 2019",
+		"id": 1147615054738538500,
+		"id_str": "1147615054738538496",
+		"full_text": "MSR Design and JRA Architects tucks Kentucky library in a grove of trees https://t.co/rIydEb6ZDh via @dezeen this looks very interesting",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dezeen",
+					"name": "Dezeen",
+					"id": 26012202,
+					"id_str": "26012202",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rIydEb6ZDh",
+					"expanded_url": "https://www.dezeen.com/2019/06/05/louisville-free-public-library-msr-design-jra-architects/",
+					"display_url": "dezeen.com/2019/06/05/lou…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2500,
+			"friends_count": 795,
+			"listed_count": 230,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MSR Design and JRA Architects tucks Kentucky library in a grove of trees https://t.co/rIydEb6ZDh via @dezeen this looks very interesting"
+	},
+	{
+		"created_at": "Sat Jul 06 21:12:44 +0000 2019",
+		"id": 1147614378889343000,
+		"id_str": "1147614378889342976",
+		"full_text": "The illustrated city series by @guardian is lovely https://t.co/bgflItRmPV and these kinds of images would be lovely in local studies collections",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bgflItRmPV",
+					"expanded_url": "https://www.theguardian.com/cities/series/the-illustrated-city",
+					"display_url": "theguardian.com/cities/series/…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2500,
+			"friends_count": 795,
+			"listed_count": 230,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The illustrated city series by @guardian is lovely https://t.co/bgflItRmPV and these kinds of images would be lovely in local studies collections"
+	},
+	{
+		"created_at": "Sat Jul 06 20:19:51 +0000 2019",
+		"id": 1147601071738482700,
+		"id_str": "1147601071738482689",
+		"full_text": "this is really interesting research https://t.co/JuWta7Uwks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JuWta7Uwks",
+					"expanded_url": "https://twitter.com/LSEImpactBlog/status/1146359024235032576",
+					"display_url": "twitter.com/LSEImpactBlog/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2500,
+			"friends_count": 795,
+			"listed_count": 230,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1146359024235032600,
+		"quoted_status_id_str": "1146359024235032576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JuWta7Uwks",
+			"expanded": "https://twitter.com/LSEImpactBlog/status/1146359024235032576",
+			"display": "twitter.com/LSEImpactBlog/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 03 10:04:24 +0000 2019",
+			"id": 1146359024235032600,
+			"id_str": "1146359024235032576",
+			"full_text": "#ScientistsWhoSelfie – How sharing selfies can build trust in science \n\nhttps://t.co/b7M4Ovp4aN #SciComms @bcarmi1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ScientistsWhoSelfie",
+						"indices": [
+							0,
+							20
+						]
+					},
+					{
+						"text": "SciComms",
+						"indices": [
+							96,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bcarmi1",
+						"name": "Becky Carmichael",
+						"id": 1246603026,
+						"id_str": "1246603026",
+						"indices": [
+							106,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/b7M4Ovp4aN",
+						"expanded_url": "https://wp.me/p4m9em-9k6",
+						"display_url": "wp.me/p4m9em-9k6",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273935884,
+				"id_str": "273935884",
+				"name": "LSE Impact Blog",
+				"screen_name": "LSEImpactBlog",
+				"location": "London",
+				"description": "A forum for those interested in increasing the impact of academic research on policy, society and business. Views are not those of the LSE.",
+				"url": "http://t.co/j2QGFYPVRs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/j2QGFYPVRs",
+								"expanded_url": "http://blogs.lse.ac.uk/impactofsocialsciences/",
+								"display_url": "blogs.lse.ac.uk/impactofsocial…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51619,
+				"friends_count": 4758,
+				"listed_count": 1769,
+				"created_at": "Tue Mar 29 12:17:04 +0000 2011",
+				"favourites_count": 2372,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30949,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908703729813254145/hfgw7Shs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908703729813254145/hfgw7Shs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/273935884/1465570717",
+				"profile_link_color": "9C6A5E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is really interesting research https://t.co/JuWta7Uwks"
+	},
+	{
+		"created_at": "Sat Jul 06 20:15:16 +0000 2019",
+		"id": 1145920038140076000,
+		"id_str": "1147599917864480768",
+		"full_text": "“Noir storytelling, with its cynicism, extensive plots, well-thought-out backstory, and quiet existential philosophy, is well-suited for the present times.” Akanksha Singh on Bollywood noir.\n https://t.co/gi6obyG3Fk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gi6obyG3Fk",
+					"expanded_url": "http://crimereads.com/bollywood-noir/",
+					"display_url": "crimereads.com/bollywood-noir/",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887695590095818800,
+			"id_str": "887695590095818756",
+			"name": "CrimeReads",
+			"screen_name": "CrimeReads",
+			"location": "",
+			"description": "A daily culture site featuring the best crime, mystery, and thriller writing. From the makers of @lithub.",
+			"url": "https://t.co/EivWAyWzqW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EivWAyWzqW",
+							"expanded_url": "http://crimereads.com",
+							"display_url": "crimereads.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9564,
+			"friends_count": 739,
+			"listed_count": 161,
+			"created_at": "Wed Jul 19 15:28:16 +0000 2017",
+			"favourites_count": 17974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954059808122032129/4AKnb_0W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954059808122032129/4AKnb_0W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887695590095818756/1516300608",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Noir storytelling, with its cynicism, extensive plots, well-thought-out backstory, and quiet existential philosophy, is well-suited for the present times.” Akanksha Singh on Bollywood noir.\n https://t.co/gi6obyG3Fk"
+	},
+	{
+		"created_at": "Sat Jul 06 19:39:23 +0000 2019",
+		"id": 1147587465244397600,
+		"id_str": "1147590886261309441",
+		"full_text": "Meet the deaf Arnhem Land filmmaker shortlisted for a major award https://t.co/XMellL0cuI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XMellL0cuI",
+					"expanded_url": "https://www.abc.net.au/news/2019-07-07/gutingarra-yunupingu-marlene-rubuntja-art-awards-indigenous-nt/11285352",
+					"display_url": "abc.net.au/news/2019-07-0…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft PowerApps and Flow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525116,
+			"friends_count": 1208,
+			"listed_count": 11888,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 271214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1558315597",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meet the deaf Arnhem Land filmmaker shortlisted for a major award https://t.co/XMellL0cuI"
+	},
+	{
+		"created_at": "Sat Jul 06 19:39:16 +0000 2019",
+		"id": 1147590646447792100,
+		"id_str": "1147590857232486401",
+		"full_text": "'Why there and not here?': Will Canada's recognition of 'colonial genocide' affect Australia? https://t.co/NUT9HGsQee",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NUT9HGsQee",
+					"expanded_url": "https://www.abc.net.au/news/2019-07-07/will-canadas-report-into-colonial-genocide-impact-commonwealth/11241372",
+					"display_url": "abc.net.au/news/2019-07-0…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft PowerApps and Flow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525116,
+			"friends_count": 1208,
+			"listed_count": 11888,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 271214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1558315597",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Why there and not here?': Will Canada's recognition of 'colonial genocide' affect Australia? https://t.co/NUT9HGsQee"
+	},
+	{
+		"created_at": "Sat Jul 06 19:33:35 +0000 2019",
+		"id": 1147155567456215000,
+		"id_str": "1147589428140863488",
+		"full_text": "Have you seen this infographic? It uses data generated by the Cooperative Children's Book Center at Univ of Wisconsin-Madison, and the idea that bks with good representations can be mirrors. https://t.co/TB7PHzcv1Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147155152429867000,
+					"id_str": "1147155152429867008",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/D-uDiILXYAAjrDZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-uDiILXYAAjrDZ.jpg",
+					"url": "https://t.co/TB7PHzcv1Y",
+					"display_url": "pic.twitter.com/TB7PHzcv1Y",
+					"expanded_url": "https://twitter.com/IndigenousXca/status/1147155567456215041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 757,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 757,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147155152429867000,
+					"id_str": "1147155152429867008",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/D-uDiILXYAAjrDZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-uDiILXYAAjrDZ.jpg",
+					"url": "https://t.co/TB7PHzcv1Y",
+					"display_url": "pic.twitter.com/TB7PHzcv1Y",
+					"expanded_url": "https://twitter.com/IndigenousXca/status/1147155567456215041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 980,
+							"h": 757,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 757,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2784520128,
+			"id_str": "2784520128",
+			"name": "Debbie Reese (@debreese)",
+			"screen_name": "IndigenousXca",
+			"location": "Nambe Pueblo, NM",
+			"description": "Tribally enrolled: Nambé Pueblo; founder of American Indians in Children's Literature; educator!",
+			"url": "https://t.co/HQwIc4lPg6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HQwIc4lPg6",
+							"expanded_url": "https://americanindiansinchildrensliterature.blogspot.com/",
+							"display_url": "…ansinchildrensliterature.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20490,
+			"friends_count": 2379,
+			"listed_count": 283,
+			"created_at": "Mon Sep 01 18:59:01 +0000 2014",
+			"favourites_count": 25388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146922269362573313/W0ZsVWT7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146922269362573313/W0ZsVWT7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2784520128/1562282656",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you seen this infographic? It uses data generated by the Cooperative Children's Book Center at Univ of Wisconsin-Madison, and the idea that bks with good representations can be mirrors. https://t.co/TB7PHzcv1Y"
+	},
+	{
 		"created_at": "Fri Jul 05 23:19:35 +0000 2019",
 		"id": 1147018690086371300,
 		"id_str": "1147283916677664768",
