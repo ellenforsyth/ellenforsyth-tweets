@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 20:07:18 +0000 2019",
+		"id": 1146011772287168500,
+		"id_str": "1147960301666492416",
+		"full_text": "Aren’t you ashamed to reserve for yourself only the remnants of your life and to dedicate to wisdom only that time can’t be directed to business? https://t.co/4puuuBzlDz https://t.co/e34VrY2PF8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4puuuBzlDz",
+					"expanded_url": "https://thoughtshrapnel.com/2019/07/02/capitalism/",
+					"display_url": "thoughtshrapnel.com/2019/07/02/cap…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1146011770676555800,
+					"id_str": "1146011770676555778",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D-dzojOXsAI7Jkz.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-dzojOXsAI7Jkz.png",
+					"url": "https://t.co/e34VrY2PF8",
+					"display_url": "pic.twitter.com/e34VrY2PF8",
+					"expanded_url": "https://twitter.com/dajbelshaw/status/1146011772287168514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146011770676555800,
+					"id_str": "1146011770676555778",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/D-dzojOXsAI7Jkz.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-dzojOXsAI7Jkz.png",
+					"url": "https://t.co/e34VrY2PF8",
+					"display_url": "pic.twitter.com/e34VrY2PF8",
+					"expanded_url": "https://twitter.com/dajbelshaw/status/1146011772287168514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 764365,
+			"id_str": "764365",
+			"name": "˗ˏˋ Doug Belshaw ˎˊ˗ 🇪🇺 ☠️ ✊",
+			"screen_name": "dajbelshaw",
+			"location": "Morpeth, England",
+			"description": "👨‍👩‍👧‍👦 Husband to @hbelshaw & father 💡Open Educational Thinkerer ⚜Scout Leader ⛰️Aspiring Mountain Leader 📦PM at @Moodle + co-founder of @WeAreOpenCoop",
+			"url": "https://t.co/pFjCnpa480",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pFjCnpa480",
+							"expanded_url": "http://dougbelshaw.com/blog/start/",
+							"display_url": "dougbelshaw.com/blog/start/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14451,
+			"friends_count": 4170,
+			"listed_count": 1167,
+			"created_at": "Sun Feb 11 10:23:13 +0000 2007",
+			"favourites_count": 27192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064780102440022016/U_ZJQUzm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064780102440022016/U_ZJQUzm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/764365/1495649254",
+			"profile_link_color": "2C3444",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Aren’t you ashamed to reserve for yourself only the remnants of your life and to dedicate to wisdom only that time can’t be directed to business? https://t.co/4puuuBzlDz https://t.co/e34VrY2PF8"
+	},
+	{
+		"created_at": "Sun Jul 07 19:33:40 +0000 2019",
+		"id": 1147951837753962500,
+		"id_str": "1147951837753962496",
+		"full_text": "@CatyJ Enjoy, and take care",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatyJ",
+					"name": "CatyJ",
+					"id": 15732431,
+					"id_str": "15732431",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1147771105349734400,
+		"in_reply_to_status_id_str": "1147771105349734401",
+		"in_reply_to_user_id": 15732431,
+		"in_reply_to_user_id_str": "15732431",
+		"in_reply_to_screen_name": "CatyJ",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2504,
+			"friends_count": 795,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CatyJ Enjoy, and take care"
+	},
+	{
 		"created_at": "Sat Jul 06 21:15:25 +0000 2019",
 		"id": 1147615054738538500,
 		"id_str": "1147615054738538496",
