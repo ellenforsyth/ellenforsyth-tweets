@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 03:48:14 +0000 2019",
+		"id": 1148338487470542800,
+		"id_str": "1148438686792421376",
+		"full_text": "Why is horror soaring in popularity? In a world dominated by real horrors, these books offer us relative control. https://t.co/Hskf47xEe4 https://t.co/KgOGkTkFqs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hskf47xEe4",
+					"expanded_url": "http://ow.ly/N45c50uVH9Q",
+					"display_url": "ow.ly/N45c50uVH9Q",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148338485956419600,
+					"id_str": "1148338485956419584",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D--3xNFXoAAqQQx.png",
+					"media_url_https": "https://pbs.twimg.com/media/D--3xNFXoAAqQQx.png",
+					"url": "https://t.co/KgOGkTkFqs",
+					"display_url": "pic.twitter.com/KgOGkTkFqs",
+					"expanded_url": "https://twitter.com/LibraryJournal/status/1148338487470542854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 765,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 765,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148338485956419600,
+					"id_str": "1148338485956419584",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D--3xNFXoAAqQQx.png",
+					"media_url_https": "https://pbs.twimg.com/media/D--3xNFXoAAqQQx.png",
+					"url": "https://t.co/KgOGkTkFqs",
+					"display_url": "pic.twitter.com/KgOGkTkFqs",
+					"expanded_url": "https://twitter.com/LibraryJournal/status/1148338487470542854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 765,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 765,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15169290,
+			"id_str": "15169290",
+			"name": "Library Journal",
+			"screen_name": "LibraryJournal",
+			"location": "New York, NY",
+			"description": "Library views, news, and book reviews from LJ staffers",
+			"url": "http://t.co/WSOb61lYld",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WSOb61lYld",
+							"expanded_url": "http://www.libraryjournal.com",
+							"display_url": "libraryjournal.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205098,
+			"friends_count": 379,
+			"listed_count": 6022,
+			"created_at": "Thu Jun 19 13:51:48 +0000 2008",
+			"favourites_count": 2375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5E9F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15169290/1539277524",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "6C6C6C",
+			"profile_sidebar_fill_color": "CBCDC5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why is horror soaring in popularity? In a world dominated by real horrors, these books offer us relative control. https://t.co/Hskf47xEe4 https://t.co/KgOGkTkFqs"
+	},
+	{
 		"created_at": "Sun Jul 07 20:07:18 +0000 2019",
 		"id": 1146011772287168500,
 		"id_str": "1147960301666492416",
@@ -116,7 +300,7 @@ Grailbird.data.tweets_2019_07 =
 			"name": "˗ˏˋ Doug Belshaw ˎˊ˗ 🇪🇺 ☠️ ✊",
 			"screen_name": "dajbelshaw",
 			"location": "Morpeth, England",
-			"description": "👨‍👩‍👧‍👦 Husband to @hbelshaw & father 💡Open Educational Thinkerer ⚜Scout Leader ⛰️Aspiring Mountain Leader 📦PM at @Moodle + co-founder of @WeAreOpenCoop",
+			"description": "👨👩👧👦 Husband to @hbelshaw & father 💡Open Educational Thinkerer ⚜Scout Leader ⛰️Aspiring Mountain Leader 📦PM at @Moodle + co-founder of @WeAreOpenCoop",
 			"url": "https://t.co/pFjCnpa480",
 			"entities": {
 				"url": {
