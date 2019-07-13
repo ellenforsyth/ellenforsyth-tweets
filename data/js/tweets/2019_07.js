@@ -1,6 +1,783 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 06:32:41 +0000 2019",
+		"id": 1149929623993503700,
+		"id_str": "1149929623993503744",
+		"full_text": "Mark Haddon on the magic of audiobooks: 'I haven’t read a book properly until I’ve had it read to me' via ⁦@guardian⁩ nice to have an author perspective on this (I enjoy audio books, and am thrilled that they can borrowed from public libraries) https://t.co/9yP8D1HrQw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						107,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9yP8D1HrQw",
+					"expanded_url": "https://www.theguardian.com/books/2019/jul/12/mark-haddon-audiobooks?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/books/2019/jul…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2502,
+			"friends_count": 795,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mark Haddon on the magic of audiobooks: 'I haven’t read a book properly until I’ve had it read to me' via ⁦@guardian⁩ nice to have an author perspective on this (I enjoy audio books, and am thrilled that they can borrowed from public libraries) https://t.co/9yP8D1HrQw"
+	},
+	{
+		"created_at": "Sat Jul 13 01:15:14 +0000 2019",
+		"id": 1149849734435098600,
+		"id_str": "1149849734435098626",
+		"full_text": "and we are each going to have a unique mix in this reading, watching and so on, which is exciting as we are each going 'to explore thoughtfully' in different ways",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1149849731662659600,
+		"in_reply_to_status_id_str": "1149849731662659584",
+		"in_reply_to_user_id": 16970274,
+		"in_reply_to_user_id_str": "16970274",
+		"in_reply_to_screen_name": "ellenforsyth",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2502,
+			"friends_count": 795,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "and we are each going to have a unique mix in this reading, watching and so on, which is exciting as we are each going 'to explore thoughtfully' in different ways"
+	},
+	{
+		"created_at": "Sat Jul 13 01:15:13 +0000 2019",
+		"id": 1149849731662659600,
+		"id_str": "1149849731662659584",
+		"full_text": "'If \"well-read\" means \"not missing anything,\" then nobody has a chance. If \"well-read\" means \"making a genuine effort to explore thoughtfully,\" then yes, we can all be well-read. But what we've seen is always going to be a very small cup dipped out of a very big ocean...' https://t.co/EyoLQ3MIbh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EyoLQ3MIbh",
+					"expanded_url": "https://twitter.com/mariasavvidis/status/1149844223820091392",
+					"display_url": "twitter.com/mariasavvidis/…",
+					"indices": [
+						273,
+						296
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2502,
+			"friends_count": 795,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1149844223820091400,
+		"quoted_status_id_str": "1149844223820091392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EyoLQ3MIbh",
+			"expanded": "https://twitter.com/mariasavvidis/status/1149844223820091392",
+			"display": "twitter.com/mariasavvidis/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 13 00:53:20 +0000 2019",
+			"id": 1149844223820091400,
+			"id_str": "1149844223820091392",
+			"full_text": "The Sad, Beautiful Fact That We're All Going To Miss Almost Everything https://t.co/xHjykuXUao",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xHjykuXUao",
+						"expanded_url": "https://n.pr/gKLqIf",
+						"display_url": "n.pr/gKLqIf",
+						"indices": [
+							71,
+							94
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 727312478,
+				"id_str": "727312478",
+				"name": "maria savvidis",
+				"screen_name": "mariasavvidis",
+				"location": "Bidjigal and Gadigal lands",
+				"description": "Librarian @statelibrarynsw / Oral History NSW / inclusion / diversity / equity / GLAM / pop culture / Views are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 310,
+				"friends_count": 593,
+				"listed_count": 4,
+				"created_at": "Tue Jul 31 01:53:27 +0000 2012",
+				"favourites_count": 7533,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3924,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1107255553187704833/GYPZYrzU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107255553187704833/GYPZYrzU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/727312478/1402457648",
+				"profile_link_color": "6699CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "0E0E0E",
+				"profile_text_color": "4A66C1",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'If \"well-read\" means \"not missing anything,\" then nobody has a chance. If \"well-read\" means \"making a genuine effort to explore thoughtfully,\" then yes, we can all be well-read. But what we've seen is always going to be a very small cup dipped out of a very big ocean...' https://t.co/EyoLQ3MIbh"
+	},
+	{
+		"created_at": "Sat Jul 13 01:07:07 +0000 2019",
+		"id": 1149847692543025200,
+		"id_str": "1149847692543025153",
+		"full_text": "If you missed #HeavyMetalKnitting you can watch it all here https://t.co/BAoPbQZZuc https://t.co/zhptckaooa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HeavyMetalKnitting",
+					"indices": [
+						14,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BAoPbQZZuc",
+					"expanded_url": "https://www.facebook.com/heavymetalknitting/videos/347607276155207/?t=1223",
+					"display_url": "facebook.com/heavymetalknit…",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/zhptckaooa",
+					"expanded_url": "https://twitter.com/tictoc/status/1149509553811152896",
+					"display_url": "twitter.com/tictoc/status/…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2502,
+			"friends_count": 795,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1149509553811152900,
+		"quoted_status_id_str": "1149509553811152896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zhptckaooa",
+			"expanded": "https://twitter.com/tictoc/status/1149509553811152896",
+			"display": "twitter.com/tictoc/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 12 02:43:29 +0000 2019",
+			"id": 1149509553811152900,
+			"id_str": "1149509553811152896",
+			"full_text": "SOUND ON: Armed with needles, yarn and deafening tunes, Finland held the first-ever #HeavyMetalKnitting World Championship @HeavyKnitting #heavyneulonta https://t.co/liOEVUsu6m",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HeavyMetalKnitting",
+						"indices": [
+							84,
+							103
+						]
+					},
+					{
+						"text": "heavyneulonta",
+						"indices": [
+							138,
+							152
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HeavyKnitting",
+						"name": "Heavy Metal Knitting",
+						"id": 1115511832398184400,
+						"id_str": "1115511832398184449",
+						"indices": [
+							123,
+							137
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1149509411934625800,
+						"id_str": "1149509411934625794",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1149509411934625794/img/zmLDV2ajYCtpCPTb.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1149509411934625794/img/zmLDV2ajYCtpCPTb.jpg",
+						"url": "https://t.co/liOEVUsu6m",
+						"display_url": "pic.twitter.com/liOEVUsu6m",
+						"expanded_url": "https://twitter.com/tictoc/status/1149509553811152896/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1149509411934625800,
+						"id_str": "1149509411934625794",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1149509411934625794/img/zmLDV2ajYCtpCPTb.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1149509411934625794/img/zmLDV2ajYCtpCPTb.jpg",
+						"url": "https://t.co/liOEVUsu6m",
+						"display_url": "pic.twitter.com/liOEVUsu6m",
+						"expanded_url": "https://twitter.com/tictoc/status/1149509553811152896/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 50484,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1149509411934625794/vid/320x320/YMTgfsYHQ5lIcLqM.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1149509411934625794/vid/480x480/3BggcF6WajrxXy_s.mp4?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1149509411934625794/vid/720x720/dMyR0QBW8P3zmD2y.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1149509411934625794/pl/m8t54QS7H_FWpupJ.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bloomberg.com\" rel=\"nofollow\">BTV Client Library</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 252751061,
+				"id_str": "252751061",
+				"name": "TicToc by Bloomberg",
+				"screen_name": "tictoc",
+				"location": "",
+				"description": "Global news for the world we live in now.",
+				"url": "https://t.co/O0sSpXABY4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O0sSpXABY4",
+								"expanded_url": "https://live.twitter.com/tictoc",
+								"display_url": "live.twitter.com/tictoc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 725700,
+				"friends_count": 1221,
+				"listed_count": 5919,
+				"created_at": "Tue Feb 15 20:50:58 +0000 2011",
+				"favourites_count": 861,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 141782,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940202913393082373/23X8DJQc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940202913393082373/23X8DJQc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/252751061/1561050284",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 438,
+			"favorite_count": 795,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you missed #HeavyMetalKnitting you can watch it all here https://t.co/BAoPbQZZuc https://t.co/zhptckaooa"
+	},
+	{
 		"created_at": "Thu Jul 11 20:01:08 +0000 2019",
 		"id": 1149408300070363100,
 		"id_str": "1149408300070363136",
