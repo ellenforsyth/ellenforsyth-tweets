@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 16 20:36:42 +0000 2019",
+		"id": 1151229191137796100,
+		"id_str": "1151229191137796096",
+		"full_text": "Apollo in real time (50 years later) is amazing https://t.co/hwTyV9U2LL https://t.co/o6eMlSo2Le",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hwTyV9U2LL",
+					"expanded_url": "https://apolloinrealtime.org/11/",
+					"display_url": "apolloinrealtime.org/11/",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/o6eMlSo2Le",
+					"expanded_url": "https://twitter.com/NASAhistory/status/1151142446946013184",
+					"display_url": "twitter.com/NASAhistory/st…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2502,
+			"friends_count": 795,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151142446946013200,
+		"quoted_status_id_str": "1151142446946013184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o6eMlSo2Le",
+			"expanded": "https://twitter.com/NASAhistory/status/1151142446946013184",
+			"display": "twitter.com/NASAhistory/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 16 14:52:01 +0000 2019",
+			"id": 1151142446946013200,
+			"id_str": "1151142446946013184",
+			"full_text": "How did @AstroMCollins make up for losing his crew's camera? He APOLLOgised!\n\nPardon the pun, but we're excited to relive the Apollo 11 mission. 50 years ago #NOW (10:52 AM) Collins misplaced the Hasselblad, but don't worry — he found it a minute later: https://t.co/zoNMGKwAy1 https://t.co/YAx5lMeriw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NOW",
+						"indices": [
+							158,
+							162
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AstroMCollins",
+						"name": "Michael Collins",
+						"id": 1122878095663321100,
+						"id_str": "1122878095663321088",
+						"indices": [
+							8,
+							22
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zoNMGKwAy1",
+						"expanded_url": "https://apolloinrealtime.org/11/?t=001:20:12",
+						"display_url": "apolloinrealtime.org/11/?t=001:20:12",
+						"indices": [
+							254,
+							277
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1151142445125722100,
+						"id_str": "1151142445125722112",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D_mt9G-X4AAtTK0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_mt9G-X4AAtTK0.jpg",
+						"url": "https://t.co/YAx5lMeriw",
+						"display_url": "pic.twitter.com/YAx5lMeriw",
+						"expanded_url": "https://twitter.com/NASAhistory/status/1151142446946013184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1016,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1016,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 675,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1151142445125722100,
+						"id_str": "1151142445125722112",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/D_mt9G-X4AAtTK0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_mt9G-X4AAtTK0.jpg",
+						"url": "https://t.co/YAx5lMeriw",
+						"display_url": "pic.twitter.com/YAx5lMeriw",
+						"expanded_url": "https://twitter.com/NASAhistory/status/1151142446946013184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1016,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1016,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 675,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 153784150,
+				"id_str": "153784150",
+				"name": "NASA History Office",
+				"screen_name": "NASAhistory",
+				"location": "Washington, DC",
+				"description": "This is the NASA History Office's official Twitter account. We're happy that you share our passion for aerospace history.",
+				"url": "http://t.co/wWBPdTeoW6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wWBPdTeoW6",
+								"expanded_url": "http://history.nasa.gov",
+								"display_url": "history.nasa.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 857046,
+				"friends_count": 264,
+				"listed_count": 5833,
+				"created_at": "Wed Jun 09 12:52:58 +0000 2010",
+				"favourites_count": 4627,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19160,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695361954018275330/RLTuGTD__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695361954018275330/RLTuGTD__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/153784150/1544049015",
+				"profile_link_color": "0563BA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D9D9D9",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 108,
+			"favorite_count": 445,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apollo in real time (50 years later) is amazing https://t.co/hwTyV9U2LL https://t.co/o6eMlSo2Le"
+	},
+	{
 		"created_at": "Mon Jul 15 20:07:15 +0000 2019",
 		"id": 1149348389508833300,
 		"id_str": "1150859391542784000",
