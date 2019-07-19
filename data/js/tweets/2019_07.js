@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 20:52:49 +0000 2019",
+		"id": 1151958021943074800,
+		"id_str": "1151958021943074816",
+		"full_text": "I really like the way this is being shared https://t.co/B6bcopppqk impressive https://t.co/SNGNw6H7ae",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B6bcopppqk",
+					"expanded_url": "https://www.rijksmuseum.nl/en/nightwatch?&utm_campaign=uitnodiging&utm_medium=email&utm_source=2019_Academic_Newsletter_JULI",
+					"display_url": "rijksmuseum.nl/en/nightwatch?…",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/SNGNw6H7ae",
+					"expanded_url": "https://twitter.com/rijksmuseum/status/1151161707563311104",
+					"display_url": "twitter.com/rijksmuseum/st…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2500,
+			"friends_count": 795,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151161707563311100,
+		"quoted_status_id_str": "1151161707563311104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SNGNw6H7ae",
+			"expanded": "https://twitter.com/rijksmuseum/status/1151161707563311104",
+			"display": "twitter.com/rijksmuseum/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 16 16:08:33 +0000 2019",
+			"id": 1151161707563311100,
+			"id_str": "1151161707563311104",
+			"full_text": "Here it is, the long-awaited first scan from Operation Night Watch! This is the cobalt map of this first scan. Did you know cobalt comes from the pigment smalt, a blue glass that #Rembrandt often used? #operationnightwatch https://t.co/dezyGbSQbd https://t.co/qDDSKov8HI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Rembrandt",
+						"indices": [
+							179,
+							189
+						]
+					},
+					{
+						"text": "operationnightwatch",
+						"indices": [
+							202,
+							222
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dezyGbSQbd",
+						"expanded_url": "https://bit.ly/2Gf0LRD",
+						"display_url": "bit.ly/2Gf0LRD",
+						"indices": [
+							223,
+							246
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1151161644690657300,
+						"id_str": "1151161644690657282",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/D_m_aq7XUAIFAYW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_m_aq7XUAIFAYW.jpg",
+						"url": "https://t.co/qDDSKov8HI",
+						"display_url": "pic.twitter.com/qDDSKov8HI",
+						"expanded_url": "https://twitter.com/rijksmuseum/status/1151161707563311104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1316,
+								"h": 1044,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 539,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 952,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1151161644690657300,
+						"id_str": "1151161644690657282",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/D_m_aq7XUAIFAYW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_m_aq7XUAIFAYW.jpg",
+						"url": "https://t.co/qDDSKov8HI",
+						"display_url": "pic.twitter.com/qDDSKov8HI",
+						"expanded_url": "https://twitter.com/rijksmuseum/status/1151161707563311104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1316,
+								"h": 1044,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 539,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 952,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1151161644703244300,
+						"id_str": "1151161644703244288",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/D_m_aq-XYAAHS3G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_m_aq-XYAAHS3G.jpg",
+						"url": "https://t.co/qDDSKov8HI",
+						"display_url": "pic.twitter.com/qDDSKov8HI",
+						"expanded_url": "https://twitter.com/rijksmuseum/status/1151161707563311104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 547,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1649,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 966,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1151161679545360400,
+						"id_str": "1151161679545360385",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/D_m_csxX4AEYBc-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_m_csxX4AEYBc-.jpg",
+						"url": "https://t.co/qDDSKov8HI",
+						"display_url": "pic.twitter.com/qDDSKov8HI",
+						"expanded_url": "https://twitter.com/rijksmuseum/status/1151161707563311104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 109515460,
+				"id_str": "109515460",
+				"name": "Rijksmuseum",
+				"screen_name": "rijksmuseum",
+				"location": "Amsterdam, the Netherlands",
+				"description": "The must-see museum in the Netherlands. All Dutch Masters in one-place, Rembrandt, Vermeer and Van Gogh. \nhttps://t.co/vrJcYZa4uL",
+				"url": "https://t.co/F3tq4H19yP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F3tq4H19yP",
+								"expanded_url": "http://www.rijksmuseum.nl",
+								"display_url": "rijksmuseum.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vrJcYZa4uL",
+								"expanded_url": "http://rijksmuseum.nl/en/tickets",
+								"display_url": "rijksmuseum.nl/en/tickets",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 237822,
+				"friends_count": 1224,
+				"listed_count": 2342,
+				"created_at": "Fri Jan 29 09:13:53 +0000 2010",
+				"favourites_count": 6646,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14757,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E0E5E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2531418154/0weyffqv1s7lc9ldbxtw_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2531418154/0weyffqv1s7lc9ldbxtw_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/109515460/1550679525",
+				"profile_link_color": "1A626F",
+				"profile_sidebar_border_color": "E4ECEC",
+				"profile_sidebar_fill_color": "E4ECEC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I really like the way this is being shared https://t.co/B6bcopppqk impressive https://t.co/SNGNw6H7ae"
+	},
+	{
 		"created_at": "Tue Jul 16 20:36:42 +0000 2019",
 		"id": 1151229191137796100,
 		"id_str": "1151229191137796096",
