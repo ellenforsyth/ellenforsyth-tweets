@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 21 23:18:59 +0000 2019",
+		"id": 1153081174765363200,
+		"id_str": "1153081968310902784",
+		"full_text": "47% of gamers in Australia are women. \n\nReally insightful research done thanks to @igea \n\nhttps://t.co/E19X8FyQgC https://t.co/KgERvTD7o2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "igea",
+					"name": "IGEA",
+					"id": 277834034,
+					"id_str": "277834034",
+					"indices": [
+						82,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E19X8FyQgC",
+					"expanded_url": "https://igea.net/2019/07/research-reveals-the-power-of-games-in-australia/",
+					"display_url": "igea.net/2019/07/resear…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1153081169648349200,
+					"id_str": "1153081169648349184",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EACRNuoU8AAEwwH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EACRNuoU8AAEwwH.jpg",
+					"url": "https://t.co/KgERvTD7o2",
+					"display_url": "pic.twitter.com/KgERvTD7o2",
+					"expanded_url": "https://twitter.com/womanz_gg/status/1153081174765363200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1123,
+							"h": 771,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1123,
+							"h": 771,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153081169648349200,
+					"id_str": "1153081169648349184",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EACRNuoU8AAEwwH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EACRNuoU8AAEwwH.jpg",
+					"url": "https://t.co/KgERvTD7o2",
+					"display_url": "pic.twitter.com/KgERvTD7o2",
+					"expanded_url": "https://twitter.com/womanz_gg/status/1153081174765363200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1123,
+							"h": 771,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1123,
+							"h": 771,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993392663754784800,
+			"id_str": "993392663754784768",
+			"name": "WomANZ",
+			"screen_name": "womanz_gg",
+			"location": "Australia",
+			"description": "A professional community for women in Australia and New Zealand in content creation and esports. ✨ https://t.co/50H3BHPtKO",
+			"url": "https://t.co/mJkoUbQuxL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mJkoUbQuxL",
+							"expanded_url": "https://womanz.com.au/apply/",
+							"display_url": "womanz.com.au/apply/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/50H3BHPtKO",
+							"expanded_url": "http://WomANZ.com.au",
+							"display_url": "WomANZ.com.au",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2526,
+			"friends_count": 786,
+			"listed_count": 7,
+			"created_at": "Mon May 07 07:30:42 +0000 2018",
+			"favourites_count": 3878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145499436400820225/1f6l7qkY_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145499436400820225/1f6l7qkY_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993392663754784768/1561726529",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "47% of gamers in Australia are women. \n\nReally insightful research done thanks to @igea \n\nhttps://t.co/E19X8FyQgC https://t.co/KgERvTD7o2"
+	},
+	{
 		"created_at": "Thu Jul 18 20:52:49 +0000 2019",
 		"id": 1151958021943074800,
 		"id_str": "1151958021943074816",
