@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 22 20:51:59 +0000 2019",
+		"id": 1153407363753205800,
+		"id_str": "1153407363753205761",
+		"full_text": "Inside the Library Story: What Data Reveals About Public Libraries and their Communities https://t.co/CjXJqdrKnC via @LibraryJournal this research is being revealed in stages, so you can start reading this now",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LibraryJournal",
+					"name": "Library Journal",
+					"id": 15169290,
+					"id_str": "15169290",
+					"indices": [
+						117,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CjXJqdrKnC",
+					"expanded_url": "https://www.libraryjournal.com/?page=community-connections-2019",
+					"display_url": "libraryjournal.com/?page=communit…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2501,
+			"friends_count": 796,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inside the Library Story: What Data Reveals About Public Libraries and their Communities https://t.co/CjXJqdrKnC via @LibraryJournal this research is being revealed in stages, so you can start reading this now"
+	},
+	{
+		"created_at": "Mon Jul 22 20:48:34 +0000 2019",
+		"id": 1153285396178133000,
+		"id_str": "1153406502624825344",
+		"full_text": "The @BL_DigiSchol and @LivingwMachines teams have shared their impressions from the digital humanities conference #DH2019 Me and @Lieves\nhttps://t.co/21rxqdRDJJ then @RossiAtanassova @vanstriendaniel https://t.co/L0fK3GHu2B and @ndalyrose @giorgiatolfo https://t.co/nuTH4SqkAR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DH2019",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BL_DigiSchol",
+					"name": "Digital Scholarship",
+					"id": 744814089172455400,
+					"id_str": "744814089172455424",
+					"indices": [
+						4,
+						17
+					]
+				},
+				{
+					"screen_name": "LivingwMachines",
+					"name": "Living with Machines",
+					"id": 1047759156353159200,
+					"id_str": "1047759156353159170",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "lieves",
+					"name": "lieves heskowitz",
+					"id": 25950129,
+					"id_str": "25950129",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"screen_name": "RossiAtanassova",
+					"name": "Rossitza Atanassova",
+					"id": 211179164,
+					"id_str": "211179164",
+					"indices": [
+						166,
+						182
+					]
+				},
+				{
+					"screen_name": "vanstriendaniel",
+					"name": "Daniel van Strien",
+					"id": 2828117077,
+					"id_str": "2828117077",
+					"indices": [
+						183,
+						199
+					]
+				},
+				{
+					"screen_name": "ndalyrose",
+					"name": "Nora McGregor",
+					"id": 20802505,
+					"id_str": "20802505",
+					"indices": [
+						228,
+						238
+					]
+				},
+				{
+					"screen_name": "giorgiatolfo",
+					"name": "Giorgia Tolfo",
+					"id": 270374714,
+					"id_str": "270374714",
+					"indices": [
+						239,
+						252
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/21rxqdRDJJ",
+					"expanded_url": "https://blogs.bl.uk/digital-scholarship/2019/07/our-highlights-from-digital-humanities-2019-mia-and-yann.html",
+					"display_url": "blogs.bl.uk/digital-schola…",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/L0fK3GHu2B",
+					"expanded_url": "https://blogs.bl.uk/digital-scholarship/2019/07/our-highlights-from-digital-humanities-2019-rossitza-and-daniel.html",
+					"display_url": "blogs.bl.uk/digital-schola…",
+					"indices": [
+						200,
+						223
+					]
+				},
+				{
+					"url": "https://t.co/nuTH4SqkAR",
+					"expanded_url": "https://blogs.bl.uk/digital-scholarship/2019/07/our-highlights-from-digital-humanities-2019.html",
+					"display_url": "blogs.bl.uk/digital-schola…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20431901,
+			"id_str": "20431901",
+			"name": "Dr Mia Ridge",
+			"screen_name": "mia_out",
+			"location": "London, mostly",
+			"description": "Digital Curator @BritishLibrary @BL_DigiSchol. Collections as data, UX, crowdsourcing in cultural heritage, libraries, museums. Digital History PhD. She, they.",
+			"url": "https://t.co/J7DSovI3v5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J7DSovI3v5",
+							"expanded_url": "http://www.worldcat.org/title/crowdsourcing-our-cultural-heritage/oclc/883391279",
+							"display_url": "worldcat.org/title/crowdsou…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8440,
+			"friends_count": 466,
+			"listed_count": 725,
+			"created_at": "Mon Feb 09 12:32:56 +0000 2009",
+			"favourites_count": 6709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/666703610114416640/2471UIHT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/666703610114416640/2471UIHT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20431901/1475055023",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @BL_DigiSchol and @LivingwMachines teams have shared their impressions from the digital humanities conference #DH2019 Me and @Lieves\nhttps://t.co/21rxqdRDJJ then @RossiAtanassova @vanstriendaniel https://t.co/L0fK3GHu2B and @ndalyrose @giorgiatolfo https://t.co/nuTH4SqkAR"
+	},
+	{
 		"created_at": "Sun Jul 21 23:18:59 +0000 2019",
 		"id": 1153081174765363200,
 		"id_str": "1153081968310902784",
