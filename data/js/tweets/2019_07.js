@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 27 00:03:40 +0000 2019",
+		"id": 1154886048985448400,
+		"id_str": "1154905155390693376",
+		"full_text": "A beautiful protest against the Adani coal mine. \n\nhttps://t.co/VbI7gpwDQ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VbI7gpwDQ5",
+					"expanded_url": "https://www.theguardian.com/environment/gallery/2019/jul/26/black-finch-project-the-anti-adani-art-campaign-in-pictures",
+					"display_url": "theguardian.com/environment/ga…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 620761847,
+			"id_str": "620761847",
+			"name": "John Martin",
+			"screen_name": "Wingtags",
+			"location": "Sydney, Australia",
+			"description": "Loves Field Ecology. Enjoys Beer. Facebook: Wayward Ecology, Insta @Wingtags. Co-ord The Wingtags Project (Facebook @CockatooWingtags) & @HollowsAsHomes Project",
+			"url": "https://t.co/yKkIwMqzp7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yKkIwMqzp7",
+							"expanded_url": "https://linktr.ee/wingtagsandhollows",
+							"display_url": "linktr.ee/wingtagsandhol…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3093,
+			"friends_count": 778,
+			"listed_count": 95,
+			"created_at": "Thu Jun 28 07:50:43 +0000 2012",
+			"favourites_count": 12984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145438690375716864/mlcQ9-Oq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145438690375716864/mlcQ9-Oq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/620761847/1400225396",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A beautiful protest against the Adani coal mine. \n\nhttps://t.co/VbI7gpwDQ5"
+	},
+	{
+		"created_at": "Fri Jul 26 21:12:02 +0000 2019",
+		"id": 1154861959327580200,
+		"id_str": "1154861959327580160",
+		"full_text": "great to see this contemporary collecting and having a rapid response collecting gallery sounds excellent https://t.co/hLrui9Gotd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hLrui9Gotd",
+					"expanded_url": "https://twitter.com/V_and_A/status/1154700474500681728",
+					"display_url": "twitter.com/V_and_A/status…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly in Gadigal or Gamilaroi country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2501,
+			"friends_count": 796,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154700474500681700,
+		"quoted_status_id_str": "1154700474500681728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hLrui9Gotd",
+			"expanded": "https://twitter.com/V_and_A/status/1154700474500681728",
+			"display": "twitter.com/V_and_A/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 26 10:30:21 +0000 2019",
+			"id": 1154700474500681700,
+			"id_str": "1154700474500681728",
+			"full_text": "Since its first public action in 2018 urging the UK government to declare a climate emergency @ExtinctionR has grown into an international movement. We have added a series of objects that explore the design identity of XR to our collection.\nhttps://t.co/4r12JdOWFe https://t.co/QMJnIBc1Un",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ExtinctionR",
+						"name": "Extinction Rebellion ⌛️",
+						"id": 1019974187975430100,
+						"id_str": "1019974187975430144",
+						"indices": [
+							94,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4r12JdOWFe",
+						"expanded_url": "http://bit.ly/2JZgSUs",
+						"display_url": "bit.ly/2JZgSUs",
+						"indices": [
+							241,
+							264
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1154700473083072500,
+						"id_str": "1154700473083072512",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/EAZR9mAXkAA-Wc0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAZR9mAXkAA-Wc0.jpg",
+						"url": "https://t.co/QMJnIBc1Un",
+						"display_url": "pic.twitter.com/QMJnIBc1Un",
+						"expanded_url": "https://twitter.com/V_and_A/status/1154700474500681728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 449,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 507,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 507,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1154700473083072500,
+						"id_str": "1154700473083072512",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/EAZR9mAXkAA-Wc0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAZR9mAXkAA-Wc0.jpg",
+						"url": "https://t.co/QMJnIBc1Un",
+						"display_url": "pic.twitter.com/QMJnIBc1Un",
+						"expanded_url": "https://twitter.com/V_and_A/status/1154700474500681728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 449,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 507,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 507,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18807671,
+				"id_str": "18807671",
+				"name": "V&A",
+				"screen_name": "V_and_A",
+				"location": "South Kensington, London",
+				"description": "The Victoria and Albert Museum is the world's leading museum of art, design and performance.",
+				"url": "https://t.co/l7kaIWsfXP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l7kaIWsfXP",
+								"expanded_url": "http://www.vam.ac.uk",
+								"display_url": "vam.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1371222,
+				"friends_count": 2158,
+				"listed_count": 9186,
+				"created_at": "Fri Jan 09 17:28:48 +0000 2009",
+				"favourites_count": 8676,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21761,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1128977556307415040/9KHE1Iwx_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128977556307415040/9KHE1Iwx_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18807671/1558004222",
+				"profile_link_color": "FFCC4D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7F9FC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 93,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great to see this contemporary collecting and having a rapid response collecting gallery sounds excellent https://t.co/hLrui9Gotd"
+	},
+	{
 		"created_at": "Tue Jul 23 20:25:32 +0000 2019",
 		"id": 1153763094230904800,
 		"id_str": "1153763094230904832",
