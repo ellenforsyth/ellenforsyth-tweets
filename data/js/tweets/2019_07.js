@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 29 06:09:51 +0000 2019",
+		"id": 1153609999467389000,
+		"id_str": "1155722082971336704",
+		"full_text": "I feel like I'm constantly explaining these to the people around me.  Here's your guide :-) https://t.co/pbiJGAIS3T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1153609994690076700,
+					"id_str": "1153609994690076673",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EAJyLZbXoAEoxJH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAJyLZbXoAEoxJH.jpg",
+					"url": "https://t.co/pbiJGAIS3T",
+					"display_url": "pic.twitter.com/pbiJGAIS3T",
+					"expanded_url": "https://twitter.com/DustinKirkland/status/1153609999467388929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153609994690076700,
+					"id_str": "1153609994690076673",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EAJyLZbXoAEoxJH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAJyLZbXoAEoxJH.jpg",
+					"url": "https://t.co/pbiJGAIS3T",
+					"display_url": "pic.twitter.com/pbiJGAIS3T",
+					"expanded_url": "https://twitter.com/DustinKirkland/status/1153609999467388929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17050488,
+			"id_str": "17050488",
+			"name": "𝔻𝕦𝕤𝕥𝕚𝕟 𝕂𝕚𝕣𝕜𝕝𝕒𝕟𝕕",
+			"screen_name": "DustinKirkland",
+			"location": "Austin, TX",
+			"description": "Product Manager at @GoogleCloud, former VP Product of @Ubuntu at @Canonical, former CTO, homebrewer, grapegrower, winemaker, better half is @KimAKirkland",
+			"url": "https://t.co/vUCtmwzIDK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vUCtmwzIDK",
+							"expanded_url": "http://blog.dustinkirkland.com",
+							"display_url": "blog.dustinkirkland.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4055,
+			"friends_count": 669,
+			"listed_count": 147,
+			"created_at": "Wed Oct 29 20:11:44 +0000 2008",
+			"favourites_count": 8710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140994928329330688/teXVFk47_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140994928329330688/teXVFk47_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17050488/1543338623",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5635c19c2b5078d1",
+			"url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+			"place_type": "admin",
+			"name": "Virginia",
+			"full_name": "Virginia, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-83.67529,
+							36.540739
+						],
+						[
+							-75.16644,
+							36.540739
+						],
+						[
+							-75.16644,
+							39.466012
+						],
+						[
+							-83.67529,
+							39.466012
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2325,
+		"favorite_count": 5909,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I feel like I'm constantly explaining these to the people around me.  Here's your guide :-) https://t.co/pbiJGAIS3T"
+	},
+	{
 		"created_at": "Sat Jul 27 19:47:26 +0000 2019",
 		"id": 1155203058181165000,
 		"id_str": "1155203058181165056",
