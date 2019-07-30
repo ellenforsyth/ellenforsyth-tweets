@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 29 20:00:17 +0000 2019",
+		"id": 1155022209406009300,
+		"id_str": "1155931068505055235",
+		"full_text": "New figures published by British Library make the case that libraries can be “engines of economic growth” after its Business &amp; IP Centres are said to have been directly involved in the creation of more than 12,000 new UK businesses since 2016 #libraries https://t.co/FeqDGgdr1F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "libraries",
+					"indices": [
+						247,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FeqDGgdr1F",
+					"expanded_url": "https://advisor.museumsandheritage.com/news/libraries-boost-economy-diversity-aside-culture-report-claims/",
+					"display_url": "advisor.museumsandheritage.com/news/libraries…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10477442,
+			"id_str": "10477442",
+			"name": "Anna Raunik",
+			"screen_name": "Annar",
+			"location": "Queensland, South Brisbane",
+			"description": "Working at State Library of Qld - focused on collections, content and data  - description, access, discovery and long term preservation. https://t.co/nXJHGHLrB7",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nXJHGHLrB7",
+							"expanded_url": "http://www.slq.qld.gov.au",
+							"display_url": "slq.qld.gov.au",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 887,
+			"friends_count": 1063,
+			"listed_count": 66,
+			"created_at": "Thu Nov 22 22:30:22 +0000 2007",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695562182373691392/Fq4QQU_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695562182373691392/Fq4QQU_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10477442/1495851143",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New figures published by British Library make the case that libraries can be “engines of economic growth” after its Business &amp; IP Centres are said to have been directly involved in the creation of more than 12,000 new UK businesses since 2016 #libraries https://t.co/FeqDGgdr1F"
+	},
+	{
+		"created_at": "Mon Jul 29 19:46:18 +0000 2019",
+		"id": 1155810589706543000,
+		"id_str": "1155927550603849728",
+		"full_text": "New on 💥Thought Shrapnel:\nThe best place to be is somewhere else? https://t.co/NvuFevckNs https://t.co/OnBWph4n7g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NvuFevckNs",
+					"expanded_url": "https://thoughtshrapnel.com/2019/07/29/best-place-to-be/",
+					"display_url": "thoughtshrapnel.com/2019/07/29/bes…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1155810588016238600,
+					"id_str": "1155810588016238598",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EApDmyZX4AYfwaR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EApDmyZX4AYfwaR.jpg",
+					"url": "https://t.co/OnBWph4n7g",
+					"display_url": "pic.twitter.com/OnBWph4n7g",
+					"expanded_url": "https://twitter.com/dajbelshaw/status/1155810589706543105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1155810588016238600,
+					"id_str": "1155810588016238598",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EApDmyZX4AYfwaR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EApDmyZX4AYfwaR.jpg",
+					"url": "https://t.co/OnBWph4n7g",
+					"display_url": "pic.twitter.com/OnBWph4n7g",
+					"expanded_url": "https://twitter.com/dajbelshaw/status/1155810589706543105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 764365,
+			"id_str": "764365",
+			"name": "˗ˏˋ Doug Belshaw ˎˊ˗ 🇪🇺 ☠️ ✊",
+			"screen_name": "dajbelshaw",
+			"location": "Morpeth, England",
+			"description": "Open Educational Thinkerer. Husband of @hbelshaw and father of two. Now: @Moodle and @WeAreOpenCoop. Then: @Mozilla / @Jisc / SLT / teacher. Likes: 🏔📚🥃⚽🏊‍♂️",
+			"url": "https://t.co/pFjCnpa480",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pFjCnpa480",
+							"expanded_url": "http://dougbelshaw.com/blog/start/",
+							"display_url": "dougbelshaw.com/blog/start/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14444,
+			"friends_count": 4188,
+			"listed_count": 1163,
+			"created_at": "Sun Feb 11 10:23:13 +0000 2007",
+			"favourites_count": 27239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154002575747887104/ml3mpv2U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154002575747887104/ml3mpv2U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/764365/1563970874",
+			"profile_link_color": "2C3444",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New on 💥Thought Shrapnel:\nThe best place to be is somewhere else? https://t.co/NvuFevckNs https://t.co/OnBWph4n7g"
+	},
+	{
 		"created_at": "Mon Jul 29 06:09:51 +0000 2019",
 		"id": 1153609999467389000,
 		"id_str": "1155722082971336704",
