@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 07 22:42:33 +0000 2019",
+		"id": 1158964770566893600,
+		"id_str": "1159233394225451008",
+		"full_text": "You can also compare your library’s statistics against industry and national job averages with the ALIA Workforce Diversity Calculator. \n\nhttps://t.co/RlWA60E36U https://t.co/bu8RAu77rV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RlWA60E36U",
+					"expanded_url": "http://bit.ly/2Yvc9UW",
+					"display_url": "bit.ly/2Yvc9UW",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1158964764845858800,
+					"id_str": "1158964764845858817",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EBV4UCvU4AEfHro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBV4UCvU4AEfHro.jpg",
+					"url": "https://t.co/bu8RAu77rV",
+					"display_url": "pic.twitter.com/bu8RAu77rV",
+					"expanded_url": "https://twitter.com/ALIANational/status/1158964770566893568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 794,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 794,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158964764845858800,
+					"id_str": "1158964764845858817",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EBV4UCvU4AEfHro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBV4UCvU4AEfHro.jpg",
+					"url": "https://t.co/bu8RAu77rV",
+					"display_url": "pic.twitter.com/bu8RAu77rV",
+					"expanded_url": "https://twitter.com/ALIANational/status/1158964770566893568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 794,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 794,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1158964761737879600,
+		"in_reply_to_status_id_str": "1158964761737879552",
+		"in_reply_to_user_id": 43796164,
+		"in_reply_to_user_id_str": "43796164",
+		"in_reply_to_screen_name": "ALIANational",
+		"user": {
+			"id": 43796164,
+			"id_str": "43796164",
+			"name": "Aust Lib & Info Assn",
+			"screen_name": "ALIANational",
+			"location": "Canberra, Australia",
+			"description": "Australia's peak body for library and information professionals - Australian Library and Information Association",
+			"url": "http://t.co/Vo7rN2KMEn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Vo7rN2KMEn",
+							"expanded_url": "http://www.alia.org.au",
+							"display_url": "alia.org.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10541,
+			"friends_count": 1043,
+			"listed_count": 538,
+			"created_at": "Mon Jun 01 01:11:18 +0000 2009",
+			"favourites_count": 8159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000545938548/5b6097f515bfa4d032e528cf3a13ebdc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000545938548/5b6097f515bfa4d032e528cf3a13ebdc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43796164/1496018435",
+			"profile_link_color": "64CBC9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can also compare your library’s statistics against industry and national job averages with the ALIA Workforce Diversity Calculator. \n\nhttps://t.co/RlWA60E36U https://t.co/bu8RAu77rV"
+	},
+	{
+		"created_at": "Wed Aug 07 22:42:29 +0000 2019",
+		"id": 1159233376483545000,
+		"id_str": "1159233376483545090",
+		"full_text": "Well worth reading https://t.co/zpKPxKuhtp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zpKPxKuhtp",
+					"expanded_url": "https://twitter.com/ALIANational/status/1158964761737879552",
+					"display_url": "twitter.com/ALIANational/s…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2502,
+			"friends_count": 796,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1158964761737879600,
+		"quoted_status_id_str": "1158964761737879552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zpKPxKuhtp",
+			"expanded": "https://twitter.com/ALIANational/status/1158964761737879552",
+			"display": "twitter.com/ALIANational/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 07 04:55:06 +0000 2019",
+			"id": 1158964761737879600,
+			"id_str": "1158964761737879552",
+			"full_text": "ALIA has released the Workforce Diversity Trend Report 2019. \n\nThe report details the current status of diversity across the galleries, libraries, archives, museums and records (GLAMR) workforce.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43796164,
+				"id_str": "43796164",
+				"name": "Aust Lib & Info Assn",
+				"screen_name": "ALIANational",
+				"location": "Canberra, Australia",
+				"description": "Australia's peak body for library and information professionals - Australian Library and Information Association",
+				"url": "http://t.co/Vo7rN2KMEn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Vo7rN2KMEn",
+								"expanded_url": "http://www.alia.org.au",
+								"display_url": "alia.org.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10541,
+				"friends_count": 1043,
+				"listed_count": 538,
+				"created_at": "Mon Jun 01 01:11:18 +0000 2009",
+				"favourites_count": 8159,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25740,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000545938548/5b6097f515bfa4d032e528cf3a13ebdc_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000545938548/5b6097f515bfa4d032e528cf3a13ebdc_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43796164/1496018435",
+				"profile_link_color": "64CBC9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well worth reading https://t.co/zpKPxKuhtp"
+	},
+	{
 		"created_at": "Tue Aug 06 20:54:01 +0000 2019",
 		"id": 1158260421679145000,
 		"id_str": "1158843692666511364",
