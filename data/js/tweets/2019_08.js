@@ -1,6 +1,608 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 09 23:07:59 +0000 2019",
+		"id": 1159964569416032300,
+		"id_str": "1159964569416032256",
+		"full_text": "The Most Popular Social Media Networks Over Time https://t.co/vHqSZboNAs via @scholarlykitchn watch the animation with the sound on",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scholarlykitchn",
+					"name": "Scholarly Kitchen",
+					"id": 119401334,
+					"id_str": "119401334",
+					"indices": [
+						77,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vHqSZboNAs",
+					"expanded_url": "https://scholarlykitchen.sspnet.org/2019/08/09/the-most-popular-social-media-networks-over-time/",
+					"display_url": "scholarlykitchen.sspnet.org/2019/08/09/the…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2502,
+			"friends_count": 796,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Most Popular Social Media Networks Over Time https://t.co/vHqSZboNAs via @scholarlykitchn watch the animation with the sound on"
+	},
+	{
+		"created_at": "Fri Aug 09 23:02:33 +0000 2019",
+		"id": 1159809933556293600,
+		"id_str": "1159963202689482752",
+		"full_text": "Libraries are becoming spaces for active play all around the world. \nhttps://t.co/40Vf0wDtXs https://t.co/BrRzZrnoKw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/40Vf0wDtXs",
+					"expanded_url": "https://www.thenational.ae/arts-culture/books/first-look-inside-the-abu-dhabi-children-s-library-1.895639?fbclid=IwAR3jvILDnmKwZ6qu9XOW5JJ48RN2tNU-36gZqRsBa0bAf7-aJCGID-l-ytw#2",
+					"display_url": "thenational.ae/arts-culture/b…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1159809928489558000,
+					"id_str": "1159809928489558016",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EBh4_CqXYAAO5nA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBh4_CqXYAAO5nA.jpg",
+					"url": "https://t.co/BrRzZrnoKw",
+					"display_url": "pic.twitter.com/BrRzZrnoKw",
+					"expanded_url": "https://twitter.com/NoahLenstra/status/1159809933556293632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1180,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1231,
+							"h": 1252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 669,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159809928489558000,
+					"id_str": "1159809928489558016",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EBh4_CqXYAAO5nA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBh4_CqXYAAO5nA.jpg",
+					"url": "https://t.co/BrRzZrnoKw",
+					"display_url": "pic.twitter.com/BrRzZrnoKw",
+					"expanded_url": "https://twitter.com/NoahLenstra/status/1159809933556293632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1180,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1231,
+							"h": 1252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 669,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 558750638,
+			"id_str": "558750638",
+			"name": "Noah Lenstra",
+			"screen_name": "NoahLenstra",
+			"location": "Greensboro, NC",
+			"description": "Assistant Professor @LISuncg | Grad of @iSchoolUI | Manages @LetsMoveLibrary | #ProgrammingLibrarian | Always looking to #GetOutside",
+			"url": "https://t.co/KKTkJCIMQN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KKTkJCIMQN",
+							"expanded_url": "http://noahlenstra.com",
+							"display_url": "noahlenstra.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 756,
+			"friends_count": 1225,
+			"listed_count": 16,
+			"created_at": "Fri Apr 20 16:07:50 +0000 2012",
+			"favourites_count": 12093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060023927358087169/H3y5i-4U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060023927358087169/H3y5i-4U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/558750638/1551895573",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Libraries are becoming spaces for active play all around the world. \nhttps://t.co/40Vf0wDtXs https://t.co/BrRzZrnoKw"
+	},
+	{
+		"created_at": "Fri Aug 09 20:08:25 +0000 2019",
+		"id": 1159769848425132000,
+		"id_str": "1159919383604391937",
+		"full_text": "Dear Disgruntled White Plantation Visitors, Sit Down. https://t.co/fJwc6tNaHm https://t.co/s7kZKWzC4Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fJwc6tNaHm",
+					"expanded_url": "http://afroculinaria.com/2019/08/09/dear-disgruntled-white-plantation-visitors-sit-down/",
+					"display_url": "afroculinaria.com/2019/08/09/dea…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1159769846705524700,
+					"id_str": "1159769846705524737",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EBhUh-YXkAEIeLR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBhUh-YXkAEIeLR.jpg",
+					"url": "https://t.co/s7kZKWzC4Z",
+					"display_url": "pic.twitter.com/s7kZKWzC4Z",
+					"expanded_url": "https://twitter.com/KosherSoul/status/1159769848425132032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 977,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 977,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159769846705524700,
+					"id_str": "1159769846705524737",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EBhUh-YXkAEIeLR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBhUh-YXkAEIeLR.jpg",
+					"url": "https://t.co/s7kZKWzC4Z",
+					"display_url": "pic.twitter.com/s7kZKWzC4Z",
+					"expanded_url": "https://twitter.com/KosherSoul/status/1159769848425132032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 977,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 977,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47839975,
+			"id_str": "47839975",
+			"name": "Michael W. Twitty",
+			"screen_name": "KosherSoul",
+			"location": "Washington D.C. area",
+			"description": "African American-Jewish ✡culinary historian/Author:THE COOKING GENE  #TEDFELLOW #LGBT 🏳️‍🌈JAMES BEARD AWARD WINNER 2018: BEST FOOD WRITING/BOOK OF THE YEAR.",
+			"url": "https://t.co/KiLum2BOtB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KiLum2BOtB",
+							"expanded_url": "http://www.afroculinaria.com",
+							"display_url": "afroculinaria.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35388,
+			"friends_count": 9647,
+			"listed_count": 819,
+			"created_at": "Wed Jun 17 03:25:56 +0000 2009",
+			"favourites_count": 91610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 126315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991045335920336897/kqOcbsBM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991045335920336897/kqOcbsBM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47839975/1552055221",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 912,
+		"favorite_count": 2013,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dear Disgruntled White Plantation Visitors, Sit Down. https://t.co/fJwc6tNaHm https://t.co/s7kZKWzC4Z"
+	},
+	{
+		"created_at": "Fri Aug 09 20:04:53 +0000 2019",
+		"id": 1159918490758680600,
+		"id_str": "1159918490758680576",
+		"full_text": "Crocheted Seafood and Knitted Loaves Top the Menu of Kate Jenkins’s Food-Focused Exhibitions https://t.co/UWzG42qZol via @colossal for more lovely crochet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Colossal",
+					"name": "Colossal",
+					"id": 203063180,
+					"id_str": "203063180",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UWzG42qZol",
+					"expanded_url": "https://www.thisiscolossal.com/2019/01/crocheted-seafood-and-knitted-loaves-by-kate-jenkins/",
+					"display_url": "thisiscolossal.com/2019/01/croche…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2502,
+			"friends_count": 796,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Crocheted Seafood and Knitted Loaves Top the Menu of Kate Jenkins’s Food-Focused Exhibitions https://t.co/UWzG42qZol via @colossal for more lovely crochet"
+	},
+	{
 		"created_at": "Thu Aug 08 19:47:24 +0000 2019",
 		"id": 1159551705186390000,
 		"id_str": "1159551705186390016",
