@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 10 20:24:17 +0000 2019",
+		"id": 1160285761142345700,
+		"id_str": "1160285761142345728",
+		"full_text": "lovely to read a client perspective - shows the importance of these being available and affordable https://t.co/VzXo3cvaCN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VzXo3cvaCN",
+					"expanded_url": "https://twitter.com/susanatkey/status/1159241838890405888",
+					"display_url": "twitter.com/susanatkey/sta…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2502,
+			"friends_count": 796,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1159241838890406000,
+		"quoted_status_id_str": "1159241838890405888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VzXo3cvaCN",
+			"expanded": "https://twitter.com/susanatkey/status/1159241838890405888",
+			"display": "twitter.com/susanatkey/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 07 23:16:06 +0000 2019",
+			"id": 1159241838890406000,
+			"id_str": "1159241838890405888",
+			"full_text": "A lovely ode to and brief history of #InterlibraryLoan by @nickripatrazone via @lithub. \n\n\"Libraries have lent and borrowed books in some form from the 8th century to the present.\" \n\nhttps://t.co/FLWmhCwSPq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InterlibraryLoan",
+						"indices": [
+							37,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nickripatrazone",
+						"name": "Nick Ripatrazone",
+						"id": 1403225683,
+						"id_str": "1403225683",
+						"indices": [
+							58,
+							74
+						]
+					},
+					{
+						"screen_name": "lithub",
+						"name": "Literary Hub",
+						"id": 2903979971,
+						"id_str": "2903979971",
+						"indices": [
+							79,
+							86
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FLWmhCwSPq",
+						"expanded_url": "https://lithub.com/interlibrary-loan-will-change-your-life/",
+						"display_url": "lithub.com/interlibrary-l…",
+						"indices": [
+							183,
+							206
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65767723,
+				"id_str": "65767723",
+				"name": "Susan Atkey",
+				"screen_name": "susanatkey",
+				"location": "Vancouver, BC",
+				"description": "Librarian @UBC for Linguistics | Anthropology | Hispanic Studies | Central & Eastern European Studies 📚 🖥️📚 🖥️ #Libraries #DigitalHumanities #OpenScholarship",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 488,
+				"friends_count": 880,
+				"listed_count": 54,
+				"created_at": "Fri Aug 14 23:35:04 +0000 2009",
+				"favourites_count": 4106,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2904,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1124192188252835841/DvxVgQHQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124192188252835841/DvxVgQHQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65767723/1556863678",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lovely to read a client perspective - shows the importance of these being available and affordable https://t.co/VzXo3cvaCN"
+	},
+	{
+		"created_at": "Sat Aug 10 20:20:41 +0000 2019",
+		"id": 1159133509241491500,
+		"id_str": "1160284854707113984",
+		"full_text": "The case of the disappearing (white) poet: my response to Bob Hicok is now up at @newrepublic  https://t.co/1ZmikcecPA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "newrepublic",
+					"name": "The New Republic",
+					"id": 82689705,
+					"id_str": "82689705",
+					"indices": [
+						81,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1ZmikcecPA",
+					"expanded_url": "https://newrepublic.com/article/154694/case-disappearing-poet",
+					"display_url": "newrepublic.com/article/154694…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16477346,
+			"id_str": "16477346",
+			"name": "Timothy Yu",
+			"screen_name": "timpanyu",
+			"location": "Madison, WI",
+			"description": "Poet, scholar, Cubs fan. Author of 100 Chinese Silences https://t.co/7KsKiCDYvo",
+			"url": "https://t.co/QqTdipp1Tb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QqTdipp1Tb",
+							"expanded_url": "http://timpanyu.com",
+							"display_url": "timpanyu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KsKiCDYvo",
+							"expanded_url": "http://lesfigues.com/book/100-chinese-silences/",
+							"display_url": "lesfigues.com/book/100-chine…",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1089,
+			"friends_count": 900,
+			"listed_count": 28,
+			"created_at": "Fri Sep 26 23:51:06 +0000 2008",
+			"favourites_count": 2185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865585401850978305/qLTNvgLy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865585401850978305/qLTNvgLy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16477346/1450418891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The case of the disappearing (white) poet: my response to Bob Hicok is now up at @newrepublic  https://t.co/1ZmikcecPA"
+	},
+	{
+		"created_at": "Sat Aug 10 19:41:02 +0000 2019",
+		"id": 1160147705219256300,
+		"id_str": "1160274879863611392",
+		"full_text": "80% of books published in the US before 1964 never had their copyright renewed, putting them in the public domain. Here are some of them.\n https://t.co/qi6ivJv2uk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qi6ivJv2uk",
+					"expanded_url": "https://botsin.space/@SecretlyPublicDomain?utm_source=DesignTAXI&utm_medium=DesignTAXI&utm_term=DesignTAXI&utm_content=DesignTAXI&utm_campaign=DesignTAXI",
+					"display_url": "botsin.space/@SecretlyPubli…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10477442,
+			"id_str": "10477442",
+			"name": "Anna Raunik",
+			"screen_name": "Annar",
+			"location": "Queensland, South Brisbane",
+			"description": "Working at State Library of Qld - focused on collections, content and data  - description, access, discovery and long term preservation. https://t.co/nXJHGHLrB7",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nXJHGHLrB7",
+							"expanded_url": "http://www.slq.qld.gov.au",
+							"display_url": "slq.qld.gov.au",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 884,
+			"friends_count": 1065,
+			"listed_count": 67,
+			"created_at": "Thu Nov 22 22:30:22 +0000 2007",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695562182373691392/Fq4QQU_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695562182373691392/Fq4QQU_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10477442/1495851143",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "80% of books published in the US before 1964 never had their copyright renewed, putting them in the public domain. Here are some of them.\n https://t.co/qi6ivJv2uk"
+	},
+	{
 		"created_at": "Fri Aug 09 23:07:59 +0000 2019",
 		"id": 1159964569416032300,
 		"id_str": "1159964569416032256",
@@ -417,7 +881,7 @@ Grailbird.data.tweets_2019_08 =
 			"name": "Michael W. Twitty",
 			"screen_name": "KosherSoul",
 			"location": "Washington D.C. area",
-			"description": "African American-Jewish ✡culinary historian/Author:THE COOKING GENE  #TEDFELLOW #LGBT 🏳️‍🌈JAMES BEARD AWARD WINNER 2018: BEST FOOD WRITING/BOOK OF THE YEAR.",
+			"description": "African American-Jewish ✡culinary historian/Author:THE COOKING GENE  #TEDFELLOW #LGBT 🏳️🌈JAMES BEARD AWARD WINNER 2018: BEST FOOD WRITING/BOOK OF THE YEAR.",
 			"url": "https://t.co/KiLum2BOtB",
 			"entities": {
 				"url": {
