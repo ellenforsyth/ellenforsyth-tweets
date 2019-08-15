@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 14 19:59:17 +0000 2019",
+		"id": 1161729021685559300,
+		"id_str": "1161729021685559296",
+		"full_text": "interesting https://t.co/52QyVVKMDz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/52QyVVKMDz",
+					"expanded_url": "https://twitter.com/awitnesstree/status/1151523052221599745",
+					"display_url": "twitter.com/awitnesstree/s…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2505,
+			"friends_count": 798,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151523052221599700,
+		"quoted_status_id_str": "1151523052221599745",
+		"quoted_status_permalink": {
+			"url": "https://t.co/52QyVVKMDz",
+			"expanded": "https://twitter.com/awitnesstree/status/1151523052221599745",
+			"display": "twitter.com/awitnesstree/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 17 16:04:24 +0000 2019",
+			"id": 1151523052221599700,
+			"id_str": "1151523052221599745",
+			"full_text": "Hello, World! I am a century-old red oak at Harvard Forest in MA: one of the oldest living organisms on the internet! Follow me to learn more about my life in a changing environment. For more on info how I work, go to: https://t.co/vI5k4AzEEQ. https://t.co/nN7yacQ0aR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vI5k4AzEEQ",
+						"expanded_url": "https://harvardforest.fas.harvard.edu/witness-tree",
+						"display_url": "harvardforest.fas.harvard.edu/witness-tree",
+						"indices": [
+							219,
+							242
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1151523050376106000,
+						"id_str": "1151523050376105985",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/D_sIHQBXkAEXCkR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_sIHQBXkAEXCkR.jpg",
+						"url": "https://t.co/nN7yacQ0aR",
+						"display_url": "pic.twitter.com/nN7yacQ0aR",
+						"expanded_url": "https://twitter.com/awitnesstree/status/1151523052221599745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1813,
+								"h": 1563,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 586,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1035,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1151523050376106000,
+						"id_str": "1151523050376105985",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/D_sIHQBXkAEXCkR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_sIHQBXkAEXCkR.jpg",
+						"url": "https://t.co/nN7yacQ0aR",
+						"display_url": "pic.twitter.com/nN7yacQ0aR",
+						"expanded_url": "https://twitter.com/awitnesstree/status/1151523052221599745/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1813,
+								"h": 1563,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 586,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1035,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://harvardforest.fas.harvard.edu/witness-tree-social-media-project\" rel=\"nofollow\">aWitnessTree</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1022223787327201300,
+				"id_str": "1022223787327201280",
+				"name": "A witness tree",
+				"screen_name": "awitnesstree",
+				"location": "Harvard Forest, Massachusetts",
+				"description": "Witnessing life as a tree in a changing environment for more than a century. Views are my own - sort of (data translated by scientists and communicators at HF).",
+				"url": "https://t.co/oAycVUYANC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oAycVUYANC",
+								"expanded_url": "https://harvardforest.fas.harvard.edu/witness-tree-social-media-project",
+								"display_url": "harvardforest.fas.harvard.edu/witness-tree-s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4624,
+				"friends_count": 0,
+				"listed_count": 21,
+				"created_at": "Wed Jul 25 20:55:17 +0000 2018",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1022572282521284609/ud30hjIB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1022572282521284609/ud30hjIB_normal.jpg",
+				"profile_link_color": "A41034",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 197,
+			"favorite_count": 394,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "interesting https://t.co/52QyVVKMDz"
+	},
+	{
 		"created_at": "Sat Aug 10 20:24:17 +0000 2019",
 		"id": 1160285761142345700,
 		"id_str": "1160285761142345728",
