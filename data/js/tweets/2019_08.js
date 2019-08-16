@@ -1,6 +1,935 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 15 20:19:27 +0000 2019",
+		"id": 1160378133847036000,
+		"id_str": "1162096483660791808",
+		"full_text": "Explore the ritual roots of Taralli Pugliesi, a bread snack from Puglia that hasn’t changed a lick since the Greeks first colonized the south of Italy 2,600 years ago... Thank the gods! https://t.co/kuhpJkWV6z #bread #archaeology #recipes @nytfood @AmAcademyRome #savblogawards https://t.co/jugC6SsFNO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bread",
+					"indices": [
+						210,
+						216
+					]
+				},
+				{
+					"text": "archaeology",
+					"indices": [
+						217,
+						229
+					]
+				},
+				{
+					"text": "recipes",
+					"indices": [
+						230,
+						238
+					]
+				},
+				{
+					"text": "savblogawards",
+					"indices": [
+						263,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytfood",
+					"name": "NYT Food",
+					"id": 1775731,
+					"id_str": "1775731",
+					"indices": [
+						239,
+						247
+					]
+				},
+				{
+					"screen_name": "AmAcademyRome",
+					"name": "AmericanAcademyRome",
+					"id": 83476227,
+					"id_str": "83476227",
+					"indices": [
+						248,
+						262
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kuhpJkWV6z",
+					"expanded_url": "https://tavolamediterranea.com/2019/08/09/bread-for-the-gods-taralli/",
+					"display_url": "tavolamediterranea.com/2019/08/09/bre…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1160378129786912800,
+					"id_str": "1160378129786912769",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EBp9wtcUwAEkzSf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBp9wtcUwAEkzSf.jpg",
+					"url": "https://t.co/jugC6SsFNO",
+					"display_url": "pic.twitter.com/jugC6SsFNO",
+					"expanded_url": "https://twitter.com/TavolaMed/status/1160378133847035904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160378129786912800,
+					"id_str": "1160378129786912769",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EBp9wtcUwAEkzSf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBp9wtcUwAEkzSf.jpg",
+					"url": "https://t.co/jugC6SsFNO",
+					"display_url": "pic.twitter.com/jugC6SsFNO",
+					"expanded_url": "https://twitter.com/TavolaMed/status/1160378133847035904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 532435317,
+			"id_str": "532435317",
+			"name": "Tavola Mediterranea (Farrell Monaco)",
+			"screen_name": "TavolaMed",
+			"location": "California, USA",
+			"description": "Award-Winning Archaeologist. Baker. Food In-Taker. 2018 Nominee for Best Special Interest Food Blog by Saveur Magazine. #EdibleArchaeology #TheOldSchoolKitchen",
+			"url": "https://t.co/xBxuJojZig",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xBxuJojZig",
+							"expanded_url": "http://www.tavolamediterranea.com",
+							"display_url": "tavolamediterranea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 765,
+			"friends_count": 776,
+			"listed_count": 23,
+			"created_at": "Wed Mar 21 16:17:24 +0000 2012",
+			"favourites_count": 1114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/934185252544581632/WEKmSDSs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/934185252544581632/WEKmSDSs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/532435317/1511562078",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Explore the ritual roots of Taralli Pugliesi, a bread snack from Puglia that hasn’t changed a lick since the Greeks first colonized the south of Italy 2,600 years ago... Thank the gods! https://t.co/kuhpJkWV6z #bread #archaeology #recipes @nytfood @AmAcademyRome #savblogawards https://t.co/jugC6SsFNO"
+	},
+	{
+		"created_at": "Thu Aug 15 20:17:50 +0000 2019",
+		"id": 1162096078310633500,
+		"id_str": "1162096078310633472",
+		"full_text": "very interesting https://t.co/SFALd52ygc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SFALd52ygc",
+					"expanded_url": "https://twitter.com/BL_DigiSchol/status/1161912903651471360",
+					"display_url": "twitter.com/BL_DigiSchol/s…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2505,
+			"friends_count": 800,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1161912903651471400,
+		"quoted_status_id_str": "1161912903651471360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SFALd52ygc",
+			"expanded": "https://twitter.com/BL_DigiSchol/status/1161912903651471360",
+			"display": "twitter.com/BL_DigiSchol/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 15 08:09:58 +0000 2019",
+			"id": 1161912903651471400,
+			"id_str": "1161912903651471360",
+			"full_text": "New #BLdigital blog post with practical advice from Marcin Barski on creating Geo-located Digital Sound Walks; featuring @museumofwalking @walk_sound\n @echoesxyz @Placecloud\nhttps://t.co/QMc2xmXbRw #soundwalksunday",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BLdigital",
+						"indices": [
+							4,
+							14
+						]
+					},
+					{
+						"text": "soundwalksunday",
+						"indices": [
+							198,
+							214
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "museumofwalking",
+						"name": "Museum of Walking",
+						"id": 446517029,
+						"id_str": "446517029",
+						"indices": [
+							121,
+							137
+						]
+					},
+					{
+						"screen_name": "walk_sound",
+						"name": "SoundWalkSunday",
+						"id": 844834165694480400,
+						"id_str": "844834165694480384",
+						"indices": [
+							138,
+							149
+						]
+					},
+					{
+						"screen_name": "echoesxyz",
+						"name": "ECHOES",
+						"id": 2867244879,
+						"id_str": "2867244879",
+						"indices": [
+							151,
+							161
+						]
+					},
+					{
+						"screen_name": "Placecloud",
+						"name": "Placecloud",
+						"id": 1014844848690561000,
+						"id_str": "1014844848690561024",
+						"indices": [
+							162,
+							173
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QMc2xmXbRw",
+						"expanded_url": "https://blogs.bl.uk/digital-scholarship/2019/08/creating-geo-located-digital-sound-walks.html",
+						"display_url": "blogs.bl.uk/digital-schola…",
+						"indices": [
+							174,
+							197
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744814089172455400,
+				"id_str": "744814089172455424",
+				"name": "Digital Scholarship",
+				"screen_name": "BL_DigiSchol",
+				"location": "United Kingdom",
+				"description": "Enabling innovative research with @britishlibrary digital collections. Tweets by @ndalyrose, @miss_wisdom & @mia_out",
+				"url": "https://t.co/E7eDKDTLxe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/E7eDKDTLxe",
+								"expanded_url": "http://www.bl.uk/subjects/digital-scholarship",
+								"display_url": "bl.uk/subjects/digit…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2344,
+				"friends_count": 970,
+				"listed_count": 60,
+				"created_at": "Mon Jun 20 08:48:11 +0000 2016",
+				"favourites_count": 355,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1072,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744814089172455424/1466432652",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "very interesting https://t.co/SFALd52ygc"
+	},
+	{
+		"created_at": "Thu Aug 15 20:14:56 +0000 2019",
+		"id": 1162095348296274000,
+		"id_str": "1162095348296273920",
+		"full_text": "yes, this https://t.co/hQ5PVX024G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hQ5PVX024G",
+					"expanded_url": "https://twitter.com/schomj/status/1161309982354100225",
+					"display_url": "twitter.com/schomj/status/…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2505,
+			"friends_count": 800,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1161309982354100200,
+		"quoted_status_id_str": "1161309982354100225",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hQ5PVX024G",
+			"expanded": "https://twitter.com/schomj/status/1161309982354100225",
+			"display": "twitter.com/schomj/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 13 16:14:10 +0000 2019",
+			"id": 1161309982354100200,
+			"id_str": "1161309982354100225",
+			"full_text": "Digitization Selection Criteria as Anti-Racist Action (OA) https://t.co/8DnkBD2QON\n\n\"By deciding what to digitize in special collections and archives, we choose what narratives to promote, what history to highlight, and what legacies to further.\"",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8DnkBD2QON",
+						"expanded_url": "https://journal.code4lib.org/articles/14667",
+						"display_url": "journal.code4lib.org/articles/14667",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16106421,
+				"id_str": "16106421",
+				"name": "Jessica Schomberg",
+				"screen_name": "schomj",
+				"location": "lost in my head",
+				"description": "My librarian superhero name is Lackadaisical Porcupine. Books, cats, social justice. T1 diabetes/spoonie. Buddhist. Ace. Union member. They/them.",
+				"url": "https://t.co/p3q3KBEyxi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p3q3KBEyxi",
+								"expanded_url": "http://catassessmentresearch.blogspot.com/",
+								"display_url": "catassessmentresearch.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3109,
+				"friends_count": 1057,
+				"listed_count": 165,
+				"created_at": "Wed Sep 03 01:33:49 +0000 2008",
+				"favourites_count": 53281,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 111519,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2818987761/b87812771c8b46e36a339101bc222773_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2818987761/b87812771c8b46e36a339101bc222773_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16106421/1458839225",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "yes, this https://t.co/hQ5PVX024G"
+	},
+	{
+		"created_at": "Thu Aug 15 20:11:58 +0000 2019",
+		"id": 1161498485327315000,
+		"id_str": "1162094600523116544",
+		"full_text": "So much of our cultural heritage is now published online. To preserve it for the future we have joined forces with S&amp;T libraries to build one big digital collection called #Nationaledeposit!\n\nLearn more about NED in this blog post by @katetorney: https://t.co/IPC1tgJa4j https://t.co/InYXP4YUQ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Nationaledeposit",
+					"indices": [
+						176,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katetorney",
+					"name": "kate torney",
+					"id": 49912461,
+					"id_str": "49912461",
+					"indices": [
+						238,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IPC1tgJa4j",
+					"expanded_url": "http://nla.gov.au/stories/blog/behind-the-scenes/2019/08/13/when-ned-rode-into-town-0",
+					"display_url": "nla.gov.au/stories/blog/b…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1161498480034099200,
+					"id_str": "1161498480034099202",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EB54trWWsAIaslx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB54trWWsAIaslx.jpg",
+					"url": "https://t.co/InYXP4YUQ9",
+					"display_url": "pic.twitter.com/InYXP4YUQ9",
+					"expanded_url": "https://twitter.com/nlagovau/status/1161498485327314945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161498480034099200,
+					"id_str": "1161498480034099202",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EB54trWWsAIaslx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB54trWWsAIaslx.jpg",
+					"url": "https://t.co/InYXP4YUQ9",
+					"display_url": "pic.twitter.com/InYXP4YUQ9",
+					"expanded_url": "https://twitter.com/nlagovau/status/1161498485327314945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42354375,
+			"id_str": "42354375",
+			"name": "National Library of Australia",
+			"screen_name": "nlagovau",
+			"location": "Canberra, Australia",
+			"description": "We collect, preserve and make accessible the best Australian stories. Read all about it.",
+			"url": "https://t.co/wb67iCoHem",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wb67iCoHem",
+							"expanded_url": "http://www.nla.gov.au",
+							"display_url": "nla.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43166,
+			"friends_count": 198,
+			"listed_count": 1012,
+			"created_at": "Mon May 25 05:09:03 +0000 2009",
+			"favourites_count": 8502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42354375/1564371852",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So much of our cultural heritage is now published online. To preserve it for the future we have joined forces with S&amp;T libraries to build one big digital collection called #Nationaledeposit!\n\nLearn more about NED in this blog post by @katetorney: https://t.co/IPC1tgJa4j https://t.co/InYXP4YUQ9"
+	},
+	{
 		"created_at": "Wed Aug 14 19:59:17 +0000 2019",
 		"id": 1161729021685559300,
 		"id_str": "1161729021685559296",
