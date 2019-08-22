@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 21 20:10:43 +0000 2019",
+		"id": 1164192918954860500,
+		"id_str": "1164268614771306496",
+		"full_text": "The Kitchen Sisters Present… @BurningMan: Archiving the Ephemeral. How do you archive an event that “leaves no trace\"? Where The #BurningMan is in fact burned? We take a journey into the archives of this legendary gathering to find out. https://t.co/e2rscvWl5Z https://t.co/OvyyR578qV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BurningMan",
+					"indices": [
+						129,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "burningman",
+					"name": "Burning Man Project",
+					"id": 5644962,
+					"id_str": "5644962",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e2rscvWl5Z",
+					"expanded_url": "http://www.kitchensisters.org/present/burning-man-archiving-the-ephemeral/",
+					"display_url": "kitchensisters.org/present/burnin…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1164192911136706600,
+					"id_str": "1164192911136706561",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/ECgLSNZU0AEUjbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECgLSNZU0AEUjbB.jpg",
+					"url": "https://t.co/OvyyR578qV",
+					"display_url": "pic.twitter.com/OvyyR578qV",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1164192918954860544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 632,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 632,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164192911136706600,
+					"id_str": "1164192911136706561",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/ECgLSNZU0AEUjbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECgLSNZU0AEUjbB.jpg",
+					"url": "https://t.co/OvyyR578qV",
+					"display_url": "pic.twitter.com/OvyyR578qV",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1164192918954860544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 632,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 632,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16459243,
+			"id_str": "16459243",
+			"name": "The Kitchen Sisters",
+			"screen_name": "kitchensisters",
+			"location": "San Francisco",
+			"description": "The Kitchen Sisters (Davia Nelson & Nikki Silva), producers of NPR's The Keepers, Hidden Kitchens, Hidden World of Girls & The Kitchen Sisters Present podcast",
+			"url": "http://t.co/AVmB8ffkDA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AVmB8ffkDA",
+							"expanded_url": "http://www.kitchensisters.org",
+							"display_url": "kitchensisters.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16349,
+			"friends_count": 3790,
+			"listed_count": 638,
+			"created_at": "Thu Sep 25 22:38:03 +0000 2008",
+			"favourites_count": 7054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16459243/1546894354",
+			"profile_link_color": "1EBBEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Kitchen Sisters Present… @BurningMan: Archiving the Ephemeral. How do you archive an event that “leaves no trace\"? Where The #BurningMan is in fact burned? We take a journey into the archives of this legendary gathering to find out. https://t.co/e2rscvWl5Z https://t.co/OvyyR578qV"
+	},
+	{
+		"created_at": "Wed Aug 21 19:24:44 +0000 2019",
+		"id": 1164257042241974300,
+		"id_str": "1164257042241974273",
+		"full_text": "Brilliant news https://t.co/O03Dei62m0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O03Dei62m0",
+					"expanded_url": "https://twitter.com/blsoundheritage/status/1164136009283624960",
+					"display_url": "twitter.com/blsoundheritag…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2507,
+			"friends_count": 801,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1164136009283625000,
+		"quoted_status_id_str": "1164136009283624960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O03Dei62m0",
+			"expanded": "https://twitter.com/blsoundheritage/status/1164136009283624960",
+			"display": "twitter.com/blsoundheritag…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 21 11:23:47 +0000 2019",
+			"id": 1164136009283625000,
+			"id_str": "1164136009283624960",
+			"full_text": "UOSH hub at @natlibscot @ScotlandsSounds on the BBC News: https://t.co/K51poHptG3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "natlibscot",
+						"name": "National Library of Scotland",
+						"id": 75286820,
+						"id_str": "75286820",
+						"indices": [
+							12,
+							23
+						]
+					},
+					{
+						"screen_name": "ScotlandsSounds",
+						"name": "Scotland's Sounds",
+						"id": 710070851627061200,
+						"id_str": "710070851627061248",
+						"indices": [
+							24,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/K51poHptG3",
+						"expanded_url": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-49410605",
+						"display_url": "bbc.co.uk/news/uk-scotla…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2828116855,
+				"id_str": "2828116855",
+				"name": "BL Sound Heritage",
+				"screen_name": "BLSoundHeritage",
+				"location": "British Library, London",
+				"description": "Sharing sounds and keeping them safe for generations to come #SaveOurSounds Tweets by the Unlocking Our Sound Heritage team",
+				"url": "http://t.co/iYnzfTEp8J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/iYnzfTEp8J",
+								"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision/",
+								"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2632,
+				"friends_count": 1018,
+				"listed_count": 61,
+				"created_at": "Tue Sep 23 13:44:14 +0000 2014",
+				"favourites_count": 3482,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1893,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/514433033454096385/nKb7eCRA_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/514433033454096385/nKb7eCRA_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828116855/1556706938",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brilliant news https://t.co/O03Dei62m0"
+	},
+	{
+		"created_at": "Wed Aug 21 19:23:57 +0000 2019",
+		"id": 1164200015310524400,
+		"id_str": "1164256845290037249",
+		"full_text": "Today on the blog- links to my virtual training today, with a link to buy the archive to view for only $59! Also general comments on how I teach basic #ReadAdv to ALL library workers on staff and why it works. https://t.co/WJD9WkC76E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ReadAdv",
+					"indices": [
+						151,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WJD9WkC76E",
+					"expanded_url": "http://raforall.blogspot.com/2019/08/ra-for-all-virtual-road-show-visits-pci.html",
+					"display_url": "raforall.blogspot.com/2019/08/ra-for…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege alum @ARRTreads @HorrorWriters Secretary",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2356,
+			"friends_count": 1724,
+			"listed_count": 129,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 16784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today on the blog- links to my virtual training today, with a link to buy the archive to view for only $59! Also general comments on how I teach basic #ReadAdv to ALL library workers on staff and why it works. https://t.co/WJD9WkC76E"
+	},
+	{
+		"created_at": "Wed Aug 21 11:02:20 +0000 2019",
+		"id": 1159799352136732700,
+		"id_str": "1164130610165641218",
+		"full_text": "Exciting event taking place at the @sciencemuseum London, 11 October 2019:  \n\n'Decolonising Science Narratives'\nThis one-day workshop will facilitate critical reflection on the connections between #science and #colonialism. \n\nhttps://t.co/xTEWNr7alT\n\n@praymurray \nvia @MuseumDetox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "science",
+					"indices": [
+						197,
+						205
+					]
+				},
+				{
+					"text": "colonialism",
+					"indices": [
+						210,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sciencemuseum",
+					"name": "Science Museum",
+					"id": 15987295,
+					"id_str": "15987295",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"screen_name": "praymurray",
+					"name": "P Ray Murray",
+					"id": 16841386,
+					"id_str": "16841386",
+					"indices": [
+						251,
+						262
+					]
+				},
+				{
+					"screen_name": "MuseumDetox",
+					"name": "Museum Detox",
+					"id": 793403158680731600,
+					"id_str": "793403158680731648",
+					"indices": [
+						268,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xTEWNr7alT",
+					"expanded_url": "https://www.sciencemuseum.org.uk/see-and-do/decolonising-science-narratives?fbclid=IwAR0XI30Z2BHip6xsgimSYT0AeUvkr80foUgfwSdkBPUC9M4QTuLnU1SN9N8",
+					"display_url": "sciencemuseum.org.uk/see-and-do/dec…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3424138791,
+			"id_str": "3424138791",
+			"name": "NurSobersKhan",
+			"screen_name": "tuhfatulhind",
+			"location": "London, UK",
+			"description": "Lead Curator South Asia collections @britishlibrary & PI @BL_IndianPrint | Researching Islamic history, art & manuscripts | Living the biblioman(t)ic imaginary",
+			"url": "https://t.co/nVyBtdRm5O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nVyBtdRm5O",
+							"expanded_url": "https://bl.academia.edu/NurSobersKhan",
+							"display_url": "bl.academia.edu/NurSobersKhan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4994,
+			"friends_count": 3338,
+			"listed_count": 122,
+			"created_at": "Sat Aug 15 14:52:28 +0000 2015",
+			"favourites_count": 6617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148580362077036544/HbyPd4q0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148580362077036544/HbyPd4q0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3424138791/1562945773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exciting event taking place at the @sciencemuseum London, 11 October 2019:  \n\n'Decolonising Science Narratives'\nThis one-day workshop will facilitate critical reflection on the connections between #science and #colonialism. \n\nhttps://t.co/xTEWNr7alT\n\n@praymurray \nvia @MuseumDetox"
+	},
+	{
 		"created_at": "Tue Aug 20 20:11:23 +0000 2019",
 		"id": 1163906395273478100,
 		"id_str": "1163906395273478144",
