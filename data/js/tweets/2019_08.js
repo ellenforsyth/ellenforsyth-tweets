@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 22 08:45:51 +0000 2019",
+		"id": 1164427075928961000,
+		"id_str": "1164458651890769920",
+		"full_text": "Protesters defend sacred 800-year-old Djap Wurrung trees as police deadline looms https://t.co/MQpHpuZ0TA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MQpHpuZ0TA",
+					"expanded_url": "https://www.theguardian.com/australia-news/2019/aug/22/protesters-defend-sacred-800-year-old-djap-wurrung-trees-as-police-deadline-looms?utm_term=Autofeed&CMP=soc_568&utm_medium=Social&utm_source=Twitter#Echobox=1566456023",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092378031,
+			"id_str": "1092378031",
+			"name": "Guardian Australia",
+			"screen_name": "GuardianAus",
+			"location": "Australia",
+			"description": "Latest news from Guardian Australia",
+			"url": "https://t.co/yhI6Vqsr3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhI6Vqsr3q",
+							"expanded_url": "https://support.theguardian.com/au/contribute",
+							"display_url": "support.theguardian.com/au/contribute",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196435,
+			"friends_count": 148,
+			"listed_count": 2340,
+			"created_at": "Tue Jan 15 15:16:44 +0000 2013",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 196507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2AFA9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061908763169509376/dNslMkWo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061908763169509376/dNslMkWo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092378031/1542013739",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Protesters defend sacred 800-year-old Djap Wurrung trees as police deadline looms https://t.co/MQpHpuZ0TA"
+	},
+	{
 		"created_at": "Wed Aug 21 20:10:43 +0000 2019",
 		"id": 1164192918954860500,
 		"id_str": "1164268614771306496",
