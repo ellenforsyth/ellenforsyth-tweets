@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 23 22:34:56 +0000 2019",
+		"id": 1164189047843152000,
+		"id_str": "1165029684909707264",
+		"full_text": "#FacialRecognition may bring convenience, but to what end, and at what cost? Our new @IFLA_FAIFE blog by @jonhz looks at the issues for #libraries https://t.co/PAhyInNwxP #IntellectualFreedom20Years https://t.co/o2pqmjUQ2D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FacialRecognition",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "libraries",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "IntellectualFreedom20Years",
+					"indices": [
+						171,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IFLA_FAIFE",
+					"name": "IFLA FAIFE",
+					"id": 112333112,
+					"id_str": "112333112",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"screen_name": "jonhz",
+					"name": "Jonathan Hernández",
+					"id": 32583014,
+					"id_str": "32583014",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PAhyInNwxP",
+					"expanded_url": "http://bit.ly/2Nkfdwk",
+					"display_url": "bit.ly/2Nkfdwk",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1164189035964903400,
+					"id_str": "1164189035964903425",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/ECgHwpQXsAEAQXH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECgHwpQXsAEAQXH.jpg",
+					"url": "https://t.co/o2pqmjUQ2D",
+					"display_url": "pic.twitter.com/o2pqmjUQ2D",
+					"expanded_url": "https://twitter.com/IFLA/status/1164189047843151873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1140,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1140,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164189035964903400,
+					"id_str": "1164189035964903425",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/ECgHwpQXsAEAQXH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECgHwpQXsAEAQXH.jpg",
+					"url": "https://t.co/o2pqmjUQ2D",
+					"display_url": "pic.twitter.com/o2pqmjUQ2D",
+					"expanded_url": "https://twitter.com/IFLA/status/1164189047843151873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1140,
+							"h": 594,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1140,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53361561,
+			"id_str": "53361561",
+			"name": "IFLA",
+			"screen_name": "IFLA",
+			"location": "The Hague, The Netherlands",
+			"description": "The International Federation of Library Associations and Institutions (IFLA) is the global voice of the library and information profession.",
+			"url": "https://t.co/l1M6glk56U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l1M6glk56U",
+							"expanded_url": "http://www.ifla.org",
+							"display_url": "ifla.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25638,
+			"friends_count": 369,
+			"listed_count": 1004,
+			"created_at": "Fri Jul 03 11:32:45 +0000 2009",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0EDD4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53361561/1545222187",
+			"profile_link_color": "00502F",
+			"profile_sidebar_border_color": "C8002F",
+			"profile_sidebar_fill_color": "F0EDD4",
+			"profile_text_color": "002D19",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#FacialRecognition may bring convenience, but to what end, and at what cost? Our new @IFLA_FAIFE blog by @jonhz looks at the issues for #libraries https://t.co/PAhyInNwxP #IntellectualFreedom20Years https://t.co/o2pqmjUQ2D"
+	},
+	{
 		"created_at": "Thu Aug 22 08:45:51 +0000 2019",
 		"id": 1164427075928961000,
 		"id_str": "1164458651890769920",
