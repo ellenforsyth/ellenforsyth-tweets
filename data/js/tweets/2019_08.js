@@ -1,6 +1,127 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 24 21:31:28 +0000 2019",
+		"id": 1165036887855157200,
+		"id_str": "1165376100127694851",
+		"full_text": "Beautiful piece in today's Spectrum by @ikillnovel. Community, writing, libraries.\n\n#Librarieschangelives\n\nIn the shocking suburban silence, a local library changed everything https://t.co/qIi0kwvhDo via @theage",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Librarieschangelives",
+					"indices": [
+						84,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ikillnovel",
+					"name": "Sarah Schmidt",
+					"id": 109191243,
+					"id_str": "109191243",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"screen_name": "theage",
+					"name": "The Age",
+					"id": 32201814,
+					"id_str": "32201814",
+					"indices": [
+						204,
+						211
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qIi0kwvhDo",
+					"expanded_url": "https://www.theage.com.au/entertainment/books/in-the-shocking-suburban-silence-a-local-library-changed-everything-20190816-p52hua.html",
+					"display_url": "theage.com.au/entertainment/…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20628678,
+			"id_str": "20628678",
+			"name": "Jacqui Horwood",
+			"screen_name": "BigBluePen",
+			"location": "Melbourne, Australia",
+			"description": "Writer, reader, librarian, denizen of the inner west",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273,
+			"friends_count": 608,
+			"listed_count": 8,
+			"created_at": "Wed Feb 11 21:15:01 +0000 2009",
+			"favourites_count": 3603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000418128432/176835bd5aa7d19121149f2347f9b356_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000418128432/176835bd5aa7d19121149f2347f9b356_normal.jpeg",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beautiful piece in today's Spectrum by @ikillnovel. Community, writing, libraries.\n\n#Librarieschangelives\n\nIn the shocking suburban silence, a local library changed everything https://t.co/qIi0kwvhDo via @theage"
+	},
+	{
 		"created_at": "Fri Aug 23 22:34:56 +0000 2019",
 		"id": 1164189047843152000,
 		"id_str": "1165029684909707264",
