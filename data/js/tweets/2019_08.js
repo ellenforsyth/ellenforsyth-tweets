@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 28 21:24:50 +0000 2019",
+		"id": 1165894807568273400,
+		"id_str": "1166823981174931463",
+		"full_text": "Is Digital Crime History Too White? Representation in Australian Archives https://t.co/kDITpMXOdu via @HistoryWO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HistoryWO",
+					"name": "History Workshop",
+					"id": 356025616,
+					"id_str": "356025616",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kDITpMXOdu",
+					"expanded_url": "http://www.historyworkshop.org.uk/is-digital-crime-history-too-white-representation-in-australian-archives/",
+					"display_url": "historyworkshop.org.uk/is-digital-cri…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 735352005741432800,
+			"id_str": "735352005741432832",
+			"name": "SCIP UniMelb",
+			"screen_name": "SCIPUniMelb",
+			"location": "Melbourne, Victoria",
+			"description": "The University of Melbourne's first informatics platform supporting researchers in the Humanities, Arts and the Social Sciences.",
+			"url": "https://t.co/n67ZnhjiHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n67ZnhjiHR",
+							"expanded_url": "http://scip.unimelb.edu.au",
+							"display_url": "scip.unimelb.edu.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 652,
+			"friends_count": 779,
+			"listed_count": 26,
+			"created_at": "Wed May 25 06:09:15 +0000 2016",
+			"favourites_count": 8469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816785984373157888/ksNobNdj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816785984373157888/ksNobNdj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/735352005741432832/1483572028",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is Digital Crime History Too White? Representation in Australian Archives https://t.co/kDITpMXOdu via @HistoryWO"
+	},
+	{
 		"created_at": "Tue Aug 27 22:56:13 +0000 2019",
 		"id": 1166341193569046500,
 		"id_str": "1166484591151960064",
