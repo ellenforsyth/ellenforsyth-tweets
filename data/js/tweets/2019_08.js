@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 29 23:17:41 +0000 2019",
+		"id": 1166922615841157000,
+		"id_str": "1167214771223105538",
+		"full_text": "A new report finds the Adani coal mine is set to receive more than $4bn in subsidies and that without these the project would be unviable. \n\nNew coal is expensive and polluting. We need to transition towards renewable energy and storage.\n@GuardianAus\n\nhttps://t.co/UjSTHY6sji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuardianAus",
+					"name": "Guardian Australia",
+					"id": 1092378031,
+					"id_str": "1092378031",
+					"indices": [
+						238,
+						250
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UjSTHY6sji",
+					"expanded_url": "https://www.theguardian.com/environment/2019/aug/29/adani-mine-would-be-unviable-without-44bn-in-subsidies-report-finds",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1892683062,
+			"id_str": "1892683062",
+			"name": "Climate Council",
+			"screen_name": "climatecouncil",
+			"location": "Australia",
+			"description": "Providing Australians with a reliable source of information on climate science. \nAuthorised by A. McKenzie, 673 Bourke St, Melbourne",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46431,
+			"friends_count": 17775,
+			"listed_count": 973,
+			"created_at": "Sun Sep 22 06:29:31 +0000 2013",
+			"favourites_count": 1862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/504862206479970304/rWWL00qW_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/504862206479970304/rWWL00qW_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1892683062/1516252215",
+			"profile_link_color": "EFAB23",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A new report finds the Adani coal mine is set to receive more than $4bn in subsidies and that without these the project would be unviable. \n\nNew coal is expensive and polluting. We need to transition towards renewable energy and storage.\n@GuardianAus\n\nhttps://t.co/UjSTHY6sji"
+	},
+	{
+		"created_at": "Thu Aug 29 22:48:38 +0000 2019",
+		"id": 1167207457363390500,
+		"id_str": "1167207457363390464",
+		"full_text": "Yes, this. I had a discussion about the same idea this week at the blood bank (you never know where #readadv will happen). https://t.co/8ZraHw8b2z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "readadv",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8ZraHw8b2z",
+					"expanded_url": "https://twitter.com/RAforAll/status/1166355647870439425",
+					"display_url": "twitter.com/RAforAll/statu…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2511,
+			"friends_count": 801,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1166355647870439400,
+		"quoted_status_id_str": "1166355647870439425",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8ZraHw8b2z",
+			"expanded": "https://twitter.com/RAforAll/status/1166355647870439425",
+			"display": "twitter.com/RAforAll/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 27 14:23:50 +0000 2019",
+			"id": 1166355647870439400,
+			"id_str": "1166355647870439425",
+			"full_text": "Today on the blog-- \"If you don't count #audiobooks as reading you are wrong.\" A post with scientific proof behind something I have been saying to live audiences for years: https://t.co/djGJZGLhgc\n\n#ReadAdv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "audiobooks",
+						"indices": [
+							40,
+							51
+						]
+					},
+					{
+						"text": "ReadAdv",
+						"indices": [
+							198,
+							206
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/djGJZGLhgc",
+						"expanded_url": "http://raforall.blogspot.com/2019/08/if-you-dont-count-audiobooks-as-reading.html",
+						"display_url": "raforall.blogspot.com/2019/08/if-you…",
+						"indices": [
+							173,
+							196
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege alum @ARRTreads @HorrorWriters Secretary",
+				"url": "https://t.co/UqsI4i1DEP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UqsI4i1DEP",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2364,
+				"friends_count": 1729,
+				"listed_count": 129,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 16869,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26316,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes, this. I had a discussion about the same idea this week at the blood bank (you never know where #readadv will happen). https://t.co/8ZraHw8b2z"
+	},
+	{
+		"created_at": "Thu Aug 29 22:42:06 +0000 2019",
+		"id": 1167205814831964200,
+		"id_str": "1167205814831964160",
+		"full_text": "some great questions to ask about your library service https://t.co/mYVVVHjZpL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mYVVVHjZpL",
+					"expanded_url": "https://twitter.com/davidleeking/status/1166854246366625792",
+					"display_url": "twitter.com/davidleeking/s…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2511,
+			"friends_count": 801,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1166854246366625800,
+		"quoted_status_id_str": "1166854246366625792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mYVVVHjZpL",
+			"expanded": "https://twitter.com/davidleeking/status/1166854246366625792",
+			"display": "twitter.com/davidleeking/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 28 23:25:06 +0000 2019",
+			"id": 1166854246366625800,
+			"id_str": "1166854246366625792",
+			"full_text": "New post - Mobile is Everywhere . How's your library doing with that? https://t.co/ZJNZ3m11XY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZJNZ3m11XY",
+						"expanded_url": "http://www.davidleeking.com/mobile-is-everywhere/",
+						"display_url": "davidleeking.com/mobile-is-ever…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816201,
+				"id_str": "816201",
+				"name": "David Lee King",
+				"screen_name": "davidleeking",
+				"location": "Topeka, KS",
+				"description": "I write about, talk about, and work around libraries, social media, and digital communities.",
+				"url": "http://t.co/QufWw3gn5d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QufWw3gn5d",
+								"expanded_url": "http://www.davidleeking.com",
+								"display_url": "davidleeking.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12923,
+				"friends_count": 5971,
+				"listed_count": 1167,
+				"created_at": "Tue Mar 06 22:38:27 +0000 2007",
+				"favourites_count": 716,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14122,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/588536852153401345/6IwSLl2y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/588536852153401345/6IwSLl2y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816201/1353596346",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some great questions to ask about your library service https://t.co/mYVVVHjZpL"
+	},
+	{
+		"created_at": "Thu Aug 29 22:36:43 +0000 2019",
+		"id": 1166870605116911600,
+		"id_str": "1167204458326941696",
+		"full_text": "Our post about the echidna that may have gotten its spikes burnt off in a bushfire sure got a lot of attention last week! We were contacted by @jacinta_bowler from @ScienceAlert, and she wrote an amazing article about it! #EchidnaCSI #sciencenews ⭐️ https://t.co/cmCspDTrAP ⭐️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EchidnaCSI",
+					"indices": [
+						222,
+						233
+					]
+				},
+				{
+					"text": "sciencenews",
+					"indices": [
+						234,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jacinta_bowler",
+					"name": "Jacinta Bowler",
+					"id": 518046769,
+					"id_str": "518046769",
+					"indices": [
+						143,
+						158
+					]
+				},
+				{
+					"screen_name": "ScienceAlert",
+					"name": "ScienceAlert",
+					"id": 60813201,
+					"id_str": "60813201",
+					"indices": [
+						164,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cmCspDTrAP",
+					"expanded_url": "https://buff.ly/2PdNlwg",
+					"display_url": "buff.ly/2PdNlwg",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112613873876492300,
+			"id_str": "1112613873876492288",
+			"name": "EchidnaCSI",
+			"screen_name": "echidna_csi",
+			"location": "Australia",
+			"description": "#EchidnaCSI is a #CitizenScience project where YOU can help us understand more about echidnas by submitting your echidna sightings and sending us their scats 🦔💩",
+			"url": "https://t.co/yWTNrsnLdL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yWTNrsnLdL",
+							"expanded_url": "https://grutznerlab.weebly.com/echidna-csi.html",
+							"display_url": "grutznerlab.weebly.com/echidna-csi.ht…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 393,
+			"friends_count": 138,
+			"listed_count": 3,
+			"created_at": "Mon Apr 01 07:13:13 +0000 2019",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112614109516718080/zRuBg1YI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112614109516718080/zRuBg1YI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112613873876492288/1554163290",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our post about the echidna that may have gotten its spikes burnt off in a bushfire sure got a lot of attention last week! We were contacted by @jacinta_bowler from @ScienceAlert, and she wrote an amazing article about it! #EchidnaCSI #sciencenews ⭐️ https://t.co/cmCspDTrAP ⭐️"
+	},
+	{
 		"created_at": "Wed Aug 28 21:24:50 +0000 2019",
 		"id": 1165894807568273400,
 		"id_str": "1166823981174931463",
