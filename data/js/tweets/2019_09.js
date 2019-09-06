@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 19:56:41 +0000 2019",
+		"id": 1169700900522225700,
+		"id_str": "1169700900522225667",
+		"full_text": "sounds a very interesting book (which has just gone on my to read list) https://t.co/57TPnw7SGs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/57TPnw7SGs",
+					"expanded_url": "https://twitter.com/incluseum/status/1169611705611169792",
+					"display_url": "twitter.com/incluseum/stat…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 801,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1169611705611169800,
+		"quoted_status_id_str": "1169611705611169792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/57TPnw7SGs",
+			"expanded": "https://twitter.com/incluseum/status/1169611705611169792",
+			"display": "twitter.com/incluseum/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 05 14:02:15 +0000 2019",
+			"id": 1169611705611169800,
+			"id_str": "1169611705611169792",
+			"full_text": "Exhibitions for Social Justice https://t.co/8RjMlUbJpl https://t.co/mP6uxT4EN4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8RjMlUbJpl",
+						"expanded_url": "http://incluseum.com/2019/09/05/exhibitions-for-social-justice/",
+						"display_url": "incluseum.com/2019/09/05/exh…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1169611703333642200,
+						"id_str": "1169611703333642240",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/EDtLpbZXYAAOZqC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDtLpbZXYAAOZqC.jpg",
+						"url": "https://t.co/mP6uxT4EN4",
+						"display_url": "pic.twitter.com/mP6uxT4EN4",
+						"expanded_url": "https://twitter.com/incluseum/status/1169611705611169792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 1273,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1169611703333642200,
+						"id_str": "1169611703333642240",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/EDtLpbZXYAAOZqC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDtLpbZXYAAOZqC.jpg",
+						"url": "https://t.co/mP6uxT4EN4",
+						"display_url": "pic.twitter.com/mP6uxT4EN4",
+						"expanded_url": "https://twitter.com/incluseum/status/1169611705611169792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 1273,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 637199510,
+				"id_str": "637199510",
+				"name": "the incluseum",
+				"screen_name": "incluseum",
+				"location": "Seattle,WA",
+				"description": "Advancing new ways of being a museum via critical discourse, community building & collaborative practice related to inclusion in museums.",
+				"url": "https://t.co/N2tbQtUhrn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N2tbQtUhrn",
+								"expanded_url": "http://incluseum.com/",
+								"display_url": "incluseum.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5982,
+				"friends_count": 2106,
+				"listed_count": 166,
+				"created_at": "Mon Jul 16 19:06:59 +0000 2012",
+				"favourites_count": 2843,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2471,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F2F4F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/449053437229944832/NIE0kqka_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/449053437229944832/NIE0kqka_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/637199510/1430459642",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "sounds a very interesting book (which has just gone on my to read list) https://t.co/57TPnw7SGs"
+	},
+	{
+		"created_at": "Thu Sep 05 19:16:36 +0000 2019",
+		"id": 1169170527820243000,
+		"id_str": "1169690815301468160",
+		"full_text": "Pls pls pls RT if you’ve ever watched a @Youtube video specifically to learn something. I’m trying to prove to my supervisor that YouTube is super useful for learning things. Feel free to comment below and tell me what you learned too, I’d love to know!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						40,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267534892,
+			"id_str": "267534892",
+			"name": "Sir Sayraphim",
+			"screen_name": "Sayraphim",
+			"location": "Wurundjeri country | Melbourne",
+			"description": "History nerd, knowledge enthusiast, maker of stuffs, educator #craftivism #edutube #MonsterThinks on YouTube  📚 #CreativeResistanceBook  🏳️‍🌈 She/they",
+			"url": "https://t.co/1DHLwFHcdV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1DHLwFHcdV",
+							"expanded_url": "http://www.youtube.com/c/monsterthinks",
+							"display_url": "youtube.com/c/monsterthinks",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1814,
+			"friends_count": 1206,
+			"listed_count": 83,
+			"created_at": "Thu Mar 17 03:17:16 +0000 2011",
+			"favourites_count": 8594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098856968838537218/3bGK4DcT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098856968838537218/3bGK4DcT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267534892/1527765410",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14056,
+		"favorite_count": 14848,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Pls pls pls RT if you’ve ever watched a @Youtube video specifically to learn something. I’m trying to prove to my supervisor that YouTube is super useful for learning things. Feel free to comment below and tell me what you learned too, I’d love to know!"
+	},
+	{
 		"created_at": "Wed Sep 04 19:58:55 +0000 2019",
 		"id": 1169339075217674200,
 		"id_str": "1169339075217674240",
