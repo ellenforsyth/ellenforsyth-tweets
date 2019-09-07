@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 06 23:19:36 +0000 2019",
+		"id": 1169715292915851300,
+		"id_str": "1170114352948666369",
+		"full_text": "J.M. Coetzee, one of our Nobel laureates, choosing to write a long piece in the New York Review of Books about Australia's treatment of refugees should be seen as significant.\n\nhttps://t.co/AcZRD19V4g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AcZRD19V4g",
+					"expanded_url": "https://www.nybooks.com/articles/2019/09/26/australias-shame/",
+					"display_url": "nybooks.com/articles/2019/…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19580860,
+			"id_str": "19580860",
+			"name": "Sean Kelly",
+			"screen_name": "mrseankelly",
+			"location": "Sydney",
+			"description": "Columnist for The Sydney Morning Herald and The Age, former Monthly politics ed, former adviser to Labor PMs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8136,
+			"friends_count": 1633,
+			"listed_count": 117,
+			"created_at": "Tue Jan 27 06:51:58 +0000 2009",
+			"favourites_count": 6207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105437228044558337/XZT34yCv_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105437228044558337/XZT34yCv_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19580860/1402982686",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 824,
+		"favorite_count": 1476,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "J.M. Coetzee, one of our Nobel laureates, choosing to write a long piece in the New York Review of Books about Australia's treatment of refugees should be seen as significant.\n\nhttps://t.co/AcZRD19V4g"
+	},
+	{
+		"created_at": "Fri Sep 06 21:17:47 +0000 2019",
+		"id": 1170083699624300500,
+		"id_str": "1170083699624300544",
+		"full_text": "Empower student voices: Using hip-hop lyrics in library lessons to engage youth in activism https://t.co/nqyXXFKiLR via @amlibraries - really interesting work by @accordin2jo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amlibraries",
+					"name": "American Libraries",
+					"id": 18955776,
+					"id_str": "18955776",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"screen_name": "accordin2jo",
+					"name": "Joquetta Johnson",
+					"id": 14200368,
+					"id_str": "14200368",
+					"indices": [
+						162,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nqyXXFKiLR",
+					"expanded_url": "http://disq.us/t/3hz6nu2",
+					"display_url": "disq.us/t/3hz6nu2",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 801,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Empower student voices: Using hip-hop lyrics in library lessons to engage youth in activism https://t.co/nqyXXFKiLR via @amlibraries - really interesting work by @accordin2jo"
+	},
+	{
 		"created_at": "Thu Sep 05 19:56:41 +0000 2019",
 		"id": 1169700900522225700,
 		"id_str": "1169700900522225667",
@@ -335,7 +555,7 @@ Grailbird.data.tweets_2019_09 =
 			"name": "Sir Sayraphim",
 			"screen_name": "Sayraphim",
 			"location": "Wurundjeri country | Melbourne",
-			"description": "History nerd, knowledge enthusiast, maker of stuffs, educator #craftivism #edutube #MonsterThinks on YouTube  📚 #CreativeResistanceBook  🏳️‍🌈 She/they",
+			"description": "History nerd, knowledge enthusiast, maker of stuffs, educator #craftivism #edutube #MonsterThinks on YouTube  📚 #CreativeResistanceBook  🏳️🌈 She/they",
 			"url": "https://t.co/1DHLwFHcdV",
 			"entities": {
 				"url": {
