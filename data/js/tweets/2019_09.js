@@ -1,6 +1,722 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 06:23:00 +0000 2019",
+		"id": 1170034343344894000,
+		"id_str": "1170583296389967874",
+		"full_text": "Fantastic essay @doctorow \"...stories about how we can’t afford to hew to our values in time of crisis are a handy addition to every authoritarian’s playbook, a fine friend of plutocrats, and they reek of self-serving bullshit every time they’re deployed.\" https://t.co/5TWS1Iurmu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doctorow",
+					"name": "Masque of the Red Death",
+					"id": 2729061,
+					"id_str": "2729061",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5TWS1Iurmu",
+					"expanded_url": "https://locusmag.com/2014/03/cory-doctorow-cold-equations-and-moral-hazard/",
+					"display_url": "locusmag.com/2014/03/cory-d…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121166381,
+			"id_str": "121166381",
+			"name": "Patrick Keys",
+			"screen_name": "watersecurity",
+			"location": "Fort Collins, USA",
+			"description": "Scientist w/ School of Global Environmental Sustainability at Colorado State (@SOGES_CSU) studying water, climate change & radical futures. Tweets my own.",
+			"url": "https://t.co/JWQrEkURhG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JWQrEkURhG",
+							"expanded_url": "http://patkeys.com",
+							"display_url": "patkeys.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1350,
+			"friends_count": 526,
+			"listed_count": 127,
+			"created_at": "Mon Mar 08 16:46:53 +0000 2010",
+			"favourites_count": 10835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/887441379936182272/Lz9CcwMA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/887441379936182272/Lz9CcwMA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121166381/1500431895",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic essay @doctorow \"...stories about how we can’t afford to hew to our values in time of crisis are a handy addition to every authoritarian’s playbook, a fine friend of plutocrats, and they reek of self-serving bullshit every time they’re deployed.\" https://t.co/5TWS1Iurmu"
+	},
+	{
+		"created_at": "Sat Sep 07 21:10:58 +0000 2019",
+		"id": 1170444372577378300,
+		"id_str": "1170444372577378305",
+		"full_text": "Rapid Response Collecting: the Tampax Cup https://t.co/NHDEi4xdYn I enjoy these accounts of rapid response collecting from @v_and_a some of this collecting is as a result of omissions in collecting in the past (make sure you follow the links at the end of the article).",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "V_and_A",
+					"name": "V&A",
+					"id": 18807671,
+					"id_str": "18807671",
+					"indices": [
+						123,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NHDEi4xdYn",
+					"expanded_url": "https://www.vam.ac.uk/blog/museum-life/rapid-response-collecting-the-tampax-cup",
+					"display_url": "vam.ac.uk/blog/museum-li…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2514,
+			"friends_count": 801,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rapid Response Collecting: the Tampax Cup https://t.co/NHDEi4xdYn I enjoy these accounts of rapid response collecting from @v_and_a some of this collecting is as a result of omissions in collecting in the past (make sure you follow the links at the end of the article)."
+	},
+	{
+		"created_at": "Sat Sep 07 20:46:50 +0000 2019",
+		"id": 1168779659913437200,
+		"id_str": "1170438297488773120",
+		"full_text": "There is no ‘free speech’ crisis, there is a hate speech crisis. \n\nMe on how fake free speech moral panic is about impunity for the powerful. https://t.co/Z2NctQHIFT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z2NctQHIFT",
+					"expanded_url": "https://www.theguardian.com/world/2019/sep/03/the-myth-of-the-free-speech-crisis?CMP=share_btn_tw",
+					"display_url": "theguardian.com/world/2019/sep…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189205972,
+			"id_str": "1189205972",
+			"name": "Nesrine Malik",
+			"screen_name": "NesrineMalik",
+			"location": "nesrine.malik@theguardian.com",
+			"description": "Columnist - The Guardian. Author of We Need New Stories, available here. https://t.co/UPrJiGLsi8",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UPrJiGLsi8",
+							"expanded_url": "http://smarturl.it/newstories",
+							"display_url": "smarturl.it/newstories",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36217,
+			"friends_count": 800,
+			"listed_count": 560,
+			"created_at": "Sun Feb 17 11:28:47 +0000 2013",
+			"favourites_count": 4963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1012739074074071041/2rALMfSp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012739074074071041/2rALMfSp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189205972/1564406232",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 690,
+		"favorite_count": 1789,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There is no ‘free speech’ crisis, there is a hate speech crisis. \n\nMe on how fake free speech moral panic is about impunity for the powerful. https://t.co/Z2NctQHIFT"
+	},
+	{
+		"created_at": "Sat Sep 07 20:43:22 +0000 2019",
+		"id": 1169990822038843400,
+		"id_str": "1170437427288145920",
+		"full_text": "Despite the successful cover-up, Frank Olson’s death was a near-disaster for the CIA. It came close to threatening the very existence of MK-Ultra https://t.co/ulJJdEQEze",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ulJJdEQEze",
+					"expanded_url": "https://www.theguardian.com/us-news/2019/sep/06/from-mind-control-to-murder-how-a-deadly-fall-revealed-the-cias-darkest-secrets",
+					"display_url": "theguardian.com/us-news/2019/s…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2853449164,
+			"id_str": "2853449164",
+			"name": "The Long Read",
+			"screen_name": "gdnlongread",
+			"location": "London",
+			"description": "In-depth reporting, essays and profiles",
+			"url": "http://t.co/ilVKVTl57G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ilVKVTl57G",
+							"expanded_url": "http://www.theguardian.com/the-long-read",
+							"display_url": "theguardian.com/the-long-read",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71825,
+			"friends_count": 238,
+			"listed_count": 1172,
+			"created_at": "Fri Oct 31 16:22:19 +0000 2014",
+			"favourites_count": 2342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "005689",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061938829366575104/Wg852MDD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061938829366575104/Wg852MDD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2853449164/1542020930",
+			"profile_link_color": "7D0053",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Despite the successful cover-up, Frank Olson’s death was a near-disaster for the CIA. It came close to threatening the very existence of MK-Ultra https://t.co/ulJJdEQEze"
+	},
+	{
+		"created_at": "Sat Sep 07 20:28:00 +0000 2019",
+		"id": 1170426423967977500,
+		"id_str": "1170433558449512448",
+		"full_text": "Oh, this thread.... https://t.co/QbiudXhznq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QbiudXhznq",
+					"expanded_url": "https://twitter.com/Flaminhaystack/status/1170249572305854465",
+					"display_url": "twitter.com/Flaminhaystack…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224702061,
+			"id_str": "224702061",
+			"name": "Susan Holloway Scott",
+			"screen_name": "2nerdyhistgirls",
+			"location": "",
+			"description": "Bestselling author of historical fiction & amateur historian. \nTHE SECRET WIFE OF AARON BURR 10/19 (Kensington Books)",
+			"url": "https://t.co/IdFHSIrcLx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IdFHSIrcLx",
+							"expanded_url": "http://susanhollowayscott.com/",
+							"display_url": "susanhollowayscott.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13184,
+			"friends_count": 2059,
+			"listed_count": 726,
+			"created_at": "Thu Dec 09 17:13:52 +0000 2010",
+			"favourites_count": 19316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E8DFD6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194845759/twitter_icon2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194845759/twitter_icon2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224702061/1552528572",
+			"profile_link_color": "004D80",
+			"profile_sidebar_border_color": "706051",
+			"profile_sidebar_fill_color": "E8DFD6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170249572305854500,
+		"quoted_status_id_str": "1170249572305854465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QbiudXhznq",
+			"expanded": "https://twitter.com/Flaminhaystack/status/1170249572305854465",
+			"display": "twitter.com/Flaminhaystack…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 07 08:16:54 +0000 2019",
+			"id": 1170249572305854500,
+			"id_str": "1170249572305854465",
+			"full_text": "Things women have invented \n\nIn 1868, cotton mill worker Margaret Knight invented a machine make paper bags with a flat square bottom\n\nA man named Charles Annan saw her design and tried to patent the idea first. \n\nKnight filed a lawsuit and won the patent fair and square in 1871 https://t.co/YdwEFGKfeG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1170249567872409600,
+						"id_str": "1170249567872409600",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/ED2PyB-W4AAZn5N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ED2PyB-W4AAZn5N.jpg",
+						"url": "https://t.co/YdwEFGKfeG",
+						"display_url": "pic.twitter.com/YdwEFGKfeG",
+						"expanded_url": "https://twitter.com/Flaminhaystack/status/1170249572305854465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 551,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 551,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1170249567872409600,
+						"id_str": "1170249567872409600",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/ED2PyB-W4AAZn5N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ED2PyB-W4AAZn5N.jpg",
+						"url": "https://t.co/YdwEFGKfeG",
+						"display_url": "pic.twitter.com/YdwEFGKfeG",
+						"expanded_url": "https://twitter.com/Flaminhaystack/status/1170249572305854465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 366,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 551,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 551,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46105004,
+				"id_str": "46105004",
+				"name": "Antonia",
+				"screen_name": "Flaminhaystack",
+				"location": "London",
+				"description": "Woman\nMother\nFirefighter\n\nNo unsolicited advice",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14635,
+				"friends_count": 4566,
+				"listed_count": 0,
+				"created_at": "Wed Jun 10 12:58:12 +0000 2009",
+				"favourites_count": 153523,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 50199,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1168764510804594688/uWmiDztD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168764510804594688/uWmiDztD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46105004/1567926776",
+				"profile_link_color": "D1360F",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 652,
+			"favorite_count": 1547,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 30,
+		"favorite_count": 67,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh, this thread.... https://t.co/QbiudXhznq"
+	},
+	{
 		"created_at": "Fri Sep 06 23:19:36 +0000 2019",
 		"id": 1169715292915851300,
 		"id_str": "1170114352948666369",
