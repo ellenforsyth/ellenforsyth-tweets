@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 11 20:28:52 +0000 2019",
+		"id": 1171883327793422300,
+		"id_str": "1171883327793422336",
+		"full_text": "this is great, and shows lovely recent photographs, some good ideas for local studies collecting too https://t.co/f8PRXnRnW2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f8PRXnRnW2",
+					"expanded_url": "https://twitter.com/talesofbandm/status/1170914674025459713",
+					"display_url": "twitter.com/talesofbandm/s…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2513,
+			"friends_count": 803,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170914674025459700,
+		"quoted_status_id_str": "1170914674025459713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f8PRXnRnW2",
+			"expanded": "https://twitter.com/talesofbandm/status/1170914674025459713",
+			"display": "twitter.com/talesofbandm/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 09 04:19:47 +0000 2019",
+			"id": 1170914674025459700,
+			"id_str": "1170914674025459713",
+			"full_text": "A bit of the story behind this spectacular, completely old-school hairstylist in Coburg. https://t.co/bbUJiwUqaZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bbUJiwUqaZ",
+						"expanded_url": "https://talesofbrickandmortar.com/2019/09/09/domenic-and-ross-hair-stylists-est-1971/",
+						"display_url": "talesofbrickandmortar.com/2019/09/09/dom…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 869035326727008300,
+				"id_str": "869035326727008256",
+				"name": "Tales of Brick and Mortar",
+				"screen_name": "talesofbandm",
+				"location": "Melbourne, Victoria",
+				"description": "Writing and sharing stories about longstanding shops across Melbourne. See website link below, and send suggestions! talesofbrickandmortar@gmail.com",
+				"url": "https://t.co/v6q4avEiuo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v6q4avEiuo",
+								"expanded_url": "http://talesofbrickandmortar.com",
+								"display_url": "talesofbrickandmortar.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 179,
+				"friends_count": 656,
+				"listed_count": 1,
+				"created_at": "Mon May 29 03:39:02 +0000 2017",
+				"favourites_count": 2370,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 493,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1168475863416852483/z97sj1gT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168475863416852483/z97sj1gT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/869035326727008256/1567310238",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is great, and shows lovely recent photographs, some good ideas for local studies collecting too https://t.co/f8PRXnRnW2"
+	},
+	{
+		"created_at": "Wed Sep 11 20:25:59 +0000 2019",
+		"id": 1171882602619228200,
+		"id_str": "1171882602619228165",
+		"full_text": "I like these technical posts designed to help others https://t.co/b4QjMJYZk0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b4QjMJYZk0",
+					"expanded_url": "https://twitter.com/corningmuseum/status/1171789484268097536",
+					"display_url": "twitter.com/corningmuseum/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2513,
+			"friends_count": 803,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1171789484268097500,
+		"quoted_status_id_str": "1171789484268097536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b4QjMJYZk0",
+			"expanded": "https://twitter.com/corningmuseum/status/1171789484268097536",
+			"display": "twitter.com/corningmuseum/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 11 14:15:58 +0000 2019",
+			"id": 1171789484268097500,
+			"id_str": "1171789484268097536",
+			"full_text": "Curious about photographing highly reflective black glass objects? Andy Fortune goes step-by-step through his work on this with Frans Pegt, a photographer at the Rijksmuseum, in our latest blog post. https://t.co/7hBJw74v9u",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7hBJw74v9u",
+						"expanded_url": "https://blog.cmog.org/2019/09/11/photographing-glass-highly-reflective-black-objects-part-2/",
+						"display_url": "blog.cmog.org/2019/09/11/pho…",
+						"indices": [
+							200,
+							223
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17906620,
+				"id_str": "17906620",
+				"name": "corningmuseum",
+				"screen_name": "corningmuseum",
+				"location": "Corning, New York, USA",
+				"description": "Inspiring people to see glass in a new light. \n\n#NewGlassNow and \"New Glass Now | Context\" on view through January 5, 2020.",
+				"url": "https://t.co/HGrVaPBUuf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HGrVaPBUuf",
+								"expanded_url": "http://www.cmog.org",
+								"display_url": "cmog.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16286,
+				"friends_count": 3300,
+				"listed_count": 454,
+				"created_at": "Fri Dec 05 20:15:48 +0000 2008",
+				"favourites_count": 6591,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11780,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976529118975201280/V0L-2ZGz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976529118975201280/V0L-2ZGz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17906620/1567513826",
+				"profile_link_color": "CC0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F4F4F4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I like these technical posts designed to help others https://t.co/b4QjMJYZk0"
+	},
+	{
 		"created_at": "Tue Sep 10 20:08:34 +0000 2019",
 		"id": 1171515832154722300,
 		"id_str": "1171515832154722314",
