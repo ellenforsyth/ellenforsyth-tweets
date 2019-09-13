@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 19:56:13 +0000 2019",
+		"id": 1172147083798880300,
+		"id_str": "1172237497570451456",
+		"full_text": "“I’m not even going to try to pronounce her name.”\n\nSaying that does not absolve speakers, teachers, podcasters, etc. from the responsibility of learning people’s names and saying them correctly. It’s not a magic spell.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90697018,
+			"id_str": "90697018",
+			"name": "Chris Barton",
+			"screen_name": "Bartography",
+			"location": "Austin, Texas",
+			"description": "Author of Shark Vs. Train, Whoosh!, Dazzle Ships, and What Do You Do with a Voice Like That? I love visiting schools. @zieglerjennifer's #1 fan.",
+			"url": "https://t.co/3G6nPGamK8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3G6nPGamK8",
+							"expanded_url": "http://www.chrisbarton.info",
+							"display_url": "chrisbarton.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5122,
+			"friends_count": 1607,
+			"listed_count": 225,
+			"created_at": "Tue Nov 17 19:16:23 +0000 2009",
+			"favourites_count": 11666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000705533669/6012a2c5746870063c666fab8b3cfdcf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000705533669/6012a2c5746870063c666fab8b3cfdcf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90697018/1530999179",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 518,
+		"favorite_count": 2401,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“I’m not even going to try to pronounce her name.”\n\nSaying that does not absolve speakers, teachers, podcasters, etc. from the responsibility of learning people’s names and saying them correctly. It’s not a magic spell."
+	},
+	{
 		"created_at": "Wed Sep 11 20:28:52 +0000 2019",
 		"id": 1171883327793422300,
 		"id_str": "1171883327793422336",
