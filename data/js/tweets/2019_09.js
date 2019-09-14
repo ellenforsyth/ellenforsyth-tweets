@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 14 03:15:28 +0000 2019",
+		"id": 1172694405930553300,
+		"id_str": "1172710429308547072",
+		"full_text": "DjabWurrung women are in an abusive relationship with Victoria's government | Sissy Austin https://t.co/kNSASzPeXw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kNSASzPeXw",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2019/sep/14/djabwurrung-women-are-in-an-abusive-relationship-with-victorias-government?CMP=share_btn_tw",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102179161,
+			"id_str": "102179161",
+			"name": "chelsea bond",
+			"screen_name": "drcbond",
+			"location": "inala 4077",
+			"description": "munanjahli-yugambeh-south sea-watego-williams-slockee-health worker-researcher-lecturer-public health-indigenous studies-cohost #WildBlackWomen-989FM-letstalk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10717,
+			"friends_count": 3595,
+			"listed_count": 101,
+			"created_at": "Tue Jan 05 22:04:55 +0000 2010",
+			"favourites_count": 23513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171721843406884865/-_2eih4h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171721843406884865/-_2eih4h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102179161/1565296002",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DjabWurrung women are in an abusive relationship with Victoria's government | Sissy Austin https://t.co/kNSASzPeXw"
+	},
+	{
 		"created_at": "Thu Sep 12 19:56:13 +0000 2019",
 		"id": 1172147083798880300,
 		"id_str": "1172237497570451456",
