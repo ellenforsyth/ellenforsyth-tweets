@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 14 21:38:28 +0000 2019",
+		"id": 1172158053237612500,
+		"id_str": "1172988005914562562",
+		"full_text": "Today on the blog find out why @Gabino_Iglesias wants us to stop calling ourselves \"bookworms\" and instead embrace the \"bookshark\" that truly lurks inside of us all. Oh, and sign up to see him live on 11/14/19 @ARRTreads #ARRTCon2019: https://t.co/uFJJOsKZgz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARRTCon2019",
+					"indices": [
+						221,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gabino_Iglesias",
+					"name": "Gabino Iglesias",
+					"id": 262365555,
+					"id_str": "262365555",
+					"indices": [
+						31,
+						47
+					]
+				},
+				{
+					"screen_name": "ARRTreads",
+					"name": "ARRT Reads",
+					"id": 2474113790,
+					"id_str": "2474113790",
+					"indices": [
+						210,
+						220
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uFJJOsKZgz",
+					"expanded_url": "http://raforall.blogspot.com/2019/09/bookworms-no-we-are-booksharks.html",
+					"display_url": "raforall.blogspot.com/2019/09/bookwo…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege alum @ARRTreads @HorrorWriters Secretary",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2385,
+			"friends_count": 1739,
+			"listed_count": 129,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 17047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today on the blog find out why @Gabino_Iglesias wants us to stop calling ourselves \"bookworms\" and instead embrace the \"bookshark\" that truly lurks inside of us all. Oh, and sign up to see him live on 11/14/19 @ARRTreads #ARRTCon2019: https://t.co/uFJJOsKZgz"
+	},
+	{
+		"created_at": "Sat Sep 14 21:33:26 +0000 2019",
+		"id": 1172485444371697700,
+		"id_str": "1172986739855478784",
+		"full_text": "Check out my blog post about #RASM2019 competition results for automatic recognition of historical #Arabic scientific manuscripts #OCR #HTR https://t.co/ShdPIOnjNP @BL_DigiSchol @BLQatar @BLAsia_Africa @PrimaLab @turinginst https://t.co/t8zOXq8b0w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RASM2019",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "Arabic",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "OCR",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "HTR",
+					"indices": [
+						135,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BL_DigiSchol",
+					"name": "Digital Scholarship",
+					"id": 744814089172455400,
+					"id_str": "744814089172455424",
+					"indices": [
+						164,
+						177
+					]
+				},
+				{
+					"screen_name": "BLQatar",
+					"name": "BL Qatar Partnership",
+					"id": 2315373398,
+					"id_str": "2315373398",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"screen_name": "BLAsia_Africa",
+					"name": "BL Asian and African",
+					"id": 1307133222,
+					"id_str": "1307133222",
+					"indices": [
+						187,
+						201
+					]
+				},
+				{
+					"screen_name": "PrimaLab",
+					"name": "PRImA Research Lab",
+					"id": 3748079415,
+					"id_str": "3748079415",
+					"indices": [
+						202,
+						211
+					]
+				},
+				{
+					"screen_name": "turinginst",
+					"name": "The Turing",
+					"id": 3697013177,
+					"id_str": "3697013177",
+					"indices": [
+						212,
+						223
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ShdPIOnjNP",
+					"expanded_url": "https://blogs.bl.uk/digital-scholarship/2019/09/rasm2019-results.html",
+					"display_url": "blogs.bl.uk/digital-schola…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1172484103037476900,
+					"id_str": "1172484103037476864",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEWAFGJXYAATuSH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEWAFGJXYAATuSH.jpg",
+					"url": "https://t.co/t8zOXq8b0w",
+					"display_url": "pic.twitter.com/t8zOXq8b0w",
+					"expanded_url": "https://twitter.com/BL_AdiKS/status/1172485444371697669/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 560,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 972,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 972,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172484103037476900,
+					"id_str": "1172484103037476864",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEWAFGJXYAATuSH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEWAFGJXYAATuSH.jpg",
+					"url": "https://t.co/t8zOXq8b0w",
+					"display_url": "pic.twitter.com/t8zOXq8b0w",
+					"expanded_url": "https://twitter.com/BL_AdiKS/status/1172485444371697669/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 560,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 972,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 972,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1172484103050014700,
+					"id_str": "1172484103050014720",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEWAFGMWsAApr1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEWAFGMWsAApr1j.jpg",
+					"url": "https://t.co/t8zOXq8b0w",
+					"display_url": "pic.twitter.com/t8zOXq8b0w",
+					"expanded_url": "https://twitter.com/BL_AdiKS/status/1172485444371697669/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1094,
+							"h": 657,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1094,
+							"h": 657,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1172484103037436000,
+					"id_str": "1172484103037435906",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEWAFGJWwAIPRmV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEWAFGJWwAIPRmV.jpg",
+					"url": "https://t.co/t8zOXq8b0w",
+					"display_url": "pic.twitter.com/t8zOXq8b0w",
+					"expanded_url": "https://twitter.com/BL_AdiKS/status/1172485444371697669/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 779,
+							"h": 943,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 562,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 779,
+							"h": 943,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1172484103041667000,
+					"id_str": "1172484103041667072",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EEWAFGKXUAAl772.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEWAFGKXUAAl772.jpg",
+					"url": "https://t.co/t8zOXq8b0w",
+					"display_url": "pic.twitter.com/t8zOXq8b0w",
+					"expanded_url": "https://twitter.com/BL_AdiKS/status/1172485444371697669/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1038,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1038,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2277671516,
+			"id_str": "2277671516",
+			"name": "Adi Keinan-Schoonbae",
+			"screen_name": "BL_AdiKS",
+			"location": "London",
+			"description": "Digital Curator @britishlibrary @BL_DigiSchol for @BLAsia_Africa collections. Former @UCLarchaeology @MicroPasts",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1319,
+			"friends_count": 481,
+			"listed_count": 85,
+			"created_at": "Sun Jan 05 14:18:58 +0000 2014",
+			"favourites_count": 4295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111383582759518208/4boX0J0i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111383582759518208/4boX0J0i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2277671516/1553810381",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out my blog post about #RASM2019 competition results for automatic recognition of historical #Arabic scientific manuscripts #OCR #HTR https://t.co/ShdPIOnjNP @BL_DigiSchol @BLQatar @BLAsia_Africa @PrimaLab @turinginst https://t.co/t8zOXq8b0w"
+	},
+	{
 		"created_at": "Sat Sep 14 03:15:28 +0000 2019",
 		"id": 1172694405930553300,
 		"id_str": "1172710429308547072",
