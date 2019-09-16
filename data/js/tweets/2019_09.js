@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 15 10:28:58 +0000 2019",
+		"id": 1172948606409740300,
+		"id_str": "1173181909494464512",
+		"full_text": "They were once America’s cruelest, richest slave traders. Why does no one know their names? https://t.co/sEAXdZuezT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sEAXdZuezT",
+					"expanded_url": "https://wapo.st/30c5vyI",
+					"display_url": "wapo.st/30c5vyI",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2467791,
+			"id_str": "2467791",
+			"name": "The Washington Post",
+			"screen_name": "washingtonpost",
+			"location": "Washington, DC",
+			"description": "Breaking news, analysis, and opinion. Founded in 1877. Our staff on Twitter: https://t.co/VV0UBAMHg8",
+			"url": "http://t.co/Hq7hTYkOPg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Hq7hTYkOPg",
+							"expanded_url": "http://washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VV0UBAMHg8",
+							"expanded_url": "https://twitter.com/washingtonpost/lists/washington-post-people",
+							"display_url": "twitter.com/washingtonpost…",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14141937,
+			"friends_count": 1637,
+			"listed_count": 90949,
+			"created_at": "Tue Mar 27 11:19:39 +0000 2007",
+			"favourites_count": 4544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 330255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+			"profile_link_color": "0057EC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DBDBDB",
+			"profile_text_color": "323232",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 315,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They were once America’s cruelest, richest slave traders. Why does no one know their names? https://t.co/sEAXdZuezT"
+	},
+	{
 		"created_at": "Sat Sep 14 21:38:28 +0000 2019",
 		"id": 1172158053237612500,
 		"id_str": "1172988005914562562",
