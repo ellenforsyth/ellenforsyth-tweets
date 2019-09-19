@@ -1,6 +1,967 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 18 20:19:57 +0000 2019",
+		"id": 1174417373023166500,
+		"id_str": "1174417799650766848",
+		"full_text": "Fascinating thread about the very active 19thc women in sports - and how their participation was later banned in the 20thc.... https://t.co/qxlr67EtMz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qxlr67EtMz",
+					"expanded_url": "https://twitter.com/drrachelhewitt/status/1174240700004786177",
+					"display_url": "twitter.com/drrachelhewitt…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224702061,
+			"id_str": "224702061",
+			"name": "Susan Holloway Scott",
+			"screen_name": "2nerdyhistgirls",
+			"location": "",
+			"description": "Bestselling author of historical fiction & amateur historian. \nTHE SECRET WIFE OF AARON BURR 10/19 (Kensington Books)",
+			"url": "https://t.co/IdFHSIrcLx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IdFHSIrcLx",
+							"expanded_url": "http://susanhollowayscott.com/",
+							"display_url": "susanhollowayscott.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13187,
+			"friends_count": 2070,
+			"listed_count": 726,
+			"created_at": "Thu Dec 09 17:13:52 +0000 2010",
+			"favourites_count": 19914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E8DFD6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194845759/twitter_icon2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194845759/twitter_icon2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224702061/1552528572",
+			"profile_link_color": "004D80",
+			"profile_sidebar_border_color": "706051",
+			"profile_sidebar_fill_color": "E8DFD6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174240700004786200,
+		"quoted_status_id_str": "1174240700004786177",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qxlr67EtMz",
+			"expanded": "https://twitter.com/drrachelhewitt/status/1174240700004786177",
+			"display": "twitter.com/drrachelhewitt…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 18 08:36:13 +0000 2019",
+			"id": 1174240700004786200,
+			"id_str": "1174240700004786177",
+			"full_text": "So here’s a (maddening) thing. I’m researching C19th women climbers in the Alps – and there were, like, HUNDREDS. There’s this widespread misconception that (as one male historian of sport puts it) ‘in sport, women’s historic role was that of handkerchief-fluttering spectators.’",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83451591,
+				"id_str": "83451591",
+				"name": "Rachel Hewitt",
+				"screen_name": "drrachelhewitt",
+				"location": "Agent: Tracy Bohan at Wylie",
+				"description": "Writes books: MAP OF A NATION, A REVOLUTION OF FEELING, IN HER NATURE. Lectures @UniofNewcastle & @NCLA_tweets. Blogs about running https://t.co/mpXOfnhCCH",
+				"url": "https://t.co/4lZqv8qojE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4lZqv8qojE",
+								"expanded_url": "http://www.rachelhewitt.org",
+								"display_url": "rachelhewitt.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/mpXOfnhCCH",
+								"expanded_url": "http://www.InHerNature.co.uk",
+								"display_url": "InHerNature.co.uk",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3482,
+				"friends_count": 1648,
+				"listed_count": 45,
+				"created_at": "Sun Oct 18 21:32:38 +0000 2009",
+				"favourites_count": 5013,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4235,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1138768967185702914/JxEzErr6_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138768967185702914/JxEzErr6_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83451591/1533816285",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1009,
+			"favorite_count": 2474,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fascinating thread about the very active 19thc women in sports - and how their participation was later banned in the 20thc.... https://t.co/qxlr67EtMz"
+	},
+	{
+		"created_at": "Wed Sep 18 19:57:11 +0000 2019",
+		"id": 1174396460332388400,
+		"id_str": "1174412067354243072",
+		"full_text": "Nearly half of all book reviews in Australia in 2018 were of works by female authors https://t.co/lfY3koSauu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lfY3koSauu",
+					"expanded_url": "https://www.theguardian.com/books/2019/sep/19/nearly-half-of-all-book-reviews-in-australia-in-2018-were-of-works-by-female-authors?utm_term=Autofeed&CMP=soc_568&utm_medium=Social&utm_source=Twitter#Echobox=1568832909",
+					"display_url": "theguardian.com/books/2019/sep…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092378031,
+			"id_str": "1092378031",
+			"name": "Guardian Australia",
+			"screen_name": "GuardianAus",
+			"location": "Australia",
+			"description": "Latest news from Guardian Australia",
+			"url": "https://t.co/yhI6Vqsr3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhI6Vqsr3q",
+							"expanded_url": "https://support.theguardian.com/au/contribute",
+							"display_url": "support.theguardian.com/au/contribute",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198255,
+			"friends_count": 149,
+			"listed_count": 2358,
+			"created_at": "Tue Jan 15 15:16:44 +0000 2013",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 199003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2AFA9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061908763169509376/dNslMkWo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061908763169509376/dNslMkWo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092378031/1542013739",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nearly half of all book reviews in Australia in 2018 were of works by female authors https://t.co/lfY3koSauu"
+	},
+	{
+		"created_at": "Wed Sep 18 19:52:57 +0000 2019",
+		"id": 1174411003288621000,
+		"id_str": "1174411003288621056",
+		"full_text": "Inspiration for #AustralianReadingHour https://t.co/IlrAZD0BVI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AustralianReadingHour",
+					"indices": [
+						16,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IlrAZD0BVI",
+					"expanded_url": "https://twitter.com/abcnews/status/1174332863132487681",
+					"display_url": "twitter.com/abcnews/status…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2516,
+			"friends_count": 805,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174332863132487700,
+		"quoted_status_id_str": "1174332863132487681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IlrAZD0BVI",
+			"expanded": "https://twitter.com/abcnews/status/1174332863132487681",
+			"display": "twitter.com/abcnews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 18 14:42:27 +0000 2019",
+			"id": 1174332863132487700,
+			"id_str": "1174332863132487681",
+			"full_text": "A new Dr. Seuss book has been discovered — and an Aussie was asked to illustrate https://t.co/KMLXmc7zqC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				104
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KMLXmc7zqC",
+						"expanded_url": "https://www.abc.net.au/news/2019-09-19/new-dr.-seuss-book-has-been-found-and-andrew-joyner-illustrates/11510272",
+						"display_url": "abc.net.au/news/2019-09-1…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft PowerApps and Flow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2768501,
+				"id_str": "2768501",
+				"name": "ABC News",
+				"screen_name": "abcnews",
+				"location": "Australia",
+				"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+				"url": "http://t.co/knlFvfwxkf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/knlFvfwxkf",
+								"expanded_url": "http://www.abc.net.au/news",
+								"display_url": "abc.net.au/news",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1540412,
+				"friends_count": 1206,
+				"listed_count": 11965,
+				"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+				"favourites_count": 2785,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 276265,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1558315597",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "C8C8C8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inspiration for #AustralianReadingHour https://t.co/IlrAZD0BVI"
+	},
+	{
+		"created_at": "Wed Sep 18 19:38:08 +0000 2019",
+		"id": 1174382735218970600,
+		"id_str": "1174407276838342656",
+		"full_text": ". . . ngl, my knee-jerk reaction to seeing this was OOOH PRETTY DICE.\n\nAnd also, y'know, I'm mentioned in the article. But PRETTY DICE. https://t.co/RQzJbMw9C6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RQzJbMw9C6",
+					"expanded_url": "https://twitter.com/BNSciFi/status/1174378130280210432",
+					"display_url": "twitter.com/BNSciFi/status…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372670497,
+			"id_str": "372670497",
+			"name": "Marie Brennan",
+			"screen_name": "swan_tower",
+			"location": "Bay Area, California",
+			"description": "Author of the Memoirs of Lady Trent, Lies and Prophecy, and the Onyx Court series of historical fantasy novels. Patreon at https://t.co/VMKwK4QDPb .",
+			"url": "http://t.co/CZyNk0CWGh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CZyNk0CWGh",
+							"expanded_url": "http://www.swantower.com",
+							"display_url": "swantower.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VMKwK4QDPb",
+							"expanded_url": "https://www.patreon.com/swan_tower",
+							"display_url": "patreon.com/swan_tower",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3043,
+			"friends_count": 175,
+			"listed_count": 142,
+			"created_at": "Tue Sep 13 06:04:50 +0000 2011",
+			"favourites_count": 686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996845106387812352/KQDKKcSV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996845106387812352/KQDKKcSV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372670497/1526501415",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174378130280210400,
+		"quoted_status_id_str": "1174378130280210432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RQzJbMw9C6",
+			"expanded": "https://twitter.com/BNSciFi/status/1174378130280210432",
+			"display": "twitter.com/BNSciFi/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 18 17:42:19 +0000 2019",
+			"id": 1174378130280210400,
+			"id_str": "1174378130280210432",
+			"full_text": "Roll for inspiration: 10 sci-fi &amp; fantasy novels and series based on their authors' RPG campaigns. https://t.co/aSKFfJqwOA https://t.co/PfH4Ho83fF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aSKFfJqwOA",
+						"expanded_url": "http://bit.ly/2m2TFbF",
+						"display_url": "bit.ly/2m2TFbF",
+						"indices": [
+							103,
+							126
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1174378126023020500,
+						"id_str": "1174378126023020550",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/EEw6rvmXUAYTyGd.png",
+						"media_url_https": "https://pbs.twimg.com/media/EEw6rvmXUAYTyGd.png",
+						"url": "https://t.co/PfH4Ho83fF",
+						"display_url": "pic.twitter.com/PfH4Ho83fF",
+						"expanded_url": "https://twitter.com/BNSciFi/status/1174378130280210432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 460,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 460,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 391,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1174378126023020500,
+						"id_str": "1174378126023020550",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/EEw6rvmXUAYTyGd.png",
+						"media_url_https": "https://pbs.twimg.com/media/EEw6rvmXUAYTyGd.png",
+						"url": "https://t.co/PfH4Ho83fF",
+						"display_url": "pic.twitter.com/PfH4Ho83fF",
+						"expanded_url": "https://twitter.com/BNSciFi/status/1174378130280210432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 460,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 460,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 391,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2912819783,
+				"id_str": "2912819783",
+				"name": "B&N Sci-Fi & Fantasy",
+				"screen_name": "BNSciFi",
+				"location": "",
+				"description": "Fantastic books from Barnes & Noble. @BNBuzz's geeky sibling.",
+				"url": "http://t.co/qfDBMXy7wI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qfDBMXy7wI",
+								"expanded_url": "http://www.bn.com/blog/sci-fi-fantasy",
+								"display_url": "bn.com/blog/sci-fi-fa…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24982,
+				"friends_count": 500,
+				"listed_count": 483,
+				"created_at": "Tue Dec 09 15:03:57 +0000 2014",
+				"favourites_count": 9682,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9924,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/999320607161438208/3-4ViXBa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/999320607161438208/3-4ViXBa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2912819783/1421099229",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ". . . ngl, my knee-jerk reaction to seeing this was OOOH PRETTY DICE.\n\nAnd also, y'know, I'm mentioned in the article. But PRETTY DICE. https://t.co/RQzJbMw9C6"
+	},
+	{
+		"created_at": "Wed Sep 18 19:35:41 +0000 2019",
+		"id": 1174401061068537900,
+		"id_str": "1174406659092824064",
+		"full_text": "As outcry over Amazon fires fade, the rainforest edges closer toward disaster https://t.co/4HBxRMyvIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4HBxRMyvIV",
+					"expanded_url": "https://www.abc.net.au/news/2019-09-19/satellite-images-of-amazon-reveals-human-impact-of-fires/11478580",
+					"display_url": "abc.net.au/news/2019-09-1…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft PowerApps and Flow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1540412,
+			"friends_count": 1206,
+			"listed_count": 11965,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 276265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1558315597",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As outcry over Amazon fires fade, the rainforest edges closer toward disaster https://t.co/4HBxRMyvIV"
+	},
+	{
 		"created_at": "Tue Sep 17 20:54:40 +0000 2019",
 		"id": 1174064145831825400,
 		"id_str": "1174064145831825408",
