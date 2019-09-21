@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 21 04:26:30 +0000 2019",
+		"id": 1174341586630729700,
+		"id_str": "1175265017899339776",
+		"full_text": "Why Can’t New York City Build More Gems Like This Queens Library? By Michael Kimmelman @kimmelman / @nytimes\nhttps://t.co/e3Y0RCyOcs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kimmelman",
+					"name": "Michael Kimmelman",
+					"id": 326834507,
+					"id_str": "326834507",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e3Y0RCyOcs",
+					"expanded_url": "https://www.nytimes.com/2019/09/18/arts/design/hunters-point-community-library.html?smid=nytcore-ios-share",
+					"display_url": "nytimes.com/2019/09/18/art…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14330959,
+			"id_str": "14330959",
+			"name": "Jose Afonso Furtado",
+			"screen_name": "jafurtado",
+			"location": "Lisboa, Portugal",
+			"description": "Former art library director at Gulbenkian Foundation.",
+			"url": "https://t.co/q0hM44lTqv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q0hM44lTqv",
+							"expanded_url": "http://www.linkedin.com/in/jatsf",
+							"display_url": "linkedin.com/in/jatsf",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13986,
+			"friends_count": 3465,
+			"listed_count": 1092,
+			"created_at": "Tue Apr 08 09:46:56 +0000 2008",
+			"favourites_count": 163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/461666462722060288/Tnm-dlUf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/461666462722060288/Tnm-dlUf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14330959/1563756144",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why Can’t New York City Build More Gems Like This Queens Library? By Michael Kimmelman @kimmelman / @nytimes\nhttps://t.co/e3Y0RCyOcs"
+	},
+	{
+		"created_at": "Fri Sep 20 20:30:51 +0000 2019",
+		"id": 1175145316821037000,
+		"id_str": "1175145316821037057",
+		"full_text": "a very interesting shortlist for museums change lives award (via John Vincent) https://t.co/aaN0C5H0xU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aaN0C5H0xU",
+					"expanded_url": "https://twitter.com/MuseumsAssoc/status/1174277133801316353",
+					"display_url": "twitter.com/MuseumsAssoc/s…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 805,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174277133801316400,
+		"quoted_status_id_str": "1174277133801316353",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aaN0C5H0xU",
+			"expanded": "https://twitter.com/MuseumsAssoc/status/1174277133801316353",
+			"display": "twitter.com/MuseumsAssoc/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 18 11:01:00 +0000 2019",
+			"id": 1174277133801316400,
+			"id_str": "1174277133801316353",
+			"full_text": "📢 We're thrilled to announce the shortlist for the #MCLAwards🏆 https://t.co/jd0a9Z60Gm\n\nWe received tons of fantastic and inspiring entries. Congratulations to our finalists and thank you to all who applied! Join us in Brighton to find out who wins https://t.co/OvS0Fkqnoj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MCLAwards",
+						"indices": [
+							51,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jd0a9Z60Gm",
+						"expanded_url": "http://ow.ly/8RYA50weytl",
+						"display_url": "ow.ly/8RYA50weytl",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1174277132043915300,
+						"id_str": "1174277132043915264",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/EEve1HtXkAAAlXy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEve1HtXkAAAlXy.jpg",
+						"url": "https://t.co/OvS0Fkqnoj",
+						"display_url": "pic.twitter.com/OvS0Fkqnoj",
+						"expanded_url": "https://twitter.com/MuseumsAssoc/status/1174277133801316353/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 656,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 436,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 656,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1174277132043915300,
+						"id_str": "1174277132043915264",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/EEve1HtXkAAAlXy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEve1HtXkAAAlXy.jpg",
+						"url": "https://t.co/OvS0Fkqnoj",
+						"display_url": "pic.twitter.com/OvS0Fkqnoj",
+						"expanded_url": "https://twitter.com/MuseumsAssoc/status/1174277133801316353/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 656,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 436,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 656,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 85601716,
+				"id_str": "85601716",
+				"name": "Museums Association",
+				"screen_name": "MuseumsAssoc",
+				"location": "United Kingdom",
+				"description": "A dynamic membership organisation and a vibrant network for everyone working in museums and heritage.",
+				"url": "https://t.co/pzv4b4xmaR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pzv4b4xmaR",
+								"expanded_url": "http://www.museumsassociation.org",
+								"display_url": "museumsassociation.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54451,
+				"friends_count": 2360,
+				"listed_count": 1249,
+				"created_at": "Tue Oct 27 16:14:47 +0000 2009",
+				"favourites_count": 1938,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7975,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035487538016862208/Y4_N1f9i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035487538016862208/Y4_N1f9i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85601716/1535714459",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "a very interesting shortlist for museums change lives award (via John Vincent) https://t.co/aaN0C5H0xU"
+	},
+	{
+		"created_at": "Fri Sep 20 20:24:05 +0000 2019",
+		"id": 1175143616697647000,
+		"id_str": "1175143616697647109",
+		"full_text": "looks interesting (for some library uses) https://t.co/q6DN7xi1W1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q6DN7xi1W1",
+					"expanded_url": "https://twitter.com/amlibraries/status/1174369464437084161",
+					"display_url": "twitter.com/amlibraries/st…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 805,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174369464437084200,
+		"quoted_status_id_str": "1174369464437084161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/q6DN7xi1W1",
+			"expanded": "https://twitter.com/amlibraries/status/1174369464437084161",
+			"display": "twitter.com/amlibraries/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 18 17:07:53 +0000 2019",
+			"id": 1174369464437084200,
+			"id_str": "1174369464437084161",
+			"full_text": "Tiny but mighty: Latest Library Links https://t.co/tDnbRTB9MI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tDnbRTB9MI",
+						"expanded_url": "http://bit.ly/32O2M01",
+						"display_url": "bit.ly/32O2M01",
+						"indices": [
+							38,
+							61
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18955776,
+				"id_str": "18955776",
+				"name": "American Libraries",
+				"screen_name": "amlibraries",
+				"location": "Chicago",
+				"description": "Magazine of the American Library Association. Tweeters include Amy Carlton, Terra Dankowski, George Eberhart, Phil Morehart, Sallyann Price & Sanhita SinhaRoy.",
+				"url": "http://t.co/2Dq9yGNmHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2Dq9yGNmHL",
+								"expanded_url": "http://americanlibrariesmagazine.org",
+								"display_url": "americanlibrariesmagazine.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78638,
+				"friends_count": 1108,
+				"listed_count": 2295,
+				"created_at": "Tue Jan 13 22:08:09 +0000 2009",
+				"favourites_count": 704,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 25928,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18955776/1559570298",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "looks interesting (for some library uses) https://t.co/q6DN7xi1W1"
+	},
+	{
 		"created_at": "Thu Sep 19 20:21:20 +0000 2019",
 		"id": 1174780534091731000,
 		"id_str": "1174780534091730944",
