@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 23 20:30:20 +0000 2019",
+		"id": 1176169175334572000,
+		"id_str": "1176232349521985537",
+		"full_text": "\"To be in a world where the truth is up for auction is to be set adrift from rationality.\"\n\nTackling the epistemology of conspiracy theories in the @globeandmail, Cory @Doctorow knocks it out of the ballpark with this column. \n\nhttps://t.co/ofPfIXwioR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "globeandmail",
+					"name": "The Globe and Mail",
+					"id": 8736882,
+					"id_str": "8736882",
+					"indices": [
+						148,
+						161
+					]
+				},
+				{
+					"screen_name": "doctorow",
+					"name": "Masque of the Red Death",
+					"id": 2729061,
+					"id_str": "2729061",
+					"indices": [
+						168,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ofPfIXwioR",
+					"expanded_url": "https://www.theglobeandmail.com/opinion/article-why-do-people-believe-the-earth-is-flat/",
+					"display_url": "theglobeandmail.com/opinion/articl…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 857429730852716500,
+			"id_str": "857429730852716544",
+			"name": "an unofficial Hugo book club blog",
+			"screen_name": "Hugo_Book_Club",
+			"location": "",
+			"description": "Edmonton-based book club that reads sci-fi, and tries to offer a positive contribution to discussion of Hugo Awards nominations. Pronouns: they/them/comrade",
+			"url": "https://t.co/o9gA42sFTV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9gA42sFTV",
+							"expanded_url": "http://hugoclub.blogspot.ca",
+							"display_url": "hugoclub.blogspot.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1685,
+			"friends_count": 3358,
+			"listed_count": 26,
+			"created_at": "Thu Apr 27 03:02:32 +0000 2017",
+			"favourites_count": 17489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860537589509390336/mthA8Xfx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860537589509390336/mthA8Xfx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/857429730852716544/1495820210",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"To be in a world where the truth is up for auction is to be set adrift from rationality.\"\n\nTackling the epistemology of conspiracy theories in the @globeandmail, Cory @Doctorow knocks it out of the ballpark with this column. \n\nhttps://t.co/ofPfIXwioR"
+	},
+	{
 		"created_at": "Sat Sep 21 20:50:46 +0000 2019",
 		"id": 1175512716233986000,
 		"id_str": "1175512716233986050",
