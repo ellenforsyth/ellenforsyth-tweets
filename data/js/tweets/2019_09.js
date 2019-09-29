@@ -1,6 +1,1351 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 28 20:23:29 +0000 2019",
+		"id": 1177664414440464400,
+		"id_str": "1178042567994138624",
+		"full_text": "VIDEO: The Decentralized Web Is Coming (featuring @doctorow, @protocollabs, @internetarchive) https://t.co/ZjvXacbitZ via @reason",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doctorow",
+					"name": "Masque of the Red Death",
+					"id": 2729061,
+					"id_str": "2729061",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"screen_name": "protocollabs",
+					"name": "Protocol Labs",
+					"id": 823799206267625500,
+					"id_str": "823799206267625473",
+					"indices": [
+						61,
+						74
+					]
+				},
+				{
+					"screen_name": "internetarchive",
+					"name": "Internet Archive",
+					"id": 18957805,
+					"id_str": "18957805",
+					"indices": [
+						76,
+						92
+					]
+				},
+				{
+					"screen_name": "reason",
+					"name": "reason",
+					"id": 16467567,
+					"id_str": "16467567",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZjvXacbitZ",
+					"expanded_url": "https://reason.com/video/the-decentralized-web-is-coming/",
+					"display_url": "reason.com/video/the-dece…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 926377502641131500,
+			"id_str": "926377502641131525",
+			"name": "Melissa",
+			"screen_name": "ParallelofMel",
+			"location": "Nashville, TN",
+			"description": "Calmer than you are. Freedom enthusiast.\nAlways reading, sometimes writing.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 812,
+			"friends_count": 4949,
+			"listed_count": 5,
+			"created_at": "Fri Nov 03 09:16:22 +0000 2017",
+			"favourites_count": 8434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164432590394286080/jm7aV2Cv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164432590394286080/jm7aV2Cv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/926377502641131525/1565607251",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "VIDEO: The Decentralized Web Is Coming (featuring @doctorow, @protocollabs, @internetarchive) https://t.co/ZjvXacbitZ via @reason"
+	},
+	{
+		"created_at": "Sat Sep 28 20:19:42 +0000 2019",
+		"id": 1178016465640755200,
+		"id_str": "1178041613693571072",
+		"full_text": "\"To Boldly Go With The Force\", Mindy Clegg's essay on the politics of popular sci-fi https://t.co/P0Wx8hLTpm https://t.co/JEjSd83IuE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P0Wx8hLTpm",
+					"expanded_url": "https://boingboing.net/2019/09/28/to-boldly-go-with-the-force.html",
+					"display_url": "boingboing.net/2019/09/28/to-…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1178016459605209000,
+					"id_str": "1178016459605209088",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EFknuoZU8AAdGEE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFknuoZU8AAdGEE.jpg",
+					"url": "https://t.co/JEjSd83IuE",
+					"display_url": "pic.twitter.com/JEjSd83IuE",
+					"expanded_url": "https://twitter.com/doctorow/status/1178016465640755200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1940,
+							"h": 1625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1005,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178016459605209000,
+					"id_str": "1178016459605209088",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EFknuoZU8AAdGEE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFknuoZU8AAdGEE.jpg",
+					"url": "https://t.co/JEjSd83IuE",
+					"display_url": "pic.twitter.com/JEjSd83IuE",
+					"expanded_url": "https://twitter.com/doctorow/status/1178016465640755200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1940,
+							"h": 1625,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1005,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2729061,
+			"id_str": "2729061",
+			"name": "Masque of the Red Death",
+			"screen_name": "doctorow",
+			"location": "Beautiful Downtown Burbank",
+			"description": "Writer, blogger, activist. If you want a reply, use email. Blog suggestions here: https://t.co/rS9kTnTcWs     0BC4 700A 06E2 072D 3A77 F8E2 9026 DBBE 1FC2 37AF",
+			"url": "https://t.co/x4ih0X9WgH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4ih0X9WgH",
+							"expanded_url": "http://craphound.com",
+							"display_url": "craphound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rS9kTnTcWs",
+							"expanded_url": "http://boingboing.net/s",
+							"display_url": "boingboing.net/s",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 420509,
+			"friends_count": 1716,
+			"listed_count": 13018,
+			"created_at": "Wed Mar 28 21:40:55 +0000 2007",
+			"favourites_count": 154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 210057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174443952562483201/ZEzs7RGs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174443952562483201/ZEzs7RGs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2729061/1398312817",
+			"profile_link_color": "3F3FC4",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"To Boldly Go With The Force\", Mindy Clegg's essay on the politics of popular sci-fi https://t.co/P0Wx8hLTpm https://t.co/JEjSd83IuE"
+	},
+	{
+		"created_at": "Sat Sep 28 20:16:10 +0000 2019",
+		"id": 1177749766052204500,
+		"id_str": "1178040726128484352",
+		"full_text": "Translating New York’s hidden stories https://t.co/i3s0SxWuRn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i3s0SxWuRn",
+					"expanded_url": "https://www.cjr.org/local_news/voices-of-new-york.php",
+					"display_url": "cjr.org/local_news/voi…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57411021,
+			"id_str": "57411021",
+			"name": "CJR",
+			"screen_name": "CJR",
+			"location": "New York, NY",
+			"description": "Monitoring the press, tracking the evolving media business & encouraging excellence in journalism since 1961.",
+			"url": "http://t.co/XVWBCm6Pwz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XVWBCm6Pwz",
+							"expanded_url": "http://www.cjr.org",
+							"display_url": "cjr.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139042,
+			"friends_count": 3458,
+			"listed_count": 5078,
+			"created_at": "Thu Jul 16 18:46:48 +0000 2009",
+			"favourites_count": 2470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 57663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145627687555223552/ZIX0O6qL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145627687555223552/ZIX0O6qL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57411021/1551100797",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Translating New York’s hidden stories https://t.co/i3s0SxWuRn"
+	},
+	{
+		"created_at": "Sat Sep 28 20:10:56 +0000 2019",
+		"id": 1178039406520758300,
+		"id_str": "1178039406520758272",
+		"full_text": "Digitising our collections https://t.co/YrbjLsdXlP via @nlagovau great to have all this information about the digitisation process",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nlagovau",
+					"name": "National Library of Australia",
+					"id": 42354375,
+					"id_str": "42354375",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YrbjLsdXlP",
+					"expanded_url": "https://www.nla.gov.au/stories/blog/behind-the-scenes/2019/09/27/digitising-our-collections",
+					"display_url": "nla.gov.au/stories/blog/b…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 805,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Digitising our collections https://t.co/YrbjLsdXlP via @nlagovau great to have all this information about the digitisation process"
+	},
+	{
+		"created_at": "Sat Sep 28 20:10:08 +0000 2019",
+		"id": 1177779964046987300,
+		"id_str": "1178039205907161088",
+		"full_text": "Have you tried the NLA’s Mapwarper? \n\nGeorectify NSW/ACT maps with Mapwarper and overlay historic maps on current maps to see how places have changed over time. \n\nCheck out our Mapwarper here: https://t.co/SqwvBlrg29 https://t.co/KGHdU5tf86",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SqwvBlrg29",
+					"expanded_url": "http://georekt-test.nla.gov.au/",
+					"display_url": "georekt-test.nla.gov.au",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1174492960043352000,
+					"id_str": "1174492960043352064",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EEyjH9qUwAAzdze.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEyjH9qUwAAzdze.jpg",
+					"url": "https://t.co/KGHdU5tf86",
+					"display_url": "pic.twitter.com/KGHdU5tf86",
+					"expanded_url": "https://twitter.com/nlagovau/status/1177779964046987264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 590,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1897,
+							"h": 933,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174492960043352000,
+					"id_str": "1174492960043352064",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EEyjH9qUwAAzdze.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEyjH9qUwAAzdze.jpg",
+					"url": "https://t.co/KGHdU5tf86",
+					"display_url": "pic.twitter.com/KGHdU5tf86",
+					"expanded_url": "https://twitter.com/nlagovau/status/1177779964046987264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 590,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1897,
+							"h": 933,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42354375,
+			"id_str": "42354375",
+			"name": "National Library of Australia",
+			"screen_name": "nlagovau",
+			"location": "Canberra, Australia",
+			"description": "We collect, preserve and make accessible the best Australian stories. Read all about it.",
+			"url": "https://t.co/wb67iCoHem",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wb67iCoHem",
+							"expanded_url": "http://www.nla.gov.au",
+							"display_url": "nla.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43468,
+			"friends_count": 200,
+			"listed_count": 1019,
+			"created_at": "Mon May 25 05:09:03 +0000 2009",
+			"favourites_count": 8534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42354375/1564371852",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you tried the NLA’s Mapwarper? \n\nGeorectify NSW/ACT maps with Mapwarper and overlay historic maps on current maps to see how places have changed over time. \n\nCheck out our Mapwarper here: https://t.co/SqwvBlrg29 https://t.co/KGHdU5tf86"
+	},
+	{
+		"created_at": "Sat Sep 28 20:08:54 +0000 2019",
+		"id": 1178038897952997400,
+		"id_str": "1178038897952997376",
+		"full_text": "The National Art Library at the V&amp;A on the Internet Archive https://t.co/0kFNVLhdDA via @v_and_a a useful description of recent digitisation and how to access the library collection online and onsite (including various online formats)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "V_and_A",
+					"name": "V&A",
+					"id": 18807671,
+					"id_str": "18807671",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0kFNVLhdDA",
+					"expanded_url": "https://www.vam.ac.uk/blog/museum-life/the-national-art-library-on-the-internet-archive",
+					"display_url": "vam.ac.uk/blog/museum-li…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 805,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The National Art Library at the V&amp;A on the Internet Archive https://t.co/0kFNVLhdDA via @v_and_a a useful description of recent digitisation and how to access the library collection online and onsite (including various online formats)"
+	},
+	{
+		"created_at": "Sat Sep 28 20:01:19 +0000 2019",
+		"id": 1178036989142024200,
+		"id_str": "1178036989142024192",
+		"full_text": "these are very beautiful https://t.co/sRsqZtio5G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sRsqZtio5G",
+					"expanded_url": "https://twitter.com/Colossal/status/1177960238349262849",
+					"display_url": "twitter.com/Colossal/statu…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 805,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177960238349262800,
+		"quoted_status_id_str": "1177960238349262849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sRsqZtio5G",
+			"expanded": "https://twitter.com/Colossal/status/1177960238349262849",
+			"display": "twitter.com/Colossal/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 28 14:56:20 +0000 2019",
+			"id": 1177960238349262800,
+			"id_str": "1177960238349262849",
+			"full_text": "African fabrics connect to form quilted portraits of Black figures by Bisa Butler https://t.co/gKI861ADBW https://t.co/TIsJhkYFnh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gKI861ADBW",
+						"expanded_url": "https://www.thisiscolossal.com/2019/09/quilted-portraits-of-black-figures-by-bisa-butler/",
+						"display_url": "thisiscolossal.com/2019/09/quilte…",
+						"indices": [
+							82,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1177960228568146000,
+						"id_str": "1177960228568145921",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/EFj0ljdXoAEecSZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFj0ljdXoAEecSZ.jpg",
+						"url": "https://t.co/TIsJhkYFnh",
+						"display_url": "pic.twitter.com/TIsJhkYFnh",
+						"expanded_url": "https://twitter.com/Colossal/status/1177960238349262849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 823,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1372,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 466,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1177960228568146000,
+						"id_str": "1177960228568145921",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/EFj0ljdXoAEecSZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFj0ljdXoAEecSZ.jpg",
+						"url": "https://t.co/TIsJhkYFnh",
+						"display_url": "pic.twitter.com/TIsJhkYFnh",
+						"expanded_url": "https://twitter.com/Colossal/status/1177960238349262849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 823,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1372,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 466,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1177960228576530400,
+						"id_str": "1177960228576530432",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/EFj0ljfXkAAKW2p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFj0ljfXkAAKW2p.jpg",
+						"url": "https://t.co/TIsJhkYFnh",
+						"display_url": "pic.twitter.com/TIsJhkYFnh",
+						"expanded_url": "https://twitter.com/Colossal/status/1177960238349262849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1504,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 902,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1177960228589060000,
+						"id_str": "1177960228589060098",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/EFj0ljiWwAISR6s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFj0ljiWwAISR6s.jpg",
+						"url": "https://t.co/TIsJhkYFnh",
+						"display_url": "pic.twitter.com/TIsJhkYFnh",
+						"expanded_url": "https://twitter.com/Colossal/status/1177960238349262849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1333,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 203063180,
+				"id_str": "203063180",
+				"name": "Colossal",
+				"screen_name": "Colossal",
+				"location": "Chicago",
+				"description": "Art, design, photography, and visual culture.",
+				"url": "https://t.co/WMywZPtjpC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WMywZPtjpC",
+								"expanded_url": "http://colossal.art",
+								"display_url": "colossal.art",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 154590,
+				"friends_count": 601,
+				"listed_count": 4786,
+				"created_at": "Fri Oct 15 13:06:40 +0000 2010",
+				"favourites_count": 2512,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11650,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/920685695907303424/ZrILX0vl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/920685695907303424/ZrILX0vl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/203063180/1566921220",
+				"profile_link_color": "E06100",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "these are very beautiful https://t.co/sRsqZtio5G"
+	},
+	{
+		"created_at": "Sat Sep 28 19:59:08 +0000 2019",
+		"id": 1177521676491350000,
+		"id_str": "1178036440225107968",
+		"full_text": "The best of the good: all this week's optimistic news, in our @GuardianUpside roundup https://t.co/wbJqPYnbrk #theupside",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "theupside",
+					"indices": [
+						110,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuardianUpside",
+					"name": "Guardian Upside",
+					"id": 961213878293155800,
+					"id_str": "961213878293155840",
+					"indices": [
+						62,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wbJqPYnbrk",
+					"expanded_url": "https://www.theguardian.com/world/2019/sep/27/upside-when-all-else-fails-there-is-always-art?CMP=share_btn_tw",
+					"display_url": "theguardian.com/world/2019/sep…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27420700,
+			"id_str": "27420700",
+			"name": "mark rice-oxley",
+			"screen_name": "markriceoxley69",
+			"location": "London",
+			"description": "Special projects editor @guardian, creator of Guardian Upside, author @littlebrown, mental health advocate, centrist dad, jazz faker",
+			"url": "https://t.co/8CUWNgTObY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8CUWNgTObY",
+							"expanded_url": "http://www.theguardian.com/profile/mark-rice-oxley",
+							"display_url": "theguardian.com/profile/mark-r…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4412,
+			"friends_count": 633,
+			"listed_count": 192,
+			"created_at": "Sun Mar 29 13:05:47 +0000 2009",
+			"favourites_count": 1053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845260268586352641/VcArDKlV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845260268586352641/VcArDKlV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27420700/1476975023",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The best of the good: all this week's optimistic news, in our @GuardianUpside roundup https://t.co/wbJqPYnbrk #theupside"
+	},
+	{
 		"created_at": "Sat Sep 28 00:04:18 +0000 2019",
 		"id": 1177495113779445800,
 		"id_str": "1177735747056492544",
