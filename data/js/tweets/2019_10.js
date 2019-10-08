@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 19:14:05 +0000 2019",
+		"id": 1181192457536626700,
+		"id_str": "1181286594214424576",
+		"full_text": "Today is the beginning of a week of posts centered around my Horror Novellas for Libraries column in this month's @LibraryJournal. Feat #PriyaSharma @rudolfoasern @WesSouthard @racheladeering &amp; @johnhornor. #HorrorForLibraries: https://t.co/35bsGQgi2R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PriyaSharma",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"text": "HorrorForLibraries",
+					"indices": [
+						211,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LibraryJournal",
+					"name": "Library Journal",
+					"id": 15169290,
+					"id_str": "15169290",
+					"indices": [
+						114,
+						129
+					]
+				},
+				{
+					"screen_name": "WesSouthard",
+					"name": "Wesley Southard",
+					"id": 139914402,
+					"id_str": "139914402",
+					"indices": [
+						163,
+						175
+					]
+				},
+				{
+					"screen_name": "racheladeering",
+					"name": "Rachel Autumn Deering",
+					"id": 1006416361235599400,
+					"id_str": "1006416361235599361",
+					"indices": [
+						176,
+						191
+					]
+				},
+				{
+					"screen_name": "johnhornor",
+					"name": "JACOBSTEIN'S MONSTER",
+					"id": 15680306,
+					"id_str": "15680306",
+					"indices": [
+						198,
+						209
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/35bsGQgi2R",
+					"expanded_url": "http://raforallhorror.blogspot.com/2019/10/31-days-of-horror-day-7-recent-horror.html",
+					"display_url": "raforallhorror.blogspot.com/2019/10/31-day…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege alum @ARRTreads @HorrorWriters Secretary",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2436,
+			"friends_count": 1767,
+			"listed_count": 131,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 17383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is the beginning of a week of posts centered around my Horror Novellas for Libraries column in this month's @LibraryJournal. Feat #PriyaSharma @rudolfoasern @WesSouthard @racheladeering &amp; @johnhornor. #HorrorForLibraries: https://t.co/35bsGQgi2R"
+	},
+	{
 		"created_at": "Sun Oct 06 19:22:25 +0000 2019",
 		"id": 1180926300405395500,
 		"id_str": "1180926300405395457",
