@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 10 02:38:08 +0000 2019",
+		"id": 1178960016990187500,
+		"id_str": "1182123118686420992",
+		"full_text": "📢Your favourite GIF-making competition is back!📢 Create #GIFs from openly licensed #CulturalHeritage content available on @Europeanaeu @dpla @TroveAustralia &amp; @DigitalNZ. Get your work featured on our @GIPHY channel and win cool prizes!👉https://t.co/wtCm6rqDr8\n#GIFITUP2019 https://t.co/gbgzO2yxnv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GIFs",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "CulturalHeritage",
+					"indices": [
+						83,
+						100
+					]
+				},
+				{
+					"text": "GIFITUP2019",
+					"indices": [
+						265,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Europeanaeu",
+					"name": "Europeana",
+					"id": 79299249,
+					"id_str": "79299249",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"screen_name": "dpla",
+					"name": "DPLA",
+					"id": 365017572,
+					"id_str": "365017572",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"screen_name": "TroveAustralia",
+					"name": "Trove",
+					"id": 119219640,
+					"id_str": "119219640",
+					"indices": [
+						141,
+						156
+					]
+				},
+				{
+					"screen_name": "DigitalNZ",
+					"name": "DigitalNZ | Ā-Tihi o Aotearoa",
+					"id": 33341148,
+					"id_str": "33341148",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"screen_name": "GIPHY",
+					"name": "GIPHY",
+					"id": 1020383864,
+					"id_str": "1020383864",
+					"indices": [
+						205,
+						211
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wtCm6rqDr8",
+					"expanded_url": "http://gifitup.net",
+					"display_url": "gifitup.net",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1178960009117524000,
+					"id_str": "1178960009117523969",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFyB4cPXYAEMgT7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFyB4cPXYAEMgT7.jpg",
+					"url": "https://t.co/gbgzO2yxnv",
+					"display_url": "pic.twitter.com/gbgzO2yxnv",
+					"expanded_url": "https://twitter.com/Europeanaeu/status/1178960016990187520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178960009117524000,
+					"id_str": "1178960009117523969",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EFyB4cPXYAEMgT7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EFyB4cPXYAEMgT7.jpg",
+					"url": "https://t.co/gbgzO2yxnv",
+					"display_url": "pic.twitter.com/gbgzO2yxnv",
+					"expanded_url": "https://twitter.com/Europeanaeu/status/1178960016990187520/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							24,
+							19
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EFyB4cPXYAEMgT7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79299249,
+			"id_str": "79299249",
+			"name": "Europeana",
+			"screen_name": "Europeanaeu",
+			"location": "Europe",
+			"description": "Europe's culture - collected for you. \nExplore millions of items on Europeana Collections. \nCo-financed by the Connecting Europe Facility of the European Union.",
+			"url": "http://t.co/KUfdwVQgxz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/KUfdwVQgxz",
+							"expanded_url": "http://europeana.eu",
+							"display_url": "europeana.eu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36372,
+			"friends_count": 1532,
+			"listed_count": 2047,
+			"created_at": "Fri Oct 02 22:05:55 +0000 2009",
+			"favourites_count": 17256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/689803529800806402/jPMe0-wn_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/689803529800806402/jPMe0-wn_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79299249/1570460227",
+			"profile_link_color": "56A7CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 185,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢Your favourite GIF-making competition is back!📢 Create #GIFs from openly licensed #CulturalHeritage content available on @Europeanaeu @dpla @TroveAustralia &amp; @DigitalNZ. Get your work featured on our @GIPHY channel and win cool prizes!👉https://t.co/wtCm6rqDr8\n#GIFITUP2019 https://t.co/gbgzO2yxnv"
+	},
+	{
 		"created_at": "Mon Oct 07 19:14:05 +0000 2019",
 		"id": 1181192457536626700,
 		"id_str": "1181286594214424576",
