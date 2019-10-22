@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 21 19:09:42 +0000 2019",
+		"id": 1186358919800602600,
+		"id_str": "1186358919800602625",
+		"full_text": "Open Access Books: The First 100 Books from Johns Hopkins University Project https://t.co/GJLjYi2dyF via @scholarlykitchn an interesting discussion of this project",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scholarlykitchn",
+					"name": "Scholarly Kitchen",
+					"id": 119401334,
+					"id_str": "119401334",
+					"indices": [
+						105,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GJLjYi2dyF",
+					"expanded_url": "https://scholarlykitchen.sspnet.org/2019/10/21/open-access-books-the-first-100-books-from-johns-hopkins-university-project/",
+					"display_url": "scholarlykitchen.sspnet.org/2019/10/21/ope…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2521,
+			"friends_count": 802,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Open Access Books: The First 100 Books from Johns Hopkins University Project https://t.co/GJLjYi2dyF via @scholarlykitchn an interesting discussion of this project"
+	},
+	{
+		"created_at": "Mon Oct 21 19:01:48 +0000 2019",
+		"id": 1186356931885035500,
+		"id_str": "1186356931885035525",
+		"full_text": "@misslibbyc @Preprint_ @HBLibraries @LibrariesAust I had found it in the catalogue, that was not the issue, there seem to be loan copies which is great, but not one in local studies. There is the permanent copy at the State Library, but a local permanent copy would also be great.",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "misslibbyc",
+					"name": "Libby Cass",
+					"id": 460693340,
+					"id_str": "460693340",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Preprint_",
+					"name": "Preprint is writing",
+					"id": 263642407,
+					"id_str": "263642407",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "HBLibraries",
+					"name": "HobsonsBayLibraries",
+					"id": 549777465,
+					"id_str": "549777465",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "LibrariesAust",
+					"name": "Libraries Australia",
+					"id": 42502538,
+					"id_str": "42502538",
+					"indices": [
+						36,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1186123772102791200,
+		"in_reply_to_status_id_str": "1186123772102791168",
+		"in_reply_to_user_id": 460693340,
+		"in_reply_to_user_id_str": "460693340",
+		"in_reply_to_screen_name": "misslibbyc",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2521,
+			"friends_count": 802,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@misslibbyc @Preprint_ @HBLibraries @LibrariesAust I had found it in the catalogue, that was not the issue, there seem to be loan copies which is great, but not one in local studies. There is the permanent copy at the State Library, but a local permanent copy would also be great."
+	},
+	{
 		"created_at": "Mon Oct 21 03:31:04 +0000 2019",
 		"id": 1186122703268278300,
 		"id_str": "1186122703268278272",
