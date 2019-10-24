@@ -1,6 +1,569 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 19:19:28 +0000 2019",
+		"id": 1186724110010728400,
+		"id_str": "1187086154673225728",
+		"full_text": "Public libraries may be a democratic commons, but they have not been universally welcoming. @shannonmattern explores how communities have responded — by creating their own spaces for learning and building futures together. \n\nhttps://t.co/w5U3ywEVmA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shannonmattern",
+					"name": "Shannon Mattern",
+					"id": 357916553,
+					"id_str": "357916553",
+					"indices": [
+						92,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/w5U3ywEVmA",
+					"expanded_url": "https://placesjournal.org/article/fugitive-libraries/",
+					"display_url": "placesjournal.org/article/fugiti…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60747383,
+			"id_str": "60747383",
+			"name": "Places Journal",
+			"screen_name": "PlacesJournal",
+			"location": "San Francisco",
+			"description": "Architecture, landscape, urbanism. Design research and journalism in the public interest. Sign up: https://t.co/fpesQ43C0b",
+			"url": "http://t.co/gKNFwN1q8T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gKNFwN1q8T",
+							"expanded_url": "http://placesjournal.org",
+							"display_url": "placesjournal.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fpesQ43C0b",
+							"expanded_url": "https://placesjournal.org/newsletter",
+							"display_url": "placesjournal.org/newsletter",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23101,
+			"friends_count": 1993,
+			"listed_count": 956,
+			"created_at": "Mon Jul 27 23:41:53 +0000 2009",
+			"favourites_count": 1546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875399377006637056/jpAzm0kD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875399377006637056/jpAzm0kD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60747383/1434583100",
+			"profile_link_color": "F09C3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "414143",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Public libraries may be a democratic commons, but they have not been universally welcoming. @shannonmattern explores how communities have responded — by creating their own spaces for learning and building futures together. \n\nhttps://t.co/w5U3ywEVmA"
+	},
+	{
+		"created_at": "Wed Oct 23 19:13:43 +0000 2019",
+		"id": 1187084705272754200,
+		"id_str": "1187084705272754176",
+		"full_text": "Check out \"All Work and No Play: Disability History Conference \" https://t.co/t0PRyYWMOj @EventbriteUK this looks a very interesting conference",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EventbriteUK",
+					"name": "Eventbrite UK",
+					"id": 2151374196,
+					"id_str": "2151374196",
+					"indices": [
+						89,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t0PRyYWMOj",
+					"expanded_url": "https://www.eventbrite.co.uk/e/all-work-and-no-play-disability-history-conference-tickets-67019193211?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=estw&utm-source=tw&utm-term=listing",
+					"display_url": "eventbrite.co.uk/e/all-work-and…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2521,
+			"friends_count": 802,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out \"All Work and No Play: Disability History Conference \" https://t.co/t0PRyYWMOj @EventbriteUK this looks a very interesting conference"
+	},
+	{
+		"created_at": "Wed Oct 23 19:03:59 +0000 2019",
+		"id": 1187081398840184800,
+		"id_str": "1187082257695047680",
+		"full_text": "Damage turned into art: super attractive embroidery repairs in a 13th-century manuscript - the cucumber is my favourite (Aargauger Kantonsbib MsMurF 5). Zoom in on some here: https://t.co/iOT2pNLFM8 ; https://t.co/iu17IGdW0l ; https://t.co/OcKR4MRUoE ; https://t.co/SV4N3UYNR5. https://t.co/Lg0wkRjcwE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iOT2pNLFM8",
+					"expanded_url": "https://buff.ly/2N6Faxk",
+					"display_url": "buff.ly/2N6Faxk",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/iu17IGdW0l",
+					"expanded_url": "https://buff.ly/343e55p",
+					"display_url": "buff.ly/343e55p",
+					"indices": [
+						201,
+						224
+					]
+				},
+				{
+					"url": "https://t.co/OcKR4MRUoE",
+					"expanded_url": "https://buff.ly/32FH7HY",
+					"display_url": "buff.ly/32FH7HY",
+					"indices": [
+						227,
+						250
+					]
+				},
+				{
+					"url": "https://t.co/SV4N3UYNR5",
+					"expanded_url": "https://buff.ly/2BxKswD",
+					"display_url": "buff.ly/2BxKswD",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187081394989740000,
+					"id_str": "1187081394989740033",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EHlcPUPWsAEm0Yg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHlcPUPWsAEm0Yg.jpg",
+					"url": "https://t.co/Lg0wkRjcwE",
+					"display_url": "pic.twitter.com/Lg0wkRjcwE",
+					"expanded_url": "https://twitter.com/erik_kwakkel/status/1187081398840184835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 593,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1786,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1046,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187081394989740000,
+					"id_str": "1187081394989740033",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EHlcPUPWsAEm0Yg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHlcPUPWsAEm0Yg.jpg",
+					"url": "https://t.co/Lg0wkRjcwE",
+					"display_url": "pic.twitter.com/Lg0wkRjcwE",
+					"expanded_url": "https://twitter.com/erik_kwakkel/status/1187081398840184835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 593,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1786,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1046,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1187081394423582700,
+					"id_str": "1187081394423582720",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EHlcPSIX0AA-0-z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHlcPSIX0AA-0-z.jpg",
+					"url": "https://t.co/Lg0wkRjcwE",
+					"display_url": "pic.twitter.com/Lg0wkRjcwE",
+					"expanded_url": "https://twitter.com/erik_kwakkel/status/1187081398840184835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 620,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1416,
+							"h": 1552,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1095,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1187081394897510400,
+					"id_str": "1187081394897510405",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EHlcPT5XYAUeh9C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHlcPT5XYAUeh9C.jpg",
+					"url": "https://t.co/Lg0wkRjcwE",
+					"display_url": "pic.twitter.com/Lg0wkRjcwE",
+					"expanded_url": "https://twitter.com/erik_kwakkel/status/1187081398840184835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1191,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1960,
+							"h": 1974,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1187081395224662000,
+					"id_str": "1187081395224662016",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EHlcPVHXUAARYsK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHlcPVHXUAARYsK.jpg",
+					"url": "https://t.co/Lg0wkRjcwE",
+					"display_url": "pic.twitter.com/Lg0wkRjcwE",
+					"expanded_url": "https://twitter.com/erik_kwakkel/status/1187081398840184835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1826,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1070,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 461421839,
+			"id_str": "461421839",
+			"name": "Erik Kwakkel",
+			"screen_name": "erik_kwakkel",
+			"location": "Vancouver, British Columbia",
+			"description": "Professor of Book History & Associate Director, School of Information, UBC, Vancouver | There is more to life than manuscripts, but it's a good place to start.",
+			"url": "https://t.co/SflLRQDrbv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SflLRQDrbv",
+							"expanded_url": "https://slais.ubc.ca/profile/erik-kwakkel/",
+							"display_url": "slais.ubc.ca/profile/erik-k…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27283,
+			"friends_count": 218,
+			"listed_count": 955,
+			"created_at": "Wed Jan 11 19:52:42 +0000 2012",
+			"favourites_count": 6248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1754481607/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1754481607/image_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/461421839/1410526219",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Damage turned into art: super attractive embroidery repairs in a 13th-century manuscript - the cucumber is my favourite (Aargauger Kantonsbib MsMurF 5). Zoom in on some here: https://t.co/iOT2pNLFM8 ; https://t.co/iu17IGdW0l ; https://t.co/OcKR4MRUoE ; https://t.co/SV4N3UYNR5. https://t.co/Lg0wkRjcwE"
+	},
+	{
 		"created_at": "Tue Oct 22 10:21:36 +0000 2019",
 		"id": 1186588407163547600,
 		"id_str": "1186588407163547648",
