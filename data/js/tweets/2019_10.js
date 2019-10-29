@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 29 04:46:08 +0000 2019",
+		"id": 1189040698177147000,
+		"id_str": "1189040698177146880",
+		"full_text": "London Medieval Murder Map https://t.co/Riawd1ear8 via @VRCCrimCam and via an alert from @IntScout - there is other very interesting research at @VRCCrimCam too",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VRCCrimCam",
+					"name": "Violence Research Centre",
+					"id": 1011986331499626500,
+					"id_str": "1011986331499626496",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"screen_name": "IntScout",
+					"name": "Internet Scout",
+					"id": 39374329,
+					"id_str": "39374329",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"screen_name": "VRCCrimCam",
+					"name": "Violence Research Centre",
+					"id": 1011986331499626500,
+					"id_str": "1011986331499626496",
+					"indices": [
+						145,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Riawd1ear8",
+					"expanded_url": "https://www.vrc.crim.cam.ac.uk/vrcresearch/london-medieval-murder-map",
+					"display_url": "vrc.crim.cam.ac.uk/vrcresearch/lo…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2520,
+			"friends_count": 801,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "London Medieval Murder Map https://t.co/Riawd1ear8 via @VRCCrimCam and via an alert from @IntScout - there is other very interesting research at @VRCCrimCam too"
+	},
+	{
 		"created_at": "Thu Oct 24 18:20:54 +0000 2019",
 		"id": 1187433801720316000,
 		"id_str": "1187433801720315904",
