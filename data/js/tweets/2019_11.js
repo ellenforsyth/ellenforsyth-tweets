@@ -1,6 +1,640 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 04 18:33:29 +0000 2019",
+		"id": 1191423233293045800,
+		"id_str": "1191423233293045760",
+		"full_text": "this looks brilliant https://t.co/nbjVNPy5mU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nbjVNPy5mU",
+					"expanded_url": "https://twitter.com/rijksmuseum/status/1191273582602727425",
+					"display_url": "twitter.com/rijksmuseum/st…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2522,
+			"friends_count": 804,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191273582602727400,
+		"quoted_status_id_str": "1191273582602727425",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nbjVNPy5mU",
+			"expanded": "https://twitter.com/rijksmuseum/status/1191273582602727425",
+			"display": "twitter.com/rijksmuseum/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 04 08:38:49 +0000 2019",
+			"id": 1191273582602727400,
+			"id_str": "1191273582602727425",
+			"full_text": "Get Creative! Submissions for the Rijksstudio Award 2020 are open. The Rijksstudio Award is our art- and design prize. With this competition we invite everyone to create their own masterpiece inspired by our collection. 🏆✨ https://t.co/ui7PRe55yM\n#Rijksstudio #RijksstudioAward https://t.co/5S02PzTi5v",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Rijksstudio",
+						"indices": [
+							247,
+							259
+						]
+					},
+					{
+						"text": "RijksstudioAward",
+						"indices": [
+							260,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ui7PRe55yM",
+						"expanded_url": "https://www.rijksmuseum.nl/en/rijksstudioaward",
+						"display_url": "rijksmuseum.nl/en/rijksstudio…",
+						"indices": [
+							223,
+							246
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1191273566156861400,
+						"id_str": "1191273566156861440",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EIhA_y0XsAAHElZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIhA_y0XsAAHElZ.jpg",
+						"url": "https://t.co/5S02PzTi5v",
+						"display_url": "pic.twitter.com/5S02PzTi5v",
+						"expanded_url": "https://twitter.com/rijksmuseum/status/1191273582602727425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1448,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 662,
+										"y": 831,
+										"h": 39,
+										"w": 39
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 376,
+										"y": 471,
+										"h": 22,
+										"w": 22
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1132,
+										"y": 1420,
+										"h": 68,
+										"w": 68
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 2264,
+										"y": 2840,
+										"h": 136,
+										"w": 136
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1191273566156861400,
+						"id_str": "1191273566156861440",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EIhA_y0XsAAHElZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIhA_y0XsAAHElZ.jpg",
+						"url": "https://t.co/5S02PzTi5v",
+						"display_url": "pic.twitter.com/5S02PzTi5v",
+						"expanded_url": "https://twitter.com/rijksmuseum/status/1191273582602727425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1448,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 662,
+										"y": 831,
+										"h": 39,
+										"w": 39
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 376,
+										"y": 471,
+										"h": 22,
+										"w": 22
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1132,
+										"y": 1420,
+										"h": 68,
+										"w": 68
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 2264,
+										"y": 2840,
+										"h": 136,
+										"w": 136
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 109515460,
+				"id_str": "109515460",
+				"name": "Rijksmuseum",
+				"screen_name": "rijksmuseum",
+				"location": "Amsterdam, the Netherlands",
+				"description": "Follow us for exclusive peeks behind the scenes, world-class art and remarkable history. Stay up-to-date on Operation Night Watch #Rembrandt #VanGogh #Vermeer",
+				"url": "https://t.co/F3tq4H19yP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F3tq4H19yP",
+								"expanded_url": "http://www.rijksmuseum.nl",
+								"display_url": "rijksmuseum.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 239628,
+				"friends_count": 1223,
+				"listed_count": 2362,
+				"created_at": "Fri Jan 29 09:13:53 +0000 2010",
+				"favourites_count": 6955,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14911,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E0E5E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1158273949651939328/uCP16tQr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158273949651939328/uCP16tQr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/109515460/1550679525",
+				"profile_link_color": "1A626F",
+				"profile_sidebar_border_color": "E4ECEC",
+				"profile_sidebar_fill_color": "E4ECEC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this looks brilliant https://t.co/nbjVNPy5mU"
+	},
+	{
+		"created_at": "Mon Nov 04 18:08:14 +0000 2019",
+		"id": 1191415032103481300,
+		"id_str": "1191416880398888961",
+		"full_text": "Self-plagiarism: When is re-purposing text ethically justifiable?\n\n#Plagiarism https://t.co/fGB99yuOkM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Plagiarism",
+					"indices": [
+						67,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fGB99yuOkM",
+					"expanded_url": "https://wp.me/p4m9em-951",
+					"display_url": "wp.me/p4m9em-951",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 273935884,
+			"id_str": "273935884",
+			"name": "LSE Impact Blog",
+			"screen_name": "LSEImpactBlog",
+			"location": "London",
+			"description": "A platform for those interested in increasing the impact of academic research. Managing Editor @MichaelTaster",
+			"url": "http://t.co/j2QGFYPVRs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/j2QGFYPVRs",
+							"expanded_url": "http://blogs.lse.ac.uk/impactofsocialsciences/",
+							"display_url": "blogs.lse.ac.uk/impactofsocial…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53175,
+			"friends_count": 4825,
+			"listed_count": 1777,
+			"created_at": "Tue Mar 29 12:17:04 +0000 2011",
+			"favourites_count": 3169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908703729813254145/hfgw7Shs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908703729813254145/hfgw7Shs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/273935884/1465570717",
+			"profile_link_color": "9C6A5E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Self-plagiarism: When is re-purposing text ethically justifiable?\n\n#Plagiarism https://t.co/fGB99yuOkM"
+	},
+	{
+		"created_at": "Mon Nov 04 09:48:38 +0000 2019",
+		"id": 1191291151917011000,
+		"id_str": "1191291151917010950",
+		"full_text": "How Britain dishonoured its African first world war dead via ⁦@guardian⁩  https://t.co/E8PvYnnlFo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						62,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E8PvYnnlFo",
+					"expanded_url": "https://www.theguardian.com/world/2019/nov/03/how-britain-dishonoured-first-world-war-african-dead?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/world/2019/nov…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2522,
+			"friends_count": 804,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Britain dishonoured its African first world war dead via ⁦@guardian⁩  https://t.co/E8PvYnnlFo"
+	},
+	{
 		"created_at": "Sun Nov 03 18:49:14 +0000 2019",
 		"id": 1191064812500816000,
 		"id_str": "1191064812500815872",
