@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 07 18:04:53 +0000 2019",
+		"id": 1192502082626044000,
+		"id_str": "1192503201645223936",
+		"full_text": "Inclusive conferences? We can and must do better - here’s how. \n\n#AcademicConferences https://t.co/Lhoek0iQMq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AcademicConferences",
+					"indices": [
+						65,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lhoek0iQMq",
+					"expanded_url": "https://wp.me/p4m9em-9h3",
+					"display_url": "wp.me/p4m9em-9h3",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 273935884,
+			"id_str": "273935884",
+			"name": "LSE Impact Blog",
+			"screen_name": "LSEImpactBlog",
+			"location": "London",
+			"description": "A platform for those interested in increasing the impact of academic research. Managing Editor @MichaelTaster",
+			"url": "http://t.co/j2QGFYPVRs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/j2QGFYPVRs",
+							"expanded_url": "http://blogs.lse.ac.uk/impactofsocialsciences/",
+							"display_url": "blogs.lse.ac.uk/impactofsocial…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53221,
+			"friends_count": 4828,
+			"listed_count": 1778,
+			"created_at": "Tue Mar 29 12:17:04 +0000 2011",
+			"favourites_count": 3225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908703729813254145/hfgw7Shs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908703729813254145/hfgw7Shs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/273935884/1465570717",
+			"profile_link_color": "9C6A5E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inclusive conferences? We can and must do better - here’s how. \n\n#AcademicConferences https://t.co/Lhoek0iQMq"
+	},
+	{
 		"created_at": "Wed Nov 06 19:49:39 +0000 2019",
 		"id": 1192167180143480800,
 		"id_str": "1192167180143480832",
