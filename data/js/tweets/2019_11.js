@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 15 06:54:57 +0000 2019",
+		"id": 1195151068075679700,
+		"id_str": "1195233708208353280",
+		"full_text": "Desperately seeking secondary sources? \n\nFrom music to literature, art to magazines…The Library has a wealth of secondary sources!\n\nLearn how to find these valuable resources in librarian Lisa’s new blog post: https://t.co/28FXb3NurJ\n\n#studyguide #research https://t.co/KTyp0uwJnl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "studyguide",
+					"indices": [
+						235,
+						246
+					]
+				},
+				{
+					"text": "research",
+					"indices": [
+						247,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/28FXb3NurJ",
+					"expanded_url": "https://www.nla.gov.au/stories/blog/behind-the-scenes/2019/11/07/desperately-seeking-secondary-sources",
+					"display_url": "nla.gov.au/stories/blog/b…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195151027906859000,
+					"id_str": "1195151027906859009",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/EJYHhxdU0AE8yfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJYHhxdU0AE8yfC.jpg",
+					"url": "https://t.co/KTyp0uwJnl",
+					"display_url": "pic.twitter.com/KTyp0uwJnl",
+					"expanded_url": "https://twitter.com/nlagovau/status/1195151068075679744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195151027906859000,
+					"id_str": "1195151027906859009",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/EJYHhxdU0AE8yfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJYHhxdU0AE8yfC.jpg",
+					"url": "https://t.co/KTyp0uwJnl",
+					"display_url": "pic.twitter.com/KTyp0uwJnl",
+					"expanded_url": "https://twitter.com/nlagovau/status/1195151068075679744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42354375,
+			"id_str": "42354375",
+			"name": "National Library of Australia",
+			"screen_name": "nlagovau",
+			"location": "Canberra, Australia",
+			"description": "We collect, preserve and make accessible the best Australian stories. Read all about it.",
+			"url": "https://t.co/wb67iCoHem",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wb67iCoHem",
+							"expanded_url": "http://www.nla.gov.au",
+							"display_url": "nla.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43786,
+			"friends_count": 212,
+			"listed_count": 1021,
+			"created_at": "Mon May 25 05:09:03 +0000 2009",
+			"favourites_count": 8539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42354375/1564371852",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Desperately seeking secondary sources? \n\nFrom music to literature, art to magazines…The Library has a wealth of secondary sources!\n\nLearn how to find these valuable resources in librarian Lisa’s new blog post: https://t.co/28FXb3NurJ\n\n#studyguide #research https://t.co/KTyp0uwJnl"
+	},
+	{
 		"created_at": "Wed Nov 13 19:39:04 +0000 2019",
 		"id": 1194701231362494500,
 		"id_str": "1194701231362494464",
