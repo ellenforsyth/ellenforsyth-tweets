@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 09:40:54 +0000 2019",
+		"id": 1199492919893250000,
+		"id_str": "1199624125305610240",
+		"full_text": "Bushfires have devastated rare and enchanting wildlife as \"permanently wet\" forests burn for first time #RNSaturdayExtra https://t.co/w4QvR3SUvN https://t.co/KITUUMVVLQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RNSaturdayExtra",
+					"indices": [
+						104,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w4QvR3SUvN",
+					"expanded_url": "https://www.abc.net.au/news/2019-11-27/bushfires-devastate-ancient-forests-and-rare-wildlife/11733956",
+					"display_url": "abc.net.au/news/2019-11-2…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199492905494184000,
+					"id_str": "1199492905494183936",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EKV0cT6VAAAjmau.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKV0cT6VAAAjmau.jpg",
+					"url": "https://t.co/KITUUMVVLQ",
+					"display_url": "pic.twitter.com/KITUUMVVLQ",
+					"expanded_url": "https://twitter.com/RadioNational/status/1199492919893250048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 940,
+							"h": 627,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199492905494184000,
+					"id_str": "1199492905494183936",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EKV0cT6VAAAjmau.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKV0cT6VAAAjmau.jpg",
+					"url": "https://t.co/KITUUMVVLQ",
+					"display_url": "pic.twitter.com/KITUUMVVLQ",
+					"expanded_url": "https://twitter.com/RadioNational/status/1199492919893250048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 940,
+							"h": 627,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19940915,
+			"id_str": "19940915",
+			"name": "RN - Radio National",
+			"screen_name": "RadioNational",
+			"location": "Australia",
+			"description": "RN is different from any other media network in Australia. It's your home of ideas.",
+			"url": "http://t.co/lahXfzKTno",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lahXfzKTno",
+							"expanded_url": "http://abc.net.au/rn",
+							"display_url": "abc.net.au/rn",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85947,
+			"friends_count": 2056,
+			"listed_count": 1398,
+			"created_at": "Mon Feb 02 23:19:09 +0000 2009",
+			"favourites_count": 773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 42856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "139CA6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199517506127327232/WxKkA5kZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199517506127327232/WxKkA5kZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19940915/1574141383",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "82ADBF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bushfires have devastated rare and enchanting wildlife as \"permanently wet\" forests burn for first time #RNSaturdayExtra https://t.co/w4QvR3SUvN https://t.co/KITUUMVVLQ"
+	},
+	{
 		"created_at": "Mon Nov 25 21:19:28 +0000 2019",
 		"id": 1199075149657579500,
 		"id_str": "1199075149657579525",
