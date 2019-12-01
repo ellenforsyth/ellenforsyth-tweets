@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 30 18:47:39 +0000 2019",
+		"id": 1200837857432285200,
+		"id_str": "1200848884701880320",
+		"full_text": "Awesome museum copyright fiasco. Idiots. https://t.co/a0KNMTszRG #copywrong",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "copywrong",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a0KNMTszRG",
+					"expanded_url": "https://slate.com/technology/2019/11/nefertiti-bust-neues-museum-3d-printing.html",
+					"display_url": "slate.com/technology/201…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41828357,
+			"id_str": "41828357",
+			"name": "Mike Ellis",
+			"screen_name": "m1ke_ellis",
+			"location": "Bude",
+			"description": "Beardy web strategy museumy chin-stroker, author, lefty, father, husband. Director of https://t.co/473ORdx62w. Life mostly based on a true story.",
+			"url": "http://t.co/TYBYAqS6D1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TYBYAqS6D1",
+							"expanded_url": "http://variousbits.net",
+							"display_url": "variousbits.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/473ORdx62w",
+							"expanded_url": "http://thirty8.co.uk",
+							"display_url": "thirty8.co.uk",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5271,
+			"friends_count": 4289,
+			"listed_count": 289,
+			"created_at": "Fri May 22 15:03:53 +0000 2009",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732139796034916352/wFyEXNuz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732139796034916352/wFyEXNuz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41828357/1366363571",
+			"profile_link_color": "084E68",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E2E5E1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Awesome museum copyright fiasco. Idiots. https://t.co/a0KNMTszRG #copywrong"
+	},
+	{
 		"created_at": "Sat Nov 30 05:49:51 +0000 2019",
 		"id": 1200653147166785500,
 		"id_str": "1200653147166785541",
