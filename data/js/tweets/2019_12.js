@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 02:08:43 +0000 2019",
+		"id": 1202780162917449700,
+		"id_str": "1203134208832442368",
+		"full_text": "See how global warming has changed the world since your childhood - excellent work by the ABC https://t.co/BxFvbOpq8F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BxFvbOpq8F",
+					"expanded_url": "https://www.abc.net.au/news/2019-12-06/how-climate-change-has-impacted-your-life/11766018",
+					"display_url": "abc.net.au/news/2019-12-0…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93315762,
+			"id_str": "93315762",
+			"name": "Christopher Knaus",
+			"screen_name": "knausc",
+			"location": "Sydney, New South Wales",
+			"description": "Reporter. Guardian Australia, Sydney. Previously with The Canberra Times. Christopher.knaus@guardian.co.uk.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5890,
+			"friends_count": 2282,
+			"listed_count": 128,
+			"created_at": "Sun Nov 29 03:27:47 +0000 2009",
+			"favourites_count": 4596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050588601002516480/bauRE9YL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050588601002516480/bauRE9YL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93315762/1397714830",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "See how global warming has changed the world since your childhood - excellent work by the ABC https://t.co/BxFvbOpq8F"
+	},
+	{
+		"created_at": "Sat Dec 07 02:07:03 +0000 2019",
+		"id": 1203088110239699000,
+		"id_str": "1203133792413552640",
+		"full_text": "Would you trust any prime minister intent on making their own rules? I don’t think we should. My weekend column #auspol  https://t.co/110JKljOZE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auspol",
+					"indices": [
+						112,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/110JKljOZE",
+					"expanded_url": "https://www.theguardian.com/australia-news/2019/dec/07/every-time-morrison-invokes-the-canberra-bubble-he-undermines-parliament-itself?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66917778,
+			"id_str": "66917778",
+			"name": "Katharine Murphy",
+			"screen_name": "murpharoo",
+			"location": "Canberra",
+			"description": "Political editor, GuardianAU. Recovering live blogger. Insiders. Meanjin. Director NPC. Adjunct AsPro Deakin. Traffic acquisition cost. Makes people cry.",
+			"url": "https://t.co/w5bBLlQzFW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5bBLlQzFW",
+							"expanded_url": "http://www.theguardian.com/au",
+							"display_url": "theguardian.com/au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155175,
+			"friends_count": 1673,
+			"listed_count": 1172,
+			"created_at": "Wed Aug 19 05:13:38 +0000 2009",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "07090B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/687958069733494784/1SUBcHBJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/687958069733494784/1SUBcHBJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66917778/1569621151",
+			"profile_link_color": "C34242",
+			"profile_sidebar_border_color": "BFBFBF",
+			"profile_sidebar_fill_color": "C9C9C9",
+			"profile_text_color": "1C1F23",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 395,
+		"favorite_count": 975,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Would you trust any prime minister intent on making their own rules? I don’t think we should. My weekend column #auspol  https://t.co/110JKljOZE"
+	},
+	{
+		"created_at": "Fri Dec 06 23:00:00 +0000 2019",
+		"id": 1203046807686660000,
+		"id_str": "1203086719215525889",
+		"full_text": "Likely mass graves uncovered in Queensland community decimated by deadly flu https://t.co/ay9WodY0eA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ay9WodY0eA",
+					"expanded_url": "https://www.abc.net.au/news/2019-12-07/hunt-for-mass-graves-in-queensland-community-hit-by-spanish-flu/11770652",
+					"display_url": "abc.net.au/news/2019-12-0…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft PowerApps and Flow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1556141,
+			"friends_count": 1210,
+			"listed_count": 12010,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 281846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1574115216",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Likely mass graves uncovered in Queensland community decimated by deadly flu https://t.co/ay9WodY0eA"
+	},
+	{
 		"created_at": "Wed Dec 04 20:01:20 +0000 2019",
 		"id": 1199797487894225000,
 		"id_str": "1202316979538784256",
