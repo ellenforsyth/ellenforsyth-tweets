@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 02:38:02 +0000 2019",
+		"id": 1203395219590267000,
+		"id_str": "1203503975477075968",
+		"full_text": "Australia's dark secret — the missing women who are never found https://t.co/qu9YaQO0U5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qu9YaQO0U5",
+					"expanded_url": "https://www.abc.net.au/news/2019-12-08/australian-indigenous-women-are-overrepresented-missing-persons/11699974",
+					"display_url": "abc.net.au/news/2019-12-0…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft PowerApps and Flow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1556200,
+			"friends_count": 1210,
+			"listed_count": 12006,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 281895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1574115216",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Australia's dark secret — the missing women who are never found https://t.co/qu9YaQO0U5"
+	},
+	{
+		"created_at": "Sat Dec 07 22:43:17 +0000 2019",
+		"id": 1203444897115598800,
+		"id_str": "1203444897115598848",
+		"full_text": "interesting literature review https://t.co/QLtxB4LbHa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QLtxB4LbHa",
+					"expanded_url": "https://twitter.com/infodocket/status/1203422809759854592",
+					"display_url": "twitter.com/infodocket/sta…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2521,
+			"friends_count": 807,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1203422809759854600,
+		"quoted_status_id_str": "1203422809759854592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QLtxB4LbHa",
+			"expanded": "https://twitter.com/infodocket/status/1203422809759854592",
+			"display": "twitter.com/infodocket/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 07 21:15:31 +0000 2019",
+			"id": 1203422809759854600,
+			"id_str": "1203422809759854592",
+			"full_text": "NEW Journal Article: “Public #Libraries Supporting Health and Wellness: A Literature Review” https://t.co/HMJrNv0u5r @SJSUiSchool https://t.co/FjuKFHU289",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Libraries",
+						"indices": [
+							29,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SJSUiSchool",
+						"name": "SJSU iSchool",
+						"id": 16393822,
+						"id_str": "16393822",
+						"indices": [
+							117,
+							129
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HMJrNv0u5r",
+						"expanded_url": "http://ow.ly/Hl0N30pZU99",
+						"display_url": "ow.ly/Hl0N30pZU99",
+						"indices": [
+							93,
+							116
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1203422808220610600,
+						"id_str": "1203422808220610560",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/ELNqqwaXsAA8qGm.png",
+						"media_url_https": "https://pbs.twimg.com/media/ELNqqwaXsAA8qGm.png",
+						"url": "https://t.co/FjuKFHU289",
+						"display_url": "pic.twitter.com/FjuKFHU289",
+						"expanded_url": "https://twitter.com/infodocket/status/1203422809759854592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 268,
+								"h": 354,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 268,
+								"h": 354,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 268,
+								"h": 354,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1203422808220610600,
+						"id_str": "1203422808220610560",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/ELNqqwaXsAA8qGm.png",
+						"media_url_https": "https://pbs.twimg.com/media/ELNqqwaXsAA8qGm.png",
+						"url": "https://t.co/FjuKFHU289",
+						"display_url": "pic.twitter.com/FjuKFHU289",
+						"expanded_url": "https://twitter.com/infodocket/status/1203422809759854592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 268,
+								"h": 354,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 268,
+								"h": 354,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 268,
+								"h": 354,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 252735965,
+				"id_str": "252735965",
+				"name": "LJ's infoDOCKET",
+				"screen_name": "infodocket",
+				"location": "",
+				"description": "Shirl Kennedy and Gary Price are now blogging at: http://t.co/V4SkdecdeK & http://t.co/D9vrwV9XYi",
+				"url": "http://t.co/3gr2XTEAIX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3gr2XTEAIX",
+								"expanded_url": "http://infodocket.com",
+								"display_url": "infodocket.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/V4SkdecdeK",
+								"expanded_url": "http://fulltextreports.com",
+								"display_url": "fulltextreports.com",
+								"indices": [
+									50,
+									72
+								]
+							},
+							{
+								"url": "http://t.co/D9vrwV9XYi",
+								"expanded_url": "http://INFOdocket.com",
+								"display_url": "INFOdocket.com",
+								"indices": [
+									75,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5600,
+				"friends_count": 190,
+				"listed_count": 571,
+				"created_at": "Tue Feb 15 20:10:49 +0000 2011",
+				"favourites_count": 104,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28338,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "250B26",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2109567933/Library_Journal_INFOdocket_logo2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2109567933/Library_Journal_INFOdocket_logo2_normal.jpeg",
+				"profile_link_color": "57676E",
+				"profile_sidebar_border_color": "75E9CF",
+				"profile_sidebar_fill_color": "78B0A8",
+				"profile_text_color": "3A3140",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "interesting literature review https://t.co/QLtxB4LbHa"
+	},
+	{
+		"created_at": "Sat Dec 07 22:10:46 +0000 2019",
+		"id": 1203436715622322200,
+		"id_str": "1203436715622322176",
+		"full_text": "Holiday cookies for all: Name an ingredient and get the perfect recipe for you https://t.co/GfOHWxhpap via @washingtonpost this is so much fun to look at",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						107,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GfOHWxhpap",
+					"expanded_url": "https://wapo.st/holidaycookies?tid=ss_tw",
+					"display_url": "wapo.st/holidaycookies…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2521,
+			"friends_count": 807,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Holiday cookies for all: Name an ingredient and get the perfect recipe for you https://t.co/GfOHWxhpap via @washingtonpost this is so much fun to look at"
+	},
+	{
 		"created_at": "Sat Dec 07 02:08:43 +0000 2019",
 		"id": 1202780162917449700,
 		"id_str": "1203134208832442368",
