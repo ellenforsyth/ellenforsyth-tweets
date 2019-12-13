@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 10:03:09 +0000 2019",
+		"id": 1205065545193644000,
+		"id_str": "1205065545193644032",
+		"full_text": "This is wonderful https://t.co/uCoMRArYIS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uCoMRArYIS",
+					"expanded_url": "https://twitter.com/unhcruk/status/1204821516006887428",
+					"display_url": "twitter.com/unhcruk/status…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2520,
+			"friends_count": 807,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1204821516006887400,
+		"quoted_status_id_str": "1204821516006887428",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uCoMRArYIS",
+			"expanded": "https://twitter.com/unhcruk/status/1204821516006887428",
+			"display": "twitter.com/unhcruk/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 11 17:53:28 +0000 2019",
+			"id": 1204821516006887400,
+			"id_str": "1204821516006887428",
+			"full_text": "From “the sound of a cat’s purr” 🐈\n\nto “Grandma’s kitchen in foggy St Petersburg” 🍽️\n\nand “pots of steaming tea so strong the spoon stands up” ☕️\n\n@neilhimself asked you what reminded you of warmth. And your tweets have formed his new story: https://t.co/mA8Louwj85",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "neilhimself",
+						"name": "Neil Gaiman",
+						"id": 18393773,
+						"id_str": "18393773",
+						"indices": [
+							147,
+							159
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mA8Louwj85",
+						"expanded_url": "https://trib.al/ZKTuOiT",
+						"display_url": "trib.al/ZKTuOiT",
+						"indices": [
+							242,
+							265
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35749197,
+				"id_str": "35749197",
+				"name": "UNHCR United Kingdom",
+				"screen_name": "UNHCRUK",
+				"location": "London, United Kingdom",
+				"description": "UN Refugee Agency in the UK - Regularly tweeting on refugee protection, asylum and immigration issues. Follow us at https://t.co/zFdpD601ll #WithRefugees",
+				"url": "https://t.co/HGPF4sYDHB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HGPF4sYDHB",
+								"expanded_url": "http://www.unhcr.org/uk",
+								"display_url": "unhcr.org/uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zFdpD601ll",
+								"expanded_url": "http://www.facebook.com/UNHCR",
+								"display_url": "facebook.com/UNHCR",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 58072,
+				"friends_count": 3063,
+				"listed_count": 1096,
+				"created_at": "Mon Apr 27 14:08:02 +0000 2009",
+				"favourites_count": 7634,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33748,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CC564E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876744859259998208/G3iQjL8a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876744859259998208/G3iQjL8a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35749197/1560930400",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EAF209",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 102,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is wonderful https://t.co/uCoMRArYIS"
+	},
+	{
 		"created_at": "Wed Dec 11 19:19:50 +0000 2019",
 		"id": 1204843250806182000,
 		"id_str": "1204843250806181889",
