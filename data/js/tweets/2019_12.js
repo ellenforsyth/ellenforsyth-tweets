@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 21:47:22 +0000 2019",
+		"id": 1205595627117260800,
+		"id_str": "1205605155749552129",
+		"full_text": "Más #BibliotecasPublicas con esta visión: Roskilde Library, Denmark\n\"Or just sit and be in our community without anyone demanding you to take money out of your pocket to stay seated\"\nAmbitious libraries are an investment in stronger communities\nhttps://t.co/or11Py76Qp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BibliotecasPublicas",
+					"indices": [
+						4,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/or11Py76Qp",
+					"expanded_url": "https://christianlauersen.net/2019/12/13/ambitious-libraries-are-an-investment-in-stronger-communities/",
+					"display_url": "christianlauersen.net/2019/12/13/amb…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19607259,
+			"id_str": "19607259",
+			"name": "El Martini",
+			"screen_name": "mtenaespinoza",
+			"location": "México",
+			"description": "Librarian Riot 🤓  | Disruptive Professor 👨🏾‍💻 | Nonconformist Citizen 💣| Zapatista 🇲🇽",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 709,
+			"friends_count": 2130,
+			"listed_count": 38,
+			"created_at": "Tue Jan 27 18:38:03 +0000 2009",
+			"favourites_count": 12580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848655230594154498/3lvtV-7j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848655230594154498/3lvtV-7j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19607259/1410150196",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Más #BibliotecasPublicas con esta visión: Roskilde Library, Denmark\n\"Or just sit and be in our community without anyone demanding you to take money out of your pocket to stay seated\"\nAmbitious libraries are an investment in stronger communities\nhttps://t.co/or11Py76Qp"
+	},
+	{
+		"created_at": "Fri Dec 13 21:19:30 +0000 2019",
+		"id": 1199445089963004000,
+		"id_str": "1205598142005071872",
+		"full_text": "Hey map lovers, we're back! We've launched a new website with some of our favorite stories about maps, with more on the way soon. Check it out at mapdragons dot com: https://t.co/AIsCaHFumy Hope to see you there!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AIsCaHFumy",
+					"expanded_url": "http://bit.ly/mapdragons",
+					"display_url": "bit.ly/mapdragons",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1494655406,
+			"id_str": "1494655406",
+			"name": "Map Dragons",
+			"screen_name": "mapdragons",
+			"location": "",
+			"description": "Two journalists who love maps and the stories behind them. We wrote the @NatGeo book All Over the Map and co-author the cartography website https://t.co/7J1v3bly2v",
+			"url": "https://t.co/7J1v3bly2v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7J1v3bly2v",
+							"expanded_url": "http://MapDragons.com",
+							"display_url": "MapDragons.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7J1v3bly2v",
+							"expanded_url": "http://MapDragons.com",
+							"display_url": "MapDragons.com",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15282,
+			"friends_count": 564,
+			"listed_count": 558,
+			"created_at": "Sun Jun 09 04:43:14 +0000 2013",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052549210220969985/yl0QCWJ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052549210220969985/yl0QCWJ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1494655406/1542424793",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey map lovers, we're back! We've launched a new website with some of our favorite stories about maps, with more on the way soon. Check it out at mapdragons dot com: https://t.co/AIsCaHFumy Hope to see you there!"
+	},
+	{
+		"created_at": "Fri Dec 13 21:09:55 +0000 2019",
+		"id": 1205595730284400600,
+		"id_str": "1205595730284400640",
+		"full_text": "Why a jacket from a fictional gang is in the national museum https://t.co/4hmLabJZz7 via @te_papa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Te_Papa",
+					"name": "Te Papa",
+					"id": 29090322,
+					"id_str": "29090322",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4hmLabJZz7",
+					"expanded_url": "https://blog.tepapa.govt.nz/2019/12/12/why-a-jacket-from-a-fictional-gang-is-in-the-national-museum/",
+					"display_url": "blog.tepapa.govt.nz/2019/12/12/why…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2521,
+			"friends_count": 809,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why a jacket from a fictional gang is in the national museum https://t.co/4hmLabJZz7 via @te_papa"
+	},
+	{
 		"created_at": "Thu Dec 12 10:03:09 +0000 2019",
 		"id": 1205065545193644000,
 		"id_str": "1205065545193644032",
