@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 17 22:33:37 +0000 2019",
+		"id": 1206691536978792400,
+		"id_str": "1207066345847701504",
+		"full_text": "I can't recall where I read this advice, but it is worth sharing. Instead of constantly apologizing (esp. in work emails, i.e. \"Sorry for the delay!\" \"Sorry, been meaning to follow-up\") try thanking (\"Thank you for the reminder! Here's what I'm thinking...\").",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159067225,
+			"id_str": "159067225",
+			"name": "Kiera Parrott",
+			"screen_name": "libraryvoice",
+			"location": "New York, USA",
+			"description": "Reviews Director for Library Journal & School Library Journal. MLIS. Huffledor(Griffinpuff?). Opinions are my own. She/her. #spoonie",
+			"url": "https://t.co/Kv7MI1PzK5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kv7MI1PzK5",
+							"expanded_url": "http://libraryjournal.com",
+							"display_url": "libraryjournal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5877,
+			"friends_count": 5914,
+			"listed_count": 225,
+			"created_at": "Thu Jun 24 10:47:08 +0000 2010",
+			"favourites_count": 10919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190409447501373442/HzIjmPNH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190409447501373442/HzIjmPNH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159067225/1572649754",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I can't recall where I read this advice, but it is worth sharing. Instead of constantly apologizing (esp. in work emails, i.e. \"Sorry for the delay!\" \"Sorry, been meaning to follow-up\") try thanking (\"Thank you for the reminder! Here's what I'm thinking...\")."
+	},
+	{
+		"created_at": "Tue Dec 17 22:32:37 +0000 2019",
+		"id": 1207012434466218000,
+		"id_str": "1207066091765166080",
+		"full_text": "This! https://t.co/s9kRkW68vs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s9kRkW68vs",
+					"expanded_url": "https://twitter.com/kidsilkhaze/status/1207011190267764736",
+					"display_url": "twitter.com/kidsilkhaze/st…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2604,
+			"friends_count": 1864,
+			"listed_count": 138,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 18755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1207011190267764700,
+		"quoted_status_id_str": "1207011190267764736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/s9kRkW68vs",
+			"expanded": "https://twitter.com/kidsilkhaze/status/1207011190267764736",
+			"display": "twitter.com/kidsilkhaze/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 17 18:54:27 +0000 2019",
+			"id": 1207011190267764700,
+			"id_str": "1207011190267764736",
+			"full_text": "Just a reminder--age ranges, genres, and formats are all different things.\n\nYou wouldn't say \"adult\" is your favorite genre, so why do people say it for YA?\n\nYou wouldn't say \"words on paper\" is your favorite genre, so why say it for comics or audio?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15248541,
+				"id_str": "15248541",
+				"name": "Jennifer Anne just wants a Gingerbread Latte",
+				"screen_name": "kidsilkhaze",
+				"location": "DC Metro",
+				"description": "I like coffee, books, and yarn. My views are mine, but RT =/= endorsement",
+				"url": "https://t.co/YPEQ87C3TH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YPEQ87C3TH",
+								"expanded_url": "http://www.jenrothschild.com",
+								"display_url": "jenrothschild.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2605,
+				"friends_count": 1321,
+				"listed_count": 137,
+				"created_at": "Thu Jun 26 21:36:18 +0000 2008",
+				"favourites_count": 16582,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 47582,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1CA2AB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/738395912456798208/pf0j45zw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/738395912456798208/pf0j45zw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15248541/1399937662",
+				"profile_link_color": "9190B8",
+				"profile_sidebar_border_color": "EA5A6A",
+				"profile_sidebar_fill_color": "E6DFBE",
+				"profile_text_color": "24030A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This! https://t.co/s9kRkW68vs"
+	},
+	{
+		"created_at": "Tue Dec 17 21:19:34 +0000 2019",
+		"id": 1206893332657393700,
+		"id_str": "1207047709376438272",
+		"full_text": "At 10pm, there are 103 bush and grass fires burning across NSW, 56 not yet contained. Tomorrow will see widespread Very High fire danger and a Statewide Total Fire Ban. Have you discussed your bush fire survival plan? When will you go, what will you take and where will you go? https://t.co/Julrx92bQa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1206893144186347500,
+					"id_str": "1206893144186347520",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EL--65UU4AAlDqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL--65UU4AAlDqw.jpg",
+					"url": "https://t.co/Julrx92bQa",
+					"display_url": "pic.twitter.com/Julrx92bQa",
+					"expanded_url": "https://twitter.com/NSWRFS/status/1206893332657393664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206893144186347500,
+					"id_str": "1206893144186347520",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EL--65UU4AAlDqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL--65UU4AAlDqw.jpg",
+					"url": "https://t.co/Julrx92bQa",
+					"display_url": "pic.twitter.com/Julrx92bQa",
+					"expanded_url": "https://twitter.com/NSWRFS/status/1206893332657393664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10926872,
+			"id_str": "10926872",
+			"name": "NSW RFS",
+			"screen_name": "NSWRFS",
+			"location": "New South Wales, Australia",
+			"description": "The NSW Rural Fire Service, the world's largest fire service. Our 74,000 volunteer members provide emergency services to more than 95 percent of NSW.",
+			"url": "http://t.co/SaNLjGE6OI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SaNLjGE6OI",
+							"expanded_url": "http://www.rfs.nsw.gov.au",
+							"display_url": "rfs.nsw.gov.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138074,
+			"friends_count": 93,
+			"listed_count": 1202,
+			"created_at": "Fri Dec 07 04:57:55 +0000 2007",
+			"favourites_count": 1740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150678663265832960/ujqrCyuu_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150678663265832960/ujqrCyuu_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10926872/1539499669",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At 10pm, there are 103 bush and grass fires burning across NSW, 56 not yet contained. Tomorrow will see widespread Very High fire danger and a Statewide Total Fire Ban. Have you discussed your bush fire survival plan? When will you go, what will you take and where will you go? https://t.co/Julrx92bQa"
+	},
+	{
+		"created_at": "Tue Dec 17 19:22:39 +0000 2019",
+		"id": 1207018288166736000,
+		"id_str": "1207018288166735872",
+		"full_text": "New Zealand’s most popular spiders of the decade – surfing the spiderverse https://t.co/TbVGyOacm1 via @te_papa this is a lovely look at spiders, based on search popularity",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Te_Papa",
+					"name": "Te Papa",
+					"id": 29090322,
+					"id_str": "29090322",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TbVGyOacm1",
+					"expanded_url": "https://blog.tepapa.govt.nz/2019/12/17/new-zealands-most-popular-spiders-of-the-decade-surfing-the-spiderverse/",
+					"display_url": "blog.tepapa.govt.nz/2019/12/17/new…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2520,
+			"friends_count": 811,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Zealand’s most popular spiders of the decade – surfing the spiderverse https://t.co/TbVGyOacm1 via @te_papa this is a lovely look at spiders, based on search popularity"
+	},
+	{
 		"created_at": "Mon Dec 16 21:39:32 +0000 2019",
 		"id": 1206690345234227200,
 		"id_str": "1206690345234227201",
