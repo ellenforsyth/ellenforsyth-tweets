@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 19 06:17:34 +0000 2019",
+		"id": 1207534283327516700,
+		"id_str": "1207545489584869376",
+		"full_text": "#BREAKING: Australia’s record for hottest ever day has tumbled for the second day running. @BOM_au confirmed maximum temperatures reached an average of 41.9C on Wednesday, breaking the 40.9C record set just a day earlier https://t.co/HnR5WXq1so\n\n#AustraliaFires #AustraliaBurns https://t.co/55yzSWpIvY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BREAKING",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "AustraliaFires",
+					"indices": [
+						246,
+						261
+					]
+				},
+				{
+					"text": "AustraliaBurns",
+					"indices": [
+						262,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BOM_au",
+					"name": "Bureau of Meteorology, Australia",
+					"id": 188545143,
+					"id_str": "188545143",
+					"indices": [
+						91,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HnR5WXq1so",
+					"expanded_url": "https://www.theguardian.com/australia-news/live/2019/dec/19/nsw-and-qld-fires-australia-braces-for-extreme-bushfires-danger-amid-sweltering-heatwave-live?page=with:block-5dfb06a58f08c3972263d188#block-5dfb06a58f08c3972263d188",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207534280441766000,
+					"id_str": "1207534280441765889",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EMIGB7_WoAEezCf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EMIGB7_WoAEezCf.png",
+					"url": "https://t.co/55yzSWpIvY",
+					"display_url": "pic.twitter.com/55yzSWpIvY",
+					"expanded_url": "https://twitter.com/GuardianAus/status/1207534283327516673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 614,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 614,
+							"h": 569,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 614,
+							"h": 569,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 216,
+									"y": 290,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 216,
+									"y": 290,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 216,
+									"y": 290,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 216,
+									"y": 290,
+									"h": 68,
+									"w": 68
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207534280441766000,
+					"id_str": "1207534280441765889",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EMIGB7_WoAEezCf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EMIGB7_WoAEezCf.png",
+					"url": "https://t.co/55yzSWpIvY",
+					"display_url": "pic.twitter.com/55yzSWpIvY",
+					"expanded_url": "https://twitter.com/GuardianAus/status/1207534283327516673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 614,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 614,
+							"h": 569,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 614,
+							"h": 569,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 216,
+									"y": 290,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 216,
+									"y": 290,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 216,
+									"y": 290,
+									"h": 68,
+									"w": 68
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 216,
+									"y": 290,
+									"h": 68,
+									"w": 68
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092378031,
+			"id_str": "1092378031",
+			"name": "Guardian Australia",
+			"screen_name": "GuardianAus",
+			"location": "Australia",
+			"description": "Latest news from Guardian Australia",
+			"url": "https://t.co/yhI6Vqsr3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhI6Vqsr3q",
+							"expanded_url": "https://support.theguardian.com/au/contribute",
+							"display_url": "support.theguardian.com/au/contribute",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 209480,
+			"friends_count": 156,
+			"listed_count": 2408,
+			"created_at": "Tue Jan 15 15:16:44 +0000 2013",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 207293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2AFA9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175902409534476288/iQwEZavm_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175902409534476288/iQwEZavm_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092378031/1569228481",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BREAKING: Australia’s record for hottest ever day has tumbled for the second day running. @BOM_au confirmed maximum temperatures reached an average of 41.9C on Wednesday, breaking the 40.9C record set just a day earlier https://t.co/HnR5WXq1so\n\n#AustraliaFires #AustraliaBurns https://t.co/55yzSWpIvY"
+	},
+	{
 		"created_at": "Tue Dec 17 22:33:37 +0000 2019",
 		"id": 1206691536978792400,
 		"id_str": "1207066345847701504",
