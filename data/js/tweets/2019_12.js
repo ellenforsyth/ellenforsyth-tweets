@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 19 19:27:13 +0000 2019",
+		"id": 1207610806738804700,
+		"id_str": "1207744211170152448",
+		"full_text": "\"It’s like 'Ready Steady Cook’ with music.\" 🌶️🥦🍅\n\nIn today's blog, @AWATEMUSIC talks chopping up samples, producing fresh takes on a 1908 music hall classic, and making a racket in the foyer of one of the most famous national libraries in the world.\n\nhttps://t.co/xgBkbsYERF https://t.co/BqO1p4ZCQY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AWATEMUSIC",
+					"name": "AWATE",
+					"id": 18961118,
+					"id_str": "18961118",
+					"indices": [
+						67,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xgBkbsYERF",
+					"expanded_url": "https://blogs.bl.uk/sound-and-vision/2019/12/awate-finding-gems-and-sharing-them.html",
+					"display_url": "blogs.bl.uk/sound-and-visi…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207610798715134000,
+					"id_str": "1207610798715133952",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EMJLn4xXYAAyWmo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMJLn4xXYAAyWmo.jpg",
+					"url": "https://t.co/BqO1p4ZCQY",
+					"display_url": "pic.twitter.com/BqO1p4ZCQY",
+					"expanded_url": "https://twitter.com/BLSoundHeritage/status/1207610806738804736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "18698233",
+									"screen_name": "thelastskeptik",
+									"name": "The Last Skeptik"
+								},
+								{
+									"type": "user",
+									"user_id": "158082691",
+									"screen_name": "KidWondR",
+									"name": "🦸🏿‍♀️WondRWomN"
+								},
+								{
+									"type": "user",
+									"user_id": "21744554",
+									"screen_name": "britishlibrary",
+									"name": "The British Library"
+								},
+								{
+									"type": "user",
+									"user_id": "1181989315",
+									"screen_name": "BL_Learning",
+									"name": "British Library Learning"
+								},
+								{
+									"type": "user",
+									"user_id": "22028935",
+									"screen_name": "soundarchive",
+									"name": "Sound Archive"
+								},
+								{
+									"type": "user",
+									"user_id": "269268552",
+									"screen_name": "BL_WorldTrad",
+									"name": "BL World&Trad Music"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207610798715134000,
+					"id_str": "1207610798715133952",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EMJLn4xXYAAyWmo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMJLn4xXYAAyWmo.jpg",
+					"url": "https://t.co/BqO1p4ZCQY",
+					"display_url": "pic.twitter.com/BqO1p4ZCQY",
+					"expanded_url": "https://twitter.com/BLSoundHeritage/status/1207610806738804736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "18698233",
+									"screen_name": "thelastskeptik",
+									"name": "The Last Skeptik"
+								},
+								{
+									"type": "user",
+									"user_id": "158082691",
+									"screen_name": "KidWondR",
+									"name": "🦸🏿‍♀️WondRWomN"
+								},
+								{
+									"type": "user",
+									"user_id": "21744554",
+									"screen_name": "britishlibrary",
+									"name": "The British Library"
+								},
+								{
+									"type": "user",
+									"user_id": "1181989315",
+									"screen_name": "BL_Learning",
+									"name": "British Library Learning"
+								},
+								{
+									"type": "user",
+									"user_id": "22028935",
+									"screen_name": "soundarchive",
+									"name": "Sound Archive"
+								},
+								{
+									"type": "user",
+									"user_id": "269268552",
+									"screen_name": "BL_WorldTrad",
+									"name": "BL World&Trad Music"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2828116855,
+			"id_str": "2828116855",
+			"name": "BL Sound Heritage",
+			"screen_name": "BLSoundHeritage",
+			"location": "British Library, London",
+			"description": "Sharing sounds and keeping them safe for generations to come #SaveOurSounds Tweets by the Unlocking Our Sound Heritage team",
+			"url": "http://t.co/iYnzfTEp8J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iYnzfTEp8J",
+							"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision/",
+							"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3068,
+			"friends_count": 1144,
+			"listed_count": 70,
+			"created_at": "Tue Sep 23 13:44:14 +0000 2014",
+			"favourites_count": 3731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/514433033454096385/nKb7eCRA_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/514433033454096385/nKb7eCRA_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828116855/1556706938",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"It’s like 'Ready Steady Cook’ with music.\" 🌶️🥦🍅\n\nIn today's blog, @AWATEMUSIC talks chopping up samples, producing fresh takes on a 1908 music hall classic, and making a racket in the foyer of one of the most famous national libraries in the world.\n\nhttps://t.co/xgBkbsYERF https://t.co/BqO1p4ZCQY"
+	},
+	{
+		"created_at": "Thu Dec 19 10:44:22 +0000 2019",
+		"id": 1207522303329722400,
+		"id_str": "1207612630644297730",
+		"full_text": "A family-run emu farm in Central West NSW was about to shut off its troughs due to drought until video revealed native animals, including an echidna and six-foot goanna, were relying on it for water. #centralwestnsw #NSWdrought https://t.co/f2TbHiGbMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "centralwestnsw",
+					"indices": [
+						200,
+						215
+					]
+				},
+				{
+					"text": "NSWdrought",
+					"indices": [
+						216,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1207522113420030000,
+					"id_str": "1207522113420029952",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207522113420029952/pu/img/WOstCrqMWn_xvrw2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207522113420029952/pu/img/WOstCrqMWn_xvrw2.jpg",
+					"url": "https://t.co/f2TbHiGbMj",
+					"display_url": "pic.twitter.com/f2TbHiGbMj",
+					"expanded_url": "https://twitter.com/10Daily/status/1207522303329722368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207522113420030000,
+					"id_str": "1207522113420029952",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1207522113420029952/pu/img/WOstCrqMWn_xvrw2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1207522113420029952/pu/img/WOstCrqMWn_xvrw2.jpg",
+					"url": "https://t.co/f2TbHiGbMj",
+					"display_url": "pic.twitter.com/f2TbHiGbMj",
+					"expanded_url": "https://twitter.com/10Daily/status/1207522303329722368/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207522113420029952/pu/vid/320x320/gaQgIpUbBXdcRqUV.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207522113420029952/pu/vid/480x480/pbWdRdaubYEYAkeC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1207522113420029952/pu/pl/I9paaOTmedvZa_4T.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1207522113420029952/pu/vid/720x720/oicoP1YIUhvgNLIK.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 794424389454340100,
+			"id_str": "794424389454340096",
+			"name": "10 daily",
+			"screen_name": "10Daily",
+			"location": "Australia",
+			"description": "10 daily is in a committed relationship with news, with the benefits of sport, weather, opinion, celebrity, TV, tech, lifestyle and everything in between.",
+			"url": "https://t.co/j7FGYd7uP9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j7FGYd7uP9",
+							"expanded_url": "http://10daily.com.au/",
+							"display_url": "10daily.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6743,
+			"friends_count": 1080,
+			"listed_count": 74,
+			"created_at": "Fri Nov 04 06:21:48 +0000 2016",
+			"favourites_count": 2890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057486027588333568/7y_deFUc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057486027588333568/7y_deFUc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/794424389454340096/1540959338",
+			"profile_link_color": "00AB9D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 928,
+		"favorite_count": 2161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A family-run emu farm in Central West NSW was about to shut off its troughs due to drought until video revealed native animals, including an echidna and six-foot goanna, were relying on it for water. #centralwestnsw #NSWdrought https://t.co/f2TbHiGbMj"
+	},
+	{
 		"created_at": "Thu Dec 19 06:17:34 +0000 2019",
 		"id": 1207534283327516700,
 		"id_str": "1207545489584869376",
