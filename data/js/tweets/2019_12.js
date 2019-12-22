@@ -1,6 +1,713 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 22 01:56:30 +0000 2019",
+		"id": 1208467304226406400,
+		"id_str": "1208566953171808257",
+		"full_text": "In Australia's drought towns, angry residents rely on charity, not government, for water https://t.co/EHcOt23aU1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EHcOt23aU1",
+					"expanded_url": "https://www.theguardian.com/environment/2019/dec/22/in-australias-drought-towns-angry-residents-rely-on-charity-not-government-for-water?utm_term=Autofeed&CMP=soc_568&utm_medium=Social&utm_source=Twitter#Echobox=1576956031",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092378031,
+			"id_str": "1092378031",
+			"name": "Guardian Australia",
+			"screen_name": "GuardianAus",
+			"location": "Australia",
+			"description": "Latest news from Guardian Australia",
+			"url": "https://t.co/yhI6Vqsr3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhI6Vqsr3q",
+							"expanded_url": "https://support.theguardian.com/au/contribute",
+							"display_url": "support.theguardian.com/au/contribute",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 210003,
+			"friends_count": 156,
+			"listed_count": 2412,
+			"created_at": "Tue Jan 15 15:16:44 +0000 2013",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 207514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2AFA9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175902409534476288/iQwEZavm_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175902409534476288/iQwEZavm_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092378031/1569228481",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Australia's drought towns, angry residents rely on charity, not government, for water https://t.co/EHcOt23aU1"
+	},
+	{
+		"created_at": "Sat Dec 21 22:07:07 +0000 2019",
+		"id": 1208509229532758000,
+		"id_str": "1208509229532758016",
+		"full_text": "really interesting https://t.co/vwuRaMsn6k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vwuRaMsn6k",
+					"expanded_url": "https://twitter.com/longnow/status/1208094721417129985",
+					"display_url": "twitter.com/longnow/status…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2517,
+			"friends_count": 810,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1208094721417130000,
+		"quoted_status_id_str": "1208094721417129985",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vwuRaMsn6k",
+			"expanded": "https://twitter.com/longnow/status/1208094721417129985",
+			"display": "twitter.com/longnow/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 20 18:40:01 +0000 2019",
+			"id": 1208094721417130000,
+			"id_str": "1208094721417129985",
+			"full_text": "Researchers are using AI to search through satellite and drone images to discover ancient petroglyphs. It’s working better than anyone expected. https://t.co/ZdtLUVnvd1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZdtLUVnvd1",
+						"expanded_url": "https://medium.com/the-long-now-foundation/ai-unearths-new-nazca-line-in-the-shape-of-a-humanoid-figure-5bff671627e",
+						"display_url": "medium.com/the-long-now-f…",
+						"indices": [
+							145,
+							168
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15300187,
+				"id_str": "15300187",
+				"name": "The Long Now Foundation",
+				"screen_name": "longnow",
+				"location": "San Francisco, CA",
+				"description": "Fostering long-term thinking and responsibility through diverse projects aiming to inspire, educate, and challenge our concepts of the future.",
+				"url": "https://t.co/UCWhkooXtq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UCWhkooXtq",
+								"expanded_url": "https://longnow.org",
+								"display_url": "longnow.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34480,
+				"friends_count": 4997,
+				"listed_count": 1627,
+				"created_at": "Wed Jul 02 18:05:32 +0000 2008",
+				"favourites_count": 16969,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8487,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8D876F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/451544280419422208/GlXsS-N9_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/451544280419422208/GlXsS-N9_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15300187/1396491989",
+				"profile_link_color": "1264A3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAE9BB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "really interesting https://t.co/vwuRaMsn6k"
+	},
+	{
+		"created_at": "Sat Dec 21 20:52:30 +0000 2019",
+		"id": 1208490447707881500,
+		"id_str": "1208490447707881472",
+		"full_text": "this is brilliant https://t.co/CBQkRRemCP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CBQkRRemCP",
+					"expanded_url": "https://twitter.com/TavolaMed/status/1207863737606000642",
+					"display_url": "twitter.com/TavolaMed/stat…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2517,
+			"friends_count": 810,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1207863737606000600,
+		"quoted_status_id_str": "1207863737606000642",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CBQkRRemCP",
+			"expanded": "https://twitter.com/TavolaMed/status/1207863737606000642",
+			"display": "twitter.com/TavolaMed/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 20 03:22:10 +0000 2019",
+			"id": 1207863737606000600,
+			"id_str": "1207863737606000642",
+			"full_text": "Attention Babylonian Bakers! The latest Cuneiform Rolling Pin is in and it’s gorgeous! 😮 This pin creates the correct glyph impression on the dough surface, not an embossed glyph. Huzzah! https://t.co/SFXotlrRtj #baking #christmas #archeology #cuneiform https://t.co/KpAuTU31Aq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "baking",
+						"indices": [
+							212,
+							219
+						]
+					},
+					{
+						"text": "christmas",
+						"indices": [
+							220,
+							230
+						]
+					},
+					{
+						"text": "archeology",
+						"indices": [
+							231,
+							242
+						]
+					},
+					{
+						"text": "cuneiform",
+						"indices": [
+							243,
+							253
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SFXotlrRtj",
+						"expanded_url": "https://bit.ly/2MeiUC8",
+						"display_url": "bit.ly/2MeiUC8",
+						"indices": [
+							188,
+							211
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1207863728806383600,
+						"id_str": "1207863728806383616",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/EMMxqWyVUAArtyV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMMxqWyVUAArtyV.jpg",
+						"url": "https://t.co/KpAuTU31Aq",
+						"display_url": "pic.twitter.com/KpAuTU31Aq",
+						"expanded_url": "https://twitter.com/TavolaMed/status/1207863737606000642/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "532435317",
+										"screen_name": "TavolaMed",
+										"name": "Tavola Mediterranea (Farrell Monaco)"
+									}
+								]
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1207863728806383600,
+						"id_str": "1207863728806383616",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/EMMxqWyVUAArtyV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMMxqWyVUAArtyV.jpg",
+						"url": "https://t.co/KpAuTU31Aq",
+						"display_url": "pic.twitter.com/KpAuTU31Aq",
+						"expanded_url": "https://twitter.com/TavolaMed/status/1207863737606000642/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "532435317",
+										"screen_name": "TavolaMed",
+										"name": "Tavola Mediterranea (Farrell Monaco)"
+									}
+								]
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 532435317,
+				"id_str": "532435317",
+				"name": "Tavola Mediterranea (Farrell Monaco)",
+				"screen_name": "TavolaMed",
+				"location": "California, USA",
+				"description": "Award-Winning Archaeologist, Baker, Food In-Taker. 2019 Winner of Best Special Interest Food Blog by Saveur Magazine. #EdibleArchaeology #TheOldSchoolKitchen",
+				"url": "https://t.co/xBxuJoBAGQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xBxuJoBAGQ",
+								"expanded_url": "http://www.tavolamediterranea.com",
+								"display_url": "tavolamediterranea.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1102,
+				"friends_count": 1102,
+				"listed_count": 30,
+				"created_at": "Wed Mar 21 16:17:24 +0000 2012",
+				"favourites_count": 1697,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1818,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1199326543224463360/GOTthKV-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199326543224463360/GOTthKV-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/532435317/1573954869",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is brilliant https://t.co/CBQkRRemCP"
+	},
+	{
 		"created_at": "Fri Dec 20 18:39:32 +0000 2019",
 		"id": 1208094600692256800,
 		"id_str": "1208094600692256768",
