@@ -1,6 +1,127 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 22 18:24:55 +0000 2019",
+		"id": 1208470028237979600,
+		"id_str": "1208815696676655105",
+		"full_text": "The wonderful writer &amp; actor @LeahPurcell15 chats to me about reinventing Lawson's `The Drover's Wife': 'I borrowed and stole from each' #Indigenous #history https://t.co/7uxWzkzTaa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Indigenous",
+					"indices": [
+						141,
+						152
+					]
+				},
+				{
+					"text": "history",
+					"indices": [
+						153,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeahPurcell15",
+					"name": "Leah Purcell",
+					"id": 745965329340207100,
+					"id_str": "745965329340207105",
+					"indices": [
+						33,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7uxWzkzTaa",
+					"expanded_url": "https://www.theguardian.com/books/2019/dec/22/leah-purcell-on-reinventing-the-drovers-wife-three-times-i-borrowed-and-stole-from-each?CMP=share_btn_tw",
+					"display_url": "theguardian.com/books/2019/dec…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59950274,
+			"id_str": "59950274",
+			"name": "Paul Daley",
+			"screen_name": "PPDaley",
+			"location": "Sydney",
+			"description": "Author & journalist: books; essays; short stories; #Postcolonial column & features for @GuardianAus. #Walkleys x 2. Dogs & kids. #sidebyside",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3855,
+			"friends_count": 1732,
+			"listed_count": 87,
+			"created_at": "Sat Jul 25 02:02:10 +0000 2009",
+			"favourites_count": 5270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3415493850/2b6db019d648e508fb1d5b5345d32edb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3415493850/2b6db019d648e508fb1d5b5345d32edb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59950274/1532925508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The wonderful writer &amp; actor @LeahPurcell15 chats to me about reinventing Lawson's `The Drover's Wife': 'I borrowed and stole from each' #Indigenous #history https://t.co/7uxWzkzTaa"
+	},
+	{
 		"created_at": "Sun Dec 22 01:56:30 +0000 2019",
 		"id": 1208467304226406400,
 		"id_str": "1208566953171808257",
