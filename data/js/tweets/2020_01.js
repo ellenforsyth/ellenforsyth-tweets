@@ -1,6 +1,697 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 04 05:10:46 +0000 2020",
+		"id": 1213214860693033000,
+		"id_str": "1213326882755629056",
+		"full_text": "“The true mortality is likely to be substantially higher than those estimated” \nA statement about the 480 million animals killed in NSW bushfires since September - Comment by Professor Chris Dickman @Sydney_Uni https://t.co/t64qXjvdaB https://t.co/RoXvj5iRwI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sydney_Uni",
+					"name": "University of Sydney",
+					"id": 20104025,
+					"id_str": "20104025",
+					"indices": [
+						199,
+						210
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t64qXjvdaB",
+					"expanded_url": "https://sydney.edu.au/news-opinion/news/2020/01/03/a-statement-about-the-480-million-animals-killed-in-nsw-bushfire.html",
+					"display_url": "sydney.edu.au/news-opinion/n…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213214852639887400,
+					"id_str": "1213214852639887360",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/ENY0ewfUEAAn7QK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENY0ewfUEAAn7QK.jpg",
+					"url": "https://t.co/RoXvj5iRwI",
+					"display_url": "pic.twitter.com/RoXvj5iRwI",
+					"expanded_url": "https://twitter.com/OutbackEco/status/1213214860693032960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 532,
+							"h": 399,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 532,
+							"h": 399,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 532,
+							"h": 399,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213214852639887400,
+					"id_str": "1213214852639887360",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/ENY0ewfUEAAn7QK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENY0ewfUEAAn7QK.jpg",
+					"url": "https://t.co/RoXvj5iRwI",
+					"display_url": "pic.twitter.com/RoXvj5iRwI",
+					"expanded_url": "https://twitter.com/OutbackEco/status/1213214860693032960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 532,
+							"h": 399,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 532,
+							"h": 399,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 532,
+							"h": 399,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 810000032971661300,
+			"id_str": "810000032971661312",
+			"name": "Outback.eco",
+			"screen_name": "OutbackEco",
+			"location": "Australia",
+			"description": "@OutbackEco = Australian ecology. Curated by @RichardMcLellan Sharing research, articles, etc. from Oz ecologists. #WildOz #ecology",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4450,
+			"friends_count": 3241,
+			"listed_count": 113,
+			"created_at": "Sat Dec 17 05:53:51 +0000 2016",
+			"favourites_count": 11188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810001859628843008/hPM63U15_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810001859628843008/hPM63U15_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/810000032971661312/1484527716",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“The true mortality is likely to be substantially higher than those estimated” \nA statement about the 480 million animals killed in NSW bushfires since September - Comment by Professor Chris Dickman @Sydney_Uni https://t.co/t64qXjvdaB https://t.co/RoXvj5iRwI"
+	},
+	{
+		"created_at": "Sat Jan 04 02:29:55 +0000 2020",
+		"id": 1213231921838215200,
+		"id_str": "1213286404995698688",
+		"full_text": "By me - 'Silent death': Australia's bushfires push countless species to extinction https://t.co/gW1WpjjHd4 #climate",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "climate",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gW1WpjjHd4",
+					"expanded_url": "https://www.theguardian.com/environment/2020/jan/04/ecologists-warn-silent-death-australia-bushfires-endangered-species-extinction?CMP=share_btn_tw",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17666727,
+			"id_str": "17666727",
+			"name": "Graham Readfearn",
+			"screen_name": "readfearn",
+			"location": "Brisbane, QLD, Australia",
+			"description": "Journo - climate/enviro @GuardianAus https://t.co/W6UBebViSs Burnley fan. Ops mine. DMs open.",
+			"url": "https://t.co/r6m2yHjnMb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6m2yHjnMb",
+							"expanded_url": "http://www.readfearn.com",
+							"display_url": "readfearn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W6UBebViSs",
+							"expanded_url": "https://bit.ly/2pO0NaF",
+							"display_url": "bit.ly/2pO0NaF",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9782,
+			"friends_count": 5429,
+			"listed_count": 494,
+			"created_at": "Thu Nov 27 02:15:38 +0000 2008",
+			"favourites_count": 1241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1B5E1B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1814612620/graham_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1814612620/graham_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17666727/1353040755",
+			"profile_link_color": "0D0101",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "2E0404",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "By me - 'Silent death': Australia's bushfires push countless species to extinction https://t.co/gW1WpjjHd4 #climate"
+	},
+	{
+		"created_at": "Fri Jan 03 20:25:46 +0000 2020",
+		"id": 1213194762443903000,
+		"id_str": "1213194762443902977",
+		"full_text": "Ashes to ashes, dust to ... compost? An eco-friendly burial in just 4 weeks https://t.co/isMMqsHIl0 via @ConversationEDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						104,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/isMMqsHIl0",
+					"expanded_url": "http://theconversation.com/ashes-to-ashes-dust-to-compost-an-eco-friendly-burial-in-just-4-weeks-127794?utm_source=twitter&utm_medium=twitterbutton",
+					"display_url": "theconversation.com/ashes-to-ashes…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2511,
+			"friends_count": 809,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ashes to ashes, dust to ... compost? An eco-friendly burial in just 4 weeks https://t.co/isMMqsHIl0 via @ConversationEDU"
+	},
+	{
+		"created_at": "Fri Jan 03 20:16:16 +0000 2020",
+		"id": 1213192374291071000,
+		"id_str": "1213192374291070976",
+		"full_text": "Moncton library provides tampons, pads to address menstrual insecurity | CBC News https://t.co/OwTXYNfhEi via @bookriot sounds helpful for the community",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BookRiot",
+					"name": "Book Riot",
+					"id": 355321621,
+					"id_str": "355321621",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OwTXYNfhEi",
+					"expanded_url": "https://www.cbc.ca/news/canada/new-brunswick/moncton-public-library-free-tampons-1.5409924?__vfz=medium%3Dsharebar",
+					"display_url": "cbc.ca/news/canada/ne…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2511,
+			"friends_count": 809,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Moncton library provides tampons, pads to address menstrual insecurity | CBC News https://t.co/OwTXYNfhEi via @bookriot sounds helpful for the community"
+	},
+	{
+		"created_at": "Fri Jan 03 20:13:30 +0000 2020",
+		"id": 1212891330868916200,
+		"id_str": "1213191678044934144",
+		"full_text": "From The Hub: 2020 Great Graphic Novels for Teens List Announced https://t.co/s2Er4PQCHw #awardsandselectedlists",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "awardsandselectedlists",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s2Er4PQCHw",
+					"expanded_url": "https://goo.gl/fb/abBUeq",
+					"display_url": "goo.gl/fb/abBUeq",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.google.com/\" rel=\"nofollow\">Google</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5843012,
+			"id_str": "5843012",
+			"name": "YALSA",
+			"screen_name": "yalsa",
+			"location": "Chicago, IL",
+			"description": "Tweets from YALSA staff. For more than 60 years, YALSA has worked to build the capacity of libraries and library staff to engage, serve and empower all teens.",
+			"url": "http://t.co/0Snm8LMxMo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0Snm8LMxMo",
+							"expanded_url": "http://www.ala.org/yalsa",
+							"display_url": "ala.org/yalsa",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48606,
+			"friends_count": 4398,
+			"listed_count": 2017,
+			"created_at": "Mon May 07 20:29:47 +0000 2007",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE8325",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846394342830858240/ebx5Kthf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846394342830858240/ebx5Kthf_normal.jpg",
+			"profile_link_color": "EE8325",
+			"profile_sidebar_border_color": "000066",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000066",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From The Hub: 2020 Great Graphic Novels for Teens List Announced https://t.co/s2Er4PQCHw #awardsandselectedlists"
+	},
+	{
 		"created_at": "Thu Jan 02 07:55:14 +0000 2020",
 		"id": 1212588092336435200,
 		"id_str": "1212643496730845184",
