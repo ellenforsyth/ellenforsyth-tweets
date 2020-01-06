@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 05 07:52:36 +0000 2020",
+		"id": 1213671195465453600,
+		"id_str": "1213730000085516288",
+		"full_text": "A good new year’s read. RT @MikeSoron: In this piece by @doctorow in the @globeandmail, he calls on us to tell better stories about our future: \n\nWe need to “paint a picture of resilience and joyful thriving through and after a just climate transition.” https://t.co/iSo1yPVBGn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikeSoron",
+					"name": "Mike Soron 🔋🚎🇨🇦🏳️‍🌈",
+					"id": 4823511,
+					"id_str": "4823511",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "doctorow",
+					"name": "There is no silence that does not end",
+					"id": 2729061,
+					"id_str": "2729061",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"screen_name": "globeandmail",
+					"name": "The Globe and Mail",
+					"id": 8736882,
+					"id_str": "8736882",
+					"indices": [
+						73,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iSo1yPVBGn",
+					"expanded_url": "https://www.theglobeandmail.com/opinion/article-science-fiction-and-the-unforeseeable-future-in-the-2020s-lets/",
+					"display_url": "theglobeandmail.com/opinion/articl…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87278160,
+			"id_str": "87278160",
+			"name": "Margaret Doyle",
+			"screen_name": "Magsedoyle",
+			"location": "Vancouver",
+			"description": "Writer and digital storyteller helping businesses find and tell their story, Transmedia producer, lover of indie media, grand hotels, random road trips.",
+			"url": "http://t.co/kfHbxr1v40",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/kfHbxr1v40",
+							"expanded_url": "http://whatisyourstory.ca/",
+							"display_url": "whatisyourstory.ca",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2091,
+			"friends_count": 2051,
+			"listed_count": 352,
+			"created_at": "Tue Nov 03 20:45:24 +0000 2009",
+			"favourites_count": 10535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/417742857919688704/0T4BwFoZ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/417742857919688704/0T4BwFoZ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87278160/1351296982",
+			"profile_link_color": "F0A50E",
+			"profile_sidebar_border_color": "0A0001",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "706464",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A good new year’s read. RT @MikeSoron: In this piece by @doctorow in the @globeandmail, he calls on us to tell better stories about our future: \n\nWe need to “paint a picture of resilience and joyful thriving through and after a just climate transition.” https://t.co/iSo1yPVBGn"
+	},
+	{
 		"created_at": "Sun Jan 05 01:38:34 +0000 2020",
 		"id": 1213635870948900900,
 		"id_str": "1213635870948900865",
