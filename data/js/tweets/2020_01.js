@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 20:47:49 +0000 2020",
+		"id": 1214287478711935000,
+		"id_str": "1214287478711934977",
+		"full_text": "lovely to listen to, but make sure you read the blog post as well https://t.co/6FbdQhbYVN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6FbdQhbYVN",
+					"expanded_url": "https://twitter.com/soundarchive/status/1214116854781939713",
+					"display_url": "twitter.com/soundarchive/s…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making/makers, stories, and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2509,
+			"friends_count": 808,
+			"listed_count": 230,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214116854781939700,
+		"quoted_status_id_str": "1214116854781939713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6FbdQhbYVN",
+			"expanded": "https://twitter.com/soundarchive/status/1214116854781939713",
+			"display": "twitter.com/soundarchive/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 06 09:29:50 +0000 2020",
+			"id": 1214116854781939700,
+			"id_str": "1214116854781939713",
+			"full_text": "Recording of the week: why you should listen to the calls of the Common Eider duck - Sound and vision blog https://t.co/MZECoYyWkV @CherylTipp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CherylTipp",
+						"name": "Cheryl Tipp",
+						"id": 360786743,
+						"id_str": "360786743",
+						"indices": [
+							131,
+							142
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MZECoYyWkV",
+						"expanded_url": "https://shar.es/a3ZzTI",
+						"display_url": "shar.es/a3ZzTI",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22028935,
+				"id_str": "22028935",
+				"name": "Sound Archive",
+				"screen_name": "soundarchive",
+				"location": "London, UK",
+				"description": "Sound Archive @BritishLibrary: 7 million recordings of music, voices, environments. Tweets by Richard Ranft. Blog: http://t.co/TuSRYUV7Ns",
+				"url": "http://t.co/QQ7BIbQ40P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QQ7BIbQ40P",
+								"expanded_url": "http://www.bl.uk/soundarchive",
+								"display_url": "bl.uk/soundarchive",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/TuSRYUV7Ns",
+								"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision",
+								"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+								"indices": [
+									115,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18332,
+				"friends_count": 1450,
+				"listed_count": 846,
+				"created_at": "Thu Feb 26 16:36:05 +0000 2009",
+				"favourites_count": 353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5735,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22028935/1535972358",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lovely to listen to, but make sure you read the blog post as well https://t.co/6FbdQhbYVN"
+	},
+	{
 		"created_at": "Sun Jan 05 07:52:36 +0000 2020",
 		"id": 1213671195465453600,
 		"id_str": "1213730000085516288",
@@ -16,7 +259,7 @@ Grailbird.data.tweets_2020_01 =
 			"user_mentions": [
 				{
 					"screen_name": "MikeSoron",
-					"name": "Mike Soron 🔋🚎🇨🇦🏳️‍🌈",
+					"name": "Mike Soron 🔋🚎🇨🇦🏳️🌈",
 					"id": 4823511,
 					"id_str": "4823511",
 					"indices": [
