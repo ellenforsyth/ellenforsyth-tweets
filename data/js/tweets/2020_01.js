@@ -1,6 +1,874 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 04:36:21 +0000 2020",
+		"id": 1214992669539258400,
+		"id_str": "1215130162125135875",
+		"full_text": "It's official, 2019 was Australia’s warmest year on record. Last year was also the country's driest on record, surpassing the previous driest year in 1902.\n\nFind out more in our #AnnualClimateStatement 2019: https://t.co/6r0P63wMc4 @WMO https://t.co/FItBbRLIJZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AnnualClimateStatement",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WMO",
+					"name": "WMO | OMM",
+					"id": 113062227,
+					"id_str": "113062227",
+					"indices": [
+						232,
+						236
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6r0P63wMc4",
+					"expanded_url": "http://ow.ly/DB6e50xPNXg",
+					"display_url": "ow.ly/DB6e50xPNXg",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214751238106992600,
+					"id_str": "1214751238106992640",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/ENuq7H1U4AENVbz.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENuq7H1U4AENVbz.png",
+					"url": "https://t.co/FItBbRLIJZ",
+					"display_url": "pic.twitter.com/FItBbRLIJZ",
+					"expanded_url": "https://twitter.com/BOM_au/status/1214992669539258368/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214751238106992600,
+					"id_str": "1214751238106992640",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/ENuq7H1U4AENVbz.png",
+					"media_url_https": "https://pbs.twimg.com/media/ENuq7H1U4AENVbz.png",
+					"url": "https://t.co/FItBbRLIJZ",
+					"display_url": "pic.twitter.com/FItBbRLIJZ",
+					"expanded_url": "https://twitter.com/BOM_au/status/1214992669539258368/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 209120,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1214751238106992640/vid/640x360/7Vz0-Zs-uOZBN1Xn.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1214751238106992640/pl/afKc3YR7ExRiuwtT.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1214751238106992640/vid/1280x720/i0VP58kdFPnT9emT.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1214751238106992640/vid/480x270/Fh8tmHuMrKtAblwO.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 188545143,
+			"id_str": "188545143",
+			"name": "Bureau of Meteorology, Australia",
+			"screen_name": "BOM_au",
+			"location": "Australia",
+			"description": "Official Bureau of Meteorology account for national weather and Bureau information. Always check https://t.co/RBt18W1ROk for the latest warnings.",
+			"url": "http://t.co/2yfWnpvy0n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2yfWnpvy0n",
+							"expanded_url": "http://www.bom.gov.au",
+							"display_url": "bom.gov.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RBt18W1ROk",
+							"expanded_url": "http://www.bom.gov.au/australia/warnings",
+							"display_url": "bom.gov.au/australia/warn…",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 107799,
+			"friends_count": 213,
+			"listed_count": 852,
+			"created_at": "Thu Sep 09 00:11:06 +0000 2010",
+			"favourites_count": 2502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065841836701306880/DP0HZEeI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065841836701306880/DP0HZEeI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/188545143/1573446884",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 648,
+		"favorite_count": 581,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's official, 2019 was Australia’s warmest year on record. Last year was also the country's driest on record, surpassing the previous driest year in 1902.\n\nFind out more in our #AnnualClimateStatement 2019: https://t.co/6r0P63wMc4 @WMO https://t.co/FItBbRLIJZ"
+	},
+	{
+		"created_at": "Thu Jan 09 00:43:03 +0000 2020",
+		"id": 1213107325747089400,
+		"id_str": "1215071452111572994",
+		"full_text": "During the fall, we organized \"transcribathon\" workshops to engage the community in developing the #BarbadosRunaways collection. \n\nI wrote about these workshops for the @bl_eap blog. #crowdsourcing #slaveryarchive\n\nhttps://t.co/Wv2f376ht0?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BarbadosRunaways",
+					"indices": [
+						99,
+						116
+					]
+				},
+				{
+					"text": "crowdsourcing",
+					"indices": [
+						183,
+						197
+					]
+				},
+				{
+					"text": "slaveryarchive",
+					"indices": [
+						198,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bl_eap",
+					"name": "Endangered Archives",
+					"id": 761182446,
+					"id_str": "761182446",
+					"indices": [
+						169,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wv2f376ht0",
+					"expanded_url": "https://blogs.bl.uk/endangeredarchives/2020/01/beyond-digitisation-the-barbados-mercury.html",
+					"display_url": "blogs.bl.uk/endangeredarch…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33383694,
+			"id_str": "33383694",
+			"name": "Amalia Skarlatou Levi",
+			"screen_name": "amaliasl",
+			"location": "All over the place",
+			"description": "Archivist. #archives + #data; #digitization; #heritage; #GlobalDH; Jewish history.",
+			"url": "https://t.co/D3EluG73za",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D3EluG73za",
+							"expanded_url": "http://heritedge.foundation",
+							"display_url": "heritedge.foundation",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1311,
+			"friends_count": 1587,
+			"listed_count": 40,
+			"created_at": "Mon Apr 20 02:17:45 +0000 2009",
+			"favourites_count": 14700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/859788343604899840/Ef0vHJoh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/859788343604899840/Ef0vHJoh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33383694/1493827885",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "During the fall, we organized \"transcribathon\" workshops to engage the community in developing the #BarbadosRunaways collection. \n\nI wrote about these workshops for the @bl_eap blog. #crowdsourcing #slaveryarchive\n\nhttps://t.co/Wv2f376ht0?"
+	},
+	{
+		"created_at": "Wed Jan 08 20:15:42 +0000 2020",
+		"id": 1215004168726777900,
+		"id_str": "1215004168726777856",
+		"full_text": "'This crisis has been unfolding for years': 4 photos of Australia from space, before and after the bushfires https://t.co/uBjhVUr8Q4 via @ConversationEDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						137,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uBjhVUr8Q4",
+					"expanded_url": "http://theconversation.com/this-crisis-has-been-unfolding-for-years-4-photos-of-australia-from-space-before-and-after-the-bushfires-129450?utm_source=twitter&utm_medium=twitterbutton",
+					"display_url": "theconversation.com/this-crisis-ha…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 812,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'This crisis has been unfolding for years': 4 photos of Australia from space, before and after the bushfires https://t.co/uBjhVUr8Q4 via @ConversationEDU"
+	},
+	{
+		"created_at": "Wed Jan 08 20:13:25 +0000 2020",
+		"id": 1215003593465454600,
+		"id_str": "1215003593465454592",
+		"full_text": "Quarter of Kangaroo Island's unique bees may have died in bushfires https://t.co/qCbJcBA2Cd via @ABCNews",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						96,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qCbJcBA2Cd",
+					"expanded_url": "https://www.abc.net.au/news/2020-01-07/quarter-of-kangaroo-islands-ligurian-beehives-lost/11845372?pfmredir=sm&amp%3Bsf227546160=1&fbclid=IwAR2hddcl6wyMQhkcbhCg-cmVPNM8LjYMO4vL3fpxK8RR6yaRWQnbaun_oWI",
+					"display_url": "abc.net.au/news/2020-01-0…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 812,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quarter of Kangaroo Island's unique bees may have died in bushfires https://t.co/qCbJcBA2Cd via @ABCNews"
+	},
+	{
+		"created_at": "Wed Jan 08 18:53:38 +0000 2020",
+		"id": 1214983519195127800,
+		"id_str": "1214983519195127808",
+		"full_text": "Bushfires crisis: more than 75% of Australia had worst weather conditions on record last month via ⁦@GuardianAus⁩  https://t.co/VCdNYqmFfX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuardianAus",
+					"name": "Guardian Australia",
+					"id": 1092378031,
+					"id_str": "1092378031",
+					"indices": [
+						100,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VCdNYqmFfX",
+					"expanded_url": "https://www.theguardian.com/australia-news/2020/jan/09/bushfires-crisis-more-than-75-of-australia-had-worst-weather-conditions-on-record-last-month?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 812,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bushfires crisis: more than 75% of Australia had worst weather conditions on record last month via ⁦@GuardianAus⁩  https://t.co/VCdNYqmFfX"
+	},
+	{
+		"created_at": "Wed Jan 08 18:53:12 +0000 2020",
+		"id": 1214807175396114400,
+		"id_str": "1214983410331971586",
+		"full_text": "120 years of Australian rainfall. Check out 2019. Via @BOM_au https://t.co/YNU7thRVJm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BOM_au",
+					"name": "Bureau of Meteorology, Australia",
+					"id": 188545143,
+					"id_str": "188545143",
+					"indices": [
+						54,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YNU7thRVJm",
+					"expanded_url": "http://www.bom.gov.au/climate/history/rainfall/",
+					"display_url": "bom.gov.au/climate/histor…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20581978,
+			"id_str": "20581978",
+			"name": "Adam Morton",
+			"screen_name": "adamlmorton",
+			"location": "lutruwita/Tasmania, Australia",
+			"description": "Environment editor @GuardianAus. Ex editor/senior writer @theage, associate @UTAS_ and other things. adam.morton@theguardian.com",
+			"url": "https://t.co/zUlbAUlLa3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUlbAUlLa3",
+							"expanded_url": "https://www.theguardian.com/profile/adam-morton",
+							"display_url": "theguardian.com/profile/adam-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9258,
+			"friends_count": 1603,
+			"listed_count": 313,
+			"created_at": "Wed Feb 11 10:09:29 +0000 2009",
+			"favourites_count": 10022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187543399584239618/W472I6px_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187543399584239618/W472I6px_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20581978/1561674242",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "120 years of Australian rainfall. Check out 2019. Via @BOM_au https://t.co/YNU7thRVJm"
+	},
+	{
 		"created_at": "Wed Jan 08 02:34:23 +0000 2020",
 		"id": 1214733696089149400,
 		"id_str": "1214737081987031040",
