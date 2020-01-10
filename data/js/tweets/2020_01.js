@@ -1,6 +1,967 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 22:35:33 +0000 2020",
+		"id": 1215048551673233400,
+		"id_str": "1215401750926000128",
+		"full_text": "Building Impact Assessment teams continue assessing damage to properties. This season 1,870 homes destroyed &amp; over 22,000 buildings saved. Teams assessed over 10,000 buildings since 1 January, confirming the loss of 954 homes. This figure is likely to increase. #nswrfs #nswfires https://t.co/TcBKPg8700",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nswrfs",
+					"indices": [
+						266,
+						273
+					]
+				},
+				{
+					"text": "nswfires",
+					"indices": [
+						274,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215048549215412200,
+					"id_str": "1215048549215412226",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/ENy4N8jWoAIYctQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENy4N8jWoAIYctQ.jpg",
+					"url": "https://t.co/TcBKPg8700",
+					"display_url": "pic.twitter.com/TcBKPg8700",
+					"expanded_url": "https://twitter.com/NSWRFS/status/1215048551673233415/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 605,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 605,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 16,
+									"y": 437,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 605,
+									"h": 71,
+									"w": 71
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215048549215412200,
+					"id_str": "1215048549215412226",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/ENy4N8jWoAIYctQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENy4N8jWoAIYctQ.jpg",
+					"url": "https://t.co/TcBKPg8700",
+					"display_url": "pic.twitter.com/TcBKPg8700",
+					"expanded_url": "https://twitter.com/NSWRFS/status/1215048551673233415/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 605,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 605,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 16,
+									"y": 437,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 605,
+									"h": 71,
+									"w": 71
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10926872,
+			"id_str": "10926872",
+			"name": "NSW RFS",
+			"screen_name": "NSWRFS",
+			"location": "New South Wales, Australia",
+			"description": "The NSW Rural Fire Service, the world's largest fire service. Our 74,000 volunteer members provide emergency services to more than 95 percent of NSW.",
+			"url": "http://t.co/SaNLjGE6OI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SaNLjGE6OI",
+							"expanded_url": "http://www.rfs.nsw.gov.au",
+							"display_url": "rfs.nsw.gov.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 184281,
+			"friends_count": 94,
+			"listed_count": 1356,
+			"created_at": "Fri Dec 07 04:57:55 +0000 2007",
+			"favourites_count": 1744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150678663265832960/ujqrCyuu_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150678663265832960/ujqrCyuu_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10926872/1539499669",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 301,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Building Impact Assessment teams continue assessing damage to properties. This season 1,870 homes destroyed &amp; over 22,000 buildings saved. Teams assessed over 10,000 buildings since 1 January, confirming the loss of 954 homes. This figure is likely to increase. #nswrfs #nswfires https://t.co/TcBKPg8700"
+	},
+	{
+		"created_at": "Thu Jan 09 18:18:42 +0000 2020",
+		"id": 1215196559736000500,
+		"id_str": "1215337112062447616",
+		"full_text": "This is your Scottish libraries bookish weather update...\n\n'THE SKY RAINED DISMAL. IT RAINED HUMDRUM. IT RAINED THE KIND OF RAIN THAT IS SO MUCH WETTER THAN NORMAL RAIN, THE KIND OF RAIN THAT COMES DOWN IN BIG DROPS AND SPLATS...'\n\n— Terry Pratchett\n\n#Thursdaythoughts https://t.co/5XXyAt22vv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Thursdaythoughts",
+					"indices": [
+						251,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215196543915110400,
+					"id_str": "1215196543915110405",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0-0XxXsAUuwzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0-0XxXsAUuwzv.jpg",
+					"url": "https://t.co/5XXyAt22vv",
+					"display_url": "pic.twitter.com/5XXyAt22vv",
+					"expanded_url": "https://twitter.com/natlibscot/status/1215196559736000512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1497,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 877,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "22477940",
+									"screen_name": "terryandrob",
+									"name": "Terry Pratchett"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215196543915110400,
+					"id_str": "1215196543915110405",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0-0XxXsAUuwzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0-0XxXsAUuwzv.jpg",
+					"url": "https://t.co/5XXyAt22vv",
+					"display_url": "pic.twitter.com/5XXyAt22vv",
+					"expanded_url": "https://twitter.com/natlibscot/status/1215196559736000512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1497,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 877,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "22477940",
+									"screen_name": "terryandrob",
+									"name": "Terry Pratchett"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75286820,
+			"id_str": "75286820",
+			"name": "National Library of Scotland",
+			"screen_name": "natlibscot",
+			"location": "Edinburgh, Scotland",
+			"description": "Scotland's national library. We hold millions of items, so if you can think of it, we probably have it. Social media policy - https://t.co/188QiAFLJe",
+			"url": "https://t.co/rFWJQ32r32",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rFWJQ32r32",
+							"expanded_url": "http://www.nls.uk",
+							"display_url": "nls.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/188QiAFLJe",
+							"expanded_url": "http://bit.ly/NLSsocialpolicy",
+							"display_url": "bit.ly/NLSsocialpolicy",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 46093,
+			"friends_count": 3349,
+			"listed_count": 944,
+			"created_at": "Fri Sep 18 14:01:31 +0000 2009",
+			"favourites_count": 47379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "241A1A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057906231745093632/hCkKsgR5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057906231745093632/hCkKsgR5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75286820/1561104526",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 511,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is your Scottish libraries bookish weather update...\n\n'THE SKY RAINED DISMAL. IT RAINED HUMDRUM. IT RAINED THE KIND OF RAIN THAT IS SO MUCH WETTER THAN NORMAL RAIN, THE KIND OF RAIN THAT COMES DOWN IN BIG DROPS AND SPLATS...'\n\n— Terry Pratchett\n\n#Thursdaythoughts https://t.co/5XXyAt22vv"
+	},
+	{
+		"created_at": "Thu Jan 09 18:14:00 +0000 2020",
+		"id": 1215335930501820400,
+		"id_str": "1215335930501820417",
+		"full_text": "helpful advice https://t.co/X5ySWLzRrx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X5ySWLzRrx",
+					"expanded_url": "https://twitter.com/amlibraries/status/1215299022774325250",
+					"display_url": "twitter.com/amlibraries/st…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 814,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215299022774325200,
+		"quoted_status_id_str": "1215299022774325250",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X5ySWLzRrx",
+			"expanded": "https://twitter.com/amlibraries/status/1215299022774325250",
+			"display": "twitter.com/amlibraries/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 09 15:47:20 +0000 2020",
+			"id": 1215299022774325200,
+			"id_str": "1215299022774325250",
+			"full_text": "Take control of your library’s narrative: Latest Library Links https://t.co/aecE9UruAB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aecE9UruAB",
+						"expanded_url": "http://bit.ly/2t4SLzg",
+						"display_url": "bit.ly/2t4SLzg",
+						"indices": [
+							63,
+							86
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18955776,
+				"id_str": "18955776",
+				"name": "American Libraries",
+				"screen_name": "amlibraries",
+				"location": "Chicago",
+				"description": "Magazine of the American Library Association. Tweeters include Amy Carlton, Terra Dankowski, George Eberhart, Phil Morehart, Sallyann Price & Sanhita SinhaRoy.",
+				"url": "http://t.co/2Dq9yGNmHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2Dq9yGNmHL",
+								"expanded_url": "http://americanlibrariesmagazine.org",
+								"display_url": "americanlibrariesmagazine.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 80537,
+				"friends_count": 1115,
+				"listed_count": 2312,
+				"created_at": "Tue Jan 13 22:08:09 +0000 2009",
+				"favourites_count": 766,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26877,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18955776/1577978349",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "helpful advice https://t.co/X5ySWLzRrx"
+	},
+	{
+		"created_at": "Thu Jan 09 18:11:56 +0000 2020",
+		"id": 1215335410949165000,
+		"id_str": "1215335410949165056",
+		"full_text": "very interesting https://t.co/PwryqmtTw8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PwryqmtTw8",
+					"expanded_url": "https://twitter.com/amlibraries/status/1215299024309321729",
+					"display_url": "twitter.com/amlibraries/st…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 814,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1215299024309321700,
+		"quoted_status_id_str": "1215299024309321729",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PwryqmtTw8",
+			"expanded": "https://twitter.com/amlibraries/status/1215299024309321729",
+			"display": "twitter.com/amlibraries/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 09 15:47:21 +0000 2020",
+			"id": 1215299024309321700,
+			"id_str": "1215299024309321729",
+			"full_text": "Longest tables of content: Latest Library Links https://t.co/gwXbU3UiEn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gwXbU3UiEn",
+						"expanded_url": "http://bit.ly/2QAsJNk",
+						"display_url": "bit.ly/2QAsJNk",
+						"indices": [
+							48,
+							71
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18955776,
+				"id_str": "18955776",
+				"name": "American Libraries",
+				"screen_name": "amlibraries",
+				"location": "Chicago",
+				"description": "Magazine of the American Library Association. Tweeters include Amy Carlton, Terra Dankowski, George Eberhart, Phil Morehart, Sallyann Price & Sanhita SinhaRoy.",
+				"url": "http://t.co/2Dq9yGNmHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2Dq9yGNmHL",
+								"expanded_url": "http://americanlibrariesmagazine.org",
+								"display_url": "americanlibrariesmagazine.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 80537,
+				"friends_count": 1115,
+				"listed_count": 2312,
+				"created_at": "Tue Jan 13 22:08:09 +0000 2009",
+				"favourites_count": 766,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26877,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18955776/1577978349",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "very interesting https://t.co/PwryqmtTw8"
+	},
+	{
 		"created_at": "Thu Jan 09 04:36:21 +0000 2020",
 		"id": 1214992669539258400,
 		"id_str": "1215130162125135875",
