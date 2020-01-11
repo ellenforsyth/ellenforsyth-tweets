@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 23:32:59 +0000 2020",
+		"id": 1215659724819107800,
+		"id_str": "1215778595538210816",
+		"full_text": "6/ Here is the @UICLCC  Environmental Justice Dialogue Guide for Museums, Cultural Centers, and Historic Sites. #museums #museed #justice #environmentaljustice #culturalsites #historymatters \n\nhttps://t.co/Y3PNwrevAU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "museums",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "museed",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "justice",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "environmentaljustice",
+					"indices": [
+						138,
+						159
+					]
+				},
+				{
+					"text": "culturalsites",
+					"indices": [
+						160,
+						174
+					]
+				},
+				{
+					"text": "historymatters",
+					"indices": [
+						175,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UICLCC",
+					"name": "UIC_RCOLCC",
+					"id": 339131191,
+					"id_str": "339131191",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y3PNwrevAU",
+					"expanded_url": "https://www.sitesofconscience.org/wp-content/uploads/2016/08/2015-Environmental-Climate-Justice-Dialogue-Guide_Eng-LatinoCC.pdf",
+					"display_url": "sitesofconscience.org/wp-content/upl…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1215659723351085000,
+		"in_reply_to_status_id_str": "1215659723351085058",
+		"in_reply_to_user_id": 240818804,
+		"in_reply_to_user_id_str": "240818804",
+		"in_reply_to_screen_name": "SitesConscience",
+		"user": {
+			"id": 240818804,
+			"id_str": "240818804",
+			"name": "Sites of Conscience",
+			"screen_name": "SitesConscience",
+			"location": "New York, NY",
+			"description": "A global network of historic sites, museums and memory initiatives connecting past struggles to today's movements for human rights and transitional justice.",
+			"url": "http://t.co/Z6PIszr0uK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Z6PIszr0uK",
+							"expanded_url": "http://www.sitesofconscience.org",
+							"display_url": "sitesofconscience.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4909,
+			"friends_count": 2085,
+			"listed_count": 145,
+			"created_at": "Thu Jan 20 20:30:57 +0000 2011",
+			"favourites_count": 4276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E1523D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2026304211/Coalition_logo_FB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2026304211/Coalition_logo_FB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240818804/1409752642",
+			"profile_link_color": "E1523D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "6/ Here is the @UICLCC  Environmental Justice Dialogue Guide for Museums, Cultural Centers, and Historic Sites. #museums #museed #justice #environmentaljustice #culturalsites #historymatters \n\nhttps://t.co/Y3PNwrevAU"
+	},
+	{
 		"created_at": "Thu Jan 09 22:35:33 +0000 2020",
 		"id": 1215048551673233400,
 		"id_str": "1215401750926000128",
