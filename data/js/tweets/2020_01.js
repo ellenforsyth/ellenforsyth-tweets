@@ -1,6 +1,1619 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 21:30:33 +0000 2020",
+		"id": 1215696958809088000,
+		"id_str": "1216110170167623680",
+		"full_text": "The RWA Debacle and Ideas on How Libraries Can Respond: https://t.co/Oe7i0mnFrg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Oe7i0mnFrg",
+					"expanded_url": "http://raforall.blogspot.com/2020/01/the-rwa-debacle-and-how-libraries-can.html",
+					"display_url": "raforall.blogspot.com/2020/01/the-rw…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2646,
+			"friends_count": 1873,
+			"listed_count": 140,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 18951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The RWA Debacle and Ideas on How Libraries Can Respond: https://t.co/Oe7i0mnFrg"
+	},
+	{
+		"created_at": "Sat Jan 11 21:25:20 +0000 2020",
+		"id": 1215673573534306300,
+		"id_str": "1216108856951984128",
+		"full_text": "Paris Musées releases 100,000 images of artworks for unrestricted public use https://t.co/o8VQSv8ig5 https://t.co/MZW0OlobiM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o8VQSv8ig5",
+					"expanded_url": "https://www.thisiscolossal.com/2020/01/paris-musees-free-digital-artworks/",
+					"display_url": "thisiscolossal.com/2020/01/paris-…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215673559143657500,
+					"id_str": "1215673559143657474",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7wqT-XsAIawBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7wqT-XsAIawBt.jpg",
+					"url": "https://t.co/MZW0OlobiM",
+					"display_url": "pic.twitter.com/MZW0OlobiM",
+					"expanded_url": "https://twitter.com/Colossal/status/1215673573534306306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1649,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 97,
+									"y": 46,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 221,
+									"y": 170,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 139,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 665,
+									"y": 513,
+									"h": 401,
+									"w": 401
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 356,
+									"y": 169,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 807,
+									"y": 623,
+									"h": 487,
+									"w": 487
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 171,
+									"y": 81,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 389,
+									"y": 300,
+									"h": 235,
+									"w": 235
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215673559143657500,
+					"id_str": "1215673559143657474",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7wqT-XsAIawBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7wqT-XsAIawBt.jpg",
+					"url": "https://t.co/MZW0OlobiM",
+					"display_url": "pic.twitter.com/MZW0OlobiM",
+					"expanded_url": "https://twitter.com/Colossal/status/1215673573534306306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1649,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 966,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 97,
+									"y": 46,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 221,
+									"y": 170,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 293,
+									"y": 139,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 665,
+									"y": 513,
+									"h": 401,
+									"w": 401
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 356,
+									"y": 169,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 807,
+									"y": 623,
+									"h": 487,
+									"w": 487
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 171,
+									"y": 81,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 389,
+									"y": 300,
+									"h": 235,
+									"w": 235
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215673558967443500,
+					"id_str": "1215673558967443459",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EN7wqTUW4AMEW3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN7wqTUW4AMEW3K.jpg",
+					"url": "https://t.co/MZW0OlobiM",
+					"display_url": "pic.twitter.com/MZW0OlobiM",
+					"expanded_url": "https://twitter.com/Colossal/status/1215673573534306306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1460,
+							"h": 976,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 203063180,
+			"id_str": "203063180",
+			"name": "Colossal",
+			"screen_name": "Colossal",
+			"location": "Chicago",
+			"description": "Art, design, photography, and visual culture.",
+			"url": "https://t.co/WMywZPtjpC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WMywZPtjpC",
+							"expanded_url": "http://colossal.art",
+							"display_url": "colossal.art",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154907,
+			"friends_count": 625,
+			"listed_count": 4792,
+			"created_at": "Fri Oct 15 13:06:40 +0000 2010",
+			"favourites_count": 2752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920685695907303424/ZrILX0vl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920685695907303424/ZrILX0vl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/203063180/1573077446",
+			"profile_link_color": "E06100",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Paris Musées releases 100,000 images of artworks for unrestricted public use https://t.co/o8VQSv8ig5 https://t.co/MZW0OlobiM"
+	},
+	{
+		"created_at": "Sat Jan 11 21:25:06 +0000 2020",
+		"id": 1215959036513915000,
+		"id_str": "1216108798529507329",
+		"full_text": "Domestic objects are wrapped in needlepoint scenes by Ulla Stina Wikander https://t.co/JsNbmuBL5a https://t.co/XrEvA4eSVQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JsNbmuBL5a",
+					"expanded_url": "https://www.thisiscolossal.com/2018/01/new-ulla-stina-wikander-2/",
+					"display_url": "thisiscolossal.com/2018/01/new-ul…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207710844982874000,
+					"id_str": "1207710844982874112",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EMKmnWKXUAA8-iO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMKmnWKXUAA8-iO.jpg",
+					"url": "https://t.co/XrEvA4eSVQ",
+					"display_url": "pic.twitter.com/XrEvA4eSVQ",
+					"expanded_url": "https://twitter.com/Colossal/status/1215959036513914886/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1250,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 344,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 712,
+									"y": 330,
+									"h": 64,
+									"w": 64
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 344,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 187,
+									"h": 36,
+									"w": 36
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207710844982874000,
+					"id_str": "1207710844982874112",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EMKmnWKXUAA8-iO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMKmnWKXUAA8-iO.jpg",
+					"url": "https://t.co/XrEvA4eSVQ",
+					"display_url": "pic.twitter.com/XrEvA4eSVQ",
+					"expanded_url": "https://twitter.com/Colossal/status/1215959036513914886/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1250,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 344,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 712,
+									"y": 330,
+									"h": 64,
+									"w": 64
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 742,
+									"y": 344,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 187,
+									"h": 36,
+									"w": 36
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1207710845259649000,
+					"id_str": "1207710845259649030",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EMKmnXMWkAYB9in.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMKmnXMWkAYB9in.jpg",
+					"url": "https://t.co/XrEvA4eSVQ",
+					"display_url": "pic.twitter.com/XrEvA4eSVQ",
+					"expanded_url": "https://twitter.com/Colossal/status/1215959036513914886/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 203063180,
+			"id_str": "203063180",
+			"name": "Colossal",
+			"screen_name": "Colossal",
+			"location": "Chicago",
+			"description": "Art, design, photography, and visual culture.",
+			"url": "https://t.co/WMywZPtjpC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WMywZPtjpC",
+							"expanded_url": "http://colossal.art",
+							"display_url": "colossal.art",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154907,
+			"friends_count": 625,
+			"listed_count": 4792,
+			"created_at": "Fri Oct 15 13:06:40 +0000 2010",
+			"favourites_count": 2752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920685695907303424/ZrILX0vl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920685695907303424/ZrILX0vl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/203063180/1573077446",
+			"profile_link_color": "E06100",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Domestic objects are wrapped in needlepoint scenes by Ulla Stina Wikander https://t.co/JsNbmuBL5a https://t.co/XrEvA4eSVQ"
+	},
+	{
+		"created_at": "Sat Jan 11 21:22:32 +0000 2020",
+		"id": 1216108151340060700,
+		"id_str": "1216108151340060673",
+		"full_text": "Life for retired opera singers in the house that Verdi built https://t.co/MZCrWOS6ku via @guardian",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MZCrWOS6ku",
+					"expanded_url": "https://www.theguardian.com/world/2020/jan/04/life-for-retired-opera-singers-in-the-house-that-verdi-built?CMP=share_btn_tw",
+					"display_url": "theguardian.com/world/2020/jan…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2512,
+			"friends_count": 814,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Life for retired opera singers in the house that Verdi built https://t.co/MZCrWOS6ku via @guardian"
+	},
+	{
+		"created_at": "Sat Jan 11 19:08:16 +0000 2020",
+		"id": 1215434850074710000,
+		"id_str": "1216074362291310592",
+		"full_text": "Great graphics here from Reuters, which show the size of INDIVIDUAL fires this season in an eye-opening way https://t.co/hmGwqOdTd9 https://t.co/xM4sdpfKNm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hmGwqOdTd9",
+					"expanded_url": "https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-SCALE/0100B4VK2PN/index.html",
+					"display_url": "graphics.reuters.com/AUSTRALIA-BUSH…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215434837550485500,
+					"id_str": "1215434837550485504",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EN4Xi4vU0AAgtzE.png",
+					"media_url_https": "https://pbs.twimg.com/media/EN4Xi4vU0AAgtzE.png",
+					"url": "https://t.co/xM4sdpfKNm",
+					"display_url": "pic.twitter.com/xM4sdpfKNm",
+					"expanded_url": "https://twitter.com/naamanzhou/status/1215434850074710017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 615,
+							"h": 773,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 615,
+							"h": 773,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215434837550485500,
+					"id_str": "1215434837550485504",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EN4Xi4vU0AAgtzE.png",
+					"media_url_https": "https://pbs.twimg.com/media/EN4Xi4vU0AAgtzE.png",
+					"url": "https://t.co/xM4sdpfKNm",
+					"display_url": "pic.twitter.com/xM4sdpfKNm",
+					"expanded_url": "https://twitter.com/naamanzhou/status/1215434850074710017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 615,
+							"h": 773,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 615,
+							"h": 773,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215434837546295300,
+					"id_str": "1215434837546295301",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EN4Xi4uU4AUjcQW.png",
+					"media_url_https": "https://pbs.twimg.com/media/EN4Xi4uU4AUjcQW.png",
+					"url": "https://t.co/xM4sdpfKNm",
+					"display_url": "pic.twitter.com/xM4sdpfKNm",
+					"expanded_url": "https://twitter.com/naamanzhou/status/1215434850074710017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 234,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1906,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 412,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215434837537906700,
+					"id_str": "1215434837537906688",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EN4Xi4sU4AA-y2e.png",
+					"media_url_https": "https://pbs.twimg.com/media/EN4Xi4sU4AA-y2e.png",
+					"url": "https://t.co/xM4sdpfKNm",
+					"display_url": "pic.twitter.com/xM4sdpfKNm",
+					"expanded_url": "https://twitter.com/naamanzhou/status/1215434850074710017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1907,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 283,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 160,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215434837542101000,
+					"id_str": "1215434837542100993",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EN4Xi4tU4AESV4W.png",
+					"media_url_https": "https://pbs.twimg.com/media/EN4Xi4tU4AESV4W.png",
+					"url": "https://t.co/xM4sdpfKNm",
+					"display_url": "pic.twitter.com/xM4sdpfKNm",
+					"expanded_url": "https://twitter.com/naamanzhou/status/1215434850074710017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 490,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1908,
+							"h": 779,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2917572222,
+			"id_str": "2917572222",
+			"name": "Naaman Zhou",
+			"screen_name": "naamanzhou",
+			"location": "Sydney",
+			"description": "Reporter @guardianaus. Open DMs so send us a tip | naaman.zhou@theguardian.com | PGP Key here https://t.co/DpolPKXeMf",
+			"url": "https://t.co/gkVXyXfDrT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gkVXyXfDrT",
+							"expanded_url": "https://www.theguardian.com/profile/naaman-zhou",
+							"display_url": "theguardian.com/profile/naaman…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DpolPKXeMf",
+							"expanded_url": "https://pgp.theguardian.com/PublicKeys/Naaman%20Zhou.pub.txt",
+							"display_url": "pgp.theguardian.com/PublicKeys/Naa…",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6234,
+			"friends_count": 1599,
+			"listed_count": 89,
+			"created_at": "Wed Dec 03 13:13:21 +0000 2014",
+			"favourites_count": 14644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154389572291182592/UoxuSj-8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154389572291182592/UoxuSj-8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2917572222/1513752795",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great graphics here from Reuters, which show the size of INDIVIDUAL fires this season in an eye-opening way https://t.co/hmGwqOdTd9 https://t.co/xM4sdpfKNm"
+	},
+	{
+		"created_at": "Sat Jan 11 19:07:20 +0000 2020",
+		"id": 1215757112774549500,
+		"id_str": "1216074126701424646",
+		"full_text": "Less than one per cent of the 5.2 million hectares of land burning in NSW can be attributed to arson so far.\n\nhttps://t.co/dhITTqIL62",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dhITTqIL62",
+					"expanded_url": "https://www.abc.net.au/news/2020-01-11/australias-fires-reveal-arson-not-a-major-cause/11855022",
+					"display_url": "abc.net.au/news/2020-01-1…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2411726342,
+			"id_str": "2411726342",
+			"name": "Kevin Nguyen",
+			"screen_name": "cog_ink",
+			"location": "Sydney, New South Wales",
+			"description": "News, Analysis and Investigation @abcnews @abcsydney | Digital Director @MediaDiversityAU | ex- @storyful @FairfaxMedia | Views are own",
+			"url": "https://t.co/4cQxbi2eij",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4cQxbi2eij",
+							"expanded_url": "http://abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2788,
+			"friends_count": 1418,
+			"listed_count": 71,
+			"created_at": "Wed Mar 26 00:04:13 +0000 2014",
+			"favourites_count": 2538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170672443830063105/9eIdAEdd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170672443830063105/9eIdAEdd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2411726342/1501456827",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 229,
+		"favorite_count": 322,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Less than one per cent of the 5.2 million hectares of land burning in NSW can be attributed to arson so far.\n\nhttps://t.co/dhITTqIL62"
+	},
+	{
+		"created_at": "Sat Jan 11 19:04:24 +0000 2020",
+		"id": 1216066701210505200,
+		"id_str": "1216073390403883008",
+		"full_text": "Bushfires spawn cottage industry of 'sewing bees' to help injured wildlife https://t.co/cUrbE5Gpry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cUrbE5Gpry",
+					"expanded_url": "https://www.abc.net.au/news/2020-01-12/sewing-bees-help-bushfire-affected-wildlife/11858160",
+					"display_url": "abc.net.au/news/2020-01-1…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1575995,
+			"friends_count": 1213,
+			"listed_count": 12132,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 283899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1576813689",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bushfires spawn cottage industry of 'sewing bees' to help injured wildlife https://t.co/cUrbE5Gpry"
+	},
+	{
+		"created_at": "Sat Jan 11 18:48:10 +0000 2020",
+		"id": 1214577444310659000,
+		"id_str": "1216069303478321157",
+		"full_text": "Around the world in rare and beautiful apples. https://t.co/cMmv4txoix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cMmv4txoix",
+					"expanded_url": "https://trib.al/sJZeriR",
+					"display_url": "trib.al/sJZeriR",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57047586,
+			"id_str": "57047586",
+			"name": "Atlas Obscura",
+			"screen_name": "atlasobscura",
+			"location": "Everywhere",
+			"description": "The definitive guide to the world's hidden wonders.",
+			"url": "http://t.co/eRquXCISa8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/eRquXCISa8",
+							"expanded_url": "http://atlasobscura.com",
+							"display_url": "atlasobscura.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 414435,
+			"friends_count": 3357,
+			"listed_count": 5341,
+			"created_at": "Wed Jul 15 15:33:08 +0000 2009",
+			"favourites_count": 20535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 62450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093601394022600704/J6QnZxnP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093601394022600704/J6QnZxnP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57047586/1569941652",
+			"profile_link_color": "CCB48D",
+			"profile_sidebar_border_color": "4F6D85",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Around the world in rare and beautiful apples. https://t.co/cMmv4txoix"
+	},
+	{
 		"created_at": "Fri Jan 10 23:32:59 +0000 2020",
 		"id": 1215659724819107800,
 		"id_str": "1215778595538210816",
