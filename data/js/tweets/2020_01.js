@@ -1,6 +1,834 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 22:42:42 +0000 2020",
+		"id": 1216076094446674000,
+		"id_str": "1216853102478815232",
+		"full_text": "“Here in the Australian capital of Canberra, it feels like the apocalypse has come.” https://t.co/hCGq07s7b5 https://t.co/LQ3fS1F3ij",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hCGq07s7b5",
+					"expanded_url": "http://bit.ly/35IAaqf",
+					"display_url": "bit.ly/35IAaqf",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216076092878065700,
+					"id_str": "1216076092878065665",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EOBew2_XkAE_jWs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOBew2_XkAE_jWs.jpg",
+					"url": "https://t.co/LQ3fS1F3ij",
+					"display_url": "pic.twitter.com/LQ3fS1F3ij",
+					"expanded_url": "https://twitter.com/Sierra_Magazine/status/1216076094446673923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 769,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 769,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216076092878065700,
+					"id_str": "1216076092878065665",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EOBew2_XkAE_jWs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOBew2_XkAE_jWs.jpg",
+					"url": "https://t.co/LQ3fS1F3ij",
+					"display_url": "pic.twitter.com/LQ3fS1F3ij",
+					"expanded_url": "https://twitter.com/Sierra_Magazine/status/1216076094446673923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 769,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 769,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14325188,
+			"id_str": "14325188",
+			"name": "Sierra Magazine",
+			"screen_name": "Sierra_Magazine",
+			"location": "San Francisco, CA",
+			"description": "Environmental news, lifestyle tips, and free-ranging opinion from the editors of Sierra magazine. Follow us: http://t.co/TeuBxBzgXo",
+			"url": "http://t.co/p3xjkwnrPy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/p3xjkwnrPy",
+							"expanded_url": "http://sierramagazine.com",
+							"display_url": "sierramagazine.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/TeuBxBzgXo",
+							"expanded_url": "http://facebook.com/SierraMagazine",
+							"display_url": "facebook.com/SierraMagazine",
+							"indices": [
+								109,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 73060,
+			"friends_count": 17632,
+			"listed_count": 3203,
+			"created_at": "Mon Apr 07 17:55:06 +0000 2008",
+			"favourites_count": 2196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CEDFF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568528146261999616/B5EhUfv5_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568528146261999616/B5EhUfv5_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14325188/1441915448",
+			"profile_link_color": "43B03D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Here in the Australian capital of Canberra, it feels like the apocalypse has come.” https://t.co/hCGq07s7b5 https://t.co/LQ3fS1F3ij"
+	},
+	{
+		"created_at": "Mon Jan 13 20:13:55 +0000 2020",
+		"id": 1216815284679372800,
+		"id_str": "1216815661386625024",
+		"full_text": "In @ConversationEdu today:\nMy rough estimate of total number of animal species at risk of #extinction due to #bushfires.\n700 is  lower bound, but likely an order of magnitude greater.\nHuge number, but can't make it smaller\n#BushfireCrisis #AustraliaBurns\nhttps://t.co/HpCKDc71P9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "extinction",
+					"indices": [
+						90,
+						101
+					]
+				},
+				{
+					"text": "bushfires",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "BushfireCrisis",
+					"indices": [
+						223,
+						238
+					]
+				},
+				{
+					"text": "AustraliaBurns",
+					"indices": [
+						239,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HpCKDc71P9",
+					"expanded_url": "https://glimpse.link/l/OjUpRlB",
+					"display_url": "glimpse.link/l/OjUpRlB",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 765808597418639400,
+			"id_str": "765808597418639360",
+			"name": "Michael S. Y. Lee (biologist)",
+			"screen_name": "michael_s_y_lee",
+			"location": "Adelaide, Australia",
+			"description": "Evolutionary Biologist @flinders & @samuseum.  \nMainly evolution, paleontology, herpetology, reptiles, mammals, birds.\nAlso science communication & photography.",
+			"url": "https://t.co/F6SUlYNFW5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F6SUlYNFW5",
+							"expanded_url": "https://www.flinders.edu.au/people/mike.lee",
+							"display_url": "flinders.edu.au/people/mike.lee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 499,
+			"listed_count": 3,
+			"created_at": "Wed Aug 17 07:12:52 +0000 2016",
+			"favourites_count": 357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195545535387561984/kY_j9IMI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195545535387561984/kY_j9IMI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/765808597418639360/1578472973",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In @ConversationEdu today:\nMy rough estimate of total number of animal species at risk of #extinction due to #bushfires.\n700 is  lower bound, but likely an order of magnitude greater.\nHuge number, but can't make it smaller\n#BushfireCrisis #AustraliaBurns\nhttps://t.co/HpCKDc71P9"
+	},
+	{
+		"created_at": "Mon Jan 13 20:12:10 +0000 2020",
+		"id": 1216602015708528600,
+		"id_str": "1216815219256639488",
+		"full_text": "The @BOM_au says 2019 was the driest year on record. This animated gif showing annual rainfall in Australia 1900-2019 underlines just *how* low last year's rainfall really was (spoiler: it was very low). https://t.co/EUZFA7Q4hU https://t.co/ocFsnpc6iv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BOM_au",
+					"name": "Bureau of Meteorology, Australia",
+					"id": 188545143,
+					"id_str": "188545143",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EUZFA7Q4hU",
+					"expanded_url": "https://theconversation.com/weather-bureau-says-hottest-driest-year-on-record-led-to-extreme-bushfire-season-129447",
+					"display_url": "theconversation.com/weather-bureau…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216602002907525000,
+					"id_str": "1216602002907525127",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EOI9E2hU8AcCX1p.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EOI9E2hU8AcCX1p.jpg",
+					"url": "https://t.co/ocFsnpc6iv",
+					"display_url": "pic.twitter.com/ocFsnpc6iv",
+					"expanded_url": "https://twitter.com/ConversationEDU/status/1216602015708528640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216602002907525000,
+					"id_str": "1216602002907525127",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EOI9E2hU8AcCX1p.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EOI9E2hU8AcCX1p.jpg",
+					"url": "https://t.co/ocFsnpc6iv",
+					"display_url": "pic.twitter.com/ocFsnpc6iv",
+					"expanded_url": "https://twitter.com/ConversationEDU/status/1216602015708528640/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EOI9E2hU8AcCX1p.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224495471,
+			"id_str": "224495471",
+			"name": "The Conversation",
+			"screen_name": "ConversationEDU",
+			"location": "Australia",
+			"description": "Independent news from the sharpest academic minds.\nRead: https://t.co/5EfZLQqgii\nSee: https://t.co/O87cJjDf7l\nSign up: https://t.co/jiZUsUgSNI",
+			"url": "https://t.co/QMffpg0dE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QMffpg0dE5",
+							"expanded_url": "https://donate.theconversation.com",
+							"display_url": "donate.theconversation.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5EfZLQqgii",
+							"expanded_url": "http://theconversation.com/au",
+							"display_url": "theconversation.com/au",
+							"indices": [
+								57,
+								80
+							]
+						},
+						{
+							"url": "https://t.co/O87cJjDf7l",
+							"expanded_url": "http://www.instagram.com/theconversationau/",
+							"display_url": "instagram.com/theconversatio…",
+							"indices": [
+								86,
+								109
+							]
+						},
+						{
+							"url": "https://t.co/jiZUsUgSNI",
+							"expanded_url": "http://bit.ly/2YBhBpn",
+							"display_url": "bit.ly/2YBhBpn",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 165876,
+			"friends_count": 4968,
+			"listed_count": 3020,
+			"created_at": "Thu Dec 09 04:36:36 +0000 2010",
+			"favourites_count": 4187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 66209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E5E5E5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133216986022834176/XL7As8ay_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133216986022834176/XL7As8ay_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224495471/1563169694",
+			"profile_link_color": "D8362A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @BOM_au says 2019 was the driest year on record. This animated gif showing annual rainfall in Australia 1900-2019 underlines just *how* low last year's rainfall really was (spoiler: it was very low). https://t.co/EUZFA7Q4hU https://t.co/ocFsnpc6iv"
+	},
+	{
+		"created_at": "Mon Jan 13 10:04:14 +0000 2020",
+		"id": 1216619143413166000,
+		"id_str": "1216662229463887875",
+		"full_text": "Stanthorpe runs out of water, requiring trucks to bring supplies from Warwick https://t.co/ILjqY6J5LZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ILjqY6J5LZ",
+					"expanded_url": "https://www.abc.net.au/news/2020-01-13/stanthorpe-water-runs-out-trucks-bring-in-loads-qld/11863432",
+					"display_url": "abc.net.au/news/2020-01-1…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1577189,
+			"friends_count": 1212,
+			"listed_count": 12139,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 284037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1576813689",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stanthorpe runs out of water, requiring trucks to bring supplies from Warwick https://t.co/ILjqY6J5LZ"
+	},
+	{
+		"created_at": "Mon Jan 13 09:56:28 +0000 2020",
+		"id": 1216628632032108500,
+		"id_str": "1216660275245408257",
+		"full_text": "Up to 100,000 sheep killed in Kangaroo Island fires, as farmers tally livestock losses https://t.co/AMTKxWrXMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AMTKxWrXMO",
+					"expanded_url": "https://www.theguardian.com/australia-news/2020/jan/13/up-to-100000-sheep-killed-in-kangaroo-island-fires-as-farmers-tally-livestock-losses?utm_term=Autofeed&CMP=soc_568&utm_medium=Social&utm_source=Twitter#Echobox=1578901844",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092378031,
+			"id_str": "1092378031",
+			"name": "Guardian Australia",
+			"screen_name": "GuardianAus",
+			"location": "Australia",
+			"description": "Latest news from Guardian Australia",
+			"url": "https://t.co/yhI6Vqsr3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhI6Vqsr3q",
+							"expanded_url": "https://support.theguardian.com/au/contribute",
+							"display_url": "support.theguardian.com/au/contribute",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220132,
+			"friends_count": 155,
+			"listed_count": 2450,
+			"created_at": "Tue Jan 15 15:16:44 +0000 2013",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 209357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2AFA9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175902409534476288/iQwEZavm_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175902409534476288/iQwEZavm_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092378031/1569228481",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Up to 100,000 sheep killed in Kangaroo Island fires, as farmers tally livestock losses https://t.co/AMTKxWrXMO"
+	},
+	{
 		"created_at": "Sun Jan 12 09:55:01 +0000 2020",
 		"id": 1214955653049049000,
 		"id_str": "1216297522672484353",
