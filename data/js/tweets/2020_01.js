@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 22:22:10 +0000 2020",
+		"id": 1217136923287924700,
+		"id_str": "1217572712618422273",
+		"full_text": "What @Gabino_Iglesias said.... Pass it on! https://t.co/qR0YmkIlwv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gabino_Iglesias",
+					"name": "Gabino Iglesias",
+					"id": 262365555,
+					"id_str": "262365555",
+					"indices": [
+						5,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217136918607073300,
+					"id_str": "1217136918607073281",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EOQjlCyWkAEDSPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOQjlCyWkAEDSPV.jpg",
+					"url": "https://t.co/qR0YmkIlwv",
+					"display_url": "pic.twitter.com/qR0YmkIlwv",
+					"expanded_url": "https://twitter.com/RAforAll/status/1217136923287924736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1202,
+							"h": 526,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 298,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 525,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 17,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 28,
+									"y": 9,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 17,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 16,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217136918607073300,
+					"id_str": "1217136918607073281",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EOQjlCyWkAEDSPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOQjlCyWkAEDSPV.jpg",
+					"url": "https://t.co/qR0YmkIlwv",
+					"display_url": "pic.twitter.com/qR0YmkIlwv",
+					"expanded_url": "https://twitter.com/RAforAll/status/1217136923287924736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1202,
+							"h": 526,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 298,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 525,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 17,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 28,
+									"y": 9,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 17,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 16,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2665,
+			"friends_count": 1885,
+			"listed_count": 140,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 19092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What @Gabino_Iglesias said.... Pass it on! https://t.co/qR0YmkIlwv"
+	},
+	{
 		"created_at": "Wed Jan 15 06:00:14 +0000 2020",
 		"id": 1217212324785860600,
 		"id_str": "1217325598046973952",
