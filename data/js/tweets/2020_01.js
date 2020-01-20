@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 08:17:29 +0000 2020",
+		"id": 1218764144259678200,
+		"id_str": "1218809692803104768",
+		"full_text": "After months of wildfire, an abrupt reckoning is defining Australia's climate and energy politics - and electrifying a once-staid, now-rebellious environmental movement with its own message of emergency. Me and Ricky Carioti from Oz. https://t.co/gXb1998YP1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gXb1998YP1",
+					"expanded_url": "https://www.washingtonpost.com/national/in-australia-fires-heat-up-the-environmental-movement/2020/01/18/99c912e6-38de-11ea-80e9-06738e0c2b7b_story.html",
+					"display_url": "washingtonpost.com/national/in-au…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102789488,
+			"id_str": "102789488",
+			"name": "Scott Wilson",
+			"screen_name": "PostScottWilson",
+			"location": "Santa Barbara",
+			"description": "Senior national correspondent/@washingtonpost Covering California and the American west. Ideas to: scott.wilson@washpost.com",
+			"url": "https://t.co/Y99l11EZBQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y99l11EZBQ",
+							"expanded_url": "https://www.washingtonpost.com/people/scott-wilson/?utm_term=.5970a30f2631&noredirect=on",
+							"display_url": "washingtonpost.com/people/scott-w…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15870,
+			"friends_count": 1869,
+			"listed_count": 662,
+			"created_at": "Thu Jan 07 21:00:46 +0000 2010",
+			"favourites_count": 7456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197006219732406272/z6peOw2T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197006219732406272/z6peOw2T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102789488/1560620388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After months of wildfire, an abrupt reckoning is defining Australia's climate and energy politics - and electrifying a once-staid, now-rebellious environmental movement with its own message of emergency. Me and Ricky Carioti from Oz. https://t.co/gXb1998YP1"
+	},
+	{
 		"created_at": "Fri Jan 17 21:30:07 +0000 2020",
 		"id": 1218284388175114200,
 		"id_str": "1218284388175114240",
