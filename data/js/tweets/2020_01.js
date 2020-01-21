@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 21:08:50 +0000 2020",
+		"id": 1219188543211237400,
+		"id_str": "1219366194873942016",
+		"full_text": "@BlueShieldAust Bushfire Crisis in Australia - Update 20 January 2020 https://t.co/1bKIYHPZiX #DisasterRecovery #CulturalHeritage #AustraliaBushfire",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DisasterRecovery",
+					"indices": [
+						94,
+						111
+					]
+				},
+				{
+					"text": "CulturalHeritage",
+					"indices": [
+						112,
+						129
+					]
+				},
+				{
+					"text": "AustraliaBushfire",
+					"indices": [
+						130,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlueShieldAust",
+					"name": "BlueShieldAustralia",
+					"id": 239297772,
+					"id_str": "239297772",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1bKIYHPZiX",
+					"expanded_url": "https://blueshieldaustralia.org.au/news/bushfire-crisis-in-australia-update-20-january-2020/",
+					"display_url": "blueshieldaustralia.org.au/news/bushfire-…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 239297772,
+		"in_reply_to_user_id_str": "239297772",
+		"in_reply_to_screen_name": "BlueShieldAust",
+		"user": {
+			"id": 239297772,
+			"id_str": "239297772",
+			"name": "BlueShieldAustralia",
+			"screen_name": "BlueShieldAust",
+			"location": "Australia",
+			"description": "Working for the protection of the world's cultural heritage through awareness and training to prepare and respond to emergency situations.",
+			"url": "http://t.co/XO2kKVSVj2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XO2kKVSVj2",
+							"expanded_url": "http://www.blueshieldaustralia.org.au/",
+							"display_url": "blueshieldaustralia.org.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 302,
+			"listed_count": 9,
+			"created_at": "Mon Jan 17 08:37:22 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111495324793606144/9k8CVTLQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111495324793606144/9k8CVTLQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239297772/1553835933",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BlueShieldAust Bushfire Crisis in Australia - Update 20 January 2020 https://t.co/1bKIYHPZiX #DisasterRecovery #CulturalHeritage #AustraliaBushfire"
+	},
+	{
+		"created_at": "Mon Jan 20 21:08:44 +0000 2020",
+		"id": 1218462737220522000,
+		"id_str": "1219366170140147712",
+		"full_text": "To respond to the devastating Australia bushfires, we (@UoMCDMPS ) are very pleased to launch a platform called the Australia Bushfire Live Datahub (https://t.co/bLjbieIvUB) which aggregates real-time and near real-time data from multiple trusted sources. https://t.co/0WNqgsAb5o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoMCDMPS",
+					"name": "CDMPS",
+					"id": 728039152172720100,
+					"id_str": "728039152172720128",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bLjbieIvUB",
+					"expanded_url": "https://lnkd.in/grNfckn",
+					"display_url": "lnkd.in/grNfckn",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218462726877401000,
+					"id_str": "1218462726877401093",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EOjZZPeU0AUjCfV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOjZZPeU0AUjCfV.jpg",
+					"url": "https://t.co/0WNqgsAb5o",
+					"display_url": "pic.twitter.com/0WNqgsAb5o",
+					"expanded_url": "https://twitter.com/yiqunc81/status/1218462737220521985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 854,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 911,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218462726877401000,
+					"id_str": "1218462726877401093",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EOjZZPeU0AUjCfV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOjZZPeU0AUjCfV.jpg",
+					"url": "https://t.co/0WNqgsAb5o",
+					"display_url": "pic.twitter.com/0WNqgsAb5o",
+					"expanded_url": "https://twitter.com/yiqunc81/status/1218462737220521985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 854,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 911,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 280530155,
+			"id_str": "280530155",
+			"name": "Yiqun Chen",
+			"screen_name": "yiqunc81",
+			"location": "Melbourne, Victoria",
+			"description": "Passions for spatial modelling, analysis and visualisation. Researcher at CSDILA and CDMPS in the University of Melbourne.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Mon Apr 11 14:21:30 +0000 2011",
+			"favourites_count": 55,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940365711804850177/v68hSnmh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940365711804850177/v68hSnmh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/280530155/1537858055",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To respond to the devastating Australia bushfires, we (@UoMCDMPS ) are very pleased to launch a platform called the Australia Bushfire Live Datahub (https://t.co/bLjbieIvUB) which aggregates real-time and near real-time data from multiple trusted sources. https://t.co/0WNqgsAb5o"
+	},
+	{
+		"created_at": "Mon Jan 20 19:02:16 +0000 2020",
+		"id": 1219334345078403000,
+		"id_str": "1219334345078403072",
+		"full_text": "Understanding the impact of the 2019-20 fires Our scientists are working to provide the best available information and data to understand how the 2019-20 fires are impacting the New South Wales environment and communities. https://t.co/9YCZbAzExW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9YCZbAzExW",
+					"expanded_url": "http://www.environment.nsw.gov.au/topics/parks-reserves-and-protected-areas/fire/park-recovery-and-rehabilitation/recovering-from-2019-20-fires/understanding-the-impact-of-the-2019-20-fires",
+					"display_url": "environment.nsw.gov.au/topics/parks-r…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2514,
+			"friends_count": 818,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Understanding the impact of the 2019-20 fires Our scientists are working to provide the best available information and data to understand how the 2019-20 fires are impacting the New South Wales environment and communities. https://t.co/9YCZbAzExW"
+	},
+	{
+		"created_at": "Mon Jan 20 18:11:00 +0000 2020",
+		"id": 1219319313091293200,
+		"id_str": "1219321443025965056",
+		"full_text": "Call for papers: How Fake News Impacts and Engages the Library Mission and Services #WLIC2020: There is a call for papers for the open session on How Fake News Impacts and Engages the Library Mission and Services, organised by IFLA's News Media… https://t.co/bL7gK3UW8I #infolit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WLIC2020",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "infolit",
+					"indices": [
+						270,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bL7gK3UW8I",
+					"expanded_url": "http://dlvr.it/RNPpn7",
+					"display_url": "dlvr.it/RNPpn7",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15573348,
+			"id_str": "15573348",
+			"name": "Sheila Webber",
+			"screen_name": "sheilayoshikawa",
+			"location": "Sheffield & Second Life",
+			"description": "Faculty member at Sheffield University (UK) Information School. Sheila Yoshikawa is my name in Second Life. Love information literacy and various other things.",
+			"url": "http://t.co/S6i5kQXi8j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/S6i5kQXi8j",
+							"expanded_url": "http://about.me/sheila.webber",
+							"display_url": "about.me/sheila.webber",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 576,
+			"listed_count": 93,
+			"created_at": "Wed Jul 23 22:06:10 +0000 2008",
+			"favourites_count": 5010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABEBC2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763523953965031424/xSLhmZ2E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763523953965031424/xSLhmZ2E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15573348/1536278876",
+			"profile_link_color": "384C78",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FDFFD6",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Call for papers: How Fake News Impacts and Engages the Library Mission and Services #WLIC2020: There is a call for papers for the open session on How Fake News Impacts and Engages the Library Mission and Services, organised by IFLA's News Media… https://t.co/bL7gK3UW8I #infolit"
+	},
+	{
 		"created_at": "Sun Jan 19 08:17:29 +0000 2020",
 		"id": 1218764144259678200,
 		"id_str": "1218809692803104768",
