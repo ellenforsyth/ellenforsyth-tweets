@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 23:20:08 +0000 2020",
+		"id": 1219418110593323000,
+		"id_str": "1220848791642767360",
+		"full_text": "Now, even quilters are angry: How a social-justice design started a feud\n✊🏻✊🏻✊🏻⁦@SJSACADEMY⁩ ! \n✊🏻✊🏻✊🏻✊🏻✊🏻✊🏻✊🏻✊🏻✊🏻 https://t.co/ZOkFn3nN86",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SJSACADEMY",
+					"name": "SJSA:",
+					"id": 891846697491480600,
+					"id_str": "891846697491480576",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZOkFn3nN86",
+					"expanded_url": "https://www.washingtonpost.com/entertainment/museums/now-even-quilters-are-angry-how-a-social-justice-design-started-a-feud/2020/01/20/0e9874be-3951-11ea-bb7b-265f4554af6d_story.html",
+					"display_url": "washingtonpost.com/entertainment/…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 189009795,
+			"id_str": "189009795",
+			"name": "elizabeth rubenstein",
+			"screen_name": "sushi24girl",
+			"location": "",
+			"description": "Arts Integration Specialist, Visual Arts Educator, Progressive Education Advocate and Coach.   she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 342,
+			"friends_count": 303,
+			"listed_count": 5,
+			"created_at": "Fri Sep 10 03:49:58 +0000 2010",
+			"favourites_count": 101352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/757276210162302976/Q_T1qdQx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/757276210162302976/Q_T1qdQx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/189009795/1577647612",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now, even quilters are angry: How a social-justice design started a feud\n✊🏻✊🏻✊🏻⁦@SJSACADEMY⁩ ! \n✊🏻✊🏻✊🏻✊🏻✊🏻✊🏻✊🏻✊🏻✊🏻 https://t.co/ZOkFn3nN86"
+	},
+	{
 		"created_at": "Thu Jan 23 22:05:26 +0000 2020",
 		"id": 1220467604298485800,
 		"id_str": "1220467604298485760",
