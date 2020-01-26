@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 25 21:42:49 +0000 2020",
+		"id": 1220879273453445000,
+		"id_str": "1221186689399287808",
+		"full_text": "Saving Perth’s first language from extinction, via Shakespeare, song and a lot of hard work - ABC News (Australian Broadcasting Corporation) https://t.co/f8caQ3ACP0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f8caQ3ACP0",
+					"expanded_url": "https://www.abc.net.au/news/2020-01-25/shakespeares-macbeth-translated-into-noongar-language-hecate/11875152",
+					"display_url": "abc.net.au/news/2020-01-2…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 222016336,
+			"id_str": "222016336",
+			"name": "Rebecca Turner",
+			"screen_name": "rebeccasturner",
+			"location": "Perth, Western Australia.",
+			"description": "ABC News journalist. Tips to: turner.rebecca@abc.net.au",
+			"url": "https://t.co/Mk697n9dHy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mk697n9dHy",
+							"expanded_url": "http://www.abc.net.au",
+							"display_url": "abc.net.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 870,
+			"friends_count": 1090,
+			"listed_count": 20,
+			"created_at": "Thu Dec 02 06:44:24 +0000 2010",
+			"favourites_count": 288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/691879968423460865/MmocD00__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/691879968423460865/MmocD00__normal.jpg",
+			"profile_link_color": "0D010D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saving Perth’s first language from extinction, via Shakespeare, song and a lot of hard work - ABC News (Australian Broadcasting Corporation) https://t.co/f8caQ3ACP0"
+	},
+	{
+		"created_at": "Sat Jan 25 21:39:16 +0000 2020",
+		"id": 1221185793298878500,
+		"id_str": "1221185793298878464",
+		"full_text": "Scientists whose 'endgame' is to save lizards from extinction win $400k grant https://t.co/ggHrrXJILu via @ABCNews",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						106,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ggHrrXJILu",
+					"expanded_url": "https://www.abc.net.au/news/2020-01-26/pygmy-blue-tongue-lizard-relocation-and-400k-research-grant/11893192",
+					"display_url": "abc.net.au/news/2020-01-2…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2514,
+			"friends_count": 820,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scientists whose 'endgame' is to save lizards from extinction win $400k grant https://t.co/ggHrrXJILu via @ABCNews"
+	},
+	{
 		"created_at": "Fri Jan 24 23:20:08 +0000 2020",
 		"id": 1219418110593323000,
 		"id_str": "1220848791642767360",
