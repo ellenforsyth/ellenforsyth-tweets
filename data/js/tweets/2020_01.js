@@ -1,6 +1,1095 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 26 23:24:00 +0000 2020",
+		"id": 1221574539026387000,
+		"id_str": "1221574539026386944",
+		"full_text": "Here are the [ Australian] towns running out of water via ⁦@abcnews⁩  https://t.co/TtcKNd79hq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TtcKNd79hq",
+					"expanded_url": "http://www.abc.net.au/news/2020-01-27/how-long-until-drought-stricken-towns-run-out-of-water/11655124",
+					"display_url": "abc.net.au/news/2020-01-2…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2514,
+			"friends_count": 820,
+			"listed_count": 0,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here are the [ Australian] towns running out of water via ⁦@abcnews⁩  https://t.co/TtcKNd79hq"
+	},
+	{
+		"created_at": "Sun Jan 26 21:08:37 +0000 2020",
+		"id": 1220765823368880000,
+		"id_str": "1221540470079143941",
+		"full_text": "Here is my post about American Dirt, the real problem behind the controversy, and how we serve patron demand and educate them on the issues: https://t.co/zu5YYAOYNU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zu5YYAOYNU",
+					"expanded_url": "http://raforall.blogspot.com/2020/01/american-dirt-controversy-and-edi.html",
+					"display_url": "raforall.blogspot.com/2020/01/americ…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2726,
+			"friends_count": 1897,
+			"listed_count": 140,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 19170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is my post about American Dirt, the real problem behind the controversy, and how we serve patron demand and educate them on the issues: https://t.co/zu5YYAOYNU"
+	},
+	{
+		"created_at": "Sun Jan 26 21:08:32 +0000 2020",
+		"id": 1220782380799217700,
+		"id_str": "1221540447664791552",
+		"full_text": "Gabino Iglesias weighs in on the American Dirt controversy.\n\"We don't need someone born and raised in Nebraska who doesn't speak a word of Spanish and has never migrated or lived in exile to tell us about those experiences.\" \nhttps://t.co/8J7oxBFqHU @Gabino_Iglesias",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gabino_Iglesias",
+					"name": "Gabino Iglesias",
+					"id": 262365555,
+					"id_str": "262365555",
+					"indices": [
+						250,
+						266
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8J7oxBFqHU",
+					"expanded_url": "https://litreactor.com/columns/the-american-dirt-problem-is-deeper-than-a-book",
+					"display_url": "litreactor.com/columns/the-am…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309764903,
+			"id_str": "309764903",
+			"name": "LitReactor.com",
+			"screen_name": "LitReactor",
+			"location": "Online",
+			"description": "A haven for readers.  A launching point for writers. Offering an online writing workshop, and classes taught by published authors and industry professionals.",
+			"url": "https://t.co/aaau4WaggO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aaau4WaggO",
+							"expanded_url": "http://www.litreactor.com",
+							"display_url": "litreactor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27919,
+			"friends_count": 3855,
+			"listed_count": 976,
+			"created_at": "Thu Jun 02 16:45:08 +0000 2011",
+			"favourites_count": 11196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148986667514155013/IsBw2uzJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148986667514155013/IsBw2uzJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309764903/1348636222",
+			"profile_link_color": "CC3300",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "261E1A",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gabino Iglesias weighs in on the American Dirt controversy.\n\"We don't need someone born and raised in Nebraska who doesn't speak a word of Spanish and has never migrated or lived in exile to tell us about those experiences.\" \nhttps://t.co/8J7oxBFqHU @Gabino_Iglesias"
+	},
+	{
+		"created_at": "Sun Jan 26 21:04:06 +0000 2020",
+		"id": 1221539331375947800,
+		"id_str": "1221539331375947779",
+		"full_text": "looks brilliant https://t.co/qbK2dnlugt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qbK2dnlugt",
+					"expanded_url": "https://twitter.com/TavolaMed/status/1221400673801031680",
+					"display_url": "twitter.com/TavolaMed/stat…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2514,
+			"friends_count": 820,
+			"listed_count": 0,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221400673801031700,
+		"quoted_status_id_str": "1221400673801031680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qbK2dnlugt",
+			"expanded": "https://twitter.com/TavolaMed/status/1221400673801031680",
+			"display": "twitter.com/TavolaMed/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 26 11:53:07 +0000 2020",
+			"id": 1221400673801031700,
+			"id_str": "1221400673801031680",
+			"full_text": "Baking with the Romans: Herculaneum Bath Bread — Explore this little known, 2,000-year-old stamped Roman flatbread that was excavated from a bath complex at Herculaneum in 1874, ...A what? Yup. A bath complex. 😮 https://t.co/JWPSIysGB2 #bread #archaeology #herculaneum #Recipe https://t.co/o8Ewochz23",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bread",
+						"indices": [
+							236,
+							242
+						]
+					},
+					{
+						"text": "archaeology",
+						"indices": [
+							243,
+							255
+						]
+					},
+					{
+						"text": "herculaneum",
+						"indices": [
+							256,
+							268
+						]
+					},
+					{
+						"text": "Recipe",
+						"indices": [
+							269,
+							276
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JWPSIysGB2",
+						"expanded_url": "https://tavolamediterranea.com/2020/01/25/baking-with-the-romans-bath-bread/",
+						"display_url": "tavolamediterranea.com/2020/01/25/bak…",
+						"indices": [
+							212,
+							235
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1221400666431578000,
+						"id_str": "1221400666431578113",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/EPNJb1MUYAEjY9v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPNJb1MUYAEjY9v.jpg",
+						"url": "https://t.co/o8Ewochz23",
+						"display_url": "pic.twitter.com/o8Ewochz23",
+						"expanded_url": "https://twitter.com/TavolaMed/status/1221400673801031680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 280,
+										"y": 117,
+										"h": 39,
+										"w": 39
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 846,
+										"y": 354,
+										"h": 120,
+										"w": 120
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 495,
+										"y": 207,
+										"h": 70,
+										"w": 70
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 846,
+										"y": 354,
+										"h": 120,
+										"w": 120
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1221400666431578000,
+						"id_str": "1221400666431578113",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/EPNJb1MUYAEjY9v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPNJb1MUYAEjY9v.jpg",
+						"url": "https://t.co/o8Ewochz23",
+						"display_url": "pic.twitter.com/o8Ewochz23",
+						"expanded_url": "https://twitter.com/TavolaMed/status/1221400673801031680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 280,
+										"y": 117,
+										"h": 39,
+										"w": 39
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 846,
+										"y": 354,
+										"h": 120,
+										"w": 120
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 495,
+										"y": 207,
+										"h": 70,
+										"w": 70
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 846,
+										"y": 354,
+										"h": 120,
+										"w": 120
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 532435317,
+				"id_str": "532435317",
+				"name": "Tavola Mediterranea (Farrell Monaco)",
+				"screen_name": "TavolaMed",
+				"location": "California, USA",
+				"description": "Award-Winning Archaeologist, Baker, Food In-Taker. 2019 Winner of Best Special Interest Food Blog by Saveur Mag. Photos © Farrell Monaco #TheOldSchoolKitchen",
+				"url": "https://t.co/xBxuJojZig",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xBxuJojZig",
+								"expanded_url": "http://www.tavolamediterranea.com",
+								"display_url": "tavolamediterranea.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1237,
+				"friends_count": 1451,
+				"listed_count": 30,
+				"created_at": "Wed Mar 21 16:17:24 +0000 2012",
+				"favourites_count": 1759,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1907,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1199326543224463360/GOTthKV-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199326543224463360/GOTthKV-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/532435317/1573954869",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 138,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "looks brilliant https://t.co/qbK2dnlugt"
+	},
+	{
+		"created_at": "Sun Jan 26 20:42:12 +0000 2020",
+		"id": 1221533819347488800,
+		"id_str": "1221533819347488768",
+		"full_text": "@alex_christofi I think is it a good idea, for books you own (not for library books) I read long books as ebooks because of the size, but cutting them up would also work.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alex_christofi",
+					"name": "Alex Christofi",
+					"id": 557637713,
+					"id_str": "557637713",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1219564301029138400,
+		"in_reply_to_status_id_str": "1219564301029138432",
+		"in_reply_to_user_id": 557637713,
+		"in_reply_to_user_id_str": "557637713",
+		"in_reply_to_screen_name": "alex_christofi",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2514,
+			"friends_count": 820,
+			"listed_count": 0,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alex_christofi I think is it a good idea, for books you own (not for library books) I read long books as ebooks because of the size, but cutting them up would also work."
+	},
+	{
+		"created_at": "Sun Jan 26 19:55:40 +0000 2020",
+		"id": 1221515288480485400,
+		"id_str": "1221522111849566208",
+		"full_text": "\"Even in the midst of darkness, it is possible to create light and share warmth with one another; that even on the edge of the abyss, it is possible to dream exalted dreams of compassion\" (Elie Wiesel, Auschwitz survivor) \n\nAuschwitz II-Birkenau. Photo: Jarek Fiedor. #Auschwitz75 https://t.co/pYKgEdF2Pz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Auschwitz75",
+					"indices": [
+						268,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221515276367409200,
+					"id_str": "1221515276367409155",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EPOxrAeXsAMXrSc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPOxrAeXsAMXrSc.jpg",
+					"url": "https://t.co/pYKgEdF2Pz",
+					"display_url": "pic.twitter.com/pYKgEdF2Pz",
+					"expanded_url": "https://twitter.com/AuschwitzMuseum/status/1221515288480485376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221515276367409200,
+					"id_str": "1221515276367409155",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EPOxrAeXsAMXrSc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPOxrAeXsAMXrSc.jpg",
+					"url": "https://t.co/pYKgEdF2Pz",
+					"display_url": "pic.twitter.com/pYKgEdF2Pz",
+					"expanded_url": "https://twitter.com/AuschwitzMuseum/status/1221515288480485376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 586291040,
+			"id_str": "586291040",
+			"name": "Auschwitz Memorial",
+			"screen_name": "AuschwitzMuseum",
+			"location": "Oświęcim, Polska",
+			"description": "Official account. The Memorial preserves the site of the former German Nazi Auschwitz concentration and extermination camp. You can help https://t.co/j6IljJa4vT",
+			"url": "http://t.co/0g3OYW2Qyu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0g3OYW2Qyu",
+							"expanded_url": "http://www.auschwitz.org",
+							"display_url": "auschwitz.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/j6IljJa4vT",
+							"expanded_url": "http://donate.auschwitz.org",
+							"display_url": "donate.auschwitz.org",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1013036,
+			"friends_count": 2054,
+			"listed_count": 1910,
+			"created_at": "Mon May 21 06:04:31 +0000 2012",
+			"favourites_count": 39445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 76135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181911147416604673/U2Pn_vzn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181911147416604673/U2Pn_vzn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/586291040/1399369241",
+			"profile_link_color": "035FA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1726,
+		"favorite_count": 4994,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Even in the midst of darkness, it is possible to create light and share warmth with one another; that even on the edge of the abyss, it is possible to dream exalted dreams of compassion\" (Elie Wiesel, Auschwitz survivor) \n\nAuschwitz II-Birkenau. Photo: Jarek Fiedor. #Auschwitz75 https://t.co/pYKgEdF2Pz"
+	},
+	{
 		"created_at": "Sat Jan 25 21:42:49 +0000 2020",
 		"id": 1220879273453445000,
 		"id_str": "1221186689399287808",
