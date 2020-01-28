@@ -1,6 +1,718 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 21:37:18 +0000 2020",
+		"id": 1221910074270126000,
+		"id_str": "1221910074270126080",
+		"full_text": "A few thoughts on Baking with Kim-Joy: Cute and Creative Bakes to Make You Smile https://t.co/K2IkwlOh02",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K2IkwlOh02",
+					"expanded_url": "https://ift.tt/36CIF6M",
+					"display_url": "ift.tt/36CIF6M",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2511,
+			"friends_count": 821,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A few thoughts on Baking with Kim-Joy: Cute and Creative Bakes to Make You Smile https://t.co/K2IkwlOh02"
+	},
+	{
+		"created_at": "Mon Jan 27 21:23:16 +0000 2020",
+		"id": 1221906542607229000,
+		"id_str": "1221906542607228928",
+		"full_text": "Important reporting https://t.co/I2wGiGhjNy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I2wGiGhjNy",
+					"expanded_url": "https://twitter.com/ingating/status/1221898295921930241",
+					"display_url": "twitter.com/ingating/statu…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2511,
+			"friends_count": 821,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221898295921930200,
+		"quoted_status_id_str": "1221898295921930241",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I2wGiGhjNy",
+			"expanded": "https://twitter.com/ingating/status/1221898295921930241",
+			"display": "twitter.com/ingating/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 27 20:50:30 +0000 2020",
+			"id": 1221898295921930200,
+			"id_str": "1221898295921930241",
+			"full_text": "We crunched 10 years of data to show you the outcome of nearly every sexual assault reported to police in Australia between 2008 and 2017.\n\n'A shocking indictment': This is what 140,000 sexual assault reports tell us about police inaction https://t.co/0X5l3RG5Wp @abcnews https://t.co/xGhZImSKq0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "abcnews",
+						"name": "ABC News",
+						"id": 2768501,
+						"id_str": "2768501",
+						"indices": [
+							263,
+							271
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0X5l3RG5Wp",
+						"expanded_url": "https://www.abc.net.au/news/2020-01-28/how-police-are-failing-survivors-of-sexual-assault/11871364",
+						"display_url": "abc.net.au/news/2020-01-2…",
+						"indices": [
+							239,
+							262
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1221897817196679200,
+						"id_str": "1221897817196679168",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUNl0HVUAA_f5y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUNl0HVUAA_f5y.jpg",
+						"url": "https://t.co/xGhZImSKq0",
+						"display_url": "pic.twitter.com/xGhZImSKq0",
+						"expanded_url": "https://twitter.com/ingating/status/1221898295921930241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1574,
+								"h": 951,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 725,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 411,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1221897817196679200,
+						"id_str": "1221897817196679168",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUNl0HVUAA_f5y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUNl0HVUAA_f5y.jpg",
+						"url": "https://t.co/xGhZImSKq0",
+						"display_url": "pic.twitter.com/xGhZImSKq0",
+						"expanded_url": "https://twitter.com/ingating/status/1221898295921930241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1574,
+								"h": 951,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 725,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 411,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1221898207107547100,
+						"id_str": "1221898207107547136",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUN8gpVAAAOng8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUN8gpVAAAOng8.jpg",
+						"url": "https://t.co/xGhZImSKq0",
+						"display_url": "pic.twitter.com/xGhZImSKq0",
+						"expanded_url": "https://twitter.com/ingating/status/1221898295921930241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1091,
+								"h": 1022,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 637,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1091,
+								"h": 1022,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1221898207392714800,
+						"id_str": "1221898207392714753",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUN8htUUAEBNLx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUN8htUUAEBNLx.jpg",
+						"url": "https://t.co/xGhZImSKq0",
+						"display_url": "pic.twitter.com/xGhZImSKq0",
+						"expanded_url": "https://twitter.com/ingating/status/1221898295921930241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 899,
+								"h": 1019,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 899,
+								"h": 1019,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1221898275734708200,
+						"id_str": "1221898275734708224",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUOAgTUYAA0_dM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUOAgTUYAA0_dM.jpg",
+						"url": "https://t.co/xGhZImSKq0",
+						"display_url": "pic.twitter.com/xGhZImSKq0",
+						"expanded_url": "https://twitter.com/ingating/status/1221898295921930241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 410,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 410,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 290,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 190544821,
+				"id_str": "190544821",
+				"name": "Inga Ting",
+				"screen_name": "ingating",
+				"location": "Sydney, Australia",
+				"description": "Data journalist at @abcnews; previously at @smh. I like to stare at spreadsheets. Profile pic by the brilliant @mkbrangan. DMs open. Email ting.inga@abc.net.au",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2517,
+				"friends_count": 1325,
+				"listed_count": 109,
+				"created_at": "Tue Sep 14 06:09:47 +0000 2010",
+				"favourites_count": 1110,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3305,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844049737363865602/ReW7KRGS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844049737363865602/ReW7KRGS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/190544821/1490073539",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 308,
+			"favorite_count": 374,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Important reporting https://t.co/I2wGiGhjNy"
+	},
+	{
+		"created_at": "Mon Jan 27 19:19:06 +0000 2020",
+		"id": 1221875297374486500,
+		"id_str": "1221875297374486528",
+		"full_text": "@chrismac_au @coffeemiss congratulations @coffeemiss",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chrismac_au",
+					"name": "Christine Mackenzie",
+					"id": 771552981846077400,
+					"id_str": "771552981846077440",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "coffeemiss",
+					"name": "Vicki McDonald",
+					"id": 534853449,
+					"id_str": "534853449",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "coffeemiss",
+					"name": "Vicki McDonald",
+					"id": 534853449,
+					"id_str": "534853449",
+					"indices": [
+						41,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1221745050507300900,
+		"in_reply_to_status_id_str": "1221745050507300864",
+		"in_reply_to_user_id": 771552981846077400,
+		"in_reply_to_user_id_str": "771552981846077440",
+		"in_reply_to_screen_name": "chrismac_au",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2511,
+			"friends_count": 821,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chrismac_au @coffeemiss congratulations @coffeemiss"
+	},
+	{
 		"created_at": "Sun Jan 26 23:24:00 +0000 2020",
 		"id": 1221574539026387000,
 		"id_str": "1221574539026386944",
