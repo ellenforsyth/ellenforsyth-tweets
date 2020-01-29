@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 29 05:22:21 +0000 2020",
+		"id": 1222385678698213400,
+		"id_str": "1222389497297375233",
+		"full_text": "Is the #data collected by #citizenscience projects as useful as professionally collected data? Latest research suggests that @frogID data could accurately predict #frog species richness, making your contributions to citizen science very useful. https://t.co/FlMjmOHpc3 https://t.co/nfyNsskNm9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "data",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "citizenscience",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"text": "frog",
+					"indices": [
+						163,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frogid",
+					"name": "채팅대화//gg5.jp.st",
+					"id": 43480065,
+					"id_str": "43480065",
+					"indices": [
+						125,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FlMjmOHpc3",
+					"expanded_url": "https://bit.ly/2tP6Lhh",
+					"display_url": "bit.ly/2tP6Lhh",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222385591112700000,
+					"id_str": "1222385591112699904",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EPbJN_jUEAA1EKl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPbJN_jUEAA1EKl.jpg",
+					"url": "https://t.co/nfyNsskNm9",
+					"display_url": "pic.twitter.com/nfyNsskNm9",
+					"expanded_url": "https://twitter.com/austmus/status/1222385678698213377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1181,
+							"h": 886,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1181,
+							"h": 886,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 734,
+									"y": 369,
+									"h": 114,
+									"w": 114
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 422,
+									"y": 212,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 734,
+									"y": 369,
+									"h": 114,
+									"w": 114
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 734,
+									"y": 369,
+									"h": 114,
+									"w": 114
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222385591112700000,
+					"id_str": "1222385591112699904",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EPbJN_jUEAA1EKl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPbJN_jUEAA1EKl.jpg",
+					"url": "https://t.co/nfyNsskNm9",
+					"display_url": "pic.twitter.com/nfyNsskNm9",
+					"expanded_url": "https://twitter.com/austmus/status/1222385678698213377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1181,
+							"h": 886,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1181,
+							"h": 886,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 734,
+									"y": 369,
+									"h": 114,
+									"w": 114
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 422,
+									"y": 212,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 734,
+									"y": 369,
+									"h": 114,
+									"w": 114
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 734,
+									"y": 369,
+									"h": 114,
+									"w": 114
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20570871,
+			"id_str": "20570871",
+			"name": "Australian Museum",
+			"screen_name": "austmus",
+			"location": "Sydney",
+			"description": "Australia's first museum, showcasing an outstanding natural history and cultural collection. A New South Wales Government funded cultural institution.",
+			"url": "https://t.co/WoNtgqXUvy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WoNtgqXUvy",
+							"expanded_url": "http://www.australianmuseum.net.au/",
+							"display_url": "australianmuseum.net.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22570,
+			"friends_count": 2553,
+			"listed_count": 702,
+			"created_at": "Wed Feb 11 04:23:20 +0000 2009",
+			"favourites_count": 10711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/640700319165345793/pjqm5C40_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/640700319165345793/pjqm5C40_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20570871/1580274875",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is the #data collected by #citizenscience projects as useful as professionally collected data? Latest research suggests that @frogID data could accurately predict #frog species richness, making your contributions to citizen science very useful. https://t.co/FlMjmOHpc3 https://t.co/nfyNsskNm9"
+	},
+	{
+		"created_at": "Tue Jan 28 22:53:59 +0000 2020",
+		"id": 1222180166895620000,
+		"id_str": "1222291762439319552",
+		"full_text": "Before those of us in the library profession and publishing industry start patting ourselves on the back too much, take a look at @LEEandLOW's new Diversity Baseline Survey. We have failed to move the needle from 2015; there is a lot of work to be done. https://t.co/lZTTZe5Onm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LEEandLOW",
+					"name": "Lee & Low Books",
+					"id": 19548915,
+					"id_str": "19548915",
+					"indices": [
+						130,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lZTTZe5Onm",
+					"expanded_url": "https://blog.leeandlow.com/2020/01/28/2019diversitybaselinesurvey/",
+					"display_url": "blog.leeandlow.com/2020/01/28/201…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159067225,
+			"id_str": "159067225",
+			"name": "Kiera Parrott",
+			"screen_name": "libraryvoice",
+			"location": "New York, USA",
+			"description": "Reviews & Production Director for Library Journal & School Library Journal. MLIS. Huffledor(Griffinpuff?). Opinions are my own. She/her. #spoonie",
+			"url": "https://t.co/Kv7MI1PzK5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kv7MI1PzK5",
+							"expanded_url": "http://libraryjournal.com",
+							"display_url": "libraryjournal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5926,
+			"friends_count": 5996,
+			"listed_count": 226,
+			"created_at": "Thu Jun 24 10:47:08 +0000 2010",
+			"favourites_count": 11183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190409447501373442/HzIjmPNH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190409447501373442/HzIjmPNH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159067225/1572649754",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Before those of us in the library profession and publishing industry start patting ourselves on the back too much, take a look at @LEEandLOW's new Diversity Baseline Survey. We have failed to move the needle from 2015; there is a lot of work to be done. https://t.co/lZTTZe5Onm"
+	},
+	{
 		"created_at": "Mon Jan 27 21:37:18 +0000 2020",
 		"id": 1221910074270126000,
 		"id_str": "1221910074270126080",
