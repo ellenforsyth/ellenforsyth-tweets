@@ -1,6 +1,1133 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 19:24:52 +0000 2020",
+		"id": 1224775848575697000,
+		"id_str": "1224775848575696896",
+		"full_text": "great resources https://t.co/ATtxuSbU09",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ATtxuSbU09",
+					"expanded_url": "https://twitter.com/Colossal/status/1223249987573776390",
+					"display_url": "twitter.com/Colossal/statu…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 822,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1223249987573776400,
+		"quoted_status_id_str": "1223249987573776390",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ATtxuSbU09",
+			"expanded": "https://twitter.com/Colossal/status/1223249987573776390",
+			"display": "twitter.com/Colossal/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 31 14:21:38 +0000 2020",
+			"id": 1223249987573776400,
+			"id_str": "1223249987573776390",
+			"full_text": "You can download 150,000 (free!) botanical and animal illustrations from the Biodiversity Heritage Library. https://t.co/XLXxPcqq0C https://t.co/t1Zx8PpeTQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XLXxPcqq0C",
+						"expanded_url": "https://www.thisiscolossal.com/2020/01/biodiversity-heritage-library-free-download/",
+						"display_url": "thisiscolossal.com/2020/01/biodiv…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1223249978761654300,
+						"id_str": "1223249978761654272",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EPnbX-eXsAA3PZh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPnbX-eXsAA3PZh.jpg",
+						"url": "https://t.co/t1Zx8PpeTQ",
+						"display_url": "pic.twitter.com/t1Zx8PpeTQ",
+						"expanded_url": "https://twitter.com/Colossal/status/1223249987573776390/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 844,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 478,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1406,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 371,
+										"y": 632,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 251,
+										"y": 72,
+										"h": 64,
+										"w": 64
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 619,
+										"y": 1054,
+										"h": 72,
+										"w": 72
+									},
+									{
+										"x": 419,
+										"y": 121,
+										"h": 107,
+										"w": 107
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 210,
+										"y": 358,
+										"h": 24,
+										"w": 24
+									},
+									{
+										"x": 142,
+										"y": 41,
+										"h": 36,
+										"w": 36
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 619,
+										"y": 1054,
+										"h": 72,
+										"w": 72
+									},
+									{
+										"x": 419,
+										"y": 121,
+										"h": 107,
+										"w": 107
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1223249978761654300,
+						"id_str": "1223249978761654272",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EPnbX-eXsAA3PZh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPnbX-eXsAA3PZh.jpg",
+						"url": "https://t.co/t1Zx8PpeTQ",
+						"display_url": "pic.twitter.com/t1Zx8PpeTQ",
+						"expanded_url": "https://twitter.com/Colossal/status/1223249987573776390/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 844,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 478,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1406,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 371,
+										"y": 632,
+										"h": 43,
+										"w": 43
+									},
+									{
+										"x": 251,
+										"y": 72,
+										"h": 64,
+										"w": 64
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 619,
+										"y": 1054,
+										"h": 72,
+										"w": 72
+									},
+									{
+										"x": 419,
+										"y": 121,
+										"h": 107,
+										"w": 107
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 210,
+										"y": 358,
+										"h": 24,
+										"w": 24
+									},
+									{
+										"x": 142,
+										"y": 41,
+										"h": 36,
+										"w": 36
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 619,
+										"y": 1054,
+										"h": 72,
+										"w": 72
+									},
+									{
+										"x": 419,
+										"y": 121,
+										"h": 107,
+										"w": 107
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 203063180,
+				"id_str": "203063180",
+				"name": "Colossal",
+				"screen_name": "Colossal",
+				"location": "Chicago",
+				"description": "Art, design, photography, and visual culture.",
+				"url": "https://t.co/WMywZPtjpC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WMywZPtjpC",
+								"expanded_url": "http://colossal.art",
+								"display_url": "colossal.art",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 155027,
+				"friends_count": 625,
+				"listed_count": 4807,
+				"created_at": "Fri Oct 15 13:06:40 +0000 2010",
+				"favourites_count": 2765,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12032,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/920685695907303424/ZrILX0vl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/920685695907303424/ZrILX0vl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/203063180/1573077446",
+				"profile_link_color": "E06100",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 111,
+			"favorite_count": 264,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great resources https://t.co/ATtxuSbU09"
+	},
+	{
+		"created_at": "Tue Feb 04 19:24:32 +0000 2020",
+		"id": 1224775767709507600,
+		"id_str": "1224775767709507585",
+		"full_text": "these are lovely https://t.co/pAS3tpRjvd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pAS3tpRjvd",
+					"expanded_url": "https://twitter.com/Colossal/status/1223591830983409665",
+					"display_url": "twitter.com/Colossal/statu…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 822,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1223591830983409700,
+		"quoted_status_id_str": "1223591830983409665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pAS3tpRjvd",
+			"expanded": "https://twitter.com/Colossal/status/1223591830983409665",
+			"display": "twitter.com/Colossal/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 01 13:00:00 +0000 2020",
+			"id": 1223591830983409700,
+			"id_str": "1223591830983409665",
+			"full_text": "Dazzling gradients and geometric designs baked into pies and tarts by Lauren Ko https://t.co/VLEKPXyqhk https://t.co/fa9JghCXgi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VLEKPXyqhk",
+						"expanded_url": "https://www.thisiscolossal.com/2019/02/new-pies-and-tarts-by-lauren-ko/",
+						"display_url": "thisiscolossal.com/2019/02/new-pi…",
+						"indices": [
+							80,
+							103
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1222269672063631400,
+						"id_str": "1222269672063631360",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/EPZfyncWAAAqbfi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPZfyncWAAAqbfi.jpg",
+						"url": "https://t.co/fa9JghCXgi",
+						"display_url": "pic.twitter.com/fa9JghCXgi",
+						"expanded_url": "https://twitter.com/Colossal/status/1223591830983409665/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1084,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 677,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1084,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1222269672063631400,
+						"id_str": "1222269672063631360",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/EPZfyncWAAAqbfi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPZfyncWAAAqbfi.jpg",
+						"url": "https://t.co/fa9JghCXgi",
+						"display_url": "pic.twitter.com/fa9JghCXgi",
+						"expanded_url": "https://twitter.com/Colossal/status/1223591830983409665/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1084,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 677,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1084,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 203063180,
+				"id_str": "203063180",
+				"name": "Colossal",
+				"screen_name": "Colossal",
+				"location": "Chicago",
+				"description": "Art, design, photography, and visual culture.",
+				"url": "https://t.co/WMywZPtjpC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WMywZPtjpC",
+								"expanded_url": "http://colossal.art",
+								"display_url": "colossal.art",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 155027,
+				"friends_count": 625,
+				"listed_count": 4807,
+				"created_at": "Fri Oct 15 13:06:40 +0000 2010",
+				"favourites_count": 2765,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12032,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/920685695907303424/ZrILX0vl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/920685695907303424/ZrILX0vl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/203063180/1573077446",
+				"profile_link_color": "E06100",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "these are lovely https://t.co/pAS3tpRjvd"
+	},
+	{
+		"created_at": "Tue Feb 04 19:20:13 +0000 2020",
+		"id": 1224441539713065000,
+		"id_str": "1224774679853850626",
+		"full_text": "Our latest article in The Conversation calling for government and organisations to move quickly to harness the will to act for nature following the bushfire crisis: #bushfirecrisis #behaviourchange #nature https://t.co/jTc2VpWMgP via @ConversationEDU  @BehavWorksAus",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bushfirecrisis",
+					"indices": [
+						165,
+						180
+					]
+				},
+				{
+					"text": "behaviourchange",
+					"indices": [
+						181,
+						197
+					]
+				},
+				{
+					"text": "nature",
+					"indices": [
+						198,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						234,
+						250
+					]
+				},
+				{
+					"screen_name": "BehavWorksAus",
+					"name": "BehaviourWorks Aus",
+					"id": 4109464153,
+					"id_str": "4109464153",
+					"indices": [
+						252,
+						266
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jTc2VpWMgP",
+					"expanded_url": "https://theconversation.com/lots-of-people-want-to-help-nature-after-the-bushfires-we-must-seize-the-moment-130874?utm_source=twitter&utm_medium=bylinetwitterbutton",
+					"display_url": "theconversation.com/lots-of-people…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 534481461,
+			"id_str": "534481461",
+			"name": "Denise Goodwin",
+			"screen_name": "DeeGoody79",
+			"location": "Melbourne",
+			"description": "Interest in complex adaptive systems and behavioural science. Sports women (taking part medals won). Food and wine always welcome.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 115,
+			"listed_count": 2,
+			"created_at": "Fri Mar 23 15:10:17 +0000 2012",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2165017333/hell_runner_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2165017333/hell_runner_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/534481461/1481774577",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our latest article in The Conversation calling for government and organisations to move quickly to harness the will to act for nature following the bushfire crisis: #bushfirecrisis #behaviourchange #nature https://t.co/jTc2VpWMgP via @ConversationEDU  @BehavWorksAus"
+	},
+	{
+		"created_at": "Tue Feb 04 18:50:23 +0000 2020",
+		"id": 1221547355368906800,
+		"id_str": "1224767173173760000",
+		"full_text": "Join the online #seedlibrary community at Up Beet! https://t.co/LL8qB2WxQE. #seedsaving https://t.co/axJvcIBwST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "seedlibrary",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"text": "seedsaving",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LL8qB2WxQE",
+					"expanded_url": "https://seedlibraries.groups.io/g/main",
+					"display_url": "seedlibraries.groups.io/g/main",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1221547352017621000,
+					"id_str": "1221547352017620992",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EPPO2DlUUAAu5bV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPPO2DlUUAAu5bV.jpg",
+					"url": "https://t.co/axJvcIBwST",
+					"display_url": "pic.twitter.com/axJvcIBwST",
+					"expanded_url": "https://twitter.com/seedlibraries/status/1221547355368906752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 197,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 938,
+							"h": 272,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 938,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221547352017621000,
+					"id_str": "1221547352017620992",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EPPO2DlUUAAu5bV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPPO2DlUUAAu5bV.jpg",
+					"url": "https://t.co/axJvcIBwST",
+					"display_url": "pic.twitter.com/axJvcIBwST",
+					"expanded_url": "https://twitter.com/seedlibraries/status/1221547355368906752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 197,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 938,
+							"h": 272,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 938,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 172277609,
+			"id_str": "172277609",
+			"name": "Seed Libraries",
+			"screen_name": "seedlibraries",
+			"location": "Everywhere",
+			"description": "We are a community of seed libraries from around the world supporting each other to save & share seeds, protect biodiversity while increasing food security.",
+			"url": "https://t.co/0gasYw89z4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0gasYw89z4",
+							"expanded_url": "http://SeedLibraries.net",
+							"display_url": "SeedLibraries.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 203,
+			"listed_count": 12,
+			"created_at": "Thu Jul 29 09:16:28 +0000 2010",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/440775010987167744/WAHj8UyV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/440775010987167744/WAHj8UyV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/172277609/1391534851",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join the online #seedlibrary community at Up Beet! https://t.co/LL8qB2WxQE. #seedsaving https://t.co/axJvcIBwST"
+	},
+	{
 		"created_at": "Mon Feb 03 09:49:26 +0000 2020",
 		"id": 1224268650808397800,
 		"id_str": "1224268650808397826",
