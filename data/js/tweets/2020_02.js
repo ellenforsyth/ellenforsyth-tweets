@@ -1,6 +1,641 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 05 18:50:46 +0000 2020",
+		"id": 1224721908249264000,
+		"id_str": "1225129655117631488",
+		"full_text": "Occupational gender bias in online images: Latest Library Links https://t.co/8zOKLqFDt4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8zOKLqFDt4",
+					"expanded_url": "http://bit.ly/2OtzYVX",
+					"display_url": "bit.ly/2OtzYVX",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18955776,
+			"id_str": "18955776",
+			"name": "American Libraries",
+			"screen_name": "amlibraries",
+			"location": "Chicago",
+			"description": "Magazine of the American Library Association. Tweeters include Amy Carlton, Terra Dankowski, George Eberhart, Phil Morehart, Sallyann Price & Sanhita SinhaRoy.",
+			"url": "http://t.co/2Dq9yGNmHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2Dq9yGNmHL",
+							"expanded_url": "http://americanlibrariesmagazine.org",
+							"display_url": "americanlibrariesmagazine.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81263,
+			"friends_count": 1119,
+			"listed_count": 2317,
+			"created_at": "Tue Jan 13 22:08:09 +0000 2009",
+			"favourites_count": 791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18955776/1577978349",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Occupational gender bias in online images: Latest Library Links https://t.co/8zOKLqFDt4"
+	},
+	{
+		"created_at": "Wed Feb 05 18:50:38 +0000 2020",
+		"id": 1225100582056288300,
+		"id_str": "1225129624062943233",
+		"full_text": "A  global map of internet censorship, 2020: Latest Library Links https://t.co/eVZYNZvSXm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eVZYNZvSXm",
+					"expanded_url": "http://bit.ly/36XXNvl",
+					"display_url": "bit.ly/36XXNvl",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18955776,
+			"id_str": "18955776",
+			"name": "American Libraries",
+			"screen_name": "amlibraries",
+			"location": "Chicago",
+			"description": "Magazine of the American Library Association. Tweeters include Amy Carlton, Terra Dankowski, George Eberhart, Phil Morehart, Sallyann Price & Sanhita SinhaRoy.",
+			"url": "http://t.co/2Dq9yGNmHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2Dq9yGNmHL",
+							"expanded_url": "http://americanlibrariesmagazine.org",
+							"display_url": "americanlibrariesmagazine.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81263,
+			"friends_count": 1119,
+			"listed_count": 2317,
+			"created_at": "Tue Jan 13 22:08:09 +0000 2009",
+			"favourites_count": 791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18955776/1577978349",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A  global map of internet censorship, 2020: Latest Library Links https://t.co/eVZYNZvSXm"
+	},
+	{
+		"created_at": "Wed Feb 05 18:44:28 +0000 2020",
+		"id": 1225128069393834000,
+		"id_str": "1225128069393833984",
+		"full_text": "What were women reading? A dive into the Folger vault https://t.co/vbuOAflLIG via @folgerlibrary and via an alert from @amlibraries interesting research",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FolgerLibrary",
+					"name": "Folger Shakespeare Library",
+					"id": 23128654,
+					"id_str": "23128654",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"screen_name": "amlibraries",
+					"name": "American Libraries",
+					"id": 18955776,
+					"id_str": "18955776",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vbuOAflLIG",
+					"expanded_url": "https://shakespeareandbeyond.folger.edu/2020/01/24/women-readers-books-owners-names/",
+					"display_url": "shakespeareandbeyond.folger.edu/2020/01/24/wom…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 822,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What were women reading? A dive into the Folger vault https://t.co/vbuOAflLIG via @folgerlibrary and via an alert from @amlibraries interesting research"
+	},
+	{
+		"created_at": "Wed Feb 05 18:43:39 +0000 2020",
+		"id": 1225127864875405300,
+		"id_str": "1225127864875405318",
+		"full_text": "this is very thoughtful https://t.co/d4rztPkCFL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d4rztPkCFL",
+					"expanded_url": "https://twitter.com/LAPublicLibrary/status/1222571157783580672",
+					"display_url": "twitter.com/LAPublicLibrar…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 822,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222571157783580700,
+		"quoted_status_id_str": "1222571157783580672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d4rztPkCFL",
+			"expanded": "https://twitter.com/LAPublicLibrary/status/1222571157783580672",
+			"display": "twitter.com/LAPublicLibrar…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 29 17:24:12 +0000 2020",
+			"id": 1222571157783580700,
+			"id_str": "1222571157783580672",
+			"full_text": "Kobe's Bookshelf - We looked through old interviews and social media posts to piece together a reading list of books that inspired the Black Mamba: https://t.co/Q0Jlaw6TW0 https://t.co/4qQjfdV8zg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Q0Jlaw6TW0",
+						"expanded_url": "http://lapl.me/xwiGbam",
+						"display_url": "lapl.me/xwiGbam",
+						"indices": [
+							148,
+							171
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1222571154528862200,
+						"id_str": "1222571154528862209",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/EPdx_NJVAAEvXgv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPdx_NJVAAEvXgv.jpg",
+						"url": "https://t.co/4qQjfdV8zg",
+						"display_url": "pic.twitter.com/4qQjfdV8zg",
+						"expanded_url": "https://twitter.com/LAPublicLibrary/status/1222571157783580672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1222571154528862200,
+						"id_str": "1222571154528862209",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/EPdx_NJVAAEvXgv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPdx_NJVAAEvXgv.jpg",
+						"url": "https://t.co/4qQjfdV8zg",
+						"display_url": "pic.twitter.com/4qQjfdV8zg",
+						"expanded_url": "https://twitter.com/LAPublicLibrary/status/1222571157783580672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33573444,
+				"id_str": "33573444",
+				"name": "L.A. Public Library",
+				"screen_name": "LAPublicLibrary",
+				"location": "Los Angeles, California, USA",
+				"description": "Los Angeles Public Library serves the largest and most diverse urban population of any library in the nation. Tweets en español @laplenespanol.",
+				"url": "https://t.co/UWXNShUe0U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UWXNShUe0U",
+								"expanded_url": "http://www.lapl.org/",
+								"display_url": "lapl.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26283,
+				"friends_count": 947,
+				"listed_count": 934,
+				"created_at": "Mon Apr 20 16:37:55 +0000 2009",
+				"favourites_count": 21323,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28449,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E96886",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/443132209008885760/Y4CzVzdS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/443132209008885760/Y4CzVzdS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33573444/1571267772",
+				"profile_link_color": "67283B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F2E6B5",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 239,
+			"favorite_count": 807,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is very thoughtful https://t.co/d4rztPkCFL"
+	},
+	{
 		"created_at": "Tue Feb 04 19:24:52 +0000 2020",
 		"id": 1224775848575697000,
 		"id_str": "1224775848575696896",
