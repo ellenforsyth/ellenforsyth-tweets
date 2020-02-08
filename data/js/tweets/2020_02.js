@@ -1,6 +1,664 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 01:55:13 +0000 2020",
+		"id": 1225906530693701600,
+		"id_str": "1225961246299549696",
+		"full_text": "I’m anxious about our democracy. A step change in money and politics, questions about ministers acting lawfully, a PM conjuring alternate realities, like truth is a vending machine. Cops not on the beat. What are we going to do about it?  https://t.co/DNbVH8pVeY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DNbVH8pVeY",
+					"expanded_url": "https://www.theguardian.com/australia-news/2020/feb/08/australian-democracy-is-at-risk-if-we-want-to-save-it-we-must-all-play-a-part?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66917778,
+			"id_str": "66917778",
+			"name": "Katharine Murphy",
+			"screen_name": "murpharoo",
+			"location": "Canberra",
+			"description": "Political editor, GuardianAU. Recovering live blogger. Insiders. Meanjin. Director NPC. Adjunct AsPro Deakin. Traffic acquisition cost. Makes people cry.",
+			"url": "https://t.co/w5bBLlQzFW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w5bBLlQzFW",
+							"expanded_url": "http://www.theguardian.com/au",
+							"display_url": "theguardian.com/au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163000,
+			"friends_count": 1681,
+			"listed_count": 1199,
+			"created_at": "Wed Aug 19 05:13:38 +0000 2009",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "07090B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/687958069733494784/1SUBcHBJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/687958069733494784/1SUBcHBJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66917778/1569621151",
+			"profile_link_color": "C34242",
+			"profile_sidebar_border_color": "BFBFBF",
+			"profile_sidebar_fill_color": "C9C9C9",
+			"profile_text_color": "1C1F23",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 917,
+		"favorite_count": 1999,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m anxious about our democracy. A step change in money and politics, questions about ministers acting lawfully, a PM conjuring alternate realities, like truth is a vending machine. Cops not on the beat. What are we going to do about it?  https://t.co/DNbVH8pVeY"
+	},
+	{
+		"created_at": "Sat Feb 08 00:20:31 +0000 2020",
+		"id": 1225937417456111600,
+		"id_str": "1225937417456111616",
+		"full_text": "Very interesting project for collecting current information https://t.co/02e6YB02kG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/02e6YB02kG",
+					"expanded_url": "https://twitter.com/austmus/status/1225917152886165505",
+					"display_url": "twitter.com/austmus/status…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 822,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1225917152886165500,
+		"quoted_status_id_str": "1225917152886165505",
+		"quoted_status_permalink": {
+			"url": "https://t.co/02e6YB02kG",
+			"expanded": "https://twitter.com/austmus/status/1225917152886165505",
+			"display": "twitter.com/austmus/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 07 23:00:00 +0000 2020",
+			"id": 1225917152886165500,
+			"id_str": "1225917152886165505",
+			"full_text": "\"I guess this is a war. The planet is angry and it’s fighting back.\"   📷  Stephen Dupont, photojournalist. Share your stories and visions of #ClimateChange using #CapturingClimateChange #australianbushfires #ActNow \nhttps://t.co/MqD53TCkLP https://t.co/4zJorg6bB1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ClimateChange",
+						"indices": [
+							141,
+							155
+						]
+					},
+					{
+						"text": "CapturingClimateChange",
+						"indices": [
+							162,
+							185
+						]
+					},
+					{
+						"text": "australianbushfires",
+						"indices": [
+							186,
+							206
+						]
+					},
+					{
+						"text": "ActNow",
+						"indices": [
+							207,
+							214
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MqD53TCkLP",
+						"expanded_url": "https://australianmuseum.net.au/capturingclimatechange/",
+						"display_url": "australianmuseum.net.au/capturingclima…",
+						"indices": [
+							216,
+							239
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1225650842713223200,
+						"id_str": "1225650842713223169",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/EQJi8pqUcAEdbpp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQJi8pqUcAEdbpp.jpg",
+						"url": "https://t.co/4zJorg6bB1",
+						"display_url": "pic.twitter.com/4zJorg6bB1",
+						"expanded_url": "https://twitter.com/austmus/status/1225917152886165505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1966,
+								"h": 1310,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1225650842713223200,
+						"id_str": "1225650842713223169",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/EQJi8pqUcAEdbpp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQJi8pqUcAEdbpp.jpg",
+						"url": "https://t.co/4zJorg6bB1",
+						"display_url": "pic.twitter.com/4zJorg6bB1",
+						"expanded_url": "https://twitter.com/austmus/status/1225917152886165505/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1966,
+								"h": 1310,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20570871,
+				"id_str": "20570871",
+				"name": "Australian Museum",
+				"screen_name": "austmus",
+				"location": "Sydney",
+				"description": "Australia's first museum, showcasing an outstanding natural history and cultural collection. A New South Wales Government funded cultural institution.",
+				"url": "https://t.co/WoNtgqXUvy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WoNtgqXUvy",
+								"expanded_url": "http://www.australianmuseum.net.au/",
+								"display_url": "australianmuseum.net.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22603,
+				"friends_count": 2553,
+				"listed_count": 703,
+				"created_at": "Wed Feb 11 04:23:20 +0000 2009",
+				"favourites_count": 10718,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21860,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/640700319165345793/pjqm5C40_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/640700319165345793/pjqm5C40_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20570871/1580274875",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very interesting project for collecting current information https://t.co/02e6YB02kG"
+	},
+	{
+		"created_at": "Fri Feb 07 22:37:06 +0000 2020",
+		"id": 1225911390000439300,
+		"id_str": "1225911390000439297",
+		"full_text": "Recipes from our favourite books https://t.co/P4ZbGRo5Vq via #awwfood some great ideas for #readadv and food matching",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "awwfood",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "readadv",
+					"indices": [
+						91,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P4ZbGRo5Vq",
+					"expanded_url": "https://www.womensweeklyfood.com.au/recipes-from-our-favourite-books-29669",
+					"display_url": "womensweeklyfood.com.au/recipes-from-o…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, games, reading, content creation, making, stories, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 822,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Recipes from our favourite books https://t.co/P4ZbGRo5Vq via #awwfood some great ideas for #readadv and food matching"
+	},
+	{
+		"created_at": "Fri Feb 07 09:59:16 +0000 2020",
+		"id": 1225720448408785000,
+		"id_str": "1225720676335538176",
+		"full_text": "Antarctica logs hottest temperature on record with a reading of 18.3C https://t.co/tNQ1GCysaP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tNQ1GCysaP",
+					"expanded_url": "https://www.theguardian.com/world/2020/feb/07/antarctica-logs-hottest-temperature-on-record-with-a-reading-of-183c?utm_term=Autofeed&CMP=soc_568&utm_medium=Social&utm_source=Twitter#Echobox=1581064907",
+					"display_url": "theguardian.com/world/2020/feb…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092378031,
+			"id_str": "1092378031",
+			"name": "Guardian Australia",
+			"screen_name": "GuardianAus",
+			"location": "Australia",
+			"description": "Latest news from Guardian Australia",
+			"url": "https://t.co/yhI6Vqsr3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhI6Vqsr3q",
+							"expanded_url": "https://support.theguardian.com/au/contribute",
+							"display_url": "support.theguardian.com/au/contribute",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 227166,
+			"friends_count": 156,
+			"listed_count": 2481,
+			"created_at": "Tue Jan 15 15:16:44 +0000 2013",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 211434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2AFA9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175902409534476288/iQwEZavm_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175902409534476288/iQwEZavm_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092378031/1569228481",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Antarctica logs hottest temperature on record with a reading of 18.3C https://t.co/tNQ1GCysaP"
+	},
+	{
 		"created_at": "Fri Feb 07 01:12:52 +0000 2020",
 		"id": 1225531668754288600,
 		"id_str": "1225588200900399104",
