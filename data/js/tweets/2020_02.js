@@ -1,6 +1,924 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 23:11:52 +0000 2020",
+		"id": 1228094468240203800,
+		"id_str": "1228094468240203776",
+		"full_text": "\"When you shame people for what they read, you take away their confidence in other areas as well. \" (go and read the rest of the article) https://t.co/CKK67UXmUx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CKK67UXmUx",
+					"expanded_url": "https://twitter.com/EvaWiseman/status/1223731503194046465",
+					"display_url": "twitter.com/EvaWiseman/sta…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 825,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1223731503194046500,
+		"quoted_status_id_str": "1223731503194046465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CKK67UXmUx",
+			"expanded": "https://twitter.com/EvaWiseman/status/1223731503194046465",
+			"display": "twitter.com/EvaWiseman/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 01 22:15:00 +0000 2020",
+			"id": 1223731503194046500,
+			"id_str": "1223731503194046465",
+			"full_text": "Ah @MarianKeyes is just divine isn't she https://t.co/g2hWBtSroq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MarianKeyes",
+						"name": "Marian Keyes",
+						"id": 526425773,
+						"id_str": "526425773",
+						"indices": [
+							3,
+							15
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/g2hWBtSroq",
+						"expanded_url": "https://www.theguardian.com/lifeandstyle/2020/feb/01/marian-keyes-i-mainlined-mills-and-boon-this-much-i-know?CMP=Share_iOSApp_Other",
+						"display_url": "theguardian.com/lifeandstyle/2…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 94083901,
+				"id_str": "94083901",
+				"name": "Eva Wiseman",
+				"screen_name": "EvaWiseman",
+				"location": "The Observer",
+				"description": "Here she comes, Thierry Ennui...",
+				"url": "http://t.co/MpwSIjCLXZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MpwSIjCLXZ",
+								"expanded_url": "http://www.guardian.co.uk/profile/evawiseman",
+								"display_url": "guardian.co.uk/profile/evawis…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54025,
+				"friends_count": 694,
+				"listed_count": 491,
+				"created_at": "Wed Dec 02 12:57:39 +0000 2009",
+				"favourites_count": 22365,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 25368,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/710338403/Me_thinkng_little_crop_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/710338403/Me_thinkng_little_crop_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/94083901/1353088231",
+				"profile_link_color": "307994",
+				"profile_sidebar_border_color": "E876A4",
+				"profile_sidebar_fill_color": "BEB4BF",
+				"profile_text_color": "170517",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 83,
+			"favorite_count": 1029,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"When you shame people for what they read, you take away their confidence in other areas as well. \" (go and read the rest of the article) https://t.co/CKK67UXmUx"
+	},
+	{
+		"created_at": "Thu Feb 13 21:52:48 +0000 2020",
+		"id": 1228074569816084500,
+		"id_str": "1228074569816084480",
+		"full_text": "and you can contribute photographs as well https://t.co/xLFjP75Coy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xLFjP75Coy",
+					"expanded_url": "https://twitter.com/austmus/status/1227426395438997504",
+					"display_url": "twitter.com/austmus/status…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 825,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227426395438997500,
+		"quoted_status_id_str": "1227426395438997504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xLFjP75Coy",
+			"expanded": "https://twitter.com/austmus/status/1227426395438997504",
+			"display": "twitter.com/austmus/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 12 02:57:11 +0000 2020",
+			"id": 1227426395438997500,
+			"id_str": "1227426395438997504",
+			"full_text": "'Widespread dieback has caused the death of thousands of native gum trees… Like a cancer it is spreading across the Snowy Mountains National Parks.' 📷Stephen Dupont, photojournalist. Visit our online exhibition #CapturingClimateChange \nhttps://t.co/MqD53TTVDn https://t.co/KSswEHB9IX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CapturingClimateChange",
+						"indices": [
+							211,
+							234
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MqD53TTVDn",
+						"expanded_url": "https://australianmuseum.net.au/capturingclimatechange/",
+						"display_url": "australianmuseum.net.au/capturingclima…",
+						"indices": [
+							236,
+							259
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1227425934870843400,
+						"id_str": "1227425934870843392",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/EQixYnQUEAAcxSy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQixYnQUEAAcxSy.jpg",
+						"url": "https://t.co/KSswEHB9IX",
+						"display_url": "pic.twitter.com/KSswEHB9IX",
+						"expanded_url": "https://twitter.com/austmus/status/1227426395438997504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1900,
+								"h": 1267,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1227425934870843400,
+						"id_str": "1227425934870843392",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/EQixYnQUEAAcxSy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQixYnQUEAAcxSy.jpg",
+						"url": "https://t.co/KSswEHB9IX",
+						"display_url": "pic.twitter.com/KSswEHB9IX",
+						"expanded_url": "https://twitter.com/austmus/status/1227426395438997504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1900,
+								"h": 1267,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20570871,
+				"id_str": "20570871",
+				"name": "Australian Museum",
+				"screen_name": "austmus",
+				"location": "Sydney",
+				"description": "Australia's first museum, showcasing an outstanding natural history and cultural collection. A New South Wales Government funded cultural institution.",
+				"url": "https://t.co/WoNtgqXUvy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WoNtgqXUvy",
+								"expanded_url": "http://www.australianmuseum.net.au/",
+								"display_url": "australianmuseum.net.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22626,
+				"friends_count": 2554,
+				"listed_count": 705,
+				"created_at": "Wed Feb 11 04:23:20 +0000 2009",
+				"favourites_count": 10722,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21863,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/640700319165345793/pjqm5C40_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/640700319165345793/pjqm5C40_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20570871/1580274875",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "and you can contribute photographs as well https://t.co/xLFjP75Coy"
+	},
+	{
+		"created_at": "Thu Feb 13 21:22:42 +0000 2020",
+		"id": 1227174406629273600,
+		"id_str": "1228066993569288192",
+		"full_text": "An article by our project team @drdhiggins and @tesssomervell: what can historical literature teach us about the climate crisis? 📖🌍 \nhttps://t.co/LyrBJUWTR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drdhiggins",
+					"name": "David Higgins",
+					"id": 768409689524691000,
+					"id_str": "768409689524690944",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"screen_name": "tesssomervell",
+					"name": "Tess Somervell",
+					"id": 1928120480,
+					"id_str": "1928120480",
+					"indices": [
+						47,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LyrBJUWTR0",
+					"expanded_url": "https://theconversation.com/three-things-historical-literature-can-teach-us-about-the-climate-crisis-127762",
+					"display_url": "theconversation.com/three-things-h…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 768353025777889300,
+			"id_str": "768353025777889280",
+			"name": "Romantic Catastrophe",
+			"screen_name": "BRWEC",
+			"location": "Leeds, England",
+			"description": "British Romantic Writing and Environmental Catastrophe:\nan AHRC-funded project at the University of Leeds",
+			"url": "https://t.co/DmOGngCNJ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DmOGngCNJ5",
+							"expanded_url": "http://romanticcatastrophe.leeds.ac.uk",
+							"display_url": "romanticcatastrophe.leeds.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 561,
+			"friends_count": 243,
+			"listed_count": 7,
+			"created_at": "Wed Aug 24 07:43:31 +0000 2016",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/768360347539472384/SXn2Rk9L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/768360347539472384/SXn2Rk9L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/768353025777889280/1472027291",
+			"profile_link_color": "2C2B92",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An article by our project team @drdhiggins and @tesssomervell: what can historical literature teach us about the climate crisis? 📖🌍 \nhttps://t.co/LyrBJUWTR0"
+	},
+	{
+		"created_at": "Thu Feb 13 21:14:25 +0000 2020",
+		"id": 1228064908404637700,
+		"id_str": "1228064908404637696",
+		"full_text": "Friday essay: ‘I am anxious to have my children home’: recovering letters of love written for Noongar children https://t.co/3Jl4htHgHF via @ConversationEDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3Jl4htHgHF",
+					"expanded_url": "https://theconversation.com/friday-essay-i-am-anxious-to-have-my-children-home-recovering-letters-of-love-written-for-noongar-children-127809?utm_source=twitter&utm_medium=bylinetwitterbutton",
+					"display_url": "theconversation.com/friday-essay-i…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 825,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Friday essay: ‘I am anxious to have my children home’: recovering letters of love written for Noongar children https://t.co/3Jl4htHgHF via @ConversationEDU"
+	},
+	{
+		"created_at": "Thu Feb 13 19:30:13 +0000 2020",
+		"id": 1228038688958902300,
+		"id_str": "1228038688958902272",
+		"full_text": "@noneorstarlet @RAforAll Well, you could consider some of the titles by #brandonsanderson, the #stormlightarchive is a series of long books to be released over the next decade or so, three are out already, plus titles by @nealstephenson also provide enjoyable and long reading 📚",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "brandonsanderson",
+					"indices": [
+						72,
+						89
+					]
+				},
+				{
+					"text": "stormlightarchive",
+					"indices": [
+						95,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noneorstarlet",
+					"name": "purveyor of fine jellicle discourse",
+					"id": 18263386,
+					"id_str": "18263386",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "RAforAll",
+					"name": "Becky Spratford",
+					"id": 2474412986,
+					"id_str": "2474412986",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "nealstephenson",
+					"name": "Neal Stephenson",
+					"id": 110075039,
+					"id_str": "110075039",
+					"indices": [
+						221,
+						236
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1228001119256756200,
+		"in_reply_to_status_id_str": "1228001119256756224",
+		"in_reply_to_user_id": 18263386,
+		"in_reply_to_user_id_str": "18263386",
+		"in_reply_to_screen_name": "noneorstarlet",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 825,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@noneorstarlet @RAforAll Well, you could consider some of the titles by #brandonsanderson, the #stormlightarchive is a series of long books to be released over the next decade or so, three are out already, plus titles by @nealstephenson also provide enjoyable and long reading 📚"
+	},
+	{
 		"created_at": "Tue Feb 11 07:53:26 +0000 2020",
 		"id": 1227138562019090400,
 		"id_str": "1227138562019090432",
