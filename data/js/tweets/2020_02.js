@@ -1,6 +1,858 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 23:13:07 +0000 2020",
+		"id": 1228457169491677200,
+		"id_str": "1228457169491677185",
+		"full_text": "@CatyJ that looked so exciting",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatyJ",
+					"name": "CatyJ",
+					"id": 15732431,
+					"id_str": "15732431",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1228452452283715600,
+		"in_reply_to_status_id_str": "1228452452283715584",
+		"in_reply_to_user_id": 15732431,
+		"in_reply_to_user_id_str": "15732431",
+		"in_reply_to_screen_name": "CatyJ",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 825,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CatyJ that looked so exciting"
+	},
+	{
+		"created_at": "Fri Feb 14 21:42:28 +0000 2020",
+		"id": 1226654233958568000,
+		"id_str": "1228434355027988481",
+		"full_text": "Decolonise or indigenise: moving towards sovereign spaces and the Māorification of New Zealand museology | Te Papa’s Blog https://t.co/xXcofjiiAs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xXcofjiiAs",
+					"expanded_url": "https://blog.tepapa.govt.nz/2020/02/10/decolonise-or-indigenise-moving-towards-sovereign-spaces-and-the-maorification-of-new-zealand-museology/",
+					"display_url": "blog.tepapa.govt.nz/2020/02/10/dec…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994815421114191900,
+			"id_str": "994815421114191873",
+			"name": "Puawai Cairns",
+			"screen_name": "PuawaiCairns",
+			"location": "He uri o Tauranga Moana ki WGN",
+			"description": "Head of Mātauranga Māori / Kaihāpai Mātauranga Māori at Te Papa. Advocate for community centred curatorial practice, indigenous museology, honouring connections",
+			"url": "https://t.co/w8UbzIJimV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w8UbzIJimV",
+							"expanded_url": "http://blog.tepapa.govt.nz/author/puawai2011/",
+							"display_url": "blog.tepapa.govt.nz/author/puawai2…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1448,
+			"friends_count": 1803,
+			"listed_count": 26,
+			"created_at": "Fri May 11 05:44:13 +0000 2018",
+			"favourites_count": 1577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054614779325607936/QjFidrot_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054614779325607936/QjFidrot_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994815421114191873/1537259777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ro",
+		"text": "Decolonise or indigenise: moving towards sovereign spaces and the Māorification of New Zealand museology | Te Papa’s Blog https://t.co/xXcofjiiAs"
+	},
+	{
+		"created_at": "Fri Feb 14 21:31:39 +0000 2020",
+		"id": 1228431633184776200,
+		"id_str": "1228431633184776192",
+		"full_text": "The Upside by @guardian https://t.co/NxHZOwQf09 can provide some helpful and interesting reading for when things can be bleak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NxHZOwQf09",
+					"expanded_url": "https://www.theguardian.com/world/series/the-upside",
+					"display_url": "theguardian.com/world/series/t…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 825,
+			"listed_count": 233,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Upside by @guardian https://t.co/NxHZOwQf09 can provide some helpful and interesting reading for when things can be bleak"
+	},
+	{
+		"created_at": "Fri Feb 14 20:58:18 +0000 2020",
+		"id": 1228418571627368400,
+		"id_str": "1228423241833697280",
+		"full_text": "Buy for #collectiondevelopment and #readadv from this list! https://t.co/AAIlI0UyI2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "collectiondevelopment",
+					"indices": [
+						8,
+						30
+					]
+				},
+				{
+					"text": "readadv",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AAIlI0UyI2",
+					"expanded_url": "https://twitter.com/TheRippedBodice/status/1228302883382104068",
+					"display_url": "twitter.com/TheRippedBodic…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3848379014,
+			"id_str": "3848379014",
+			"name": "Karen Toonen 📚🐾",
+			"screen_name": "kdtoonen",
+			"location": "Chicagoland",
+			"description": "Book Pusher (Librarian); Lover of Story (esp AUDIO); Puppy Mommy; Respect Existence or Expect Resistance! Weltschmerz causes political posts. 🤨",
+			"url": "https://t.co/LZeRUK3zja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LZeRUK3zja",
+							"expanded_url": "https://www.toonen.org/karen",
+							"display_url": "toonen.org/karen",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 350,
+			"friends_count": 475,
+			"listed_count": 7,
+			"created_at": "Sat Oct 10 14:40:23 +0000 2015",
+			"favourites_count": 43687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137812701697253381/QUFRDHGW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137812701697253381/QUFRDHGW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3848379014/1502037553",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1228302883382104000,
+		"quoted_status_id_str": "1228302883382104068",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AAIlI0UyI2",
+			"expanded": "https://twitter.com/TheRippedBodice/status/1228302883382104068",
+			"display": "twitter.com/TheRippedBodic…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 14 13:00:02 +0000 2020",
+			"id": 1228302883382104000,
+			"id_str": "1228302883382104068",
+			"full_text": "Congratulations to all the honored authors! Thank you for your incredible contributions to romance this year.\n\nhttps://t.co/BNtePZF61o https://t.co/ZkAYrehmJ6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BNtePZF61o",
+						"expanded_url": "https://bit.ly/2SGn3Bi",
+						"display_url": "bit.ly/2SGn3Bi",
+						"indices": [
+							111,
+							134
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1228302869385732000,
+						"id_str": "1228302869385732096",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/EQvO865UYAAj7cJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQvO865UYAAj7cJ.jpg",
+						"url": "https://t.co/ZkAYrehmJ6",
+						"display_url": "pic.twitter.com/ZkAYrehmJ6",
+						"expanded_url": "https://twitter.com/TheRippedBodice/status/1228302883382104068/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1228302869385732000,
+						"id_str": "1228302869385732096",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/EQvO865UYAAj7cJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQvO865UYAAj7cJ.jpg",
+						"url": "https://t.co/ZkAYrehmJ6",
+						"display_url": "pic.twitter.com/ZkAYrehmJ6",
+						"expanded_url": "https://twitter.com/TheRippedBodice/status/1228302883382104068/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1228302867791933400,
+			"in_reply_to_status_id_str": "1228302867791933442",
+			"in_reply_to_user_id": 3477523040,
+			"in_reply_to_user_id_str": "3477523040",
+			"in_reply_to_screen_name": "TheRippedBodice",
+			"user": {
+				"id": 3477523040,
+				"id_str": "3477523040",
+				"name": "The Ripped Bodice",
+				"screen_name": "TheRippedBodice",
+				"location": "Los Angeles, CA",
+				"description": "The only exclusively romance brick-and-mortar bookstore on the West Coast 3806 Main St. Culver City, CA 90232",
+				"url": "https://t.co/u9EsQM5h0J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u9EsQM5h0J",
+								"expanded_url": "http://www.therippedbodicela.com",
+								"display_url": "therippedbodicela.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21087,
+				"friends_count": 627,
+				"listed_count": 272,
+				"created_at": "Mon Sep 07 03:33:56 +0000 2015",
+				"favourites_count": 24565,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12638,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1181289178123796480/kJs-7kH8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181289178123796480/kJs-7kH8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3477523040/1527035472",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 130,
+			"favorite_count": 384,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Buy for #collectiondevelopment and #readadv from this list! https://t.co/AAIlI0UyI2"
+	},
+	{
+		"created_at": "Fri Feb 14 20:54:52 +0000 2020",
+		"id": 1228398930863329300,
+		"id_str": "1228422377492504576",
+		"full_text": "Has recent rain helped towns running out of water? https://t.co/wfj7GrhVIr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wfj7GrhVIr",
+					"expanded_url": "https://www.abc.net.au/news/2020-02-15/rain-helps-some-drought-affected-towns-from-running-out-of-water/11962686",
+					"display_url": "abc.net.au/news/2020-02-1…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593968,
+			"friends_count": 1210,
+			"listed_count": 12193,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 286338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1580189418",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Has recent rain helped towns running out of water? https://t.co/wfj7GrhVIr"
+	},
+	{
+		"created_at": "Fri Feb 14 19:58:17 +0000 2020",
+		"id": 1228406486906224600,
+		"id_str": "1228408137872314368",
+		"full_text": "Beyond Fortnite: What happens when Australian artists make video games https://t.co/0bXAcNyyvd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0bXAcNyyvd",
+					"expanded_url": "https://www.abc.net.au/news/2020-02-15/video-games-design-untitled-goose-game-indie-games-development/11962590",
+					"display_url": "abc.net.au/news/2020-02-1…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593968,
+			"friends_count": 1210,
+			"listed_count": 12193,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 286338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1580189418",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond Fortnite: What happens when Australian artists make video games https://t.co/0bXAcNyyvd"
+	},
+	{
 		"created_at": "Thu Feb 13 23:11:52 +0000 2020",
 		"id": 1228094468240203800,
 		"id_str": "1228094468240203776",
