@@ -1,6 +1,913 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 04:13:18 +0000 2020",
+		"id": 1230344654316544000,
+		"id_str": "1230344654316544001",
+		"full_text": "A few thoughts on Palaces for the People: How To Build a More Equal and United Society by Eric Klinenberg https://t.co/wICS0S07cA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wICS0S07cA",
+					"expanded_url": "https://ift.tt/3bTWSQw",
+					"display_url": "ift.tt/3bTWSQw",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 826,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A few thoughts on Palaces for the People: How To Build a More Equal and United Society by Eric Klinenberg https://t.co/wICS0S07cA"
+	},
+	{
+		"created_at": "Wed Feb 19 20:52:08 +0000 2020",
+		"id": 1230233630577848300,
+		"id_str": "1230233630577848321",
+		"full_text": "Flutracking https://t.co/D5NgcXP9mU you can help provide information for this if you are in Australia or New Zealand",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D5NgcXP9mU",
+					"expanded_url": "https://www.flutracking.net",
+					"display_url": "flutracking.net",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 826,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Flutracking https://t.co/D5NgcXP9mU you can help provide information for this if you are in Australia or New Zealand"
+	},
+	{
+		"created_at": "Wed Feb 19 20:49:05 +0000 2020",
+		"id": 1230232862554640400,
+		"id_str": "1230232862554640386",
+		"full_text": "Domestic Arts Tourism – Connecting the Country https://t.co/GAaCbK1wWR via @MGNSW highlights a report by @auscouncilarts public libraries do not seem to get a mention, but would seem to have strong potential in this space, including for their local studies collections",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MGNSW",
+					"name": "M&G NSW",
+					"id": 59659039,
+					"id_str": "59659039",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"screen_name": "auscouncilarts",
+					"name": "Australia Council",
+					"id": 135364687,
+					"id_str": "135364687",
+					"indices": [
+						105,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GAaCbK1wWR",
+					"expanded_url": "https://mgnsw.org.au/articles/domestic-arts-tourism-connecting-the-country/",
+					"display_url": "mgnsw.org.au/articles/domes…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 826,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Domestic Arts Tourism – Connecting the Country https://t.co/GAaCbK1wWR via @MGNSW highlights a report by @auscouncilarts public libraries do not seem to get a mention, but would seem to have strong potential in this space, including for their local studies collections"
+	},
+	{
+		"created_at": "Wed Feb 19 20:42:30 +0000 2020",
+		"id": 1230231204974059500,
+		"id_str": "1230231204974059520",
+		"full_text": "The environmental impact of Australia's bushfires has been exacerbated by decades of environmental mismanagement https://t.co/yOCXeUuqut  via @abcnews",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						142,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yOCXeUuqut",
+					"expanded_url": "https://www.abc.net.au/news/science/2020-02-16/bushfire-wildlife-extinction-offsets/9622980",
+					"display_url": "abc.net.au/news/science/2…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2510,
+			"friends_count": 826,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The environmental impact of Australia's bushfires has been exacerbated by decades of environmental mismanagement https://t.co/yOCXeUuqut  via @abcnews"
+	},
+	{
+		"created_at": "Wed Feb 19 19:23:48 +0000 2020",
+		"id": 1227972102332067800,
+		"id_str": "1230211398598217728",
+		"full_text": "#Libraries can make the difference locally, and support progress globally! At #WUF10, IFLA engaged with mayors, planners, and #heritage professionals to set out how. \n\nRead about what happened in our news story: https://t.co/wSdKHQG4s0 #Listen2Cities #ClimateHeritage @UNHABITAT https://t.co/LJ7YbLusu3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Libraries",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "WUF10",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "heritage",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "Listen2Cities",
+					"indices": [
+						236,
+						250
+					]
+				},
+				{
+					"text": "ClimateHeritage",
+					"indices": [
+						251,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UNHABITAT",
+					"name": "UN-Habitat",
+					"id": 44128516,
+					"id_str": "44128516",
+					"indices": [
+						268,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wSdKHQG4s0",
+					"expanded_url": "http://bit.ly/2Spbf7N",
+					"display_url": "bit.ly/2Spbf7N",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227972100427845600,
+					"id_str": "1227972100427845632",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqiHogXkAAbE83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqiHogXkAAbE83.jpg",
+					"url": "https://t.co/LJ7YbLusu3",
+					"display_url": "pic.twitter.com/LJ7YbLusu3",
+					"expanded_url": "https://twitter.com/IFLA/status/1227972102332067840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 953,
+							"h": 536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 953,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227972100427845600,
+					"id_str": "1227972100427845632",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EQqiHogXkAAbE83.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQqiHogXkAAbE83.jpg",
+					"url": "https://t.co/LJ7YbLusu3",
+					"display_url": "pic.twitter.com/LJ7YbLusu3",
+					"expanded_url": "https://twitter.com/IFLA/status/1227972102332067840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 953,
+							"h": 536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 953,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53361561,
+			"id_str": "53361561",
+			"name": "IFLA",
+			"screen_name": "IFLA",
+			"location": "The Hague, The Netherlands",
+			"description": "The International Federation of Library Associations and Institutions (IFLA) is the global voice of the library and information profession.",
+			"url": "https://t.co/l1M6glk56U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l1M6glk56U",
+							"expanded_url": "http://www.ifla.org",
+							"display_url": "ifla.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27247,
+			"friends_count": 381,
+			"listed_count": 1038,
+			"created_at": "Fri Jul 03 11:32:45 +0000 2009",
+			"favourites_count": 938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0EDD4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53361561/1545222187",
+			"profile_link_color": "00502F",
+			"profile_sidebar_border_color": "C8002F",
+			"profile_sidebar_fill_color": "F0EDD4",
+			"profile_text_color": "002D19",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Libraries can make the difference locally, and support progress globally! At #WUF10, IFLA engaged with mayors, planners, and #heritage professionals to set out how. \n\nRead about what happened in our news story: https://t.co/wSdKHQG4s0 #Listen2Cities #ClimateHeritage @UNHABITAT https://t.co/LJ7YbLusu3"
+	},
+	{
+		"created_at": "Wed Feb 19 19:23:04 +0000 2020",
+		"id": 1228310487676399600,
+		"id_str": "1230211216385011712",
+		"full_text": "Buy, borrow, both or nothing at all? German #eLending study provides no evidence of a need to restrict #library #ebook #lending, and plenty of the need to strengthen #readingpromotion efforts. \n\nRead more in our blog: https://t.co/v7Nq4O8BzS https://t.co/Gdm68U8dBI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eLending",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"text": "library",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "ebook",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "lending",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "readingpromotion",
+					"indices": [
+						166,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v7Nq4O8BzS",
+					"expanded_url": "http://bit.ly/39w5o68",
+					"display_url": "bit.ly/39w5o68",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1228310485562425300,
+					"id_str": "1228310485562425344",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/EQvV4PXWAAAbQve.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQvV4PXWAAAbQve.jpg",
+					"url": "https://t.co/Gdm68U8dBI",
+					"display_url": "pic.twitter.com/Gdm68U8dBI",
+					"expanded_url": "https://twitter.com/IFLA/status/1228310487676399617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1107,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1107,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228310485562425300,
+					"id_str": "1228310485562425344",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/EQvV4PXWAAAbQve.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQvV4PXWAAAbQve.jpg",
+					"url": "https://t.co/Gdm68U8dBI",
+					"display_url": "pic.twitter.com/Gdm68U8dBI",
+					"expanded_url": "https://twitter.com/IFLA/status/1228310487676399617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1107,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1107,
+							"h": 623,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53361561,
+			"id_str": "53361561",
+			"name": "IFLA",
+			"screen_name": "IFLA",
+			"location": "The Hague, The Netherlands",
+			"description": "The International Federation of Library Associations and Institutions (IFLA) is the global voice of the library and information profession.",
+			"url": "https://t.co/l1M6glk56U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l1M6glk56U",
+							"expanded_url": "http://www.ifla.org",
+							"display_url": "ifla.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27247,
+			"friends_count": 381,
+			"listed_count": 1038,
+			"created_at": "Fri Jul 03 11:32:45 +0000 2009",
+			"favourites_count": 938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0EDD4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53361561/1545222187",
+			"profile_link_color": "00502F",
+			"profile_sidebar_border_color": "C8002F",
+			"profile_sidebar_fill_color": "F0EDD4",
+			"profile_text_color": "002D19",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Buy, borrow, both or nothing at all? German #eLending study provides no evidence of a need to restrict #library #ebook #lending, and plenty of the need to strengthen #readingpromotion efforts. \n\nRead more in our blog: https://t.co/v7Nq4O8BzS https://t.co/Gdm68U8dBI"
+	},
+	{
 		"created_at": "Tue Feb 18 18:58:49 +0000 2020",
 		"id": 1229842723290566700,
 		"id_str": "1229842723290566656",
