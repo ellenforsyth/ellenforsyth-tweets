@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 23 18:58:20 +0000 2020",
+		"id": 1231651798399799300,
+		"id_str": "1231654542976020480",
+		"full_text": "‘The Scream’ Is Fading (the painting's pigments are fading). New Research Reveals Why. https://t.co/bbiC5xNqe8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bbiC5xNqe8",
+					"expanded_url": "https://nyti.ms/2UzHx16",
+					"display_url": "nyti.ms/2UzHx16",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 194605722,
+			"id_str": "194605722",
+			"name": "Colleen Theisen 📚",
+			"screen_name": "LibColleen",
+			"location": "Syracuse, NY",
+			"description": "Educator, always. Sometimes special collections library middle manager & adjunct lecturer. RTs libraries, archives, museums, & typos. Opinions = mine. She/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4615,
+			"friends_count": 3335,
+			"listed_count": 306,
+			"created_at": "Fri Sep 24 15:08:17 +0000 2010",
+			"favourites_count": 62500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230908277120258049/B-NW0AZ5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230908277120258049/B-NW0AZ5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/194605722/1550238556",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘The Scream’ Is Fading (the painting's pigments are fading). New Research Reveals Why. https://t.co/bbiC5xNqe8"
+	},
+	{
+		"created_at": "Sun Feb 23 09:46:29 +0000 2020",
+		"id": 1231224769481191400,
+		"id_str": "1231515663623049216",
+		"full_text": "Meet @BellenTheBee, the 9-year-old girl who is finally getting people to stop thinking of the peach-colored crayon as the \"skin-colored\" crayon. @Crayola @MulticulturKids #MoreThanPeach\n\nhttps://t.co/NMYNHo8txh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MoreThanPeach",
+					"indices": [
+						171,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BellenTheBee",
+					"name": "Bellen",
+					"id": 1215976582277402600,
+					"id_str": "1215976582277402624",
+					"indices": [
+						5,
+						18
+					]
+				},
+				{
+					"screen_name": "Crayola",
+					"name": "Crayola",
+					"id": 53172720,
+					"id_str": "53172720",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"screen_name": "MulticulturKids",
+					"name": "Multicultural Kids",
+					"id": 1571984054,
+					"id_str": "1571984054",
+					"indices": [
+						154,
+						170
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NMYNHo8txh",
+					"expanded_url": "https://www.washingtonpost.com/local/a-9-year-old-girl-got-people-to-finally-stop-thinking-of-the-peach-colored-crayon-as-the-skin-color-crayon/2020/02/22/89ab7590-5506-11ea-b119-4faabac6674f_story.html",
+					"display_url": "washingtonpost.com/local/a-9-year…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47170195,
+			"id_str": "47170195",
+			"name": "Theresa Vargas",
+			"screen_name": "byTheresaVargas",
+			"location": "Washington D.C.",
+			"description": "Columnist @washingtonpost. Mama to 2 boys. Fan of the word \"y'all.\" Alum of @Stanford @Columbia @Newsday. Where y'all can find me: Theresa.Vargas@washpost.com",
+			"url": "https://t.co/NsBfNbe0g1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NsBfNbe0g1",
+							"expanded_url": "https://www.washingtonpost.com/people/theresa-vargas/?utm_term=.cef33d7390fa",
+							"display_url": "washingtonpost.com/people/theresa…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 423,
+			"listed_count": 65,
+			"created_at": "Sun Jun 14 20:42:47 +0000 2009",
+			"favourites_count": 620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3118197569/6e3c6837a6407f71d384364a3cc03cb1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3118197569/6e3c6837a6407f71d384364a3cc03cb1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47170195/1547737227",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meet @BellenTheBee, the 9-year-old girl who is finally getting people to stop thinking of the peach-colored crayon as the \"skin-colored\" crayon. @Crayola @MulticulturKids #MoreThanPeach\n\nhttps://t.co/NMYNHo8txh"
+	},
+	{
 		"created_at": "Sat Feb 22 20:15:20 +0000 2020",
 		"id": 1230890073773740000,
 		"id_str": "1231311531129729024",
