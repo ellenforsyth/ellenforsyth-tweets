@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 25 07:15:37 +0000 2020",
+		"id": 1232202472615116800,
+		"id_str": "1232202472615116801",
+		"full_text": "with a reminder that yes, you should catalogue all items (so you can find a series, find an author, a title etc) and it also great listening https://t.co/6W29gvLlnB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6W29gvLlnB",
+					"expanded_url": "https://twitter.com/ALA_Booklist/status/1232051402370842624",
+					"display_url": "twitter.com/ALA_Booklist/s…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2513,
+			"friends_count": 829,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232051402370842600,
+		"quoted_status_id_str": "1232051402370842624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6W29gvLlnB",
+			"expanded": "https://twitter.com/ALA_Booklist/status/1232051402370842624",
+			"display": "twitter.com/ALA_Booklist/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 24 21:15:19 +0000 2020",
+			"id": 1232051402370842600,
+			"id_str": "1232051402370842624",
+			"full_text": "Our latest #ShelfCare episode is the definition of #squadgoals:\n🎙️Librarian extraordinaire Robin Bradford (@Tuphlos) \n🎙️ @Booklist_Susan\n🎙️@Booklist_Donna\n🎙️@Booklist_Audio\nWe told you. Listen to this 🌟 team talk books, books, and, you guessed it--books: \nhttps://t.co/gzBiCnWhtK https://t.co/FDd5HcivYb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ShelfCare",
+						"indices": [
+							11,
+							21
+						]
+					},
+					{
+						"text": "squadgoals",
+						"indices": [
+							51,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Tuphlos",
+						"name": "IAmRobinB⚾️🍹🎼📚",
+						"id": 20703602,
+						"id_str": "20703602",
+						"indices": [
+							107,
+							115
+						]
+					},
+					{
+						"screen_name": "Booklist_Susan",
+						"name": "Susan Maguire",
+						"id": 920289414437359600,
+						"id_str": "920289414437359616",
+						"indices": [
+							121,
+							136
+						]
+					},
+					{
+						"screen_name": "Booklist_Donna",
+						"name": "Donna Seaman",
+						"id": 54306642,
+						"id_str": "54306642",
+						"indices": [
+							139,
+							154
+						]
+					},
+					{
+						"screen_name": "Booklist_Audio",
+						"name": "Heather Booth",
+						"id": 1072568287219851300,
+						"id_str": "1072568287219851265",
+						"indices": [
+							157,
+							172
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gzBiCnWhtK",
+						"expanded_url": "https://wp.me/p6FSeA-hZ3",
+						"display_url": "wp.me/p6FSeA-hZ3",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1232051339598934000,
+						"id_str": "1232051339598934018",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/ERkgKmnWsAIDCWT.png",
+						"media_url_https": "https://pbs.twimg.com/media/ERkgKmnWsAIDCWT.png",
+						"url": "https://t.co/FDd5HcivYb",
+						"display_url": "pic.twitter.com/FDd5HcivYb",
+						"expanded_url": "https://twitter.com/ALA_Booklist/status/1232051402370842624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 512,
+								"h": 256,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 512,
+								"h": 256,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 512,
+								"h": 256,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1232051339598934000,
+						"id_str": "1232051339598934018",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/ERkgKmnWsAIDCWT.png",
+						"media_url_https": "https://pbs.twimg.com/media/ERkgKmnWsAIDCWT.png",
+						"url": "https://t.co/FDd5HcivYb",
+						"display_url": "pic.twitter.com/FDd5HcivYb",
+						"expanded_url": "https://twitter.com/ALA_Booklist/status/1232051402370842624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 512,
+								"h": 256,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 512,
+								"h": 256,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 512,
+								"h": 256,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22972227,
+				"id_str": "22972227",
+				"name": "ALA Booklist",
+				"screen_name": "ALA_Booklist",
+				"location": "Chicago, IL",
+				"description": "Book #reviews, news, readers' advisory, & insight for #librarians & book lovers, from the experts at ALA. PS. Download a PDF of our new YA fortune tellers below",
+				"url": "https://t.co/sjZJdM2YOf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sjZJdM2YOf",
+								"expanded_url": "https://www.booklistonline.com/media/fortune-teller_ALL.pdf",
+								"display_url": "booklistonline.com/media/fortune-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39447,
+				"friends_count": 947,
+				"listed_count": 1476,
+				"created_at": "Thu Mar 05 20:21:53 +0000 2009",
+				"favourites_count": 4170,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14830,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879750038519459841/fgc5ccbN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879750038519459841/fgc5ccbN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22972227/1581714559",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "with a reminder that yes, you should catalogue all items (so you can find a series, find an author, a title etc) and it also great listening https://t.co/6W29gvLlnB"
+	},
+	{
 		"created_at": "Mon Feb 24 18:02:46 +0000 2020",
 		"id": 1232002945446641700,
 		"id_str": "1232002945446641664",
