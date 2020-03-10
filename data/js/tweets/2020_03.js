@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 19:50:52 +0000 2020",
+		"id": 1237103581108375600,
+		"id_str": "1237103581108375552",
+		"full_text": "thanks to a mention via @cfwriter https://t.co/dUdLD9dIiS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfwriter",
+					"name": "Dr Rachel Franks",
+					"id": 52325959,
+					"id_str": "52325959",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dUdLD9dIiS",
+					"expanded_url": "https://twitter.com/JHUSystems/status/1235924013240721414",
+					"display_url": "twitter.com/JHUSystems/sta…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2520,
+			"friends_count": 834,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1235924013240721400,
+		"quoted_status_id_str": "1235924013240721414",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dUdLD9dIiS",
+			"expanded": "https://twitter.com/JHUSystems/status/1235924013240721414",
+			"display": "twitter.com/JHUSystems/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 06 13:43:41 +0000 2020",
+			"id": 1235924013240721400,
+			"id_str": "1235924013240721414",
+			"full_text": "Today the global #COVID19 #COVIDー19 total confirmed cases hits 100k+. Learn more about #coronavirus from our website.\nDesktop Version: https://t.co/8OyHdEu5yX\nMobile Version:\nhttps://t.co/awtoHOY4ES\n@JohnsHopkins @JHUCaSE @JohnsHopkinsSPH https://t.co/1EbyrtzIvm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							17,
+							25
+						]
+					},
+					{
+						"text": "COVIDー19",
+						"indices": [
+							26,
+							35
+						]
+					},
+					{
+						"text": "coronavirus",
+						"indices": [
+							87,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JohnsHopkins",
+						"name": "Johns Hopkins University",
+						"id": 14441010,
+						"id_str": "14441010",
+						"indices": [
+							199,
+							212
+						]
+					},
+					{
+						"screen_name": "JHUCaSE",
+						"name": "JHU Civil and Systems Engineering",
+						"id": 2712084140,
+						"id_str": "2712084140",
+						"indices": [
+							213,
+							221
+						]
+					},
+					{
+						"screen_name": "JohnsHopkinsSPH",
+						"name": "JHU Public Health",
+						"id": 22019881,
+						"id_str": "22019881",
+						"indices": [
+							222,
+							238
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8OyHdEu5yX",
+						"expanded_url": "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
+						"display_url": "arcgis.com/apps/opsdashbo…",
+						"indices": [
+							135,
+							158
+						]
+					},
+					{
+						"url": "https://t.co/awtoHOY4ES",
+						"expanded_url": "https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61",
+						"display_url": "arcgis.com/apps/opsdashbo…",
+						"indices": [
+							175,
+							198
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1235922750381965300,
+						"id_str": "1235922750381965312",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/ESbhMXpXQAAsMv0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESbhMXpXQAAsMv0.jpg",
+						"url": "https://t.co/1EbyrtzIvm",
+						"display_url": "pic.twitter.com/1EbyrtzIvm",
+						"expanded_url": "https://twitter.com/JHUSystems/status/1235924013240721414/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 601,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1916,
+								"h": 959,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1235922750381965300,
+						"id_str": "1235922750381965312",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/ESbhMXpXQAAsMv0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESbhMXpXQAAsMv0.jpg",
+						"url": "https://t.co/1EbyrtzIvm",
+						"display_url": "pic.twitter.com/1EbyrtzIvm",
+						"expanded_url": "https://twitter.com/JHUSystems/status/1235924013240721414/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 601,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1916,
+								"h": 959,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2513168941,
+				"id_str": "2513168941",
+				"name": "CSSE at JHU",
+				"screen_name": "JHUSystems",
+				"location": "3400 N Charles St, 21218",
+				"description": "The Center for Systems Science in Engineering takes a multidisciplinary approach to modeling, understanding, and optimizing systems of national importance.",
+				"url": "http://t.co/RQv7Jxv8Js",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RQv7Jxv8Js",
+								"expanded_url": "http://systems.jhu.edu/",
+								"display_url": "systems.jhu.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3908,
+				"friends_count": 109,
+				"listed_count": 118,
+				"created_at": "Wed May 21 17:22:55 +0000 2014",
+				"favourites_count": 57,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 186,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1206665181444493313/jIv91Sqp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206665181444493313/jIv91Sqp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2513168941/1578678067",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "thanks to a mention via @cfwriter https://t.co/dUdLD9dIiS"
+	},
+	{
 		"created_at": "Sun Mar 08 07:27:18 +0000 2020",
 		"id": 1236385394893164500,
 		"id_str": "1236554067901440000",
