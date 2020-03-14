@@ -1,6 +1,955 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 22:39:22 +0000 2020",
+		"id": 1238595535793033200,
+		"id_str": "1238595535793033216",
+		"full_text": "brilliant https://t.co/Bo7CkLnPb8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bo7CkLnPb8",
+					"expanded_url": "https://twitter.com/scisdata/status/1238585832187072518",
+					"display_url": "twitter.com/scisdata/statu…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2521,
+			"friends_count": 835,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238585832187072500,
+		"quoted_status_id_str": "1238585832187072518",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Bo7CkLnPb8",
+			"expanded": "https://twitter.com/scisdata/status/1238585832187072518",
+			"display": "twitter.com/scisdata/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 13 22:00:48 +0000 2020",
+			"id": 1238585832187072500,
+			"id_str": "1238585832187072518",
+			"full_text": "The University of British Columbia has developed the open multilingual literacy portal Global Storybooks.\nhttps://t.co/4pmT2LCJEW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4pmT2LCJEW",
+						"expanded_url": "https://theconversation.com/global-storybooks-from-arabic-to-zulu-freely-available-digital-tales-in-50-languages-127480",
+						"display_url": "theconversation.com/global-storybo…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37604959,
+				"id_str": "37604959",
+				"name": "SCIS",
+				"screen_name": "scisdata",
+				"location": "Australia",
+				"description": "SCIS is a not-for-profit cataloguing service for school libraries across the world. We care about literacy, education and advocacy.",
+				"url": "https://t.co/64UgycaLU2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/64UgycaLU2",
+								"expanded_url": "http://www.scisdata.com",
+								"display_url": "scisdata.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3443,
+				"friends_count": 3721,
+				"listed_count": 206,
+				"created_at": "Mon May 04 05:45:54 +0000 2009",
+				"favourites_count": 3409,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15745,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853195844190851072/MFiy4RQW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853195844190851072/MFiy4RQW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37604959/1492252789",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "brilliant https://t.co/Bo7CkLnPb8"
+	},
+	{
+		"created_at": "Fri Mar 13 19:00:57 +0000 2020",
+		"id": 1238264054906531800,
+		"id_str": "1238540569392984064",
+		"full_text": "Australia has just experienced a summer of crisis, driven by climate change. We must reduce our greenhouse gas emissions, or we face worsening events like this in the future. Read more in our new report: https://t.co/LPfZoX5KlS https://t.co/1byqEKvC57",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LPfZoX5KlS",
+					"expanded_url": "https://climc.nl/crisissummer",
+					"display_url": "climc.nl/crisissummer",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1238261102053486600,
+					"id_str": "1238261102053486592",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238261102053486592/pu/img/eF0WrrjtYN_O-_pJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238261102053486592/pu/img/eF0WrrjtYN_O-_pJ.jpg",
+					"url": "https://t.co/1byqEKvC57",
+					"display_url": "pic.twitter.com/1byqEKvC57",
+					"expanded_url": "https://twitter.com/climatecouncil/status/1238264054906531841/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238261102053486600,
+					"id_str": "1238261102053486592",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238261102053486592/pu/img/eF0WrrjtYN_O-_pJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238261102053486592/pu/img/eF0WrrjtYN_O-_pJ.jpg",
+					"url": "https://t.co/1byqEKvC57",
+					"display_url": "pic.twitter.com/1byqEKvC57",
+					"expanded_url": "https://twitter.com/climatecouncil/status/1238264054906531841/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 96400,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238261102053486592/pu/vid/640x360/YcbXVfN1oIOaCUs6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1238261102053486592/pu/pl/El30sJuXgkm_jbkX.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238261102053486592/pu/vid/480x270/bqfWRL0oXxQLtEra.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238261102053486592/pu/vid/1280x720/Q_nrcLsUBVE97k_R.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1892683062,
+			"id_str": "1892683062",
+			"name": "Climate Council",
+			"screen_name": "climatecouncil",
+			"location": "Australia",
+			"description": "Providing Australians with a reliable source of information on climate science.",
+			"url": "https://t.co/UGPCNnqynl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UGPCNnqynl",
+							"expanded_url": "http://linktr.ee/climatecouncil",
+							"display_url": "linktr.ee/climatecouncil",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53283,
+			"friends_count": 17613,
+			"listed_count": 0,
+			"created_at": "Sun Sep 22 06:29:31 +0000 2013",
+			"favourites_count": 1861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/504862206479970304/rWWL00qW_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/504862206479970304/rWWL00qW_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1892683062/1572313559",
+			"profile_link_color": "EFAB23",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Australia has just experienced a summer of crisis, driven by climate change. We must reduce our greenhouse gas emissions, or we face worsening events like this in the future. Read more in our new report: https://t.co/LPfZoX5KlS https://t.co/1byqEKvC57"
+	},
+	{
+		"created_at": "Fri Mar 13 18:53:10 +0000 2020",
+		"id": 1238523316765327400,
+		"id_str": "1238538610355212288",
+		"full_text": "This is hugely useful insight from @doctorow: Finding comfort in the chaos: How Cory Doctorow learned to write from literally anywhere | CBC Arts https://t.co/eROx6MaCHI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doctorow",
+					"name": "Bernie Beats Trump",
+					"id": 2729061,
+					"id_str": "2729061",
+					"indices": [
+						35,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eROx6MaCHI",
+					"expanded_url": "https://www.cbc.ca/arts/finding-comfort-in-the-chaos-how-cory-doctorow-learned-to-write-from-literally-anywhere-1.5489363?__vfz=medium%3Dsharebar",
+					"display_url": "cbc.ca/arts/finding-c…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14745162,
+			"id_str": "14745162",
+			"name": "Matt Flood",
+			"screen_name": "mattflood",
+			"location": "London, England",
+			"description": "Reader, writer, coffee drinker.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 323,
+			"friends_count": 49,
+			"listed_count": 21,
+			"created_at": "Mon May 12 15:31:00 +0000 2008",
+			"favourites_count": 1455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844955992458702848/WCJ4njYI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844955992458702848/WCJ4njYI_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is hugely useful insight from @doctorow: Finding comfort in the chaos: How Cory Doctorow learned to write from literally anywhere | CBC Arts https://t.co/eROx6MaCHI"
+	},
+	{
+		"created_at": "Fri Mar 13 18:50:47 +0000 2020",
+		"id": 1238538010280349700,
+		"id_str": "1238538010280349696",
+		"full_text": "some helpful reading https://t.co/eLcBu1znwI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eLcBu1znwI",
+					"expanded_url": "https://twitter.com/dajbelshaw/status/1238450490763067392",
+					"display_url": "twitter.com/dajbelshaw/sta…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2521,
+			"friends_count": 835,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238450490763067400,
+		"quoted_status_id_str": "1238450490763067392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eLcBu1znwI",
+			"expanded": "https://twitter.com/dajbelshaw/status/1238450490763067392",
+			"display": "twitter.com/dajbelshaw/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 13 13:03:00 +0000 2020",
+			"id": 1238450490763067400,
+			"id_str": "1238450490763067392",
+			"full_text": "New on 💥Thought Shrapnel: Friday fumings https://t.co/tcA14rNRUv https://t.co/oczDr4N84l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tcA14rNRUv",
+						"expanded_url": "https://thoughtshrapnel.com/2020/03/13/friday-fumings/",
+						"display_url": "thoughtshrapnel.com/2020/03/13/fri…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1238450489139892200,
+						"id_str": "1238450489139892224",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/ES_cKIUXkAAExj6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ES_cKIUXkAAExj6.jpg",
+						"url": "https://t.co/oczDr4N84l",
+						"display_url": "pic.twitter.com/oczDr4N84l",
+						"expanded_url": "https://twitter.com/dajbelshaw/status/1238450490763067392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1238450489139892200,
+						"id_str": "1238450489139892224",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/ES_cKIUXkAAExj6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ES_cKIUXkAAExj6.jpg",
+						"url": "https://t.co/oczDr4N84l",
+						"display_url": "pic.twitter.com/oczDr4N84l",
+						"expanded_url": "https://twitter.com/dajbelshaw/status/1238450490763067392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 764365,
+				"id_str": "764365",
+				"name": "˗ˏˋ Doug Belshaw ˎˊ˗ 🇪🇺☠️✊",
+				"screen_name": "dajbelshaw",
+				"location": "Morpeth, UK",
+				"description": "Open Educational Thinkerer. Aspiring Mountain Leader. Split time between @MoodleNet (PM) and @WeAreOpenCoop (founder).  Previously: @Mozilla / @Jisc  / teacher",
+				"url": "https://t.co/7QshpQFsVg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7QshpQFsVg",
+								"expanded_url": "http://dougbelshaw.com",
+								"display_url": "dougbelshaw.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14501,
+				"friends_count": 4360,
+				"listed_count": 1158,
+				"created_at": "Sun Feb 11 10:23:13 +0000 2007",
+				"favourites_count": 24079,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 312,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1161428802091802627/O49Ggs-7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161428802091802627/O49Ggs-7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/764365/1574452341",
+				"profile_link_color": "2C3444",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some helpful reading https://t.co/eLcBu1znwI"
+	},
+	{
+		"created_at": "Fri Mar 13 18:37:10 +0000 2020",
+		"id": 1238534584209305600,
+		"id_str": "1238534584209305605",
+		"full_text": "How Filipino desserts are stealing the sweet spotlight\n https://t.co/2U1JGLDAQy via @sbsfood for those of us who need more purple in our lives",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SBSFood",
+					"name": "SBS Food",
+					"id": 22104722,
+					"id_str": "22104722",
+					"indices": [
+						84,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2U1JGLDAQy",
+					"expanded_url": "https://www.sbs.com.au/food/article/2020/03/02/how-filipino-desserts-are-stealing-sweet-spotlight?cx_cid=sbs:edm:food:19",
+					"display_url": "sbs.com.au/food/article/2…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2521,
+			"friends_count": 835,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Filipino desserts are stealing the sweet spotlight\n https://t.co/2U1JGLDAQy via @sbsfood for those of us who need more purple in our lives"
+	},
+	{
 		"created_at": "Wed Mar 11 10:18:00 +0000 2020",
 		"id": 1237684188830023700,
 		"id_str": "1237684188830023680",
