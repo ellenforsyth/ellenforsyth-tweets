@@ -1,6 +1,529 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 18:26:53 +0000 2020",
+		"id": 1239240376973758500,
+		"id_str": "1239256773426425856",
+		"full_text": "@doctorow Same in my home town: https://t.co/dg15GAdoCP",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doctorow",
+					"name": "Bernie Beats Trump",
+					"id": 2729061,
+					"id_str": "2729061",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dg15GAdoCP",
+					"expanded_url": "https://www.itv.com/news/westcountry/2020-03-09/bristol-distillery-uses-its-gin-to-make-hand-sanitiser/",
+					"display_url": "itv.com/news/westcount…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1239236301414494200,
+		"in_reply_to_status_id_str": "1239236301414494208",
+		"in_reply_to_user_id": 2729061,
+		"in_reply_to_user_id_str": "2729061",
+		"in_reply_to_screen_name": "doctorow",
+		"user": {
+			"id": 25296685,
+			"id_str": "25296685",
+			"name": "Alex Butcher",
+			"screen_name": "alexjbutcher",
+			"location": "",
+			"description": "green-ish socially-liberal pro-markets libertarian-leaning IT security geek, and amateur geek of physics and economics.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1407,
+			"friends_count": 3744,
+			"listed_count": 33,
+			"created_at": "Thu Mar 19 13:51:49 +0000 2009",
+			"favourites_count": 67146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/103967208/hashbang-by-daveh-large_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/103967208/hashbang-by-daveh-large_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@doctorow Same in my home town: https://t.co/dg15GAdoCP"
+	},
+	{
+		"created_at": "Sun Mar 15 18:20:18 +0000 2020",
+		"id": 1239245572206481400,
+		"id_str": "1239255115762003968",
+		"full_text": "For the second night in a row, Italian tenor Maurizio Marchini went out to his balcony in Florence - a town under complete lockdown - and serenaded the entire town.\n\nAs he put it:  \"Same stage, different song.\" \n\nNot all heroes wear capes...❤️🌎 https://t.co/FWHtfZQS51",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239182299977126000,
+					"id_str": "1239182299977125888",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239182299977125888/pu/img/lGp2jVndNrJHYEGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239182299977125888/pu/img/lGp2jVndNrJHYEGW.jpg",
+					"url": "https://t.co/FWHtfZQS51",
+					"display_url": "pic.twitter.com/FWHtfZQS51",
+					"expanded_url": "https://twitter.com/Goodable/status/1239182607516139521/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1239182607516139500,
+					"source_status_id_str": "1239182607516139521",
+					"source_user_id": 1160957211369230300,
+					"source_user_id_str": "1160957211369230343"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239182299977126000,
+					"id_str": "1239182299977125888",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239182299977125888/pu/img/lGp2jVndNrJHYEGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239182299977125888/pu/img/lGp2jVndNrJHYEGW.jpg",
+					"url": "https://t.co/FWHtfZQS51",
+					"display_url": "pic.twitter.com/FWHtfZQS51",
+					"expanded_url": "https://twitter.com/Goodable/status/1239182607516139521/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1239182607516139500,
+					"source_status_id_str": "1239182607516139521",
+					"source_user_id": 1160957211369230300,
+					"source_user_id_str": "1160957211369230343",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 134267,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1239182299977125888/pu/pl/DSAExaw45Qq7LxDO.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239182299977125888/pu/vid/360x640/JhafvSX0kenGFXrq.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239182299977125888/pu/vid/720x1280/R6SoCOd8q8LBaS0x.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239182299977125888/pu/vid/320x568/BV9mGJBSaNNO2O6U.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1160957211369230300,
+							"id_str": "1160957211369230343",
+							"name": "Goodable",
+							"screen_name": "Goodable",
+							"location": "",
+							"description": "Good news, when you need it the most.  Join the movement.  ❤ 🚀",
+							"url": "https://t.co/shmtSN6YpR",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/shmtSN6YpR",
+											"expanded_url": "http://goodable.co",
+											"display_url": "goodable.co",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 11180,
+							"friends_count": 16,
+							"listed_count": 56,
+							"created_at": "Mon Aug 12 16:52:23 +0000 2019",
+							"favourites_count": 1562,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 258,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1178365342688694272/Qusvlesd_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178365342688694272/Qusvlesd_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160957211369230343/1569004589",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 324703658,
+			"id_str": "324703658",
+			"name": "Rex Chapman🏇🏼",
+			"screen_name": "RexChapman",
+			"location": "Lexington/Phoenix ",
+			"description": "I hold the microphone like a grudge",
+			"url": "https://t.co/WW075Yadro",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WW075Yadro",
+							"expanded_url": "http://adultswim.com/streams",
+							"display_url": "adultswim.com/streams",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 551116,
+			"friends_count": 10686,
+			"listed_count": 1791,
+			"created_at": "Mon Jun 27 02:36:27 +0000 2011",
+			"favourites_count": 128421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E21F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055264484745494530/QLX6B5o9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/324703658/1539742514",
+			"profile_link_color": "2C12EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "100D14",
+			"profile_text_color": "EB0E20",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17476,
+		"favorite_count": 72260,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For the second night in a row, Italian tenor Maurizio Marchini went out to his balcony in Florence - a town under complete lockdown - and serenaded the entire town.\n\nAs he put it:  \"Same stage, different song.\" \n\nNot all heroes wear capes...❤️🌎 https://t.co/FWHtfZQS51"
+	},
+	{
+		"created_at": "Sun Mar 15 18:18:48 +0000 2020",
+		"id": 1239250632994930700,
+		"id_str": "1239254738903781376",
+		"full_text": "ICYMI: we (@GraphicMedicine) are trying to keep up with everyone's fantastic comics about #COVID19. Please consider sharing your work or work that you find at the link below. #libcomix #educomix \n\nAlternatively, tag #GraphicMedicine and we'll see it!\n\nhttps://t.co/AN1gUkmReW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "libcomix",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "educomix",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"text": "GraphicMedicine",
+					"indices": [
+						216,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GraphicMedicine",
+					"name": "Graphic Medicine",
+					"id": 427367768,
+					"id_str": "427367768",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AN1gUkmReW",
+					"expanded_url": "https://www.facebook.com/groups/graphicmedicine/permalink/2768337106569080/",
+					"display_url": "facebook.com/groups/graphic…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30585609,
+			"id_str": "30585609",
+			"name": "Matthew Noe",
+			"screen_name": "NoetheMatt",
+			"location": "Worcester, MA",
+			"description": "Coffee Fiend / Collections Librarian @HMSCountway / PTI @UKInfoSci / @GraphicMedicine / Resources Chair @libcomix / 2020 @ALALibrary Emerging Leader. (He/Him)",
+			"url": "https://t.co/XSOtLgSCNn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSOtLgSCNn",
+							"expanded_url": "https://graphiclibrarian.wordpress.com/",
+							"display_url": "graphiclibrarian.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3894,
+			"friends_count": 3239,
+			"listed_count": 255,
+			"created_at": "Sun Apr 12 02:50:17 +0000 2009",
+			"favourites_count": 63918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 84562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877960484997169152/VOMHAddJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877960484997169152/VOMHAddJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30585609/1464970044",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ICYMI: we (@GraphicMedicine) are trying to keep up with everyone's fantastic comics about #COVID19. Please consider sharing your work or work that you find at the link below. #libcomix #educomix \n\nAlternatively, tag #GraphicMedicine and we'll see it!\n\nhttps://t.co/AN1gUkmReW"
+	},
+	{
 		"created_at": "Sun Mar 15 07:01:07 +0000 2020",
 		"id": 1239084192241037300,
 		"id_str": "1239084192241037314",
