@@ -1,6 +1,1207 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 06:34:50 +0000 2020",
+		"id": 1239778283857698800,
+		"id_str": "1239802356469915649",
+		"full_text": "Being at home is important right now, but it can be lonely. You’re invited to join @AusPublicHist for The Public History Hour on Mondays, Wednesdays and Fridays from 1-2pm, live streamed on Facebook. Visit our FB page for more info: https://t.co/OC2yP7joIN https://t.co/GbDcANBVsG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AusPublicHist",
+					"name": "Australian Centre for Public History",
+					"id": 989670250030354400,
+					"id_str": "989670250030354432",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OC2yP7joIN",
+					"expanded_url": "https://www.facebook.com/AustralianCentrePublicHistory/",
+					"display_url": "facebook.com/AustralianCent…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239777752808448000,
+					"id_str": "1239777752808448001",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/ETSTTCyUYAET4Wl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETSTTCyUYAET4Wl.jpg",
+					"url": "https://t.co/GbDcANBVsG",
+					"display_url": "pic.twitter.com/GbDcANBVsG",
+					"expanded_url": "https://twitter.com/AusPublicHist/status/1239778283857698817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1572,
+							"h": 777,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 593,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239777752808448000,
+					"id_str": "1239777752808448001",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/ETSTTCyUYAET4Wl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETSTTCyUYAET4Wl.jpg",
+					"url": "https://t.co/GbDcANBVsG",
+					"display_url": "pic.twitter.com/GbDcANBVsG",
+					"expanded_url": "https://twitter.com/AusPublicHist/status/1239778283857698817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 336,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1572,
+							"h": 777,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 593,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 989670250030354400,
+			"id_str": "989670250030354432",
+			"name": "Australian Centre for Public History",
+			"screen_name": "AusPublicHist",
+			"location": "Sydney, New South Wales",
+			"description": "The Australian Centre for Public History at University of Technology Sydney promotes #publichistory, #GLAM, #dighist, #biography, #histedu & #OzHist.",
+			"url": "https://t.co/vkVN4vDOF6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vkVN4vDOF6",
+							"expanded_url": "https://www.uts.edu.au/research-and-teaching/our-research/australian-centre-public-history",
+							"display_url": "uts.edu.au/research-and-t…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1203,
+			"friends_count": 547,
+			"listed_count": 22,
+			"created_at": "Fri Apr 27 00:59:09 +0000 2018",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989679403230625792/TiGXlseA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989679403230625792/TiGXlseA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/989670250030354432/1524792408",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Being at home is important right now, but it can be lonely. You’re invited to join @AusPublicHist for The Public History Hour on Mondays, Wednesdays and Fridays from 1-2pm, live streamed on Facebook. Visit our FB page for more info: https://t.co/OC2yP7joIN https://t.co/GbDcANBVsG"
+	},
+	{
+		"created_at": "Mon Mar 16 21:13:02 +0000 2020",
+		"id": 1239657595528339500,
+		"id_str": "1239660972291362822",
+		"full_text": "Cat. And. Submarine. https://t.co/Y8rUkzFcIf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y8rUkzFcIf",
+					"expanded_url": "https://twitter.com/blmedieval/status/1239656310624473091",
+					"display_url": "twitter.com/blmedieval/sta…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52325959,
+			"id_str": "52325959",
+			"name": "Dr Rachel Franks",
+			"screen_name": "cfwriter",
+			"location": "Sydney : Gadigal Land, NSW",
+			"description": "crime fiction / true crime / history / information science / popular culture / cats + kittens / opinions own, subject to change / noisy / she, her",
+			"url": "https://t.co/VD2ArN9iyY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VD2ArN9iyY",
+							"expanded_url": "https://rachelfranks.academia.edu",
+							"display_url": "rachelfranks.academia.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384,
+			"friends_count": 1178,
+			"listed_count": 65,
+			"created_at": "Tue Jun 30 06:33:54 +0000 2009",
+			"favourites_count": 10853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/291719587/cfwriter_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/291719587/cfwriter_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52325959/1356151203",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239656310624473000,
+		"quoted_status_id_str": "1239656310624473091",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y8rUkzFcIf",
+			"expanded": "https://twitter.com/blmedieval/status/1239656310624473091",
+			"display": "twitter.com/blmedieval/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 16 20:54:30 +0000 2020",
+			"id": 1239656310624473000,
+			"id_str": "1239656310624473091",
+			"full_text": "We'd like to reassure everyone that we're not going away.\n\nWe look after manuscripts that are hundreds, if not thousands of years old. They have survived through good times and bad.\n\nSo here's a cat in a submarine. Keep safe everyone.\nhttps://t.co/QlNAHfVP7M https://t.co/iWc4idDpa6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QlNAHfVP7M",
+						"expanded_url": "https://blogs.bl.uk/digitisedmanuscripts/2013/01/lolcats-of-the-middle-ages.html",
+						"display_url": "blogs.bl.uk/digitisedmanus…",
+						"indices": [
+							235,
+							258
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1239655833853726700,
+						"id_str": "1239655833853726722",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/ETQkabSXkAI9NwC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETQkabSXkAI9NwC.jpg",
+						"url": "https://t.co/iWc4idDpa6",
+						"display_url": "pic.twitter.com/iWc4idDpa6",
+						"expanded_url": "https://twitter.com/BLMedieval/status/1239656310624473091/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 471,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 471,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1239655833853726700,
+						"id_str": "1239655833853726722",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/ETQkabSXkAI9NwC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETQkabSXkAI9NwC.jpg",
+						"url": "https://t.co/iWc4idDpa6",
+						"display_url": "pic.twitter.com/iWc4idDpa6",
+						"expanded_url": "https://twitter.com/BLMedieval/status/1239656310624473091/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 471,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 471,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 468249929,
+				"id_str": "468249929",
+				"name": "Medieval Manuscripts",
+				"screen_name": "BLMedieval",
+				"location": "British Library, London",
+				"description": "Tweeting about the British Library's marvellous medieval manuscripts",
+				"url": "https://t.co/oAxMoR30QJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oAxMoR30QJ",
+								"expanded_url": "http://blogs.bl.uk/digitisedmanuscripts/",
+								"display_url": "blogs.bl.uk/digitisedmanus…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 94344,
+				"friends_count": 249,
+				"listed_count": 2197,
+				"created_at": "Thu Jan 19 10:18:17 +0000 2012",
+				"favourites_count": 4716,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19681,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1766064061/E070014_for_Twitter_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1766064061/E070014_for_Twitter_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/468249929/1398941850",
+				"profile_link_color": "CF002A",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 320,
+			"favorite_count": 1116,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cat. And. Submarine. https://t.co/Y8rUkzFcIf"
+	},
+	{
+		"created_at": "Mon Mar 16 20:15:35 +0000 2020",
+		"id": 1239646514416320500,
+		"id_str": "1239646514416320515",
+		"full_text": "@jobeaz I agree,  a tough read",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jobeaz",
+					"name": "Jo Beazley",
+					"id": 16292857,
+					"id_str": "16292857",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1239632933465378800,
+		"in_reply_to_status_id_str": "1239632933465378816",
+		"in_reply_to_user_id": 16292857,
+		"in_reply_to_user_id_str": "16292857",
+		"in_reply_to_screen_name": "jobeaz",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2522,
+			"friends_count": 837,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jobeaz I agree,  a tough read"
+	},
+	{
+		"created_at": "Mon Mar 16 20:15:17 +0000 2020",
+		"id": 1239635678746431500,
+		"id_str": "1239646440508600321",
+		"full_text": "For friends living south of the Queensland - New South Wales border. #libraries #publiclibraries #nswlibraries https://t.co/rXoj7MxQ0A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "libraries",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"text": "publiclibraries",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"text": "nswlibraries",
+					"indices": [
+						97,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rXoj7MxQ0A",
+					"expanded_url": "https://twitter.com/RTRLibrary/status/1239432324275531777",
+					"display_url": "twitter.com/RTRLibrary/sta…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1183987591,
+			"id_str": "1183987591",
+			"name": "Kyla Stephan",
+			"screen_name": "kylastephan",
+			"location": "Gold Coast, Australia",
+			"description": "Librarian I Distracted Wikipedian | History hunter | Random researcher | Vintage collector | Glitter enthusiast | Kewpie creator | Feline friend | Views my own.",
+			"url": "https://t.co/MIWzea2YCw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MIWzea2YCw",
+							"expanded_url": "http://thelibraryghost.wordpress.com",
+							"display_url": "thelibraryghost.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 1674,
+			"listed_count": 44,
+			"created_at": "Fri Feb 15 23:17:02 +0000 2013",
+			"favourites_count": 27915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721673421029912578/YTRMG2yV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721673421029912578/YTRMG2yV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1183987591/1460895577",
+			"profile_link_color": "000303",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239432324275531800,
+		"quoted_status_id_str": "1239432324275531777",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rXoj7MxQ0A",
+			"expanded": "https://twitter.com/RTRLibrary/status/1239432324275531777",
+			"display": "twitter.com/RTRLibrary/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 16 06:04:28 +0000 2020",
+			"id": 1239432324275531800,
+			"id_str": "1239432324275531777",
+			"full_text": "All branches of RTRL will be closed from tomorrow. See the media release here:https://t.co/KQqFIdDHxq https://t.co/dsc6dD9Z91",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KQqFIdDHxq",
+						"expanded_url": "https://www.rtrl.nsw.gov.au/cp_themes/news/page.asp?p=DOC-VCN-06-81-62",
+						"display_url": "rtrl.nsw.gov.au/cp_themes/news…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1239432315509432300,
+						"id_str": "1239432315509432320",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/ETNZH8kUYAAG9Kw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETNZH8kUYAAG9Kw.jpg",
+						"url": "https://t.co/dsc6dD9Z91",
+						"display_url": "pic.twitter.com/dsc6dD9Z91",
+						"expanded_url": "https://twitter.com/RTRLibrary/status/1239432324275531777/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1239432315509432300,
+						"id_str": "1239432315509432320",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/ETNZH8kUYAAG9Kw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ETNZH8kUYAAG9Kw.jpg",
+						"url": "https://t.co/dsc6dD9Z91",
+						"display_url": "pic.twitter.com/dsc6dD9Z91",
+						"expanded_url": "https://twitter.com/RTRLibrary/status/1239432324275531777/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3675742333,
+				"id_str": "3675742333",
+				"name": "Richmond Tweed Regional Library",
+				"screen_name": "RTRLibrary",
+				"location": "Lismore, New South Wales",
+				"description": "#RichmondTweedRegionalLibrary is a #PublicLibrary service established in 1971, located on the #NorthCoast of #NewSouthWales #Australia.\n#ConnectDiscoverEscape.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1151,
+				"friends_count": 4277,
+				"listed_count": 38,
+				"created_at": "Fri Sep 25 00:06:46 +0000 2015",
+				"favourites_count": 1341,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 520,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "405FBD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1158225750945718272/xwdFppcp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158225750945718272/xwdFppcp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3675742333/1583284976",
+				"profile_link_color": "F26B51",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For friends living south of the Queensland - New South Wales border. #libraries #publiclibraries #nswlibraries https://t.co/rXoj7MxQ0A"
+	},
+	{
+		"created_at": "Mon Mar 16 19:18:17 +0000 2020",
+		"id": 1239632097016307700,
+		"id_str": "1239632097016307712",
+		"full_text": "Scientists find burnt, starving koalas weeks after the bushfires https://t.co/SvzTmgp4TX via @ConversationEDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SvzTmgp4TX",
+					"expanded_url": "https://theconversation.com/scientists-find-burnt-starving-koalas-weeks-after-the-bushfires-133519?utm_source=twitter&utm_medium=bylinetwitterbutton",
+					"display_url": "theconversation.com/scientists-fin…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2522,
+			"friends_count": 837,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scientists find burnt, starving koalas weeks after the bushfires https://t.co/SvzTmgp4TX via @ConversationEDU"
+	},
+	{
+		"created_at": "Mon Mar 16 18:05:46 +0000 2020",
+		"id": 1239609328681746400,
+		"id_str": "1239613846978846721",
+		"full_text": "Portland-based artist Yellena James creates kaleidoscopic, biomorphic artworks that resemble colourful ecosystems #womensart https://t.co/dUaCAiQwi9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "womensart",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239609269835751400,
+					"id_str": "1239609269835751424",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ETP6ECzXYAAAQm1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETP6ECzXYAAAQm1.jpg",
+					"url": "https://t.co/dUaCAiQwi9",
+					"display_url": "pic.twitter.com/dUaCAiQwi9",
+					"expanded_url": "https://twitter.com/womensart1/status/1239609328681746432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 855,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 855,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239609269835751400,
+					"id_str": "1239609269835751424",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ETP6ECzXYAAAQm1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETP6ECzXYAAAQm1.jpg",
+					"url": "https://t.co/dUaCAiQwi9",
+					"display_url": "pic.twitter.com/dUaCAiQwi9",
+					"expanded_url": "https://twitter.com/womensart1/status/1239609328681746432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 855,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 855,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4823705386,
+			"id_str": "4823705386",
+			"name": "#WOMENSART",
+			"screen_name": "womensart1",
+			"location": "",
+			"description": "Celebrating ♀'s art & creativity, curated by freelance writer, co-author & art historian @PL_Henderson1. Images are © to respective owners",
+			"url": "https://t.co/gDV7wWbjgm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gDV7wWbjgm",
+							"expanded_url": "https://womensartblog.wordpress.com/",
+							"display_url": "womensartblog.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 245631,
+			"friends_count": 0,
+			"listed_count": 3157,
+			"created_at": "Mon Jan 18 10:32:28 +0000 2016",
+			"favourites_count": 22261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4823705386/1496667909",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 307,
+		"favorite_count": 1122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Portland-based artist Yellena James creates kaleidoscopic, biomorphic artworks that resemble colourful ecosystems #womensart https://t.co/dUaCAiQwi9"
+	},
+	{
 		"created_at": "Sun Mar 15 18:26:53 +0000 2020",
 		"id": 1239240376973758500,
 		"id_str": "1239256773426425856",
