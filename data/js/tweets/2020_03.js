@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 21:03:07 +0000 2020",
+		"id": 1239897406319272000,
+		"id_str": "1240020865523298305",
+		"full_text": "You can navigate @britishlibrary #digitised content from our Digital Collections page. Maps, manuscripts, sounds &amp; more - available to access anywhere online. If you can't come to us, we'll come to you: https://t.co/GCAqargR8K #MuseumFromHome https://t.co/qVYUe50gF5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitised",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"text": "MuseumFromHome",
+					"indices": [
+						231,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "britishlibrary",
+					"name": "The British Library",
+					"id": 21744554,
+					"id_str": "21744554",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GCAqargR8K",
+					"expanded_url": "https://www.bl.uk/catalogues-and-collections/digital-collections",
+					"display_url": "bl.uk/catalogues-and…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239896311048155100,
+					"id_str": "1239896311048155143",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/ETT_ICpXsAcz28r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETT_ICpXsAcz28r.jpg",
+					"url": "https://t.co/qVYUe50gF5",
+					"display_url": "pic.twitter.com/qVYUe50gF5",
+					"expanded_url": "https://twitter.com/BL_MadeDigital/status/1239897406319271936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 727,
+							"h": 791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 727,
+							"h": 791,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239896311048155100,
+					"id_str": "1239896311048155143",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/ETT_ICpXsAcz28r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETT_ICpXsAcz28r.jpg",
+					"url": "https://t.co/qVYUe50gF5",
+					"display_url": "pic.twitter.com/qVYUe50gF5",
+					"expanded_url": "https://twitter.com/BL_MadeDigital/status/1239897406319271936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 727,
+							"h": 791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 727,
+							"h": 791,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 961143751879155700,
+			"id_str": "961143751879155712",
+			"name": "HeritageMadeDigital",
+			"screen_name": "BL_MadeDigital",
+			"location": "London, England",
+			"description": "The @britishlibrary’s initiative to make its unique and fragile collections freely available online. Formerly tweeting one language a week #AToUnknown",
+			"url": "https://t.co/nWn3Lkm9XC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nWn3Lkm9XC",
+							"expanded_url": "https://www.bl.uk/projects/heritage-made-digital",
+							"display_url": "bl.uk/projects/herit…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5393,
+			"friends_count": 1312,
+			"listed_count": 114,
+			"created_at": "Wed Feb 07 07:45:02 +0000 2018",
+			"favourites_count": 5487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239496268277321729/cp2Jjskd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239496268277321729/cp2Jjskd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961143751879155712/1584355142",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can navigate @britishlibrary #digitised content from our Digital Collections page. Maps, manuscripts, sounds &amp; more - available to access anywhere online. If you can't come to us, we'll come to you: https://t.co/GCAqargR8K #MuseumFromHome https://t.co/qVYUe50gF5"
+	},
+	{
+		"created_at": "Tue Mar 17 18:01:45 +0000 2020",
+		"id": 1239964256516202500,
+		"id_str": "1239975221685186560",
+		"full_text": "British Library to focus on digital content as public spaces close: https://t.co/mrYZj2DdvW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mrYZj2DdvW",
+					"expanded_url": "https://www.bl.uk/press-releases/2020/march/covid-19-press-statement",
+					"display_url": "bl.uk/press-releases…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45592970,
+			"id_str": "45592970",
+			"name": "BL Press Office",
+			"screen_name": "BLpressoffice",
+			"location": "London, NW1 2DB, UK",
+			"description": "The latest news from the British Library press office.",
+			"url": "https://t.co/bGui5HRBX2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bGui5HRBX2",
+							"expanded_url": "http://www.bl.uk/press",
+							"display_url": "bl.uk/press",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5617,
+			"friends_count": 2331,
+			"listed_count": 239,
+			"created_at": "Mon Jun 08 15:43:19 +0000 2009",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905096420524515328/-tCSOKGr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905096420524515328/-tCSOKGr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45592970/1519899741",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "British Library to focus on digital content as public spaces close: https://t.co/mrYZj2DdvW"
+	},
+	{
+		"created_at": "Tue Mar 17 17:59:40 +0000 2020",
+		"id": 1239861610438688800,
+		"id_str": "1239974700710645760",
+		"full_text": "STUCK AT HOME? Did you know you can still enjoy Black Cultural Archives through our online collections on the Google Arts and Culture website? See link in bio or click here https://t.co/borKkQvy45 https://t.co/Hk4yfz6Onz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/borKkQvy45",
+					"expanded_url": "http://ow.ly/Nkfn30qqm4t",
+					"display_url": "ow.ly/Nkfn30qqm4t",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239861608748404700,
+					"id_str": "1239861608748404736",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTfkGgX0AAkczX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTfkGgX0AAkczX.jpg",
+					"url": "https://t.co/Hk4yfz6Onz",
+					"display_url": "pic.twitter.com/Hk4yfz6Onz",
+					"expanded_url": "https://twitter.com/bcaheritage/status/1239861610438688773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1042,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1076,
+							"h": 1239,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 591,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239861608748404700,
+					"id_str": "1239861608748404736",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/ETTfkGgX0AAkczX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETTfkGgX0AAkczX.jpg",
+					"url": "https://t.co/Hk4yfz6Onz",
+					"display_url": "pic.twitter.com/Hk4yfz6Onz",
+					"expanded_url": "https://twitter.com/bcaheritage/status/1239861610438688773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1042,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1076,
+							"h": 1239,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 591,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200121178,
+			"id_str": "200121178",
+			"name": "BCA",
+			"screen_name": "bcaheritage",
+			"location": "Lambeth, London",
+			"description": "Follow Black Cultural Archives' journey, the UK's first national Black heritage centre. Support us! Text BACKBCA to 70970 donate £5",
+			"url": "https://t.co/qGq6HlNE3M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qGq6HlNE3M",
+							"expanded_url": "http://www.blackculturalarchives.org",
+							"display_url": "blackculturalarchives.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19487,
+			"friends_count": 2509,
+			"listed_count": 284,
+			"created_at": "Fri Oct 08 14:06:33 +0000 2010",
+			"favourites_count": 7469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922473720454762497/3DJNtDrl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922473720454762497/3DJNtDrl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200121178/1573566941",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "STUCK AT HOME? Did you know you can still enjoy Black Cultural Archives through our online collections on the Google Arts and Culture website? See link in bio or click here https://t.co/borKkQvy45 https://t.co/Hk4yfz6Onz"
+	},
+	{
+		"created_at": "Tue Mar 17 17:57:09 +0000 2020",
+		"id": 1239969251236053000,
+		"id_str": "1239974066917801992",
+		"full_text": "The Keepers with Host Frances McDormand. Listen to our #podcast special featuring the story of the Pack Horse Librarian Project of Eastern Kentucky. https://t.co/sztyInFZEU https://t.co/J20OuWkAXC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "podcast",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sztyInFZEU",
+					"expanded_url": "https://podcasts.apple.com/us/podcast/the-kitchen-sisters-present/id814067846",
+					"display_url": "podcasts.apple.com/us/podcast/the…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239968649789636600,
+					"id_str": "1239968649789636608",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239968649789636608/pu/img/5z1v2dhDj9oawcY1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239968649789636608/pu/img/5z1v2dhDj9oawcY1.jpg",
+					"url": "https://t.co/J20OuWkAXC",
+					"display_url": "pic.twitter.com/J20OuWkAXC",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1239969251236052993/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239968649789636600,
+					"id_str": "1239968649789636608",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239968649789636608/pu/img/5z1v2dhDj9oawcY1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239968649789636608/pu/img/5z1v2dhDj9oawcY1.jpg",
+					"url": "https://t.co/J20OuWkAXC",
+					"display_url": "pic.twitter.com/J20OuWkAXC",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1239969251236052993/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56046,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1239968649789636608/pu/pl/S-YWN6xZpK_TmulL.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239968649789636608/pu/vid/480x480/WOlWCpxFqnpH82MD.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239968649789636608/pu/vid/720x720/Dma8HoOwTDYshu_D.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239968649789636608/pu/vid/320x320/7C4sJYCpC_MKhKYm.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16459243,
+			"id_str": "16459243",
+			"name": "The Kitchen Sisters",
+			"screen_name": "kitchensisters",
+			"location": "San Francisco",
+			"description": "The Kitchen Sisters (Davia Nelson & Nikki Silva), producers of NPR's The Keepers, Hidden Kitchens, Hidden World of Girls & The Kitchen Sisters Present podcast",
+			"url": "http://t.co/AVmB8ffkDA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AVmB8ffkDA",
+							"expanded_url": "http://www.kitchensisters.org",
+							"display_url": "kitchensisters.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16672,
+			"friends_count": 3814,
+			"listed_count": 649,
+			"created_at": "Thu Sep 25 22:38:03 +0000 2008",
+			"favourites_count": 7688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16459243/1546894354",
+			"profile_link_color": "1EBBEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Keepers with Host Frances McDormand. Listen to our #podcast special featuring the story of the Pack Horse Librarian Project of Eastern Kentucky. https://t.co/sztyInFZEU https://t.co/J20OuWkAXC"
+	},
+	{
 		"created_at": "Tue Mar 17 06:34:50 +0000 2020",
 		"id": 1239778283857698800,
 		"id_str": "1239802356469915649",
