@@ -1,6 +1,934 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 06:58:07 +0000 2020",
+		"id": 1240465218884399000,
+		"id_str": "1241620155152494593",
+		"full_text": "We're postponing anyone who has travelled overseas in the past 28 days, and we have robust clinical-grade cleaning measures in place to keep you healthy. If you're feeling well, we need you right now. Please make an appointment today: https://t.co/eY3nwwwN4u https://t.co/4KX0wY58b9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eY3nwwwN4u",
+					"expanded_url": "https://don8blood.com/2UfbQZs",
+					"display_url": "don8blood.com/2UfbQZs",
+					"indices": [
+						235,
+						258
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240465161317544000,
+					"id_str": "1240465161317543941",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/ETcEffCUcAU9ikR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETcEffCUcAU9ikR.jpg",
+					"url": "https://t.co/4KX0wY58b9",
+					"display_url": "pic.twitter.com/4KX0wY58b9",
+					"expanded_url": "https://twitter.com/lifebloodau/status/1240465218884399105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240465161317544000,
+					"id_str": "1240465161317543941",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/ETcEffCUcAU9ikR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETcEffCUcAU9ikR.jpg",
+					"url": "https://t.co/4KX0wY58b9",
+					"display_url": "pic.twitter.com/4KX0wY58b9",
+					"expanded_url": "https://twitter.com/lifebloodau/status/1240465218884399105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1240465216946573300,
+		"in_reply_to_status_id_str": "1240465216946573312",
+		"in_reply_to_user_id": 36544738,
+		"in_reply_to_user_id_str": "36544738",
+		"in_reply_to_screen_name": "lifebloodau",
+		"user": {
+			"id": 36544738,
+			"id_str": "36544738",
+			"name": "Australian Red Cross Lifeblood",
+			"screen_name": "lifebloodau",
+			"location": "Australia",
+			"description": "Lifeblood. Give Life. Give Blood. Call 13 14 95 or book online. #lifebloodau",
+			"url": "https://t.co/xuv0HFWp3T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xuv0HFWp3T",
+							"expanded_url": "https://lifebloodau.com/2rKMGXW",
+							"display_url": "lifebloodau.com/2rKMGXW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18841,
+			"friends_count": 2887,
+			"listed_count": 206,
+			"created_at": "Thu Apr 30 01:03:11 +0000 2009",
+			"favourites_count": 7901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195076658622951424/DcSTK-oq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195076658622951424/DcSTK-oq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36544738/1573763456",
+			"profile_link_color": "FF0D00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0E0E0",
+			"profile_text_color": "242324",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're postponing anyone who has travelled overseas in the past 28 days, and we have robust clinical-grade cleaning measures in place to keep you healthy. If you're feeling well, we need you right now. Please make an appointment today: https://t.co/eY3nwwwN4u https://t.co/4KX0wY58b9"
+	},
+	{
+		"created_at": "Sun Mar 22 06:50:48 +0000 2020",
+		"id": 1241122609242222600,
+		"id_str": "1241618311986569217",
+		"full_text": "Keep up to date with the news in your language. With a Library card you can read international newspapers and magazines for free online. #HarmonyDay\n\nSign up for a Library card: https://t.co/sl3iDY92BH\n\nLearn about our language resources: https://t.co/VcbiWMFaAU https://t.co/KVbpEUYsfk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HarmonyDay",
+					"indices": [
+						137,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sl3iDY92BH",
+					"expanded_url": "https://www.sl.nsw.gov.au/research-and-collections/get-library-card",
+					"display_url": "sl.nsw.gov.au/research-and-c…",
+					"indices": [
+						178,
+						201
+					]
+				},
+				{
+					"url": "https://t.co/VcbiWMFaAU",
+					"expanded_url": "https://www.sl.nsw.gov.au/harmony-week",
+					"display_url": "sl.nsw.gov.au/harmony-week",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1241122351682633700,
+					"id_str": "1241122351682633736",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/ETlaM_7XQAgDiSI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETlaM_7XQAgDiSI.jpg",
+					"url": "https://t.co/KVbpEUYsfk",
+					"display_url": "pic.twitter.com/KVbpEUYsfk",
+					"expanded_url": "https://twitter.com/statelibrarynsw/status/1241122609242222593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 821,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241122351682633700,
+					"id_str": "1241122351682633736",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/ETlaM_7XQAgDiSI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETlaM_7XQAgDiSI.jpg",
+					"url": "https://t.co/KVbpEUYsfk",
+					"display_url": "pic.twitter.com/KVbpEUYsfk",
+					"expanded_url": "https://twitter.com/statelibrarynsw/status/1241122609242222593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 821,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 273,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.meltwater.com/\" rel=\"nofollow\">Meltwater Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121597205,
+			"id_str": "121597205",
+			"name": "State Library of NSW",
+			"screen_name": "statelibrarynsw",
+			"location": "Sydney, Australia",
+			"description": "Collecting, connecting and challenging ideas since 1826. Funded by the NSW Government.",
+			"url": "https://t.co/M4rzAKs3RK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M4rzAKs3RK",
+							"expanded_url": "http://www.sl.nsw.gov.au",
+							"display_url": "sl.nsw.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16788,
+			"friends_count": 1010,
+			"listed_count": 458,
+			"created_at": "Wed Mar 10 00:43:42 +0000 2010",
+			"favourites_count": 5955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937050911/intero_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937050911/intero_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121597205/1504572564",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A6A6A6",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Keep up to date with the news in your language. With a Library card you can read international newspapers and magazines for free online. #HarmonyDay\n\nSign up for a Library card: https://t.co/sl3iDY92BH\n\nLearn about our language resources: https://t.co/VcbiWMFaAU https://t.co/KVbpEUYsfk"
+	},
+	{
+		"created_at": "Sun Mar 22 06:50:31 +0000 2020",
+		"id": 1241594818557440000,
+		"id_str": "1241618241690030081",
+		"full_text": "Following advice from the State and Federal Government, we have made the difficult decision to close the Library to the public and to staff tomorrow (Monday 23 March) until further notice.\n\nPlease continue to access our collections and resources online.\n\nhttps://t.co/0KDyUuWcUx https://t.co/Z588xEQmFB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0KDyUuWcUx",
+					"expanded_url": "https://www.sl.nsw.gov.au/news/important-information-covid-19",
+					"display_url": "sl.nsw.gov.au/news/important…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1241594008448585700,
+					"id_str": "1241594008448585728",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ETsHLCTU0AAv8U6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETsHLCTU0AAv8U6.jpg",
+					"url": "https://t.co/Z588xEQmFB",
+					"display_url": "pic.twitter.com/Z588xEQmFB",
+					"expanded_url": "https://twitter.com/statelibrarynsw/status/1241594818557440000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241594008448585700,
+					"id_str": "1241594008448585728",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ETsHLCTU0AAv8U6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETsHLCTU0AAv8U6.jpg",
+					"url": "https://t.co/Z588xEQmFB",
+					"display_url": "pic.twitter.com/Z588xEQmFB",
+					"expanded_url": "https://twitter.com/statelibrarynsw/status/1241594818557440000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121597205,
+			"id_str": "121597205",
+			"name": "State Library of NSW",
+			"screen_name": "statelibrarynsw",
+			"location": "Sydney, Australia",
+			"description": "Collecting, connecting and challenging ideas since 1826. Funded by the NSW Government.",
+			"url": "https://t.co/M4rzAKs3RK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M4rzAKs3RK",
+							"expanded_url": "http://www.sl.nsw.gov.au",
+							"display_url": "sl.nsw.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16788,
+			"friends_count": 1010,
+			"listed_count": 458,
+			"created_at": "Wed Mar 10 00:43:42 +0000 2010",
+			"favourites_count": 5955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937050911/intero_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937050911/intero_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121597205/1504572564",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A6A6A6",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Following advice from the State and Federal Government, we have made the difficult decision to close the Library to the public and to staff tomorrow (Monday 23 March) until further notice.\n\nPlease continue to access our collections and resources online.\n\nhttps://t.co/0KDyUuWcUx https://t.co/Z588xEQmFB"
+	},
+	{
+		"created_at": "Sat Mar 21 21:49:38 +0000 2020",
+		"id": 1241456592383611000,
+		"id_str": "1241482124768604160",
+		"full_text": "Being stuck at home can be challenging. When I lived on the @Space_Station for nearly a year, it wasn’t easy. \n\nA few tips from what I learned then that will help us now as we stay in &amp; work together to get thru this #CoronavirusPandemic. \n\nhttps://t.co/qdOLTb3akL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CoronavirusPandemic",
+					"indices": [
+						221,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Space_Station",
+					"name": "Intl. Space Station",
+					"id": 1451773004,
+					"id_str": "1451773004",
+					"indices": [
+						60,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qdOLTb3akL",
+					"expanded_url": "https://www.nytimes.com/2020/03/21/opinion/scott-kelly-coronavirus-isolation.html",
+					"display_url": "nytimes.com/2020/03/21/opi…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65647594,
+			"id_str": "65647594",
+			"name": "Scott Kelly",
+			"screen_name": "StationCDRKelly",
+			"location": "Earth",
+			"description": "Ret US Navy Capt & Former NASA Astronaut | #YearInSpace | @KepplerSpeakers | NY Times Bestselling Author |#EnduranceMemoir #InfiniteWonder #MyJourneyToTheStars",
+			"url": "https://t.co/zl81o1sR2E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zl81o1sR2E",
+							"expanded_url": "http://www.scottkelly.com",
+							"display_url": "scottkelly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5557061,
+			"friends_count": 430,
+			"listed_count": 8559,
+			"created_at": "Fri Aug 14 14:31:39 +0000 2009",
+			"favourites_count": 1301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975030326459170816/ivHlJOYx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975030326459170816/ivHlJOYx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65647594/1567710755",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "838582",
+			"profile_sidebar_fill_color": "262626",
+			"profile_text_color": "727273",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1963,
+		"favorite_count": 4283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Being stuck at home can be challenging. When I lived on the @Space_Station for nearly a year, it wasn’t easy. \n\nA few tips from what I learned then that will help us now as we stay in &amp; work together to get thru this #CoronavirusPandemic. \n\nhttps://t.co/qdOLTb3akL"
+	},
+	{
+		"created_at": "Sat Mar 21 21:45:46 +0000 2020",
+		"id": 1241481150737997800,
+		"id_str": "1241481150737997828",
+		"full_text": "Revisiting in a New Light: A Conference Call in Real Life https://t.co/bhS8QhytNK via @scholarlykitchn this is brilliant (kind of a what not to do and what can go wrong)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scholarlykitchn",
+					"name": "Scholarly Kitchen",
+					"id": 119401334,
+					"id_str": "119401334",
+					"indices": [
+						86,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bhS8QhytNK",
+					"expanded_url": "https://scholarlykitchen.sspnet.org/2020/03/20/revisiting-in-a-new-light-a-conference-call-in-real-life/",
+					"display_url": "scholarlykitchen.sspnet.org/2020/03/20/rev…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 842,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Revisiting in a New Light: A Conference Call in Real Life https://t.co/bhS8QhytNK via @scholarlykitchn this is brilliant (kind of a what not to do and what can go wrong)"
+	},
+	{
+		"created_at": "Sat Mar 21 19:26:35 +0000 2020",
+		"id": 1241446124973461500,
+		"id_str": "1241446124973461504",
+		"full_text": "Locked down like the rest of Italy, a poet draws his country close — by phone https://t.co/FLWTBCcH4x via @washingtonpost",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						106,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FLWTBCcH4x",
+					"expanded_url": "https://www.washingtonpost.com/world/europe/italy-coronavirus-poet-franco-arminio-phone-calls/2020/03/19/e6c6ae02-687f-11ea-b199-3a9799c54512_story.html",
+					"display_url": "washingtonpost.com/world/europe/i…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 842,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 5986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Locked down like the rest of Italy, a poet draws his country close — by phone https://t.co/FLWTBCcH4x via @washingtonpost"
+	},
+	{
 		"created_at": "Sat Mar 21 02:35:39 +0000 2020",
 		"id": 1241191715177783300,
 		"id_str": "1241191715177783296",
