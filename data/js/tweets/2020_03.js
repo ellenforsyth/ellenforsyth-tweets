@@ -1,6 +1,636 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 26 21:46:00 +0000 2020",
+		"id": 1242783288571211800,
+		"id_str": "1243293147767033856",
+		"full_text": "Incoming transmission. #MessageFromTheDoctor #DoctorWho https://t.co/WRTROxWRQy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MessageFromTheDoctor",
+					"indices": [
+						23,
+						44
+					]
+				},
+				{
+					"text": "DoctorWho",
+					"indices": [
+						45,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242760531431379000,
+					"id_str": "1242760531431378944",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/ET82aOrXkAAMeh9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET82aOrXkAAMeh9.jpg",
+					"url": "https://t.co/WRTROxWRQy",
+					"display_url": "pic.twitter.com/WRTROxWRQy",
+					"expanded_url": "https://twitter.com/bbcdoctorwho/status/1242783288571211776/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242760531431379000,
+					"id_str": "1242760531431378944",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/ET82aOrXkAAMeh9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET82aOrXkAAMeh9.jpg",
+					"url": "https://t.co/WRTROxWRQy",
+					"display_url": "pic.twitter.com/WRTROxWRQy",
+					"expanded_url": "https://twitter.com/bbcdoctorwho/status/1242783288571211776/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1140,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							160
+						],
+						"duration_millis": 81160,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1242760531431378944/vid/720x1140/FaMV26l8No6rpgCo.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1242760531431378944/pl/L9atar3itWHY9_Xz.m3u8?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1242760531431378944/vid/320x506/nsBijIUQyRB4sRuP.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1242760531431378944/vid/360x570/rz1KGcumDZQRYyYh.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 237670274,
+			"id_str": "237670274",
+			"name": "Doctor Who Official",
+			"screen_name": "bbcdoctorwho",
+			"location": "",
+			"description": "Official @BBC Twitter account for Doctor Who run by BBC Group. \nMentions and RTs do not constitute endorsement. \nhttps://t.co/5GikvvN2C6",
+			"url": "https://t.co/Vg7P5HKwqQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vg7P5HKwqQ",
+							"expanded_url": "http://www.bbc.co.uk/doctorwho",
+							"display_url": "bbc.co.uk/doctorwho",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5GikvvN2C6",
+							"expanded_url": "https://Instagram.com/bbcdoctorwho",
+							"display_url": "Instagram.com/bbcdoctorwho",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1669333,
+			"friends_count": 97,
+			"listed_count": 7210,
+			"created_at": "Thu Jan 13 10:45:49 +0000 2011",
+			"favourites_count": 358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "2C283F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197926586709938176/D1kjM91p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197926586709938176/D1kjM91p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/237670274/1581526416",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "00304C",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29887,
+		"favorite_count": 67826,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Incoming transmission. #MessageFromTheDoctor #DoctorWho https://t.co/WRTROxWRQy"
+	},
+	{
+		"created_at": "Thu Mar 26 21:36:04 +0000 2020",
+		"id": 1243094629953699800,
+		"id_str": "1243290649077530625",
+		"full_text": "The @StayatHomefest - an international online literature festival - kicks off tomorrow!! 📚 \n\nThere'll be events on poetry, novel writing &amp; nonfiction, career advice, mental health, publishing, &amp; more. \n\nBe sure to tune in from tomorrow: https://t.co/7YDSduTryh https://t.co/oNjTZ9as2l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StayatHomefest",
+					"name": "The Stay-at-Home! online literary festival",
+					"id": 1240608862367035400,
+					"id_str": "1240608862367035393",
+					"indices": [
+						4,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7YDSduTryh",
+					"expanded_url": "https://stayathomefest.wordpress.com/",
+					"display_url": "stayathomefest.wordpress.com",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1243094610865463300,
+					"id_str": "1243094610865463299",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EUBb9l7WoAM3-7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUBb9l7WoAM3-7X.jpg",
+					"url": "https://t.co/oNjTZ9as2l",
+					"display_url": "pic.twitter.com/oNjTZ9as2l",
+					"expanded_url": "https://twitter.com/EdinCityofLit/status/1243094629953699842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 624,
+							"h": 208,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 208,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243094610865463300,
+					"id_str": "1243094610865463299",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EUBb9l7WoAM3-7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUBb9l7WoAM3-7X.jpg",
+					"url": "https://t.co/oNjTZ9as2l",
+					"display_url": "pic.twitter.com/oNjTZ9as2l",
+					"expanded_url": "https://twitter.com/EdinCityofLit/status/1243094629953699842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 624,
+							"h": 208,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 208,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 208,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39489799,
+			"id_str": "39489799",
+			"name": "City of Literature",
+			"screen_name": "EdinCityofLit",
+			"location": "Edinburgh",
+			"description": "A literary charity connecting people to place through books, words, and ideas.",
+			"url": "https://t.co/0QqlgcivU8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0QqlgcivU8",
+							"expanded_url": "http://www.cityofliterature.com",
+							"display_url": "cityofliterature.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41587,
+			"friends_count": 10175,
+			"listed_count": 795,
+			"created_at": "Tue May 12 12:40:47 +0000 2009",
+			"favourites_count": 8665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "15130F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/819582030971371521/VKhbbmJz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/819582030971371521/VKhbbmJz_normal.jpg",
+			"profile_link_color": "5B2680",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F9F6E6",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @StayatHomefest - an international online literature festival - kicks off tomorrow!! 📚 \n\nThere'll be events on poetry, novel writing &amp; nonfiction, career advice, mental health, publishing, &amp; more. \n\nBe sure to tune in from tomorrow: https://t.co/7YDSduTryh https://t.co/oNjTZ9as2l"
+	},
+	{
+		"created_at": "Thu Mar 26 21:34:09 +0000 2020",
+		"id": 1243268814894055400,
+		"id_str": "1243290166808080384",
+		"full_text": "A really clear graphic on how we can all make a difference when it comes to #COVID19au, from @Sydney_Uni and @abcnews: https://t.co/S6ohn4JFFx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19au",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sydney_Uni",
+					"name": "University of Sydney",
+					"id": 20104025,
+					"id_str": "20104025",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						109,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243268808631976000,
+					"id_str": "1243268808631975937",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EUD6ZPLVAAE0sIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUD6ZPLVAAE0sIN.jpg",
+					"url": "https://t.co/S6ohn4JFFx",
+					"display_url": "pic.twitter.com/S6ohn4JFFx",
+					"expanded_url": "https://twitter.com/cfwriter/status/1243268814894055424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 941,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 941,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243268808631976000,
+					"id_str": "1243268808631975937",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EUD6ZPLVAAE0sIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUD6ZPLVAAE0sIN.jpg",
+					"url": "https://t.co/S6ohn4JFFx",
+					"display_url": "pic.twitter.com/S6ohn4JFFx",
+					"expanded_url": "https://twitter.com/cfwriter/status/1243268814894055424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 941,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 941,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52325959,
+			"id_str": "52325959",
+			"name": "Dr Rachel Franks",
+			"screen_name": "cfwriter",
+			"location": "Sydney : Gadigal Land, NSW",
+			"description": "crime fiction / true crime / history / information science / popular culture / cats + kittens / opinions own, subject to change / noisy / she, her",
+			"url": "https://t.co/VD2ArN9iyY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VD2ArN9iyY",
+							"expanded_url": "https://rachelfranks.academia.edu",
+							"display_url": "rachelfranks.academia.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1392,
+			"friends_count": 1183,
+			"listed_count": 65,
+			"created_at": "Tue Jun 30 06:33:54 +0000 2009",
+			"favourites_count": 11080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/291719587/cfwriter_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/291719587/cfwriter_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52325959/1356151203",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A really clear graphic on how we can all make a difference when it comes to #COVID19au, from @Sydney_Uni and @abcnews: https://t.co/S6ohn4JFFx"
+	},
+	{
 		"created_at": "Wed Mar 25 20:01:52 +0000 2020",
 		"id": 1242904553579675600,
 		"id_str": "1242904553579675648",
