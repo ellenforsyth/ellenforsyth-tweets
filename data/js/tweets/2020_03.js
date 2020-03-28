@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 17:18:59 +0000 2020",
+		"id": 1243588338696798200,
+		"id_str": "1243588338696798218",
+		"full_text": "@Tuphlos Glad you are okay",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tuphlos",
+					"name": "IAmRobinB⚾️🍹🎼📚",
+					"id": 20703602,
+					"id_str": "20703602",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1243553592813842400,
+		"in_reply_to_status_id_str": "1243553592813842432",
+		"in_reply_to_user_id": 20703602,
+		"in_reply_to_user_id_str": "20703602",
+		"in_reply_to_screen_name": "Tuphlos",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2530,
+			"friends_count": 842,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Tuphlos Glad you are okay"
+	},
+	{
+		"created_at": "Fri Mar 27 08:47:41 +0000 2020",
+		"id": 1243459667675644000,
+		"id_str": "1243459667675643905",
+		"full_text": "NSW land-clearing approvals increased 13-fold since laws relaxed in 2016 via ⁦@GuardianAus⁩  https://t.co/pZCAnDfhaE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuardianAus",
+					"name": "Guardian Australia",
+					"id": 1092378031,
+					"id_str": "1092378031",
+					"indices": [
+						78,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pZCAnDfhaE",
+					"expanded_url": "https://www.theguardian.com/environment/2020/mar/27/nsw-land-clearing-approvals-increased-13-fold-since-laws-relaxed-in-2016?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2530,
+			"friends_count": 842,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NSW land-clearing approvals increased 13-fold since laws relaxed in 2016 via ⁦@GuardianAus⁩  https://t.co/pZCAnDfhaE"
+	},
+	{
+		"created_at": "Fri Mar 27 07:29:30 +0000 2020",
+		"id": 1243289495589412900,
+		"id_str": "1243439990274551808",
+		"full_text": "Here's our first look at mapping more detailed data for Covid-19 cases in NSW and Victoria (more maps to come) #coronavirusaustralia #Coronaaustralia #CoronavirusOubreak https://t.co/naYDRonlfL https://t.co/Ua2Zm21Afb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronavirusaustralia",
+					"indices": [
+						111,
+						132
+					]
+				},
+				{
+					"text": "Coronaaustralia",
+					"indices": [
+						133,
+						149
+					]
+				},
+				{
+					"text": "CoronavirusOubreak",
+					"indices": [
+						150,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/naYDRonlfL",
+					"expanded_url": "https://www.theguardian.com/news/datablog/ng-interactive/2020/mar/26/how-many-cases-of-coronavirus-are-there-in-australia-live-covid-19-numbers-and-statistics",
+					"display_url": "theguardian.com/news/datablog/…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1243289304064856000,
+					"id_str": "1243289304064856064",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EUENCOnUEAA0OvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUENCOnUEAA0OvR.jpg",
+					"url": "https://t.co/Ua2Zm21Afb",
+					"display_url": "pic.twitter.com/Ua2Zm21Afb",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1243289495589412864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 936,
+							"h": 842,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 842,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243289304064856000,
+					"id_str": "1243289304064856064",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EUENCOnUEAA0OvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUENCOnUEAA0OvR.jpg",
+					"url": "https://t.co/Ua2Zm21Afb",
+					"display_url": "pic.twitter.com/Ua2Zm21Afb",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1243289495589412864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 936,
+							"h": 842,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 842,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48176841,
+			"id_str": "48176841",
+			"name": "Nick Evershed",
+			"screen_name": "NickEvershed",
+			"location": "Australia",
+			"description": "Data and interactives at @GuardianAus. Occasional investigations. DMs open, or secure contact in bio.",
+			"url": "https://t.co/CSW1wFifUI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CSW1wFifUI",
+							"expanded_url": "http://www.theguardian.com/profile/nick-evershed",
+							"display_url": "theguardian.com/profile/nick-e…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10034,
+			"friends_count": 3859,
+			"listed_count": 391,
+			"created_at": "Thu Jun 18 00:22:56 +0000 2009",
+			"favourites_count": 10083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232466138476339201/wlz3JKyL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232466138476339201/wlz3JKyL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48176841/1550016882",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's our first look at mapping more detailed data for Covid-19 cases in NSW and Victoria (more maps to come) #coronavirusaustralia #Coronaaustralia #CoronavirusOubreak https://t.co/naYDRonlfL https://t.co/Ua2Zm21Afb"
+	},
+	{
 		"created_at": "Thu Mar 26 21:46:00 +0000 2020",
 		"id": 1242783288571211800,
 		"id_str": "1243293147767033856",
