@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 05:41:34 +0000 2020",
+		"id": 1240166719294857200,
+		"id_str": "1244499992485580801",
+		"full_text": "Do something worthwhile. Contribute to scientific research. Join a #DigiVol expedition and travel the world while you are self-isolating!\n#CitizenScience #SelfIsolation\nhttps://t.co/XDZEEfLEr1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiVol",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "CitizenScience",
+					"indices": [
+						138,
+						153
+					]
+				},
+				{
+					"text": "SelfIsolation",
+					"indices": [
+						154,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XDZEEfLEr1",
+					"expanded_url": "https://volunteer.ala.org.au/",
+					"display_url": "volunteer.ala.org.au",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3308487751,
+			"id_str": "3308487751",
+			"name": "DigiVol",
+			"screen_name": "AMDigiVol",
+			"location": "Sydney, New South Wales",
+			"description": "Crowdsourcing volunteers to help build knowledge, data and research and fostering communities through digitising biodiversity collections.",
+			"url": "http://t.co/82r6KX2CWr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/82r6KX2CWr",
+							"expanded_url": "http://www.digivol.org",
+							"display_url": "digivol.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413,
+			"friends_count": 402,
+			"listed_count": 12,
+			"created_at": "Fri Aug 07 04:37:55 +0000 2015",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/725865307500212224/UaZCUWT2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725865307500212224/UaZCUWT2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308487751/1461891562",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do something worthwhile. Contribute to scientific research. Join a #DigiVol expedition and travel the world while you are self-isolating!\n#CitizenScience #SelfIsolation\nhttps://t.co/XDZEEfLEr1"
+	},
+	{
+		"created_at": "Sun Mar 29 21:31:56 +0000 2020",
+		"id": 1244376770465259500,
+		"id_str": "1244376770465259520",
+		"full_text": "@CatyJ I hope your day improves from this start",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatyJ",
+					"name": "CatyJ",
+					"id": 15732431,
+					"id_str": "15732431",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1244366207798542300,
+		"in_reply_to_status_id_str": "1244366207798542336",
+		"in_reply_to_user_id": 15732431,
+		"in_reply_to_user_id_str": "15732431",
+		"in_reply_to_screen_name": "CatyJ",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 842,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CatyJ I hope your day improves from this start"
+	},
+	{
+		"created_at": "Sun Mar 29 20:20:16 +0000 2020",
+		"id": 1243976407270731800,
+		"id_str": "1244358736589684736",
+		"full_text": "How to Sanitize Collections in a Pandemic: Conservators weigh in on the mysteries of materials handling during COVID-19 https://t.co/3LzotpQhcs https://t.co/e6cQN2SkhA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3LzotpQhcs",
+					"expanded_url": "http://bit.ly/3dCMJZs",
+					"display_url": "bit.ly/3dCMJZs",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1243976404242436000,
+					"id_str": "1243976404242436096",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EUN98uPWkAAgRSX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUN98uPWkAAgRSX.jpg",
+					"url": "https://t.co/e6cQN2SkhA",
+					"display_url": "pic.twitter.com/e6cQN2SkhA",
+					"expanded_url": "https://twitter.com/amlibraries/status/1243976407270731776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243976404242436000,
+					"id_str": "1243976404242436096",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EUN98uPWkAAgRSX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUN98uPWkAAgRSX.jpg",
+					"url": "https://t.co/e6cQN2SkhA",
+					"display_url": "pic.twitter.com/e6cQN2SkhA",
+					"expanded_url": "https://twitter.com/amlibraries/status/1243976407270731776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18955776,
+			"id_str": "18955776",
+			"name": "American Libraries",
+			"screen_name": "amlibraries",
+			"location": "Chicago",
+			"description": "Magazine of the American Library Association. Tweeters include Amy Carlton, Terra Dankowski, George Eberhart, Phil Morehart, Sallyann Price & Sanhita SinhaRoy.",
+			"url": "http://t.co/2Dq9yGNmHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2Dq9yGNmHL",
+							"expanded_url": "http://americanlibrariesmagazine.org",
+							"display_url": "americanlibrariesmagazine.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83054,
+			"friends_count": 1125,
+			"listed_count": 2322,
+			"created_at": "Tue Jan 13 22:08:09 +0000 2009",
+			"favourites_count": 830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18955776/1577978349",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to Sanitize Collections in a Pandemic: Conservators weigh in on the mysteries of materials handling during COVID-19 https://t.co/3LzotpQhcs https://t.co/e6cQN2SkhA"
+	},
+	{
 		"created_at": "Sat Mar 28 19:21:47 +0000 2020",
 		"id": 1243981630844194800,
 		"id_str": "1243981630844194816",
