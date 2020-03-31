@@ -1,6 +1,1061 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 06:43:29 +0000 2020",
+		"id": 1244874586489004000,
+		"id_str": "1244877959963398150",
+		"full_text": "It was incredible to hear  &amp; write about voices from @nlagovau ‘a extraordinary #oralhistory collection talking about the devastating global influenza epidemic of 1919 in Australia https://t.co/kDi9ONA59I - Stories of loss, courage and even humour 🎧 #twitterstorians #ozhist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oralhistory",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "twitterstorians",
+					"indices": [
+						254,
+						270
+					]
+				},
+				{
+					"text": "ozhist",
+					"indices": [
+						271,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nlagovau",
+					"name": "National Library of Australia",
+					"id": 42354375,
+					"id_str": "42354375",
+					"indices": [
+						57,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kDi9ONA59I",
+					"expanded_url": "https://bit.ly/3dE8qrP",
+					"display_url": "bit.ly/3dE8qrP",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28295539,
+			"id_str": "28295539",
+			"name": "Shirleene Robinson",
+			"screen_name": "shirleene",
+			"location": "Sydney, New South Wales",
+			"description": "Historian, Author & Curator @AMEquality Board Director, Co-Convenor, NSW. President @pridehistory NSW. Chair Committee @pinnaclefound ACT Opinions mine.",
+			"url": "https://t.co/w586rCRx4y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w586rCRx4y",
+							"expanded_url": "https://www.shirleenerobinson.com",
+							"display_url": "shirleenerobinson.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1737,
+			"friends_count": 928,
+			"listed_count": 28,
+			"created_at": "Thu Apr 02 06:38:55 +0000 2009",
+			"favourites_count": 28553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919864004352270337/ygO9mP5g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919864004352270337/ygO9mP5g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28295539/1518919658",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was incredible to hear  &amp; write about voices from @nlagovau ‘a extraordinary #oralhistory collection talking about the devastating global influenza epidemic of 1919 in Australia https://t.co/kDi9ONA59I - Stories of loss, courage and even humour 🎧 #twitterstorians #ozhist"
+	},
+	{
+		"created_at": "Tue Mar 31 06:42:01 +0000 2020",
+		"id": 1244877591325991000,
+		"id_str": "1244877591325990914",
+		"full_text": "an interesting perspective https://t.co/fCFbzw7wjU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fCFbzw7wjU",
+					"expanded_url": "https://twitter.com/WMM_Oxford/status/1243543683351314436",
+					"display_url": "twitter.com/WMM_Oxford/sta…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 842,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243543683351314400,
+		"quoted_status_id_str": "1243543683351314436",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fCFbzw7wjU",
+			"expanded": "https://twitter.com/WMM_Oxford/status/1243543683351314436",
+			"display": "twitter.com/WMM_Oxford/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 27 14:21:32 +0000 2020",
+			"id": 1243543683351314400,
+			"id_str": "1243543683351314436",
+			"full_text": "In the Middle Ages, devout women self-isolated professionally. What can these medieval women teach us about how to cope with self-isolation today? Head over to @ConversationUK for my article on anchorites! https://t.co/bWAqLRO48E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ConversationUK",
+						"name": "The Conversation",
+						"id": 1241258612,
+						"id_str": "1241258612",
+						"indices": [
+							160,
+							175
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bWAqLRO48E",
+						"expanded_url": "https://theconversation.com/coronavirus-advice-from-the-middle-ages-for-how-to-cope-with-self-isolation-134585",
+						"display_url": "theconversation.com/coronavirus-ad…",
+						"indices": [
+							206,
+							229
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1169190009959833600,
+				"id_str": "1169190009959833600",
+				"name": "Women Making Memories (WMM)",
+				"screen_name": "WMM_Oxford",
+				"location": "University of Oxford",
+				"description": "Updates on Godelinde Perk's H2020-MSCA-IF postdoc project \"Women Making Memories: Liturgy & the Remembering Female Body in Medieval Holy Women's Texts\".",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 147,
+				"friends_count": 74,
+				"listed_count": 2,
+				"created_at": "Wed Sep 04 10:07:13 +0000 2019",
+				"favourites_count": 187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 157,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1169208557012684800/fB2oyVRd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169208557012684800/fB2oyVRd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1169190009959833600/1567596238",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "an interesting perspective https://t.co/fCFbzw7wjU"
+	},
+	{
+		"created_at": "Mon Mar 30 20:07:31 +0000 2020",
+		"id": 1244560633313591300,
+		"id_str": "1244717915712008192",
+		"full_text": "Recording of the week: Dusting books  https://t.co/eaNjfZoOoo https://t.co/8a7x7Q2pht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eaNjfZoOoo",
+					"expanded_url": "https://blogs.bl.uk/sound-and-vision/2020/03/recording-of-the-week-dusting-books.html",
+					"display_url": "blogs.bl.uk/sound-and-visi…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1244560571539828700,
+					"id_str": "1244560571539828736",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EUWRPvAWsAAaq1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUWRPvAWsAAaq1q.jpg",
+					"url": "https://t.co/8a7x7Q2pht",
+					"display_url": "pic.twitter.com/8a7x7Q2pht",
+					"expanded_url": "https://twitter.com/soundarchive/status/1244560633313591296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244560571539828700,
+					"id_str": "1244560571539828736",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EUWRPvAWsAAaq1q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUWRPvAWsAAaq1q.jpg",
+					"url": "https://t.co/8a7x7Q2pht",
+					"display_url": "pic.twitter.com/8a7x7Q2pht",
+					"expanded_url": "https://twitter.com/soundarchive/status/1244560633313591296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 580,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 433,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22028935,
+			"id_str": "22028935",
+			"name": "Sound Archive",
+			"screen_name": "soundarchive",
+			"location": "London, UK",
+			"description": "Sound Archive @BritishLibrary: 7 million recordings of music, voices, environments. Tweets by Steve Cleary. Blog: https://t.co/TuSRYUV7Ns",
+			"url": "http://t.co/QQ7BIbQ40P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/QQ7BIbQ40P",
+							"expanded_url": "http://www.bl.uk/soundarchive",
+							"display_url": "bl.uk/soundarchive",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TuSRYUV7Ns",
+							"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision",
+							"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18387,
+			"friends_count": 1151,
+			"listed_count": 844,
+			"created_at": "Thu Feb 26 16:36:05 +0000 2009",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22028935/1535972358",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Recording of the week: Dusting books  https://t.co/eaNjfZoOoo https://t.co/8a7x7Q2pht"
+	},
+	{
+		"created_at": "Mon Mar 30 18:25:46 +0000 2020",
+		"id": 1244692311411273700,
+		"id_str": "1244692311411273728",
+		"full_text": "Yes, this, and also if you work in a public library and are photographing for local studies, photographs of now are crucial so we have a record for the future in local studies collections https://t.co/eTZ1EIweXw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eTZ1EIweXw",
+					"expanded_url": "https://twitter.com/sirwilliamd/status/1244651759374602240",
+					"display_url": "twitter.com/sirwilliamd/st…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 842,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1244651759374602200,
+		"quoted_status_id_str": "1244651759374602240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eTZ1EIweXw",
+			"expanded": "https://twitter.com/sirwilliamd/status/1244651759374602240",
+			"display": "twitter.com/sirwilliamd/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 30 15:44:38 +0000 2020",
+			"id": 1244651759374602200,
+			"id_str": "1244651759374602240",
+			"full_text": "Poplar, London in 1975, a glimpse into a lost world by David Granick. If you are a young photographer remember to photograph the ordinary things around you, the people, places and events we all take for granted. Eventually time will make those photographs extraordinary. https://t.co/UvOPVVALUH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1244651744983949300,
+						"id_str": "1244651744983949313",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/EUXkKujWoAEQxmu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUXkKujWoAEQxmu.jpg",
+						"url": "https://t.co/UvOPVVALUH",
+						"display_url": "pic.twitter.com/UvOPVVALUH",
+						"expanded_url": "https://twitter.com/SirWilliamD/status/1244651759374602240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1160,
+								"h": 928,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1160,
+								"h": 928,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1244651744983949300,
+						"id_str": "1244651744983949313",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/EUXkKujWoAEQxmu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUXkKujWoAEQxmu.jpg",
+						"url": "https://t.co/UvOPVVALUH",
+						"display_url": "pic.twitter.com/UvOPVVALUH",
+						"expanded_url": "https://twitter.com/SirWilliamD/status/1244651759374602240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1160,
+								"h": 928,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1160,
+								"h": 928,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 350341283,
+				"id_str": "350341283",
+				"name": "Davenant 📸",
+				"screen_name": "SirWilliamD",
+				"location": "Earth",
+				"description": "Marc Davenant, documentary photographer, writer, traveller, raconteur, citizen of the world, creator of the #GalleryofthePeople. All photos are copyright obvs.",
+				"url": "https://t.co/lHHLYyrA3i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lHHLYyrA3i",
+								"expanded_url": "https://davenantphotos.wordpress.com",
+								"display_url": "davenantphotos.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26868,
+				"friends_count": 1414,
+				"listed_count": 506,
+				"created_at": "Sun Aug 07 16:24:22 +0000 2011",
+				"favourites_count": 99495,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 84725,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1142646943329509376/FQstVTHL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142646943329509376/FQstVTHL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350341283/1536991655",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 496,
+			"favorite_count": 2016,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes, this, and also if you work in a public library and are photographing for local studies, photographs of now are crucial so we have a record for the future in local studies collections https://t.co/eTZ1EIweXw"
+	},
+	{
+		"created_at": "Mon Mar 30 09:39:02 +0000 2020",
+		"id": 1244559754782855200,
+		"id_str": "1244559754782855175",
+		"full_text": "Also have a look at #tussenkunstenquarantaine",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tussenkunstenquarantaine",
+					"indices": [
+						20,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1244549671759908900,
+		"in_reply_to_status_id_str": "1244549671759908864",
+		"in_reply_to_user_id": 16970274,
+		"in_reply_to_user_id_str": "16970274",
+		"in_reply_to_screen_name": "ellenforsyth",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 842,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Also have a look at #tussenkunstenquarantaine"
+	},
+	{
+		"created_at": "Mon Mar 30 08:58:59 +0000 2020",
+		"id": 1244549671759908900,
+		"id_str": "1244549671759908864",
+		"full_text": "Be your own Italian masterpiece: how people are recreating classic artworks in coronavirus quarantine via ⁦@guardian⁩ this is amazing, have a look at the hashtag as one of the most amazing ones involved a doona as dress https://t.co/jJBOBySV0P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						107,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jJBOBySV0P",
+					"expanded_url": "https://www.theguardian.com/culture/2020/mar/30/be-your-own-italian-masterpiece-how-people-are-recreating-classic-artworks-in-coronavirus-quarantine?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/culture/2020/m…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 842,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Be your own Italian masterpiece: how people are recreating classic artworks in coronavirus quarantine via ⁦@guardian⁩ this is amazing, have a look at the hashtag as one of the most amazing ones involved a doona as dress https://t.co/jJBOBySV0P"
+	},
+	{
 		"created_at": "Mon Mar 30 05:41:34 +0000 2020",
 		"id": 1240166719294857200,
 		"id_str": "1244499992485580801",
