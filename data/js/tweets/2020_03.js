@@ -1,6 +1,992 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 20:47:17 +0000 2020",
+		"id": 1245090309546971100,
+		"id_str": "1245090309546971136",
+		"full_text": "Stress Baking More Than Usual? https://t.co/4nVkDDmscv via @nytimes and have a look at #coronavirusbaking",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "coronavirusbaking",
+					"indices": [
+						87,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4nVkDDmscv",
+					"expanded_url": "https://nyti.ms/2WUJNkX",
+					"display_url": "nyti.ms/2WUJNkX",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 842,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stress Baking More Than Usual? https://t.co/4nVkDDmscv via @nytimes and have a look at #coronavirusbaking"
+	},
+	{
+		"created_at": "Tue Mar 31 20:42:41 +0000 2020",
+		"id": 1244661925331566600,
+		"id_str": "1245089151738728448",
+		"full_text": "Thanks to @BL_DigiSchol for publishing my article about @BLQatar Workflow Team's beloved #kanban board and stand-up process, and how we're coping without it #workingfromhome #postitnote https://t.co/04bs9mTSUJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kanban",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "workingfromhome",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"text": "postitnote",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BL_DigiSchol",
+					"name": "Digital Scholarship",
+					"id": 744814089172455400,
+					"id_str": "744814089172455424",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "BLQatar",
+					"name": "BL Qatar Partnership",
+					"id": 2315373398,
+					"id_str": "2315373398",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/04bs9mTSUJ",
+					"expanded_url": "https://twitter.com/BL_AdiKS/status/1244658716458311681",
+					"display_url": "twitter.com/BL_AdiKS/statu…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 716412901779595300,
+			"id_str": "716412901779595265",
+			"name": "Laura Parsons",
+			"screen_name": "laurakpar",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46,
+			"friends_count": 246,
+			"listed_count": 1,
+			"created_at": "Sat Apr 02 23:52:00 +0000 2016",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085632217638989824/ncmuKmX__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085632217638989824/ncmuKmX__normal.jpg",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1244658716458311700,
+		"quoted_status_id_str": "1244658716458311681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/04bs9mTSUJ",
+			"expanded": "https://twitter.com/BL_AdiKS/status/1244658716458311681",
+			"display": "twitter.com/BL_AdiKS/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 30 16:12:17 +0000 2020",
+			"id": 1244658716458311700,
+			"id_str": "1244658716458311681",
+			"full_text": "#Kanban board, post-it notes, magnets and coloured pens! What a fun @BL_DigiSchol guest blog post by @laurakpar on her digitisation workflow work with @BLQatar https://t.co/nW4RDjrtH1 https://t.co/LkUwenPEJP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Kanban",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BL_DigiSchol",
+						"name": "Digital Scholarship",
+						"id": 744814089172455400,
+						"id_str": "744814089172455424",
+						"indices": [
+							68,
+							81
+						]
+					},
+					{
+						"screen_name": "laurakpar",
+						"name": "Laura Parsons",
+						"id": 716412901779595300,
+						"id_str": "716412901779595265",
+						"indices": [
+							101,
+							111
+						]
+					},
+					{
+						"screen_name": "BLQatar",
+						"name": "BL Qatar Partnership",
+						"id": 2315373398,
+						"id_str": "2315373398",
+						"indices": [
+							151,
+							159
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nW4RDjrtH1",
+						"expanded_url": "https://blogs.bl.uk/digital-scholarship/2020/03/just-stand-up-and-kanban.html",
+						"display_url": "blogs.bl.uk/digital-schola…",
+						"indices": [
+							160,
+							183
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1244658415936450600,
+						"id_str": "1244658415936450560",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUXqPByXsAAI-2s.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUXqPByXsAAI-2s.jpg",
+						"url": "https://t.co/LkUwenPEJP",
+						"display_url": "pic.twitter.com/LkUwenPEJP",
+						"expanded_url": "https://twitter.com/BL_AdiKS/status/1244658716458311681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 430,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 430,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 430,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1244658415936450600,
+						"id_str": "1244658415936450560",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUXqPByXsAAI-2s.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUXqPByXsAAI-2s.jpg",
+						"url": "https://t.co/LkUwenPEJP",
+						"display_url": "pic.twitter.com/LkUwenPEJP",
+						"expanded_url": "https://twitter.com/BL_AdiKS/status/1244658716458311681/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 430,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 430,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 430,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								64,
+								43
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EUXqPByXsAAI-2s.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2277671516,
+				"id_str": "2277671516",
+				"name": "Adi Keinan-Schoonbae",
+				"screen_name": "BL_AdiKS",
+				"location": "London",
+				"description": "Digital Curator @britishlibrary @BL_DigiSchol for @BLAsia_Africa collections. Former @UCLarchaeology @MicroPasts",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1524,
+				"friends_count": 523,
+				"listed_count": 88,
+				"created_at": "Sun Jan 05 14:18:58 +0000 2014",
+				"favourites_count": 4896,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5615,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1111383582759518208/4boX0J0i_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111383582759518208/4boX0J0i_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2277671516/1553810381",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to @BL_DigiSchol for publishing my article about @BLQatar Workflow Team's beloved #kanban board and stand-up process, and how we're coping without it #workingfromhome #postitnote https://t.co/04bs9mTSUJ"
+	},
+	{
+		"created_at": "Tue Mar 31 20:40:53 +0000 2020",
+		"id": 1244854686651420700,
+		"id_str": "1245088702595919873",
+		"full_text": "While the doors to the Sydney Opera House might be closed for now, we will be bringing our stages to your sofa with our digital program From our House to Yours. #sydneyoperahouse",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sydneyoperahouse",
+					"indices": [
+						161,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90300296,
+			"id_str": "90300296",
+			"name": "Sydney Opera House",
+			"screen_name": "SydOperaHouse",
+			"location": "Sydney, Australia",
+			"description": "Australian icon - a thriving hub for art, culture and history #sydneyoperahouse",
+			"url": "https://t.co/jmjF5Di5qD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jmjF5Di5qD",
+							"expanded_url": "https://www.sydneyoperahouse.com",
+							"display_url": "sydneyoperahouse.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144817,
+			"friends_count": 1219,
+			"listed_count": 1169,
+			"created_at": "Mon Nov 16 02:06:38 +0000 2009",
+			"favourites_count": 6984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234274173695844352/noXpn0SI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234274173695844352/noXpn0SI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90300296/1515129617",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "While the doors to the Sydney Opera House might be closed for now, we will be bringing our stages to your sofa with our digital program From our House to Yours. #sydneyoperahouse"
+	},
+	{
+		"created_at": "Tue Mar 31 20:35:20 +0000 2020",
+		"id": 1245087305896870000,
+		"id_str": "1245087305896869888",
+		"full_text": "Great story about using Lego to help with science https://t.co/3gNFju9Zhe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3gNFju9Zhe",
+					"expanded_url": "https://youtu.be/DPBfBBZefOg",
+					"display_url": "youtu.be/DPBfBBZefOg",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 842,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great story about using Lego to help with science https://t.co/3gNFju9Zhe"
+	},
+	{
+		"created_at": "Tue Mar 31 20:01:41 +0000 2020",
+		"id": 1245078836548522000,
+		"id_str": "1245078836548521984",
+		"full_text": "@KiwiLibrarian So sorry, 💐",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KiwiLibrarian",
+					"name": "Cath Sheard",
+					"id": 404325554,
+					"id_str": "404325554",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1244827364296495000,
+		"in_reply_to_status_id_str": "1244827364296495106",
+		"in_reply_to_user_id": 404325554,
+		"in_reply_to_user_id_str": "404325554",
+		"in_reply_to_screen_name": "KiwiLibrarian",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 842,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KiwiLibrarian So sorry, 💐"
+	},
+	{
+		"created_at": "Tue Mar 31 10:26:22 +0000 2020",
+		"id": 1244620026201727000,
+		"id_str": "1244934050315296768",
+		"full_text": "🎥 Join us for a Shakespeare-filled movie night, as from 6 April, we're releasing six free #GlobePlayer films, including:\n\nHamlet, 2018\nRomeo &amp; Juliet, 2009\nA Midsummer Night’s Dream, 2013\nThe Winter’s Tale, 2018\nThe Two Noble Kinsmen, 2018\nThe Merry Wives of Windsor, 2019 https://t.co/JPox9appaa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlobePlayer",
+					"indices": [
+						90,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244619925920125000,
+					"id_str": "1244619925920124930",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EUXHOnTXkAIJZVS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUXHOnTXkAIJZVS.jpg",
+					"url": "https://t.co/JPox9appaa",
+					"display_url": "pic.twitter.com/JPox9appaa",
+					"expanded_url": "https://twitter.com/The_Globe/status/1244620026201726982/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244619925920125000,
+					"id_str": "1244619925920124930",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EUXHOnTXkAIJZVS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUXHOnTXkAIJZVS.jpg",
+					"url": "https://t.co/JPox9appaa",
+					"display_url": "pic.twitter.com/JPox9appaa",
+					"expanded_url": "https://twitter.com/The_Globe/status/1244620026201726982/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1244619568078884900,
+		"in_reply_to_status_id_str": "1244619568078884865",
+		"in_reply_to_user_id": 17898494,
+		"in_reply_to_user_id_str": "17898494",
+		"in_reply_to_screen_name": "The_Globe",
+		"user": {
+			"id": 17898494,
+			"id_str": "17898494",
+			"name": "Shakespeare's Glove",
+			"screen_name": "The_Globe",
+			"location": "Bankside, London",
+			"description": "A world-renowned performing arts venue, cultural attraction and education centre. Home to the Globe Theatre and Sam Wanamaker Playhouse. ⭕",
+			"url": "https://t.co/HNe0fEfUwe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HNe0fEfUwe",
+							"expanded_url": "https://www.shakespearesglobe.com/donate/",
+							"display_url": "shakespearesglobe.com/donate/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 218192,
+			"friends_count": 3405,
+			"listed_count": 2338,
+			"created_at": "Fri Dec 05 14:53:40 +0000 2008",
+			"favourites_count": 16154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030300",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158423209718558720/-ctCx5UR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158423209718558720/-ctCx5UR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17898494/1584549607",
+			"profile_link_color": "CB3326",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 609,
+		"favorite_count": 1130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎥 Join us for a Shakespeare-filled movie night, as from 6 April, we're releasing six free #GlobePlayer films, including:\n\nHamlet, 2018\nRomeo &amp; Juliet, 2009\nA Midsummer Night’s Dream, 2013\nThe Winter’s Tale, 2018\nThe Two Noble Kinsmen, 2018\nThe Merry Wives of Windsor, 2019 https://t.co/JPox9appaa"
+	},
+	{
 		"created_at": "Tue Mar 31 06:43:29 +0000 2020",
 		"id": 1244874586489004000,
 		"id_str": "1244877959963398150",
