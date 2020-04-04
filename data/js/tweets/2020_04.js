@@ -1,6 +1,828 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 04:47:04 +0000 2020",
+		"id": 1246298217525829600,
+		"id_str": "1246298217525829633",
+		"full_text": "@snailx That was interesting watching, and I expect very interesting reading too",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "snailx",
+					"name": "snail",
+					"id": 13043432,
+					"id_str": "13043432",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1246289109628289000,
+		"in_reply_to_status_id_str": "1246289109628289024",
+		"in_reply_to_user_id": 13043432,
+		"in_reply_to_user_id_str": "13043432",
+		"in_reply_to_screen_name": "snailx",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 845,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@snailx That was interesting watching, and I expect very interesting reading too"
+	},
+	{
+		"created_at": "Fri Apr 03 22:41:26 +0000 2020",
+		"id": 1246199044306808800,
+		"id_str": "1246206202045841408",
+		"full_text": "1/3\nOur doors may be closed for now, but we are #TogetherInArt.\nJoin us as we affirm the power of art to connect people in troubling times, through a new online project that opens the Gallery to the world: https://t.co/r42n0FoG9p https://t.co/TWh3sfsXDi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TogetherInArt",
+					"indices": [
+						48,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r42n0FoG9p",
+					"expanded_url": "http://bit.ly/2V1ZXq9",
+					"display_url": "bit.ly/2V1ZXq9",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246199041131778000,
+					"id_str": "1246199041131778050",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EUtjbN4XkAIwrSD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUtjbN4XkAIwrSD.jpg",
+					"url": "https://t.co/TWh3sfsXDi",
+					"display_url": "pic.twitter.com/TWh3sfsXDi",
+					"expanded_url": "https://twitter.com/ArtGalleryofNSW/status/1246199044306808833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246199041131778000,
+					"id_str": "1246199041131778050",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EUtjbN4XkAIwrSD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUtjbN4XkAIwrSD.jpg",
+					"url": "https://t.co/TWh3sfsXDi",
+					"display_url": "pic.twitter.com/TWh3sfsXDi",
+					"expanded_url": "https://twitter.com/ArtGalleryofNSW/status/1246199044306808833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32305202,
+			"id_str": "32305202",
+			"name": "Art Gallery of NSW",
+			"screen_name": "ArtGalleryofNSW",
+			"location": "Sydney, Australia",
+			"description": "#artgalleryofnsw #TogetherInArt The Gallery is temporarily closed to the public, but our digital doors are open.",
+			"url": "https://t.co/grRt24xkhb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/grRt24xkhb",
+							"expanded_url": "http://artgallery.nsw.gov.au",
+							"display_url": "artgallery.nsw.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58583,
+			"friends_count": 2925,
+			"listed_count": 1277,
+			"created_at": "Fri Apr 17 04:22:25 +0000 2009",
+			"favourites_count": 2832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234246779677237248/E_Z3Fzti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234246779677237248/E_Z3Fzti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32305202/1585956163",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/3\nOur doors may be closed for now, but we are #TogetherInArt.\nJoin us as we affirm the power of art to connect people in troubling times, through a new online project that opens the Gallery to the world: https://t.co/r42n0FoG9p https://t.co/TWh3sfsXDi"
+	},
+	{
+		"created_at": "Fri Apr 03 21:15:43 +0000 2020",
+		"id": 1246184630685851600,
+		"id_str": "1246184630685851648",
+		"full_text": "Adobe Dimension &amp; Adobe Stock - The Art of 3D Insects Challenge Award Winners and Honourable Mentions - ArtStation Magazine: https://t.co/x33pYR0izj interesting use of 3D scans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x33pYR0izj",
+					"expanded_url": "https://magazine.artstation.com/2020/03/adobe-dimension-stock-the-art-of-3d-insects-challenge-award-winners-and-honourable-mentions/?utm_source=facebook&utm_medium=social&utm_campaign=adobechallenge",
+					"display_url": "magazine.artstation.com/2020/03/adobe-…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 845,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adobe Dimension &amp; Adobe Stock - The Art of 3D Insects Challenge Award Winners and Honourable Mentions - ArtStation Magazine: https://t.co/x33pYR0izj interesting use of 3D scans"
+	},
+	{
+		"created_at": "Fri Apr 03 21:13:25 +0000 2020",
+		"id": 1246184050143850500,
+		"id_str": "1246184050143850497",
+		"full_text": "A major scorecard gives the health of Australia's environment less than 1 out of 10 https://t.co/oEXkDGhHBe via @ConversationEDU this is very depressing reading",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						112,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oEXkDGhHBe",
+					"expanded_url": "https://theconversation.com/a-major-scorecard-gives-the-health-of-australias-environment-less-than-1-out-of-10-133444?utm_source=twitter&utm_medium=bylinetwitterbutton",
+					"display_url": "theconversation.com/a-major-scorec…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 845,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A major scorecard gives the health of Australia's environment less than 1 out of 10 https://t.co/oEXkDGhHBe via @ConversationEDU this is very depressing reading"
+	},
+	{
+		"created_at": "Fri Apr 03 21:09:24 +0000 2020",
+		"id": 1246183041120080000,
+		"id_str": "1246183041120079872",
+		"full_text": "The Magic of Libraries: Where Fantasy Meets Reality https://t.co/2xZd7ZcmbG via @tordotcom some libraries to explore by reading",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tordotcom",
+					"name": "Tor.com",
+					"id": 16151835,
+					"id_str": "16151835",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2xZd7ZcmbG",
+					"expanded_url": "https://www.tor.com/2020/03/27/the-magic-of-libraries-where-fantasy-meets-reality/",
+					"display_url": "tor.com/2020/03/27/the…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 845,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Magic of Libraries: Where Fantasy Meets Reality https://t.co/2xZd7ZcmbG via @tordotcom some libraries to explore by reading"
+	},
+	{
+		"created_at": "Fri Apr 03 18:46:28 +0000 2020",
+		"id": 1246101913084493800,
+		"id_str": "1246147071708520448",
+		"full_text": "How are museums collecting the Covid-19 pandemic and lockdown? \n\nA round-up of some of the projects already underway, and an analysis of the ethical considerations all museums should keep in mind\n\nhttps://t.co/c5EcTj2Tgz https://t.co/DHMLSH4LKw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c5EcTj2Tgz",
+					"expanded_url": "https://mus.ms/2R8UNaJ",
+					"display_url": "mus.ms/2R8UNaJ",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246101911490695200,
+					"id_str": "1246101911490695169",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EUsLFhxWkAElIQ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUsLFhxWkAElIQ9.jpg",
+					"url": "https://t.co/DHMLSH4LKw",
+					"display_url": "pic.twitter.com/DHMLSH4LKw",
+					"expanded_url": "https://twitter.com/MuseumsAssoc/status/1246101913084493830/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 470,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 470,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 470,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246101911490695200,
+					"id_str": "1246101911490695169",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EUsLFhxWkAElIQ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUsLFhxWkAElIQ9.jpg",
+					"url": "https://t.co/DHMLSH4LKw",
+					"display_url": "pic.twitter.com/DHMLSH4LKw",
+					"expanded_url": "https://twitter.com/MuseumsAssoc/status/1246101913084493830/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 470,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 470,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 470,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 85601716,
+			"id_str": "85601716",
+			"name": "Museums Association",
+			"screen_name": "MuseumsAssoc",
+			"location": "United Kingdom",
+			"description": "A dynamic membership organisation and a vibrant network for everyone working in museums and heritage.",
+			"url": "https://t.co/pzv4b4xmaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pzv4b4xmaR",
+							"expanded_url": "http://www.museumsassociation.org",
+							"display_url": "museumsassociation.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56601,
+			"friends_count": 2371,
+			"listed_count": 0,
+			"created_at": "Tue Oct 27 16:14:47 +0000 2009",
+			"favourites_count": 2517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035487538016862208/Y4_N1f9i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035487538016862208/Y4_N1f9i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/85601716/1535714459",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How are museums collecting the Covid-19 pandemic and lockdown? \n\nA round-up of some of the projects already underway, and an analysis of the ethical considerations all museums should keep in mind\n\nhttps://t.co/c5EcTj2Tgz https://t.co/DHMLSH4LKw"
+	},
+	{
 		"created_at": "Thu Apr 02 20:26:23 +0000 2020",
 		"id": 1245809826485026800,
 		"id_str": "1245809826485026816",
