@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 06:21:48 +0000 2020",
+		"id": 1246680217273471000,
+		"id_str": "1246684445479854082",
+		"full_text": "We have a wealth of digital content waiting to be explored from your home!\n\nDiscover your national collection with our new blog post that shows you how to access resources for both study and entertainment.\n\nExplore the National Library at home: https://t.co/MyukdYrTh4\n\n#NLAatHome",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NLAatHome",
+					"indices": [
+						270,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MyukdYrTh4",
+					"expanded_url": "https://bit.ly/3dLarTb",
+					"display_url": "bit.ly/3dLarTb",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42354375,
+			"id_str": "42354375",
+			"name": "National Library of Australia",
+			"screen_name": "nlagovau",
+			"location": "Canberra, Australia",
+			"description": "We collect, preserve and make accessible the best Australian stories. Read all about it.",
+			"url": "https://t.co/wb67iCoHem",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wb67iCoHem",
+							"expanded_url": "http://www.nla.gov.au",
+							"display_url": "nla.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44773,
+			"friends_count": 235,
+			"listed_count": 1029,
+			"created_at": "Mon May 25 05:09:03 +0000 2009",
+			"favourites_count": 8641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42354375/1585020794",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have a wealth of digital content waiting to be explored from your home!\n\nDiscover your national collection with our new blog post that shows you how to access resources for both study and entertainment.\n\nExplore the National Library at home: https://t.co/MyukdYrTh4\n\n#NLAatHome"
+	},
+	{
+		"created_at": "Sun Apr 05 06:20:25 +0000 2020",
+		"id": 1246460530421710800,
+		"id_str": "1246684094697598976",
+		"full_text": "As simple as that. #Masks4All https://t.co/4qdyhjLW7U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Masks4All",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246460171678699500,
+					"id_str": "1246460171678699520",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246460171678699520/pu/img/ksmndr7n4TYWEew4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246460171678699520/pu/img/ksmndr7n4TYWEew4.jpg",
+					"url": "https://t.co/4qdyhjLW7U",
+					"display_url": "pic.twitter.com/4qdyhjLW7U",
+					"expanded_url": "https://twitter.com/Chopsyturvey/status/1246460530421710848/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246460171678699500,
+					"id_str": "1246460171678699520",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246460171678699520/pu/img/ksmndr7n4TYWEew4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246460171678699520/pu/img/ksmndr7n4TYWEew4.jpg",
+					"url": "https://t.co/4qdyhjLW7U",
+					"display_url": "pic.twitter.com/4qdyhjLW7U",
+					"expanded_url": "https://twitter.com/Chopsyturvey/status/1246460530421710848/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							11,
+							20
+						],
+						"duration_millis": 117189,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246460171678699520/pu/vid/352x640/jmCV7nXXxsYwnp-N.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1246460171678699520/pu/pl/Rsdv9z8biTbgw-pU.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246460171678699520/pu/vid/320x580/IxFP2nf0MKn7nvDG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 386137123,
+			"id_str": "386137123",
+			"name": "Aviator Anil Chopra",
+			"screen_name": "Chopsyturvey",
+			"location": "",
+			"description": "Retd Air Marshal, Indian Air Force, Fighter Pilot. QFI. ETP.  Former member AFT & Executive Council JNU. India First Always. Writes on #Aviation #Defence.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32393,
+			"friends_count": 1256,
+			"listed_count": 254,
+			"created_at": "Thu Oct 06 18:38:57 +0000 2011",
+			"favourites_count": 54372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 133580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026511737653100549/IUzjKls1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026511737653100549/IUzjKls1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/386137123/1399129606",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 75,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As simple as that. #Masks4All https://t.co/4qdyhjLW7U"
+	},
+	{
+		"created_at": "Sun Apr 05 06:18:19 +0000 2020",
+		"id": 1245591199034929200,
+		"id_str": "1246683569692364801",
+		"full_text": "DIY Mask options to protect yourself from the Rona! #Masks4All #StaySafe https://t.co/XC7BGmedaB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Masks4All",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"text": "StaySafe",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245591136481063000,
+					"id_str": "1245591136481062913",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245591136481062913/pu/img/2kwMaShcnCFlAu2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245591136481062913/pu/img/2kwMaShcnCFlAu2O.jpg",
+					"url": "https://t.co/XC7BGmedaB",
+					"display_url": "pic.twitter.com/XC7BGmedaB",
+					"expanded_url": "https://twitter.com/MissfitHarley/status/1245591199034929153/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 812,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 812,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245591136481063000,
+					"id_str": "1245591136481062913",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1245591136481062913/pu/img/2kwMaShcnCFlAu2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1245591136481062913/pu/img/2kwMaShcnCFlAu2O.jpg",
+					"url": "https://t.co/XC7BGmedaB",
+					"display_url": "pic.twitter.com/XC7BGmedaB",
+					"expanded_url": "https://twitter.com/MissfitHarley/status/1245591199034929153/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 812,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 812,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							203,
+							180
+						],
+						"duration_millis": 29565,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245591136481062913/pu/vid/304x270/fHyg2bgr6Be7cJzY.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1245591136481062913/pu/pl/K4aBGpsPutWk6ogX.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245591136481062913/pu/vid/812x720/XxvLAjhC7O7PRfMe.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1245591136481062913/pu/vid/406x360/_OpMgrdGcmVbByH1.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24570712,
+			"id_str": "24570712",
+			"name": "MissFit Harley",
+			"screen_name": "MissfitHarley",
+			"location": "",
+			"description": "A polarizing page of facetious tweets about TV & Movies w/ some serious political venting to keep you on your toes. Must be fluent in sarcasm & melodramatics!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 659,
+			"listed_count": 30,
+			"created_at": "Sun Mar 15 19:25:32 +0000 2009",
+			"favourites_count": 4867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796611664569208832/-sba7fn4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796611664569208832/-sba7fn4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24570712/1349473482",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 348,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DIY Mask options to protect yourself from the Rona! #Masks4All #StaySafe https://t.co/XC7BGmedaB"
+	},
+	{
 		"created_at": "Sat Apr 04 04:47:04 +0000 2020",
 		"id": 1246298217525829600,
 		"id_str": "1246298217525829633",
