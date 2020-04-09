@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 02:06:38 +0000 2020",
+		"id": 1247872336667332600,
+		"id_str": "1248069781489516544",
+		"full_text": "Following a trail of clues and tracing someone's genealogy sounds like the work of a private investigator. Also a provenance researcher!\n\nA look at provenance projects from across Getty on International #DayofProvenanceResearch #TagderProvenienzforschung: \nhttps://t.co/H7Kyf99Yyl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DayofProvenanceResearch",
+					"indices": [
+						203,
+						227
+					]
+				},
+				{
+					"text": "TagderProvenienzforschung",
+					"indices": [
+						228,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H7Kyf99Yyl",
+					"expanded_url": "https://gty.art/3e6tOWQ",
+					"display_url": "gty.art/3e6tOWQ",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16568227,
+			"id_str": "16568227",
+			"name": "Getty",
+			"screen_name": "GettyMuseum",
+			"location": "Los Angeles, California",
+			"description": "Bringing people together through art. Based in Los Angeles, working globally.",
+			"url": "https://t.co/CuJh5Ur6B1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CuJh5Ur6B1",
+							"expanded_url": "http://www.getty.edu",
+							"display_url": "getty.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1340313,
+			"friends_count": 6908,
+			"listed_count": 10290,
+			"created_at": "Thu Oct 02 22:46:59 +0000 2008",
+			"favourites_count": 81454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214999035368525824/PXH9p77Y_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214999035368525824/PXH9p77Y_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16568227/1578513460",
+			"profile_link_color": "808080",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Following a trail of clues and tracing someone's genealogy sounds like the work of a private investigator. Also a provenance researcher!\n\nA look at provenance projects from across Getty on International #DayofProvenanceResearch #TagderProvenienzforschung: \nhttps://t.co/H7Kyf99Yyl"
+	},
+	{
+		"created_at": "Wed Apr 08 20:34:24 +0000 2020",
+		"id": 1247763604142604300,
+		"id_str": "1247986171113689088",
+		"full_text": "Need an easy win for the week? Be a 30-second Voluntrove and add a public tag to an item so it can be more easily found. Learn how at https://t.co/gqFEPzWSQ7.\n\nImage: https://t.co/hJJRfNt9Qx https://t.co/mLuV2nk07J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gqFEPzWSQ7",
+					"expanded_url": "https://bit.ly/39Wne1P",
+					"display_url": "bit.ly/39Wne1P",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"url": "https://t.co/hJJRfNt9Qx",
+					"expanded_url": "https://nla.gov.au/nla.obj-137669219",
+					"display_url": "nla.gov.au/nla.obj-137669…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247746654398120000,
+					"id_str": "1247746654398119936",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EVDi-KkVAAA3fUp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVDi-KkVAAA3fUp.jpg",
+					"url": "https://t.co/mLuV2nk07J",
+					"display_url": "pic.twitter.com/mLuV2nk07J",
+					"expanded_url": "https://twitter.com/TroveAustralia/status/1247763604142604288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 982,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 982,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247746654398120000,
+					"id_str": "1247746654398119936",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EVDi-KkVAAA3fUp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVDi-KkVAAA3fUp.jpg",
+					"url": "https://t.co/mLuV2nk07J",
+					"display_url": "pic.twitter.com/mLuV2nk07J",
+					"expanded_url": "https://twitter.com/TroveAustralia/status/1247763604142604288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 982,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 982,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119219640,
+			"id_str": "119219640",
+			"name": "Trove",
+			"screen_name": "TroveAustralia",
+			"location": "Canberra, Australia",
+			"description": "Trove is your window into Australia's stories. Tweets by the Trove Outreach Team at National Library of Australia. We blog at https://t.co/1SSvF8ZkFn",
+			"url": "http://t.co/xJewI037dI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xJewI037dI",
+							"expanded_url": "http://trove.nla.gov.au/",
+							"display_url": "trove.nla.gov.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1SSvF8ZkFn",
+							"expanded_url": "https://www.nla.gov.au/blogs/trove",
+							"display_url": "nla.gov.au/blogs/trove",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22009,
+			"friends_count": 1826,
+			"listed_count": 513,
+			"created_at": "Wed Mar 03 00:52:10 +0000 2010",
+			"favourites_count": 7667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C3E065",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879109788570763264/pCYV2488_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879109788570763264/pCYV2488_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119219640/1578276396",
+			"profile_link_color": "619744",
+			"profile_sidebar_border_color": "D8F098",
+			"profile_sidebar_fill_color": "ECF0D6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Need an easy win for the week? Be a 30-second Voluntrove and add a public tag to an item so it can be more easily found. Learn how at https://t.co/gqFEPzWSQ7.\n\nImage: https://t.co/hJJRfNt9Qx https://t.co/mLuV2nk07J"
+	},
+	{
+		"created_at": "Wed Apr 08 20:30:05 +0000 2020",
+		"id": 1247985085581688800,
+		"id_str": "1247985085581688832",
+		"full_text": "Shuttered by coronavirus, museums offer unexpected help: 'This is all hands on deck' https://t.co/eOxfHjLqwN via @YahooLifestyle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yahoolifestyle",
+					"name": "Yahoo Lifestyle",
+					"id": 21320186,
+					"id_str": "21320186",
+					"indices": [
+						113,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eOxfHjLqwN",
+					"expanded_url": "https://www.yahoo.com/lifestyle/museums-and-artists-donate-medical-supplies-amid-the-coronavirus-this-is-all-hands-on-deck-211038574.html?soc_src=social-sh&soc_trk=tw",
+					"display_url": "yahoo.com/lifestyle/muse…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 847,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shuttered by coronavirus, museums offer unexpected help: 'This is all hands on deck' https://t.co/eOxfHjLqwN via @YahooLifestyle"
+	},
+	{
+		"created_at": "Wed Apr 08 10:02:44 +0000 2020",
+		"id": 1247827206568439800,
+		"id_str": "1247827206568439808",
+		"full_text": "Coronavirus world map: which countries have the most cases and deaths?  Via ⁦@guardian⁩  https://t.co/CPhfYVKEBD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CPhfYVKEBD",
+					"expanded_url": "https://www.theguardian.com/world/2020/apr/08/coronavirus-world-map-which-countries-have-most-cases-deaths-covid-19?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/world/2020/apr…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 847,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coronavirus world map: which countries have the most cases and deaths?  Via ⁦@guardian⁩  https://t.co/CPhfYVKEBD"
+	},
+	{
 		"created_at": "Wed Apr 08 02:05:05 +0000 2020",
 		"id": 1247705759154126800,
 		"id_str": "1247707001544728576",
