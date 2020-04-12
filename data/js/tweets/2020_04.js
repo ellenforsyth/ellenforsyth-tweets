@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 20:38:05 +0000 2020",
+		"id": 1249074260372369400,
+		"id_str": "1249074260372369408",
+		"full_text": "Virtual Journeys into our Collection: Thoughts from a Glassmaker https://t.co/qLMTTuo7Dm via @corningmuseum nice to have different perspectives",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corningmuseum",
+					"name": "corningmuseum",
+					"id": 17906620,
+					"id_str": "17906620",
+					"indices": [
+						93,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qLMTTuo7Dm",
+					"expanded_url": "https://blog.cmog.org/2020/04/07/virtual-journeys-into-our-collection-thoughts-from-a-glassmaker/",
+					"display_url": "blog.cmog.org/2020/04/07/vir…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 847,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Virtual Journeys into our Collection: Thoughts from a Glassmaker https://t.co/qLMTTuo7Dm via @corningmuseum nice to have different perspectives"
+	},
+	{
+		"created_at": "Sat Apr 11 20:37:30 +0000 2020",
+		"id": 1247512832977129500,
+		"id_str": "1249074116604211200",
+		"full_text": "For this week's Watch with the Artist demo Wednesday at 1 pm Eastern, join Bill Gudenrath as he revisits his 2015 demo from his class at #CMoGStudio. #MuseumMomentOfZen https://t.co/doMMfZm0je via @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CMoGStudio",
+					"indices": [
+						137,
+						148
+					]
+				},
+				{
+					"text": "MuseumMomentOfZen",
+					"indices": [
+						150,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube at 🏠",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						197,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/doMMfZm0je",
+					"expanded_url": "https://youtu.be/dHpu4epKerk",
+					"display_url": "youtu.be/dHpu4epKerk",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17906620,
+			"id_str": "17906620",
+			"name": "corningmuseum",
+			"screen_name": "corningmuseum",
+			"location": "Corning, New York, USA",
+			"description": "Inspiring people to see glass in a new light. \n\nClosed to the public through April 30.\n\n#InSparklingCompany on view from May 9, 2020 to January 3, 2021.",
+			"url": "https://t.co/HGrVaPBUuf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HGrVaPBUuf",
+							"expanded_url": "http://www.cmog.org",
+							"display_url": "cmog.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16593,
+			"friends_count": 3286,
+			"listed_count": 456,
+			"created_at": "Fri Dec 05 20:15:48 +0000 2008",
+			"favourites_count": 7066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976529118975201280/V0L-2ZGz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976529118975201280/V0L-2ZGz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17906620/1585147445",
+			"profile_link_color": "CC0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F4F4F4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For this week's Watch with the Artist demo Wednesday at 1 pm Eastern, join Bill Gudenrath as he revisits his 2015 demo from his class at #CMoGStudio. #MuseumMomentOfZen https://t.co/doMMfZm0je via @YouTube"
+	},
+	{
+		"created_at": "Sat Apr 11 20:34:51 +0000 2020",
+		"id": 1249068491602309000,
+		"id_str": "1249073449089171456",
+		"full_text": "Happy Easter everyone - when you are done hunting for eggs why not hunt down (and observe!) some wild pollinators in your garden or park?  The wild pollinator count is on until 19 April and is a great activity for everyone! https://t.co/TZFbaEHepd #ozpollinators",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ozpollinators",
+					"indices": [
+						248,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TZFbaEHepd",
+					"expanded_url": "https://wildpollinatorcount.com/",
+					"display_url": "wildpollinatorcount.com",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 570477788,
+			"id_str": "570477788",
+			"name": "CSU Green",
+			"screen_name": "CSU_Green",
+			"location": "Australia",
+			"description": "Australia's First Carbon Neutral University\nSupporting sustainability across Charles Sturt \nSustainability & Research Grants\n#CharlesSturtGreen #CSUGreen",
+			"url": "http://t.co/KOeX6lKFlK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/KOeX6lKFlK",
+							"expanded_url": "http://www.csu.edu.au/csugreen",
+							"display_url": "csu.edu.au/csugreen",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 554,
+			"listed_count": 21,
+			"created_at": "Fri May 04 02:51:23 +0000 2012",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDE6E2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1204587572904595457/GR_SrzQC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204587572904595457/GR_SrzQC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/570477788/1576031151",
+			"profile_link_color": "5A8728",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Easter everyone - when you are done hunting for eggs why not hunt down (and observe!) some wild pollinators in your garden or park?  The wild pollinator count is on until 19 April and is a great activity for everyone! https://t.co/TZFbaEHepd #ozpollinators"
+	},
+	{
+		"created_at": "Sat Apr 11 20:29:06 +0000 2020",
+		"id": 1249007169607028700,
+		"id_str": "1249072002515611648",
+		"full_text": "Join us Wednesday, April 15th at 3 pm CT for a #libcomix crossover event! \n\n#GraphicMedicine Responds: Comics in the Time of #COVID19, a #LibComixOnline webinar.\n\nFeaturing @AJaggers324, @ComicNurse, @TheBethBarnett, &amp; @photinakis! \n\nRegister: https://t.co/YqBQQSjHSI https://t.co/txCajMEhYX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "libcomix",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"text": "GraphicMedicine",
+					"indices": [
+						76,
+						92
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "LibComixOnline",
+					"indices": [
+						137,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AJaggers324",
+					"name": "Alice Jaggers",
+					"id": 3219997351,
+					"id_str": "3219997351",
+					"indices": [
+						173,
+						185
+					]
+				},
+				{
+					"screen_name": "ComicNurse",
+					"name": "ComicNurse",
+					"id": 12206322,
+					"id_str": "12206322",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"screen_name": "TheBethBarnett",
+					"name": "Beth 'The Very Specific History Guy' Barnett 🐪",
+					"id": 271481369,
+					"id_str": "271481369",
+					"indices": [
+						200,
+						215
+					]
+				},
+				{
+					"screen_name": "photinakis",
+					"name": "Maria @ home",
+					"id": 960801858,
+					"id_str": "960801858",
+					"indices": [
+						223,
+						234
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YqBQQSjHSI",
+					"expanded_url": "http://bit.ly/GMLibcomixCOVID",
+					"display_url": "bit.ly/GMLibcomixCOVID",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249007163399438300,
+					"id_str": "1249007163399438337",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EVVdZchXgAEQ2uq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVVdZchXgAEQ2uq.jpg",
+					"url": "https://t.co/txCajMEhYX",
+					"display_url": "pic.twitter.com/txCajMEhYX",
+					"expanded_url": "https://twitter.com/NoetheMatt/status/1249007169607028737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249007163399438300,
+					"id_str": "1249007163399438337",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EVVdZchXgAEQ2uq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVVdZchXgAEQ2uq.jpg",
+					"url": "https://t.co/txCajMEhYX",
+					"display_url": "pic.twitter.com/txCajMEhYX",
+					"expanded_url": "https://twitter.com/NoetheMatt/status/1249007169607028737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30585609,
+			"id_str": "30585609",
+			"name": "Matthew Noe Lives Online Now",
+			"screen_name": "NoetheMatt",
+			"location": "Worcester, MA",
+			"description": "Coffee Fiend / Collections Librarian @HMSCountway / PTI @UKInfoSci / @GraphicMedicine / Resources Chair @libcomix / 2020 @ALALibrary Emerging Leader. (He/Him)",
+			"url": "https://t.co/RUItfUDzdr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RUItfUDzdr",
+							"expanded_url": "http://bookshop.org/shop/graphicmedicine",
+							"display_url": "bookshop.org/shop/graphicme…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3982,
+			"friends_count": 3325,
+			"listed_count": 256,
+			"created_at": "Sun Apr 12 02:50:17 +0000 2009",
+			"favourites_count": 66252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877960484997169152/VOMHAddJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877960484997169152/VOMHAddJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30585609/1464970044",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us Wednesday, April 15th at 3 pm CT for a #libcomix crossover event! \n\n#GraphicMedicine Responds: Comics in the Time of #COVID19, a #LibComixOnline webinar.\n\nFeaturing @AJaggers324, @ComicNurse, @TheBethBarnett, &amp; @photinakis! \n\nRegister: https://t.co/YqBQQSjHSI https://t.co/txCajMEhYX"
+	},
+	{
+		"created_at": "Sat Apr 11 20:28:20 +0000 2020",
+		"id": 1248259661045862400,
+		"id_str": "1249071808147369986",
+		"full_text": "I'm basically making it my mission to plug this page in every meeting I'm in right now. \n\nCOVID-19 Comics https://t.co/b9cfaIg2kT via @graphicmedicine",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GraphicMedicine",
+					"name": "Graphic Medicine",
+					"id": 427367768,
+					"id_str": "427367768",
+					"indices": [
+						134,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/b9cfaIg2kT",
+					"expanded_url": "https://www.graphicmedicine.org/covid-19-comics/",
+					"display_url": "graphicmedicine.org/covid-19-comic…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30585609,
+			"id_str": "30585609",
+			"name": "Matthew Noe Lives Online Now",
+			"screen_name": "NoetheMatt",
+			"location": "Worcester, MA",
+			"description": "Coffee Fiend / Collections Librarian @HMSCountway / PTI @UKInfoSci / @GraphicMedicine / Resources Chair @libcomix / 2020 @ALALibrary Emerging Leader. (He/Him)",
+			"url": "https://t.co/RUItfUDzdr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RUItfUDzdr",
+							"expanded_url": "http://bookshop.org/shop/graphicmedicine",
+							"display_url": "bookshop.org/shop/graphicme…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3982,
+			"friends_count": 3325,
+			"listed_count": 256,
+			"created_at": "Sun Apr 12 02:50:17 +0000 2009",
+			"favourites_count": 66252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877960484997169152/VOMHAddJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877960484997169152/VOMHAddJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30585609/1464970044",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm basically making it my mission to plug this page in every meeting I'm in right now. \n\nCOVID-19 Comics https://t.co/b9cfaIg2kT via @graphicmedicine"
+	},
+	{
 		"created_at": "Sat Apr 11 02:56:57 +0000 2020",
 		"id": 1248807219136622600,
 		"id_str": "1248807219136622592",
