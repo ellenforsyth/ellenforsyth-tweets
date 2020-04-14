@@ -1,6 +1,486 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 22:33:56 +0000 2020",
+		"id": 1249102548516008000,
+		"id_str": "1249828191197212672",
+		"full_text": "How Pratchett’s Discworld characters would cope with the lockdown https://t.co/q1lrc7a9Y0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q1lrc7a9Y0",
+					"expanded_url": "http://forreadingaddicts.co.uk/news/how-pratchetts-discworld-characters-would-cope-with-the-lockdown/44311",
+					"display_url": "forreadingaddicts.co.uk/news/how-pratc…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31100040,
+			"id_str": "31100040",
+			"name": "Mylee Joseph",
+			"screen_name": "myleejoseph",
+			"location": "Sydney, Australia",
+			"description": "urban librarian, social media enthusiast, storyteller",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4949,
+			"friends_count": 5439,
+			"listed_count": 745,
+			"created_at": "Tue Apr 14 11:15:29 +0000 2009",
+			"favourites_count": 31041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/429174332070182913/lHF8eX8w_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/429174332070182913/lHF8eX8w_normal.jpeg",
+			"profile_link_color": "FF0033",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Pratchett’s Discworld characters would cope with the lockdown https://t.co/q1lrc7a9Y0"
+	},
+	{
+		"created_at": "Mon Apr 13 20:35:00 +0000 2020",
+		"id": 1249741264238465000,
+		"id_str": "1249798263143682048",
+		"full_text": "I co-wrote this comic on the lessons of the 1918 flu pandemic. It's a real \"social distancing or die\" scenario. (art by @teenyrobots!) https://t.co/d3TD0aSWQn https://t.co/zSFlUcDfds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teenyrobots",
+					"name": "Joyce Rice",
+					"id": 22440712,
+					"id_str": "22440712",
+					"indices": [
+						120,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d3TD0aSWQn",
+					"expanded_url": "https://thenib.com/1918-spanish-flu/",
+					"display_url": "thenib.com/1918-spanish-f…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249741181421928400,
+					"id_str": "1249741181421928449",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EVf4-6vUwAEUHSO.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVf4-6vUwAEUHSO.png",
+					"url": "https://t.co/zSFlUcDfds",
+					"display_url": "pic.twitter.com/zSFlUcDfds",
+					"expanded_url": "https://twitter.com/sarahmirk/status/1249741264238465029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1079,
+							"h": 951,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 951,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249741181421928400,
+					"id_str": "1249741181421928449",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EVf4-6vUwAEUHSO.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVf4-6vUwAEUHSO.png",
+					"url": "https://t.co/zSFlUcDfds",
+					"display_url": "pic.twitter.com/zSFlUcDfds",
+					"expanded_url": "https://twitter.com/sarahmirk/status/1249741264238465029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1079,
+							"h": 951,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 599,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 951,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1249741181442916400,
+					"id_str": "1249741181442916358",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EVf4-60VAAYJro9.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVf4-60VAAYJro9.png",
+					"url": "https://t.co/zSFlUcDfds",
+					"display_url": "pic.twitter.com/zSFlUcDfds",
+					"expanded_url": "https://twitter.com/sarahmirk/status/1249741264238465029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1249741181426139100,
+					"id_str": "1249741181426139136",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EVf4-6wVAAAlcZA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVf4-6wVAAAlcZA.png",
+					"url": "https://t.co/zSFlUcDfds",
+					"display_url": "pic.twitter.com/zSFlUcDfds",
+					"expanded_url": "https://twitter.com/sarahmirk/status/1249741264238465029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 849,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24712664,
+			"id_str": "24712664",
+			"name": "Sarah Mirk",
+			"screen_name": "sarahmirk",
+			"location": "Portland, OR",
+			"description": "Comics + journalism. Web producer @reveal. Other work: @thenib & @BitchMedia. Obsessive zine-maker & writer of an illustrated oral history of GITMO. 🏳️‍🌈🌯🔥",
+			"url": "https://t.co/NigfOwJERP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NigfOwJERP",
+							"expanded_url": "https://www.mirkwork.com/",
+							"display_url": "mirkwork.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12116,
+			"friends_count": 2836,
+			"listed_count": 517,
+			"created_at": "Mon Mar 16 15:50:04 +0000 2009",
+			"favourites_count": 10551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187864151235784704/XEj6x16s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187864151235784704/XEj6x16s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24712664/1398284672",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I co-wrote this comic on the lessons of the 1918 flu pandemic. It's a real \"social distancing or die\" scenario. (art by @teenyrobots!) https://t.co/d3TD0aSWQn https://t.co/zSFlUcDfds"
+	},
+	{
+		"created_at": "Mon Apr 13 20:30:11 +0000 2020",
+		"id": 1247654982847017000,
+		"id_str": "1249797049626669057",
+		"full_text": "👋 Introducing the Open COVID Pledge!\n\nThis Pledge grants the public free, temporary access (🔓) to #IP rights in support of solving the #COVID19 crisis, removing obstacles to knowledge and inventions that could save lives and limit suffering. ⬇️\n\nhttps://t.co/6okNdPt2k2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IP",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						135,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6okNdPt2k2",
+					"expanded_url": "https://bit.ly/34kf2Y8",
+					"display_url": "bit.ly/34kf2Y8",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17462723,
+			"id_str": "17462723",
+			"name": "Creative Commons",
+			"screen_name": "creativecommons",
+			"location": "Everywhere",
+			"description": "The nonprofit behind the licenses and tools the world uses to share. 🌍\nFollow us for all things #openaccess.\n\n 📸: @StationCDRKelly/@NASA (CC BY-NC)",
+			"url": "https://t.co/AqqagUyLew",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AqqagUyLew",
+							"expanded_url": "https://creativecommons.org",
+							"display_url": "creativecommons.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 558055,
+			"friends_count": 2001,
+			"listed_count": 9862,
+			"created_at": "Tue Nov 18 11:54:02 +0000 2008",
+			"favourites_count": 5479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "21547B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111661918962573312/D9sKPfLC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111661918962573312/D9sKPfLC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17462723/1585753010",
+			"profile_link_color": "5783A5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👋 Introducing the Open COVID Pledge!\n\nThis Pledge grants the public free, temporary access (🔓) to #IP rights in support of solving the #COVID19 crisis, removing obstacles to knowledge and inventions that could save lives and limit suffering. ⬇️\n\nhttps://t.co/6okNdPt2k2"
+	},
+	{
 		"created_at": "Sun Apr 12 23:20:22 +0000 2020",
 		"id": 1247745173724885000,
 		"id_str": "1249477489648234496",
