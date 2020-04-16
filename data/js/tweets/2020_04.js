@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 19:22:02 +0000 2020",
+		"id": 1250466390332641300,
+		"id_str": "1250504675276681217",
+		"full_text": "You don’t have to be a Skokie patron to play along. I would love to “see” you! https://t.co/C0mWmLxrRG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C0mWmLxrRG",
+					"expanded_url": "https://twitter.com/skokielibrary/status/1250422888265441281",
+					"display_url": "twitter.com/skokielibrary/…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16247545,
+			"id_str": "16247545",
+			"name": "Becca Woolpierogi",
+			"screen_name": "WoolPierogi",
+			"location": "Burbs, IL",
+			"description": "Becca, Momma, Librarian, writer, Knitter, Three Books Podcaster, etc. Illinois' 2016 Young Adult Librarian of the year. My Twitter, my opinions.",
+			"url": "https://t.co/GOYFyAXP70",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GOYFyAXP70",
+							"expanded_url": "https://www.amazon.com/Making-Most-Teen-Library-Volunteers/dp/1440865620/ref=sr_1_1?keywords=becca+b",
+							"display_url": "amazon.com/Making-Most-Te…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 429,
+			"friends_count": 1564,
+			"listed_count": 17,
+			"created_at": "Thu Sep 11 20:55:38 +0000 2008",
+			"favourites_count": 11290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/465865716260823041/pnd2uPhp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/465865716260823041/pnd2uPhp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16247545/1399906403",
+			"profile_link_color": "8400FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "9FDF00",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250422888265441300,
+		"quoted_status_id_str": "1250422888265441281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/C0mWmLxrRG",
+			"expanded": "https://twitter.com/skokielibrary/status/1250422888265441281",
+			"display": "twitter.com/skokielibrary/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 15 13:57:02 +0000 2020",
+			"id": 1250422888265441300,
+			"id_str": "1250422888265441281",
+			"full_text": "Our next online book club pick is \"Weather\" by Jenny Offill! NPR says this \"darkly funny, urgent new novel from Jennifer Offill follows a librarian who gets involved in doomsday prepping.\" \n\nFollow along on @goodreads and Instagram!\n\nLearn more: https://t.co/g8GdzmatDf https://t.co/TwjvqvmqRw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "goodreads",
+						"name": "goodreads",
+						"id": 15898172,
+						"id_str": "15898172",
+						"indices": [
+							207,
+							217
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/g8GdzmatDf",
+						"expanded_url": "http://ow.ly/I3MR50ze6uP",
+						"display_url": "ow.ly/I3MR50ze6uP",
+						"indices": [
+							246,
+							269
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1250422885258158000,
+						"id_str": "1250422885258158081",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/EVpk_TbU4AEGtNK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVpk_TbU4AEGtNK.jpg",
+						"url": "https://t.co/TwjvqvmqRw",
+						"display_url": "pic.twitter.com/TwjvqvmqRw",
+						"expanded_url": "https://twitter.com/skokielibrary/status/1250422888265441281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1250422885258158000,
+						"id_str": "1250422885258158081",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/EVpk_TbU4AEGtNK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVpk_TbU4AEGtNK.jpg",
+						"url": "https://t.co/TwjvqvmqRw",
+						"display_url": "pic.twitter.com/TwjvqvmqRw",
+						"expanded_url": "https://twitter.com/skokielibrary/status/1250422888265441281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15073784,
+				"id_str": "15073784",
+				"name": "Skokie Library",
+				"screen_name": "skokielibrary",
+				"location": "Skokie, IL",
+				"description": "The heart of a vibrant village.",
+				"url": "http://t.co/fAnS7RWbb7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fAnS7RWbb7",
+								"expanded_url": "http://www.skokielibrary.info",
+								"display_url": "skokielibrary.info",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4308,
+				"friends_count": 757,
+				"listed_count": 234,
+				"created_at": "Tue Jun 10 14:55:04 +0000 2008",
+				"favourites_count": 1776,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11612,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/632194565655539712/enNTkHxN_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/632194565655539712/enNTkHxN_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15073784/1466442472",
+				"profile_link_color": "888888",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You don’t have to be a Skokie patron to play along. I would love to “see” you! https://t.co/C0mWmLxrRG"
+	},
+	{
+		"created_at": "Wed Apr 15 19:20:41 +0000 2020",
+		"id": 1250504333822537700,
+		"id_str": "1250504333822537728",
+		"full_text": "@ernestopriego I hope you fell better soon, take care",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ernestopriego",
+					"name": "Ernesto Priego",
+					"id": 18059285,
+					"id_str": "18059285",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1250448253398761500,
+		"in_reply_to_status_id_str": "1250448253398761472",
+		"in_reply_to_user_id": 18059285,
+		"in_reply_to_user_id_str": "18059285",
+		"in_reply_to_screen_name": "ernestopriego",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 847,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ernestopriego I hope you fell better soon, take care"
+	},
+	{
+		"created_at": "Wed Apr 15 19:19:43 +0000 2020",
+		"id": 1250504092813684700,
+		"id_str": "1250504092813684736",
+		"full_text": "@cfwriter Looks lovely",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfwriter",
+					"name": "Dr Rachel Franks",
+					"id": 52325959,
+					"id_str": "52325959",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1250316443138154500,
+		"in_reply_to_status_id_str": "1250316443138154498",
+		"in_reply_to_user_id": 52325959,
+		"in_reply_to_user_id_str": "52325959",
+		"in_reply_to_screen_name": "cfwriter",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 847,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cfwriter Looks lovely"
+	},
+	{
 		"created_at": "Tue Apr 14 21:46:59 +0000 2020",
 		"id": 1250178763297452000,
 		"id_str": "1250178763297452032",
