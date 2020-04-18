@@ -1,6 +1,1246 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 05:54:49 +0000 2020",
+		"id": 1251379195420135400,
+		"id_str": "1251388694910533632",
+		"full_text": "The first sighting of James Cook's Endeavour, as remembered by the Yuin people of south-eastern Australia #OzHist https://t.co/bws0D49cVJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OzHist",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bws0D49cVJ",
+					"expanded_url": "https://www.abc.net.au/news/2020-04-18/captain-james-cook-first-sighting-of-endeavour-yuin-people/12151356",
+					"display_url": "abc.net.au/news/2020-04-1…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 199452278,
+			"id_str": "199452278",
+			"name": "Yvonne Perkins",
+			"screen_name": "perkinsy",
+			"location": "Sydney, New South Wales",
+			"description": "Professional historian specialising in #OzHist digital history.",
+			"url": "https://t.co/jhBRiS8Ve7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jhBRiS8Ve7",
+							"expanded_url": "http://www.profoundhistory.com.au",
+							"display_url": "profoundhistory.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1325,
+			"friends_count": 629,
+			"listed_count": 97,
+			"created_at": "Wed Oct 06 22:22:18 +0000 2010",
+			"favourites_count": 871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/644119990828855297/HD6Eu2Lb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/644119990828855297/HD6Eu2Lb_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The first sighting of James Cook's Endeavour, as remembered by the Yuin people of south-eastern Australia #OzHist https://t.co/bws0D49cVJ"
+	},
+	{
+		"created_at": "Fri Apr 17 21:45:31 +0000 2020",
+		"id": 1251265560328863700,
+		"id_str": "1251265560328863745",
+		"full_text": "I travelled Australia looking for peacock spiders, and collected 7 new species (and named one after the starry night sky) https://t.co/6PjDwKe9br via @ConversationEDU lovely, Peacock Spiders are a wonderful way to brighten the day",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						150,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6PjDwKe9br",
+					"expanded_url": "https://theconversation.com/i-travelled-australia-looking-for-peacock-spiders-and-collected-7-new-species-and-named-one-after-the-starry-night-sky-135201?utm_source=twitter&utm_medium=bylinetwitterbutton",
+					"display_url": "theconversation.com/i-travelled-au…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 847,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I travelled Australia looking for peacock spiders, and collected 7 new species (and named one after the starry night sky) https://t.co/6PjDwKe9br via @ConversationEDU lovely, Peacock Spiders are a wonderful way to brighten the day"
+	},
+	{
+		"created_at": "Fri Apr 17 21:33:35 +0000 2020",
+		"id": 1251262557081362400,
+		"id_str": "1251262557081362432",
+		"full_text": "From silk wedding dresses to cotton scrubs for the NHS https://t.co/2AUoSs1l0g via @britishlibrary great post about reconfiguring work places",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "britishlibrary",
+					"name": "The British Library",
+					"id": 21744554,
+					"id_str": "21744554",
+					"indices": [
+						83,
+						98
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2AUoSs1l0g",
+					"expanded_url": "https://blogs.bl.uk/business/2020/04/for-the-love-of-scrubs.html",
+					"display_url": "blogs.bl.uk/business/2020/…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 847,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From silk wedding dresses to cotton scrubs for the NHS https://t.co/2AUoSs1l0g via @britishlibrary great post about reconfiguring work places"
+	},
+	{
+		"created_at": "Fri Apr 17 21:29:36 +0000 2020",
+		"id": 1251261556098166800,
+		"id_str": "1251261556098166784",
+		"full_text": "The News Is Making People Anxious. You’ll Never Believe What They’re Reading Instead. https://t.co/1xVM4xpxAG via @nytimes with some interesting options to add to your news mix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						114,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1xVM4xpxAG",
+					"expanded_url": "https://www.nytimes.com/2020/04/14/style/good-news-coronavirus.html?smid=tw-share",
+					"display_url": "nytimes.com/2020/04/14/sty…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 847,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The News Is Making People Anxious. You’ll Never Believe What They’re Reading Instead. https://t.co/1xVM4xpxAG via @nytimes with some interesting options to add to your news mix"
+	},
+	{
+		"created_at": "Fri Apr 17 21:15:29 +0000 2020",
+		"id": 1250816381576249300,
+		"id_str": "1251258000871809024",
+		"full_text": "Fighting #misinformation is key to fighting the #COVID19 pandemic.\n\n#Libraries have the skills and role in society to make a difference. Many are already!\n\nWe've updated our How To Spot Fake News infographic to help: https://t.co/xyLyJV3llC\n\n#FakeNews #InformationLiteracy #MIL https://t.co/nerQcoRDz2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "misinformation",
+					"indices": [
+						9,
+						24
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "Libraries",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"text": "FakeNews",
+					"indices": [
+						242,
+						251
+					]
+				},
+				{
+					"text": "InformationLiteracy",
+					"indices": [
+						252,
+						272
+					]
+				},
+				{
+					"text": "MIL",
+					"indices": [
+						273,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xyLyJV3llC",
+					"expanded_url": "http://bit.ly/2z6iYAm",
+					"display_url": "bit.ly/2z6iYAm",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250816376614289400,
+					"id_str": "1250816376614289408",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EVvK3g9WAAAUzNe.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVvK3g9WAAAUzNe.png",
+					"url": "https://t.co/nerQcoRDz2",
+					"display_url": "pic.twitter.com/nerQcoRDz2",
+					"expanded_url": "https://twitter.com/IFLA/status/1250816381576249347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250816376614289400,
+					"id_str": "1250816376614289408",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EVvK3g9WAAAUzNe.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVvK3g9WAAAUzNe.png",
+					"url": "https://t.co/nerQcoRDz2",
+					"display_url": "pic.twitter.com/nerQcoRDz2",
+					"expanded_url": "https://twitter.com/IFLA/status/1250816381576249347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53361561,
+			"id_str": "53361561",
+			"name": "IFLA",
+			"screen_name": "IFLA",
+			"location": "The Hague, The Netherlands",
+			"description": "The International Federation of Library Associations and Institutions (IFLA) is the global voice of the library and information profession.",
+			"url": "https://t.co/l1M6glk56U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l1M6glk56U",
+							"expanded_url": "http://www.ifla.org",
+							"display_url": "ifla.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27961,
+			"friends_count": 384,
+			"listed_count": 1050,
+			"created_at": "Fri Jul 03 11:32:45 +0000 2009",
+			"favourites_count": 964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0EDD4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53361561/1545222187",
+			"profile_link_color": "00502F",
+			"profile_sidebar_border_color": "C8002F",
+			"profile_sidebar_fill_color": "F0EDD4",
+			"profile_text_color": "002D19",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fighting #misinformation is key to fighting the #COVID19 pandemic.\n\n#Libraries have the skills and role in society to make a difference. Many are already!\n\nWe've updated our How To Spot Fake News infographic to help: https://t.co/xyLyJV3llC\n\n#FakeNews #InformationLiteracy #MIL https://t.co/nerQcoRDz2"
+	},
+	{
+		"created_at": "Fri Apr 17 21:15:18 +0000 2020",
+		"id": 1251133432542920700,
+		"id_str": "1251257955774652416",
+		"full_text": "Even at a time of #lockdown, people need to stay in touch!\n \nOur updated #COVID19 page has lots of examples of how #libraries are keeping contact with users, and each other.\n\nWe also have #Chinese 🇨🇳, #Italian 🇮🇹 translations!\n\nRead more: https://t.co/U6GbftYdvh https://t.co/kPjJI9zlFZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lockdown",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "libraries",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "Chinese",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"text": "Italian",
+					"indices": [
+						201,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U6GbftYdvh",
+					"expanded_url": "http://bit.ly/2J5ljgy",
+					"display_url": "bit.ly/2J5ljgy",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1251133429737042000,
+					"id_str": "1251133429737041920",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EVzrOb4XsAADj5_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVzrOb4XsAADj5_.jpg",
+					"url": "https://t.co/kPjJI9zlFZ",
+					"display_url": "pic.twitter.com/kPjJI9zlFZ",
+					"expanded_url": "https://twitter.com/IFLA/status/1251133432542920706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1201,
+							"h": 631,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251133429737042000,
+					"id_str": "1251133429737041920",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/EVzrOb4XsAADj5_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVzrOb4XsAADj5_.jpg",
+					"url": "https://t.co/kPjJI9zlFZ",
+					"display_url": "pic.twitter.com/kPjJI9zlFZ",
+					"expanded_url": "https://twitter.com/IFLA/status/1251133432542920706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1201,
+							"h": 631,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53361561,
+			"id_str": "53361561",
+			"name": "IFLA",
+			"screen_name": "IFLA",
+			"location": "The Hague, The Netherlands",
+			"description": "The International Federation of Library Associations and Institutions (IFLA) is the global voice of the library and information profession.",
+			"url": "https://t.co/l1M6glk56U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l1M6glk56U",
+							"expanded_url": "http://www.ifla.org",
+							"display_url": "ifla.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27961,
+			"friends_count": 384,
+			"listed_count": 1050,
+			"created_at": "Fri Jul 03 11:32:45 +0000 2009",
+			"favourites_count": 964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0EDD4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53361561/1545222187",
+			"profile_link_color": "00502F",
+			"profile_sidebar_border_color": "C8002F",
+			"profile_sidebar_fill_color": "F0EDD4",
+			"profile_text_color": "002D19",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Even at a time of #lockdown, people need to stay in touch!\n \nOur updated #COVID19 page has lots of examples of how #libraries are keeping contact with users, and each other.\n\nWe also have #Chinese 🇨🇳, #Italian 🇮🇹 translations!\n\nRead more: https://t.co/U6GbftYdvh https://t.co/kPjJI9zlFZ"
+	},
+	{
+		"created_at": "Fri Apr 17 21:08:20 +0000 2020",
+		"id": 1251256203025367000,
+		"id_str": "1251256203025367040",
+		"full_text": "How to Build an Art Museum in Animal Crossing https://t.co/YQSJBF4QI3 via @gettymuseum, very interesting",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GettyMuseum",
+					"name": "Getty",
+					"id": 16568227,
+					"id_str": "16568227",
+					"indices": [
+						74,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YQSJBF4QI3",
+					"expanded_url": "http://blogs.getty.edu/iris/how-to-build-an-art-museum-in-animal-crossing/",
+					"display_url": "blogs.getty.edu/iris/how-to-bu…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 847,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to Build an Art Museum in Animal Crossing https://t.co/YQSJBF4QI3 via @gettymuseum, very interesting"
+	},
+	{
+		"created_at": "Fri Apr 17 19:58:40 +0000 2020",
+		"id": 1251238671585407000,
+		"id_str": "1251238671585406976",
+		"full_text": "@langridgep They will be somewhere really safe. Are there any sheds they could be in?",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "langridgep",
+					"name": "Queen of Sheba",
+					"id": 94429414,
+					"id_str": "94429414",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1251148797192728600,
+		"in_reply_to_status_id_str": "1251148797192728578",
+		"in_reply_to_user_id": 94429414,
+		"in_reply_to_user_id_str": "94429414",
+		"in_reply_to_screen_name": "langridgep",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 847,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@langridgep They will be somewhere really safe. Are there any sheds they could be in?"
+	},
+	{
+		"created_at": "Fri Apr 17 19:57:32 +0000 2020",
+		"id": 1251238382887305200,
+		"id_str": "1251238382887305216",
+		"full_text": "@cfwriter Looks amazing",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfwriter",
+					"name": "Dr Rachel Franks",
+					"id": 52325959,
+					"id_str": "52325959",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1251061715149615000,
+		"in_reply_to_status_id_str": "1251061715149615109",
+		"in_reply_to_user_id": 52325959,
+		"in_reply_to_user_id_str": "52325959",
+		"in_reply_to_screen_name": "cfwriter",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 847,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cfwriter Looks amazing"
+	},
+	{
 		"created_at": "Thu Apr 16 20:30:21 +0000 2020",
 		"id": 1250884256219488300,
 		"id_str": "1250884256219488264",
