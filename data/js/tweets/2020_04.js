@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 04:07:42 +0000 2020",
+		"id": 1253536066574798800,
+		"id_str": "1253536066574798850",
+		"full_text": "Good idea https://t.co/W2IXTcFMhu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W2IXTcFMhu",
+					"expanded_url": "https://twitter.com/yarraplentylib/status/1253481332946030592",
+					"display_url": "twitter.com/yarraplentylib…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2531,
+			"friends_count": 848,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253481332946030600,
+		"quoted_status_id_str": "1253481332946030592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/W2IXTcFMhu",
+			"expanded": "https://twitter.com/yarraplentylib/status/1253481332946030592",
+			"display": "twitter.com/yarraplentylib…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 24 00:30:12 +0000 2020",
+			"id": 1253481332946030600,
+			"id_str": "1253481332946030592",
+			"full_text": "Now is a good time to join thousands of people writing down their thoughts on live with COVID-19. We have a project Sharing Our COVID-19 Stories https://t.co/1VUpCK20es https://t.co/GUDgKDM71V",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1VUpCK20es",
+						"expanded_url": "https://www.yprl.vic.gov.au/blogs/post/recording-these-times/",
+						"display_url": "yprl.vic.gov.au/blogs/post/rec…",
+						"indices": [
+							145,
+							168
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1253480592542322700,
+						"id_str": "1253480592542322689",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/EWVB9StU0AEH6BX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWVB9StU0AEH6BX.jpg",
+						"url": "https://t.co/GUDgKDM71V",
+						"display_url": "pic.twitter.com/GUDgKDM71V",
+						"expanded_url": "https://twitter.com/YarraPlentyLib/status/1253481332946030592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1253480592542322700,
+						"id_str": "1253480592542322689",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/EWVB9StU0AEH6BX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWVB9StU0AEH6BX.jpg",
+						"url": "https://t.co/GUDgKDM71V",
+						"display_url": "pic.twitter.com/GUDgKDM71V",
+						"expanded_url": "https://twitter.com/YarraPlentyLib/status/1253481332946030592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27817203,
+				"id_str": "27817203",
+				"name": "Yarra Plenty Library",
+				"screen_name": "YarraPlentyLib",
+				"location": "Banyule, Nillumbik & Whittlesea",
+				"description": "Library service in north-east Melbourne. Fine free since 2019! Tweeting about all things GLAMR, learning, digital, books & libraries! #yprl",
+				"url": "https://t.co/5PpJNM6vlY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5PpJNM6vlY",
+								"expanded_url": "http://www.yprl.vic.gov.au",
+								"display_url": "yprl.vic.gov.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2090,
+				"friends_count": 1096,
+				"listed_count": 80,
+				"created_at": "Tue Mar 31 04:54:18 +0000 2009",
+				"favourites_count": 2255,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5800,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1253499354259718145/IiRxVnef_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253499354259718145/IiRxVnef_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27817203/1545198911",
+				"profile_link_color": "3D7329",
+				"profile_sidebar_border_color": "EB841D",
+				"profile_sidebar_fill_color": "EB841D",
+				"profile_text_color": "3D7329",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good idea https://t.co/W2IXTcFMhu"
+	},
+	{
+		"created_at": "Fri Apr 24 02:56:36 +0000 2020",
+		"id": 1253518171622920200,
+		"id_str": "1253518171622920192",
+		"full_text": "this is a lovely post https://t.co/DK4sPwHuDK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DK4sPwHuDK",
+					"expanded_url": "https://twitter.com/NLNZ/status/1253514013985603590",
+					"display_url": "twitter.com/NLNZ/status/12…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2531,
+			"friends_count": 848,
+			"listed_count": 234,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253514013985603600,
+		"quoted_status_id_str": "1253514013985603590",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DK4sPwHuDK",
+			"expanded": "https://twitter.com/NLNZ/status/1253514013985603590",
+			"display": "twitter.com/NLNZ/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 24 02:40:04 +0000 2020",
+			"id": 1253514013985603600,
+			"id_str": "1253514013985603590",
+			"full_text": "On the blog — Our building is closed but the work hasn't stopped. We are working online, from home. Chris Szekely, the Turnbull’s Chief Librarian, writes about activities that the Turnbull has been doing and some highlights of what’s to come. \nhttps://t.co/eh44uQRR0m https://t.co/s28BTJ6OUx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eh44uQRR0m",
+						"expanded_url": "https://natlib.govt.nz/blog/posts/closed-but-partly-open",
+						"display_url": "natlib.govt.nz/blog/posts/clo…",
+						"indices": [
+							244,
+							267
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1253514012530270200,
+						"id_str": "1253514012530270209",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EWVgWl3XYAEp30h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWVgWl3XYAEp30h.jpg",
+						"url": "https://t.co/s28BTJ6OUx",
+						"display_url": "pic.twitter.com/s28BTJ6OUx",
+						"expanded_url": "https://twitter.com/NLNZ/status/1253514013985603590/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 744,
+								"h": 496,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 744,
+								"h": 496,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1253514012530270200,
+						"id_str": "1253514012530270209",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EWVgWl3XYAEp30h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWVgWl3XYAEp30h.jpg",
+						"url": "https://t.co/s28BTJ6OUx",
+						"display_url": "pic.twitter.com/s28BTJ6OUx",
+						"expanded_url": "https://twitter.com/NLNZ/status/1253514013985603590/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 744,
+								"h": 496,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 744,
+								"h": 496,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16248122,
+				"id_str": "16248122",
+				"name": "National Library of New Zealand",
+				"screen_name": "NLNZ",
+				"location": "Wellington",
+				"description": "Tweets from Mary Hay and occasional special guest stars.",
+				"url": "https://t.co/UthDaegKHH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UthDaegKHH",
+								"expanded_url": "http://natlib.govt.nz",
+								"display_url": "natlib.govt.nz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13766,
+				"friends_count": 3591,
+				"listed_count": 582,
+				"created_at": "Thu Sep 11 21:31:32 +0000 2008",
+				"favourites_count": 2385,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12667,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0D0D0D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1009664590764896256/2CMYNnk-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009664590764896256/2CMYNnk-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16248122/1568688210",
+				"profile_link_color": "9D201F",
+				"profile_sidebar_border_color": "2E2350",
+				"profile_sidebar_fill_color": "FCEFEE",
+				"profile_text_color": "02113B",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is a lovely post https://t.co/DK4sPwHuDK"
+	},
+	{
 		"created_at": "Wed Apr 22 11:29:38 +0000 2020",
 		"id": 1252922508556112000,
 		"id_str": "1252922508556111872",
