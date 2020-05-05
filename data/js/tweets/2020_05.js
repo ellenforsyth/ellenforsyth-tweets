@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 20:24:46 +0000 2020",
+		"id": 1257312951016415200,
+		"id_str": "1257405831814852610",
+		"full_text": "These are the #VisibleWikiWomen we've been looking for! @britishlibrary Jedi Librarian aka Digital Curator @miss_wisdom w/ a fab #BLDigital post about our online edit-a-thon this Saturday to honour *women in infrastructures of care. May the Force be with us! #MayThe4thBeWithYou https://t.co/nYVqITDQJp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VisibleWikiWomen",
+					"indices": [
+						14,
+						31
+					]
+				},
+				{
+					"text": "BLDigital",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "MayThe4thBeWithYou",
+					"indices": [
+						259,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "britishlibrary",
+					"name": "The British Library",
+					"id": 21744554,
+					"id_str": "21744554",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"screen_name": "miss_wisdom",
+					"name": "Stella Wisdom",
+					"id": 24890687,
+					"id_str": "24890687",
+					"indices": [
+						107,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nYVqITDQJp",
+					"expanded_url": "https://twitter.com/BL_DigiSchol/status/1257281117075517442",
+					"display_url": "twitter.com/BL_DigiSchol/s…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 728685220040351700,
+			"id_str": "728685220040351744",
+			"name": "WhoseKnowledge?",
+			"screen_name": "WhoseKnowledge",
+			"location": "",
+			"description": "Centering the knowledges of marginalised communities from around the world. Re-imagining the internet to be for and from us all.",
+			"url": "https://t.co/czuZowg58w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/czuZowg58w",
+							"expanded_url": "http://whoseknowledge.org",
+							"display_url": "whoseknowledge.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3742,
+			"friends_count": 327,
+			"listed_count": 72,
+			"created_at": "Fri May 06 20:37:49 +0000 2016",
+			"favourites_count": 2534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969703586467753985/AAvp24B2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969703586467753985/AAvp24B2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/728685220040351744/1583514362",
+			"profile_link_color": "249E9E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1257281117075517400,
+		"quoted_status_id_str": "1257281117075517442",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nYVqITDQJp",
+			"expanded": "https://twitter.com/BL_DigiSchol/status/1257281117075517442",
+			"display": "twitter.com/BL_DigiSchol/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 04 12:09:12 +0000 2020",
+			"id": 1257281117075517400,
+			"id_str": "1257281117075517442",
+			"full_text": "#MayThe4thBeWithYou on #StarWarsDay! A new #BLdigital blog post by @miss_wisdom plays tribute to Princess Leia, General of the Resistance &amp; shares information about the #VisibleWikiWomen 2020 Campaign organised by @WhoseKnowledge @takebackthetech @iiif_io  https://t.co/yBh66Ps0Wg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MayThe4thBeWithYou",
+						"indices": [
+							0,
+							19
+						]
+					},
+					{
+						"text": "StarWarsDay",
+						"indices": [
+							23,
+							35
+						]
+					},
+					{
+						"text": "BLdigital",
+						"indices": [
+							43,
+							53
+						]
+					},
+					{
+						"text": "VisibleWikiWomen",
+						"indices": [
+							173,
+							190
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "miss_wisdom",
+						"name": "Stella Wisdom",
+						"id": 24890687,
+						"id_str": "24890687",
+						"indices": [
+							67,
+							79
+						]
+					},
+					{
+						"screen_name": "WhoseKnowledge",
+						"name": "WhoseKnowledge?",
+						"id": 728685220040351700,
+						"id_str": "728685220040351744",
+						"indices": [
+							218,
+							233
+						]
+					},
+					{
+						"screen_name": "takebackthetech",
+						"name": "Take Back the Tech!",
+						"id": 17539984,
+						"id_str": "17539984",
+						"indices": [
+							234,
+							250
+						]
+					},
+					{
+						"screen_name": "iiif_io",
+						"name": "IIIF",
+						"id": 3240478252,
+						"id_str": "3240478252",
+						"indices": [
+							251,
+							259
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yBh66Ps0Wg",
+						"expanded_url": "https://blogs.bl.uk/digital-scholarship/2020/05/visiblewikiwomen-2020-campaign-.html",
+						"display_url": "blogs.bl.uk/digital-schola…",
+						"indices": [
+							261,
+							284
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744814089172455400,
+				"id_str": "744814089172455424",
+				"name": "Digital Scholarship",
+				"screen_name": "BL_DigiSchol",
+				"location": "United Kingdom",
+				"description": "Enabling innovative research with @britishlibrary digital collections. Tweets by @ndalyrose, @miss_wisdom, @mia_out & @BL_AdiKS",
+				"url": "https://t.co/E7eDKDTLxe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/E7eDKDTLxe",
+								"expanded_url": "http://www.bl.uk/subjects/digital-scholarship",
+								"display_url": "bl.uk/subjects/digit…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2781,
+				"friends_count": 1044,
+				"listed_count": 72,
+				"created_at": "Mon Jun 20 08:48:11 +0000 2016",
+				"favourites_count": 423,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1290,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744814089172455424/1466432652",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These are the #VisibleWikiWomen we've been looking for! @britishlibrary Jedi Librarian aka Digital Curator @miss_wisdom w/ a fab #BLDigital post about our online edit-a-thon this Saturday to honour *women in infrastructures of care. May the Force be with us! #MayThe4thBeWithYou https://t.co/nYVqITDQJp"
+	},
+	{
 		"created_at": "Sun May 03 00:06:36 +0000 2020",
 		"id": 1256736881510723600,
 		"id_str": "1256736881510723584",
