@@ -1,6 +1,1322 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 04:17:33 +0000 2020",
+		"id": 1258974364835418000,
+		"id_str": "1258974364835418112",
+		"full_text": "turns out the link has changed - so here it is https://t.co/1tqPfQllKN https://t.co/ND0WJ2YPoT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1tqPfQllKN",
+					"expanded_url": "https://www.smithsonianmag.com/smithsonian-institution/how-smithsonian-curators-are-rising-challenge-covid-19-180974638/",
+					"display_url": "smithsonianmag.com/smithsonian-in…",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/ND0WJ2YPoT",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/1256356494838128640",
+					"display_url": "twitter.com/ellenforsyth/s…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 852,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1256356494838128600,
+		"quoted_status_id_str": "1256356494838128640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ND0WJ2YPoT",
+			"expanded": "https://twitter.com/ellenforsyth/status/1256356494838128640",
+			"display": "twitter.com/ellenforsyth/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 01 22:55:05 +0000 2020",
+			"id": 1256356494838128600,
+			"id_str": "1256356494838128640",
+			"full_text": "How Smithsonian Curators Are Rising to the Challenge of COVID-19 | At the Smithsonian https://t.co/tMspoczFZ8 an interesting discussion of contemporary collecting, and the challenges of collecting while isolated",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				211
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tMspoczFZ8",
+						"expanded_url": "http://disq.us/t/3nn9p1v",
+						"display_url": "disq.us/t/3nn9p1v",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16970274,
+				"id_str": "16970274",
+				"name": "ellen forsyth",
+				"screen_name": "ellenforsyth",
+				"location": "NSW, Australia",
+				"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+				"url": "https://t.co/Tw5J1g7ySX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Tw5J1g7ySX",
+								"expanded_url": "http://readplayparticipate.blogspot.com/",
+								"display_url": "readplayparticipate.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2533,
+				"friends_count": 852,
+				"listed_count": 232,
+				"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+				"favourites_count": 6230,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36770,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "001329",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000B17",
+				"profile_text_color": "004358",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "turns out the link has changed - so here it is https://t.co/1tqPfQllKN https://t.co/ND0WJ2YPoT"
+	},
+	{
+		"created_at": "Sat May 09 03:34:24 +0000 2020",
+		"id": 1258736550076178400,
+		"id_str": "1258963504733667328",
+		"full_text": "Knitting for the Apocalypse. \n\nTipping my head to the wonderful people who've contributed to the article. \n\nhttps://t.co/2lFYynTtvZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2lFYynTtvZ",
+					"expanded_url": "https://www.nytimes.com/2020/05/08/style/self-care/knitting-for-the-apocalypse.html",
+					"display_url": "nytimes.com/2020/05/08/sty…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 386445771,
+			"id_str": "386445771",
+			"name": "Karie Westermann",
+			"screen_name": "kariebookish",
+			"location": "Glasgow, Scotland",
+			"description": "Wool & words. Designer, teacher & writer. Recovering 90s indie kid. Tired feminist. She/her. 🇩🇰🏴󠁧󠁢󠁳󠁣󠁴󠁿 All views my own.",
+			"url": "https://t.co/UWIBrgUOcY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWIBrgUOcY",
+							"expanded_url": "http://www.kariebookish.net",
+							"display_url": "kariebookish.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6380,
+			"friends_count": 360,
+			"listed_count": 191,
+			"created_at": "Fri Oct 07 09:21:36 +0000 2011",
+			"favourites_count": 36678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114817819181494272/tGWCc83M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114817819181494272/tGWCc83M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/386445771/1554628327",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "8C9A0A",
+			"profile_sidebar_fill_color": "311A63",
+			"profile_text_color": "98720E",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Knitting for the Apocalypse. \n\nTipping my head to the wonderful people who've contributed to the article. \n\nhttps://t.co/2lFYynTtvZ"
+	},
+	{
+		"created_at": "Sat May 09 00:00:19 +0000 2020",
+		"id": 1258909627397243000,
+		"id_str": "1258909627397242881",
+		"full_text": "really like the sounds of #SLVMemoryBank https://t.co/wPxjLprC3F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SLVMemoryBank",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wPxjLprC3F",
+					"expanded_url": "https://twitter.com/Library_Vic/status/1258637961371017218",
+					"display_url": "twitter.com/Library_Vic/st…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 852,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258637961371017200,
+		"quoted_status_id_str": "1258637961371017218",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wPxjLprC3F",
+			"expanded": "https://twitter.com/Library_Vic/status/1258637961371017218",
+			"display": "twitter.com/Library_Vic/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 08 06:00:49 +0000 2020",
+			"id": 1258637961371017200,
+			"id_str": "1258637961371017218",
+			"full_text": "Keeping in touch is both easier and harder than ever. \n\nFor week three of #SLVMemoryBank we're asking you to compose a message to someone you are missing during this period of isolation. \n\nFind out more: https://t.co/K17VOnOTnp https://t.co/GFQanyxWMp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SLVMemoryBank",
+						"indices": [
+							74,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/K17VOnOTnp",
+						"expanded_url": "https://www.slv.vic.gov.au/memorybankweekthree",
+						"display_url": "slv.vic.gov.au/memorybankweek…",
+						"indices": [
+							204,
+							227
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1258637955465465900,
+						"id_str": "1258637955465465856",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/EXeUjUxX0AAGnSN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXeUjUxX0AAGnSN.jpg",
+						"url": "https://t.co/GFQanyxWMp",
+						"display_url": "pic.twitter.com/GFQanyxWMp",
+						"expanded_url": "https://twitter.com/Library_Vic/status/1258637961371017218/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1265,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 741,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 420,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1258637955465465900,
+						"id_str": "1258637955465465856",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/EXeUjUxX0AAGnSN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXeUjUxX0AAGnSN.jpg",
+						"url": "https://t.co/GFQanyxWMp",
+						"display_url": "pic.twitter.com/GFQanyxWMp",
+						"expanded_url": "https://twitter.com/Library_Vic/status/1258637961371017218/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1265,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 741,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 420,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 116586841,
+				"id_str": "116586841",
+				"name": "State Library Vic",
+				"screen_name": "Library_Vic",
+				"location": "Melbourne, Australia",
+				"description": "Our doors may be temporarily closed, but we are still open online for you to keep exploring: https://t.co/dUjb8BW7JO\n\n📷 Follow us on Instagram @library_vic",
+				"url": "https://t.co/XallvLCkH1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XallvLCkH1",
+								"expanded_url": "http://www.slv.vic.gov.au/",
+								"display_url": "slv.vic.gov.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dUjb8BW7JO",
+								"expanded_url": "http://slv.vic.gov.au",
+								"display_url": "slv.vic.gov.au",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 34321,
+				"friends_count": 1022,
+				"listed_count": 833,
+				"created_at": "Tue Feb 23 00:40:03 +0000 2010",
+				"favourites_count": 11624,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14852,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925594738991886336/7VFDlDQr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925594738991886336/7VFDlDQr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/116586841/1584660526",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5EFA9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "really like the sounds of #SLVMemoryBank https://t.co/wPxjLprC3F"
+	},
+	{
+		"created_at": "Fri May 08 22:54:53 +0000 2020",
+		"id": 1258893162656850000,
+		"id_str": "1258893162656849920",
+		"full_text": "A Font for these Uncertain Times https://t.co/NcJlTHj7CZ via @scholarlykitchn I like the idea of this",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scholarlykitchn",
+					"name": "Scholarly Kitchen",
+					"id": 119401334,
+					"id_str": "119401334",
+					"indices": [
+						61,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NcJlTHj7CZ",
+					"expanded_url": "https://scholarlykitchen.sspnet.org/2020/05/08/a-font-for-these-uncertain-times/",
+					"display_url": "scholarlykitchen.sspnet.org/2020/05/08/a-f…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 852,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Font for these Uncertain Times https://t.co/NcJlTHj7CZ via @scholarlykitchn I like the idea of this"
+	},
+	{
+		"created_at": "Fri May 08 22:49:12 +0000 2020",
+		"id": 1258891730050412500,
+		"id_str": "1258891730050412544",
+		"full_text": "Listening in Place https://t.co/DmurFwKkiq is a very interesting project from @vermontfolklife (and via an alert from @IntScout very interesting local studies projects and some helpful advice about recording at a distance",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vermontfolklife",
+					"name": "VT Folklife Center",
+					"id": 22528032,
+					"id_str": "22528032",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"screen_name": "IntScout",
+					"name": "Internet Scout",
+					"id": 39374329,
+					"id_str": "39374329",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DmurFwKkiq",
+					"expanded_url": "https://www.vermontfolklifecenter.org/listening",
+					"display_url": "vermontfolklifecenter.org/listening",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 852,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listening in Place https://t.co/DmurFwKkiq is a very interesting project from @vermontfolklife (and via an alert from @IntScout very interesting local studies projects and some helpful advice about recording at a distance"
+	},
+	{
+		"created_at": "Fri May 08 22:39:18 +0000 2020",
+		"id": 1258889240907137000,
+		"id_str": "1258889240907137024",
+		"full_text": "this has a lot of sites of local studies interest https://t.co/E8PiCna6eL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E8PiCna6eL",
+					"expanded_url": "https://twitter.com/IntScout/status/1258796302311120896",
+					"display_url": "twitter.com/IntScout/statu…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 852,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258796302311121000,
+		"quoted_status_id_str": "1258796302311120896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/E8PiCna6eL",
+			"expanded": "https://twitter.com/IntScout/status/1258796302311120896",
+			"display": "twitter.com/IntScout/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 08 16:30:00 +0000 2020",
+			"id": 1258796302311121000,
+			"id_str": "1258796302311120896",
+			"full_text": "This week we feature another special edition of the Scout Report, bringing you helpful or insightful resources related to #COVID19. Included are minute-by-minute updates, street art from the #pandemic, and how to document during times of crisis.\n\nhttps://t.co/kNTQCPesdQ https://t.co/JvE4pTLpFO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							122,
+							130
+						]
+					},
+					{
+						"text": "pandemic",
+						"indices": [
+							191,
+							200
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kNTQCPesdQ",
+						"expanded_url": "https://scout.wisc.edu/report/2020/0508",
+						"display_url": "scout.wisc.edu/report/2020/05…",
+						"indices": [
+							247,
+							270
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1258049806666068000,
+						"id_str": "1258049806666067969",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/EXV9ojwUcAE_81C.png",
+						"media_url_https": "https://pbs.twimg.com/media/EXV9ojwUcAE_81C.png",
+						"url": "https://t.co/JvE4pTLpFO",
+						"display_url": "pic.twitter.com/JvE4pTLpFO",
+						"expanded_url": "https://twitter.com/IntScout/status/1258796302311120896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 773,
+								"h": 580,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 773,
+								"h": 580,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1258049806666068000,
+						"id_str": "1258049806666067969",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/EXV9ojwUcAE_81C.png",
+						"media_url_https": "https://pbs.twimg.com/media/EXV9ojwUcAE_81C.png",
+						"url": "https://t.co/JvE4pTLpFO",
+						"display_url": "pic.twitter.com/JvE4pTLpFO",
+						"expanded_url": "https://twitter.com/IntScout/status/1258796302311120896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 773,
+								"h": 580,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 773,
+								"h": 580,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39374329,
+				"id_str": "39374329",
+				"name": "Internet Scout",
+				"screen_name": "IntScout",
+				"location": "UW-Madison",
+				"description": "Internet Scout develops tools and services for finding, filtering, and presenting online information. Projects include the Scout Report, AMSER, and ATE Central.",
+				"url": "http://t.co/TH0RXH16QJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TH0RXH16QJ",
+								"expanded_url": "http://www.scout.wisc.edu",
+								"display_url": "scout.wisc.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 982,
+				"friends_count": 964,
+				"listed_count": 79,
+				"created_at": "Mon May 11 23:32:45 +0000 2009",
+				"favourites_count": 2562,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6116,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0E0D02",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/479726954405322752/whHahZXi_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/479726954405322752/whHahZXi_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39374329/1403210760",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BEDFB6",
+				"profile_sidebar_fill_color": "0E0D02",
+				"profile_text_color": "39BD91",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this has a lot of sites of local studies interest https://t.co/E8PiCna6eL"
+	},
+	{
+		"created_at": "Fri May 08 11:15:46 +0000 2020",
+		"id": 1258717223939567600,
+		"id_str": "1258717223939567617",
+		"full_text": "@cfwriter Martian (something red and slightly unknown, possibly involving potatoes), Bleak House (an element of scrounging would be involved), not feeling too inspired, Treasured Island (may need a map for this one), Last Jedi (any drink with sparkles)",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfwriter",
+					"name": "Dr Rachel Franks",
+					"id": 52325959,
+					"id_str": "52325959",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1258583541568290800,
+		"in_reply_to_status_id_str": "1258583541568290816",
+		"in_reply_to_user_id": 52325959,
+		"in_reply_to_user_id_str": "52325959",
+		"in_reply_to_screen_name": "cfwriter",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 852,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cfwriter Martian (something red and slightly unknown, possibly involving potatoes), Bleak House (an element of scrounging would be involved), not feeling too inspired, Treasured Island (may need a map for this one), Last Jedi (any drink with sparkles)"
+	},
+	{
 		"created_at": "Thu May 07 22:29:40 +0000 2020",
 		"id": 1258524428364705800,
 		"id_str": "1258524428364705797",
