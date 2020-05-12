@@ -1,6 +1,1169 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 06:52:36 +0000 2020",
+		"id": 1260100545349480400,
+		"id_str": "1260100545349480448",
+		"full_text": "'The past six weeks have been unlike anything I’ve known': a GP on how the pandemic has progressed via ⁦@gdnlongread⁩ grim reading  https://t.co/FwlsaG5VpC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdnlongread",
+					"name": "The Guardian Long Read",
+					"id": 2853449164,
+					"id_str": "2853449164",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FwlsaG5VpC",
+					"expanded_url": "https://www.theguardian.com/society/2020/may/12/gp-doctor-on-how-the-coronavirus-pandemic-has-progressed-edinburgh?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/society/2020/m…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 852,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'The past six weeks have been unlike anything I’ve known': a GP on how the pandemic has progressed via ⁦@gdnlongread⁩ grim reading  https://t.co/FwlsaG5VpC"
+	},
+	{
+		"created_at": "Tue May 12 00:39:07 +0000 2020",
+		"id": 1259994770018975700,
+		"id_str": "1260006558156550144",
+		"full_text": "#risg2020 hearing from @mimosaishere on the Civic Labs at @skokielibrary https://t.co/afId1CLPzD sounds a great program for their community, connecting collections, staff and community",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "risg2020",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mimosaishere",
+					"name": "an opening to sky, to earth, to sun, to moon",
+					"id": 1279421198,
+					"id_str": "1279421198",
+					"indices": [
+						23,
+						36
+					]
+				},
+				{
+					"screen_name": "skokielibrary",
+					"name": "Skokie Library",
+					"id": 15073784,
+					"id_str": "15073784",
+					"indices": [
+						58,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/afId1CLPzD",
+					"expanded_url": "https://skokielibrary.info/resources/civic-lab/",
+					"display_url": "skokielibrary.info/resources/civi…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44496145,
+			"id_str": "44496145",
+			"name": "NSWRISG",
+			"screen_name": "NSWRISG",
+			"location": "Sydney, Australia",
+			"description": "New South Wales Reference and Information Services Group, supporting readers advisory and reference & information services throughout NSW public libraries.",
+			"url": "https://t.co/yNhlZiJEgM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yNhlZiJEgM",
+							"expanded_url": "http://wiki-beta.libraries.nsw.gov.au/doku.php",
+							"display_url": "wiki-beta.libraries.nsw.gov.au/doku.php",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 172,
+			"friends_count": 56,
+			"listed_count": 20,
+			"created_at": "Thu Jun 04 00:06:15 +0000 2009",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/248937245/risg__logo_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/248937245/risg__logo_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44496145/1525311075",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#risg2020 hearing from @mimosaishere on the Civic Labs at @skokielibrary https://t.co/afId1CLPzD sounds a great program for their community, connecting collections, staff and community"
+	},
+	{
+		"created_at": "Mon May 11 21:59:17 +0000 2020",
+		"id": 1259966093969330200,
+		"id_str": "1259966334932119552",
+		"full_text": "tweets today will be from the annual reference seminar, usually called Reference at the Metcalfe, but this year it is all online https://t.co/intsc7tg2S #risg2020",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "risg2020",
+					"indices": [
+						153,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/intsc7tg2S",
+					"expanded_url": "https://www.eventbrite.com.au/e/nsw-public-library-reference-seminar-online-2020-tickets-102125861200",
+					"display_url": "eventbrite.com.au/e/nsw-public-l…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44496145,
+			"id_str": "44496145",
+			"name": "NSWRISG",
+			"screen_name": "NSWRISG",
+			"location": "Sydney, Australia",
+			"description": "New South Wales Reference and Information Services Group, supporting readers advisory and reference & information services throughout NSW public libraries.",
+			"url": "https://t.co/yNhlZiJEgM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yNhlZiJEgM",
+							"expanded_url": "http://wiki-beta.libraries.nsw.gov.au/doku.php",
+							"display_url": "wiki-beta.libraries.nsw.gov.au/doku.php",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 172,
+			"friends_count": 56,
+			"listed_count": 20,
+			"created_at": "Thu Jun 04 00:06:15 +0000 2009",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/248937245/risg__logo_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/248937245/risg__logo_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44496145/1525311075",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "tweets today will be from the annual reference seminar, usually called Reference at the Metcalfe, but this year it is all online https://t.co/intsc7tg2S #risg2020"
+	},
+	{
+		"created_at": "Mon May 11 20:39:51 +0000 2020",
+		"id": 1258500189192626200,
+		"id_str": "1259946344619192323",
+		"full_text": "Public #Libraries in Europe and COVID-19: Findings from NAPLE Members, April 2020 NAPLE is an international non-governmental association pursuing the interests of the national library authorities in Europe https://t.co/OcZjbvsk8m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Libraries",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OcZjbvsk8m",
+					"expanded_url": "https://bit.ly/2WAjCOH",
+					"display_url": "bit.ly/2WAjCOH",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1190315210,
+			"id_str": "1190315210",
+			"name": "Glòria PérezSalmerón",
+			"screen_name": "GPSalmeron",
+			"location": "Spain",
+			"description": "Librarian&Information Science/Stichting IFLA Global Libraries Chair/IFLA President 2017-2019/Expresidenta de FESABID/Exdirectora Biblioteca Nacional de España",
+			"url": "https://t.co/eSg2Y0HqQi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSg2Y0HqQi",
+							"expanded_url": "https://bit.ly/2ulHco3",
+							"display_url": "bit.ly/2ulHco3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6500,
+			"friends_count": 1083,
+			"listed_count": 293,
+			"created_at": "Sun Feb 17 17:13:13 +0000 2013",
+			"favourites_count": 9628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181114499866271744/dsLWg1BW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181114499866271744/dsLWg1BW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1190315210/1567574326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Public #Libraries in Europe and COVID-19: Findings from NAPLE Members, April 2020 NAPLE is an international non-governmental association pursuing the interests of the national library authorities in Europe https://t.co/OcZjbvsk8m"
+	},
+	{
+		"created_at": "Mon May 11 20:37:57 +0000 2020",
+		"id": 1258808498449797000,
+		"id_str": "1259945864958636032",
+		"full_text": "Together, the #library field is proving its resilience, inventiveness, and value!\n\nOur #COVID19 resource page includes new resources on re-opening from @fesabid 🇪🇸 @ALIANational 🇦🇺 and @VOBtweet 🇳🇱, and is now available in all 7 IFLA languages!\n\nRead more: https://t.co/U6GbftYdvh https://t.co/pOSLpfgnH2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "library",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fesabid",
+					"name": "Fesabid",
+					"id": 20190072,
+					"id_str": "20190072",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"screen_name": "ALIANational",
+					"name": "Aust Lib & Info Assn",
+					"id": 43796164,
+					"id_str": "43796164",
+					"indices": [
+						164,
+						177
+					]
+				},
+				{
+					"screen_name": "VOBtweet",
+					"name": "VOB",
+					"id": 41315579,
+					"id_str": "41315579",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U6GbftYdvh",
+					"expanded_url": "http://bit.ly/2J5ljgy",
+					"display_url": "bit.ly/2J5ljgy",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1258804197455212500,
+					"id_str": "1258804197455212548",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EXgrv4cWsAQCEmj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXgrv4cWsAQCEmj.jpg",
+					"url": "https://t.co/pOSLpfgnH2",
+					"display_url": "pic.twitter.com/pOSLpfgnH2",
+					"expanded_url": "https://twitter.com/IFLA/status/1258808498449797121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1201,
+							"h": 631,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258804197455212500,
+					"id_str": "1258804197455212548",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EXgrv4cWsAQCEmj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXgrv4cWsAQCEmj.jpg",
+					"url": "https://t.co/pOSLpfgnH2",
+					"display_url": "pic.twitter.com/pOSLpfgnH2",
+					"expanded_url": "https://twitter.com/IFLA/status/1258808498449797121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1201,
+							"h": 631,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53361561,
+			"id_str": "53361561",
+			"name": "IFLA",
+			"screen_name": "IFLA",
+			"location": "The Hague, The Netherlands",
+			"description": "The International Federation of Library Associations and Institutions (IFLA) is the global voice of the library and information profession.",
+			"url": "https://t.co/l1M6glk56U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l1M6glk56U",
+							"expanded_url": "http://www.ifla.org",
+							"display_url": "ifla.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28328,
+			"friends_count": 386,
+			"listed_count": 1034,
+			"created_at": "Fri Jul 03 11:32:45 +0000 2009",
+			"favourites_count": 980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0EDD4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53361561/1588751435",
+			"profile_link_color": "00502F",
+			"profile_sidebar_border_color": "C8002F",
+			"profile_sidebar_fill_color": "F0EDD4",
+			"profile_text_color": "002D19",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Together, the #library field is proving its resilience, inventiveness, and value!\n\nOur #COVID19 resource page includes new resources on re-opening from @fesabid 🇪🇸 @ALIANational 🇦🇺 and @VOBtweet 🇳🇱, and is now available in all 7 IFLA languages!\n\nRead more: https://t.co/U6GbftYdvh https://t.co/pOSLpfgnH2"
+	},
+	{
+		"created_at": "Mon May 11 19:52:21 +0000 2020",
+		"id": 1259934391276417000,
+		"id_str": "1259934391276417025",
+		"full_text": "@cfwriter Looking forward to this",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfwriter",
+					"name": "Dr Rachel Franks",
+					"id": 52325959,
+					"id_str": "52325959",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1259728747403460600,
+		"in_reply_to_status_id_str": "1259728747403460609",
+		"in_reply_to_user_id": 52325959,
+		"in_reply_to_user_id_str": "52325959",
+		"in_reply_to_screen_name": "cfwriter",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 852,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cfwriter Looking forward to this"
+	},
+	{
+		"created_at": "Mon May 11 10:12:50 +0000 2020",
+		"id": 1259788549366276000,
+		"id_str": "1259788549366276098",
+		"full_text": "The #Rijksmuseumfromhome is brilliant, so many different ways of looking at this museum https://t.co/YxDcZJXyII",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rijksmuseumfromhome",
+					"indices": [
+						4,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YxDcZJXyII",
+					"expanded_url": "https://twitter.com/rijksmuseum/status/1259441261183938561",
+					"display_url": "twitter.com/rijksmuseum/st…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 852,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1259441261183938600,
+		"quoted_status_id_str": "1259441261183938561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YxDcZJXyII",
+			"expanded": "https://twitter.com/rijksmuseum/status/1259441261183938561",
+			"display": "twitter.com/rijksmuseum/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 10 11:12:50 +0000 2020",
+			"id": 1259441261183938600,
+			"id_str": "1259441261183938561",
+			"full_text": "Happy Mother’s Day! @JorisBijdendijk, Executive Chef of @rijksrestaurant is making his mother a special Mother’s Day dish with white asparagus. 👨‍🍳 Learn his secrets in this special home cooking episode of #Rijksmuseumfromhome🏠.\n\n🎥 https://t.co/iFrsp7KA0C\n\n#Moederdag #MothersDay https://t.co/stXN4BQemt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Rijksmuseumfromhome",
+						"indices": [
+							206,
+							226
+						]
+					},
+					{
+						"text": "Moederdag",
+						"indices": [
+							257,
+							267
+						]
+					},
+					{
+						"text": "MothersDay",
+						"indices": [
+							268,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JorisBijdendijk",
+						"name": "Joris Bijdendijk",
+						"id": 109127032,
+						"id_str": "109127032",
+						"indices": [
+							20,
+							36
+						]
+					},
+					{
+						"screen_name": "rijksrestaurant",
+						"name": "RIJKS®",
+						"id": 2647320853,
+						"id_str": "2647320853",
+						"indices": [
+							56,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iFrsp7KA0C",
+						"expanded_url": "https://youtu.be/I98Hf0U-Muw",
+						"display_url": "youtu.be/I98Hf0U-Muw",
+						"indices": [
+							232,
+							255
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1259434489857691600,
+						"id_str": "1259434489857691649",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EXpo_unX0AEMOT_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXpo_unX0AEMOT_.jpg",
+						"url": "https://t.co/stXN4BQemt",
+						"display_url": "pic.twitter.com/stXN4BQemt",
+						"expanded_url": "https://twitter.com/rijksmuseum/status/1259441261183938561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1259434489857691600,
+						"id_str": "1259434489857691649",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EXpo_unX0AEMOT_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXpo_unX0AEMOT_.jpg",
+						"url": "https://t.co/stXN4BQemt",
+						"display_url": "pic.twitter.com/stXN4BQemt",
+						"expanded_url": "https://twitter.com/rijksmuseum/status/1259441261183938561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 109515460,
+				"id_str": "109515460",
+				"name": "Rijksmuseum",
+				"screen_name": "rijksmuseum",
+				"location": "Amsterdam, the Netherlands",
+				"description": "Follow us for exclusive peeks behind the scenes, world-class art and remarkable history. Stay up-to-date on Operation Night Watch #Rembrandt #VanGogh #Vermeer",
+				"url": "https://t.co/F3tq4H19yP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F3tq4H19yP",
+								"expanded_url": "http://www.rijksmuseum.nl",
+								"display_url": "rijksmuseum.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 243826,
+				"friends_count": 1212,
+				"listed_count": 2308,
+				"created_at": "Fri Jan 29 09:13:53 +0000 2010",
+				"favourites_count": 7126,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15129,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E0E5E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1158273949651939328/uCP16tQr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158273949651939328/uCP16tQr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/109515460/1550679525",
+				"profile_link_color": "1A626F",
+				"profile_sidebar_border_color": "E4ECEC",
+				"profile_sidebar_fill_color": "E4ECEC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #Rijksmuseumfromhome is brilliant, so many different ways of looking at this museum https://t.co/YxDcZJXyII"
+	},
+	{
 		"created_at": "Sun May 10 21:40:07 +0000 2020",
 		"id": 1259599121427525600,
 		"id_str": "1259599121427525632",
