@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 21:14:34 +0000 2020",
+		"id": 1260266791860932600,
+		"id_str": "1260317469308104705",
+		"full_text": "Though I'm still scared of what's to come, I'm heartened by folks making a difference. So glad I got the opportunity to write about the Librarian Reserve Corps, who are helping WHO with COVID research. https://t.co/wSBKZmOqkO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wSBKZmOqkO",
+					"expanded_url": "https://www.libraryjournal.com/?detailStory=librarian-volunteers-help-who-make-sense-of-covid-information",
+					"display_url": "libraryjournal.com/?detailStory=l…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94493399,
+			"id_str": "94493399",
+			"name": "Mahnaz Dar",
+			"screen_name": "DibblyFresh",
+			"location": "New York",
+			"description": "Reference and Professional Reading Editor, Library Journal & School Library Journal. Views expressed are my own. She/her.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1264,
+			"friends_count": 730,
+			"listed_count": 51,
+			"created_at": "Fri Dec 04 05:17:08 +0000 2009",
+			"favourites_count": 4890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984179830336970752/viSp07M6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984179830336970752/viSp07M6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94493399/1449350018",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Though I'm still scared of what's to come, I'm heartened by folks making a difference. So glad I got the opportunity to write about the Librarian Reserve Corps, who are helping WHO with COVID research. https://t.co/wSBKZmOqkO"
+	},
+	{
+		"created_at": "Tue May 12 20:14:39 +0000 2020",
+		"id": 1260302388100870100,
+		"id_str": "1260302388100870144",
+		"full_text": "'It’s time to embrace the history of the country': first harvest of dancing grass in 200 years via ⁦@GuardianAus⁩ this is excellent reading https://t.co/KqJ7cL9Mhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuardianAus",
+					"name": "Guardian Australia",
+					"id": 1092378031,
+					"id_str": "1092378031",
+					"indices": [
+						100,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KqJ7cL9Mhy",
+					"expanded_url": "https://www.theguardian.com/artanddesign/2020/may/13/its-time-to-embrace-the-history-of-the-country-first-harvest-of-dancing-grass-in-200-years?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/artanddesign/2…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 854,
+			"listed_count": 232,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'It’s time to embrace the history of the country': first harvest of dancing grass in 200 years via ⁦@GuardianAus⁩ this is excellent reading https://t.co/KqJ7cL9Mhy"
+	},
+	{
 		"created_at": "Tue May 12 06:52:36 +0000 2020",
 		"id": 1260100545349480400,
 		"id_str": "1260100545349480448",
@@ -933,7 +1143,7 @@ Grailbird.data.tweets_2020_05 =
 			"created_at": "Sun May 10 11:12:50 +0000 2020",
 			"id": 1259441261183938600,
 			"id_str": "1259441261183938561",
-			"full_text": "Happy Mother’s Day! @JorisBijdendijk, Executive Chef of @rijksrestaurant is making his mother a special Mother’s Day dish with white asparagus. 👨‍🍳 Learn his secrets in this special home cooking episode of #Rijksmuseumfromhome🏠.\n\n🎥 https://t.co/iFrsp7KA0C\n\n#Moederdag #MothersDay https://t.co/stXN4BQemt",
+			"full_text": "Happy Mother’s Day! @JorisBijdendijk, Executive Chef of @rijksrestaurant is making his mother a special Mother’s Day dish with white asparagus. 👨🍳 Learn his secrets in this special home cooking episode of #Rijksmuseumfromhome🏠.\n\n🎥 https://t.co/iFrsp7KA0C\n\n#Moederdag #MothersDay https://t.co/stXN4BQemt",
 			"truncated": false,
 			"display_text_range": [
 				0,
