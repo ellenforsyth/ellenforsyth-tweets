@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 21:18:14 +0000 2020",
+		"id": 1263579881943691300,
+		"id_str": "1263579881943691264",
+		"full_text": "there are some very interesting programs here https://t.co/T9jBYU2k9z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T9jBYU2k9z",
+					"expanded_url": "https://twitter.com/WebJunction/status/1262782110097502208",
+					"display_url": "twitter.com/WebJunction/st…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2537,
+			"friends_count": 856,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262782110097502200,
+		"quoted_status_id_str": "1262782110097502208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/T9jBYU2k9z",
+			"expanded": "https://twitter.com/WebJunction/status/1262782110097502208",
+			"display": "twitter.com/WebJunction/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 19 16:28:11 +0000 2020",
+			"id": 1262782110097502200,
+			"id_str": "1262782110097502208",
+			"full_text": "Up next in the Social Library, a Cooking Edition, highlighting libraries offering online cooking classes! https://t.co/cE7z3lxBLl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cE7z3lxBLl",
+						"expanded_url": "https://www.webjunction.org/news/webjunction/social-library-156.html",
+						"display_url": "webjunction.org/news/webjuncti…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14468453,
+				"id_str": "14468453",
+				"name": "WebJunction",
+				"screen_name": "WebJunction",
+				"location": "Seattle and Everywhere",
+				"description": "The learning place for libraries.",
+				"url": "http://t.co/BY20heZycy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BY20heZycy",
+								"expanded_url": "http://webjunction.org",
+								"display_url": "webjunction.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6971,
+				"friends_count": 1305,
+				"listed_count": 463,
+				"created_at": "Mon Apr 21 23:44:43 +0000 2008",
+				"favourites_count": 2986,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8273,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1D6B73",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458690288974692352/Q0oMPHoW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458690288974692352/Q0oMPHoW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14468453/1446242809",
+				"profile_link_color": "005B63",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "there are some very interesting programs here https://t.co/T9jBYU2k9z"
+	},
+	{
 		"created_at": "Wed May 20 22:11:36 +0000 2020",
 		"id": 1263230924952498200,
 		"id_str": "1263230924952498176",
