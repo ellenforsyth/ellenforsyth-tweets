@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 26 05:24:50 +0000 2020",
+		"id": 1263825341593849900,
+		"id_str": "1265151887449432065",
+		"full_text": "Thread. https://t.co/cu5nZVwEnE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cu5nZVwEnE",
+					"expanded_url": "https://twitter.com/pulplibrarian/status/1263818991765725184",
+					"display_url": "twitter.com/pulplibrarian/…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3057,
+			"friends_count": 2108,
+			"listed_count": 130,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 21890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263818991765725200,
+		"quoted_status_id_str": "1263818991765725184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cu5nZVwEnE",
+			"expanded": "https://twitter.com/pulplibrarian/status/1263818991765725184",
+			"display": "twitter.com/pulplibrarian/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 22 13:08:22 +0000 2020",
+			"id": 1263818991765725200,
+			"id_str": "1263818991765725184",
+			"full_text": "A woman with great hair is fleeing a gothic house. This is a signal to the reader that this is one of ‘those’ books – not a historical romance, horror or ghost story, but a modern gothic.\n\nFor #WorldGothDay this is the secret story of the gothic romance novel... #FridayThoughts https://t.co/PTbUiARV4r",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WorldGothDay",
+						"indices": [
+							193,
+							206
+						]
+					},
+					{
+						"text": "FridayThoughts",
+						"indices": [
+							263,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1263818987646877700,
+						"id_str": "1263818987646877696",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EYn8rFsWAAAdmTP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYn8rFsWAAAdmTP.jpg",
+						"url": "https://t.co/PTbUiARV4r",
+						"display_url": "pic.twitter.com/PTbUiARV4r",
+						"expanded_url": "https://twitter.com/PulpLibrarian/status/1263818991765725184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 767,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 679,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 767,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1263818987646877700,
+						"id_str": "1263818987646877696",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EYn8rFsWAAAdmTP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYn8rFsWAAAdmTP.jpg",
+						"url": "https://t.co/PTbUiARV4r",
+						"display_url": "pic.twitter.com/PTbUiARV4r",
+						"expanded_url": "https://twitter.com/PulpLibrarian/status/1263818991765725184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 767,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 679,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 767,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2928209793,
+				"id_str": "2928209793",
+				"name": "Pulp Librarian",
+				"screen_name": "PulpLibrarian",
+				"location": "A library of the mind",
+				"description": "Curator of the art, history and fiction of old dreams.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 112643,
+				"friends_count": 3875,
+				"listed_count": 1875,
+				"created_at": "Wed Dec 17 22:09:14 +0000 2014",
+				"favourites_count": 11283,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44217,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1152213205432840193/Z9ujL38W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152213205432840193/Z9ujL38W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2928209793/1584793877",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 293,
+			"favorite_count": 918,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread. https://t.co/cu5nZVwEnE"
+	},
+	{
+		"created_at": "Tue May 26 01:07:15 +0000 2020",
+		"id": 1265020549484261400,
+		"id_str": "1265087065299079169",
+		"full_text": "Today is National #SorryDay and my thoughts go to all those who never found their way home to family, to community, to country. The disconnection from culture and from identity was intentional, and so too, must the support be for healing. \n#InThisTogether #UluruStatement #NRW2020 https://t.co/RtkaiRYyRp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SorryDay",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"text": "InThisTogether",
+					"indices": [
+						240,
+						255
+					]
+				},
+				{
+					"text": "UluruStatement",
+					"indices": [
+						256,
+						271
+					]
+				},
+				{
+					"text": "NRW2020",
+					"indices": [
+						272,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265020164220661800,
+					"id_str": "1265020164220661762",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EY5BIxIUMAIZoP8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EY5BIxIUMAIZoP8.png",
+					"url": "https://t.co/RtkaiRYyRp",
+					"display_url": "pic.twitter.com/RtkaiRYyRp",
+					"expanded_url": "https://twitter.com/AnitaHeiss/status/1265020549484261376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 463,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 463,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265020164220661800,
+					"id_str": "1265020164220661762",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EY5BIxIUMAIZoP8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EY5BIxIUMAIZoP8.png",
+					"url": "https://t.co/RtkaiRYyRp",
+					"display_url": "pic.twitter.com/RtkaiRYyRp",
+					"expanded_url": "https://twitter.com/AnitaHeiss/status/1265020549484261376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 463,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 463,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 463,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42200093,
+			"id_str": "42200093",
+			"name": "💧Prof Anita Heiss",
+			"screen_name": "AnitaHeiss",
+			"location": "Jagera",
+			"description": "Wiradjuri. Author. Runner. Prof of Communications @ UQ. Board Member @slqld  Ambassador @GOFoundationAU @IndigenousLF #LivingTheBestLifeIcan",
+			"url": "https://t.co/ai3SyX76EW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ai3SyX76EW",
+							"expanded_url": "http://www.anitaheiss.com",
+							"display_url": "anitaheiss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30654,
+			"friends_count": 3971,
+			"listed_count": 601,
+			"created_at": "Sun May 24 11:40:17 +0000 2009",
+			"favourites_count": 75588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039437731976241153/Y7KU2giL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039437731976241153/Y7KU2giL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42200093/1511680186",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 507,
+		"favorite_count": 991,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is National #SorryDay and my thoughts go to all those who never found their way home to family, to community, to country. The disconnection from culture and from identity was intentional, and so too, must the support be for healing. \n#InThisTogether #UluruStatement #NRW2020 https://t.co/RtkaiRYyRp"
+	},
+	{
 		"created_at": "Sun May 24 21:46:18 +0000 2020",
 		"id": 1264674108228300800,
 		"id_str": "1264674108228300801",
