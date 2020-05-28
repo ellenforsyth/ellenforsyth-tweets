@@ -1,6 +1,1009 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 27 22:14:25 +0000 2020",
+		"id": 1265721428118245400,
+		"id_str": "1265768346491908096",
+		"full_text": "https://t.co/TpAV1O5Qev   you too can write a #love #letter  \"to stitches and those who stitch,\" e.g., My grandmother wore black at her wedding.  @art_in_textiles  @DrK3Church  @clothofnature @kateStrasdin @sue_stitches @FashionTextile @TexMinIndia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "love",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "letter",
+					"indices": [
+						52,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "art_in_textiles",
+					"name": "Barbara Shaw",
+					"id": 2186784500,
+					"id_str": "2186784500",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"screen_name": "DrK3Church",
+					"name": "Kathryn Church",
+					"id": 1962931488,
+					"id_str": "1962931488",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"screen_name": "clothofnature",
+					"name": "Jane E Hall",
+					"id": 628516376,
+					"id_str": "628516376",
+					"indices": [
+						177,
+						191
+					]
+				},
+				{
+					"screen_name": "kateStrasdin",
+					"name": "Dr Kate Strasdin",
+					"id": 706033492853956600,
+					"id_str": "706033492853956608",
+					"indices": [
+						192,
+						205
+					]
+				},
+				{
+					"screen_name": "sue_stitches",
+					"name": "Sue Spence Textile Artist",
+					"id": 1083510940023300100,
+					"id_str": "1083510940023300096",
+					"indices": [
+						206,
+						219
+					]
+				},
+				{
+					"screen_name": "FashionTextile",
+					"name": "Fashion and Textile Museum",
+					"id": 19654051,
+					"id_str": "19654051",
+					"indices": [
+						220,
+						235
+					]
+				},
+				{
+					"screen_name": "TexMinIndia",
+					"name": "Ministry of Textiles",
+					"id": 2589318188,
+					"id_str": "2589318188",
+					"indices": [
+						236,
+						248
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TpAV1O5Qev",
+					"expanded_url": "http://www.deartextiles.com/",
+					"display_url": "deartextiles.com",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4265809936,
+			"id_str": "4265809936",
+			"name": "Dorothy Lander",
+			"screen_name": "DorothyLander",
+			"location": "Antigonish, Nova Scotia",
+			"description": "Adult Ed StFX Nottingham. Publisher and Editor HARP Publishing The People's Press https://t.co/fRHE1DLJgm  multi-media healing arts & arts 4 health equity",
+			"url": "https://t.co/4NoP3Zivuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4NoP3Zivuk",
+							"expanded_url": "http://www.womenmakingwaves.wordpress.com",
+							"display_url": "womenmakingwaves.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fRHE1DLJgm",
+							"expanded_url": "http://www.harppublishing.ca",
+							"display_url": "harppublishing.ca",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1080,
+			"friends_count": 4934,
+			"listed_count": 6,
+			"created_at": "Tue Nov 24 16:15:10 +0000 2015",
+			"favourites_count": 29921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/791677873769680896/A-TV81tS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/791677873769680896/A-TV81tS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4265809936/1449889898",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "https://t.co/TpAV1O5Qev   you too can write a #love #letter  \"to stitches and those who stitch,\" e.g., My grandmother wore black at her wedding.  @art_in_textiles  @DrK3Church  @clothofnature @kateStrasdin @sue_stitches @FashionTextile @TexMinIndia"
+	},
+	{
+		"created_at": "Wed May 27 22:13:06 +0000 2020",
+		"id": 1263434830236303400,
+		"id_str": "1265768015850696705",
+		"full_text": "Can the peaceful act of knitting really be radical? The wonderful origins of #craftivism https://t.co/vZIgNj1qE6 https://t.co/MPI6sb4NZ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "craftivism",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vZIgNj1qE6",
+					"expanded_url": "https://www.goodtroublemag.com/home/velvet-first-ellen-lesperance",
+					"display_url": "goodtroublemag.com/home/velvet-fi…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1263434532553965600,
+					"id_str": "1263434532553965568",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EYifA23XQAAUTjQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYifA23XQAAUTjQ.png",
+					"url": "https://t.co/MPI6sb4NZ1",
+					"display_url": "pic.twitter.com/MPI6sb4NZ1",
+					"expanded_url": "https://twitter.com/HumanNatureArt/status/1263434830236303363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 607,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 607,
+							"h": 385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 607,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263434532553965600,
+					"id_str": "1263434532553965568",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EYifA23XQAAUTjQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EYifA23XQAAUTjQ.png",
+					"url": "https://t.co/MPI6sb4NZ1",
+					"display_url": "pic.twitter.com/MPI6sb4NZ1",
+					"expanded_url": "https://twitter.com/HumanNatureArt/status/1263434830236303363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 607,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 607,
+							"h": 385,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 607,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 574786082,
+			"id_str": "574786082",
+			"name": "Charlotte Webster",
+			"screen_name": "HumanNatureArt",
+			"location": "London, UK ",
+			"description": "interested in stories, arts, film 4 #change & #cleaneconomy. writer & brand consultant // speaker. science & magic. ☀️ fan. #buildbackbetter #greennewdeal",
+			"url": "https://t.co/ulKTnkmR0f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ulKTnkmR0f",
+							"expanded_url": "http://www.charlottewebster.co.uk",
+							"display_url": "charlottewebster.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2026,
+			"friends_count": 2898,
+			"listed_count": 85,
+			"created_at": "Tue May 08 21:00:17 +0000 2012",
+			"favourites_count": 3163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A4DDF2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261663175730233351/3-1ddhYY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261663175730233351/3-1ddhYY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/574786082/1575455300",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can the peaceful act of knitting really be radical? The wonderful origins of #craftivism https://t.co/vZIgNj1qE6 https://t.co/MPI6sb4NZ1"
+	},
+	{
+		"created_at": "Wed May 27 07:24:17 +0000 2020",
+		"id": 1262222322402046000,
+		"id_str": "1265544338408439809",
+		"full_text": "Our latest Household Impacts of COVID-19 Survey results are out now at https://t.co/w1QmHB0G1K https://t.co/pNkRMqR8cS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w1QmHB0G1K",
+					"expanded_url": "http://ow.ly/WxhS50zIKnE",
+					"display_url": "ow.ly/WxhS50zIKnE",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262222320933970000,
+					"id_str": "1262222320933969921",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EYRQg2rWoAEzucd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYRQg2rWoAEzucd.jpg",
+					"url": "https://t.co/pNkRMqR8cS",
+					"display_url": "pic.twitter.com/pNkRMqR8cS",
+					"expanded_url": "https://twitter.com/ABSStats/status/1262222322402045953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262222320933970000,
+					"id_str": "1262222320933969921",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EYRQg2rWoAEzucd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYRQg2rWoAEzucd.jpg",
+					"url": "https://t.co/pNkRMqR8cS",
+					"display_url": "pic.twitter.com/pNkRMqR8cS",
+					"expanded_url": "https://twitter.com/ABSStats/status/1262222322402045953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 595,
+							"h": 842,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 172532664,
+			"id_str": "172532664",
+			"name": "Australian Bureau of Statistics",
+			"screen_name": "ABSStats",
+			"location": "Australia",
+			"description": "Informing Australia's important decisions. \nAbout us: https://t.co/MYj7Pt48f7.\nOur social media guidelines: https://t.co/oF0Kt25VQA",
+			"url": "https://t.co/pcBX0fg7Kg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pcBX0fg7Kg",
+							"expanded_url": "http://abs.gov.au",
+							"display_url": "abs.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MYj7Pt48f7",
+							"expanded_url": "http://bit.ly/ABSabout",
+							"display_url": "bit.ly/ABSabout",
+							"indices": [
+								54,
+								77
+							]
+						},
+						{
+							"url": "https://t.co/oF0Kt25VQA",
+							"expanded_url": "http://bit.ly/1QsQmN5",
+							"display_url": "bit.ly/1QsQmN5",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 80759,
+			"friends_count": 649,
+			"listed_count": 484,
+			"created_at": "Thu Jul 29 23:19:30 +0000 2010",
+			"favourites_count": 769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986431860073902080/JJXJKx3t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986431860073902080/JJXJKx3t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/172532664/1586323540",
+			"profile_link_color": "2354D1",
+			"profile_sidebar_border_color": "E5F4FB",
+			"profile_sidebar_fill_color": "E5F4FB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our latest Household Impacts of COVID-19 Survey results are out now at https://t.co/w1QmHB0G1K https://t.co/pNkRMqR8cS"
+	},
+	{
+		"created_at": "Wed May 27 07:23:48 +0000 2020",
+		"id": 1264335881906856000,
+		"id_str": "1265544216983281665",
+		"full_text": "In April, Australians kept up their social distancing, but at slightly lower levels (94% compared with 98% in March). Most Australians (85%) also continued to avoid public spaces. For more, see https://t.co/QcFEjwZ4XD https://t.co/BtmHc9QcP3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QcFEjwZ4XD",
+					"expanded_url": "http://ow.ly/B1Hn50zOE9R",
+					"display_url": "ow.ly/B1Hn50zOE9R",
+					"indices": [
+						194,
+						217
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1264335880375992300,
+					"id_str": "1264335880375992320",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EYvSyNKXgAA6K9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYvSyNKXgAA6K9F.jpg",
+					"url": "https://t.co/BtmHc9QcP3",
+					"display_url": "pic.twitter.com/BtmHc9QcP3",
+					"expanded_url": "https://twitter.com/ABSStats/status/1264335881906855938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1264335880375992300,
+					"id_str": "1264335880375992320",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EYvSyNKXgAA6K9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYvSyNKXgAA6K9F.jpg",
+					"url": "https://t.co/BtmHc9QcP3",
+					"display_url": "pic.twitter.com/BtmHc9QcP3",
+					"expanded_url": "https://twitter.com/ABSStats/status/1264335881906855938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 172532664,
+			"id_str": "172532664",
+			"name": "Australian Bureau of Statistics",
+			"screen_name": "ABSStats",
+			"location": "Australia",
+			"description": "Informing Australia's important decisions. \nAbout us: https://t.co/MYj7Pt48f7.\nOur social media guidelines: https://t.co/oF0Kt25VQA",
+			"url": "https://t.co/pcBX0fg7Kg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pcBX0fg7Kg",
+							"expanded_url": "http://abs.gov.au",
+							"display_url": "abs.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MYj7Pt48f7",
+							"expanded_url": "http://bit.ly/ABSabout",
+							"display_url": "bit.ly/ABSabout",
+							"indices": [
+								54,
+								77
+							]
+						},
+						{
+							"url": "https://t.co/oF0Kt25VQA",
+							"expanded_url": "http://bit.ly/1QsQmN5",
+							"display_url": "bit.ly/1QsQmN5",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 80759,
+			"friends_count": 649,
+			"listed_count": 484,
+			"created_at": "Thu Jul 29 23:19:30 +0000 2010",
+			"favourites_count": 769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986431860073902080/JJXJKx3t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986431860073902080/JJXJKx3t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/172532664/1586323540",
+			"profile_link_color": "2354D1",
+			"profile_sidebar_border_color": "E5F4FB",
+			"profile_sidebar_fill_color": "E5F4FB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In April, Australians kept up their social distancing, but at slightly lower levels (94% compared with 98% in March). Most Australians (85%) also continued to avoid public spaces. For more, see https://t.co/QcFEjwZ4XD https://t.co/BtmHc9QcP3"
+	},
+	{
+		"created_at": "Wed May 27 07:23:19 +0000 2020",
+		"id": 1264706188647829500,
+		"id_str": "1265544096531218433",
+		"full_text": "Nearly half (46%) of all working Australians were working from home in late April and early May. Of those who weren't, 9 in 10 (89%) reported they couldn't due to their job requirements. For more, see https://t.co/TEBfvXIPoW https://t.co/ID5dBgFjxD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TEBfvXIPoW",
+					"expanded_url": "http://ow.ly/tFvy50zP1eN",
+					"display_url": "ow.ly/tFvy50zP1eN",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1264706187137859600,
+					"id_str": "1264706187137859592",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EY0jk5WXQAg8GKw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY0jk5WXQAg8GKw.jpg",
+					"url": "https://t.co/ID5dBgFjxD",
+					"display_url": "pic.twitter.com/ID5dBgFjxD",
+					"expanded_url": "https://twitter.com/ABSStats/status/1264706188647829504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1264706187137859600,
+					"id_str": "1264706187137859592",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EY0jk5WXQAg8GKw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY0jk5WXQAg8GKw.jpg",
+					"url": "https://t.co/ID5dBgFjxD",
+					"display_url": "pic.twitter.com/ID5dBgFjxD",
+					"expanded_url": "https://twitter.com/ABSStats/status/1264706188647829504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 172532664,
+			"id_str": "172532664",
+			"name": "Australian Bureau of Statistics",
+			"screen_name": "ABSStats",
+			"location": "Australia",
+			"description": "Informing Australia's important decisions. \nAbout us: https://t.co/MYj7Pt48f7.\nOur social media guidelines: https://t.co/oF0Kt25VQA",
+			"url": "https://t.co/pcBX0fg7Kg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pcBX0fg7Kg",
+							"expanded_url": "http://abs.gov.au",
+							"display_url": "abs.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MYj7Pt48f7",
+							"expanded_url": "http://bit.ly/ABSabout",
+							"display_url": "bit.ly/ABSabout",
+							"indices": [
+								54,
+								77
+							]
+						},
+						{
+							"url": "https://t.co/oF0Kt25VQA",
+							"expanded_url": "http://bit.ly/1QsQmN5",
+							"display_url": "bit.ly/1QsQmN5",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 80759,
+			"friends_count": 649,
+			"listed_count": 484,
+			"created_at": "Thu Jul 29 23:19:30 +0000 2010",
+			"favourites_count": 769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986431860073902080/JJXJKx3t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986431860073902080/JJXJKx3t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/172532664/1586323540",
+			"profile_link_color": "2354D1",
+			"profile_sidebar_border_color": "E5F4FB",
+			"profile_sidebar_fill_color": "E5F4FB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nearly half (46%) of all working Australians were working from home in late April and early May. Of those who weren't, 9 in 10 (89%) reported they couldn't due to their job requirements. For more, see https://t.co/TEBfvXIPoW https://t.co/ID5dBgFjxD"
+	},
+	{
 		"created_at": "Wed May 27 05:31:11 +0000 2020",
 		"id": 1265515876167663600,
 		"id_str": "1265515876167663616",
