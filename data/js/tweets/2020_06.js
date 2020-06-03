@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 03 05:45:33 +0000 2020",
+		"id": 1267951634056974300,
+		"id_str": "1268056207601827840",
+		"full_text": "Today we acknowledge the successful fight of Eddie Koiki Mabo in dispelling the myth of terra nullius in the High Court and proving the ongoing connection of Indigenous people to this land. We pay our respects to the Mabo family #NRW2020 #NationalReconciliationWeek @RecAustralia https://t.co/bisUkxPfGI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NRW2020",
+					"indices": [
+						229,
+						237
+					]
+				},
+				{
+					"text": "NationalReconciliationWeek",
+					"indices": [
+						238,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RecAustralia",
+					"name": "Reconciliation Aus",
+					"id": 348908419,
+					"id_str": "348908419",
+					"indices": [
+						266,
+						279
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267951631527743500,
+					"id_str": "1267951631527743489",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EZirSn2WkAEojE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZirSn2WkAEojE9.jpg",
+					"url": "https://t.co/bisUkxPfGI",
+					"display_url": "pic.twitter.com/bisUkxPfGI",
+					"expanded_url": "https://twitter.com/IndigenousLF/status/1267951634056974336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 994,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 994,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267951631527743500,
+					"id_str": "1267951631527743489",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EZirSn2WkAEojE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZirSn2WkAEojE9.jpg",
+					"url": "https://t.co/bisUkxPfGI",
+					"display_url": "pic.twitter.com/bisUkxPfGI",
+					"expanded_url": "https://twitter.com/IndigenousLF/status/1267951634056974336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 994,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 994,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 332554525,
+			"id_str": "332554525",
+			"name": "ILF",
+			"screen_name": "IndigenousLF",
+			"location": "Australia",
+			"description": "Our vision is equity of opportunity. We're dedicated to lifting literacy levels in remote communities so all Australian children have the same opportunities.",
+			"url": "https://t.co/jo8fTI7gKr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jo8fTI7gKr",
+							"expanded_url": "http://www.ilf.org.au",
+							"display_url": "ilf.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13214,
+			"friends_count": 2830,
+			"listed_count": 198,
+			"created_at": "Sun Jul 10 01:13:02 +0000 2011",
+			"favourites_count": 5396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268039930497753092/wWHPiE6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268039930497753092/wWHPiE6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/332554525/1457420798",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today we acknowledge the successful fight of Eddie Koiki Mabo in dispelling the myth of terra nullius in the High Court and proving the ongoing connection of Indigenous people to this land. We pay our respects to the Mabo family #NRW2020 #NationalReconciliationWeek @RecAustralia https://t.co/bisUkxPfGI"
+	},
+	{
 		"created_at": "Mon Jun 01 22:52:51 +0000 2020",
 		"id": 1267289807778128000,
 		"id_str": "1267589957885071360",
