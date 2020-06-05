@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 04:16:59 +0000 2020",
+		"id": 1268680944837431300,
+		"id_str": "1268758695170633728",
+		"full_text": "47% of Australia's vegetation could be impacted by an increase in mean annual temperature by 2070 🌱🌡️ This #WorldEnvironmentDay discover how scientists are protecting flora against the impacts of #climatechange in this episode of our Branch Out podcast 🎧 https://t.co/CsH4becof2 https://t.co/3of3cZTvTJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldEnvironmentDay",
+					"indices": [
+						107,
+						127
+					]
+				},
+				{
+					"text": "climatechange",
+					"indices": [
+						196,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CsH4becof2",
+					"expanded_url": "https://bit.ly/2U7DBE2",
+					"display_url": "bit.ly/2U7DBE2",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268680939972046800,
+					"id_str": "1268680939972046854",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtCl9hXsAY8D_Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtCl9hXsAY8D_Z.jpg",
+					"url": "https://t.co/3of3cZTvTJ",
+					"display_url": "pic.twitter.com/3of3cZTvTJ",
+					"expanded_url": "https://twitter.com/RBGSydney/status/1268680944837431301/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1397,
+							"h": 588,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 505,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268680939972046800,
+					"id_str": "1268680939972046854",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EZtCl9hXsAY8D_Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZtCl9hXsAY8D_Z.jpg",
+					"url": "https://t.co/3of3cZTvTJ",
+					"display_url": "pic.twitter.com/3of3cZTvTJ",
+					"expanded_url": "https://twitter.com/RBGSydney/status/1268680944837431301/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1397,
+							"h": 588,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 505,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96283324,
+			"id_str": "96283324",
+			"name": "The Royal Botanic Garden Sydney",
+			"screen_name": "RBGSydney",
+			"location": "Sydney, New South Wales",
+			"description": "The official Royal Botanic Garden Sydney; a verdant oasis in the heart of Sydney's CBD and Australia's oldest living scientific institution.",
+			"url": "https://t.co/V0P6VDZbJF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V0P6VDZbJF",
+							"expanded_url": "http://rbgsyd.nsw.gov.au",
+							"display_url": "rbgsyd.nsw.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19269,
+			"friends_count": 16282,
+			"listed_count": 376,
+			"created_at": "Sat Dec 12 05:31:21 +0000 2009",
+			"favourites_count": 13289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234263133780234240/NGgJMEuz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234263133780234240/NGgJMEuz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96283324/1587384127",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "47% of Australia's vegetation could be impacted by an increase in mean annual temperature by 2070 🌱🌡️ This #WorldEnvironmentDay discover how scientists are protecting flora against the impacts of #climatechange in this episode of our Branch Out podcast 🎧 https://t.co/CsH4becof2 https://t.co/3of3cZTvTJ"
+	},
+	{
 		"created_at": "Wed Jun 03 05:45:33 +0000 2020",
 		"id": 1267951634056974300,
 		"id_str": "1268056207601827840",
