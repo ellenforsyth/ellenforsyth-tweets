@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 02:57:44 +0000 2020",
+		"id": 1268984203821092900,
+		"id_str": "1269825911060226048",
+		"full_text": "I had a wee guest spot on the fab @natlibscot #LetterstotheLibrary blog. Read mine and the other contributors here 👇👇👇 #proudtobepl @PrestonLodgeHS @eastlothianlibs https://t.co/MPljKNVF4w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LetterstotheLibrary",
+					"indices": [
+						46,
+						66
+					]
+				},
+				{
+					"text": "proudtobepl",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "natlibscot",
+					"name": "National Library of Scotland",
+					"id": 75286820,
+					"id_str": "75286820",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"screen_name": "PrestonLodgeHS",
+					"name": "PLHS",
+					"id": 328578695,
+					"id_str": "328578695",
+					"indices": [
+						132,
+						147
+					]
+				},
+				{
+					"screen_name": "eastlothianlibs",
+					"name": "East Lothian Library",
+					"id": 84388307,
+					"id_str": "84388307",
+					"indices": [
+						148,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MPljKNVF4w",
+					"expanded_url": "https://twitter.com/natlibscot/status/1268896598001680384",
+					"display_url": "twitter.com/natlibscot/sta…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1222593448101982200,
+			"id_str": "1222593448101982209",
+			"name": "Preston Lodge Library",
+			"screen_name": "_PLlibrary_",
+			"location": "Prestonpans, East Lothian",
+			"description": "Twitter feed for Preston Lodge High School Library: promoting reading for pleasure, student wellbeing, and information/digital literacy. Tweets by Mr France.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157,
+			"friends_count": 400,
+			"listed_count": 3,
+			"created_at": "Wed Jan 29 18:53:04 +0000 2020",
+			"favourites_count": 1263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229808728913989639/f3Gkq3cW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229808728913989639/f3Gkq3cW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1222593448101982209/1588342337",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268896598001680400,
+		"quoted_status_id_str": "1268896598001680384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MPljKNVF4w",
+			"expanded": "https://twitter.com/natlibscot/status/1268896598001680384",
+			"display": "twitter.com/natlibscot/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 05 13:24:58 +0000 2020",
+			"id": 1268896598001680400,
+			"id_str": "1268896598001680384",
+			"full_text": "This week's #LetterstotheLibrary is our last. Written by an amazing school librarian, it asks how best to support pupils facing uncertainty, and offers creative ways of engaging young people. Read it here &gt; https://t.co/iDKDgz5BWu \n\nThanks to everyone for supporting the series ♥️ https://t.co/OyBBAtslM0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LetterstotheLibrary",
+						"indices": [
+							12,
+							32
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iDKDgz5BWu",
+						"expanded_url": "https://blog.nls.uk/letterstothelibrary-12/",
+						"display_url": "blog.nls.uk/letterstotheli…",
+						"indices": [
+							210,
+							233
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1268896373308641300,
+						"id_str": "1268896373308641286",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/EZwGh1PX0AYSk9_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZwGh1PX0AYSk9_.jpg",
+						"url": "https://t.co/OyBBAtslM0",
+						"display_url": "pic.twitter.com/OyBBAtslM0",
+						"expanded_url": "https://twitter.com/natlibscot/status/1268896598001680384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 798,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1362,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1268896373308641300,
+						"id_str": "1268896373308641286",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/EZwGh1PX0AYSk9_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZwGh1PX0AYSk9_.jpg",
+						"url": "https://t.co/OyBBAtslM0",
+						"display_url": "pic.twitter.com/OyBBAtslM0",
+						"expanded_url": "https://twitter.com/natlibscot/status/1268896598001680384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 798,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1362,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 75286820,
+				"id_str": "75286820",
+				"name": "National Library of Scotland",
+				"screen_name": "natlibscot",
+				"location": "Edinburgh, Scotland",
+				"description": "Scotland's national library. We hold millions of items, so if you can think of it, we probably have it. Explore online https://t.co/8j95oGteqY",
+				"url": "https://t.co/rFWJQ32r32",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rFWJQ32r32",
+								"expanded_url": "http://www.nls.uk",
+								"display_url": "nls.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8j95oGteqY",
+								"expanded_url": "http://www.nls.uk/digital-resources",
+								"display_url": "nls.uk/digital-resour…",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 50990,
+				"friends_count": 3467,
+				"listed_count": 935,
+				"created_at": "Fri Sep 18 14:01:31 +0000 2009",
+				"favourites_count": 53684,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34458,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "241A1A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1057906231745093632/hCkKsgR5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057906231745093632/hCkKsgR5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/75286820/1585916098",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I had a wee guest spot on the fab @natlibscot #LetterstotheLibrary blog. Read mine and the other contributors here 👇👇👇 #proudtobepl @PrestonLodgeHS @eastlothianlibs https://t.co/MPljKNVF4w"
+	},
+	{
+		"created_at": "Mon Jun 08 02:55:18 +0000 2020",
+		"id": 1269825298595373000,
+		"id_str": "1269825298595373057",
+		"full_text": "'Duty-bound to keep it going': the Australian man printing the last newspaper for 500km https://t.co/fwcfH44ERp  via @GuardianAus",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuardianAus",
+					"name": "Guardian Australia",
+					"id": 1092378031,
+					"id_str": "1092378031",
+					"indices": [
+						117,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fwcfH44ERp",
+					"expanded_url": "https://www.theguardian.com/media/2020/jun/08/duty-bound-to-keep-it-going-the-australian-man-printing-the-last-newspaper-for-500km?CMP=share_btn_tw",
+					"display_url": "theguardian.com/media/2020/jun…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2531,
+			"friends_count": 861,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Duty-bound to keep it going': the Australian man printing the last newspaper for 500km https://t.co/fwcfH44ERp  via @GuardianAus"
+	},
+	{
+		"created_at": "Sun Jun 07 22:21:43 +0000 2020",
+		"id": 1269741708025008000,
+		"id_str": "1269756452819910656",
+		"full_text": "Here's a list by @avidreader4101 - \"Indigenous Writers and Race Issues\"\nhttps://t.co/0e4IYVziCD\n\nKeep reading, learning, sharing, talking, changing the world.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avidreader4101",
+					"name": "Avid Reader Bookshop",
+					"id": 19522074,
+					"id_str": "19522074",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0e4IYVziCD",
+					"expanded_url": "https://avidreader.com.au/product-lists/indigenous-writers-race-issues",
+					"display_url": "avidreader.com.au/product-lists/…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42200093,
+			"id_str": "42200093",
+			"name": "💧Prof Anita Heiss",
+			"screen_name": "AnitaHeiss",
+			"location": "Jagera",
+			"description": "Wiradjuri. Author. Runner. Prof of Communications @ UQ. Board Member @slqld  Ambassador @GOFoundationAU @IndigenousLF #LivingTheBestLifeIcan",
+			"url": "https://t.co/ai3SyX76EW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ai3SyX76EW",
+							"expanded_url": "http://www.anitaheiss.com",
+							"display_url": "anitaheiss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31335,
+			"friends_count": 3976,
+			"listed_count": 600,
+			"created_at": "Sun May 24 11:40:17 +0000 2009",
+			"favourites_count": 76304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039437731976241153/Y7KU2giL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039437731976241153/Y7KU2giL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42200093/1511680186",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's a list by @avidreader4101 - \"Indigenous Writers and Race Issues\"\nhttps://t.co/0e4IYVziCD\n\nKeep reading, learning, sharing, talking, changing the world."
+	},
+	{
 		"created_at": "Sat Jun 06 06:31:22 +0000 2020",
 		"id": 1269093007023681500,
 		"id_str": "1269154900551688192",
