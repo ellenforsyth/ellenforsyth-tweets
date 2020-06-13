@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 01:37:57 +0000 2020",
+		"id": 1271607634202935300,
+		"id_str": "1271617776113684480",
+		"full_text": "📢We’re looking to collect any ephemera connected to the Black lives Matter protests in Victoria, such as signs, posters and flyers.\n\nIf you could set this material aside, we will advise you to mail or drop it into the Library when we reopen and it's safe to do so.\n\n📷Asia Taylor https://t.co/zaDnzdTsvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271607631937966000,
+					"id_str": "1271607631937966080",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EaWoZ2tWkAA8A76.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaWoZ2tWkAA8A76.jpg",
+					"url": "https://t.co/zaDnzdTsvD",
+					"display_url": "pic.twitter.com/zaDnzdTsvD",
+					"expanded_url": "https://twitter.com/Library_Vic/status/1271607634202935297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271607631937966000,
+					"id_str": "1271607631937966080",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EaWoZ2tWkAA8A76.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaWoZ2tWkAA8A76.jpg",
+					"url": "https://t.co/zaDnzdTsvD",
+					"display_url": "pic.twitter.com/zaDnzdTsvD",
+					"expanded_url": "https://twitter.com/Library_Vic/status/1271607634202935297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116586841,
+			"id_str": "116586841",
+			"name": "State Library Vic",
+			"screen_name": "Library_Vic",
+			"location": "Melbourne, Australia",
+			"description": "The Library will partially reopen on 15 June, ahead of our official opening on 27 June. Read more: https://t.co/dUjb8BW7JO\n\n📷 Follow us on Instagram @library_vic",
+			"url": "https://t.co/XallvLCkH1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XallvLCkH1",
+							"expanded_url": "http://www.slv.vic.gov.au/",
+							"display_url": "slv.vic.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dUjb8BW7JO",
+							"expanded_url": "http://slv.vic.gov.au",
+							"display_url": "slv.vic.gov.au",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34384,
+			"friends_count": 1023,
+			"listed_count": 811,
+			"created_at": "Tue Feb 23 00:40:03 +0000 2010",
+			"favourites_count": 11664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925594738991886336/7VFDlDQr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925594738991886336/7VFDlDQr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116586841/1584660526",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F5EFA9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢We’re looking to collect any ephemera connected to the Black lives Matter protests in Victoria, such as signs, posters and flyers.\n\nIf you could set this material aside, we will advise you to mail or drop it into the Library when we reopen and it's safe to do so.\n\n📷Asia Taylor https://t.co/zaDnzdTsvD"
+	},
+	{
+		"created_at": "Sat Jun 13 00:25:13 +0000 2020",
+		"id": 1271599471005073400,
+		"id_str": "1271599471005073408",
+		"full_text": "@kylastephan thanks for the reminder - I will have to sit on my front steps later today knitting",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kylastephan",
+					"name": "Kyla Stephan",
+					"id": 1183987591,
+					"id_str": "1183987591",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271594601430712300,
+		"in_reply_to_status_id_str": "1271594601430712320",
+		"in_reply_to_user_id": 1183987591,
+		"in_reply_to_user_id_str": "1183987591",
+		"in_reply_to_screen_name": "kylastephan",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 861,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kylastephan thanks for the reminder - I will have to sit on my front steps later today knitting"
+	},
+	{
+		"created_at": "Fri Jun 12 22:26:18 +0000 2020",
+		"id": 1271534435666665500,
+		"id_str": "1271569542339112960",
+		"full_text": "‘Doomscrolling’ can break your brain. It can also be a force for good https://t.co/wLk12PnV4Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wLk12PnV4Y",
+					"expanded_url": "http://f-st.co/Zx8X5XR",
+					"display_url": "f-st.co/Zx8X5XR",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2735591,
+			"id_str": "2735591",
+			"name": "Fast Company",
+			"screen_name": "FastCompany",
+			"location": "New York, NY",
+			"description": "Official Twitter feed for the Fast Company business media brand; inspiring readers to think beyond traditional boundaries & create the future of business.",
+			"url": "https://t.co/Q4WYGvvDmq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4WYGvvDmq",
+							"expanded_url": "http://www.fastcompany.com",
+							"display_url": "fastcompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2349166,
+			"friends_count": 4186,
+			"listed_count": 43188,
+			"created_at": "Wed Mar 28 22:39:21 +0000 2007",
+			"favourites_count": 10593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 247101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051826427837014017/v2TLU4mf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051826427837014017/v2TLU4mf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2735591/1588075987",
+			"profile_link_color": "9AB2B4",
+			"profile_sidebar_border_color": "5A5A5A",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Doomscrolling’ can break your brain. It can also be a force for good https://t.co/wLk12PnV4Y"
+	},
+	{
+		"created_at": "Fri Jun 12 22:13:32 +0000 2020",
+		"id": 1270809280929824800,
+		"id_str": "1271566332337639424",
+		"full_text": "Thanks to my friends @incluseum  for the space to share my thoughts on race and legacies of exclusion in museums. https://t.co/Yh2BRwDxdj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "incluseum",
+					"name": "the incluseum",
+					"id": 637199510,
+					"id_str": "637199510",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Yh2BRwDxdj",
+					"expanded_url": "https://twitter.com/incluseum/status/1270804384016932870",
+					"display_url": "twitter.com/incluseum/stat…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1736214716,
+			"id_str": "1736214716",
+			"name": "Dr. Porchia Moore; Museum Critical Race Theorist",
+			"screen_name": "PorchiaMuseM",
+			"location": "Southern Gal",
+			"description": "Asst Prof Museum Studies. SAAH. UF. Interrogating Cultural Heritage Spaces for Liberatory Praxis. Co-Creator The Visitors of Color Project.",
+			"url": "https://t.co/JCPWSSgC0I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JCPWSSgC0I",
+							"expanded_url": "https://incluseum.com/",
+							"display_url": "incluseum.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2705,
+			"friends_count": 4896,
+			"listed_count": 74,
+			"created_at": "Fri Sep 06 18:32:08 +0000 2013",
+			"favourites_count": 2278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268278017270349825/z8h5J6Yf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268278017270349825/z8h5J6Yf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1736214716/1568202401",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270804384016932900,
+		"quoted_status_id_str": "1270804384016932870",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yh2BRwDxdj",
+			"expanded": "https://twitter.com/incluseum/status/1270804384016932870",
+			"display": "twitter.com/incluseum/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 10 19:45:50 +0000 2020",
+			"id": 1270804384016932900,
+			"id_str": "1270804384016932870",
+			"full_text": "@PorchiaMuseM shares her perspective on #museums in a time of crisis. https://t.co/BHGnfdU3uA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "museums",
+						"indices": [
+							40,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PorchiaMuseM",
+						"name": "Dr. Porchia Moore; Museum Critical Race Theorist",
+						"id": 1736214716,
+						"id_str": "1736214716",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BHGnfdU3uA",
+						"expanded_url": "https://incluseum.com/2020/06/10/cartography-a-black-womans-response-to-museums-in-the-time-of-racial-uprising/",
+						"display_url": "incluseum.com/2020/06/10/car…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1736214716,
+			"in_reply_to_user_id_str": "1736214716",
+			"in_reply_to_screen_name": "PorchiaMuseM",
+			"user": {
+				"id": 637199510,
+				"id_str": "637199510",
+				"name": "the incluseum",
+				"screen_name": "incluseum",
+				"location": "Seattle,WA",
+				"description": "Advancing new ways of being a museum via critical discourse, community building & collaborative practice related to inclusion in museums.",
+				"url": "https://t.co/N2tbQtUhrn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N2tbQtUhrn",
+								"expanded_url": "http://incluseum.com/",
+								"display_url": "incluseum.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6532,
+				"friends_count": 2131,
+				"listed_count": 175,
+				"created_at": "Mon Jul 16 19:06:59 +0000 2012",
+				"favourites_count": 2897,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2490,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F2F4F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/449053437229944832/NIE0kqka_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/449053437229944832/NIE0kqka_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/637199510/1430459642",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 19,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to my friends @incluseum  for the space to share my thoughts on race and legacies of exclusion in museums. https://t.co/Yh2BRwDxdj"
+	},
+	{
 		"created_at": "Thu Jun 11 23:14:19 +0000 2020",
 		"id": 1271219239748202500,
 		"id_str": "1271219239748202496",
