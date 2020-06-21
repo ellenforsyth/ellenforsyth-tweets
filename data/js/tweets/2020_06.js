@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 21 03:18:57 +0000 2020",
+		"id": 1274467062988132400,
+		"id_str": "1274542293450514433",
+		"full_text": "Every color has a story and the color green is no different. https://t.co/R9yduXn4Tp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R9yduXn4Tp",
+					"expanded_url": "https://trib.al/A4XLpRS",
+					"display_url": "trib.al/A4XLpRS",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16655930,
+			"id_str": "16655930",
+			"name": "My Modern Met",
+			"screen_name": "mymodernmet",
+			"location": "",
+			"description": "My Modern Met is the big city that celebrates creative ideas.",
+			"url": "http://t.co/xkTb7vpVE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xkTb7vpVE3",
+							"expanded_url": "http://www.mymodernmet.com",
+							"display_url": "mymodernmet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293635,
+			"friends_count": 167,
+			"listed_count": 3535,
+			"created_at": "Wed Oct 08 20:42:16 +0000 2008",
+			"favourites_count": 134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885061776420859904/gFNVH_u4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885061776420859904/gFNVH_u4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16655930/1402091730",
+			"profile_link_color": "CF232C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "050505",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every color has a story and the color green is no different. https://t.co/R9yduXn4Tp"
+	},
+	{
+		"created_at": "Sun Jun 21 03:14:50 +0000 2020",
+		"id": 1274539672241270800,
+		"id_str": "1274541256887029762",
+		"full_text": "'Historian Juanita Kwok studies Chinese agricultural and wartime contribution in regional Australia'\nhttps://t.co/kd3fcMwOOD #chinozhist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chinozhist",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kd3fcMwOOD",
+					"expanded_url": "https://www.abc.net.au/news/2020-06-21/historic-chinese-grave-hunter-agricultural-wartime-contribution/12374842",
+					"display_url": "abc.net.au/news/2020-06-2…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23577749,
+			"id_str": "23577749",
+			"name": "Kate Bagnall 白碧",
+			"screen_name": "baibi",
+			"location": "Hobart, Tasmania",
+			"description": "Historian recently moved to Hobart. Chinese Australasian history. History of the family. Legal histories of migration and citizenship.",
+			"url": "https://t.co/FMCvU6egSe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FMCvU6egSe",
+							"expanded_url": "http://katebagnall.com",
+							"display_url": "katebagnall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2324,
+			"friends_count": 1538,
+			"listed_count": 79,
+			"created_at": "Tue Mar 10 10:33:57 +0000 2009",
+			"favourites_count": 10908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989102076666953728/asKxLoMt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989102076666953728/asKxLoMt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23577749/1458440223",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Historian Juanita Kwok studies Chinese agricultural and wartime contribution in regional Australia'\nhttps://t.co/kd3fcMwOOD #chinozhist"
+	},
+	{
+		"created_at": "Sat Jun 20 23:18:32 +0000 2020",
+		"id": 1274481792699920400,
+		"id_str": "1274481792699920384",
+		"full_text": "Pandemic Objects: Soap https://t.co/kaVetOb4Gl really enjoying this series of blog posts from @V_and_A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "V_and_A",
+					"name": "V&A",
+					"id": 18807671,
+					"id_str": "18807671",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kaVetOb4Gl",
+					"expanded_url": "https://www.vam.ac.uk/blog/projects/pandemic-objects-soap",
+					"display_url": "vam.ac.uk/blog/projects/…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2532,
+			"friends_count": 862,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pandemic Objects: Soap https://t.co/kaVetOb4Gl really enjoying this series of blog posts from @V_and_A"
+	},
+	{
 		"created_at": "Fri Jun 19 23:44:21 +0000 2020",
 		"id": 1274125902452936700,
 		"id_str": "1274125902452936704",
