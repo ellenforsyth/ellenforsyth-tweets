@@ -1,6 +1,1345 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 05:59:00 +0000 2020",
+		"id": 1275307347867390000,
+		"id_str": "1275307347867389954",
+		"full_text": "@CatyJ A tough day,  in a series of tough days. Thinking of you.",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatyJ",
+					"name": "CatyJ",
+					"id": 15732431,
+					"id_str": "15732431",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1275289150778798000,
+		"in_reply_to_status_id_str": "1275289150778798081",
+		"in_reply_to_user_id": 15732431,
+		"in_reply_to_user_id_str": "15732431",
+		"in_reply_to_screen_name": "CatyJ",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 863,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CatyJ A tough day,  in a series of tough days. Thinking of you."
+	},
+	{
+		"created_at": "Mon Jun 22 20:53:22 +0000 2020",
+		"id": 1275170033090433000,
+		"id_str": "1275170033090433024",
+		"full_text": "This is wonderful, and shows the importance of this kind of collecting - could be lovely for local studies collections too https://t.co/RLH8YmNDcd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RLH8YmNDcd",
+					"expanded_url": "https://twitter.com/soundarchive/status/1274983908237508608",
+					"display_url": "twitter.com/soundarchive/s…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 863,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1274983908237508600,
+		"quoted_status_id_str": "1274983908237508608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RLH8YmNDcd",
+			"expanded": "https://twitter.com/soundarchive/status/1274983908237508608",
+			"display": "twitter.com/soundarchive/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 22 08:33:46 +0000 2020",
+			"id": 1274983908237508600,
+			"id_str": "1274983908237508608",
+			"full_text": "Recording of the week: Underwater sounds from Cromer Pier https://t.co/HobBWu0O3o https://t.co/I63RuziBi8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HobBWu0O3o",
+						"expanded_url": "https://blogs.bl.uk/sound-and-vision/2020/06/recording-of-the-week-.html",
+						"display_url": "blogs.bl.uk/sound-and-visi…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1274983882551689200,
+						"id_str": "1274983882551689217",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/EbGnFgXXgAEkGY0.png",
+						"media_url_https": "https://pbs.twimg.com/media/EbGnFgXXgAEkGY0.png",
+						"url": "https://t.co/I63RuziBi8",
+						"display_url": "pic.twitter.com/I63RuziBi8",
+						"expanded_url": "https://twitter.com/soundarchive/status/1274983908237508608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 580,
+								"h": 369,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 580,
+								"h": 369,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 369,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1274983882551689200,
+						"id_str": "1274983882551689217",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/EbGnFgXXgAEkGY0.png",
+						"media_url_https": "https://pbs.twimg.com/media/EbGnFgXXgAEkGY0.png",
+						"url": "https://t.co/I63RuziBi8",
+						"display_url": "pic.twitter.com/I63RuziBi8",
+						"expanded_url": "https://twitter.com/soundarchive/status/1274983908237508608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 580,
+								"h": 369,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 580,
+								"h": 369,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 369,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22028935,
+				"id_str": "22028935",
+				"name": "Sound Archive",
+				"screen_name": "soundarchive",
+				"location": "London, UK",
+				"description": "Sound Archive @BritishLibrary: 7 million recordings of music, voices, environments. Tweets by Steve Cleary. Blog: https://t.co/TuSRYUV7Ns",
+				"url": "http://t.co/QQ7BIbQ40P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QQ7BIbQ40P",
+								"expanded_url": "http://www.bl.uk/soundarchive",
+								"display_url": "bl.uk/soundarchive",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TuSRYUV7Ns",
+								"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision",
+								"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18635,
+				"friends_count": 1246,
+				"listed_count": 814,
+				"created_at": "Thu Feb 26 16:36:05 +0000 2009",
+				"favourites_count": 515,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6030,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22028935/1535972358",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is wonderful, and shows the importance of this kind of collecting - could be lovely for local studies collections too https://t.co/RLH8YmNDcd"
+	},
+	{
+		"created_at": "Mon Jun 22 20:52:03 +0000 2020",
+		"id": 1274976762364035000,
+		"id_str": "1275169702508142600",
+		"full_text": "Our #UOSH team is honoured to preserve important #audioarchives like this #inspiring interview with Princess Campbell, one of the #NHS's first black ward sisters. #Listen to her #extraordinary #Bristol life here: https://t.co/O6TUQSSLeS #windrush #windrushday @BLSoundHeritage ^ks https://t.co/jk2IW7T8IA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UOSH",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "audioarchives",
+					"indices": [
+						49,
+						63
+					]
+				},
+				{
+					"text": "inspiring",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "NHS",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "Listen",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "extraordinary",
+					"indices": [
+						178,
+						192
+					]
+				},
+				{
+					"text": "Bristol",
+					"indices": [
+						193,
+						201
+					]
+				},
+				{
+					"text": "windrush",
+					"indices": [
+						237,
+						246
+					]
+				},
+				{
+					"text": "windrushday",
+					"indices": [
+						247,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLSoundHeritage",
+					"name": "BL Sound Heritage",
+					"id": 2828116855,
+					"id_str": "2828116855",
+					"indices": [
+						260,
+						276
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O6TUQSSLeS",
+					"expanded_url": "https://bit.ly/2Y37RSN",
+					"display_url": "bit.ly/2Y37RSN",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1274976760652800000,
+					"id_str": "1274976760652800003",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EbGgm9OWoAM1zwN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbGgm9OWoAM1zwN.jpg",
+					"url": "https://t.co/jk2IW7T8IA",
+					"display_url": "pic.twitter.com/jk2IW7T8IA",
+					"expanded_url": "https://twitter.com/bristolarchives/status/1274976762364035072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274976760652800000,
+					"id_str": "1274976760652800003",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EbGgm9OWoAM1zwN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbGgm9OWoAM1zwN.jpg",
+					"url": "https://t.co/jk2IW7T8IA",
+					"display_url": "pic.twitter.com/jk2IW7T8IA",
+					"expanded_url": "https://twitter.com/bristolarchives/status/1274976762364035072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 284665147,
+			"id_str": "284665147",
+			"name": "Bristol Archives",
+			"screen_name": "bristolarchives",
+			"location": "Bristol, United Kingdom",
+			"description": "Home to ten centuries of history: we collect + preserve Bristol's archives (+ the British Empire & Commonwealth Collection) for current + future generations.",
+			"url": "https://t.co/ESwar8Exnj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ESwar8Exnj",
+							"expanded_url": "http://www.bristolmuseums.org.uk/bristol-archives",
+							"display_url": "bristolmuseums.org.uk/bristol-archiv…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5370,
+			"friends_count": 1465,
+			"listed_count": 98,
+			"created_at": "Tue Apr 19 18:35:32 +0000 2011",
+			"favourites_count": 5167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879334956589359104/J9jgzj48_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879334956589359104/J9jgzj48_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/284665147/1463670493",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our #UOSH team is honoured to preserve important #audioarchives like this #inspiring interview with Princess Campbell, one of the #NHS's first black ward sisters. #Listen to her #extraordinary #Bristol life here: https://t.co/O6TUQSSLeS #windrush #windrushday @BLSoundHeritage ^ks https://t.co/jk2IW7T8IA"
+	},
+	{
+		"created_at": "Mon Jun 22 20:47:28 +0000 2020",
+		"id": 1275168549921861600,
+		"id_str": "1275168549921861633",
+		"full_text": "‘tests found the virus undetectable after one day on the covers of hardback and softback books as well as the DVD case.’ https://t.co/7FCibogWl9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7FCibogWl9",
+					"expanded_url": "https://twitter.com/oclc/status/1275075228658327553",
+					"display_url": "twitter.com/oclc/status/12…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 863,
+			"listed_count": 231,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275075228658327600,
+		"quoted_status_id_str": "1275075228658327553",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7FCibogWl9",
+			"expanded": "https://twitter.com/oclc/status/1275075228658327553",
+			"display": "twitter.com/oclc/status/12…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 22 14:36:38 +0000 2020",
+			"id": 1275075228658327600,
+			"id_str": "1275075228658327553",
+			"full_text": "REALM Project update: Round 1 test results now available. https://t.co/g9O4YEXQ4J The REALM Project has released the results of the first round of Battelle’s laboratory testing for COVID-19 on 5 commonly circulated library materials #REALMproject #COVIDlibraries",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "REALMproject",
+						"indices": [
+							233,
+							246
+						]
+					},
+					{
+						"text": "COVIDlibraries",
+						"indices": [
+							247,
+							262
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/g9O4YEXQ4J",
+						"expanded_url": "http://oc.lc/realm-news1-phase1",
+						"display_url": "oc.lc/realm-news1-ph…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29516133,
+				"id_str": "29516133",
+				"name": "OCLC",
+				"screen_name": "OCLC",
+				"location": "Worldwide",
+				"description": "A global library cooperative providing shared services, research and community programs to thousands of libraries. Together we make breakthroughs possible.",
+				"url": "https://t.co/FjBv6oXtJq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FjBv6oXtJq",
+								"expanded_url": "http://oc.lc/links",
+								"display_url": "oc.lc/links",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29628,
+				"friends_count": 1063,
+				"listed_count": 1384,
+				"created_at": "Tue Apr 07 19:04:34 +0000 2009",
+				"favourites_count": 2340,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13567,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E0E1DD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/613076298517254145/Z8nFQIVh_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/613076298517254145/Z8nFQIVh_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29516133/1513799573",
+				"profile_link_color": "0083BE",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F3F1ED",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘tests found the virus undetectable after one day on the covers of hardback and softback books as well as the DVD case.’ https://t.co/7FCibogWl9"
+	},
+	{
+		"created_at": "Mon Jun 22 08:11:31 +0000 2020",
+		"id": 1272834804657074200,
+		"id_str": "1274978310292795392",
+		"full_text": "Find out more about this extraordinary conservation intervention: https://t.co/39Q5onqWGO (2/2) https://t.co/G5Pts4otXl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/39Q5onqWGO",
+					"expanded_url": "https://blog.nms.ac.uk/2020/06/12/not-fade-away-constructing-a-replica-victorian-bodice-for-permanent-display/",
+					"display_url": "blog.nms.ac.uk/2020/06/12/not…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272828929217302500,
+					"id_str": "1272828929217302529",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Ean_KtnWkAE-myT.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ean_KtnWkAE-myT.png",
+					"url": "https://t.co/G5Pts4otXl",
+					"display_url": "pic.twitter.com/G5Pts4otXl",
+					"expanded_url": "https://twitter.com/NtlMuseumsScot/status/1272834804657074177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272828929217302500,
+					"id_str": "1272828929217302529",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Ean_KtnWkAE-myT.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ean_KtnWkAE-myT.png",
+					"url": "https://t.co/G5Pts4otXl",
+					"display_url": "pic.twitter.com/G5Pts4otXl",
+					"expanded_url": "https://twitter.com/NtlMuseumsScot/status/1272834804657074177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1272828839325040600,
+		"in_reply_to_status_id_str": "1272828839325040640",
+		"in_reply_to_user_id": 95401304,
+		"in_reply_to_user_id_str": "95401304",
+		"in_reply_to_screen_name": "NtlMuseumsScot",
+		"user": {
+			"id": 95401304,
+			"id_str": "95401304",
+			"name": "National Museums Scotland",
+			"screen_name": "NtlMuseumsScot",
+			"location": "Edinburgh, Scotland",
+			"description": "Stay at home and explore the collections of National Museums Scotland: https://t.co/9waCHWjvY9",
+			"url": "http://t.co/7QzNlaaAUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7QzNlaaAUa",
+							"expanded_url": "http://www.nms.ac.uk",
+							"display_url": "nms.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9waCHWjvY9",
+							"expanded_url": "http://nms.ac.uk/explore-our-collections",
+							"display_url": "nms.ac.uk/explore-our-co…",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74828,
+			"friends_count": 4629,
+			"listed_count": 1386,
+			"created_at": "Tue Dec 08 11:23:52 +0000 2009",
+			"favourites_count": 25477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057566439077568512/LX9nCQs0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057566439077568512/LX9nCQs0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95401304/1511775408",
+			"profile_link_color": "0D6DB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0ECF5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Find out more about this extraordinary conservation intervention: https://t.co/39Q5onqWGO (2/2) https://t.co/G5Pts4otXl"
+	},
+	{
+		"created_at": "Mon Jun 22 08:08:13 +0000 2020",
+		"id": 1273540959364477000,
+		"id_str": "1274977478214160384",
+		"full_text": "Read this latest blog post from our Principal Conservator on crafting mannequins to represent different kinds of diversity - including making a full body cast of @Thesineadburke's body – so we could display her clothes on a mannequin made for her.  \n\nhttps://t.co/CyWvwZqylW (2/2) https://t.co/Kpg4UFYnNf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheSineadBurke",
+					"name": "Sinéad Burke",
+					"id": 311484185,
+					"id_str": "311484185",
+					"indices": [
+						162,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CyWvwZqylW",
+					"expanded_url": "https://blog.nms.ac.uk/2020/06/15/managing-mannequins-for-body-beautiful-diversity-on-the-catwalk/",
+					"display_url": "blog.nms.ac.uk/2020/06/15/man…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273537490591322000,
+					"id_str": "1273537490591322112",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EayDmabWkAATOAi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EayDmabWkAATOAi.jpg",
+					"url": "https://t.co/Kpg4UFYnNf",
+					"display_url": "pic.twitter.com/Kpg4UFYnNf",
+					"expanded_url": "https://twitter.com/NtlMuseumsScot/status/1273540959364476928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273537490591322000,
+					"id_str": "1273537490591322112",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EayDmabWkAATOAi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EayDmabWkAATOAi.jpg",
+					"url": "https://t.co/Kpg4UFYnNf",
+					"display_url": "pic.twitter.com/Kpg4UFYnNf",
+					"expanded_url": "https://twitter.com/NtlMuseumsScot/status/1273540959364476928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1273537694778433500,
+					"id_str": "1273537694778433537",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EayDyTFWoAE5DYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EayDyTFWoAE5DYj.jpg",
+					"url": "https://t.co/Kpg4UFYnNf",
+					"display_url": "pic.twitter.com/Kpg4UFYnNf",
+					"expanded_url": "https://twitter.com/NtlMuseumsScot/status/1273540959364476928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1273537274215633000,
+		"in_reply_to_status_id_str": "1273537274215632897",
+		"in_reply_to_user_id": 95401304,
+		"in_reply_to_user_id_str": "95401304",
+		"in_reply_to_screen_name": "NtlMuseumsScot",
+		"user": {
+			"id": 95401304,
+			"id_str": "95401304",
+			"name": "National Museums Scotland",
+			"screen_name": "NtlMuseumsScot",
+			"location": "Edinburgh, Scotland",
+			"description": "Stay at home and explore the collections of National Museums Scotland: https://t.co/9waCHWjvY9",
+			"url": "http://t.co/7QzNlaaAUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7QzNlaaAUa",
+							"expanded_url": "http://www.nms.ac.uk",
+							"display_url": "nms.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9waCHWjvY9",
+							"expanded_url": "http://nms.ac.uk/explore-our-collections",
+							"display_url": "nms.ac.uk/explore-our-co…",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74828,
+			"friends_count": 4629,
+			"listed_count": 1386,
+			"created_at": "Tue Dec 08 11:23:52 +0000 2009",
+			"favourites_count": 25477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057566439077568512/LX9nCQs0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057566439077568512/LX9nCQs0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95401304/1511775408",
+			"profile_link_color": "0D6DB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0ECF5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read this latest blog post from our Principal Conservator on crafting mannequins to represent different kinds of diversity - including making a full body cast of @Thesineadburke's body – so we could display her clothes on a mannequin made for her.  \n\nhttps://t.co/CyWvwZqylW (2/2) https://t.co/Kpg4UFYnNf"
+	},
+	{
 		"created_at": "Mon Jun 22 06:24:17 +0000 2020",
 		"id": 1274951323818098700,
 		"id_str": "1274951323818098689",
