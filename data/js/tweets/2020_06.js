@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 21:12:21 +0000 2020",
+		"id": 1275398517482233900,
+		"id_str": "1275537198230548480",
+		"full_text": "Does your local history collection reflect the diversity of your community? Discover how the library at @UMassBoston collects photos, stories, and videos to better represent all Massachusetts residents. Learn more at https://t.co/xrOfmsJmhV #OCLCCONTENTdm https://t.co/f50HUkhPHl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OCLCCONTENTdm",
+					"indices": [
+						241,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UMassBoston",
+					"name": "UMass Boston",
+					"id": 17194573,
+					"id_str": "17194573",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xrOfmsJmhV",
+					"expanded_url": "http://oc.lc/umass-boston-feature",
+					"display_url": "oc.lc/umass-boston-f…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1275398508581990400,
+					"id_str": "1275398508581990402",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EbMgL6sXsAIXdr9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbMgL6sXsAIXdr9.jpg",
+					"url": "https://t.co/f50HUkhPHl",
+					"display_url": "pic.twitter.com/f50HUkhPHl",
+					"expanded_url": "https://twitter.com/OCLC/status/1275398517482233856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275398508581990400,
+					"id_str": "1275398508581990402",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EbMgL6sXsAIXdr9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbMgL6sXsAIXdr9.jpg",
+					"url": "https://t.co/f50HUkhPHl",
+					"display_url": "pic.twitter.com/f50HUkhPHl",
+					"expanded_url": "https://twitter.com/OCLC/status/1275398517482233856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29516133,
+			"id_str": "29516133",
+			"name": "OCLC",
+			"screen_name": "OCLC",
+			"location": "Worldwide",
+			"description": "A global library cooperative providing shared services, research and community programs to thousands of libraries. Together we make breakthroughs possible.",
+			"url": "https://t.co/FjBv6oXtJq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FjBv6oXtJq",
+							"expanded_url": "http://oc.lc/links",
+							"display_url": "oc.lc/links",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29632,
+			"friends_count": 1063,
+			"listed_count": 1385,
+			"created_at": "Tue Apr 07 19:04:34 +0000 2009",
+			"favourites_count": 2340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E0E1DD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/613076298517254145/Z8nFQIVh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/613076298517254145/Z8nFQIVh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29516133/1513799573",
+			"profile_link_color": "0083BE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F1ED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Does your local history collection reflect the diversity of your community? Discover how the library at @UMassBoston collects photos, stories, and videos to better represent all Massachusetts residents. Learn more at https://t.co/xrOfmsJmhV #OCLCCONTENTdm https://t.co/f50HUkhPHl"
+	},
+	{
 		"created_at": "Tue Jun 23 05:59:00 +0000 2020",
 		"id": 1275307347867390000,
 		"id_str": "1275307347867389954",
