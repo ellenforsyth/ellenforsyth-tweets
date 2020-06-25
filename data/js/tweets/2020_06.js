@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 24 21:35:23 +0000 2020",
+		"id": 1275718985926008800,
+		"id_str": "1275905383261802497",
+		"full_text": "'Working from Home': a new blog post drawing on recordings from the National Life Stories Project, An Oral History of British Science: https://t.co/xAj6yJLtlM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xAj6yJLtlM",
+					"expanded_url": "https://blogs.bl.uk/sound-and-vision/2020/06/working-from-home.html",
+					"display_url": "blogs.bl.uk/sound-and-visi…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22028935,
+			"id_str": "22028935",
+			"name": "Sound Archive",
+			"screen_name": "soundarchive",
+			"location": "London, UK",
+			"description": "Sound Archive @BritishLibrary: 7 million recordings of music, voices, environments. Tweets by Steve Cleary. Blog: https://t.co/TuSRYUV7Ns",
+			"url": "http://t.co/QQ7BIbQ40P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/QQ7BIbQ40P",
+							"expanded_url": "http://www.bl.uk/soundarchive",
+							"display_url": "bl.uk/soundarchive",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TuSRYUV7Ns",
+							"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision",
+							"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18646,
+			"friends_count": 1251,
+			"listed_count": 815,
+			"created_at": "Thu Feb 26 16:36:05 +0000 2009",
+			"favourites_count": 521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22028935/1535972358",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Working from Home': a new blog post drawing on recordings from the National Life Stories Project, An Oral History of British Science: https://t.co/xAj6yJLtlM"
+	},
+	{
 		"created_at": "Tue Jun 23 21:12:21 +0000 2020",
 		"id": 1275398517482233900,
 		"id_str": "1275537198230548480",
