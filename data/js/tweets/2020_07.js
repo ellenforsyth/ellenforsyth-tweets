@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 03:25:12 +0000 2020",
+		"id": 1280914553455480800,
+		"id_str": "1281066848579022848",
+		"full_text": "Horror is seeing an influx of new authors, new-to-the-genre authors, and underrepresented voices by @RAforAll https://t.co/JZDScrVnkG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAforAll",
+					"name": "Becky Spratford",
+					"id": 2474412986,
+					"id_str": "2474412986",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JZDScrVnkG",
+					"expanded_url": "https://www.libraryjournal.com/?detailStory=rise-of-the-monsters-horror-genre-preview-2020",
+					"display_url": "libraryjournal.com/?detailStory=r…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15169290,
+			"id_str": "15169290",
+			"name": "Library Journal",
+			"screen_name": "LibraryJournal",
+			"location": "New York, NY",
+			"description": "Library views, news, and book reviews from LJ staffers",
+			"url": "http://t.co/WSOb61lYld",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WSOb61lYld",
+							"expanded_url": "http://www.libraryjournal.com",
+							"display_url": "libraryjournal.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 229077,
+			"friends_count": 397,
+			"listed_count": 5854,
+			"created_at": "Thu Jun 19 13:51:48 +0000 2008",
+			"favourites_count": 3149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 42633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5E9F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15169290/1539277524",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "6C6C6C",
+			"profile_sidebar_fill_color": "CBCDC5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Horror is seeing an influx of new authors, new-to-the-genre authors, and underrepresented voices by @RAforAll https://t.co/JZDScrVnkG"
+	},
+	{
+		"created_at": "Wed Jul 08 21:24:08 +0000 2020",
+		"id": 1280975981994377200,
+		"id_str": "1280975981994377216",
+		"full_text": "Our field cameras melted in the bushfires. When we opened them, the results were startling https://t.co/T5BjiidiKE via @ConversationEDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						119,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T5BjiidiKE",
+					"expanded_url": "https://theconversation.com/our-field-cameras-melted-in-the-bushfires-when-we-opened-them-the-results-were-startling-139922?utm_source=twitter&utm_medium=bylinetwitterbutton",
+					"display_url": "theconversation.com/our-field-came…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2525,
+			"friends_count": 865,
+			"listed_count": 230,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our field cameras melted in the bushfires. When we opened them, the results were startling https://t.co/T5BjiidiKE via @ConversationEDU"
+	},
+	{
+		"created_at": "Wed Jul 08 21:05:04 +0000 2020",
+		"id": 1280921412056875000,
+		"id_str": "1280971183937085440",
+		"full_text": "NEW BLOG SEASON: Anti-Racism and Excellence in Our Collections and Beyond\n\nhttps://t.co/QwA0iEakOe https://t.co/Oi41vIVGlq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QwA0iEakOe",
+					"expanded_url": "https://bit.ly/2Dos1Ph",
+					"display_url": "bit.ly/2Dos1Ph",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1280921027233616000,
+					"id_str": "1280921027233615878",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Eca-4z2WkAYapCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eca-4z2WkAYapCp.jpg",
+					"url": "https://t.co/Oi41vIVGlq",
+					"display_url": "pic.twitter.com/Oi41vIVGlq",
+					"expanded_url": "https://twitter.com/BLEnglish_Drama/status/1280921412056875008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 624,
+							"h": 351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280921027233616000,
+					"id_str": "1280921027233615878",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Eca-4z2WkAYapCp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eca-4z2WkAYapCp.jpg",
+					"url": "https://t.co/Oi41vIVGlq",
+					"display_url": "pic.twitter.com/Oi41vIVGlq",
+					"expanded_url": "https://twitter.com/BLEnglish_Drama/status/1280921412056875008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 624,
+							"h": 351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 624,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3130729767,
+			"id_str": "3130729767",
+			"name": "BL English and Drama",
+			"screen_name": "BLEnglish_Drama",
+			"location": "London, England",
+			"description": "From Shakespeare's First Folio to Wendy Cope's emails, the literature and drama collections at the British Library are unparalleled.",
+			"url": "http://t.co/cA27E2XbDR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/cA27E2XbDR",
+							"expanded_url": "http://www.bl.uk",
+							"display_url": "bl.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 981,
+			"friends_count": 488,
+			"listed_count": 29,
+			"created_at": "Tue Mar 31 15:32:05 +0000 2015",
+			"favourites_count": 304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/590893705424416769/80qVr09p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/590893705424416769/80qVr09p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3130729767/1429714637",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW BLOG SEASON: Anti-Racism and Excellence in Our Collections and Beyond\n\nhttps://t.co/QwA0iEakOe https://t.co/Oi41vIVGlq"
+	},
+	{
 		"created_at": "Wed Jul 08 04:35:39 +0000 2020",
 		"id": 1280722190460227600,
 		"id_str": "1280722190460227584",
