@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 23:30:59 +0000 2020",
+		"id": 1281732680036479000,
+		"id_str": "1281732680036478976",
+		"full_text": "Giant quilt captures snapshot of time during Queensland's coronavirus lockdown https://t.co/THgRaKoH3d via @abcnews this is wonderful, and great it is going to be at @slqld  - also check out https://t.co/cMUdHxmZJ5 for #covid19quilt for another quilting project",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "covid19quilt",
+					"indices": [
+						219,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"screen_name": "slqld",
+					"name": "State Library of Qld",
+					"id": 22097835,
+					"id_str": "22097835",
+					"indices": [
+						166,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/THgRaKoH3d",
+					"expanded_url": "https://www.abc.net.au/news/2020-07-10/quarantine-quilt-records-coronavirus-lockdown-in-fabric/12437766",
+					"display_url": "abc.net.au/news/2020-07-1…",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/cMUdHxmZJ5",
+					"expanded_url": "https://www.instagram.com/covid19quilt/",
+					"display_url": "instagram.com/covid19quilt/",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2526,
+			"friends_count": 864,
+			"listed_count": 230,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Giant quilt captures snapshot of time during Queensland's coronavirus lockdown https://t.co/THgRaKoH3d via @abcnews this is wonderful, and great it is going to be at @slqld  - also check out https://t.co/cMUdHxmZJ5 for #covid19quilt for another quilting project"
+	},
+	{
+		"created_at": "Fri Jul 10 21:58:19 +0000 2020",
+		"id": 1281666249206886400,
+		"id_str": "1281709362851934208",
+		"full_text": "Inside Melbourne's locked down towers, I found something completely different to what I expected https://t.co/yPVllKsK4y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yPVllKsK4y",
+					"expanded_url": "https://www.abc.net.au/news/2020-07-11/testing-residents-in-melbournes-public-housing-nurse/12443060",
+					"display_url": "abc.net.au/news/2020-07-1…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1687800,
+			"friends_count": 1205,
+			"listed_count": 12185,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 297672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1591673302",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 243,
+		"favorite_count": 717,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inside Melbourne's locked down towers, I found something completely different to what I expected https://t.co/yPVllKsK4y"
+	},
+	{
+		"created_at": "Fri Jul 10 19:58:47 +0000 2020",
+		"id": 1281530912807751700,
+		"id_str": "1281679278157910016",
+		"full_text": "Making the invisible visible: how we depict COVID-19\n#COVID19 #visualisation https://t.co/EZLpdOXDa3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"text": "visualisation",
+					"indices": [
+						62,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EZLpdOXDa3",
+					"expanded_url": "https://wp.me/p4m9em-a8I",
+					"display_url": "wp.me/p4m9em-a8I",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 273935884,
+			"id_str": "273935884",
+			"name": "LSE Impact Blog",
+			"screen_name": "LSEImpactBlog",
+			"location": "London",
+			"description": "A platform for those interested in increasing the impact of academic research. Managing Editor @MichaelTaster",
+			"url": "http://t.co/j2QGFYPVRs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/j2QGFYPVRs",
+							"expanded_url": "http://blogs.lse.ac.uk/impactofsocialsciences/",
+							"display_url": "blogs.lse.ac.uk/impactofsocial…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55254,
+			"friends_count": 4862,
+			"listed_count": 1693,
+			"created_at": "Tue Mar 29 12:17:04 +0000 2011",
+			"favourites_count": 4833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278251075456380929/FedAKI5l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278251075456380929/FedAKI5l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/273935884/1465570717",
+			"profile_link_color": "9C6A5E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Making the invisible visible: how we depict COVID-19\n#COVID19 #visualisation https://t.co/EZLpdOXDa3"
+	},
+	{
+		"created_at": "Fri Jul 10 19:57:00 +0000 2020",
+		"id": 1281678833444286500,
+		"id_str": "1281678833444286464",
+		"full_text": "Go nuts! 17 ways to cook using peanut butter – from blondies to quesadillas https://t.co/H3FWdzZPIt  via @guardian  for some options",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H3FWdzZPIt",
+					"expanded_url": "https://www.theguardian.com/lifeandstyle/2020/jul/08/go-nuts-17-ways-to-cook-using-peanut-butter-from-blondies-to-quesadillas?CMP=share_btn_tw",
+					"display_url": "theguardian.com/lifeandstyle/2…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2526,
+			"friends_count": 864,
+			"listed_count": 230,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Go nuts! 17 ways to cook using peanut butter – from blondies to quesadillas https://t.co/H3FWdzZPIt  via @guardian  for some options"
+	},
+	{
+		"created_at": "Fri Jul 10 19:39:11 +0000 2020",
+		"id": 1281674347552235500,
+		"id_str": "1281674347552235520",
+		"full_text": "The Upside - Journalism that seeks out answers, solutions, movements and initiatives to address the biggest problems besetting the world https://t.co/NxHZOwQf09 via @guardian this always has some interesting stories which you otherwise may miss",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						165,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NxHZOwQf09",
+					"expanded_url": "https://www.theguardian.com/world/series/the-upside",
+					"display_url": "theguardian.com/world/series/t…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2526,
+			"friends_count": 864,
+			"listed_count": 230,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Upside - Journalism that seeks out answers, solutions, movements and initiatives to address the biggest problems besetting the world https://t.co/NxHZOwQf09 via @guardian this always has some interesting stories which you otherwise may miss"
+	},
+	{
 		"created_at": "Thu Jul 09 10:33:56 +0000 2020",
 		"id": 1281174743735873500,
 		"id_str": "1281174743735873536",
