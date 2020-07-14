@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 02:45:44 +0000 2020",
+		"id": 1282808208118046700,
+		"id_str": "1282868855463792642",
+		"full_text": "SES canine search team finds success as kelpie-training recruits named cadets of the year https://t.co/Yt5CQmRPsD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yt5CQmRPsD",
+					"expanded_url": "https://www.abc.net.au/news/2020-07-14/cadets-and-canines-find-success-in-ses-search-dog-team/12448810",
+					"display_url": "abc.net.au/news/2020-07-1…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16213139,
+			"id_str": "16213139",
+			"name": "ABC Adelaide",
+			"screen_name": "abcadelaide",
+			"location": "Adelaide, South Australia",
+			"description": "ABC Adelaide's Twitter stream. Subscribe to ABC Adelaide e-news: https://t.co/GEt4ufmuOj Download the ABC Listen App: https://t.co/5O1kjnBols",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GEt4ufmuOj",
+							"expanded_url": "http://bit.ly/ABCenews",
+							"display_url": "bit.ly/ABCenews",
+							"indices": [
+								65,
+								88
+							]
+						},
+						{
+							"url": "https://t.co/5O1kjnBols",
+							"expanded_url": "http://bit.ly/ABClisten",
+							"display_url": "bit.ly/ABClisten",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 79725,
+			"friends_count": 2007,
+			"listed_count": 587,
+			"created_at": "Tue Sep 09 23:21:07 +0000 2008",
+			"favourites_count": 2453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C7C7C7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875593757193682949/2wgkqcMp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875593757193682949/2wgkqcMp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16213139/1592454169",
+			"profile_link_color": "F6452B",
+			"profile_sidebar_border_color": "BDBDBD",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SES canine search team finds success as kelpie-training recruits named cadets of the year https://t.co/Yt5CQmRPsD"
+	},
+	{
+		"created_at": "Tue Jul 14 00:43:14 +0000 2020",
+		"id": 1282212681617834000,
+		"id_str": "1282838027245506560",
+		"full_text": "A terrific story ... How this stunning flower garden was transformed to fight COVID-19 and help Melbournians https://t.co/HRA5uh0r2n via @Domaincomau",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Domaincomau",
+					"name": "Domain",
+					"id": 19286024,
+					"id_str": "19286024",
+					"indices": [
+						137,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HRA5uh0r2n",
+					"expanded_url": "https://www.domain.com.au/news/at-werribee-mansion-flowerbeds-are-transformed-to-feed-families-in-need-968280/",
+					"display_url": "domain.com.au/news/at-werrib…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52325959,
+			"id_str": "52325959",
+			"name": "Dr Rachel Franks",
+			"screen_name": "cfwriter",
+			"location": "Sydney : Gadigal Land, NSW",
+			"description": "crime fiction / true crime / history / information science / popular culture / cats + kittens / opinions own, subject to change / noisy / she, her",
+			"url": "https://t.co/VD2ArN9iyY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VD2ArN9iyY",
+							"expanded_url": "https://rachelfranks.academia.edu",
+							"display_url": "rachelfranks.academia.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1456,
+			"friends_count": 1214,
+			"listed_count": 61,
+			"created_at": "Tue Jun 30 06:33:54 +0000 2009",
+			"favourites_count": 12331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/291719587/cfwriter_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/291719587/cfwriter_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52325959/1356151203",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A terrific story ... How this stunning flower garden was transformed to fight COVID-19 and help Melbournians https://t.co/HRA5uh0r2n via @Domaincomau"
+	},
+	{
+		"created_at": "Mon Jul 13 21:05:26 +0000 2020",
+		"id": 1282605172909375500,
+		"id_str": "1282783217163005952",
+		"full_text": "'Women were allowed to wear trousers to work providing they asked everybody else who worked in their office if they minded or not.' \n\nOur recording of the week from the @soundarchive provides a window into women's workwear in the 1960s.\n\nListen now: https://t.co/8ZLIrBz0He",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soundarchive",
+					"name": "Sound Archive",
+					"id": 22028935,
+					"id_str": "22028935",
+					"indices": [
+						169,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8ZLIrBz0He",
+					"expanded_url": "http://blogs.bl.uk/sound-and-vision/2020/07/recording-of-the-week-womens-workwear-in-the-1960s.html",
+					"display_url": "blogs.bl.uk/sound-and-visi…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2828116855,
+			"id_str": "2828116855",
+			"name": "BL Sound Heritage",
+			"screen_name": "BLSoundHeritage",
+			"location": "British Library, London",
+			"description": "Sharing sounds and keeping them safe for generations to come #SaveOurSounds Tweets by the Unlocking Our Sound Heritage team",
+			"url": "http://t.co/iYnzfTEp8J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iYnzfTEp8J",
+							"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision/",
+							"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3605,
+			"friends_count": 1214,
+			"listed_count": 78,
+			"created_at": "Tue Sep 23 13:44:14 +0000 2014",
+			"favourites_count": 4223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/514433033454096385/nKb7eCRA_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/514433033454096385/nKb7eCRA_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828116855/1556706938",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Women were allowed to wear trousers to work providing they asked everybody else who worked in their office if they minded or not.' \n\nOur recording of the week from the @soundarchive provides a window into women's workwear in the 1960s.\n\nListen now: https://t.co/8ZLIrBz0He"
+	},
+	{
 		"created_at": "Sun Jul 12 22:34:08 +0000 2020",
 		"id": 1282443150397632500,
 		"id_str": "1282443150397632512",
