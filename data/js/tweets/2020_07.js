@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 20:57:48 +0000 2020",
+		"id": 1283124561022787600,
+		"id_str": "1283143683836047360",
+		"full_text": "Take a listen to Dr. Louis Jones, @ReutherLibrary field archivist extraordinaire, on why we do the work we do. I have the pleasure of working with both him in person, and with his legacy as the original SEIU Archivist. https://t.co/r8bVf7BAUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReutherLibrary",
+					"name": "Reuther Library WSU",
+					"id": 1688802246,
+					"id_str": "1688802246",
+					"indices": [
+						34,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r8bVf7BAUN",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1283078490586140678",
+					"display_url": "twitter.com/kitchensisters…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1139774196,
+			"id_str": "1139774196",
+			"name": "SEIU Archivist",
+			"screen_name": "SEIUArchivist",
+			"location": "Detroit, Michigan",
+			"description": "Twitter feed for the Service Employees International Union Archivist at the Walter P. Reuther Library of Wayne State University, the official archives of SEIU.",
+			"url": "https://t.co/RpjIZDHz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RpjIZDHz",
+							"expanded_url": "https://www.reuther.wayne.edu/taxonomy/term/14",
+							"display_url": "reuther.wayne.edu/taxonomy/term/…",
+							"indices": [
+								0,
+								21
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 387,
+			"listed_count": 20,
+			"created_at": "Fri Feb 01 14:05:18 +0000 2013",
+			"favourites_count": 3770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "632C82",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/570318590809612288/0sWfdL84_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/570318590809612288/0sWfdL84_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139774196/1418652952",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283078490586140700,
+		"quoted_status_id_str": "1283078490586140678",
+		"quoted_status_permalink": {
+			"url": "https://t.co/r8bVf7BAUN",
+			"expanded": "https://twitter.com/kitchensisters/status/1283078490586140678",
+			"display": "twitter.com/kitchensisters…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 14 16:38:45 +0000 2020",
+			"id": 1283078490586140700,
+			"id_str": "1283078490586140678",
+			"full_text": "Louis Jones is a Keeper, a Field Archivist at @ReutherLibrary @waynestate in Detroit, home to many union &amp; labor collections. He takes us through these  archives w/ stories of @UAW, Cesar Chavez, @UFWupdates &amp; more. \nListen to The Kitchen Sisters Present… https://t.co/WweKGuvgAy https://t.co/pqAPI7k9Iu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				287
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ReutherLibrary",
+						"name": "Reuther Library WSU",
+						"id": 1688802246,
+						"id_str": "1688802246",
+						"indices": [
+							46,
+							61
+						]
+					},
+					{
+						"screen_name": "waynestate",
+						"name": "Wayne State University",
+						"id": 8994242,
+						"id_str": "8994242",
+						"indices": [
+							62,
+							73
+						]
+					},
+					{
+						"screen_name": "UAW",
+						"name": "UAW",
+						"id": 15854702,
+						"id_str": "15854702",
+						"indices": [
+							180,
+							184
+						]
+					},
+					{
+						"screen_name": "UFWupdates",
+						"name": "United Farm Workers",
+						"id": 16316895,
+						"id_str": "16316895",
+						"indices": [
+							200,
+							211
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WweKGuvgAy",
+						"expanded_url": "https://podcasts.apple.com/us/podcast/145-louis-jones-field-archivist-detroit/id814067846?i=1000484889683",
+						"display_url": "podcasts.apple.com/us/podcast/145…",
+						"indices": [
+							264,
+							287
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1283077409139388400,
+						"id_str": "1283077409139388418",
+						"indices": [
+							288,
+							311
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec5oGwcU8AIr__J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec5oGwcU8AIr__J.jpg",
+						"url": "https://t.co/pqAPI7k9Iu",
+						"display_url": "pic.twitter.com/pqAPI7k9Iu",
+						"expanded_url": "https://twitter.com/kitchensisters/status/1283078490586140678/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 740,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 740,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 629,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1283077409139388400,
+						"id_str": "1283077409139388418",
+						"indices": [
+							288,
+							311
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec5oGwcU8AIr__J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec5oGwcU8AIr__J.jpg",
+						"url": "https://t.co/pqAPI7k9Iu",
+						"display_url": "pic.twitter.com/pqAPI7k9Iu",
+						"expanded_url": "https://twitter.com/kitchensisters/status/1283078490586140678/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 740,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 740,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 629,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1283077409135157200,
+						"id_str": "1283077409135157248",
+						"indices": [
+							288,
+							311
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec5oGwbUYAAzSMX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec5oGwbUYAAzSMX.jpg",
+						"url": "https://t.co/pqAPI7k9Iu",
+						"display_url": "pic.twitter.com/pqAPI7k9Iu",
+						"expanded_url": "https://twitter.com/kitchensisters/status/1283078490586140678/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 432,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1301,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 763,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1283077409130963000,
+						"id_str": "1283077409130962949",
+						"indices": [
+							288,
+							311
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec5oGwaUYAUzqsm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec5oGwaUYAUzqsm.jpg",
+						"url": "https://t.co/pqAPI7k9Iu",
+						"display_url": "pic.twitter.com/pqAPI7k9Iu",
+						"expanded_url": "https://twitter.com/kitchensisters/status/1283078490586140678/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 419,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 692,
+								"h": 426,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 692,
+								"h": 426,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16459243,
+				"id_str": "16459243",
+				"name": "The Kitchen Sisters",
+				"screen_name": "kitchensisters",
+				"location": "San Francisco",
+				"description": "The Kitchen Sisters (Davia Nelson & Nikki Silva), producers of NPR's The Keepers, Hidden Kitchens, Hidden World of Girls & The Kitchen Sisters Present podcast",
+				"url": "http://t.co/AVmB8ffkDA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AVmB8ffkDA",
+								"expanded_url": "http://www.kitchensisters.org",
+								"display_url": "kitchensisters.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16814,
+				"friends_count": 3845,
+				"listed_count": 623,
+				"created_at": "Thu Sep 25 22:38:03 +0000 2008",
+				"favourites_count": 8131,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10660,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16459243/1546894354",
+				"profile_link_color": "1EBBEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Take a listen to Dr. Louis Jones, @ReutherLibrary field archivist extraordinaire, on why we do the work we do. I have the pleasure of working with both him in person, and with his legacy as the original SEIU Archivist. https://t.co/r8bVf7BAUN"
+	},
+	{
 		"created_at": "Tue Jul 14 02:45:44 +0000 2020",
 		"id": 1282808208118046700,
 		"id_str": "1282868855463792642",
