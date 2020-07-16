@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 20:27:38 +0000 2020",
+		"id": 1283426787926605800,
+		"id_str": "1283498481139646464",
+		"full_text": "Today, on Rembrandt’s 414th birthday, we did something special… we brought a life-sized copy of the Night Watch to nursing home Dr. Sarphatihuis in Amsterdam, together with Philips and the Elisabeth Art Foundation.\n\n🎥 https://t.co/jtSZNfgfiC\n\n#NightWatchOnTour https://t.co/wbzydzSH8Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NightWatchOnTour",
+					"indices": [
+						243,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jtSZNfgfiC",
+					"expanded_url": "http://youtu.be/aI3pjNcIe1s",
+					"display_url": "youtu.be/aI3pjNcIe1s",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1283426782520184800,
+					"id_str": "1283426782520184832",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec-l29tWkAAN2kS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec-l29tWkAAN2kS.jpg",
+					"url": "https://t.co/wbzydzSH8Q",
+					"display_url": "pic.twitter.com/wbzydzSH8Q",
+					"expanded_url": "https://twitter.com/rijksmuseum/status/1283426787926605824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283426782520184800,
+					"id_str": "1283426782520184832",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec-l29tWkAAN2kS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec-l29tWkAAN2kS.jpg",
+					"url": "https://t.co/wbzydzSH8Q",
+					"display_url": "pic.twitter.com/wbzydzSH8Q",
+					"expanded_url": "https://twitter.com/rijksmuseum/status/1283426787926605824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109515460,
+			"id_str": "109515460",
+			"name": "Rijksmuseum",
+			"screen_name": "rijksmuseum",
+			"location": "Amsterdam, the Netherlands",
+			"description": "Follow us for exclusive peeks behind the scenes, world-class art and remarkable history. Stay up-to-date on Operation Night Watch #Rembrandt #VanGogh #Vermeer",
+			"url": "https://t.co/F3tq4H19yP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F3tq4H19yP",
+							"expanded_url": "http://www.rijksmuseum.nl",
+							"display_url": "rijksmuseum.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 245353,
+			"friends_count": 1210,
+			"listed_count": 2297,
+			"created_at": "Fri Jan 29 09:13:53 +0000 2010",
+			"favourites_count": 7136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E0E5E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158273949651939328/uCP16tQr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158273949651939328/uCP16tQr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109515460/1550679525",
+			"profile_link_color": "1A626F",
+			"profile_sidebar_border_color": "E4ECEC",
+			"profile_sidebar_fill_color": "E4ECEC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today, on Rembrandt’s 414th birthday, we did something special… we brought a life-sized copy of the Night Watch to nursing home Dr. Sarphatihuis in Amsterdam, together with Philips and the Elisabeth Art Foundation.\n\n🎥 https://t.co/jtSZNfgfiC\n\n#NightWatchOnTour https://t.co/wbzydzSH8Q"
+	},
+	{
 		"created_at": "Tue Jul 14 20:57:48 +0000 2020",
 		"id": 1283124561022787600,
 		"id_str": "1283143683836047360",
