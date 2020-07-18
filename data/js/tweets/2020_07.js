@@ -1,6 +1,741 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 18 00:21:18 +0000 2020",
+		"id": 1284099782466822100,
+		"id_str": "1284282059897225216",
+		"full_text": "Rembrandt was a master in painting expressions, which are essential in sign language. We asked our tour guide Maaike to give us a special tour in International Sign, in this new episode of #RijksmuseumUnlocked 🔓. \n\n🎥 https://t.co/NnClhhBxpn https://t.co/kZdh6Dbcn9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RijksmuseumUnlocked",
+					"indices": [
+						189,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NnClhhBxpn",
+					"expanded_url": "https://youtu.be/8PzyWpkYKok",
+					"display_url": "youtu.be/8PzyWpkYKok",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1284059738825732000,
+					"id_str": "1284059738825732096",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/EdHlh3sWsAA7_Vf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdHlh3sWsAA7_Vf.jpg",
+					"url": "https://t.co/kZdh6Dbcn9",
+					"display_url": "pic.twitter.com/kZdh6Dbcn9",
+					"expanded_url": "https://twitter.com/rijksmuseum/status/1284099782466822148/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284059738825732000,
+					"id_str": "1284059738825732096",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/EdHlh3sWsAA7_Vf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdHlh3sWsAA7_Vf.jpg",
+					"url": "https://t.co/kZdh6Dbcn9",
+					"display_url": "pic.twitter.com/kZdh6Dbcn9",
+					"expanded_url": "https://twitter.com/rijksmuseum/status/1284099782466822148/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109515460,
+			"id_str": "109515460",
+			"name": "Rijksmuseum",
+			"screen_name": "rijksmuseum",
+			"location": "Amsterdam, the Netherlands",
+			"description": "Follow us for exclusive peeks behind the scenes, world-class art and remarkable history. Stay up-to-date on Operation Night Watch #Rembrandt #VanGogh #Vermeer",
+			"url": "https://t.co/F3tq4H19yP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F3tq4H19yP",
+							"expanded_url": "http://www.rijksmuseum.nl",
+							"display_url": "rijksmuseum.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 245363,
+			"friends_count": 1209,
+			"listed_count": 2293,
+			"created_at": "Fri Jan 29 09:13:53 +0000 2010",
+			"favourites_count": 7140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E0E5E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158273949651939328/uCP16tQr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158273949651939328/uCP16tQr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109515460/1550679525",
+			"profile_link_color": "1A626F",
+			"profile_sidebar_border_color": "E4ECEC",
+			"profile_sidebar_fill_color": "E4ECEC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rembrandt was a master in painting expressions, which are essential in sign language. We asked our tour guide Maaike to give us a special tour in International Sign, in this new episode of #RijksmuseumUnlocked 🔓. \n\n🎥 https://t.co/NnClhhBxpn https://t.co/kZdh6Dbcn9"
+	},
+	{
+		"created_at": "Fri Jul 17 23:10:37 +0000 2020",
+		"id": 1284264271400992800,
+		"id_str": "1284264271400992768",
+		"full_text": "I like the idea of #sonicFriday https://t.co/LsF38oX35M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sonicFriday",
+					"indices": [
+						19,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LsF38oX35M",
+					"expanded_url": "https://twitter.com/MediaMuseum/status/1284053430437384193",
+					"display_url": "twitter.com/MediaMuseum/st…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2518,
+			"friends_count": 865,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1284053430437384200,
+		"quoted_status_id_str": "1284053430437384193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LsF38oX35M",
+			"expanded": "https://twitter.com/MediaMuseum/status/1284053430437384193",
+			"display": "twitter.com/MediaMuseum/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 17 09:12:49 +0000 2020",
+			"id": 1284053430437384200,
+			"id_str": "1284053430437384193",
+			"full_text": "Tomorrow is #WorldListeningDay, so this week's #SonicFriday theme is 'The Sounds of Quarantine'. \n\nLet us know what you’ve been listening to in lockdown (music, podcast, audiobook, soundscapes) and where you are in the world. We'll use it to create a digital map of your sounds. https://t.co/H6btmfFKDo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WorldListeningDay",
+						"indices": [
+							12,
+							30
+						]
+					},
+					{
+						"text": "SonicFriday",
+						"indices": [
+							47,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1284052847454290000,
+						"id_str": "1284052847454289920",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EdHfQvVXgAA_bcG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdHfQvVXgAA_bcG.jpg",
+						"url": "https://t.co/H6btmfFKDo",
+						"display_url": "pic.twitter.com/H6btmfFKDo",
+						"expanded_url": "https://twitter.com/MediaMuseum/status/1284053430437384193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1195,
+								"h": 973,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 554,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1195,
+								"h": 973,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1284052847454290000,
+						"id_str": "1284052847454289920",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EdHfQvVXgAA_bcG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdHfQvVXgAA_bcG.jpg",
+						"url": "https://t.co/H6btmfFKDo",
+						"display_url": "pic.twitter.com/H6btmfFKDo",
+						"expanded_url": "https://twitter.com/MediaMuseum/status/1284053430437384193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1195,
+								"h": 973,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 554,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1195,
+								"h": 973,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15994087,
+				"id_str": "15994087",
+				"name": "National Science and Media Museum",
+				"screen_name": "MediaMuseum",
+				"location": "Bradford, West Yorkshire, UK",
+				"description": "The National Science and Media Museum explores the science and culture of image and sound technologies. We’re also home to the three-screen Pictureville Cinema",
+				"url": "https://t.co/KbfV6B0Kaj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KbfV6B0Kaj",
+								"expanded_url": "http://www.scienceandmediamuseum.org.uk",
+								"display_url": "scienceandmediamuseum.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59260,
+				"friends_count": 3281,
+				"listed_count": 1445,
+				"created_at": "Tue Aug 26 08:42:55 +0000 2008",
+				"favourites_count": 4029,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21016,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "51ABD2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1274990082777329664/hxi49KVa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274990082777329664/hxi49KVa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15994087/1584522733",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I like the idea of #sonicFriday https://t.co/LsF38oX35M"
+	},
+	{
+		"created_at": "Fri Jul 17 22:44:01 +0000 2020",
+		"id": 1284257575626662000,
+		"id_str": "1284257575626661888",
+		"full_text": "Double trouble: this plucky little fish survived Black Summer, but there's worse to come https://t.co/TFhHCa9WU5 via @ConversationEDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						117,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TFhHCa9WU5",
+					"expanded_url": "https://theconversation.com/double-trouble-this-plucky-little-fish-survived-black-summer-but-theres-worse-to-come-139921?utm_source=twitter&utm_medium=bylinetwitterbutton",
+					"display_url": "theconversation.com/double-trouble…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2518,
+			"friends_count": 865,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Double trouble: this plucky little fish survived Black Summer, but there's worse to come https://t.co/TFhHCa9WU5 via @ConversationEDU"
+	},
+	{
+		"created_at": "Fri Jul 17 21:01:16 +0000 2020",
+		"id": 1284231717876686800,
+		"id_str": "1284231717876686848",
+		"full_text": "Atelier Oslo and Lundhagem unveil Oslo's \"huge but intimate\" central library https://t.co/X6euqLGEjA via @dezeen  looks interesting - hopefully the acoustics are also great",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dezeen",
+					"name": "Dezeen",
+					"id": 26012202,
+					"id_str": "26012202",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X6euqLGEjA",
+					"expanded_url": "https://www.dezeen.com/2020/07/02/deichman-bjorvika-library-atelier-oslo-lundhagem/",
+					"display_url": "dezeen.com/2020/07/02/dei…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2518,
+			"friends_count": 865,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Atelier Oslo and Lundhagem unveil Oslo's \"huge but intimate\" central library https://t.co/X6euqLGEjA via @dezeen  looks interesting - hopefully the acoustics are also great"
+	},
+	{
 		"created_at": "Thu Jul 16 11:00:56 +0000 2020",
 		"id": 1283718253043257300,
 		"id_str": "1283718253043257344",
