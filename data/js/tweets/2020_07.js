@@ -1,6 +1,1059 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 20 21:26:28 +0000 2020",
+		"id": 1285268353913954300,
+		"id_str": "1285325225496731650",
+		"full_text": "🚨Results are in from the second phase of #REALMProject! Scientists have found that four days of quarantine are needed for braille paper, glossy paper, magazine pages, children's board books &amp; archival folders. Download the full report below. #COVID19 \nhttps://t.co/UixC3wgK9N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REALMProject",
+					"indices": [
+						41,
+						54
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						246,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UixC3wgK9N",
+					"expanded_url": "https://www.webjunction.org/news/webjunction/test2-results.html",
+					"display_url": "webjunction.org/news/webjuncti…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36240331,
+			"id_str": "36240331",
+			"name": "IMLS",
+			"screen_name": "US_IMLS",
+			"location": "Washington, DC",
+			"description": "The Institute of Museum and Library Services is the primary source of federal support for US libraries and museums. Privacy policy: https://t.co/DunO0olNeO",
+			"url": "https://t.co/YflXJCYWB8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YflXJCYWB8",
+							"expanded_url": "https://www.imls.gov",
+							"display_url": "imls.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DunO0olNeO",
+							"expanded_url": "https://bit.ly/2Q7mXQE",
+							"display_url": "bit.ly/2Q7mXQE",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24995,
+			"friends_count": 266,
+			"listed_count": 1024,
+			"created_at": "Wed Apr 29 01:16:30 +0000 2009",
+			"favourites_count": 3902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C7DEE2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928634418033459205/OWhlYNfV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928634418033459205/OWhlYNfV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36240331/1552402193",
+			"profile_link_color": "003A63",
+			"profile_sidebar_border_color": "AA5D15",
+			"profile_sidebar_fill_color": "FEF6EB",
+			"profile_text_color": "46322D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨Results are in from the second phase of #REALMProject! Scientists have found that four days of quarantine are needed for braille paper, glossy paper, magazine pages, children's board books &amp; archival folders. Download the full report below. #COVID19 \nhttps://t.co/UixC3wgK9N"
+	},
+	{
+		"created_at": "Mon Jul 20 21:24:14 +0000 2020",
+		"id": 1285324661912293400,
+		"id_str": "1285324661912293377",
+		"full_text": "I like the history angle for this one for #LamingtonDay https://t.co/8b0oNziL0L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LamingtonDay",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8b0oNziL0L",
+					"expanded_url": "https://twitter.com/ProfRetail/status/1285323729493356545",
+					"display_url": "twitter.com/ProfRetail/sta…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2520,
+			"friends_count": 866,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1285323729493356500,
+		"quoted_status_id_str": "1285323729493356545",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8b0oNziL0L",
+			"expanded": "https://twitter.com/ProfRetail/status/1285323729493356545",
+			"display": "twitter.com/ProfRetail/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 20 21:20:31 +0000 2020",
+			"id": 1285323729493356500,
+			"id_str": "1285323729493356545",
+			"full_text": "What is the history of the humble #Lamington?\n\nGet down to @QUT's Old Government House from 9am today, find out and get a free Lamington. \n\nHappy #LamingtonDay!\n\nRead: https://t.co/AJNYuXAD0O \n\n@9NewsQueensland @glennorris5 @cmail_biz #battleofthelamington https://t.co/2YCgO6ExE9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				256
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Lamington",
+						"indices": [
+							34,
+							44
+						]
+					},
+					{
+						"text": "LamingtonDay",
+						"indices": [
+							146,
+							159
+						]
+					},
+					{
+						"text": "battleofthelamington",
+						"indices": [
+							235,
+							256
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "QUT",
+						"name": "QUT",
+						"id": 133562519,
+						"id_str": "133562519",
+						"indices": [
+							59,
+							63
+						]
+					},
+					{
+						"screen_name": "9NewsQueensland",
+						"name": "Nine News Queensland",
+						"id": 36255721,
+						"id_str": "36255721",
+						"indices": [
+							194,
+							210
+						]
+					},
+					{
+						"screen_name": "glennorris5",
+						"name": "Glen Norris",
+						"id": 2917086186,
+						"id_str": "2917086186",
+						"indices": [
+							211,
+							223
+						]
+					},
+					{
+						"screen_name": "cmail_biz",
+						"name": "CourierMail Business",
+						"id": 9563392,
+						"id_str": "9563392",
+						"indices": [
+							224,
+							234
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AJNYuXAD0O",
+						"expanded_url": "http://www.ogh.qut.edu.au/history/house-bites/house-bites2/battle-of-the-lamington",
+						"display_url": "ogh.qut.edu.au/history/house-…",
+						"indices": [
+							168,
+							191
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1285322668883865600,
+						"id_str": "1285322668883865600",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/media/EdZiKEyUcAA3-7Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdZiKEyUcAA3-7Q.jpg",
+						"url": "https://t.co/2YCgO6ExE9",
+						"display_url": "pic.twitter.com/2YCgO6ExE9",
+						"expanded_url": "https://twitter.com/ProfRetail/status/1285323729493356545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1285322668883865600,
+						"id_str": "1285322668883865600",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/media/EdZiKEyUcAA3-7Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdZiKEyUcAA3-7Q.jpg",
+						"url": "https://t.co/2YCgO6ExE9",
+						"display_url": "pic.twitter.com/2YCgO6ExE9",
+						"expanded_url": "https://twitter.com/ProfRetail/status/1285323729493356545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 388622530,
+				"id_str": "388622530",
+				"name": "Professor Gary Mortimer 🛒🛒🛒",
+				"screen_name": "ProfRetail",
+				"location": "QUT Brisbane",
+				"description": "QUT Professor Gary Mortimer is Australia's leading retail expert, researcher and media commentator. Linking commercial experience with academic insight. #retail",
+				"url": "https://t.co/srvLzNR7zS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/srvLzNR7zS",
+								"expanded_url": "http://staff.qut.edu.au/staff/mortimeg/",
+								"display_url": "staff.qut.edu.au/staff/mortimeg/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1925,
+				"friends_count": 864,
+				"listed_count": 90,
+				"created_at": "Tue Oct 11 02:08:42 +0000 2011",
+				"favourites_count": 12101,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11815,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1255036258725687302/PHTlyUhk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255036258725687302/PHTlyUhk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/388622530/1577408786",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I like the history angle for this one for #LamingtonDay https://t.co/8b0oNziL0L"
+	},
+	{
+		"created_at": "Mon Jul 20 21:23:27 +0000 2020",
+		"id": 1285324465753043000,
+		"id_str": "1285324465753042946",
+		"full_text": "You could also try this one https://t.co/cr0z7ai3s5 or even buy one for  #LamingtonDay (but without going out and about unless you really need to)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LamingtonDay",
+					"indices": [
+						73,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cr0z7ai3s5",
+					"expanded_url": "https://www.womensweeklyfood.com.au/recipes/lamingtons-26793",
+					"display_url": "womensweeklyfood.com.au/recipes/laming…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1285324464251523000,
+		"in_reply_to_status_id_str": "1285324464251523072",
+		"in_reply_to_user_id": 16970274,
+		"in_reply_to_user_id_str": "16970274",
+		"in_reply_to_screen_name": "ellenforsyth",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2520,
+			"friends_count": 866,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You could also try this one https://t.co/cr0z7ai3s5 or even buy one for  #LamingtonDay (but without going out and about unless you really need to)"
+	},
+	{
+		"created_at": "Mon Jul 20 21:23:27 +0000 2020",
+		"id": 1285324464251523000,
+		"id_str": "1285324464251523072",
+		"full_text": "Lamington recipe | Dan Lepard https://t.co/gxwh4hluhN via @guardian I am tweeting these as a reminder of a great Lamington recipe by @dan_lepard for #LamingtonDay (it really is a wonderful recipe)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LamingtonDay",
+					"indices": [
+						149,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"screen_name": "dan_lepard",
+					"name": "Dan Lepard",
+					"id": 128506957,
+					"id_str": "128506957",
+					"indices": [
+						133,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gxwh4hluhN",
+					"expanded_url": "https://www.theguardian.com/lifeandstyle/2013/jan/25/lamington-cake-recipe-dan-lepard?CMP=share_btn_tw",
+					"display_url": "theguardian.com/lifeandstyle/2…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2520,
+			"friends_count": 866,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lamington recipe | Dan Lepard https://t.co/gxwh4hluhN via @guardian I am tweeting these as a reminder of a great Lamington recipe by @dan_lepard for #LamingtonDay (it really is a wonderful recipe)"
+	},
+	{
+		"created_at": "Mon Jul 20 21:19:07 +0000 2020",
+		"id": 1285323374709727200,
+		"id_str": "1285323374709727232",
+		"full_text": "this is lovely listening https://t.co/cUJFv6Yvct",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cUJFv6Yvct",
+					"expanded_url": "https://twitter.com/soundarchive/status/1285138134964019201",
+					"display_url": "twitter.com/soundarchive/s…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2520,
+			"friends_count": 866,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1285138134964019200,
+		"quoted_status_id_str": "1285138134964019201",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cUJFv6Yvct",
+			"expanded": "https://twitter.com/soundarchive/status/1285138134964019201",
+			"display": "twitter.com/soundarchive/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 20 09:03:02 +0000 2020",
+			"id": 1285138134964019200,
+			"id_str": "1285138134964019201",
+			"full_text": "Recording of the week: Barnacle Geese at Mersehead Reserve https://t.co/N2jkvfFUoD https://t.co/DoLZGcYvZD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/N2jkvfFUoD",
+						"expanded_url": "https://blogs.bl.uk/sound-and-vision/2020/07/recording-of-the-week-barnacle-geese.html",
+						"display_url": "blogs.bl.uk/sound-and-visi…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1285138106824491000,
+						"id_str": "1285138106824491009",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/EdW6TJiXgAEqdUC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdW6TJiXgAEqdUC.jpg",
+						"url": "https://t.co/DoLZGcYvZD",
+						"display_url": "pic.twitter.com/DoLZGcYvZD",
+						"expanded_url": "https://twitter.com/soundarchive/status/1285138134964019201/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 580,
+								"h": 328,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 580,
+								"h": 328,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 328,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1285138106824491000,
+						"id_str": "1285138106824491009",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/EdW6TJiXgAEqdUC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EdW6TJiXgAEqdUC.jpg",
+						"url": "https://t.co/DoLZGcYvZD",
+						"display_url": "pic.twitter.com/DoLZGcYvZD",
+						"expanded_url": "https://twitter.com/soundarchive/status/1285138134964019201/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 580,
+								"h": 328,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 580,
+								"h": 328,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 328,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22028935,
+				"id_str": "22028935",
+				"name": "Sound Archive",
+				"screen_name": "soundarchive",
+				"location": "London, UK",
+				"description": "Sound Archive @BritishLibrary: 7 million recordings of music, voices, environments. Tweets by Steve Cleary. Blog: https://t.co/TuSRYUV7Ns",
+				"url": "http://t.co/QQ7BIbQ40P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QQ7BIbQ40P",
+								"expanded_url": "http://www.bl.uk/soundarchive",
+								"display_url": "bl.uk/soundarchive",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TuSRYUV7Ns",
+								"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision",
+								"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18694,
+				"friends_count": 1255,
+				"listed_count": 815,
+				"created_at": "Thu Feb 26 16:36:05 +0000 2009",
+				"favourites_count": 554,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6059,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22028935/1535972358",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is lovely listening https://t.co/cUJFv6Yvct"
+	},
+	{
 		"created_at": "Mon Jul 20 01:46:02 +0000 2020",
 		"id": 1284712186024063000,
 		"id_str": "1285028158761168896",
