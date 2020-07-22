@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 21 08:52:15 +0000 2020",
+		"id": 1285497806824681500,
+		"id_str": "1285497806824681472",
+		"full_text": "The Terrible Consequences of Australia’s Uber-Bushfires https://t.co/YsJJ2w18gj via @wired",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WIRED",
+					"name": "WIRED",
+					"id": 1344951,
+					"id_str": "1344951",
+					"indices": [
+						84,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YsJJ2w18gj",
+					"expanded_url": "https://www.wired.com/story/the-terrible-consequences-of-australias-uber-bushfires/?utm_source=twitter&utm_medium=social&utm_campaign=onsite-share&utm_brand=wired&utm_social-type=earned",
+					"display_url": "wired.com/story/the-terr…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2521,
+			"friends_count": 866,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Terrible Consequences of Australia’s Uber-Bushfires https://t.co/YsJJ2w18gj via @wired"
+	},
+	{
 		"created_at": "Mon Jul 20 21:26:28 +0000 2020",
 		"id": 1285268353913954300,
 		"id_str": "1285325225496731650",
@@ -1998,7 +2115,7 @@ Grailbird.data.tweets_2020_07 =
 		"created_at": "Thu Jul 16 11:00:56 +0000 2020",
 		"id": 1283718253043257300,
 		"id_str": "1283718253043257344",
-		"full_text": "The best science fiction and fantasy of the year so far — plus what we’re looking forward to next via ⁦@washingtonpost⁩ lots to look forward to (and lots to add to the to be read list) https://t.co/4YX7Z5T9fU",
+		"full_text": "The best science fiction and fantasy of the year so far — plus what we’re looking forward to next via @washingtonpost lots to look forward to (and lots to add to the to be read list) https://t.co/4YX7Z5T9fU",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2109,7 +2226,7 @@ Grailbird.data.tweets_2020_07 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "The best science fiction and fantasy of the year so far — plus what we’re looking forward to next via ⁦@washingtonpost⁩ lots to look forward to (and lots to add to the to be read list) https://t.co/4YX7Z5T9fU"
+		"text": "The best science fiction and fantasy of the year so far — plus what we’re looking forward to next via @washingtonpost lots to look forward to (and lots to add to the to be read list) https://t.co/4YX7Z5T9fU"
 	},
 	{
 		"created_at": "Wed Jul 15 20:27:38 +0000 2020",
@@ -3795,7 +3912,7 @@ Grailbird.data.tweets_2020_07 =
 		"created_at": "Thu Jul 09 10:33:56 +0000 2020",
 		"id": 1281174743735873500,
 		"id_str": "1281174743735873536",
-		"full_text": "Birdwatching increased tenfold last lockdown. Don't stop, it's a huge help for bushfire recovery via ⁦⁦@guardian⁩  https://t.co/edPlfkQuhU",
+		"full_text": "Birdwatching increased tenfold last lockdown. Don't stop, it's a huge help for bushfire recovery via @guardian  https://t.co/edPlfkQuhU",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -3906,7 +4023,7 @@ Grailbird.data.tweets_2020_07 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Birdwatching increased tenfold last lockdown. Don't stop, it's a huge help for bushfire recovery via ⁦⁦@guardian⁩  https://t.co/edPlfkQuhU"
+		"text": "Birdwatching increased tenfold last lockdown. Don't stop, it's a huge help for bushfire recovery via @guardian  https://t.co/edPlfkQuhU"
 	},
 	{
 		"created_at": "Thu Jul 09 03:25:12 +0000 2020",
@@ -5057,7 +5174,7 @@ Grailbird.data.tweets_2020_07 =
 		"created_at": "Thu Jul 02 10:20:13 +0000 2020",
 		"id": 1278634575715917800,
 		"id_str": "1278634575715917825",
-		"full_text": "Kim-Joy's recipe for custard-filled steamed turtle buns via ⁦@guardian⁩ another wonderful use for custard https://t.co/BiodZgyyeb",
+		"full_text": "Kim-Joy's recipe for custard-filled steamed turtle buns via @guardian another wonderful use for custard https://t.co/BiodZgyyeb",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -5168,7 +5285,7 @@ Grailbird.data.tweets_2020_07 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Kim-Joy's recipe for custard-filled steamed turtle buns via ⁦@guardian⁩ another wonderful use for custard https://t.co/BiodZgyyeb"
+		"text": "Kim-Joy's recipe for custard-filled steamed turtle buns via @guardian another wonderful use for custard https://t.co/BiodZgyyeb"
 	},
 	{
 		"created_at": "Thu Jul 02 01:30:13 +0000 2020",
