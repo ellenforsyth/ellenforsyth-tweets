@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 31 04:34:03 +0000 2020",
+		"id": 1289056709860716500,
+		"id_str": "1289056709860716544",
+		"full_text": "@CatyJ It is a good idea, and means you can be confident about distances, and it saves driving time so you can spend more time looking at plants 🌱",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatyJ",
+					"name": "CatyJ",
+					"id": 15732431,
+					"id_str": "15732431",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1289041368166228000,
+		"in_reply_to_status_id_str": "1289041368166227970",
+		"in_reply_to_user_id": 15732431,
+		"in_reply_to_user_id_str": "15732431",
+		"in_reply_to_screen_name": "CatyJ",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2525,
+			"friends_count": 867,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CatyJ It is a good idea, and means you can be confident about distances, and it saves driving time so you can spend more time looking at plants 🌱"
+	},
+	{
+		"created_at": "Fri Jul 31 01:49:10 +0000 2020",
+		"id": 1288977362911207400,
+		"id_str": "1289015215724490752",
+		"full_text": "This is what I mean when I say “diversity” is NOT an appeal factor as we help readers find their next read. This is a better explanation than I have been giving. Thanks @silviamg. #ReadAdv https://t.co/OPpOXJ9dCk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ReadAdv",
+					"indices": [
+						180,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "silviamg",
+					"name": "Silvia Moreno-Garcia",
+					"id": 25757370,
+					"id_str": "25757370",
+					"indices": [
+						169,
+						178
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OPpOXJ9dCk",
+					"expanded_url": "https://twitter.com/silviamg/status/1288929192596271104",
+					"display_url": "twitter.com/silviamg/statu…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary.",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3253,
+			"friends_count": 2267,
+			"listed_count": 135,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 23973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288929192596271000,
+		"quoted_status_id_str": "1288929192596271104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OPpOXJ9dCk",
+			"expanded": "https://twitter.com/silviamg/status/1288929192596271104",
+			"display": "twitter.com/silviamg/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 30 20:07:21 +0000 2020",
+			"id": 1288929192596271000,
+			"id_str": "1288929192596271104",
+			"full_text": "Reading only for exotic thrills or to 'learn' about another culture will not only leave you unsatisfied, but it won't allow you to engage with a book. And lots of well meaning white people do this and then complain 'i didn't learn Ojibwe' or whatever nonsense. https://t.co/vFjNXXZwmZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vFjNXXZwmZ",
+						"expanded_url": "https://twitter.com/etwurth/status/1288928386849611776",
+						"display_url": "twitter.com/etwurth/status…",
+						"indices": [
+							261,
+							284
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25757370,
+				"id_str": "25757370",
+				"name": "Silvia Moreno-Garcia",
+				"screen_name": "silviamg",
+				"location": "Canada",
+				"description": "Author of MEXICAN GOTHIC, UNTAMED SHORE, GODS OF JADE & SHADOW. I'm at https://t.co/PtO5PFdPRa",
+				"url": "https://t.co/1lQYg5jrrr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1lQYg5jrrr",
+								"expanded_url": "https://www.silviamoreno-garcia.com/blog/novels/mexicangothic/",
+								"display_url": "silviamoreno-garcia.com/blog/novels/me…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PtO5PFdPRa",
+								"expanded_url": "http://patreon.com/silviamg",
+								"display_url": "patreon.com/silviamg",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13793,
+				"friends_count": 480,
+				"listed_count": 325,
+				"created_at": "Sun Mar 22 01:03:21 +0000 2009",
+				"favourites_count": 11197,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1468,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DEE344",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816390837328232448/Wer_eVU4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816390837328232448/Wer_eVU4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25757370/1594317091",
+				"profile_link_color": "561B42",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFBEB",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1288928386849611800,
+			"quoted_status_id_str": "1288928386849611776",
+			"quoted_status_permalink": {
+				"url": "https://t.co/vFjNXXZwmZ",
+				"expanded": "https://twitter.com/etwurth/status/1288928386849611776",
+				"display": "twitter.com/etwurth/status…"
+			},
+			"retweet_count": 53,
+			"favorite_count": 242,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what I mean when I say “diversity” is NOT an appeal factor as we help readers find their next read. This is a better explanation than I have been giving. Thanks @silviamg. #ReadAdv https://t.co/OPpOXJ9dCk"
+	},
+	{
+		"created_at": "Fri Jul 31 01:48:54 +0000 2020",
+		"id": 1289015146178699300,
+		"id_str": "1289015146178699264",
+		"full_text": "@CatyJ Browsing plants sounds lovely, but having to ring to do so is an extra barrier",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatyJ",
+					"name": "CatyJ",
+					"id": 15732431,
+					"id_str": "15732431",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1288994185853276200,
+		"in_reply_to_status_id_str": "1288994185853276161",
+		"in_reply_to_user_id": 15732431,
+		"in_reply_to_user_id_str": "15732431",
+		"in_reply_to_screen_name": "CatyJ",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2525,
+			"friends_count": 867,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CatyJ Browsing plants sounds lovely, but having to ring to do so is an extra barrier"
+	},
+	{
 		"created_at": "Wed Jul 29 10:28:41 +0000 2020",
 		"id": 1288278957041881000,
 		"id_str": "1288421180018286594",
