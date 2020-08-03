@@ -1,6 +1,467 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 02 20:03:21 +0000 2020",
+		"id": 1290015348394082300,
+		"id_str": "1290015348394082305",
+		"full_text": "interesting reading via an alert from @publiclibnews https://t.co/5paT8WJrlQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "publiclibnews",
+					"name": "Ian Anstice 🇪🇺",
+					"id": 84678666,
+					"id_str": "84678666",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5paT8WJrlQ",
+					"expanded_url": "https://twitter.com/RIBAJ/status/1288831957393199110",
+					"display_url": "twitter.com/RIBAJ/status/1…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2523,
+			"friends_count": 867,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1288831957393199000,
+		"quoted_status_id_str": "1288831957393199110",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5paT8WJrlQ",
+			"expanded": "https://twitter.com/RIBAJ/status/1288831957393199110",
+			"display": "twitter.com/RIBAJ/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 30 13:40:58 +0000 2020",
+			"id": 1288831957393199000,
+			"id_str": "1288831957393199110",
+			"full_text": "Libraries are key community assets, but how can they adapt to post-pandemic safety measures? @stoneybryans on key points from IF_DO’s Safer Libraries guide #ribajintelligence\nhttps://t.co/i1Y3zy1nFO https://t.co/8KS64qWEHl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ribajintelligence",
+						"indices": [
+							156,
+							174
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stoneybryans",
+						"name": "Thomas Bryans",
+						"id": 225894954,
+						"id_str": "225894954",
+						"indices": [
+							93,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/i1Y3zy1nFO",
+						"expanded_url": "https://www.ribaj.com/intelligence/safer-libraries-if-do-report-covid-safer-spaces-if-do",
+						"display_url": "ribaj.com/intelligence/s…",
+						"indices": [
+							175,
+							198
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1288831956294217700,
+						"id_str": "1288831956294217729",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/EeLZ1fIWsAE-0Zh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeLZ1fIWsAE-0Zh.jpg",
+						"url": "https://t.co/8KS64qWEHl",
+						"display_url": "pic.twitter.com/8KS64qWEHl",
+						"expanded_url": "https://twitter.com/RIBAJ/status/1288831957393199110/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1288831956294217700,
+						"id_str": "1288831956294217729",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/EeLZ1fIWsAE-0Zh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeLZ1fIWsAE-0Zh.jpg",
+						"url": "https://t.co/8KS64qWEHl",
+						"display_url": "pic.twitter.com/8KS64qWEHl",
+						"expanded_url": "https://twitter.com/RIBAJ/status/1288831957393199110/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43306320,
+				"id_str": "43306320",
+				"name": "RIBA Journal",
+				"screen_name": "RIBAJ",
+				"location": "London",
+				"description": "Architecture information and inspiration. The RIBA Journal has been the official publication of the Royal Institute of British Architects since 1893.",
+				"url": "http://t.co/bLaOxFt4pS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bLaOxFt4pS",
+								"expanded_url": "http://ribaj.com",
+								"display_url": "ribaj.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86507,
+				"friends_count": 1115,
+				"listed_count": 1009,
+				"created_at": "Fri May 29 10:13:54 +0000 2009",
+				"favourites_count": 2740,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16310,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1277544601721737216/yp1r6EUA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277544601721737216/yp1r6EUA_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43306320/1568216181",
+				"profile_link_color": "A10000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "interesting reading via an alert from @publiclibnews https://t.co/5paT8WJrlQ"
+	},
+	{
+		"created_at": "Sun Aug 02 19:57:53 +0000 2020",
+		"id": 1289934776011554800,
+		"id_str": "1290013974801477633",
+		"full_text": "Sunday reading from @NewYorker archive: this week, we're highlighting a selection of pieces to mark the 75th anniversary of the bombing of Hiroshima—w/stories by John Hersey, David Samuels, Nicholas Lemann, and more. #NewYorkerArchive https://t.co/dC9CSbwzQU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewYorkerArchive",
+					"indices": [
+						217,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewYorker",
+					"name": "The New Yorker",
+					"id": 14677919,
+					"id_str": "14677919",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dC9CSbwzQU",
+					"expanded_url": "https://www.newyorker.com/books/double-take/sunday-reading-hiroshima",
+					"display_url": "newyorker.com/books/double-t…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23823851,
+			"id_str": "23823851",
+			"name": "Erin Overbey",
+			"screen_name": "erinoverbey",
+			"location": "Manhattan",
+			"description": "Archive Editor, @NewYorker + Sunday Archive & New Yorker Classics newsletter editor. New Yorker archivist since 1994. https://t.co/zWpQcTFvMN",
+			"url": "https://t.co/jPirJ40aYc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jPirJ40aYc",
+							"expanded_url": "http://www.newyorker.com/contributors/erin-overbey",
+							"display_url": "newyorker.com/contributors/e…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zWpQcTFvMN",
+							"expanded_url": "https://www.instagram.com/erin.overbey/",
+							"display_url": "instagram.com/erin.overbey/",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5735,
+			"friends_count": 1374,
+			"listed_count": 113,
+			"created_at": "Wed Mar 11 20:30:26 +0000 2009",
+			"favourites_count": 4242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052608089378250752/9fKk_h1S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052608089378250752/9fKk_h1S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23823851/1466652375",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sunday reading from @NewYorker archive: this week, we're highlighting a selection of pieces to mark the 75th anniversary of the bombing of Hiroshima—w/stories by John Hersey, David Samuels, Nicholas Lemann, and more. #NewYorkerArchive https://t.co/dC9CSbwzQU"
+	},
+	{
 		"created_at": "Sat Aug 01 20:24:25 +0000 2020",
 		"id": 1289085132112978000,
 		"id_str": "1289658264863436801",
