@@ -1,10 +1,379 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 21:10:06 +0000 2020",
+		"id": 1291481700950634500,
+		"id_str": "1291481700950634501",
+		"full_text": "Learn Butchulla online with Fraser Coast Libraries https://t.co/And6CDhGGy via @slqld 'The online series is part of the libraries’ collaboration with Korrawinga Aboriginal Corporation which has a strong focus on the preservation of language and culture.'",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slqld",
+					"name": "State Library of Qld",
+					"id": 22097835,
+					"id_str": "22097835",
+					"indices": [
+						79,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/And6CDhGGy",
+					"expanded_url": "https://plconnect.slq.qld.gov.au/blog/learn-butchulla-online",
+					"display_url": "plconnect.slq.qld.gov.au/blog/learn-but…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2522,
+			"friends_count": 867,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn Butchulla online with Fraser Coast Libraries https://t.co/And6CDhGGy via @slqld 'The online series is part of the libraries’ collaboration with Korrawinga Aboriginal Corporation which has a strong focus on the preservation of language and culture.'"
+	},
+	{
+		"created_at": "Thu Aug 06 20:35:24 +0000 2020",
+		"id": 1291472965746344000,
+		"id_str": "1291472965746343936",
+		"full_text": "13,000 images on New Zealand Birds Online – and one funky hairdo https://t.co/KxYUQZm8no via @te_papa  with some lovely looking birds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Te_Papa",
+					"name": "Te Papa",
+					"id": 29090322,
+					"id_str": "29090322",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KxYUQZm8no",
+					"expanded_url": "https://blog.tepapa.govt.nz/2020/08/04/13000-images-on-new-zealand-birds-online-and-one-funky-hairdo/",
+					"display_url": "blog.tepapa.govt.nz/2020/08/04/130…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2522,
+			"friends_count": 867,
+			"listed_count": 229,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "13,000 images on New Zealand Birds Online – and one funky hairdo https://t.co/KxYUQZm8no via @te_papa  with some lovely looking birds"
+	},
+	{
+		"created_at": "Thu Aug 06 19:35:33 +0000 2020",
+		"id": 1291122860145221600,
+		"id_str": "1291457904864718850",
+		"full_text": "Denver #Libraries Prioritize Digital Access With Outdoor Laptop Lending (Conversation with Michelle Jeske, Denver's City Librarian) (via @hereandnow) https://t.co/KPjYAh1ksp @denverlibrary",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Libraries",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hereandnow",
+					"name": "Here & Now",
+					"id": 94391895,
+					"id_str": "94391895",
+					"indices": [
+						137,
+						148
+					]
+				},
+				{
+					"screen_name": "denverlibrary",
+					"name": "Denver Public Library",
+					"id": 16668771,
+					"id_str": "16668771",
+					"indices": [
+						174,
+						188
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KPjYAh1ksp",
+					"expanded_url": "http://ow.ly/j0GB50ARSD0",
+					"display_url": "ow.ly/j0GB50ARSD0",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15169290,
+			"id_str": "15169290",
+			"name": "Library Journal",
+			"screen_name": "LibraryJournal",
+			"location": "New York, NY",
+			"description": "Library views, news, and book reviews from LJ staffers",
+			"url": "http://t.co/WSOb61lYld",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WSOb61lYld",
+							"expanded_url": "http://www.libraryjournal.com",
+							"display_url": "libraryjournal.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 230809,
+			"friends_count": 398,
+			"listed_count": 5853,
+			"created_at": "Thu Jun 19 13:51:48 +0000 2008",
+			"favourites_count": 3197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 43204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5E9F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15169290/1539277524",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "6C6C6C",
+			"profile_sidebar_fill_color": "CBCDC5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Denver #Libraries Prioritize Digital Access With Outdoor Laptop Lending (Conversation with Michelle Jeske, Denver's City Librarian) (via @hereandnow) https://t.co/KPjYAh1ksp @denverlibrary"
+	},
+	{
 		"created_at": "Wed Aug 05 19:34:40 +0000 2020",
 		"id": 1291095293958606800,
 		"id_str": "1291095293958606848",
-		"full_text": "'It's like Days of Our Lives': Australia's live wildlife cams spark obsessive viewership via ⁦@GuardianAus⁩ for some wildlife viewing https://t.co/vAi97S2uiI",
+		"full_text": "'It's like Days of Our Lives': Australia's live wildlife cams spark obsessive viewership via @GuardianAus for some wildlife viewing https://t.co/vAi97S2uiI",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -115,7 +484,7 @@ Grailbird.data.tweets_2020_08 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "'It's like Days of Our Lives': Australia's live wildlife cams spark obsessive viewership via ⁦@GuardianAus⁩ for some wildlife viewing https://t.co/vAi97S2uiI"
+		"text": "'It's like Days of Our Lives': Australia's live wildlife cams spark obsessive viewership via @GuardianAus for some wildlife viewing https://t.co/vAi97S2uiI"
 	},
 	{
 		"created_at": "Tue Aug 04 22:24:29 +0000 2020",
