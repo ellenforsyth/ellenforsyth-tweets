@@ -1,6 +1,779 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 06:27:27 +0000 2020",
+		"id": 1291124544057380900,
+		"id_str": "1291984351123496960",
+		"full_text": "\"The need was most urgent for Umpithamu because it hadn't been recorded enough and there were two very good speakers around so there was a chance there to record the language...”\n\nFirst Cape York Indigenous language dictionary published in 20 years. \n\nhttps://t.co/aWhgI6owot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aWhgI6owot",
+					"expanded_url": "https://www.abc.net.au/news/2020-08-06/dictionary-of-unique-cape-york-indigenous-language-published/12525128",
+					"display_url": "abc.net.au/news/2020-08-0…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23377444,
+			"id_str": "23377444",
+			"name": "ABC Indigenous",
+			"screen_name": "ABCIndigenous",
+			"location": "Australia",
+			"description": "Home of #BlackAs #KikiandKitty, #BlueWaterEmpire, #MysteryRoad, #Cleverman, #ABCBlackComedy. This is an official @ABCAustralia account. RT not endorsement.",
+			"url": "https://t.co/Jzz5bMazEz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jzz5bMazEz",
+							"expanded_url": "http://www.abc.net.au/indigenous/",
+							"display_url": "abc.net.au/indigenous/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33386,
+			"friends_count": 4595,
+			"listed_count": 285,
+			"created_at": "Mon Mar 09 00:32:56 +0000 2009",
+			"favourites_count": 9939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148784074007314432/0O-GKXxa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148784074007314432/0O-GKXxa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23377444/1590645770",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The need was most urgent for Umpithamu because it hadn't been recorded enough and there were two very good speakers around so there was a chance there to record the language...”\n\nFirst Cape York Indigenous language dictionary published in 20 years. \n\nhttps://t.co/aWhgI6owot"
+	},
+	{
+		"created_at": "Sat Aug 08 00:29:10 +0000 2020",
+		"id": 1291894184710815700,
+		"id_str": "1291894184710815745",
+		"full_text": "Disinfectant, Gloves And Quarantined Books: How Massachusetts Libraries Are Coping As They Slowly Reopen https://t.co/j930ddx8C4 and some accounts of joy from patrons",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j930ddx8C4",
+					"expanded_url": "https://www.wgbh.org/news/local-news/2020/07/31/disinfectant-gloves-and-quarantined-books-how-massachusetts-libraries-are-coping-as-they-slowly-reopen",
+					"display_url": "wgbh.org/news/local-new…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2524,
+			"friends_count": 866,
+			"listed_count": 227,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Disinfectant, Gloves And Quarantined Books: How Massachusetts Libraries Are Coping As They Slowly Reopen https://t.co/j930ddx8C4 and some accounts of joy from patrons"
+	},
+	{
+		"created_at": "Sat Aug 08 00:27:06 +0000 2020",
+		"id": 1291804810539413500,
+		"id_str": "1291893664155709440",
+		"full_text": "Reclosing … after Reopening: Libraries prioritize worker and patron safety amid shifting recommendations. “In addition to it being stressful, I will also say it’s scary.”  https://t.co/7b7CZlCPTx https://t.co/F3xz8jtFS3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7b7CZlCPTx",
+					"expanded_url": "https://bit.ly/3kciYlm",
+					"display_url": "bit.ly/3kciYlm",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1291804807372644400,
+					"id_str": "1291804807372644353",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee1poMaWoAEyz14.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee1poMaWoAEyz14.jpg",
+					"url": "https://t.co/F3xz8jtFS3",
+					"display_url": "pic.twitter.com/F3xz8jtFS3",
+					"expanded_url": "https://twitter.com/amlibraries/status/1291804810539413505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291804807372644400,
+					"id_str": "1291804807372644353",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee1poMaWoAEyz14.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee1poMaWoAEyz14.jpg",
+					"url": "https://t.co/F3xz8jtFS3",
+					"display_url": "pic.twitter.com/F3xz8jtFS3",
+					"expanded_url": "https://twitter.com/amlibraries/status/1291804810539413505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18955776,
+			"id_str": "18955776",
+			"name": "American Libraries",
+			"screen_name": "amlibraries",
+			"location": "Chicago",
+			"description": "Magazine of the American Library Association. Tweeters include Amy Carlton, Terra Dankowski, Phil Morehart, Sallyann Price & Sanhita SinhaRoy.",
+			"url": "http://t.co/2Dq9yGNmHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2Dq9yGNmHL",
+							"expanded_url": "http://americanlibrariesmagazine.org",
+							"display_url": "americanlibrariesmagazine.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87291,
+			"friends_count": 1135,
+			"listed_count": 2284,
+			"created_at": "Tue Jan 13 22:08:09 +0000 2009",
+			"favourites_count": 847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18955776/1592338195",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reclosing … after Reopening: Libraries prioritize worker and patron safety amid shifting recommendations. “In addition to it being stressful, I will also say it’s scary.”  https://t.co/7b7CZlCPTx https://t.co/F3xz8jtFS3"
+	},
+	{
+		"created_at": "Fri Aug 07 19:35:26 +0000 2020",
+		"id": 1291769173434130400,
+		"id_str": "1291820264418758656",
+		"full_text": "Canadian ice shelf area bigger than Manhattan collapses due to rising temperatures https://t.co/af4dEPb3qx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/af4dEPb3qx",
+					"expanded_url": "https://www.theguardian.com/world/2020/aug/07/canadian-ice-shelf-area-bigger-than-manhattan-collapses-due-to-rising-temperatures?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1596816165",
+					"display_url": "theguardian.com/world/2020/aug…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87818409,
+			"id_str": "87818409",
+			"name": "The Guardian",
+			"screen_name": "guardian",
+			"location": "London",
+			"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+			"url": "https://t.co/c53pnmnuIT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c53pnmnuIT",
+							"expanded_url": "https://www.theguardian.com",
+							"display_url": "theguardian.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gWyuUVlObq",
+							"expanded_url": "https://support.theguardian.com",
+							"display_url": "support.theguardian.com",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9022864,
+			"friends_count": 1082,
+			"listed_count": 60985,
+			"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 617039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1569228354",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CAE3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Canadian ice shelf area bigger than Manhattan collapses due to rising temperatures https://t.co/af4dEPb3qx"
+	},
+	{
+		"created_at": "Fri Aug 07 19:34:50 +0000 2020",
+		"id": 1290740808170307600,
+		"id_str": "1291820113545457664",
+		"full_text": "Satellite animation, from July 30 to August 4, shows the collapse of the last fully intact #iceshelf in #Canada. The Milne Ice Shelf, located on #EllesmereIsland in #Nunavut, has now reduced in area by ~43%. #MilneIceIsland #seaice #Arctic #earthrightnow #glacier https://t.co/jjs1gawoxA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iceshelf",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "Canada",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "EllesmereIsland",
+					"indices": [
+						145,
+						161
+					]
+				},
+				{
+					"text": "Nunavut",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "MilneIceIsland",
+					"indices": [
+						208,
+						223
+					]
+				},
+				{
+					"text": "seaice",
+					"indices": [
+						224,
+						231
+					]
+				},
+				{
+					"text": "Arctic",
+					"indices": [
+						232,
+						239
+					]
+				},
+				{
+					"text": "earthrightnow",
+					"indices": [
+						240,
+						254
+					]
+				},
+				{
+					"text": "glacier",
+					"indices": [
+						255,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290740800557666300,
+					"id_str": "1290740800557666307",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eemh62JX0AMP11y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eemh62JX0AMP11y.jpg",
+					"url": "https://t.co/jjs1gawoxA",
+					"display_url": "pic.twitter.com/jjs1gawoxA",
+					"expanded_url": "https://twitter.com/ECCC_CIS/status/1290740808170307584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 794,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 794,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290740800557666300,
+					"id_str": "1290740800557666307",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eemh62JX0AMP11y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eemh62JX0AMP11y.jpg",
+					"url": "https://t.co/jjs1gawoxA",
+					"display_url": "pic.twitter.com/jjs1gawoxA",
+					"expanded_url": "https://twitter.com/ECCC_CIS/status/1290740808170307584/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 794,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 794,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							397,
+							512
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eemh62JX0AMP11y.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 798248173273641000,
+			"id_str": "798248173273640960",
+			"name": "ECCC Canadian Ice Service",
+			"screen_name": "ECCC_CIS",
+			"location": "Ottawa, Ontario",
+			"description": "Official account for the Canadian Ice   Service. Tweets by ECCC meteorologists and staff. Suivez-nous en français @ECCC_SCG\nTerms: https://t.co/ugllSNIjfj",
+			"url": "https://t.co/jXjfQTtxnX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jXjfQTtxnX",
+							"expanded_url": "https://www.canada.ca/en/environment-climate-change/services/ice-forecasts-observations.html",
+							"display_url": "canada.ca/en/environment…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ugllSNIjfj",
+							"expanded_url": "http://ow.ly/IPJW50utGau",
+							"display_url": "ow.ly/IPJW50utGau",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 702,
+			"friends_count": 71,
+			"listed_count": 12,
+			"created_at": "Mon Nov 14 19:36:10 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 89,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100059962011734016/Dvxn-CuT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100059962011734016/Dvxn-CuT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/798248173273640960/1562255382",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2062,
+		"favorite_count": 2111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Satellite animation, from July 30 to August 4, shows the collapse of the last fully intact #iceshelf in #Canada. The Milne Ice Shelf, located on #EllesmereIsland in #Nunavut, has now reduced in area by ~43%. #MilneIceIsland #seaice #Arctic #earthrightnow #glacier https://t.co/jjs1gawoxA"
+	},
+	{
 		"created_at": "Thu Aug 06 21:10:06 +0000 2020",
 		"id": 1291481700950634500,
 		"id_str": "1291481700950634501",
