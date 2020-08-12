@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 11 22:13:20 +0000 2020",
+		"id": 1293309554059509800,
+		"id_str": "1293309554059509760",
+		"full_text": "This is excellent watching with lots of ideas to put in action at your library https://t.co/EasuCZzzti",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EasuCZzzti",
+					"expanded_url": "https://twitter.com/librarylovefest/status/1292807465587871745",
+					"display_url": "twitter.com/librarylovefes…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2524,
+			"friends_count": 867,
+			"listed_count": 226,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1292807465587871700,
+		"quoted_status_id_str": "1292807465587871745",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EasuCZzzti",
+			"expanded": "https://twitter.com/librarylovefest/status/1292807465587871745",
+			"display": "twitter.com/librarylovefes…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 10 12:58:13 +0000 2020",
+			"id": 1292807465587871700,
+			"id_str": "1292807465587871745",
+			"full_text": "Our friends at @LibraryReads99 recently hosted a panel discussing Anti-Racist Readers' Advisory. We highly recommend watching this fantastic, enlightening conversation. \n\nThe link to watch is below. https://t.co/F9ZBu31cYJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LibraryReads99",
+						"name": "LibraryReads",
+						"id": 1157340062,
+						"id_str": "1157340062",
+						"indices": [
+							15,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/F9ZBu31cYJ",
+						"expanded_url": "https://twitter.com/LibraryReads99/status/1292265493450153989",
+						"display_url": "twitter.com/LibraryReads99…",
+						"indices": [
+							199,
+							222
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18944705,
+				"id_str": "18944705",
+				"name": "librarylovefest",
+				"screen_name": "librarylovefest",
+				"location": "195 Broadway",
+				"description": "The Library Marketing team at HarperCollins. Above all things, we love bringing librarians and good books together.",
+				"url": "http://t.co/kDJxD2z0bc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kDJxD2z0bc",
+								"expanded_url": "http://www.librarylovefest.com/",
+								"display_url": "librarylovefest.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8019,
+				"friends_count": 2038,
+				"listed_count": 471,
+				"created_at": "Tue Jan 13 17:19:50 +0000 2009",
+				"favourites_count": 5142,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9677,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/517698035489325056/ENB792WU_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/517698035489325056/ENB792WU_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18944705/1586980836",
+				"profile_link_color": "30ACD1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "74C2CC",
+				"profile_text_color": "050505",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1292265493450154000,
+			"quoted_status_id_str": "1292265493450153989",
+			"quoted_status_permalink": {
+				"url": "https://t.co/F9ZBu31cYJ",
+				"expanded": "https://twitter.com/LibraryReads99/status/1292265493450153989",
+				"display": "twitter.com/LibraryReads99…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is excellent watching with lots of ideas to put in action at your library https://t.co/EasuCZzzti"
+	},
+	{
 		"created_at": "Tue Aug 11 05:52:03 +0000 2020",
 		"id": 1293062603556548600,
 		"id_str": "1293062603556548609",
