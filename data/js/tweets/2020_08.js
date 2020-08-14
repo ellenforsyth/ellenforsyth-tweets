@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 13 21:13:08 +0000 2020",
+		"id": 1294019180119777300,
+		"id_str": "1294019180119777281",
+		"full_text": "Community gardens are cropping up at public libraries everywhere https://t.co/xHjziugHpY via @shareable some examples of community gardens in the USA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shareable",
+					"name": "Shareable",
+					"id": 57949239,
+					"id_str": "57949239",
+					"indices": [
+						93,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xHjziugHpY",
+					"expanded_url": "https://www.shareable.net/community-gardens-are-cropping-up-at-public-libraries-everywhere/",
+					"display_url": "shareable.net/community-gard…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 868,
+			"listed_count": 226,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Community gardens are cropping up at public libraries everywhere https://t.co/xHjziugHpY via @shareable some examples of community gardens in the USA"
+	},
+	{
 		"created_at": "Wed Aug 12 23:14:42 +0000 2020",
 		"id": 1293687382307266600,
 		"id_str": "1293687382307266561",
@@ -236,7 +353,7 @@ Grailbird.data.tweets_2020_08 =
 		"created_at": "Wed Aug 12 19:27:22 +0000 2020",
 		"id": 1293630174966112300,
 		"id_str": "1293630174966112257",
-		"full_text": "When Covid closed the library: staff call every member of Victorian library to say hello via ⁦@GuardianAus⁩ the calls were to people aged over 70, plus other accounts of how Victorian public libraries are staying connected with their communities  https://t.co/6xaLuIRuxx",
+		"full_text": "When Covid closed the library: staff call every member of Victorian library to say hello via @GuardianAus the calls were to people aged over 70, plus other accounts of how Victorian public libraries are staying connected with their communities  https://t.co/6xaLuIRuxx",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -347,7 +464,7 @@ Grailbird.data.tweets_2020_08 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "When Covid closed the library: staff call every member of Victorian library to say hello via ⁦@GuardianAus⁩ the calls were to people aged over 70, plus other accounts of how Victorian public libraries are staying connected with their communities  https://t.co/6xaLuIRuxx"
+		"text": "When Covid closed the library: staff call every member of Victorian library to say hello via @GuardianAus the calls were to people aged over 70, plus other accounts of how Victorian public libraries are staying connected with their communities  https://t.co/6xaLuIRuxx"
 	},
 	{
 		"created_at": "Tue Aug 11 22:13:20 +0000 2020",
