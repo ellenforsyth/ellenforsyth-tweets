@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 21:33:21 +0000 2020",
+		"id": 1290311389463093200,
+		"id_str": "1294386654174572544",
+		"full_text": "Also because ppl have asked. Anyone can sign up. You don’t have to be a library worker. Sign up week of 8/24. Link will be avaiable through all our partners. https://t.co/ZCwthPZibO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZCwthPZibO",
+					"expanded_url": "https://twitter.com/raforall/status/1290283634990157824",
+					"display_url": "twitter.com/raforall/statu…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary.",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3320,
+			"friends_count": 2322,
+			"listed_count": 135,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 24535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1290283634990157800,
+		"quoted_status_id_str": "1290283634990157824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZCwthPZibO",
+			"expanded": "https://twitter.com/raforall/status/1290283634990157824",
+			"display": "twitter.com/raforall/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 03 13:49:25 +0000 2020",
+			"id": 1290283634990157800,
+			"id_str": "1290283634990157824",
+			"full_text": "HUGE #HorrorForLibraries NEWS!!!! @HorrorWriters @ARRTreads 4th Annual Librarians’ Day is moving online and it will be FREE. Details on the amended schedule is now available. Sign up (available week of 8/24) gives you access to the Q and A. https://t.co/HqLrkn3l4L",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HorrorForLibraries",
+						"indices": [
+							5,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HorrorWriters",
+						"name": "Horror Writers Assoc",
+						"id": 99543658,
+						"id_str": "99543658",
+						"indices": [
+							34,
+							48
+						]
+					},
+					{
+						"screen_name": "ARRTreads",
+						"name": "ARRT Reads",
+						"id": 2474113790,
+						"id_str": "2474113790",
+						"indices": [
+							49,
+							59
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HqLrkn3l4L",
+						"expanded_url": "https://raforall.blogspot.com/2020/08/update-on-librarians-day-its-now.html",
+						"display_url": "raforall.blogspot.com/2020/08/update…",
+						"indices": [
+							241,
+							264
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary.",
+				"url": "https://t.co/UqsI4i1DEP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UqsI4i1DEP",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3320,
+				"friends_count": 2322,
+				"listed_count": 135,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 24535,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34186,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Also because ppl have asked. Anyone can sign up. You don’t have to be a library worker. Sign up week of 8/24. Link will be avaiable through all our partners. https://t.co/ZCwthPZibO"
+	},
+	{
 		"created_at": "Thu Aug 13 21:13:08 +0000 2020",
 		"id": 1294019180119777300,
 		"id_str": "1294019180119777281",
