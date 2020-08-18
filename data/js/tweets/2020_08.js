@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 17 22:08:09 +0000 2020",
+		"id": 1295482574995783700,
+		"id_str": "1295482574995783685",
+		"full_text": "@shewgirl that looks lovely",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shewgirl",
+					"name": "Tania Barry",
+					"id": 6736432,
+					"id_str": "6736432",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1295481479087026200,
+		"in_reply_to_status_id_str": "1295481479087026176",
+		"in_reply_to_user_id": 6736432,
+		"in_reply_to_user_id_str": "6736432",
+		"in_reply_to_screen_name": "shewgirl",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 870,
+			"listed_count": 227,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shewgirl that looks lovely"
+	},
+	{
+		"created_at": "Mon Aug 17 21:58:16 +0000 2020",
+		"id": 1295479773406298000,
+		"id_str": "1295480088171966464",
+		"full_text": "Celebrate Margaret Hamilton's birthday by reading some of her funny, brilliant Apollo 11 code. https://t.co/GEehTDkima https://t.co/jpbHb7wMPO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GEehTDkima",
+					"expanded_url": "https://slate.com/technology/2016/07/the-brilliant-funny-computer-code-behind-the-apollo-11-mission.html",
+					"display_url": "slate.com/technology/201…",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/jpbHb7wMPO",
+					"expanded_url": "https://twitter.com/NASAhistory/status/1295393704442843136",
+					"display_url": "twitter.com/NASAhistory/st…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 326184086,
+			"id_str": "326184086",
+			"name": "Future Tense",
+			"screen_name": "FutureTenseNow",
+			"location": "Washington, DC",
+			"description": "Future Tense—a project of Slate, New America, and Arizona State University—covers emerging technologies and their implications for society and policy.",
+			"url": "https://t.co/UOt5ix3lo9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UOt5ix3lo9",
+							"expanded_url": "https://slate.com/futuretense",
+							"display_url": "slate.com/futuretense",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27597,
+			"friends_count": 2669,
+			"listed_count": 1280,
+			"created_at": "Wed Jun 29 14:26:19 +0000 2011",
+			"favourites_count": 1084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953260789485506560/6J1DB2O__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953260789485506560/6J1DB2O__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/326184086/1516110075",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1295393704442843100,
+		"quoted_status_id_str": "1295393704442843136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jpbHb7wMPO",
+			"expanded": "https://twitter.com/NASAhistory/status/1295393704442843136",
+			"display": "twitter.com/NASAhistory/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 17 16:15:01 +0000 2020",
+			"id": 1295393704442843100,
+			"id_str": "1295393704442843136",
+			"full_text": "#HappyBirthday to computer scientist Margaret Hamilton! As the leader of the software development team for @NASA’s Apollo program, her contributions were invaluable to the success of the moon landing! https://t.co/T7d7RMA6KC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HappyBirthday",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NASA",
+						"name": "NASA",
+						"id": 11348282,
+						"id_str": "11348282",
+						"indices": [
+							107,
+							112
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1295393702995689500,
+						"id_str": "1295393702995689472",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/EfoptadWAAABObk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfoptadWAAABObk.jpg",
+						"url": "https://t.co/T7d7RMA6KC",
+						"display_url": "pic.twitter.com/T7d7RMA6KC",
+						"expanded_url": "https://twitter.com/NASAhistory/status/1295393704442843136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 845,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 561,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 845,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1295393702995689500,
+						"id_str": "1295393702995689472",
+						"indices": [
+							201,
+							224
+						],
+						"media_url": "http://pbs.twimg.com/media/EfoptadWAAABObk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfoptadWAAABObk.jpg",
+						"url": "https://t.co/T7d7RMA6KC",
+						"display_url": "pic.twitter.com/T7d7RMA6KC",
+						"expanded_url": "https://twitter.com/NASAhistory/status/1295393704442843136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 845,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 561,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 845,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 153784150,
+				"id_str": "153784150",
+				"name": "NASA History Office",
+				"screen_name": "NASAhistory",
+				"location": "Washington, DC",
+				"description": "This is the NASA History Office's official Twitter account. We're happy that you share our passion for aerospace history.",
+				"url": "http://t.co/wWBPdTeoW6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wWBPdTeoW6",
+								"expanded_url": "http://history.nasa.gov",
+								"display_url": "history.nasa.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 941516,
+				"friends_count": 267,
+				"listed_count": 5909,
+				"created_at": "Wed Jun 09 12:52:58 +0000 2010",
+				"favourites_count": 5381,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20418,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/695361954018275330/RLTuGTD__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/695361954018275330/RLTuGTD__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/153784150/1572526977",
+				"profile_link_color": "0563BA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D9D9D9",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1131,
+			"favorite_count": 6181,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Celebrate Margaret Hamilton's birthday by reading some of her funny, brilliant Apollo 11 code. https://t.co/GEehTDkima https://t.co/jpbHb7wMPO"
+	},
+	{
+		"created_at": "Mon Aug 17 21:57:25 +0000 2020",
+		"id": 1295479875478814700,
+		"id_str": "1295479875478814721",
+		"full_text": "Help us rebuild Beirut Public Libraries https://t.co/f8Eu1Dngbn via @YouTube information came via an IFLA email list - shows before and after photographs can see how lovely the libraries looked before the recent explosion and how much damage was caused",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f8Eu1Dngbn",
+					"expanded_url": "https://youtu.be/QfPOk-PQhEA",
+					"display_url": "youtu.be/QfPOk-PQhEA",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 870,
+			"listed_count": 227,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Help us rebuild Beirut Public Libraries https://t.co/f8Eu1Dngbn via @YouTube information came via an IFLA email list - shows before and after photographs can see how lovely the libraries looked before the recent explosion and how much damage was caused"
+	},
+	{
 		"created_at": "Sat Aug 15 21:10:09 +0000 2020",
 		"id": 1294743201899614200,
 		"id_str": "1294743201899614208",
