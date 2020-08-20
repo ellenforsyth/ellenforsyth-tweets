@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 19 21:02:38 +0000 2020",
+		"id": 1296190863727419400,
+		"id_str": "1296190863727419393",
+		"full_text": "this is brilliant, shows the importance of recording a range of local sounds https://t.co/aYQPXUsssT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aYQPXUsssT",
+					"expanded_url": "https://twitter.com/soundarchive/status/1296022083500220422",
+					"display_url": "twitter.com/soundarchive/s…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 871,
+			"listed_count": 227,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1296022083500220400,
+		"quoted_status_id_str": "1296022083500220422",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aYQPXUsssT",
+			"expanded": "https://twitter.com/soundarchive/status/1296022083500220422",
+			"display": "twitter.com/soundarchive/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 19 09:51:58 +0000 2020",
+			"id": 1296022083500220400,
+			"id_str": "1296022083500220422",
+			"full_text": "Walking in the archive - Sound and vision blog https://t.co/cVfxdZbTFu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cVfxdZbTFu",
+						"expanded_url": "https://shar.es/abYrX8",
+						"display_url": "shar.es/abYrX8",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22028935,
+				"id_str": "22028935",
+				"name": "Sound Archive",
+				"screen_name": "soundarchive",
+				"location": "London, UK",
+				"description": "Sound Archive @BritishLibrary: 7 million recordings of music, voices, environments. Tweets by Steve Cleary. Blog: https://t.co/TuSRYUV7Ns",
+				"url": "http://t.co/QQ7BIbQ40P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QQ7BIbQ40P",
+								"expanded_url": "http://www.bl.uk/soundarchive",
+								"display_url": "bl.uk/soundarchive",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TuSRYUV7Ns",
+								"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision",
+								"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18741,
+				"friends_count": 1278,
+				"listed_count": 815,
+				"created_at": "Thu Feb 26 16:36:05 +0000 2009",
+				"favourites_count": 582,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6087,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22028935/1535972358",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is brilliant, shows the importance of recording a range of local sounds https://t.co/aYQPXUsssT"
+	},
+	{
+		"created_at": "Wed Aug 19 20:15:02 +0000 2020",
+		"id": 1295746065694589000,
+		"id_str": "1296178885474676736",
+		"full_text": "The #REALMproject has published the results of the third round of Battelle’s laboratory testing for COVID-19 on 5 plastic-based materials: talking book USB cassettes, DVDs, storage bags, storage containers, and plexiglass. View results at https://t.co/wUQH0vYi6q #COVIDlibraries",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REALMproject",
+					"indices": [
+						4,
+						17
+					]
+				},
+				{
+					"text": "COVIDlibraries",
+					"indices": [
+						263,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wUQH0vYi6q",
+					"expanded_url": "http://oc.lc/test3-results",
+					"display_url": "oc.lc/test3-results",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29516133,
+			"id_str": "29516133",
+			"name": "OCLC",
+			"screen_name": "OCLC",
+			"location": "Worldwide",
+			"description": "A global library cooperative providing shared services, research and community programs to thousands of libraries. Together we make breakthroughs possible.",
+			"url": "https://t.co/FjBv6oXtJq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FjBv6oXtJq",
+							"expanded_url": "http://oc.lc/links",
+							"display_url": "oc.lc/links",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29904,
+			"friends_count": 1064,
+			"listed_count": 1385,
+			"created_at": "Tue Apr 07 19:04:34 +0000 2009",
+			"favourites_count": 2350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E0E1DD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/613076298517254145/Z8nFQIVh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/613076298517254145/Z8nFQIVh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29516133/1513799573",
+			"profile_link_color": "0083BE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F1ED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #REALMproject has published the results of the third round of Battelle’s laboratory testing for COVID-19 on 5 plastic-based materials: talking book USB cassettes, DVDs, storage bags, storage containers, and plexiglass. View results at https://t.co/wUQH0vYi6q #COVIDlibraries"
+	},
+	{
+		"created_at": "Wed Aug 19 19:48:47 +0000 2020",
+		"id": 1296171509694619600,
+		"id_str": "1296172278808338432",
+		"full_text": "Pandemic pen pals: How Colombian libraries lift spirits via @csmonitor https://t.co/ysT1ogIFWx via @ALIANational",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "csmonitor",
+					"name": "The Christian Science Monitor",
+					"id": 14857525,
+					"id_str": "14857525",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "ALIANational",
+					"name": "Aust Lib & Info Assn",
+					"id": 43796164,
+					"id_str": "43796164",
+					"indices": [
+						99,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ysT1ogIFWx",
+					"expanded_url": "https://www.csmonitor.com/World/Americas/2020/0730/Pandemic-pen-pals-How-Colombian-libraries-lift-spirits?cmpid=shared-twitter",
+					"display_url": "csmonitor.com/World/Americas…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 717284725,
+			"id_str": "717284725",
+			"name": "Jane Cowell",
+			"screen_name": "janecowell8",
+			"location": "Melbourne, Victoria",
+			"description": "Library Industry Speaker, Librarian, innovator, interested in digital disruption, startups, Australian politics, views are my own, retweets are not endorsements",
+			"url": "https://t.co/qsQRjQOlG2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qsQRjQOlG2",
+							"expanded_url": "https://www.linkedin.com/home?trk=nav_responsive_tab_home",
+							"display_url": "linkedin.com/home?trk=nav_r…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3971,
+			"friends_count": 3493,
+			"listed_count": 594,
+			"created_at": "Thu Jul 26 03:12:40 +0000 2012",
+			"favourites_count": 34030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283272019836952576/dxJYQC9C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283272019836952576/dxJYQC9C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/717284725/1569321430",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pandemic pen pals: How Colombian libraries lift spirits via @csmonitor https://t.co/ysT1ogIFWx via @ALIANational"
+	},
+	{
 		"created_at": "Tue Aug 18 20:34:48 +0000 2020",
 		"id": 1295821472275902500,
 		"id_str": "1295821472275902464",
