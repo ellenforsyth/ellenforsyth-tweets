@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 20 19:50:43 +0000 2020",
+		"id": 1296534186468114400,
+		"id_str": "1296535153242562560",
+		"full_text": "Greenland loses 532 gigatonnes of ice in single year https://t.co/Ga15M1FsBy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ga15M1FsBy",
+					"expanded_url": "https://www.abc.net.au/news/2020-08-21/study-finds-greenlands-ice-sheet-saw-record-mass-loss-in-2019/12581428",
+					"display_url": "abc.net.au/news/2020-08-2…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1700846,
+			"friends_count": 1202,
+			"listed_count": 12216,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 300765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1594688893",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Greenland loses 532 gigatonnes of ice in single year https://t.co/Ga15M1FsBy"
+	},
+	{
 		"created_at": "Wed Aug 19 21:02:38 +0000 2020",
 		"id": 1296190863727419400,
 		"id_str": "1296190863727419393",
