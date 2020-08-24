@@ -1,6 +1,749 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 24 03:41:20 +0000 2020",
+		"id": 1296600731772792800,
+		"id_str": "1297740750566768645",
+		"full_text": "I'm sure I RT'd this before, passed it on from so many people in my twitter circles. But, I'm just now READING it, and it is amazing. To all non-Romance writers/readers/friends that follow me, it's worth your time. Especially if you're involved in books. https://t.co/XZcdD5endj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XZcdD5endj",
+					"expanded_url": "https://www.texasmonthly.com/the-culture/vivian-stephens-helped-turn-romance-writing-into-billion-dollar-industry/",
+					"display_url": "texasmonthly.com/the-culture/vi…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20703602,
+			"id_str": "20703602",
+			"name": "IAmRobinB⚾️🍹🎼📚",
+			"screen_name": "Tuphlos",
+			"location": "Midwest start/PNW currently",
+			"description": "librarian. lawyer. book concierge, baseball addict, #WhiteSox fan, Also soccer & tennis! Quite Black, 2016 RWA Cathie Linz Librarian of the Year. She/Her",
+			"url": "https://t.co/d2sMt70NRE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d2sMt70NRE",
+							"expanded_url": "http://ko-fi.com/robinbradford",
+							"display_url": "ko-fi.com/robinbradford",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8471,
+			"friends_count": 3099,
+			"listed_count": 386,
+			"created_at": "Thu Feb 12 18:54:05 +0000 2009",
+			"favourites_count": 27198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 349135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286870850335981568/f5z7utEl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286870850335981568/f5z7utEl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20703602/1404306997",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm sure I RT'd this before, passed it on from so many people in my twitter circles. But, I'm just now READING it, and it is amazing. To all non-Romance writers/readers/friends that follow me, it's worth your time. Especially if you're involved in books. https://t.co/XZcdD5endj"
+	},
+	{
+		"created_at": "Mon Aug 24 03:32:59 +0000 2020",
+		"id": 1297724466198282200,
+		"id_str": "1297738650046750720",
+		"full_text": "That's #LivePenguinTV from 6pm, Tuesday, 25 August.\n\nFetch some snacks and settle in for🐧🐧🐧 https://t.co/cza0k2LjVh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LivePenguinTV",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cza0k2LjVh",
+					"expanded_url": "https://twitter.com/PhillipIslandNP/status/1297670214922858496",
+					"display_url": "twitter.com/PhillipIslandN…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52325959,
+			"id_str": "52325959",
+			"name": "Dr Rachel Franks",
+			"screen_name": "cfwriter",
+			"location": "Sydney : Gadigal Land, NSW",
+			"description": "crime fiction / true crime / history / information science / popular culture / cats + kittens / opinions own, subject to change / noisy / she, her",
+			"url": "https://t.co/VD2ArN9iyY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VD2ArN9iyY",
+							"expanded_url": "https://rachelfranks.academia.edu",
+							"display_url": "rachelfranks.academia.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1473,
+			"friends_count": 1241,
+			"listed_count": 61,
+			"created_at": "Tue Jun 30 06:33:54 +0000 2009",
+			"favourites_count": 12969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/291719587/cfwriter_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/291719587/cfwriter_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52325959/1356151203",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1297670214922858500,
+		"quoted_status_id_str": "1297670214922858496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cza0k2LjVh",
+			"expanded": "https://twitter.com/PhillipIslandNP/status/1297670214922858496",
+			"display": "twitter.com/PhillipIslandN…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 23 23:01:03 +0000 2020",
+			"id": 1297670214922858500,
+			"id_str": "1297670214922858496",
+			"full_text": "Exciting announcement: We will be live streaming the nightly Penguin Parade straight into your loungerooms starting tomorrow night at 6pm 🎉 tune in via our Facebook page or YouTube channel to ask our rangers questions in real-time! More: https://t.co/hXiDXT5Xfs #LivePenguinTV https://t.co/zRypoaj5Oc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LivePenguinTV",
+						"indices": [
+							262,
+							276
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hXiDXT5Xfs",
+						"expanded_url": "https://www.penguins.org.au/virtual/live-penguin-tv",
+						"display_url": "penguins.org.au/virtual/live-p…",
+						"indices": [
+							238,
+							261
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1297668909785464800,
+						"id_str": "1297668909785464832",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1297668909785464832/pu/img/Wn-WTQACpq0u1Vie.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1297668909785464832/pu/img/Wn-WTQACpq0u1Vie.jpg",
+						"url": "https://t.co/zRypoaj5Oc",
+						"display_url": "pic.twitter.com/zRypoaj5Oc",
+						"expanded_url": "https://twitter.com/PhillipIslandNP/status/1297670214922858496/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1297668909785464800,
+						"id_str": "1297668909785464832",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1297668909785464832/pu/img/Wn-WTQACpq0u1Vie.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1297668909785464832/pu/img/Wn-WTQACpq0u1Vie.jpg",
+						"url": "https://t.co/zRypoaj5Oc",
+						"display_url": "pic.twitter.com/zRypoaj5Oc",
+						"expanded_url": "https://twitter.com/PhillipIslandNP/status/1297670214922858496/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 22231,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1297668909785464832/pu/pl/B04Mvfy8oaaiZoCS.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1297668909785464832/pu/vid/1280x720/3kWjDjtGt0P78q3U.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1297668909785464832/pu/vid/640x360/A0tqoHnBQ7dBMGbb.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1297668909785464832/pu/vid/480x270/qBdxZD9ZAD9T2lIC.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 104721721,
+				"id_str": "104721721",
+				"name": "Phillip Island Nature Parks",
+				"screen_name": "PhillipIslandNP",
+				"location": "Victoria, Australia",
+				"description": "Conservation organisation operating complementary ecotourism experiences. Our purpose is to protect nature for wildlife and inspire people to act.",
+				"url": "https://t.co/YrqrDwlJ9m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YrqrDwlJ9m",
+								"expanded_url": "http://www.penguins.org.au",
+								"display_url": "penguins.org.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2432,
+				"friends_count": 756,
+				"listed_count": 56,
+				"created_at": "Thu Jan 14 05:23:26 +0000 2010",
+				"favourites_count": 1171,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1436,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084680756352315393/RqOTV5QG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084680756352315393/RqOTV5QG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/104721721/1547443251",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That's #LivePenguinTV from 6pm, Tuesday, 25 August.\n\nFetch some snacks and settle in for🐧🐧🐧 https://t.co/cza0k2LjVh"
+	},
+	{
+		"created_at": "Mon Aug 24 01:01:38 +0000 2020",
+		"id": 1297700234114539500,
+		"id_str": "1297700561660387329",
+		"full_text": "Public libraries across the state have adapted and thrived in response to #COVID19. Our new report describes how #nswpubliclibraries continue to support their communities with innovative services during these challenging times.\n\nFind it here: https://t.co/RDEoposiaS https://t.co/0FlAWQ54ta",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "nswpubliclibraries",
+					"indices": [
+						113,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RDEoposiaS",
+					"expanded_url": "https://www.sl.nsw.gov.au/public-library-services/covid-19-survey",
+					"display_url": "sl.nsw.gov.au/public-library…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1297700230620684300,
+					"id_str": "1297700230620684290",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EgJbe_cWoAIPMFd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgJbe_cWoAIPMFd.jpg",
+					"url": "https://t.co/0FlAWQ54ta",
+					"display_url": "pic.twitter.com/0FlAWQ54ta",
+					"expanded_url": "https://twitter.com/statelibrarynsw/status/1297700234114539522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1254,
+							"h": 836,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1297700230620684300,
+					"id_str": "1297700230620684290",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EgJbe_cWoAIPMFd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgJbe_cWoAIPMFd.jpg",
+					"url": "https://t.co/0FlAWQ54ta",
+					"display_url": "pic.twitter.com/0FlAWQ54ta",
+					"expanded_url": "https://twitter.com/statelibrarynsw/status/1297700234114539522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1254,
+							"h": 836,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121597205,
+			"id_str": "121597205",
+			"name": "State Library of NSW",
+			"screen_name": "statelibrarynsw",
+			"location": "Sydney, Australia",
+			"description": "Collecting, connecting and challenging ideas since 1826. Funded by the NSW Government.",
+			"url": "https://t.co/M4rzAKs3RK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M4rzAKs3RK",
+							"expanded_url": "http://www.sl.nsw.gov.au",
+							"display_url": "sl.nsw.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17627,
+			"friends_count": 1015,
+			"listed_count": 450,
+			"created_at": "Wed Mar 10 00:43:42 +0000 2010",
+			"favourites_count": 6417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937050911/intero_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937050911/intero_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121597205/1504572564",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A6A6A6",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Public libraries across the state have adapted and thrived in response to #COVID19. Our new report describes how #nswpubliclibraries continue to support their communities with innovative services during these challenging times.\n\nFind it here: https://t.co/RDEoposiaS https://t.co/0FlAWQ54ta"
+	},
+	{
+		"created_at": "Sun Aug 23 22:39:52 +0000 2020",
+		"id": 1295503417914167300,
+		"id_str": "1297664886235967488",
+		"full_text": "To meet the needs of Australian patients, we need an additional 10,383 blood and plasma donors over the next two weeks.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36544738,
+			"id_str": "36544738",
+			"name": "lifebloodau",
+			"screen_name": "lifebloodau",
+			"location": "Australia",
+			"description": "Lifeblood. Give Life. Give Blood. Call 13 14 95 or book online. #lifebloodau",
+			"url": "https://t.co/xuv0HFWp3T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xuv0HFWp3T",
+							"expanded_url": "https://lifebloodau.com/2rKMGXW",
+							"display_url": "lifebloodau.com/2rKMGXW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18775,
+			"friends_count": 2864,
+			"listed_count": 199,
+			"created_at": "Thu Apr 30 01:03:11 +0000 2009",
+			"favourites_count": 8011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195076658622951424/DcSTK-oq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195076658622951424/DcSTK-oq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36544738/1594253830",
+			"profile_link_color": "FF0D00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0E0E0",
+			"profile_text_color": "242324",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "To meet the needs of Australian patients, we need an additional 10,383 blood and plasma donors over the next two weeks."
+	},
+	{
 		"created_at": "Fri Aug 21 10:53:09 +0000 2020",
 		"id": 1290334112255901700,
 		"id_str": "1296762258811314177",
