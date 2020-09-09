@@ -1,10 +1,209 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 08 09:10:42 +0000 2020",
+		"id": 1303252507825766400,
+		"id_str": "1303259455782440960",
+		"full_text": "Tomorrow 9 Sept is UN International Day to Protect Education from Attack.  Several textiles documented in #conflicttextiles include messages about protection of education and lack of access.  For example the #arpillera We have no access to public services https://t.co/Ah7ZcsRlCa https://t.co/BoLdZAE93D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "conflicttextiles",
+					"indices": [
+						106,
+						123
+					]
+				},
+				{
+					"text": "arpillera",
+					"indices": [
+						208,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ah7ZcsRlCa",
+					"expanded_url": "https://cain.ulster.ac.uk/conflicttextiles/search-quilts2/fulltextiles1/?id=29",
+					"display_url": "cain.ulster.ac.uk/conflicttextil…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303252416830242800,
+					"id_str": "1303252416830242816",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYVKw3WAAAS_4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYVKw3WAAAS_4F.jpg",
+					"url": "https://t.co/BoLdZAE93D",
+					"display_url": "pic.twitter.com/BoLdZAE93D",
+					"expanded_url": "https://twitter.com/conflicttextil1/status/1303252507825766400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303252416830242800,
+					"id_str": "1303252416830242816",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EhYVKw3WAAAS_4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhYVKw3WAAAS_4F.jpg",
+					"url": "https://t.co/BoLdZAE93D",
+					"display_url": "pic.twitter.com/BoLdZAE93D",
+					"expanded_url": "https://twitter.com/conflicttextil1/status/1303252507825766400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1140934710119620600,
+			"id_str": "1140934710119620608",
+			"name": "@conflicttextiles",
+			"screen_name": "conflicttextil1",
+			"location": "Ulster University",
+			"description": "Conflict Textiles is a large collection of international textiles, exhibitions and associated events, all of which focus on elements of conflict + human rights.",
+			"url": "https://t.co/Gm289GNhhR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Gm289GNhhR",
+							"expanded_url": "https://cain.ulster.ac.uk/conflicttextiles/",
+							"display_url": "cain.ulster.ac.uk/conflicttextil…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396,
+			"friends_count": 585,
+			"listed_count": 4,
+			"created_at": "Tue Jun 18 10:50:07 +0000 2019",
+			"favourites_count": 403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140935219635281921/KgsMfNow_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140935219635281921/KgsMfNow_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140934710119620608/1596104349",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tomorrow 9 Sept is UN International Day to Protect Education from Attack.  Several textiles documented in #conflicttextiles include messages about protection of education and lack of access.  For example the #arpillera We have no access to public services https://t.co/Ah7ZcsRlCa https://t.co/BoLdZAE93D"
+	},
+	{
 		"created_at": "Mon Sep 07 10:48:13 +0000 2020",
 		"id": 1302921609901031400,
 		"id_str": "1302921609901031425",
-		"full_text": "What the country is reading during the pandemic: Dystopias, social justice and steamy romance via ⁦@washingtonpost⁩ interesting article about what people in the USA are reading (How is your reading going?) https://t.co/Ujt3MR0eWA",
+		"full_text": "What the country is reading during the pandemic: Dystopias, social justice and steamy romance via @washingtonpost interesting article about what people in the USA are reading (How is your reading going?) https://t.co/Ujt3MR0eWA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -115,7 +314,7 @@ Grailbird.data.tweets_2020_09 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "What the country is reading during the pandemic: Dystopias, social justice and steamy romance via ⁦@washingtonpost⁩ interesting article about what people in the USA are reading (How is your reading going?) https://t.co/Ujt3MR0eWA"
+		"text": "What the country is reading during the pandemic: Dystopias, social justice and steamy romance via @washingtonpost interesting article about what people in the USA are reading (How is your reading going?) https://t.co/Ujt3MR0eWA"
 	},
 	{
 		"created_at": "Sun Sep 06 23:00:18 +0000 2020",
