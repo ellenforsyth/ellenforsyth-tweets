@@ -1,6 +1,676 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 21:17:49 +0000 2020",
+		"id": 1302638949945483300,
+		"id_str": "1304167218100408320",
+		"full_text": "Virus-Responsive Design: In the age of COVID-19, architects merge future-facing innovations with present-day needs, by @LaraEwen   https://t.co/VSbR18K6Mm https://t.co/KfMTEmyiTN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaraEwen",
+					"name": "Lara Ewen",
+					"id": 124603215,
+					"id_str": "124603215",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VSbR18K6Mm",
+					"expanded_url": "https://bit.ly/2ZfteR9",
+					"display_url": "bit.ly/2ZfteR9",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302638947156328400,
+					"id_str": "1302638947156328453",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EhPnOIPXgAU4A1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhPnOIPXgAU4A1B.jpg",
+					"url": "https://t.co/KfMTEmyiTN",
+					"display_url": "pic.twitter.com/KfMTEmyiTN",
+					"expanded_url": "https://twitter.com/amlibraries/status/1302638949945483264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302638947156328400,
+					"id_str": "1302638947156328453",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EhPnOIPXgAU4A1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhPnOIPXgAU4A1B.jpg",
+					"url": "https://t.co/KfMTEmyiTN",
+					"display_url": "pic.twitter.com/KfMTEmyiTN",
+					"expanded_url": "https://twitter.com/amlibraries/status/1302638949945483264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 647,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18955776,
+			"id_str": "18955776",
+			"name": "American Libraries",
+			"screen_name": "amlibraries",
+			"location": "Chicago",
+			"description": "Magazine of the American Library Association. Tweeters include Amy Carlton, Terra Dankowski, Phil Morehart, Sallyann Price & Sanhita SinhaRoy.",
+			"url": "http://t.co/2Dq9yGNmHL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2Dq9yGNmHL",
+							"expanded_url": "http://americanlibrariesmagazine.org",
+							"display_url": "americanlibrariesmagazine.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87615,
+			"friends_count": 1135,
+			"listed_count": 2293,
+			"created_at": "Tue Jan 13 22:08:09 +0000 2009",
+			"favourites_count": 895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18955776/1592338195",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Virus-Responsive Design: In the age of COVID-19, architects merge future-facing innovations with present-day needs, by @LaraEwen   https://t.co/VSbR18K6Mm https://t.co/KfMTEmyiTN"
+	},
+	{
+		"created_at": "Thu Sep 10 21:15:39 +0000 2020",
+		"id": 1304166673201524700,
+		"id_str": "1304166673201524736",
+		"full_text": "Revisiting the Tongan co-collecting stories of Project 83: Small Things Matter – Sini Atoa https://t.co/CZNSri7tgf via @te_papa make sure you read the other posts in this series, some lovely collecting stories, with ideas for local studies",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Te_Papa",
+					"name": "Te Papa",
+					"id": 29090322,
+					"id_str": "29090322",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CZNSri7tgf",
+					"expanded_url": "https://blog.tepapa.govt.nz/2020/09/08/revisiting-the-tongan-co-collecting-stories-of-project-83-small-things-matter-sini-atoa/",
+					"display_url": "blog.tepapa.govt.nz/2020/09/08/rev…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2532,
+			"friends_count": 873,
+			"listed_count": 226,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Revisiting the Tongan co-collecting stories of Project 83: Small Things Matter – Sini Atoa https://t.co/CZNSri7tgf via @te_papa make sure you read the other posts in this series, some lovely collecting stories, with ideas for local studies"
+	},
+	{
+		"created_at": "Thu Sep 10 21:12:51 +0000 2020",
+		"id": 1301525481225740300,
+		"id_str": "1304165965567991808",
+		"full_text": "#REALMproject Test 4 results out: Retesting on 4 common library materials shows COVID-19 still detectable after 6 days when stacked; same for expanded polyethylene foam—commonly used in museums—when tested unstacked. Details: https://t.co/n4yEAqniSh #COVIDlibraries",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REALMproject",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "COVIDlibraries",
+					"indices": [
+						250,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n4yEAqniSh",
+					"expanded_url": "http://oc.lc/test4-results",
+					"display_url": "oc.lc/test4-results",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14468453,
+			"id_str": "14468453",
+			"name": "WebJunction",
+			"screen_name": "WebJunction",
+			"location": "Seattle and Everywhere",
+			"description": "The learning place for libraries.",
+			"url": "http://t.co/BY20heZycy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BY20heZycy",
+							"expanded_url": "http://webjunction.org",
+							"display_url": "webjunction.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7076,
+			"friends_count": 1313,
+			"listed_count": 469,
+			"created_at": "Mon Apr 21 23:44:43 +0000 2008",
+			"favourites_count": 3220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1D6B73",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458690288974692352/Q0oMPHoW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458690288974692352/Q0oMPHoW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14468453/1446242809",
+			"profile_link_color": "005B63",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#REALMproject Test 4 results out: Retesting on 4 common library materials shows COVID-19 still detectable after 6 days when stacked; same for expanded polyethylene foam—commonly used in museums—when tested unstacked. Details: https://t.co/n4yEAqniSh #COVIDlibraries"
+	},
+	{
+		"created_at": "Thu Sep 10 21:12:04 +0000 2020",
+		"id": 1304064618176737300,
+		"id_str": "1304165768918048769",
+		"full_text": "#REALMproject Test 5 announced: COVID testing is currently underway on four fabrics — upholstery, cotton, vinyl, and nylon — and leather bookbinding common to archives, libraries, and museums.\n \nLearn more about the materials being tested: https://t.co/kxI8LzY2Kd #COVIDlibraries",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REALMproject",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "COVIDlibraries",
+					"indices": [
+						264,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kxI8LzY2Kd",
+					"expanded_url": "http://oc.lc/realm-happening-now",
+					"display_url": "oc.lc/realm-happenin…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14468453,
+			"id_str": "14468453",
+			"name": "WebJunction",
+			"screen_name": "WebJunction",
+			"location": "Seattle and Everywhere",
+			"description": "The learning place for libraries.",
+			"url": "http://t.co/BY20heZycy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BY20heZycy",
+							"expanded_url": "http://webjunction.org",
+							"display_url": "webjunction.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7076,
+			"friends_count": 1313,
+			"listed_count": 469,
+			"created_at": "Mon Apr 21 23:44:43 +0000 2008",
+			"favourites_count": 3220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1D6B73",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458690288974692352/Q0oMPHoW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458690288974692352/Q0oMPHoW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14468453/1446242809",
+			"profile_link_color": "005B63",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#REALMproject Test 5 announced: COVID testing is currently underway on four fabrics — upholstery, cotton, vinyl, and nylon — and leather bookbinding common to archives, libraries, and museums.\n \nLearn more about the materials being tested: https://t.co/kxI8LzY2Kd #COVIDlibraries"
+	},
+	{
+		"created_at": "Thu Sep 10 20:13:43 +0000 2020",
+		"id": 1304052627739680800,
+		"id_str": "1304151086932963328",
+		"full_text": "Actor Diana Rigg dies aged 82 https://t.co/EKENgnfWkF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EKENgnfWkF",
+					"expanded_url": "https://www.theguardian.com/tv-and-radio/2020/sep/10/actor-diana-rigg-dies-aged-82?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1599745348",
+					"display_url": "theguardian.com/tv-and-radio/2…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87818409,
+			"id_str": "87818409",
+			"name": "The Guardian",
+			"screen_name": "guardian",
+			"location": "London",
+			"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+			"url": "https://t.co/c53pnmnuIT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c53pnmnuIT",
+							"expanded_url": "https://www.theguardian.com",
+							"display_url": "theguardian.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gWyuUVlObq",
+							"expanded_url": "https://support.theguardian.com",
+							"display_url": "support.theguardian.com",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9076218,
+			"friends_count": 1084,
+			"listed_count": 61463,
+			"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 623618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1569228354",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CAE3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 551,
+		"favorite_count": 1359,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Actor Diana Rigg dies aged 82 https://t.co/EKENgnfWkF"
+	},
+	{
 		"created_at": "Tue Sep 08 09:10:42 +0000 2020",
 		"id": 1303252507825766400,
 		"id_str": "1303259455782440960",
