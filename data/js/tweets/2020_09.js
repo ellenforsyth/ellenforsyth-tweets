@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 11 22:46:37 +0000 2020",
+		"id": 1304551952479596500,
+		"id_str": "1304551952479596545",
+		"full_text": "really appreciate being able to listen to #SOHA2020 (okay I was not listening in the middle of the night) but really great to be able to hear some amazing people https://t.co/RniJGstEIk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOHA2020",
+					"indices": [
+						42,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RniJGstEIk",
+					"expanded_url": "https://twitter.com/SWoralhistory/status/1304549096049565702",
+					"display_url": "twitter.com/SWoralhistory/…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2534,
+			"friends_count": 874,
+			"listed_count": 226,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1304549096049565700,
+		"quoted_status_id_str": "1304549096049565702",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RniJGstEIk",
+			"expanded": "https://twitter.com/SWoralhistory/status/1304549096049565702",
+			"display": "twitter.com/SWoralhistory/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 11 22:35:16 +0000 2020",
+			"id": 1304549096049565700,
+			"id_str": "1304549096049565702",
+			"full_text": "Love listening to Jean LaMarr and Jack Malotte with Fawn Douglas\n#SOHA2020 Plenary happening now\nJoin us! https://t.co/8NMA6lNuZo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SOHA2020",
+						"indices": [
+							65,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1304549086159405000,
+						"id_str": "1304549086159405057",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/Ehqwe2iXgAEJKKm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ehqwe2iXgAEJKKm.jpg",
+						"url": "https://t.co/8NMA6lNuZo",
+						"display_url": "pic.twitter.com/8NMA6lNuZo",
+						"expanded_url": "https://twitter.com/SWoralhistory/status/1304549096049565702/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1275,
+								"h": 1650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 927,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1304549086159405000,
+						"id_str": "1304549086159405057",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/Ehqwe2iXgAEJKKm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ehqwe2iXgAEJKKm.jpg",
+						"url": "https://t.co/8NMA6lNuZo",
+						"display_url": "pic.twitter.com/8NMA6lNuZo",
+						"expanded_url": "https://twitter.com/SWoralhistory/status/1304549096049565702/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1275,
+								"h": 1650,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 927,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2832308606,
+				"id_str": "2832308606",
+				"name": "Southwest Oral History Association",
+				"screen_name": "SWoralhistory",
+				"location": "University of Nevada Las Vegas",
+				"description": "Southwest Oral History Association (SOHA) was founded in 1981 to serve oral history practitioners in Arizona, California, Nevada, New Mexico, and beyond.",
+				"url": "https://t.co/YZTPlHljLB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YZTPlHljLB",
+								"expanded_url": "http://www.southwestoralhistory.org",
+								"display_url": "southwestoralhistory.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1085,
+				"friends_count": 1177,
+				"listed_count": 39,
+				"created_at": "Thu Sep 25 22:57:19 +0000 2014",
+				"favourites_count": 4564,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3945,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1154412243485728768/k43IWvf__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154412243485728768/k43IWvf__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2832308606/1585761973",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "really appreciate being able to listen to #SOHA2020 (okay I was not listening in the middle of the night) but really great to be able to hear some amazing people https://t.co/RniJGstEIk"
+	},
+	{
 		"created_at": "Thu Sep 10 21:17:49 +0000 2020",
 		"id": 1302638949945483300,
 		"id_str": "1304167218100408320",
