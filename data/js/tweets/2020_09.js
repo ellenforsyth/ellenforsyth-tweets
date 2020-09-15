@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 10:41:09 +0000 2020",
+		"id": 1305340224655036400,
+		"id_str": "1305456546214604800",
+		"full_text": "We've cross-bred a dwarf breed of grape that continuously fruits all year round. But we'd be very grapeful for some help. 🍇 https://t.co/TOfUzc6rIo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TOfUzc6rIo",
+					"expanded_url": "https://www.northqueenslandregister.com.au/story/6916959/farmers-wanted-for-dwarf-grape-vines-that-fruit-all-year-round/?src=rss",
+					"display_url": "northqueenslandregister.com.au/story/6916959/…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174083824,
+			"id_str": "174083824",
+			"name": "CSIRO",
+			"screen_name": "CSIRO",
+			"location": "Australia",
+			"description": "We ♥ science. We're Australia's national science agency. We solve the greatest challenges through innovative science and technology. RTs not endorsements.",
+			"url": "https://t.co/uQjDbxq1tI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uQjDbxq1tI",
+							"expanded_url": "http://www.csiro.au/",
+							"display_url": "csiro.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100969,
+			"friends_count": 1740,
+			"listed_count": 1575,
+			"created_at": "Tue Aug 03 02:06:21 +0000 2010",
+			"favourites_count": 4538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "02A9CE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235684634026848256/u3nJZOPS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235684634026848256/u3nJZOPS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174083824/1598829305",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3FFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We've cross-bred a dwarf breed of grape that continuously fruits all year round. But we'd be very grapeful for some help. 🍇 https://t.co/TOfUzc6rIo"
+	},
+	{
 		"created_at": "Fri Sep 11 22:46:37 +0000 2020",
 		"id": 1304551952479596500,
 		"id_str": "1304551952479596545",
