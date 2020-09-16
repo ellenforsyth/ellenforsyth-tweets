@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 15 22:13:40 +0000 2020",
+		"id": 1305993209676353500,
+		"id_str": "1305993209676353536",
+		"full_text": "Some very interesting reading https://t.co/O5nrLXNXOe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O5nrLXNXOe",
+					"expanded_url": "https://twitter.com/oralhistreview/status/1301884349114089472",
+					"display_url": "twitter.com/oralhistreview…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 875,
+			"listed_count": 226,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1301884349114089500,
+		"quoted_status_id_str": "1301884349114089472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O5nrLXNXOe",
+			"expanded": "https://twitter.com/oralhistreview/status/1301884349114089472",
+			"display": "twitter.com/oralhistreview…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 04 14:06:31 +0000 2020",
+			"id": 1301884349114089500,
+			"id_str": "1301884349114089472",
+			"full_text": "OHR is pleased to release our special section on #oralhistory and #COVID19, with contributions from some very thoughtful folks working in and thinking about the field. @RoutledgeHist has released the paywall from all the articles in this section. https://t.co/PpeFZn6DoZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oralhistory",
+						"indices": [
+							49,
+							61
+						]
+					},
+					{
+						"text": "COVID19",
+						"indices": [
+							66,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RoutledgeHist",
+						"name": "Routledge History, Heritage Studies & Archaeology",
+						"id": 119432340,
+						"id_str": "119432340",
+						"indices": [
+							168,
+							182
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PpeFZn6DoZ",
+						"expanded_url": "https://wp.me/p9CReP-FJ",
+						"display_url": "wp.me/p9CReP-FJ",
+						"indices": [
+							247,
+							270
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 575466011,
+				"id_str": "575466011",
+				"name": "Oral History Review",
+				"screen_name": "oralhistreview",
+				"location": "",
+				"description": "The Oral History Review, published by the Oral History Association, is the U.S. journal of record for the theory and practice of oral history.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5297,
+				"friends_count": 309,
+				"listed_count": 117,
+				"created_at": "Wed May 09 15:55:53 +0000 2012",
+				"favourites_count": 763,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2592,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230563609761042434/g6CTG29i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230563609761042434/g6CTG29i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/575466011/1582224203",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some very interesting reading https://t.co/O5nrLXNXOe"
+	},
+	{
 		"created_at": "Mon Sep 14 10:41:09 +0000 2020",
 		"id": 1305340224655036400,
 		"id_str": "1305456546214604800",
