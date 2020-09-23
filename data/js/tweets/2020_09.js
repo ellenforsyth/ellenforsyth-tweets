@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 22:14:40 +0000 2020",
+		"id": 1308518956127445000,
+		"id_str": "1308530177014595584",
+		"full_text": "Police discovered the trove of books—neatly wrapped and buried in a cement pit—beneath a house in Neamț, a county in eastern Romania, last Wednesday. https://t.co/1uXWb3bLdm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1uXWb3bLdm",
+					"expanded_url": "http://ow.ly/7o6O50Byhnm",
+					"display_url": "ow.ly/7o6O50Byhnm",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17998609,
+			"id_str": "17998609",
+			"name": "Smithsonian Magazine",
+			"screen_name": "SmithsonianMag",
+			"location": "Washington, D.C.",
+			"description": "Official Twitter feed for Smithsonian magazine. @ replies may be reprinted in the magazine. Legal: http://t.co/FT9zvv7aQC",
+			"url": "http://t.co/tDPmKOzpk2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tDPmKOzpk2",
+							"expanded_url": "http://smithsonianmag.com",
+							"display_url": "smithsonianmag.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/FT9zvv7aQC",
+							"expanded_url": "http://www.si.edu/Termsofuse",
+							"display_url": "si.edu/Termsofuse",
+							"indices": [
+								99,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 298831,
+			"friends_count": 648,
+			"listed_count": 6262,
+			"created_at": "Tue Dec 09 18:52:17 +0000 2008",
+			"favourites_count": 762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 129752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2677315307/207d6d6e13e8c4b3da5f609397433a09_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2677315307/207d6d6e13e8c4b3da5f609397433a09_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17998609/1398267980",
+			"profile_link_color": "25707D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Police discovered the trove of books—neatly wrapped and buried in a cement pit—beneath a house in Neamț, a county in eastern Romania, last Wednesday. https://t.co/1uXWb3bLdm"
+	},
+	{
+		"created_at": "Tue Sep 22 22:09:33 +0000 2020",
+		"id": 1308528891250667500,
+		"id_str": "1308528891250667522",
+		"full_text": "this is helpful to hear - and via an alert from @artefactors https://t.co/Fy5974mruB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "artefactors",
+					"name": "artefacto",
+					"id": 880391678,
+					"id_str": "880391678",
+					"indices": [
+						48,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fy5974mruB",
+					"expanded_url": "https://twitter.com/pubperspectives/status/1307887284159737856",
+					"display_url": "twitter.com/pubperspective…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2532,
+			"friends_count": 876,
+			"listed_count": 226,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1307887284159737900,
+		"quoted_status_id_str": "1307887284159737856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Fy5974mruB",
+			"expanded": "https://twitter.com/pubperspectives/status/1307887284159737856",
+			"display": "twitter.com/pubperspective…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 21 03:40:02 +0000 2020",
+			"id": 1307887284159737900,
+			"id_str": "1307887284159737856",
+			"full_text": "From the week: Sharjah World Book Capital Leads Beirut Library Restoration Aid | @Porter_Anderson https://t.co/D3gIAT2NwC | @SharjahWBC @UNESCO @Bodour @AssabilNGO | Three damaged libraries are receiving aid, following the August 4 explosion that rocked the Lebanese capital https://t.co/URlRFCJpZ1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Porter_Anderson",
+						"name": "Porter Anderson",
+						"id": 39469575,
+						"id_str": "39469575",
+						"indices": [
+							81,
+							97
+						]
+					},
+					{
+						"screen_name": "SharjahWBC",
+						"name": "Sharjah WBC",
+						"id": 871284597128142800,
+						"id_str": "871284597128142848",
+						"indices": [
+							124,
+							135
+						]
+					},
+					{
+						"screen_name": "UNESCO",
+						"name": "UNESCO",
+						"id": 20646711,
+						"id_str": "20646711",
+						"indices": [
+							136,
+							143
+						]
+					},
+					{
+						"screen_name": "Bodour",
+						"name": "Bodour Al Qasimi",
+						"id": 35177059,
+						"id_str": "35177059",
+						"indices": [
+							144,
+							151
+						]
+					},
+					{
+						"screen_name": "AssabilNGO",
+						"name": "Assabil Association",
+						"id": 811549366653780000,
+						"id_str": "811549366653779969",
+						"indices": [
+							152,
+							163
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/D3gIAT2NwC",
+						"expanded_url": "https://bit.ly/32yCyBi",
+						"display_url": "bit.ly/32yCyBi",
+						"indices": [
+							98,
+							121
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1307887282926563300,
+						"id_str": "1307887282926563334",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/EiaMjekWsAYov-B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiaMjekWsAYov-B.jpg",
+						"url": "https://t.co/URlRFCJpZ1",
+						"display_url": "pic.twitter.com/URlRFCJpZ1",
+						"expanded_url": "https://twitter.com/pubperspectives/status/1307887284159737856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 710,
+								"h": 462,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 710,
+								"h": 462,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1307887282926563300,
+						"id_str": "1307887282926563334",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/EiaMjekWsAYov-B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiaMjekWsAYov-B.jpg",
+						"url": "https://t.co/URlRFCJpZ1",
+						"display_url": "pic.twitter.com/URlRFCJpZ1",
+						"expanded_url": "https://twitter.com/pubperspectives/status/1307887284159737856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 710,
+								"h": 462,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 710,
+								"h": 462,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35750107,
+				"id_str": "35750107",
+				"name": "PubPerspectives",
+				"screen_name": "pubperspectives",
+				"location": "global",
+				"description": "International book publishing news and opinion magazine served daily via email. Subscribe for FREE at http://t.co/aWE5FmVIPq",
+				"url": "http://t.co/YVICqhLdas",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YVICqhLdas",
+								"expanded_url": "http://publishingperspectives.com",
+								"display_url": "publishingperspectives.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/aWE5FmVIPq",
+								"expanded_url": "http://publishingperspectives.com/subscribe",
+								"display_url": "publishingperspectives.com/subscribe",
+								"indices": [
+									102,
+									124
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 37058,
+				"friends_count": 7349,
+				"listed_count": 1774,
+				"created_at": "Mon Apr 27 14:11:54 +0000 2009",
+				"favourites_count": 5681,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27224,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/586539821331394560/RmJEMMUH_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/586539821331394560/RmJEMMUH_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35750107/1427557977",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is helpful to hear - and via an alert from @artefactors https://t.co/Fy5974mruB"
+	},
+	{
 		"created_at": "Thu Sep 17 19:51:20 +0000 2020",
 		"id": 1306682166831509500,
 		"id_str": "1306682166831509504",
