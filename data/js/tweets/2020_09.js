@@ -1,6 +1,1145 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 27 06:45:51 +0000 2020",
+		"id": 1310108372264349700,
+		"id_str": "1310108372264349698",
+		"full_text": "Fair Isle through a lens - Episode 32 https://t.co/9KqTwA932e via @barklandcroft lovely local studies video about a museum on Fair Isle + knitting, great inclusion for #ShetlandWoolWeek , #ShetlandWoolWeekOnline is the closest I have been able to get to this amazing festival.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShetlandWoolWeek",
+					"indices": [
+						168,
+						185
+					]
+				},
+				{
+					"text": "ShetlandWoolWeekOnline",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "barklandcroft",
+					"name": "Barkland Croft",
+					"id": 3213344007,
+					"id_str": "3213344007",
+					"indices": [
+						66,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9KqTwA932e",
+					"expanded_url": "https://youtu.be/5uMMM4LhkFI",
+					"display_url": "youtu.be/5uMMM4LhkFI",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 878,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fair Isle through a lens - Episode 32 https://t.co/9KqTwA932e via @barklandcroft lovely local studies video about a museum on Fair Isle + knitting, great inclusion for #ShetlandWoolWeek , #ShetlandWoolWeekOnline is the closest I have been able to get to this amazing festival."
+	},
+	{
+		"created_at": "Fri Sep 25 20:49:02 +0000 2020",
+		"id": 1309595792814952400,
+		"id_str": "1309595792814952450",
+		"full_text": "brilliant https://t.co/PUTW5rfXnB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PUTW5rfXnB",
+					"expanded_url": "https://twitter.com/corningmuseum/status/1308829940238909441",
+					"display_url": "twitter.com/corningmuseum/…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 878,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1308829940238909400,
+		"quoted_status_id_str": "1308829940238909441",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PUTW5rfXnB",
+			"expanded": "https://twitter.com/corningmuseum/status/1308829940238909441",
+			"display": "twitter.com/corningmuseum/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 23 18:05:49 +0000 2020",
+			"id": 1308829940238909400,
+			"id_str": "1308829940238909441",
+			"full_text": "Watch our glassmakers bring the heat this fall in our new live stream series every other Wednesday at 10 am Eastern! Check out the lineup and learn more in our latest blog post. https://t.co/e9xPD6pFD0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/e9xPD6pFD0",
+						"expanded_url": "https://blog.cmog.org/2020/09/23/bringing-the-heat-cmogs-glassblowers-take-center-stage/",
+						"display_url": "blog.cmog.org/2020/09/23/bri…",
+						"indices": [
+							178,
+							201
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17906620,
+				"id_str": "17906620",
+				"name": "corningmuseum",
+				"screen_name": "corningmuseum",
+				"location": "Corning, New York, USA",
+				"description": "Inspiring people to see glass in a new light. Open 9 am to 5 pm.",
+				"url": "https://t.co/HGrVaPBUuf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HGrVaPBUuf",
+								"expanded_url": "http://www.cmog.org",
+								"display_url": "cmog.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16643,
+				"friends_count": 3267,
+				"listed_count": 443,
+				"created_at": "Fri Dec 05 20:15:48 +0000 2008",
+				"favourites_count": 7278,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12698,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273990510366076937/JtFMgjP4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273990510366076937/JtFMgjP4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17906620/1599576166",
+				"profile_link_color": "CC0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F4F4F4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "brilliant https://t.co/PUTW5rfXnB"
+	},
+	{
+		"created_at": "Fri Sep 25 20:48:04 +0000 2020",
+		"id": 1309595549843116000,
+		"id_str": "1309595549843116032",
+		"full_text": "some very interesting projects https://t.co/cXaY0VNljo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cXaY0VNljo",
+					"expanded_url": "https://twitter.com/infodocket/status/1309181468686643208",
+					"display_url": "twitter.com/infodocket/sta…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 878,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1309181468686643200,
+		"quoted_status_id_str": "1309181468686643208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cXaY0VNljo",
+			"expanded": "https://twitter.com/infodocket/status/1309181468686643208",
+			"display": "twitter.com/infodocket/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 24 17:22:40 +0000 2020",
+			"id": 1309181468686643200,
+			"id_str": "1309181468686643208",
+			"full_text": "American #Libraries and #Museums Awarded $13.8 Million in IMLS CARES Act Grants https://t.co/dX1TtziNwR @US_IMLS https://t.co/fObt62tspt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Libraries",
+						"indices": [
+							9,
+							19
+						]
+					},
+					{
+						"text": "Museums",
+						"indices": [
+							24,
+							32
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "US_IMLS",
+						"name": "IMLS",
+						"id": 36240331,
+						"id_str": "36240331",
+						"indices": [
+							104,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dX1TtziNwR",
+						"expanded_url": "http://ow.ly/f5Ay50BAoeZ",
+						"display_url": "ow.ly/f5Ay50BAoeZ",
+						"indices": [
+							80,
+							103
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1309181467054964700,
+						"id_str": "1309181467054964737",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/Eislm6JWAAEEPZy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eislm6JWAAEEPZy.jpg",
+						"url": "https://t.co/fObt62tspt",
+						"display_url": "pic.twitter.com/fObt62tspt",
+						"expanded_url": "https://twitter.com/infodocket/status/1309181468686643208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1448,
+								"h": 596,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 494,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1309181467054964700,
+						"id_str": "1309181467054964737",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/Eislm6JWAAEEPZy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eislm6JWAAEEPZy.jpg",
+						"url": "https://t.co/fObt62tspt",
+						"display_url": "pic.twitter.com/fObt62tspt",
+						"expanded_url": "https://twitter.com/infodocket/status/1309181468686643208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1448,
+								"h": 596,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 494,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 252735965,
+				"id_str": "252735965",
+				"name": "LJ's infoDOCKET",
+				"screen_name": "infodocket",
+				"location": "",
+				"description": "Shirl Kennedy and Gary Price are now blogging at: http://t.co/V4SkdecdeK & http://t.co/D9vrwV9XYi",
+				"url": "http://t.co/3gr2XTEAIX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3gr2XTEAIX",
+								"expanded_url": "http://infodocket.com",
+								"display_url": "infodocket.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/V4SkdecdeK",
+								"expanded_url": "http://fulltextreports.com",
+								"display_url": "fulltextreports.com",
+								"indices": [
+									50,
+									72
+								]
+							},
+							{
+								"url": "http://t.co/D9vrwV9XYi",
+								"expanded_url": "http://INFOdocket.com",
+								"display_url": "INFOdocket.com",
+								"indices": [
+									75,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5870,
+				"friends_count": 190,
+				"listed_count": 553,
+				"created_at": "Tue Feb 15 20:10:49 +0000 2011",
+				"favourites_count": 104,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30136,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "250B26",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2109567933/Library_Journal_INFOdocket_logo2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2109567933/Library_Journal_INFOdocket_logo2_normal.jpeg",
+				"profile_link_color": "57676E",
+				"profile_sidebar_border_color": "75E9CF",
+				"profile_sidebar_fill_color": "78B0A8",
+				"profile_text_color": "3A3140",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some very interesting projects https://t.co/cXaY0VNljo"
+	},
+	{
+		"created_at": "Fri Sep 25 20:47:23 +0000 2020",
+		"id": 1309475995712467000,
+		"id_str": "1309595377322999809",
+		"full_text": "Cornell University: Artifacts From Upstate New York #Indigenous Towns Digitized, Repatriated https://t.co/7sPwy2ZnZW @Cornell_Library #digitalcollections @CLIRnews https://t.co/kKt1lRACN9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Indigenous",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"text": "digitalcollections",
+					"indices": [
+						134,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cornell_Library",
+					"name": "Cornell_Library",
+					"id": 7857772,
+					"id_str": "7857772",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"screen_name": "CLIRnews",
+					"name": "CLIR",
+					"id": 516708506,
+					"id_str": "516708506",
+					"indices": [
+						154,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7sPwy2ZnZW",
+					"expanded_url": "http://ow.ly/eciv50BB8Lx",
+					"display_url": "ow.ly/eciv50BB8Lx",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1309475990373118000,
+					"id_str": "1309475990373117956",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EiwxebAXsAQ9WLH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiwxebAXsAQ9WLH.jpg",
+					"url": "https://t.co/kKt1lRACN9",
+					"display_url": "pic.twitter.com/kKt1lRACN9",
+					"expanded_url": "https://twitter.com/LibraryJournal/status/1309475995712466945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 948,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 556,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1309475990373118000,
+					"id_str": "1309475990373117956",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EiwxebAXsAQ9WLH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiwxebAXsAQ9WLH.jpg",
+					"url": "https://t.co/kKt1lRACN9",
+					"display_url": "pic.twitter.com/kKt1lRACN9",
+					"expanded_url": "https://twitter.com/LibraryJournal/status/1309475995712466945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 948,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 556,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15169290,
+			"id_str": "15169290",
+			"name": "Library Journal",
+			"screen_name": "LibraryJournal",
+			"location": "New York, NY",
+			"description": "Library views, news, and book reviews from LJ staffers",
+			"url": "http://t.co/WSOb61lYld",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WSOb61lYld",
+							"expanded_url": "http://www.libraryjournal.com",
+							"display_url": "libraryjournal.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 233879,
+			"friends_count": 403,
+			"listed_count": 5844,
+			"created_at": "Thu Jun 19 13:51:48 +0000 2008",
+			"favourites_count": 3252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 44150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5E9F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15169290/1539277524",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "6C6C6C",
+			"profile_sidebar_fill_color": "CBCDC5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cornell University: Artifacts From Upstate New York #Indigenous Towns Digitized, Repatriated https://t.co/7sPwy2ZnZW @Cornell_Library #digitalcollections @CLIRnews https://t.co/kKt1lRACN9"
+	},
+	{
+		"created_at": "Fri Sep 25 20:38:56 +0000 2020",
+		"id": 1309593250072653800,
+		"id_str": "1309593250072653829",
+		"full_text": "some interesting reading https://t.co/IPBzCG6SVS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IPBzCG6SVS",
+					"expanded_url": "https://twitter.com/LibraryJournal/status/1308582585304571906",
+					"display_url": "twitter.com/LibraryJournal…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 878,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1308582585304572000,
+		"quoted_status_id_str": "1308582585304571906",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IPBzCG6SVS",
+			"expanded": "https://twitter.com/LibraryJournal/status/1308582585304571906",
+			"display": "twitter.com/LibraryJournal…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 23 01:42:55 +0000 2020",
+			"id": 1308582585304572000,
+			"id_str": "1308582585304571906",
+			"full_text": "How libraries are writing a new chapter during the pandemic (via @NatGeo) https://t.co/XTseCBEIYG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NatGeo",
+						"name": "National Geographic",
+						"id": 17471979,
+						"id_str": "17471979",
+						"indices": [
+							65,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XTseCBEIYG",
+						"expanded_url": "http://ow.ly/MYJP30rbhVq",
+						"display_url": "ow.ly/MYJP30rbhVq",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15169290,
+				"id_str": "15169290",
+				"name": "Library Journal",
+				"screen_name": "LibraryJournal",
+				"location": "New York, NY",
+				"description": "Library views, news, and book reviews from LJ staffers",
+				"url": "http://t.co/WSOb61lYld",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WSOb61lYld",
+								"expanded_url": "http://www.libraryjournal.com",
+								"display_url": "libraryjournal.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 233879,
+				"friends_count": 403,
+				"listed_count": 5844,
+				"created_at": "Thu Jun 19 13:51:48 +0000 2008",
+				"favourites_count": 3252,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 44150,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5E9F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15169290/1539277524",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "6C6C6C",
+				"profile_sidebar_fill_color": "CBCDC5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some interesting reading https://t.co/IPBzCG6SVS"
+	},
+	{
 		"created_at": "Thu Sep 24 10:23:35 +0000 2020",
 		"id": 1309002787401982000,
 		"id_str": "1309076003722059776",
