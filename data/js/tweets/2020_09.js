@@ -1,10 +1,446 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 29 04:10:26 +0000 2020",
+		"id": 1310794037549383700,
+		"id_str": "1310794037549383688",
+		"full_text": "With stories about some of the people who have died https://t.co/xcSbcOGblA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xcSbcOGblA",
+					"expanded_url": "https://twitter.com/guardian/status/1310766471015018496",
+					"display_url": "twitter.com/guardian/statu…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 878,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1310766471015018500,
+		"quoted_status_id_str": "1310766471015018496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xcSbcOGblA",
+			"expanded": "https://twitter.com/guardian/status/1310766471015018496",
+			"display": "twitter.com/guardian/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 29 02:20:54 +0000 2020",
+			"id": 1310766471015018500,
+			"id_str": "1310766471015018496",
+			"full_text": "One million coronavirus deaths: how did we get here? https://t.co/ADlRgnPEnq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ADlRgnPEnq",
+						"expanded_url": "https://www.theguardian.com/world/ng-interactive/2020/sep/29/one-million-coronavirus-deaths-how-did-we-get-here-covid?CMP=twt_gu&utm_source=Twitter&utm_medium#Echobox=1601345602",
+						"display_url": "theguardian.com/world/ng-inter…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87818409,
+				"id_str": "87818409",
+				"name": "The Guardian",
+				"screen_name": "guardian",
+				"location": "London",
+				"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+				"url": "https://t.co/c53pnmnuIT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c53pnmnuIT",
+								"expanded_url": "https://www.theguardian.com",
+								"display_url": "theguardian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gWyuUVlObq",
+								"expanded_url": "https://support.theguardian.com",
+								"display_url": "support.theguardian.com",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9106541,
+				"friends_count": 1083,
+				"listed_count": 61727,
+				"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+				"favourites_count": 137,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 627435,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1569228354",
+				"profile_link_color": "005789",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CAE3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 261,
+			"favorite_count": 254,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With stories about some of the people who have died https://t.co/xcSbcOGblA"
+	},
+	{
+		"created_at": "Mon Sep 28 10:54:46 +0000 2020",
+		"id": 1310533403150659600,
+		"id_str": "1310533403150659584",
+		"full_text": "@ThereseScott1 @WWTaste I am sure you could create your own https://t.co/41vD76PTLe",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThereseScott1",
+					"name": "Therese Scott 🐯",
+					"id": 438175303,
+					"id_str": "438175303",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "WWTaste",
+					"name": "wwtaste",
+					"id": 407637165,
+					"id_str": "407637165",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310533391746384000,
+					"id_str": "1310533391746383873",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ei_zLSFUwAE3luF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ei_zLSFUwAE3luF.jpg",
+					"url": "https://t.co/41vD76PTLe",
+					"display_url": "pic.twitter.com/41vD76PTLe",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/1310533403150659584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310533391746384000,
+					"id_str": "1310533391746383873",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ei_zLSFUwAE3luF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ei_zLSFUwAE3luF.jpg",
+					"url": "https://t.co/41vD76PTLe",
+					"display_url": "pic.twitter.com/41vD76PTLe",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/1310533403150659584/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 192,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							32
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ei_zLSFUwAE3luF.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1310533051189846000,
+		"in_reply_to_status_id_str": "1310533051189846017",
+		"in_reply_to_user_id": 438175303,
+		"in_reply_to_user_id_str": "438175303",
+		"in_reply_to_screen_name": "ThereseScott1",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 878,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ThereseScott1 @WWTaste I am sure you could create your own https://t.co/41vD76PTLe"
+	},
+	{
 		"created_at": "Sun Sep 27 09:23:45 +0000 2020",
 		"id": 1310148108794298400,
 		"id_str": "1310148108794298370",
-		"full_text": "Powerful data visualisation from ⁦@washingtonpost⁩ based on location of choice https://t.co/1ZHSQsl7Q6",
+		"full_text": "Powerful data visualisation from @washingtonpost based on location of choice https://t.co/1ZHSQsl7Q6",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -115,7 +551,7 @@ Grailbird.data.tweets_2020_09 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Powerful data visualisation from ⁦@washingtonpost⁩ based on location of choice https://t.co/1ZHSQsl7Q6"
+		"text": "Powerful data visualisation from @washingtonpost based on location of choice https://t.co/1ZHSQsl7Q6"
 	},
 	{
 		"created_at": "Sun Sep 27 06:45:51 +0000 2020",
