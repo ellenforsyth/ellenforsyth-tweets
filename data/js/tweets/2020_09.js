@@ -1,6 +1,967 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 30 21:52:42 +0000 2020",
+		"id": 1308991186405818400,
+		"id_str": "1311423754359066624",
+		"full_text": "We are thrilled that the first of our large Tooth photo albums is finally scanned and uploaded. This first album includes approx. 620 photos and postcards of New South Wales hotels dating from circa 1900 to 1923. See more on the ANU Open Research website - https://t.co/XC7MJRUFUV https://t.co/Rx0QGbWWf4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XC7MJRUFUV",
+					"expanded_url": "https://openresearch-repository.anu.edu.au/handle/1885/209070",
+					"display_url": "openresearch-repository.anu.edu.au/handle/1885/20…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1308990651711750100,
+					"id_str": "1308990651711750146",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Eip4D_mWAAI3KcB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eip4D_mWAAI3KcB.jpg",
+					"url": "https://t.co/Rx0QGbWWf4",
+					"display_url": "pic.twitter.com/Rx0QGbWWf4",
+					"expanded_url": "https://twitter.com/TheANUArchives/status/1308991186405818371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1317,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308990651711750100,
+					"id_str": "1308990651711750146",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Eip4D_mWAAI3KcB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eip4D_mWAAI3KcB.jpg",
+					"url": "https://t.co/Rx0QGbWWf4",
+					"display_url": "pic.twitter.com/Rx0QGbWWf4",
+					"expanded_url": "https://twitter.com/TheANUArchives/status/1308991186405818371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1317,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 772,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1308990688261017600,
+					"id_str": "1308990688261017601",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Eip4GHwXkAEOSmw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eip4GHwXkAEOSmw.jpg",
+					"url": "https://t.co/Rx0QGbWWf4",
+					"display_url": "pic.twitter.com/Rx0QGbWWf4",
+					"expanded_url": "https://twitter.com/TheANUArchives/status/1308991186405818371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1466,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 859,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 487,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1308990713863065600,
+					"id_str": "1308990713863065605",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Eip4HnIX0AU0qEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eip4HnIX0AU0qEY.jpg",
+					"url": "https://t.co/Rx0QGbWWf4",
+					"display_url": "pic.twitter.com/Rx0QGbWWf4",
+					"expanded_url": "https://twitter.com/TheANUArchives/status/1308991186405818371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1458,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1308990736965214200,
+					"id_str": "1308990736965214217",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Eip4I9MWoAkZ9To.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eip4I9MWoAkZ9To.jpg",
+					"url": "https://t.co/Rx0QGbWWf4",
+					"display_url": "pic.twitter.com/Rx0QGbWWf4",
+					"expanded_url": "https://twitter.com/TheANUArchives/status/1308991186405818371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1326,
+							"h": 835,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 756,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2329690088,
+			"id_str": "2329690088",
+			"name": "The ANU Archives",
+			"screen_name": "TheANUArchives",
+			"location": "the ANU, Canberra, Australia",
+			"description": "We preserve the ANU archives, the National AIDS Archive, and archives of business, trade unions, professions and industry in the Noel Butlin Archives Centre.",
+			"url": "http://t.co/tTry0SFdcE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tTry0SFdcE",
+							"expanded_url": "http://archives.anu.edu.au/",
+							"display_url": "archives.anu.edu.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 186,
+			"listed_count": 12,
+			"created_at": "Thu Feb 06 03:10:29 +0000 2014",
+			"favourites_count": 489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/431297674302595073/nBaULY0f_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/431297674302595073/nBaULY0f_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2329690088/1391664372",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are thrilled that the first of our large Tooth photo albums is finally scanned and uploaded. This first album includes approx. 620 photos and postcards of New South Wales hotels dating from circa 1900 to 1923. See more on the ANU Open Research website - https://t.co/XC7MJRUFUV https://t.co/Rx0QGbWWf4"
+	},
+	{
+		"created_at": "Wed Sep 30 21:52:24 +0000 2020",
+		"id": 1311423678358286300,
+		"id_str": "1311423678358286336",
+		"full_text": "Great research potential as well as lovely photos https://t.co/sng7RTVExi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sng7RTVExi",
+					"expanded_url": "https://twitter.com/theanuarchives/status/1311164405422329856",
+					"display_url": "twitter.com/theanuarchives…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2534,
+			"friends_count": 881,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1311164405422329900,
+		"quoted_status_id_str": "1311164405422329856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sng7RTVExi",
+			"expanded": "https://twitter.com/theanuarchives/status/1311164405422329856",
+			"display": "twitter.com/theanuarchives…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 30 04:42:09 +0000 2020",
+			"id": 1311164405422329900,
+			"id_str": "1311164405422329856",
+			"full_text": "We love a good 1930s hotel interior. If you also love a good 1930s hotel interior then you're in luck. Head to our website, where you can browse around 1,000 newly-digitised NSW hotel photos from our Tooth &amp; Co archives - https://t.co/XC7MJRD4wl https://t.co/JtFjxsv2Hf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XC7MJRD4wl",
+						"expanded_url": "https://openresearch-repository.anu.edu.au/handle/1885/209070",
+						"display_url": "openresearch-repository.anu.edu.au/handle/1885/20…",
+						"indices": [
+							226,
+							249
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1311163621032882200,
+						"id_str": "1311163621032882181",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/EjIwXdIUcAUYhBv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjIwXdIUcAUYhBv.jpg",
+						"url": "https://t.co/JtFjxsv2Hf",
+						"display_url": "pic.twitter.com/JtFjxsv2Hf",
+						"expanded_url": "https://twitter.com/TheANUArchives/status/1311164405422329856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 898,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1532,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1311163621032882200,
+						"id_str": "1311163621032882181",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/EjIwXdIUcAUYhBv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjIwXdIUcAUYhBv.jpg",
+						"url": "https://t.co/JtFjxsv2Hf",
+						"display_url": "pic.twitter.com/JtFjxsv2Hf",
+						"expanded_url": "https://twitter.com/TheANUArchives/status/1311164405422329856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 898,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1532,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1311163666033602600,
+						"id_str": "1311163666033602560",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/EjIwaExU8AAwffh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjIwaExU8AAwffh.jpg",
+						"url": "https://t.co/JtFjxsv2Hf",
+						"display_url": "pic.twitter.com/JtFjxsv2Hf",
+						"expanded_url": "https://twitter.com/TheANUArchives/status/1311164405422329856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 954,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 540,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1628,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1311163757628858400,
+						"id_str": "1311163757628858368",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/EjIwfZ_VoAAySai.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjIwfZ_VoAAySai.jpg",
+						"url": "https://t.co/JtFjxsv2Hf",
+						"display_url": "pic.twitter.com/JtFjxsv2Hf",
+						"expanded_url": "https://twitter.com/TheANUArchives/status/1311164405422329856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 539,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 952,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1624,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2329690088,
+				"id_str": "2329690088",
+				"name": "The ANU Archives",
+				"screen_name": "TheANUArchives",
+				"location": "the ANU, Canberra, Australia",
+				"description": "We preserve the ANU archives, the National AIDS Archive, and archives of business, trade unions, professions and industry in the Noel Butlin Archives Centre.",
+				"url": "http://t.co/tTry0SFdcE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tTry0SFdcE",
+								"expanded_url": "http://archives.anu.edu.au/",
+								"display_url": "archives.anu.edu.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 426,
+				"friends_count": 186,
+				"listed_count": 12,
+				"created_at": "Thu Feb 06 03:10:29 +0000 2014",
+				"favourites_count": 489,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 268,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/431297674302595073/nBaULY0f_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/431297674302595073/nBaULY0f_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2329690088/1391664372",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great research potential as well as lovely photos https://t.co/sng7RTVExi"
+	},
+	{
+		"created_at": "Wed Sep 30 21:50:43 +0000 2020",
+		"id": 1310362568267972600,
+		"id_str": "1311423255098658817",
+		"full_text": "Ruth Morgan, environmental historian and Director of the Centre for Environmental History at the ANU, will present our 2020 annual lecture \"Archives for a Dry and Drying Land\" via Zoom on 20th Oct from 6-7pm. Details and registrations here - https://t.co/9jcwHatYP5 https://t.co/0FZ9Z44Z5A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9jcwHatYP5",
+					"expanded_url": "http://quicklink.anu.edu.au/2o7d",
+					"display_url": "quicklink.anu.edu.au/2o7d",
+					"indices": [
+						242,
+						265
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1310361828803846100,
+					"id_str": "1310361828803846145",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei9XJAUVoAEh3SA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei9XJAUVoAEh3SA.jpg",
+					"url": "https://t.co/0FZ9Z44Z5A",
+					"display_url": "pic.twitter.com/0FZ9Z44Z5A",
+					"expanded_url": "https://twitter.com/TheANUArchives/status/1310362568267972608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310361828803846100,
+					"id_str": "1310361828803846145",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei9XJAUVoAEh3SA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei9XJAUVoAEh3SA.jpg",
+					"url": "https://t.co/0FZ9Z44Z5A",
+					"display_url": "pic.twitter.com/0FZ9Z44Z5A",
+					"expanded_url": "https://twitter.com/TheANUArchives/status/1310362568267972608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2329690088,
+			"id_str": "2329690088",
+			"name": "The ANU Archives",
+			"screen_name": "TheANUArchives",
+			"location": "the ANU, Canberra, Australia",
+			"description": "We preserve the ANU archives, the National AIDS Archive, and archives of business, trade unions, professions and industry in the Noel Butlin Archives Centre.",
+			"url": "http://t.co/tTry0SFdcE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tTry0SFdcE",
+							"expanded_url": "http://archives.anu.edu.au/",
+							"display_url": "archives.anu.edu.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 186,
+			"listed_count": 12,
+			"created_at": "Thu Feb 06 03:10:29 +0000 2014",
+			"favourites_count": 489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/431297674302595073/nBaULY0f_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/431297674302595073/nBaULY0f_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2329690088/1391664372",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ruth Morgan, environmental historian and Director of the Centre for Environmental History at the ANU, will present our 2020 annual lecture \"Archives for a Dry and Drying Land\" via Zoom on 20th Oct from 6-7pm. Details and registrations here - https://t.co/9jcwHatYP5 https://t.co/0FZ9Z44Z5A"
+	},
+	{
+		"created_at": "Wed Sep 30 19:57:34 +0000 2020",
+		"id": 1311394778689364000,
+		"id_str": "1311394778689363968",
+		"full_text": "'Bilbies', thylacines and dugongs among stunning rock art documented in Arnhem Land via ⁦@abcnews⁩  https://t.co/zItSzssdLY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zItSzssdLY",
+					"expanded_url": "http://www.abc.net.au/news/science/2020-10-01/bilbies,-thylacines,-dugongs-in-arnhem-land-maliwawa-rock-art/12714194",
+					"display_url": "abc.net.au/news/science/2…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2534,
+			"friends_count": 881,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Bilbies', thylacines and dugongs among stunning rock art documented in Arnhem Land via ⁦@abcnews⁩  https://t.co/zItSzssdLY"
+	},
+	{
 		"created_at": "Tue Sep 29 21:00:56 +0000 2020",
 		"id": 1311048336841912300,
 		"id_str": "1311048336841912320",
