@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 22:08:01 +0000 2020",
+		"id": 1313708705418936300,
+		"id_str": "1314326711178207232",
+		"full_text": "Do frogs have accents? 🐸\n\nEach of Australia’s 240 frog species has a unique call, but within a species, how variable are the renditions of that call?\n@ScienceWithSav, @callaghanct &amp; @jodirowley explore this question with the help of citizen scientists👇 \n\nhttps://t.co/Q4yUGO3oH3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScienceWithSav",
+					"name": "Savannah Weaver",
+					"id": 1118337563184574500,
+					"id_str": "1118337563184574464",
+					"indices": [
+						150,
+						165
+					]
+				},
+				{
+					"screen_name": "callaghanct",
+					"name": "Corey Callaghan",
+					"id": 920546114637504500,
+					"id_str": "920546114637504512",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"screen_name": "jodirowley",
+					"name": "Jodi Rowley",
+					"id": 216979622,
+					"id_str": "216979622",
+					"indices": [
+						186,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q4yUGO3oH3",
+					"expanded_url": "https://australian.museum/blog/amri-news/frog-accents/",
+					"display_url": "australian.museum/blog/amri-news…",
+					"indices": [
+						259,
+						282
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1700471420,
+			"id_str": "1700471420",
+			"name": "AMRI",
+			"screen_name": "AustmusResearch",
+			"location": "Sydney, Australia",
+			"description": "Australian Museum Research Institute. Understanding & responding to challenges facing our planet through scientific research & communication.",
+			"url": "https://t.co/XBCzoNOBjo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XBCzoNOBjo",
+							"expanded_url": "https://australian.museum/get-involved/amri/",
+							"display_url": "australian.museum/get-involved/a…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2285,
+			"friends_count": 354,
+			"listed_count": 78,
+			"created_at": "Sun Aug 25 23:57:22 +0000 2013",
+			"favourites_count": 2203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/633919753896112128/rHDrfUAc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/633919753896112128/rHDrfUAc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1700471420/1404965269",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do frogs have accents? 🐸\n\nEach of Australia’s 240 frog species has a unique call, but within a species, how variable are the renditions of that call?\n@ScienceWithSav, @callaghanct &amp; @jodirowley explore this question with the help of citizen scientists👇 \n\nhttps://t.co/Q4yUGO3oH3"
+	},
+	{
+		"created_at": "Thu Oct 08 19:59:57 +0000 2020",
+		"id": 1313454584807948300,
+		"id_str": "1314294483408756737",
+		"full_text": "Domestic sounds: highlighting a new web resource https://t.co/YTV1vKaXik",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YTV1vKaXik",
+					"expanded_url": "https://shar.es/ab9kEB",
+					"display_url": "shar.es/ab9kEB",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22028935,
+			"id_str": "22028935",
+			"name": "Sound Archive",
+			"screen_name": "soundarchive",
+			"location": "London, UK",
+			"description": "Sound Archive @BritishLibrary: 7 million recordings of music, voices, environments. Tweets by Steve Cleary. Blog: https://t.co/TuSRYUV7Ns",
+			"url": "http://t.co/QQ7BIbQ40P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/QQ7BIbQ40P",
+							"expanded_url": "http://www.bl.uk/soundarchive",
+							"display_url": "bl.uk/soundarchive",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TuSRYUV7Ns",
+							"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision",
+							"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18727,
+			"friends_count": 1303,
+			"listed_count": 0,
+			"created_at": "Thu Feb 26 16:36:05 +0000 2009",
+			"favourites_count": 623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22028935/1535972358",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Domestic sounds: highlighting a new web resource https://t.co/YTV1vKaXik"
+	},
+	{
 		"created_at": "Wed Oct 07 23:36:57 +0000 2020",
 		"id": 1313986704278057000,
 		"id_str": "1313986704278056962",
