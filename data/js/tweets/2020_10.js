@@ -1,10 +1,126 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 00:10:38 +0000 2020",
+		"id": 1316169508537557000,
+		"id_str": "1316169508537556992",
+		"full_text": "@mariasavvidis @washingtonpost Maybe that is a video ? I was transcribing my grandmother’s recipes with my mother, and some of those are fairly flexible too.",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mariasavvidis",
+					"name": "maria savvidis",
+					"id": 727312478,
+					"id_str": "727312478",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1316150546143735800,
+		"in_reply_to_status_id_str": "1316150546143735808",
+		"in_reply_to_user_id": 727312478,
+		"in_reply_to_user_id_str": "727312478",
+		"in_reply_to_screen_name": "mariasavvidis",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 880,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mariasavvidis @washingtonpost Maybe that is a video ? I was transcribing my grandmother’s recipes with my mother, and some of those are fairly flexible too."
+	},
+	{
 		"created_at": "Sat Oct 10 18:41:21 +0000 2020",
 		"id": 1314999476549906400,
 		"id_str": "1314999476549906432",
-		"full_text": "Cory Doctorow: ‘Technologists have failed to listen to non-technologists’ via ⁦@guardian⁩ another book to add to my to read list https://t.co/edLk2CKurq",
+		"full_text": "Cory Doctorow: ‘Technologists have failed to listen to non-technologists’ via @guardian another book to add to my to read list https://t.co/edLk2CKurq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -115,7 +231,7 @@ Grailbird.data.tweets_2020_10 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Cory Doctorow: ‘Technologists have failed to listen to non-technologists’ via ⁦@guardian⁩ another book to add to my to read list https://t.co/edLk2CKurq"
+		"text": "Cory Doctorow: ‘Technologists have failed to listen to non-technologists’ via @guardian another book to add to my to read list https://t.co/edLk2CKurq"
 	},
 	{
 		"created_at": "Sat Oct 10 00:38:50 +0000 2020",
