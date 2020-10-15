@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 09:57:02 +0000 2020",
+		"id": 1316262637567705000,
+		"id_str": "1316317078350041088",
+		"full_text": "An audit report commissioned by the Places You Love Alliance found that no state or territory law meets current national standards to protect matters of national environmental significance.⁠ \n⁠⁠➡️ https://t.co/YaSH5sGGKe ⁠\n⁠📷 Carnaby's Black-cockatoo by Tania Meuzelaar https://t.co/tuSNxvv3uq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YaSH5sGGKe",
+					"expanded_url": "https://bit.ly/2H4dkCz",
+					"display_url": "bit.ly/2H4dkCz",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316262485121527800,
+					"id_str": "1316262485121527808",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EkRNwaDXcAAHz-1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkRNwaDXcAAHz-1.jpg",
+					"url": "https://t.co/tuSNxvv3uq",
+					"display_url": "pic.twitter.com/tuSNxvv3uq",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1316262637567705088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1582,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 927,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316262485121527800,
+					"id_str": "1316262485121527808",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EkRNwaDXcAAHz-1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkRNwaDXcAAHz-1.jpg",
+					"url": "https://t.co/tuSNxvv3uq",
+					"display_url": "pic.twitter.com/tuSNxvv3uq",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1316262637567705088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 525,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1582,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 927,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.later.com\" rel=\"nofollow\">LaterMedia</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145136771,
+			"id_str": "145136771",
+			"name": "BirdLife Australia",
+			"screen_name": "BirdlifeOz",
+			"location": "Australia",
+			"description": "Conserving Australia's birds and their habitats through advocacy, targeted research, on-ground work and monitoring.  Standing together to stop extinctions!",
+			"url": "https://t.co/Mufq34cGnS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mufq34cGnS",
+							"expanded_url": "https://birdlife.org.au/",
+							"display_url": "birdlife.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19445,
+			"friends_count": 904,
+			"listed_count": 351,
+			"created_at": "Tue May 18 06:05:23 +0000 2010",
+			"favourites_count": 11404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1580EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145136771/1600663137",
+			"profile_link_color": "003A80",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B6B8B1",
+			"profile_text_color": "0F0E0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An audit report commissioned by the Places You Love Alliance found that no state or territory law meets current national standards to protect matters of national environmental significance.⁠ \n⁠⁠➡️ https://t.co/YaSH5sGGKe ⁠\n⁠📷 Carnaby's Black-cockatoo by Tania Meuzelaar https://t.co/tuSNxvv3uq"
+	},
+	{
 		"created_at": "Wed Oct 14 00:10:38 +0000 2020",
 		"id": 1316169508537557000,
 		"id_str": "1316169508537556992",
