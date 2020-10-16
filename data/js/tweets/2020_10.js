@@ -1,10 +1,202 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 09:34:24 +0000 2020",
+		"id": 1316568769695805400,
+		"id_str": "1316673770304593922",
+		"full_text": "🐸📣 The latest #FrogID research challenges the well-accepted notion that most Australian frogs are nocturnal and only call at night. Using FrogID data, our scientists found that most Australian frogs call during the day, some at surprisingly high rates! \nhttps://t.co/TxGWGPVheD https://t.co/vQcUzj2lOa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FrogID",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TxGWGPVheD",
+					"expanded_url": "http://bit.ly/frogid-diurnality",
+					"display_url": "bit.ly/frogid-diurnal…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316568766671728600,
+					"id_str": "1316568766671728640",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EkVkUVvXsAAtUEf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkVkUVvXsAAtUEf.jpg",
+					"url": "https://t.co/vQcUzj2lOa",
+					"display_url": "pic.twitter.com/vQcUzj2lOa",
+					"expanded_url": "https://twitter.com/FrogIDAus/status/1316568769695805442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1796,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1053,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316568766671728600,
+					"id_str": "1316568766671728640",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EkVkUVvXsAAtUEf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkVkUVvXsAAtUEf.jpg",
+					"url": "https://t.co/vQcUzj2lOa",
+					"display_url": "pic.twitter.com/vQcUzj2lOa",
+					"expanded_url": "https://twitter.com/FrogIDAus/status/1316568769695805442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1796,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1053,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 904933218754879500,
+			"id_str": "904933218754879488",
+			"name": "FrogID",
+			"screen_name": "FrogIDAus",
+			"location": "",
+			"description": "Australia’s first national frog count! Download the app, record frog calls and help save Australia's frogs. An @Austmus initiative.",
+			"url": "https://t.co/b1zgdaPHly",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b1zgdaPHly",
+							"expanded_url": "http://www.FrogID.net.au",
+							"display_url": "FrogID.net.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 1045,
+			"listed_count": 35,
+			"created_at": "Tue Sep 05 05:04:26 +0000 2017",
+			"favourites_count": 2139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928552482199838721/LSfcPTMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928552482199838721/LSfcPTMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/904933218754879488/1586133240",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🐸📣 The latest #FrogID research challenges the well-accepted notion that most Australian frogs are nocturnal and only call at night. Using FrogID data, our scientists found that most Australian frogs call during the day, some at surprisingly high rates! \nhttps://t.co/TxGWGPVheD https://t.co/vQcUzj2lOa"
+	},
+	{
 		"created_at": "Wed Oct 14 09:57:02 +0000 2020",
 		"id": 1316262637567705000,
 		"id_str": "1316317078350041088",
-		"full_text": "An audit report commissioned by the Places You Love Alliance found that no state or territory law meets current national standards to protect matters of national environmental significance.⁠ \n⁠⁠➡️ https://t.co/YaSH5sGGKe ⁠\n⁠📷 Carnaby's Black-cockatoo by Tania Meuzelaar https://t.co/tuSNxvv3uq",
+		"full_text": "An audit report commissioned by the Places You Love Alliance found that no state or territory law meets current national standards to protect matters of national environmental significance. \n➡️ https://t.co/YaSH5sGGKe \n📷 Carnaby's Black-cockatoo by Tania Meuzelaar https://t.co/tuSNxvv3uq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -182,7 +374,7 @@ Grailbird.data.tweets_2020_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "An audit report commissioned by the Places You Love Alliance found that no state or territory law meets current national standards to protect matters of national environmental significance.⁠ \n⁠⁠➡️ https://t.co/YaSH5sGGKe ⁠\n⁠📷 Carnaby's Black-cockatoo by Tania Meuzelaar https://t.co/tuSNxvv3uq"
+		"text": "An audit report commissioned by the Places You Love Alliance found that no state or territory law meets current national standards to protect matters of national environmental significance. \n➡️ https://t.co/YaSH5sGGKe \n📷 Carnaby's Black-cockatoo by Tania Meuzelaar https://t.co/tuSNxvv3uq"
 	},
 	{
 		"created_at": "Wed Oct 14 00:10:38 +0000 2020",
