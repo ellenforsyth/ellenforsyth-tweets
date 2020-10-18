@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 18 06:05:25 +0000 2020",
+		"id": 1317504506188488700,
+		"id_str": "1317708341070557185",
+		"full_text": "KHF2020 is on! Join us on Saturday 7th November for Knitting History Forum Virtual AGM &amp; Conference via Zoom.   Register at https://t.co/beXk8DhF8j  Programme details on our website https://t.co/FKQzQ3KmWy   #knittinghistory #knitting #textilehistory #crochet #crochethistory",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "knittinghistory",
+					"indices": [
+						212,
+						228
+					]
+				},
+				{
+					"text": "knitting",
+					"indices": [
+						229,
+						238
+					]
+				},
+				{
+					"text": "textilehistory",
+					"indices": [
+						239,
+						254
+					]
+				},
+				{
+					"text": "crochet",
+					"indices": [
+						255,
+						263
+					]
+				},
+				{
+					"text": "crochethistory",
+					"indices": [
+						264,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/beXk8DhF8j",
+					"expanded_url": "https://www.eventbrite.co.uk/e/khf-agm-conference-2020-tickets-125632816135",
+					"display_url": "eventbrite.co.uk/e/khf-agm-conf…",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/FKQzQ3KmWy",
+					"expanded_url": "http://knittinghistory.co.uk/events/knitting-history-2020-virtual-conference-and-agm/",
+					"display_url": "knittinghistory.co.uk/events/knittin…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1735233036,
+			"id_str": "1735233036",
+			"name": "Knitting History Forum",
+			"screen_name": "KnitHistForum",
+			"location": "",
+			"description": "Knitting History Forum, international society for the history of knitting and crochet.",
+			"url": "http://t.co/a06RcMB4mK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/a06RcMB4mK",
+							"expanded_url": "http://knittinghistory.co.uk",
+							"display_url": "knittinghistory.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1102,
+			"friends_count": 91,
+			"listed_count": 18,
+			"created_at": "Fri Sep 06 14:20:08 +0000 2013",
+			"favourites_count": 204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C8E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553334642883842048/LprOobqv_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553334642883842048/LprOobqv_normal.jpeg",
+			"profile_link_color": "0F6A66",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KHF2020 is on! Join us on Saturday 7th November for Knitting History Forum Virtual AGM &amp; Conference via Zoom.   Register at https://t.co/beXk8DhF8j  Programme details on our website https://t.co/FKQzQ3KmWy   #knittinghistory #knitting #textilehistory #crochet #crochethistory"
+	},
+	{
 		"created_at": "Fri Oct 16 22:04:50 +0000 2020",
 		"id": 1317225013682974700,
 		"id_str": "1317225013682974720",
