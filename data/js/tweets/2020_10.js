@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 19 01:52:02 +0000 2020",
+		"id": 1317955774195196000,
+		"id_str": "1318006965591707648",
+		"full_text": "Start counting - the Aussie Backyard Bird Count starts TODAY! \nYou can submit as many different counts as you like throughout the week, as long as each count lasts for 20 minutes. #AussieBirdCount\nhttps://t.co/9BSwsfn0v2 https://t.co/CNrTUA449x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AussieBirdCount",
+					"indices": [
+						180,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9BSwsfn0v2",
+					"expanded_url": "https://aussiebirdcount.org.au/",
+					"display_url": "aussiebirdcount.org.au",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1317955666988781600,
+					"id_str": "1317955666988781568",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EkpRskCUUAAEnxK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkpRskCUUAAEnxK.jpg",
+					"url": "https://t.co/CNrTUA449x",
+					"display_url": "pic.twitter.com/CNrTUA449x",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1317955774195195905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317955666988781600,
+					"id_str": "1317955666988781568",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EkpRskCUUAAEnxK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkpRskCUUAAEnxK.jpg",
+					"url": "https://t.co/CNrTUA449x",
+					"display_url": "pic.twitter.com/CNrTUA449x",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1317955774195195905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145136771,
+			"id_str": "145136771",
+			"name": "BirdLife Australia",
+			"screen_name": "BirdlifeOz",
+			"location": "Australia",
+			"description": "Conserving Australia's birds and their habitats through advocacy, targeted research, on-ground work and monitoring.  Standing together to stop extinctions!",
+			"url": "https://t.co/Mufq34cGnS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mufq34cGnS",
+							"expanded_url": "https://birdlife.org.au/",
+							"display_url": "birdlife.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19612,
+			"friends_count": 904,
+			"listed_count": 354,
+			"created_at": "Tue May 18 06:05:23 +0000 2010",
+			"favourites_count": 11481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1580EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145136771/1600663137",
+			"profile_link_color": "003A80",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B6B8B1",
+			"profile_text_color": "0F0E0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Start counting - the Aussie Backyard Bird Count starts TODAY! \nYou can submit as many different counts as you like throughout the week, as long as each count lasts for 20 minutes. #AussieBirdCount\nhttps://t.co/9BSwsfn0v2 https://t.co/CNrTUA449x"
+	},
+	{
+		"created_at": "Mon Oct 19 01:51:05 +0000 2020",
+		"id": 1318006724880593000,
+		"id_str": "1318006724880592896",
+		"full_text": "RA for All: NOBODY CARES HOW MANY BOOKS YOU HAVE READ! Via ⁦@RAforAll⁩  - yes, this https://t.co/efF748YDRb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAforAll",
+					"name": "Becky Spratford",
+					"id": 2474412986,
+					"id_str": "2474412986",
+					"indices": [
+						60,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/efF748YDRb",
+					"expanded_url": "http://raforall.blogspot.com/2020/10/nobody-cares-how-many-books-you-have.html",
+					"display_url": "raforall.blogspot.com/2020/10/nobody…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 879,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RA for All: NOBODY CARES HOW MANY BOOKS YOU HAVE READ! Via ⁦@RAforAll⁩  - yes, this https://t.co/efF748YDRb"
+	},
+	{
+		"created_at": "Mon Oct 19 01:49:36 +0000 2020",
+		"id": 1317424083215286300,
+		"id_str": "1318006350954201088",
+		"full_text": "Just because you didn’t like someone’s book/song/movie/play, doesn’t mean it was garbage. \n\nYou just didn’t like it. Or it wasn’t meant for you. \n\nAmplify stuff you like instead of being horrid about stuff you didn’t.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14560889,
+			"id_str": "14560889",
+			"name": "Cody DaiGHOUL-Orians 🏳️‍🌈 💀👻",
+			"screen_name": "CDaigleOrians",
+			"location": "Hartford, CT",
+			"description": "Tell stories. Change the world. 📚 Writer. Nonprofit guy. Booktuber. I dig horror, genre fiction, theatre, and queer culture. I make #StoryFest2020. He/him. Ace",
+			"url": "https://t.co/rnSabw0zbS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rnSabw0zbS",
+							"expanded_url": "http://www.youtube.com/ryter229",
+							"display_url": "youtube.com/ryter229",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7257,
+			"friends_count": 7064,
+			"listed_count": 56,
+			"created_at": "Sun Apr 27 19:30:52 +0000 2008",
+			"favourites_count": 19148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305591078649761793/HpnlAzSl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305591078649761793/HpnlAzSl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14560889/1593091648",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Just because you didn’t like someone’s book/song/movie/play, doesn’t mean it was garbage. \n\nYou just didn’t like it. Or it wasn’t meant for you. \n\nAmplify stuff you like instead of being horrid about stuff you didn’t."
+	},
+	{
 		"created_at": "Sun Oct 18 06:05:25 +0000 2020",
 		"id": 1317504506188488700,
 		"id_str": "1317708341070557185",
