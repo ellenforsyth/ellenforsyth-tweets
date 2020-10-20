@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 19 20:25:08 +0000 2020",
+		"id": 1318287086387036200,
+		"id_str": "1318287086387036160",
+		"full_text": "The socially distanced library: staying connected in a pandemic https://t.co/QOjt2TMdpB via @OUPAcademic interesting thoughts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OUPAcademic",
+					"name": "Oxford Academic",
+					"id": 6580122,
+					"id_str": "6580122",
+					"indices": [
+						92,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QOjt2TMdpB",
+					"expanded_url": "https://blog.oup.com/2020/10/the-socially-distanced-library-staying-connected-in-a-pandemic/",
+					"display_url": "blog.oup.com/2020/10/the-so…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2534,
+			"friends_count": 879,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The socially distanced library: staying connected in a pandemic https://t.co/QOjt2TMdpB via @OUPAcademic interesting thoughts"
+	},
+	{
 		"created_at": "Mon Oct 19 01:52:02 +0000 2020",
 		"id": 1317955774195196000,
 		"id_str": "1318006965591707648",
@@ -196,7 +313,7 @@ Grailbird.data.tweets_2020_10 =
 		"created_at": "Mon Oct 19 01:51:05 +0000 2020",
 		"id": 1318006724880593000,
 		"id_str": "1318006724880592896",
-		"full_text": "RA for All: NOBODY CARES HOW MANY BOOKS YOU HAVE READ! Via ⁦@RAforAll⁩  - yes, this https://t.co/efF748YDRb",
+		"full_text": "RA for All: NOBODY CARES HOW MANY BOOKS YOU HAVE READ! Via @RAforAll  - yes, this https://t.co/efF748YDRb",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -307,7 +424,7 @@ Grailbird.data.tweets_2020_10 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "RA for All: NOBODY CARES HOW MANY BOOKS YOU HAVE READ! Via ⁦@RAforAll⁩  - yes, this https://t.co/efF748YDRb"
+		"text": "RA for All: NOBODY CARES HOW MANY BOOKS YOU HAVE READ! Via @RAforAll  - yes, this https://t.co/efF748YDRb"
 	},
 	{
 		"created_at": "Mon Oct 19 01:49:36 +0000 2020",
@@ -334,7 +451,7 @@ Grailbird.data.tweets_2020_10 =
 		"user": {
 			"id": 14560889,
 			"id_str": "14560889",
-			"name": "Cody DaiGHOUL-Orians 🏳️‍🌈 💀👻",
+			"name": "Cody DaiGHOUL-Orians 🏳️🌈 💀👻",
 			"screen_name": "CDaigleOrians",
 			"location": "Hartford, CT",
 			"description": "Tell stories. Change the world. 📚 Writer. Nonprofit guy. Booktuber. I dig horror, genre fiction, theatre, and queer culture. I make #StoryFest2020. He/him. Ace",
