@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 20 17:29:20 +0000 2020",
+		"id": 1318605231924473900,
+		"id_str": "1318605231924473859",
+		"full_text": "Really interesting use of comics https://t.co/LGq7GxNyJy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LGq7GxNyJy",
+					"expanded_url": "https://twitter.com/ComicsGrid/status/1318602808376045569",
+					"display_url": "twitter.com/ComicsGrid/sta…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2537,
+			"friends_count": 878,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1318602808376045600,
+		"quoted_status_id_str": "1318602808376045569",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LGq7GxNyJy",
+			"expanded": "https://twitter.com/ComicsGrid/status/1318602808376045569",
+			"display": "twitter.com/ComicsGrid/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 20 17:19:42 +0000 2020",
+			"id": 1318602808376045600,
+			"id_str": "1318602808376045569",
+			"full_text": "Using narrative to convey the experience of dementia care-giving: I Know How This Ends: Stories of Dementia Care  https://t.co/PLPcPm0l3F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PLPcPm0l3F",
+						"expanded_url": "https://blogs.city.ac.uk/hcidcomicsgames/2020/02/12/using-narrative-to-convey-the-experience-of-dementia-care-giving-i-know-how-this-ends-stories-of-dementia-care/#.XkfZ2w-SXX0.twitter",
+						"display_url": "blogs.city.ac.uk/hcidcomicsgame…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.comicsgrid.com/\" rel=\"nofollow\">ComicsGrid </a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 228767187,
+				"id_str": "228767187",
+				"name": "The Comics Grid",
+				"screen_name": "ComicsGrid",
+				"location": "http://www.comicsgrid.com/",
+				"description": "Peer-reviewed, OA Journal of Comics Scholarship. Published by @openlibhums. RTs, ❤s are not endorsements. Tweets are often scheduled by team. E-ISSN 2048-0792.",
+				"url": "https://t.co/hXgy0CUTMg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hXgy0CUTMg",
+								"expanded_url": "http://www.comicsgrid.com/",
+								"display_url": "comicsgrid.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6838,
+				"friends_count": 5759,
+				"listed_count": 350,
+				"created_at": "Mon Dec 20 16:33:00 +0000 2010",
+				"favourites_count": 4306,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 38273,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1775038607/image1327307984_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1775038607/image1327307984_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/228767187/1599736717",
+				"profile_link_color": "F22C2C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really interesting use of comics https://t.co/LGq7GxNyJy"
+	},
+	{
 		"created_at": "Mon Oct 19 20:25:08 +0000 2020",
 		"id": 1318287086387036200,
 		"id_str": "1318287086387036160",
