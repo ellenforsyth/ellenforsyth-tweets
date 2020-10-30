@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 01:17:09 +0000 2020",
+		"id": 1321983955613196300,
+		"id_str": "1321984452818477056",
+		"full_text": "Australia must prepare for future shaped by extreme climate, bushfire royal commission warns https://t.co/acrZyDijH4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/acrZyDijH4",
+					"expanded_url": "https://www.theguardian.com/australia-news/2020/oct/30/australia-must-prepare-for-future-shaped-by-extreme-climate-bushfire-royal-commission-report-warns?utm_term=Autofeed&CMP=soc_568&utm_medium=Social&utm_source=Twitter#Echobox=1604020471",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1092378031,
+			"id_str": "1092378031",
+			"name": "Guardian Australia",
+			"screen_name": "GuardianAus",
+			"location": "Australia",
+			"description": "Latest news from Guardian Australia",
+			"url": "https://t.co/yhI6Vqsr3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yhI6Vqsr3q",
+							"expanded_url": "https://support.theguardian.com/au/contribute",
+							"display_url": "support.theguardian.com/au/contribute",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276978,
+			"friends_count": 160,
+			"listed_count": 2552,
+			"created_at": "Tue Jan 15 15:16:44 +0000 2013",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 236390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2AFA9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175902409534476288/iQwEZavm_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175902409534476288/iQwEZavm_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092378031/1595225395",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Australia must prepare for future shaped by extreme climate, bushfire royal commission warns https://t.co/acrZyDijH4"
+	},
+	{
+		"created_at": "Thu Oct 29 20:29:24 +0000 2020",
+		"id": 1321912037291667500,
+		"id_str": "1321912037291667456",
+		"full_text": "Friday essay: Alice Pung — how reading changed my life https://t.co/unIjxWgHop via @ConversationEDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						83,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/unIjxWgHop",
+					"expanded_url": "https://theconversation.com/friday-essay-alice-pung-how-reading-changed-my-life-147442?utm_source=twitter&utm_medium=bylinetwitterbutton",
+					"display_url": "theconversation.com/friday-essay-a…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2536,
+			"friends_count": 879,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Friday essay: Alice Pung — how reading changed my life https://t.co/unIjxWgHop via @ConversationEDU"
+	},
+	{
 		"created_at": "Wed Oct 28 22:26:17 +0000 2020",
 		"id": 1321579064172310500,
 		"id_str": "1321579064172310528",
