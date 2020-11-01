@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 31 19:44:24 +0000 2020",
+		"id": 1322162256809988000,
+		"id_str": "1322625487760318464",
+		"full_text": "The lack of memorials and monuments dedicated to the victims of slavery is leading to ignorance and memory loss, says RIBA Gold Medal-winning architect @dadjaye. https://t.co/WEf5kKC5az",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dadjaye",
+					"name": "Sir David Adjaye",
+					"id": 1223901055,
+					"id_str": "1223901055",
+					"indices": [
+						152,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WEf5kKC5az",
+					"expanded_url": "https://www.dezeen.com/2020/10/30/slavery-memorials-david-adjaye/",
+					"display_url": "dezeen.com/2020/10/30/sla…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26012202,
+			"id_str": "26012202",
+			"name": "Dezeen",
+			"screen_name": "dezeen",
+			"location": "London",
+			"description": "The world's most popular and influential architecture, interiors and design magazine.",
+			"url": "https://t.co/Z7Bz4pBHYd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7Bz4pBHYd",
+							"expanded_url": "https://www.dezeen.com/newsletters/",
+							"display_url": "dezeen.com/newsletters/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 979806,
+			"friends_count": 14877,
+			"listed_count": 10342,
+			"created_at": "Mon Mar 23 14:38:43 +0000 2009",
+			"favourites_count": 1999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 124048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/801122329908707328/cVOgX_ER_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/801122329908707328/cVOgX_ER_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26012202/1556808853",
+			"profile_link_color": "6C6E95",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The lack of memorials and monuments dedicated to the victims of slavery is leading to ignorance and memory loss, says RIBA Gold Medal-winning architect @dadjaye. https://t.co/WEf5kKC5az"
+	},
+	{
 		"created_at": "Fri Oct 30 22:54:29 +0000 2020",
 		"id": 1322310938377277400,
 		"id_str": "1322310938377277441",
