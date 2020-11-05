@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 05:49:02 +0000 2020",
+		"id": 1324201387698217000,
+		"id_str": "1324227203719065601",
+		"full_text": "'Knitting is ideal for hiding messages, like Morse code, because it is binary: there are only two stitches, knit and purl'\n\nOn knitting, and revolution:\n\nhttps://t.co/hzChwiQRhT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hzChwiQRhT",
+					"expanded_url": "https://bit.ly/387BHei",
+					"display_url": "bit.ly/387BHei",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14945180,
+			"id_str": "14945180",
+			"name": "Readings",
+			"screen_name": "ReadingsBooks",
+			"location": "Melbourne, Australia",
+			"description": "Independent Australian booksellers.",
+			"url": "http://t.co/2AjxpeJRBR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2AjxpeJRBR",
+							"expanded_url": "http://readings.com.au",
+							"display_url": "readings.com.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35307,
+			"friends_count": 6322,
+			"listed_count": 682,
+			"created_at": "Thu May 29 16:00:44 +0000 2008",
+			"favourites_count": 8527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950540301273153536/6HUf4eUs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950540301273153536/6HUf4eUs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14945180/1565072484",
+			"profile_link_color": "10478A",
+			"profile_sidebar_border_color": "10478A",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Knitting is ideal for hiding messages, like Morse code, because it is binary: there are only two stitches, knit and purl'\n\nOn knitting, and revolution:\n\nhttps://t.co/hzChwiQRhT"
+	},
+	{
 		"created_at": "Tue Nov 03 21:16:47 +0000 2020",
 		"id": 1323735902556983300,
 		"id_str": "1323735902556983296",
