@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 02:37:46 +0000 2020",
+		"id": 1325211563586891800,
+		"id_str": "1325266231516045313",
+		"full_text": "The Australian Museum celebrates NAIDOC Week. \n\nTo celebrate this year’s NAIDOC theme, the Australian Museum has worked with First Nations Peoples to translate 'Always Was, Always Will Be' into their respective languages.\n\nhttps://t.co/3kvbUrNaAH\n\n#Aboriginallanguages https://t.co/MFSrUSFu6P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Aboriginallanguages",
+					"indices": [
+						248,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3kvbUrNaAH",
+					"expanded_url": "http://bit.ly/AlwaysWas2020",
+					"display_url": "bit.ly/AlwaysWas2020",
+					"indices": [
+						223,
+						246
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325211560806125600,
+					"id_str": "1325211560806125569",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EmQY5K4XEAE6gMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmQY5K4XEAE6gMF.jpg",
+					"url": "https://t.co/MFSrUSFu6P",
+					"display_url": "pic.twitter.com/MFSrUSFu6P",
+					"expanded_url": "https://twitter.com/austmus/status/1325211563586891776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 999,
+							"h": 999,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 999,
+							"h": 999,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325211560806125600,
+					"id_str": "1325211560806125569",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EmQY5K4XEAE6gMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmQY5K4XEAE6gMF.jpg",
+					"url": "https://t.co/MFSrUSFu6P",
+					"display_url": "pic.twitter.com/MFSrUSFu6P",
+					"expanded_url": "https://twitter.com/austmus/status/1325211563586891776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 999,
+							"h": 999,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 999,
+							"h": 999,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325211560537714700,
+					"id_str": "1325211560537714688",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EmQY5J4XcAALK5H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmQY5J4XcAALK5H.jpg",
+					"url": "https://t.co/MFSrUSFu6P",
+					"display_url": "pic.twitter.com/MFSrUSFu6P",
+					"expanded_url": "https://twitter.com/austmus/status/1325211563586891776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 999,
+							"h": 999,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 999,
+							"h": 999,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20570871,
+			"id_str": "20570871",
+			"name": "Australian Museum",
+			"screen_name": "austmus",
+			"location": "Sydney",
+			"description": "Australia's first museum, showcasing an outstanding natural history and cultural collection. A New South Wales Government funded cultural institution.",
+			"url": "https://t.co/Ighbj7S0qS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ighbj7S0qS",
+							"expanded_url": "http://australian.museum",
+							"display_url": "australian.museum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23401,
+			"friends_count": 2583,
+			"listed_count": 687,
+			"created_at": "Wed Feb 11 04:23:20 +0000 2009",
+			"favourites_count": 10848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/640700319165345793/pjqm5C40_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/640700319165345793/pjqm5C40_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20570871/1603858286",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Australian Museum celebrates NAIDOC Week. \n\nTo celebrate this year’s NAIDOC theme, the Australian Museum has worked with First Nations Peoples to translate 'Always Was, Always Will Be' into their respective languages.\n\nhttps://t.co/3kvbUrNaAH\n\n#Aboriginallanguages https://t.co/MFSrUSFu6P"
+	},
+	{
+		"created_at": "Sat Nov 07 23:55:53 +0000 2020",
+		"id": 1325218167870795800,
+		"id_str": "1325225493302448128",
+		"full_text": "Beyond proud of the @IndigitalEdu\nTeam, Governor Stirling Snr High + the kids sharing digital skills 👌🏿Thank You Uncle Kelvin, Aunty Bella, Aunty Vanessa!\nMinecraft and augmented reality helping Indigenous elders keep stories alive for the next generation https://t.co/y9CXTAc8h9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IndigitalEdu",
+					"name": "Indigital Schools",
+					"id": 1263953416084025300,
+					"id_str": "1263953416084025345",
+					"indices": [
+						20,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y9CXTAc8h9",
+					"expanded_url": "https://www.abc.net.au/news/2020-11-08/indigenous-stories-come-to-life-with-indigital-augmented-reality/12858252?utm_source=abc_news_web&utm_medium=content_shared&utm_content=twitter&utm_campaign=abc_news_web",
+					"display_url": "abc.net.au/news/2020-11-0…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 509731048,
+			"id_str": "509731048",
+			"name": "Mikaela Jade",
+			"screen_name": "jade_mikaela",
+			"location": "Canberra, Australian Capital T",
+			"description": "Cabrogal. Working on digital utopia for our Peoples' - rights to choose or not our cultural expression in a digital world @WEF Global Future Council VR AR",
+			"url": "https://t.co/QdLUbtCuW1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QdLUbtCuW1",
+							"expanded_url": "http://www.indigitalschools.com",
+							"display_url": "indigitalschools.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4334,
+			"friends_count": 2816,
+			"listed_count": 194,
+			"created_at": "Thu Mar 01 04:54:34 +0000 2012",
+			"favourites_count": 13918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/967520036372885506/D2f5XDw4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/967520036372885506/D2f5XDw4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/509731048/1594769290",
+			"profile_link_color": "00C4CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01e4b0c84959d430",
+			"url": "https://api.twitter.com/1.1/geo/id/01e4b0c84959d430.json",
+			"place_type": "city",
+			"name": "Canberra",
+			"full_name": "Canberra, Australian Capital Territory",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							148.9959216,
+							-35.480260417
+						],
+						[
+							149.263643456,
+							-35.480260417
+						],
+						[
+							149.263643456,
+							-35.147699163
+						],
+						[
+							148.9959216,
+							-35.147699163
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond proud of the @IndigitalEdu\nTeam, Governor Stirling Snr High + the kids sharing digital skills 👌🏿Thank You Uncle Kelvin, Aunty Bella, Aunty Vanessa!\nMinecraft and augmented reality helping Indigenous elders keep stories alive for the next generation https://t.co/y9CXTAc8h9"
+	},
+	{
 		"created_at": "Sat Nov 07 06:20:25 +0000 2020",
 		"id": 1324926599817474000,
 		"id_str": "1324959873512005632",
