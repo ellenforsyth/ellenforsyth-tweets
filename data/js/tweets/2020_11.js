@@ -1,6 +1,927 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 20:14:38 +0000 2020",
+		"id": 1326619362480959500,
+		"id_str": "1326619362480959488",
+		"full_text": "only just coming across @britishlibrary #voicesofscience https://t.co/QvMa9PW9Yv it is amazing https://t.co/ZwGWfkQwiH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "voicesofscience",
+					"indices": [
+						40,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "britishlibrary",
+					"name": "The British Library",
+					"id": 21744554,
+					"id_str": "21744554",
+					"indices": [
+						24,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QvMa9PW9Yv",
+					"expanded_url": "https://www.bl.uk/voices-of-science",
+					"display_url": "bl.uk/voices-of-scie…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/ZwGWfkQwiH",
+					"expanded_url": "https://twitter.com/scilib/status/1270315288039391238",
+					"display_url": "twitter.com/scilib/status/…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2541,
+			"friends_count": 879,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1270315288039391200,
+		"quoted_status_id_str": "1270315288039391238",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZwGWfkQwiH",
+			"expanded": "https://twitter.com/scilib/status/1270315288039391238",
+			"display": "twitter.com/scilib/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 09 11:22:20 +0000 2020",
+			"id": 1270315288039391200,
+			"id_str": "1270315288039391238",
+			"full_text": "British Library @ScienceBL - Voices of Science : Maggie Aderin-Pocock, space engineer https://t.co/r7gVlFrcqY \n\nFull audio (in 14 parts) in Oral history of British science https://t.co/8QJ6aNwl6Y https://t.co/2lCRBAckvI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ScienceBL",
+						"name": "British Library Science Team",
+						"id": 125614071,
+						"id_str": "125614071",
+						"indices": [
+							16,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/r7gVlFrcqY",
+						"expanded_url": "https://www.bl.uk/voices-of-science/interviewees/maggie-aderin-pocock",
+						"display_url": "bl.uk/voices-of-scie…",
+						"indices": [
+							86,
+							109
+						]
+					},
+					{
+						"url": "https://t.co/8QJ6aNwl6Y",
+						"expanded_url": "https://sounds.bl.uk/Oral-history/Science/021M-C1379X0101XX-0001V0",
+						"display_url": "sounds.bl.uk/Oral-history/S…",
+						"indices": [
+							172,
+							195
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1270315001023168500,
+						"id_str": "1270315001023168516",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/media/EaEQw1TWAAQY6GA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaEQw1TWAAQY6GA.jpg",
+						"url": "https://t.co/2lCRBAckvI",
+						"display_url": "pic.twitter.com/2lCRBAckvI",
+						"expanded_url": "https://twitter.com/scilib/status/1270315288039391238/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1270315001023168500,
+						"id_str": "1270315001023168516",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/media/EaEQw1TWAAQY6GA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EaEQw1TWAAQY6GA.jpg",
+						"url": "https://t.co/2lCRBAckvI",
+						"display_url": "pic.twitter.com/2lCRBAckvI",
+						"expanded_url": "https://twitter.com/scilib/status/1270315288039391238/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6621172,
+				"id_str": "6621172",
+				"name": "Richard Akerman",
+				"screen_name": "scilib",
+				"location": "Ottawa, Ontario",
+				"description": "Thoughts about open gov, open data, and open science.  Government of Canada employee.  Personal opinions only.  I do not necessarily ❤️ the things I favourite.",
+				"url": "http://t.co/s0Cfa6FKmK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/s0Cfa6FKmK",
+								"expanded_url": "http://scilib.typepad.com/",
+								"display_url": "scilib.typepad.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3564,
+				"friends_count": 1052,
+				"listed_count": 560,
+				"created_at": "Wed Jun 06 15:35:14 +0000 2007",
+				"favourites_count": 42406,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50297,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/72491246/SLP-qr-small-trim_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/72491246/SLP-qr-small-trim_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6621172/1397558777",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "only just coming across @britishlibrary #voicesofscience https://t.co/QvMa9PW9Yv it is amazing https://t.co/ZwGWfkQwiH"
+	},
+	{
+		"created_at": "Wed Nov 11 09:41:43 +0000 2020",
+		"id": 1326302399963783200,
+		"id_str": "1326460085166432258",
+		"full_text": "Thanks to over 10,600 #FrogID users across #Australia, we’ve released the second instalment of the #FrogID dataset!\n🐸 126,169 open-access, expert-validated frog records\n🐸 191 frog species aka 79% of Australia’s #frogs!\nRead more 👉 https://t.co/CgMV7cKYIs\n#FrogIDWeek #citscioz https://t.co/Yw7Sjtdeps",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FrogID",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"text": "Australia",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"text": "FrogID",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "frogs",
+					"indices": [
+						211,
+						217
+					]
+				},
+				{
+					"text": "FrogIDWeek",
+					"indices": [
+						255,
+						266
+					]
+				},
+				{
+					"text": "citscioz",
+					"indices": [
+						267,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CgMV7cKYIs",
+					"expanded_url": "http://bit.ly/frogid-dataset",
+					"display_url": "bit.ly/frogid-dataset",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326302398298681300,
+					"id_str": "1326302398298681353",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Emf5ARNXcAk8mzO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emf5ARNXcAk8mzO.jpg",
+					"url": "https://t.co/Yw7Sjtdeps",
+					"display_url": "pic.twitter.com/Yw7Sjtdeps",
+					"expanded_url": "https://twitter.com/FrogIDAus/status/1326302399963783174/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326302398298681300,
+					"id_str": "1326302398298681353",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Emf5ARNXcAk8mzO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emf5ARNXcAk8mzO.jpg",
+					"url": "https://t.co/Yw7Sjtdeps",
+					"display_url": "pic.twitter.com/Yw7Sjtdeps",
+					"expanded_url": "https://twitter.com/FrogIDAus/status/1326302399963783174/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 904933218754879500,
+			"id_str": "904933218754879488",
+			"name": "FrogID",
+			"screen_name": "FrogIDAus",
+			"location": "",
+			"description": "Australia’s first national frog count! Download the app, record frog calls and help save Australia's frogs. An @Austmus initiative.",
+			"url": "https://t.co/b1zgdaPHly",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b1zgdaPHly",
+							"expanded_url": "http://www.FrogID.net.au",
+							"display_url": "FrogID.net.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2276,
+			"friends_count": 1051,
+			"listed_count": 39,
+			"created_at": "Tue Sep 05 05:04:26 +0000 2017",
+			"favourites_count": 2268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928552482199838721/LSfcPTMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928552482199838721/LSfcPTMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/904933218754879488/1586133240",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to over 10,600 #FrogID users across #Australia, we’ve released the second instalment of the #FrogID dataset!\n🐸 126,169 open-access, expert-validated frog records\n🐸 191 frog species aka 79% of Australia’s #frogs!\nRead more 👉 https://t.co/CgMV7cKYIs\n#FrogIDWeek #citscioz https://t.co/Yw7Sjtdeps"
+	},
+	{
+		"created_at": "Wed Nov 11 09:41:12 +0000 2020",
+		"id": 1326459956615291000,
+		"id_str": "1326459956615290882",
+		"full_text": "🐸 https://t.co/TOdP6Pwr4R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TOdP6Pwr4R",
+					"expanded_url": "https://twitter.com/jodirowley/status/1326451464965824513",
+					"display_url": "twitter.com/jodirowley/sta…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2541,
+			"friends_count": 879,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326451464965824500,
+		"quoted_status_id_str": "1326451464965824513",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TOdP6Pwr4R",
+			"expanded": "https://twitter.com/jodirowley/status/1326451464965824513",
+			"display": "twitter.com/jodirowley/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 11 09:07:28 +0000 2020",
+			"id": 1326451464965824500,
+			"id_str": "1326451464965824513",
+			"full_text": "There’s #frogs calling out to be recorded and put on the map, #Australia! Head to your backyard pond, dam or local creek and record them with the @FrogIDAus app tonight &amp; every night of #FrogIDWeek! Help gather the information we need to help understand &amp; conserve our frogs! 🐸 https://t.co/p8uPXNGmoB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				285
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "frogs",
+						"indices": [
+							8,
+							14
+						]
+					},
+					{
+						"text": "Australia",
+						"indices": [
+							62,
+							72
+						]
+					},
+					{
+						"text": "FrogIDWeek",
+						"indices": [
+							190,
+							201
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FrogIDAus",
+						"name": "FrogID",
+						"id": 904933218754879500,
+						"id_str": "904933218754879488",
+						"indices": [
+							146,
+							156
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1326451382765854700,
+						"id_str": "1326451382765854721",
+						"indices": [
+							286,
+							309
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326451382765854721/pu/img/MFbnLcpN72qnnJvT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326451382765854721/pu/img/MFbnLcpN72qnnJvT.jpg",
+						"url": "https://t.co/p8uPXNGmoB",
+						"display_url": "pic.twitter.com/p8uPXNGmoB",
+						"expanded_url": "https://twitter.com/jodirowley/status/1326451464965824513/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1326451382765854700,
+						"id_str": "1326451382765854721",
+						"indices": [
+							286,
+							309
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326451382765854721/pu/img/MFbnLcpN72qnnJvT.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326451382765854721/pu/img/MFbnLcpN72qnnJvT.jpg",
+						"url": "https://t.co/p8uPXNGmoB",
+						"display_url": "pic.twitter.com/p8uPXNGmoB",
+						"expanded_url": "https://twitter.com/jodirowley/status/1326451464965824513/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 27038,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1326451382765854721/pu/vid/480x270/k3vDY1YiB4_C5sr5.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1326451382765854721/pu/vid/640x360/p0rvfZXdsb5w6YKA.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1326451382765854721/pu/vid/1280x720/D73Kbk1g-T_-Wp4C.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1326451382765854721/pu/pl/MHA7aBImKuQcE2xs.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216979622,
+				"id_str": "216979622",
+				"name": "Jodi Rowley",
+				"screen_name": "jodirowley",
+				"location": "Australian Museum & UNSW",
+				"description": "Conservation #biologist obsessed with #frogs. Lead Scientist, #FrogID. Searching for the Peppered Tree #Frog. @austmus & @UNSW, @natgeo Explorer. Views my own.",
+				"url": "https://t.co/WDoBwYhDYS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WDoBwYhDYS",
+								"expanded_url": "http://www.jodirowley.com",
+								"display_url": "jodirowley.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9320,
+				"friends_count": 1651,
+				"listed_count": 247,
+				"created_at": "Thu Nov 18 07:08:51 +0000 2010",
+				"favourites_count": 19865,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13407,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2E3B39",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816499907288711169/Au5kRUr3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816499907288711169/Au5kRUr3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216979622/1398342662",
+				"profile_link_color": "F0593E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "D4C8D4",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🐸 https://t.co/TOdP6Pwr4R"
+	},
+	{
 		"created_at": "Tue Nov 10 06:57:21 +0000 2020",
 		"id": 1325957730671104000,
 		"id_str": "1326056332412153856",
