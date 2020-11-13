@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 21:39:49 +0000 2020",
+		"id": 1326994089821302800,
+		"id_str": "1327003189284106243",
+		"full_text": "Report From Ireland: \"A Library Project Which is Helping Older People Get Online to Download Books is Proving a Huge Success.\" (via @rtenews) https://t.co/9iRoiTVGAf  &amp; Listen to Radio Interview https://t.co/f5Y7fb154F  @LibrariesIre  #libraries",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "libraries",
+					"indices": [
+						239,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rtenews",
+					"name": "RTÉ News",
+					"id": 8973062,
+					"id_str": "8973062",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"screen_name": "LibrariesIre",
+					"name": "Libraries Ireland",
+					"id": 3299040779,
+					"id_str": "3299040779",
+					"indices": [
+						224,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9iRoiTVGAf",
+					"expanded_url": "http://ow.ly/L4xn50Cj8Kp",
+					"display_url": "ow.ly/L4xn50Cj8Kp",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/f5Y7fb154F",
+					"expanded_url": "http://ow.ly/cjrR50Cj8Kq",
+					"display_url": "ow.ly/cjrR50Cj8Kq",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15169290,
+			"id_str": "15169290",
+			"name": "Library Journal",
+			"screen_name": "LibraryJournal",
+			"location": "New York, NY",
+			"description": "Library views, news, and book reviews from LJ staffers",
+			"url": "http://t.co/WSOb61lYld",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WSOb61lYld",
+							"expanded_url": "http://www.libraryjournal.com",
+							"display_url": "libraryjournal.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 236976,
+			"friends_count": 407,
+			"listed_count": 5829,
+			"created_at": "Thu Jun 19 13:51:48 +0000 2008",
+			"favourites_count": 3331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5E9F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15169290/1539277524",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "6C6C6C",
+			"profile_sidebar_fill_color": "CBCDC5",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Report From Ireland: \"A Library Project Which is Helping Older People Get Online to Download Books is Proving a Huge Success.\" (via @rtenews) https://t.co/9iRoiTVGAf  &amp; Listen to Radio Interview https://t.co/f5Y7fb154F  @LibrariesIre  #libraries"
+	},
+	{
+		"created_at": "Thu Nov 12 19:08:51 +0000 2020",
+		"id": 1326962636190265300,
+		"id_str": "1326965196930174976",
+		"full_text": "Today, we’re launching the #StateOfTheClimate 2020 report with @BOM_au. \n \nThe report shows that Australia’s climate is continuing to warm, and the frequency of extreme events such as bushfires, droughts, and marine heatwaves is growing. \n\nhttps://t.co/tX4Qv15XNo https://t.co/HaJQbyUPM3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StateOfTheClimate",
+					"indices": [
+						27,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BOM_au",
+					"name": "Bureau of Meteorology, Australia",
+					"id": 188545143,
+					"id_str": "188545143",
+					"indices": [
+						63,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tX4Qv15XNo",
+					"expanded_url": "https://www.csiro.au/en/News/News-releases/2020/State-of-the-Climate-2020-shows-continued-warming-and-increase-in-extreme-weather-events",
+					"display_url": "csiro.au/en/News/News-r…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326962634600624000,
+					"id_str": "1326962634600624131",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EmpRfFGWMAMe2Kb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmpRfFGWMAMe2Kb.jpg",
+					"url": "https://t.co/HaJQbyUPM3",
+					"display_url": "pic.twitter.com/HaJQbyUPM3",
+					"expanded_url": "https://twitter.com/CSIRO/status/1326962636190265347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326962634600624000,
+					"id_str": "1326962634600624131",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EmpRfFGWMAMe2Kb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmpRfFGWMAMe2Kb.jpg",
+					"url": "https://t.co/HaJQbyUPM3",
+					"display_url": "pic.twitter.com/HaJQbyUPM3",
+					"expanded_url": "https://twitter.com/CSIRO/status/1326962636190265347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174083824,
+			"id_str": "174083824",
+			"name": "CSIRO",
+			"screen_name": "CSIRO",
+			"location": "Australia",
+			"description": "We ♥ science. We're Australia's national science agency. We solve the greatest challenges through innovative science and technology. RTs not endorsements.",
+			"url": "https://t.co/uQjDbxq1tI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uQjDbxq1tI",
+							"expanded_url": "http://www.csiro.au/",
+							"display_url": "csiro.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102842,
+			"friends_count": 1745,
+			"listed_count": 1584,
+			"created_at": "Tue Aug 03 02:06:21 +0000 2010",
+			"favourites_count": 4686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "02A9CE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325562133950603264/7j-CNTPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325562133950603264/7j-CNTPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174083824/1604873624",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3FFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today, we’re launching the #StateOfTheClimate 2020 report with @BOM_au. \n \nThe report shows that Australia’s climate is continuing to warm, and the frequency of extreme events such as bushfires, droughts, and marine heatwaves is growing. \n\nhttps://t.co/tX4Qv15XNo https://t.co/HaJQbyUPM3"
+	},
+	{
 		"created_at": "Wed Nov 11 20:14:38 +0000 2020",
 		"id": 1326619362480959500,
 		"id_str": "1326619362480959488",
