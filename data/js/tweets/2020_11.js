@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 14 20:10:44 +0000 2020",
+		"id": 1327491183787077600,
+		"id_str": "1327705548314341379",
+		"full_text": "A group of women are bridging the knowledge gap between traditional and western science. 🌱\n\nThey're also increasing Kamilaroi women’s sense of identity and empowerment by reconnecting them to their languages and cultural knowledge. #NAIDOCWeek2020 https://t.co/tMbUgTbmdA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAIDOCWeek2020",
+					"indices": [
+						232,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tMbUgTbmdA",
+					"expanded_url": "https://blog.csiro.au/using-indigenous-knowledge/",
+					"display_url": "blog.csiro.au/using-indigeno…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174083824,
+			"id_str": "174083824",
+			"name": "CSIRO",
+			"screen_name": "CSIRO",
+			"location": "Australia",
+			"description": "We ♥ science. We're Australia's national science agency. We solve the greatest challenges through innovative science and technology. RTs not endorsements.",
+			"url": "https://t.co/uQjDbxq1tI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uQjDbxq1tI",
+							"expanded_url": "http://www.csiro.au/",
+							"display_url": "csiro.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102915,
+			"friends_count": 1745,
+			"listed_count": 1586,
+			"created_at": "Tue Aug 03 02:06:21 +0000 2010",
+			"favourites_count": 4686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "02A9CE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325562133950603264/7j-CNTPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325562133950603264/7j-CNTPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174083824/1604873624",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3FFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A group of women are bridging the knowledge gap between traditional and western science. 🌱\n\nThey're also increasing Kamilaroi women’s sense of identity and empowerment by reconnecting them to their languages and cultural knowledge. #NAIDOCWeek2020 https://t.co/tMbUgTbmdA"
+	},
+	{
 		"created_at": "Thu Nov 12 21:39:49 +0000 2020",
 		"id": 1326994089821302800,
 		"id_str": "1327003189284106243",
