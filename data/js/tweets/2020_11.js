@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 16 09:27:36 +0000 2020",
+		"id": 1326998939694936000,
+		"id_str": "1328268473676361729",
+		"full_text": "these crochet representations of different R numbers are wonderful - by a professor of biostatistics in Norway https://t.co/yraWMy0AKk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yraWMy0AKk",
+					"expanded_url": "https://www.youtube.com/watch?v=9lxKUulMxH8&feature=youtu.be",
+					"display_url": "youtube.com/watch?v=9lxKUu…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76956597,
+			"id_str": "76956597",
+			"name": "David Spiegelhalter",
+			"screen_name": "d_spiegel",
+			"location": "Cambridge, England",
+			"description": "Statistician: + evidence, risk, probability, chance, uncertainty. Chair, Winton Centre. Author- The Art of Statistics. Own opinions. I shun rude or anonymous",
+			"url": "https://t.co/iKUZR2KhDt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iKUZR2KhDt",
+							"expanded_url": "http://www.statslab.cam.ac.uk/~david/",
+							"display_url": "statslab.cam.ac.uk/~david/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67666,
+			"friends_count": 263,
+			"listed_count": 1069,
+			"created_at": "Thu Sep 24 14:49:29 +0000 2009",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/827668295/me-blag-closer_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/827668295/me-blag-closer_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/76956597/1587624699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 463,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "these crochet representations of different R numbers are wonderful - by a professor of biostatistics in Norway https://t.co/yraWMy0AKk"
+	},
+	{
 		"created_at": "Sat Nov 14 20:10:44 +0000 2020",
 		"id": 1327491183787077600,
 		"id_str": "1327705548314341379",
