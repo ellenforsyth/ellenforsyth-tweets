@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 18 19:53:59 +0000 2020",
+		"id": 1329150880784924700,
+		"id_str": "1329150880784924673",
+		"full_text": "some very interesting looking reading https://t.co/YtpFcaRzt0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YtpFcaRzt0",
+					"expanded_url": "https://twitter.com/amlibraries/status/1328783796456595460",
+					"display_url": "twitter.com/amlibraries/st…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2539,
+			"friends_count": 878,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1328783796456595500,
+		"quoted_status_id_str": "1328783796456595460",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YtpFcaRzt0",
+			"expanded": "https://twitter.com/amlibraries/status/1328783796456595460",
+			"display": "twitter.com/amlibraries/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 17 19:35:19 +0000 2020",
+			"id": 1328783796456595500,
+			"id_str": "1328783796456595460",
+			"full_text": "Empower, provide, engage: Social activism and libraries: Latest Library Links https://t.co/v5gPEmlAcj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/v5gPEmlAcj",
+						"expanded_url": "https://bit.ly/35DqT5L",
+						"display_url": "bit.ly/35DqT5L",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18955776,
+				"id_str": "18955776",
+				"name": "American Libraries",
+				"screen_name": "amlibraries",
+				"location": "Chicago",
+				"description": "Magazine of the American Library Association. Tweeters include Amy Carlton, Terra Dankowski, Phil Morehart, Sallyann Price & Sanhita SinhaRoy.",
+				"url": "http://t.co/2Dq9yGNmHL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2Dq9yGNmHL",
+								"expanded_url": "http://americanlibrariesmagazine.org",
+								"display_url": "americanlibrariesmagazine.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88729,
+				"friends_count": 1141,
+				"listed_count": 2285,
+				"created_at": "Tue Jan 13 22:08:09 +0000 2009",
+				"favourites_count": 982,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 29407,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472100953567420416/OIkjjhbj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18955776/1592338195",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some very interesting looking reading https://t.co/YtpFcaRzt0"
+	},
+	{
 		"created_at": "Mon Nov 16 09:27:36 +0000 2020",
 		"id": 1326998939694936000,
 		"id_str": "1328268473676361729",
