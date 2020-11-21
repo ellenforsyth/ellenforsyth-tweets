@@ -1,6 +1,552 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 20 22:05:25 +0000 2020",
+		"id": 1329735002578321400,
+		"id_str": "1329908736152924161",
+		"full_text": "\"A different sense of reading\" is the motto of The German Centre for Accessible Reading. In this blog piece, @dzblesen, the oldest specialist library of its kind in Germany, discusses the institution's goals, offerings, and features that make it unique. https://t.co/bXAXdnEppQ https://t.co/m0AzlLe4Lw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dzblesen",
+					"name": "Deutsches Zentrum für barrierefreies Lesen",
+					"id": 2695335631,
+					"id_str": "2695335631",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bXAXdnEppQ",
+					"expanded_url": "https://bit.ly/3ffpfe1",
+					"display_url": "bit.ly/3ffpfe1",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1329734999965274000,
+					"id_str": "1329734999965274115",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EnQq7-5VkAMbEww.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnQq7-5VkAMbEww.jpg",
+					"url": "https://t.co/m0AzlLe4Lw",
+					"display_url": "pic.twitter.com/m0AzlLe4Lw",
+					"expanded_url": "https://twitter.com/OUPAcademic/status/1329735002578321408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329734999965274000,
+					"id_str": "1329734999965274115",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EnQq7-5VkAMbEww.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnQq7-5VkAMbEww.jpg",
+					"url": "https://t.co/m0AzlLe4Lw",
+					"display_url": "pic.twitter.com/m0AzlLe4Lw",
+					"expanded_url": "https://twitter.com/OUPAcademic/status/1329735002578321408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.percolate.com\" rel=\"nofollow\">Percolate</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6580122,
+			"id_str": "6580122",
+			"name": "Oxford Academic",
+			"screen_name": "OUPAcademic",
+			"location": "New York City & Oxford",
+			"description": "Oxford University Press’s academic news and insights for the thinking world, brought to you by OUP's social media team.",
+			"url": "http://t.co/JU3e2aMphQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JU3e2aMphQ",
+							"expanded_url": "http://blog.oup.com",
+							"display_url": "blog.oup.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101191,
+			"friends_count": 3389,
+			"listed_count": 2512,
+			"created_at": "Mon Jun 04 21:33:13 +0000 2007",
+			"favourites_count": 5626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BFBFBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/583516526742999040/HWzESF4N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/583516526742999040/HWzESF4N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6580122/1398257568",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "002147",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"A different sense of reading\" is the motto of The German Centre for Accessible Reading. In this blog piece, @dzblesen, the oldest specialist library of its kind in Germany, discusses the institution's goals, offerings, and features that make it unique. https://t.co/bXAXdnEppQ https://t.co/m0AzlLe4Lw"
+	},
+	{
+		"created_at": "Fri Nov 20 22:04:03 +0000 2020",
+		"id": 1329908389627871200,
+		"id_str": "1329908389627871232",
+		"full_text": "World Reading Habits in 2020 [Infographic] https://t.co/6BmU6GZNn5 via an alert from @amlibraries has interesting global data (which you would not know from the picture shown)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amlibraries",
+					"name": "American Libraries",
+					"id": 18955776,
+					"id_str": "18955776",
+					"indices": [
+						85,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6BmU6GZNn5",
+					"expanded_url": "https://geediting.com/world-reading-habits-2020/",
+					"display_url": "geediting.com/world-reading-…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2542,
+			"friends_count": 878,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "World Reading Habits in 2020 [Infographic] https://t.co/6BmU6GZNn5 via an alert from @amlibraries has interesting global data (which you would not know from the picture shown)"
+	},
+	{
+		"created_at": "Fri Nov 20 21:28:49 +0000 2020",
+		"id": 1329899523938816000,
+		"id_str": "1329899523938816001",
+		"full_text": "Video gaming can benefit mental health, find Oxford academics https://t.co/oIk6at6t59  via @guardian the playing time data is important here",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oIk6at6t59",
+					"expanded_url": "https://www.theguardian.com/games/2020/nov/16/video-gaming-can-benefit-mental-health-find-oxford-academics",
+					"display_url": "theguardian.com/games/2020/nov…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2542,
+			"friends_count": 878,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Video gaming can benefit mental health, find Oxford academics https://t.co/oIk6at6t59  via @guardian the playing time data is important here"
+	},
+	{
+		"created_at": "Fri Nov 20 19:34:55 +0000 2020",
+		"id": 1329870859540971500,
+		"id_str": "1329870859540971522",
+		"full_text": "The Year in Architecture 2020 https://t.co/16QNdnzPe2 via @LibraryJournal this is always an interesting read with some amazing libraries shown",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LibraryJournal",
+					"name": "Library Journal",
+					"id": 15169290,
+					"id_str": "15169290",
+					"indices": [
+						58,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/16QNdnzPe2",
+					"expanded_url": "https://www.libraryjournal.com/?page=year-in-architecture-2020",
+					"display_url": "libraryjournal.com/?page=year-in-…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2542,
+			"friends_count": 878,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Year in Architecture 2020 https://t.co/16QNdnzPe2 via @LibraryJournal this is always an interesting read with some amazing libraries shown"
+	},
+	{
 		"created_at": "Wed Nov 18 19:53:59 +0000 2020",
 		"id": 1329150880784924700,
 		"id_str": "1329150880784924673",
