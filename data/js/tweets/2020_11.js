@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 22 21:09:18 +0000 2020",
+		"id": 1330552507429392400,
+		"id_str": "1330619387871600641",
+		"full_text": "Australia's platypus habitat has shrunk 22% in 30 years, report says https://t.co/Q9zH8eBT3j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q9zH8eBT3j",
+					"expanded_url": "https://www.theguardian.com/environment/2020/nov/23/australias-platypus-habitat-has-shrunk-22-in-30-years-report-says?CMP=twt_a-environment_b-gdneco",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20582958,
+			"id_str": "20582958",
+			"name": "Guardian Environment",
+			"screen_name": "guardianeco",
+			"location": "London, UK",
+			"description": "News and comment on the world's most important environmental stories",
+			"url": "https://t.co/IrYc3fUv80",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IrYc3fUv80",
+							"expanded_url": "https://www.theguardian.com/environment",
+							"display_url": "theguardian.com/environment",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 492815,
+			"friends_count": 7775,
+			"listed_count": 12056,
+			"created_at": "Wed Feb 11 10:47:37 +0000 2009",
+			"favourites_count": 1105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 66970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061914878275977217/tF7xfYAu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061914878275977217/tF7xfYAu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20582958/1542015197",
+			"profile_link_color": "005689",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CAE3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Australia's platypus habitat has shrunk 22% in 30 years, report says https://t.co/Q9zH8eBT3j"
+	},
+	{
 		"created_at": "Fri Nov 20 22:05:25 +0000 2020",
 		"id": 1329735002578321400,
 		"id_str": "1329908736152924161",
