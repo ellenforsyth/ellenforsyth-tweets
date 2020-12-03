@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 02 21:22:00 +0000 2020",
+		"id": 1334245474946125800,
+		"id_str": "1334246461895151619",
+		"full_text": "On December 16, join representatives from #MigrationMuseums in Australia, Italy, France, and the United States to discuss the process of rethinking permanent exhibitions to more fully reflect current issues around migration. Learn more and register here: https://t.co/zV7Fu8ga23 https://t.co/Yw7OvE5Woq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MigrationMuseums",
+					"indices": [
+						42,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zV7Fu8ga23",
+					"expanded_url": "https://zoom.us/meeting/register/tJMtceyrrjMqHdFNnx6cQjMk1RqCURbS0vkN",
+					"display_url": "zoom.us/meeting/regist…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334245471448146000,
+					"id_str": "1334245471448145922",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EoQxL-jXIAI-crO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoQxL-jXIAI-crO.jpg",
+					"url": "https://t.co/Yw7OvE5Woq",
+					"display_url": "pic.twitter.com/Yw7OvE5Woq",
+					"expanded_url": "https://twitter.com/SitesConscience/status/1334245474946125824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334245471448146000,
+					"id_str": "1334245471448145922",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EoQxL-jXIAI-crO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoQxL-jXIAI-crO.jpg",
+					"url": "https://t.co/Yw7OvE5Woq",
+					"display_url": "pic.twitter.com/Yw7OvE5Woq",
+					"expanded_url": "https://twitter.com/SitesConscience/status/1334245474946125824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240818804,
+			"id_str": "240818804",
+			"name": "sitesconscience",
+			"screen_name": "SitesConscience",
+			"location": "New York, NY",
+			"description": "A global network of historic sites, museums and memory initiatives connecting past struggles to today's movements for human rights and transitional justice.",
+			"url": "http://t.co/Z6PIszr0uK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Z6PIszr0uK",
+							"expanded_url": "http://www.sitesofconscience.org",
+							"display_url": "sitesofconscience.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6095,
+			"friends_count": 2060,
+			"listed_count": 148,
+			"created_at": "Thu Jan 20 20:30:57 +0000 2011",
+			"favourites_count": 6463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E1523D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268168370505072642/AQtP0yen_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268168370505072642/AQtP0yen_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240818804/1409752642",
+			"profile_link_color": "E1523D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On December 16, join representatives from #MigrationMuseums in Australia, Italy, France, and the United States to discuss the process of rethinking permanent exhibitions to more fully reflect current issues around migration. Learn more and register here: https://t.co/zV7Fu8ga23 https://t.co/Yw7OvE5Woq"
+	},
+	{
 		"created_at": "Tue Dec 01 21:01:22 +0000 2020",
 		"id": 1333878882244522000,
 		"id_str": "1333878882244521984",
