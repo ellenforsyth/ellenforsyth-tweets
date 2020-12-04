@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 20:48:49 +0000 2020",
+		"id": 1334600499790659600,
+		"id_str": "1334600499790659590",
+		"full_text": "this sounds fun (and also thanks to an alert from Bruce) https://t.co/DXTZWQZmnG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DXTZWQZmnG",
+					"expanded_url": "https://twitter.com/ILoveLibraries/status/1334159897085227014",
+					"display_url": "twitter.com/ILoveLibraries…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2541,
+			"friends_count": 879,
+			"listed_count": 228,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1334159897085227000,
+		"quoted_status_id_str": "1334159897085227014",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DXTZWQZmnG",
+			"expanded": "https://twitter.com/ILoveLibraries/status/1334159897085227014",
+			"display": "twitter.com/ILoveLibraries…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 02 15:38:01 +0000 2020",
+			"id": 1334159897085227000,
+			"id_str": "1334159897085227014",
+			"full_text": "“I hope Citizen DJ can represent just one of many technologies that has pushed hip hop into new and exciting spaces throughout the decades. I hope it inspires younger generations to ask what @librarycongress has that speaks to them.” https://t.co/15y6QUZVBg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "librarycongress",
+						"name": "Library of Congress",
+						"id": 7152572,
+						"id_str": "7152572",
+						"indices": [
+							191,
+							207
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/15y6QUZVBg",
+						"expanded_url": "http://www.ilovelibraries.org/article/turn-history-hip-hop-library-congress",
+						"display_url": "ilovelibraries.org/article/turn-h…",
+						"indices": [
+							234,
+							257
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40946856,
+				"id_str": "40946856",
+				"name": "ilovelibraries.org",
+				"screen_name": "ILoveLibraries",
+				"location": "Chicago, Illinois",
+				"description": "Supporting one of our nation's most valuable resources. https://t.co/tfdzHXWE5p is an initiative of @ALALibrary.",
+				"url": "http://t.co/FYhxmawZAV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/FYhxmawZAV",
+								"expanded_url": "http://www.ilovelibraries.org",
+								"display_url": "ilovelibraries.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tfdzHXWE5p",
+								"expanded_url": "http://ilovelibraries.org",
+								"display_url": "ilovelibraries.org",
+								"indices": [
+									56,
+									79
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 57941,
+				"friends_count": 4814,
+				"listed_count": 1504,
+				"created_at": "Mon May 18 19:30:55 +0000 2009",
+				"favourites_count": 3720,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8753,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EAE3C7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/889302229743796225/h1LbhCCf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/889302229743796225/h1LbhCCf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40946856/1591215704",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "634F3D",
+				"profile_sidebar_fill_color": "DBD7BE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this sounds fun (and also thanks to an alert from Bruce) https://t.co/DXTZWQZmnG"
+	},
+	{
 		"created_at": "Wed Dec 02 21:22:00 +0000 2020",
 		"id": 1334245474946125800,
 		"id_str": "1334246461895151619",
