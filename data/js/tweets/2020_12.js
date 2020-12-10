@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 20:45:48 +0000 2020",
+		"id": 1336774068062699500,
+		"id_str": "1336774068062699520",
+		"full_text": "Thank you #AARTreads for this session, interesting and helpful https://t.co/30d3EnCNC6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AARTreads",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/30d3EnCNC6",
+					"expanded_url": "https://twitter.com/arrtreads/status/1325925134377639936",
+					"display_url": "twitter.com/arrtreads/stat…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2542,
+			"friends_count": 879,
+			"listed_count": 226,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1325925134377640000,
+		"quoted_status_id_str": "1325925134377639936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/30d3EnCNC6",
+			"expanded": "https://twitter.com/arrtreads/status/1325925134377639936",
+			"display": "twitter.com/arrtreads/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 09 22:16:01 +0000 2020",
+			"id": 1325925134377640000,
+			"id_str": "1325925134377639936",
+			"full_text": "Diversity audits have been a hot topic the last few months, and we've been thinking about it, too. We're excited to announce our next program is on this very subject. Join us on Dec. 9. Attendance is free! Register here: https://t.co/U7JyUsCg2w https://t.co/KTna1KBLWm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/U7JyUsCg2w",
+						"expanded_url": "https://bit.ly/ARRTDiversityAudit",
+						"display_url": "bit.ly/ARRTDiversityA…",
+						"indices": [
+							221,
+							244
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1325925132372676600,
+						"id_str": "1325925132372676614",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/Emah4gHWEAYj5hv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Emah4gHWEAYj5hv.jpg",
+						"url": "https://t.co/KTna1KBLWm",
+						"display_url": "pic.twitter.com/KTna1KBLWm",
+						"expanded_url": "https://twitter.com/ARRTreads/status/1325925134377639936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1325925132372676600,
+						"id_str": "1325925132372676614",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/Emah4gHWEAYj5hv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Emah4gHWEAYj5hv.jpg",
+						"url": "https://t.co/KTna1KBLWm",
+						"display_url": "pic.twitter.com/KTna1KBLWm",
+						"expanded_url": "https://twitter.com/ARRTreads/status/1325925134377639936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474113790,
+				"id_str": "2474113790",
+				"name": "ARRT Reads",
+				"screen_name": "ARRTreads",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 629,
+				"friends_count": 394,
+				"listed_count": 26,
+				"created_at": "Fri May 02 14:35:41 +0000 2014",
+				"favourites_count": 396,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3122,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/807347827898728448/XxNyGQVI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/807347827898728448/XxNyGQVI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474113790/1516811369",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you #AARTreads for this session, interesting and helpful https://t.co/30d3EnCNC6"
+	},
+	{
 		"created_at": "Wed Dec 09 05:25:34 +0000 2020",
 		"id": 1336542482985672700,
 		"id_str": "1336542482985672705",
