@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 10 07:27:10 +0000 2020",
+		"id": 1336935472581333000,
+		"id_str": "1336935472581332994",
+		"full_text": "This is glorious https://t.co/9POVOxC6eo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9POVOxC6eo",
+					"expanded_url": "https://twitter.com/womensart1/status/1336932373649354753",
+					"display_url": "twitter.com/womensart1/sta…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2539,
+			"friends_count": 879,
+			"listed_count": 226,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336932373649354800,
+		"quoted_status_id_str": "1336932373649354753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9POVOxC6eo",
+			"expanded": "https://twitter.com/womensart1/status/1336932373649354753",
+			"display": "twitter.com/womensart1/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 10 07:14:51 +0000 2020",
+			"id": 1336932373649354800,
+			"id_str": "1336932373649354753",
+			"full_text": "Portuguese textile artist Vanessa Barragão's large-scale handwoven World Map Tapestry using techniques of her ancestors such as latch hook, crochet and felt needle with recycled materials #womensart https://t.co/uI1lKrTIZP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "womensart",
+						"indices": [
+							188,
+							198
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1336932366158270500,
+						"id_str": "1336932366158270465",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo2851WWEAEQ04N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eo2851WWEAEQ04N.jpg",
+						"url": "https://t.co/uI1lKrTIZP",
+						"display_url": "pic.twitter.com/uI1lKrTIZP",
+						"expanded_url": "https://twitter.com/womensart1/status/1336932373649354753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 686,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 686,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1336932366158270500,
+						"id_str": "1336932366158270465",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo2851WWEAEQ04N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eo2851WWEAEQ04N.jpg",
+						"url": "https://t.co/uI1lKrTIZP",
+						"display_url": "pic.twitter.com/uI1lKrTIZP",
+						"expanded_url": "https://twitter.com/womensart1/status/1336932373649354753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 686,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 686,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1336932371329900500,
+						"id_str": "1336932371329900546",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo286InW4AI305P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eo286InW4AI305P.jpg",
+						"url": "https://t.co/uI1lKrTIZP",
+						"display_url": "pic.twitter.com/uI1lKrTIZP",
+						"expanded_url": "https://twitter.com/womensart1/status/1336932373649354753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 728,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 728,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4823705386,
+				"id_str": "4823705386",
+				"name": "#WOMENSART",
+				"screen_name": "womensart1",
+				"location": "",
+				"description": "Celebrating ♀'s art & creativity, curated by freelance writer & art historian @PL_Henderson1. Images are © to respective owners",
+				"url": "https://t.co/gDV7wWbjgm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gDV7wWbjgm",
+								"expanded_url": "https://womensartblog.wordpress.com/",
+								"display_url": "womensartblog.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 302130,
+				"friends_count": 0,
+				"listed_count": 3003,
+				"created_at": "Mon Jan 18 10:32:28 +0000 2016",
+				"favourites_count": 26818,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33829,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871701499335847936/jyeHvT9e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4823705386/1496667909",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 562,
+			"favorite_count": 3222,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is glorious https://t.co/9POVOxC6eo"
+	},
+	{
 		"created_at": "Wed Dec 09 20:45:48 +0000 2020",
 		"id": 1336774068062699500,
 		"id_str": "1336774068062699520",
