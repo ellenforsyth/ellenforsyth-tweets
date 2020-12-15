@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 22:10:05 +0000 2020",
+		"id": 1338607217122013200,
+		"id_str": "1338607217122013185",
+		"full_text": "this is lovely (and a lovely idea for local studies) https://t.co/FKP8L3B3eN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FKP8L3B3eN",
+					"expanded_url": "https://twitter.com/arch_NEXUS/status/1334918064723226624",
+					"display_url": "twitter.com/arch_NEXUS/sta…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 880,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1334918064723226600,
+		"quoted_status_id_str": "1334918064723226624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FKP8L3B3eN",
+			"expanded": "https://twitter.com/arch_NEXUS/status/1334918064723226624",
+			"display": "twitter.com/arch_NEXUS/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 04 17:50:42 +0000 2020",
+			"id": 1334918064723226600,
+			"id_str": "1334918064723226624",
+			"full_text": "Do you long to get out and get some inspiration? Join @nytimes architecture critic Michael Kimmelman for virtual walking tours throughout New York City. #architecture https://t.co/K8ODegGKuj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "architecture",
+						"indices": [
+							153,
+							166
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							54,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/K8ODegGKuj",
+						"expanded_url": "https://www.nytimes.com/interactive/2020/12/02/arts/design/new-york-city-walking-tours.html",
+						"display_url": "nytimes.com/interactive/20…",
+						"indices": [
+							167,
+							190
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 229990734,
+				"id_str": "229990734",
+				"name": "Architectural Nexus",
+				"screen_name": "arch_NEXUS",
+				"location": "",
+				"description": "Architectural Nexus is multidisciplinary, people focused, architectural design firm with offices in Salt Lake City and Sacramento.",
+				"url": "http://t.co/LfhMqLc790",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LfhMqLc790",
+								"expanded_url": "http://www.archnexus.com",
+								"display_url": "archnexus.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 876,
+				"friends_count": 336,
+				"listed_count": 27,
+				"created_at": "Thu Dec 23 23:10:01 +0000 2010",
+				"favourites_count": 51,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 534,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/605484093074063360/TfkYto8D_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/605484093074063360/TfkYto8D_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/229990734/1433193612",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is lovely (and a lovely idea for local studies) https://t.co/FKP8L3B3eN"
+	},
+	{
+		"created_at": "Mon Dec 14 20:42:18 +0000 2020",
+		"id": 1338394321758924800,
+		"id_str": "1338585124946919424",
+		"full_text": "#2020RsfRoudnUp: \n\n3̳8̳7̳ journalists are currently detained \n\n35% rise in number of women journalists held arbitrarily\nThere was a fourfold increase in arbitrary arrests of journalists during the Covid-19’s spread \n\n54 are held hostage \n\n4 are missing\nhttps://t.co/8XBWOtTVY3 https://t.co/qptS7oWcYz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020RsfRoudnUp",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8XBWOtTVY3",
+					"expanded_url": "https://rsf.org/en/news/rsfs-2020-round-35-rise-number-women-journalists-held-arbitrarily",
+					"display_url": "rsf.org/en/news/rsfs-2…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338388539608797200,
+					"id_str": "1338388539608797184",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1338388539608797184/img/V5hQdCorEfmlVswo.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1338388539608797184/img/V5hQdCorEfmlVswo.jpg",
+					"url": "https://t.co/qptS7oWcYz",
+					"display_url": "pic.twitter.com/qptS7oWcYz",
+					"expanded_url": "https://twitter.com/RSF_inter/status/1338394321758924801/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338388539608797200,
+					"id_str": "1338388539608797184",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1338388539608797184/img/V5hQdCorEfmlVswo.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1338388539608797184/img/V5hQdCorEfmlVswo.jpg",
+					"url": "https://t.co/qptS7oWcYz",
+					"display_url": "pic.twitter.com/qptS7oWcYz",
+					"expanded_url": "https://twitter.com/RSF_inter/status/1338394321758924801/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 155200,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1338388539608797184/vid/480x480/tovbAMiX7vN8bqg2.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1338388539608797184/vid/720x720/RcxLRu8bqim4lFv1.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1338388539608797184/vid/320x320/lQ1u5FhY1b1L0zDJ.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1338388539608797184/pl/cwnjYR0H1WlGptC-.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "RSF’s 2020 round-up",
+						"description": "The first part of the annual round-up of abusive treatment of journalists published today by Reporters Without Borders (RSF).",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://rsf.org/en/news/rsfs-2020-round-35-rise-number-women-journalists-held-arbitrarily"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46090688,
+			"id_str": "46090688",
+			"name": "RSF",
+			"screen_name": "RSF_inter",
+			"location": "",
+			"description": "Reporters sans frontières - Reporters Without Borders (RSF). We fight for #PressFreedom all over the world.",
+			"url": "https://t.co/Hz2z7WhVpu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hz2z7WhVpu",
+							"expanded_url": "http://www.rsf.org",
+							"display_url": "rsf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164978,
+			"friends_count": 1545,
+			"listed_count": 3257,
+			"created_at": "Wed Jun 10 11:31:42 +0000 2009",
+			"favourites_count": 3245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1303630233573240833/XKvBMU_Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303630233573240833/XKvBMU_Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46090688/1607678613",
+			"profile_link_color": "EB0909",
+			"profile_sidebar_border_color": "0F0B0F",
+			"profile_sidebar_fill_color": "FFFCFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#2020RsfRoudnUp: \n\n3̳8̳7̳ journalists are currently detained \n\n35% rise in number of women journalists held arbitrarily\nThere was a fourfold increase in arbitrary arrests of journalists during the Covid-19’s spread \n\n54 are held hostage \n\n4 are missing\nhttps://t.co/8XBWOtTVY3 https://t.co/qptS7oWcYz"
+	},
+	{
 		"created_at": "Sun Dec 13 19:33:02 +0000 2020",
 		"id": 1338203121600716800,
 		"id_str": "1338205305969102849",
