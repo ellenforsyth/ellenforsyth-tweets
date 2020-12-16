@@ -1,6 +1,1113 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 20:53:21 +0000 2020",
+		"id": 1338950295993213000,
+		"id_str": "1338950295993212928",
+		"full_text": "really interesting reading and with ideas for local studies (and other) library collections https://t.co/a6reGWtOUF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a6reGWtOUF",
+					"expanded_url": "https://twitter.com/kboughida/status/1338938461420707845",
+					"display_url": "twitter.com/kboughida/stat…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 880,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338938461420707800,
+		"quoted_status_id_str": "1338938461420707845",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a6reGWtOUF",
+			"expanded": "https://twitter.com/kboughida/status/1338938461420707845",
+			"display": "twitter.com/kboughida/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 15 20:06:20 +0000 2020",
+			"id": 1338938461420707800,
+			"id_str": "1338938461420707845",
+			"full_text": "CMU What We Don’t Have: A Transparent Approach to Discussing Diversity in Archival Collections  https://t.co/gWEWDYANIa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gWEWDYANIa",
+						"expanded_url": "https://www.libraryjournal.com?detailStory=what-we-dont-have-a-transparent-approach-to-discussing-diversity-in-archival-collections-peer-to-peer-review",
+						"display_url": "libraryjournal.com/?detailStory=w…",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48356887,
+				"id_str": "48356887",
+				"name": "Karim B Boughida",
+				"screen_name": "kboughida",
+				"location": "Providence, RI",
+				"description": "Biblio-Archivo-Technophile. Dean of University Libraries at URI. Formerly with GWU, Getty, etc. https://t.co/FTzD1KOX6o",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FTzD1KOX6o",
+								"expanded_url": "http://www.linkedin.com/in/kboughida",
+								"display_url": "linkedin.com/in/kboughida",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1914,
+				"friends_count": 1912,
+				"listed_count": 193,
+				"created_at": "Thu Jun 18 13:58:36 +0000 2009",
+				"favourites_count": 4248,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37953,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "07090B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1083448744912322567/HJoiL1Yg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083448744912322567/HJoiL1Yg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48356887/1559400176",
+				"profile_link_color": "C34242",
+				"profile_sidebar_border_color": "BFBFBF",
+				"profile_sidebar_fill_color": "C9C9C9",
+				"profile_text_color": "1C1F23",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "really interesting reading and with ideas for local studies (and other) library collections https://t.co/a6reGWtOUF"
+	},
+	{
+		"created_at": "Tue Dec 15 20:45:09 +0000 2020",
+		"id": 1338945172806234000,
+		"id_str": "1338948232399839232",
+		"full_text": "Does anyone actually care about Australia's threatened plants? \n\nWell, they need our help. New research shows they're in far steeper decline than birds and mammals. https://t.co/eu2WhKxQ6M @SydneyUni_Media @UQ_news @CDUmedia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SydneyUni_Media",
+					"name": "Sydney Uni Media",
+					"id": 278782436,
+					"id_str": "278782436",
+					"indices": [
+						189,
+						205
+					]
+				},
+				{
+					"screen_name": "UQ_News",
+					"name": "UQ News",
+					"id": 17383073,
+					"id_str": "17383073",
+					"indices": [
+						206,
+						214
+					]
+				},
+				{
+					"screen_name": "CDUmedia",
+					"name": "CDUmedia",
+					"id": 2249575488,
+					"id_str": "2249575488",
+					"indices": [
+						215,
+						224
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eu2WhKxQ6M",
+					"expanded_url": "https://theconversation.com/research-reveals-staggering-loss-of-australias-threatened-plants-over-20-years-151408",
+					"display_url": "theconversation.com/research-revea…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224495471,
+			"id_str": "224495471",
+			"name": "The Conversation",
+			"screen_name": "ConversationEDU",
+			"location": "Australia",
+			"description": "Independent news from the sharpest academic minds.\nDonate: https://t.co/Pb9hgFGklM  \nRead: https://t.co/5EfZLQqgii\nSign up: https://t.co/jiZUsUgSNI",
+			"url": "https://t.co/QMffpg0dE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QMffpg0dE5",
+							"expanded_url": "https://donate.theconversation.com",
+							"display_url": "donate.theconversation.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Pb9hgFGklM",
+							"expanded_url": "http://bit.ly/2Wsvz8T",
+							"display_url": "bit.ly/2Wsvz8T",
+							"indices": [
+								59,
+								82
+							]
+						},
+						{
+							"url": "https://t.co/5EfZLQqgii",
+							"expanded_url": "http://theconversation.com/au",
+							"display_url": "theconversation.com/au",
+							"indices": [
+								91,
+								114
+							]
+						},
+						{
+							"url": "https://t.co/jiZUsUgSNI",
+							"expanded_url": "http://bit.ly/2YBhBpn",
+							"display_url": "bit.ly/2YBhBpn",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 180187,
+			"friends_count": 4953,
+			"listed_count": 2940,
+			"created_at": "Thu Dec 09 04:36:36 +0000 2010",
+			"favourites_count": 4286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 71666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E5E5E5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133216986022834176/XL7As8ay_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133216986022834176/XL7As8ay_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224495471/1594355881",
+			"profile_link_color": "D8362A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Does anyone actually care about Australia's threatened plants? \n\nWell, they need our help. New research shows they're in far steeper decline than birds and mammals. https://t.co/eu2WhKxQ6M @SydneyUni_Media @UQ_news @CDUmedia"
+	},
+	{
+		"created_at": "Tue Dec 15 20:41:33 +0000 2020",
+		"id": 1338947325322952700,
+		"id_str": "1338947325322952704",
+		"full_text": "A good question about rapid response collecting https://t.co/tYRWSos0q3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tYRWSos0q3",
+					"expanded_url": "https://twitter.com/us_imls/status/1338593632694263810",
+					"display_url": "twitter.com/us_imls/status…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 880,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338593632694263800,
+		"quoted_status_id_str": "1338593632694263810",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tYRWSos0q3",
+			"expanded": "https://twitter.com/us_imls/status/1338593632694263810",
+			"display": "twitter.com/us_imls/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 14 21:16:06 +0000 2020",
+			"id": 1338593632694263800,
+			"id_str": "1338593632694263810",
+			"full_text": "Curators at the @amhistorymuseum were planning an exhibit about pandemics when the virus struck. Now they are collecting artifacts of the present. #COVID19 #COVIDMuseums Check out this article from @NewYorker to learn more⤵️https://t.co/NIKHXKUdzK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "COVID19",
+						"indices": [
+							147,
+							155
+						]
+					},
+					{
+						"text": "COVIDMuseums",
+						"indices": [
+							156,
+							169
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "amhistorymuseum",
+						"name": "National Museum of American History",
+						"id": 17366486,
+						"id_str": "17366486",
+						"indices": [
+							16,
+							32
+						]
+					},
+					{
+						"screen_name": "NewYorker",
+						"name": "The New Yorker",
+						"id": 14677919,
+						"id_str": "14677919",
+						"indices": [
+							198,
+							208
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NIKHXKUdzK",
+						"expanded_url": "https://www.newyorker.com/news/annals-of-communications/how-will-we-tell-the-story-of-the-coronavirus",
+						"display_url": "newyorker.com/news/annals-of…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36240331,
+				"id_str": "36240331",
+				"name": "IMLS",
+				"screen_name": "US_IMLS",
+				"location": "Washington, DC",
+				"description": "The Institute of Museum and Library Services is the primary source of federal support for US libraries and museums. Privacy policy: https://t.co/DunO0olNeO",
+				"url": "https://t.co/YflXJCYWB8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YflXJCYWB8",
+								"expanded_url": "https://www.imls.gov",
+								"display_url": "imls.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/DunO0olNeO",
+								"expanded_url": "https://bit.ly/2Q7mXQE",
+								"display_url": "bit.ly/2Q7mXQE",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 25579,
+				"friends_count": 284,
+				"listed_count": 1029,
+				"created_at": "Wed Apr 29 01:16:30 +0000 2009",
+				"favourites_count": 5244,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8537,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C7DEE2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928634418033459205/OWhlYNfV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928634418033459205/OWhlYNfV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36240331/1552402193",
+				"profile_link_color": "003A63",
+				"profile_sidebar_border_color": "AA5D15",
+				"profile_sidebar_fill_color": "FEF6EB",
+				"profile_text_color": "46322D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A good question about rapid response collecting https://t.co/tYRWSos0q3"
+	},
+	{
+		"created_at": "Tue Dec 15 20:40:28 +0000 2020",
+		"id": 1338646991937691600,
+		"id_str": "1338947051837505538",
+		"full_text": "We’ve made it easy to search &amp; find test results for the materials that matter most to your institution’s reopening plans &amp; community stakeholders.\n\nFind results, toolkit resources, &amp; more on the 🆕 #REALMproject website. @US_IMLS @Battelle #COVIDlibraries https://t.co/539HcesDgb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			291
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REALMproject",
+					"indices": [
+						210,
+						223
+					]
+				},
+				{
+					"text": "COVIDlibraries",
+					"indices": [
+						252,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "US_IMLS",
+					"name": "IMLS",
+					"id": 36240331,
+					"id_str": "36240331",
+					"indices": [
+						233,
+						241
+					]
+				},
+				{
+					"screen_name": "Battelle",
+					"name": "Battelle",
+					"id": 74748331,
+					"id_str": "74748331",
+					"indices": [
+						242,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/539HcesDgb",
+					"expanded_url": "https://www.oclc.org/realm/home.html",
+					"display_url": "oclc.org/realm/home.html",
+					"indices": [
+						268,
+						291
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29516133,
+			"id_str": "29516133",
+			"name": "OCLC",
+			"screen_name": "OCLC",
+			"location": "Worldwide",
+			"description": "A global library cooperative providing shared services, research and community programs to thousands of libraries. Together we make breakthroughs possible.",
+			"url": "https://t.co/FjBv6oXtJq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FjBv6oXtJq",
+							"expanded_url": "http://oc.lc/links",
+							"display_url": "oc.lc/links",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30283,
+			"friends_count": 1067,
+			"listed_count": 1384,
+			"created_at": "Tue Apr 07 19:04:34 +0000 2009",
+			"favourites_count": 2904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E0E1DD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319730259684634626/nsaVpkJq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319730259684634626/nsaVpkJq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29516133/1513799573",
+			"profile_link_color": "0083BE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F1ED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’ve made it easy to search &amp; find test results for the materials that matter most to your institution’s reopening plans &amp; community stakeholders.\n\nFind results, toolkit resources, &amp; more on the 🆕 #REALMproject website. @US_IMLS @Battelle #COVIDlibraries https://t.co/539HcesDgb"
+	},
+	{
+		"created_at": "Tue Dec 15 19:00:27 +0000 2020",
+		"id": 1338921884763582500,
+		"id_str": "1338921884763582465",
+		"full_text": "thank you so much to @kariebookish and @craftivista for the brilliant Making Connections conversation.  This has been a wonderful session",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kariebookish",
+					"name": "Karie Westermann",
+					"id": 386445771,
+					"id_str": "386445771",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"screen_name": "craftivista",
+					"name": "Betsy Greer",
+					"id": 17848020,
+					"id_str": "17848020",
+					"indices": [
+						39,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 880,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "thank you so much to @kariebookish and @craftivista for the brilliant Making Connections conversation.  This has been a wonderful session"
+	},
+	{
+		"created_at": "Tue Dec 15 10:07:45 +0000 2020",
+		"id": 1338752150718046200,
+		"id_str": "1338787824875626496",
+		"full_text": "Exclusive: Fans of crime writer Ian Rankin and his Inspector Rebus novels will be able to get access from this week to the personal archives he has donated to the nation. https://t.co/WxsyBDiMnt @TheScotsman @scotsman_arts https://t.co/2sSYOtcRyv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheScotsman",
+					"name": "The Scotsman",
+					"id": 17680050,
+					"id_str": "17680050",
+					"indices": [
+						195,
+						207
+					]
+				},
+				{
+					"screen_name": "scotsman_arts",
+					"name": "Scotsman Arts",
+					"id": 21354482,
+					"id_str": "21354482",
+					"indices": [
+						208,
+						222
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WxsyBDiMnt",
+					"expanded_url": "https://www.scotsman.com/whats-on/arts-and-entertainment/ian-rankins-archives-be-opened-public-week-3067644",
+					"display_url": "scotsman.com/whats-on/arts-…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338752146670542800,
+					"id_str": "1338752146670542848",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EpQz_ACW4AAn8c2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpQz_ACW4AAn8c2.jpg",
+					"url": "https://t.co/2sSYOtcRyv",
+					"display_url": "pic.twitter.com/2sSYOtcRyv",
+					"expanded_url": "https://twitter.com/brianjaffa/status/1338752150718046210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 990,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 990,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338752146670542800,
+					"id_str": "1338752146670542848",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EpQz_ACW4AAn8c2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpQz_ACW4AAn8c2.jpg",
+					"url": "https://t.co/2sSYOtcRyv",
+					"display_url": "pic.twitter.com/2sSYOtcRyv",
+					"expanded_url": "https://twitter.com/brianjaffa/status/1338752150718046210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 990,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 990,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33179310,
+			"id_str": "33179310",
+			"name": "Brian Ferguson",
+			"screen_name": "brianjaffa",
+			"location": "Leith, Edinburgh, Scotland",
+			"description": "Edinburgh-based journalist, arts-follower, traveller-around-Scotland. Any views expressed are mine alone. Follow me on Instagram @brianjaffa",
+			"url": "https://t.co/UYfByaX3C7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UYfByaX3C7",
+							"expanded_url": "http://scotsman.com",
+							"display_url": "scotsman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18651,
+			"friends_count": 14168,
+			"listed_count": 385,
+			"created_at": "Sun Apr 19 11:15:44 +0000 2009",
+			"favourites_count": 18577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 60467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721761672499707904/9RLwGGEa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721761672499707904/9RLwGGEa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33179310/1460915303",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exclusive: Fans of crime writer Ian Rankin and his Inspector Rebus novels will be able to get access from this week to the personal archives he has donated to the nation. https://t.co/WxsyBDiMnt @TheScotsman @scotsman_arts https://t.co/2sSYOtcRyv"
+	},
+	{
 		"created_at": "Mon Dec 14 22:10:05 +0000 2020",
 		"id": 1338607217122013200,
 		"id_str": "1338607217122013185",
