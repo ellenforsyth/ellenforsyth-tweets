@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 17 05:54:18 +0000 2020",
+		"id": 1339448818362814500,
+		"id_str": "1339448818362814464",
+		"full_text": "This is so exciting.  I have provided a very small number of recordings, and am thrilled that so many others have contributed many many more https://t.co/uTn8cUeY5f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uTn8cUeY5f",
+					"expanded_url": "https://twitter.com/FrogIDAus/status/1339425097824780288",
+					"display_url": "twitter.com/FrogIDAus/stat…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 880,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1339425097824780300,
+		"quoted_status_id_str": "1339425097824780288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uTn8cUeY5f",
+			"expanded": "https://twitter.com/FrogIDAus/status/1339425097824780288",
+			"display": "twitter.com/FrogIDAus/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 17 04:20:03 +0000 2020",
+			"id": 1339425097824780300,
+			"id_str": "1339425097824780288",
+			"full_text": "#FrogID has reached over 300,000 verified frog records! 🐸🎉 The submission that got us over the line was a Graceful Tree Frog (Litoria gracilenta) by Matthew Walker in northern NSW. This milestone is thanks to thousands of FrogID app users. Thank you, Australia!\n#citscioz https://t.co/gmYvZ2mE1k",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FrogID",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"text": "citscioz",
+						"indices": [
+							262,
+							271
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1339425095048175600,
+						"id_str": "1339425095048175618",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EpaYBwGXIAIeour.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpaYBwGXIAIeour.jpg",
+						"url": "https://t.co/gmYvZ2mE1k",
+						"display_url": "pic.twitter.com/gmYvZ2mE1k",
+						"expanded_url": "https://twitter.com/FrogIDAus/status/1339425097824780288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1339425095048175600,
+						"id_str": "1339425095048175618",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EpaYBwGXIAIeour.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpaYBwGXIAIeour.jpg",
+						"url": "https://t.co/gmYvZ2mE1k",
+						"display_url": "pic.twitter.com/gmYvZ2mE1k",
+						"expanded_url": "https://twitter.com/FrogIDAus/status/1339425097824780288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 904933218754879500,
+				"id_str": "904933218754879488",
+				"name": "FrogID",
+				"screen_name": "FrogIDAus",
+				"location": "",
+				"description": "Australia’s first national frog count! Download the app, record frog calls and help save Australia's frogs. An @Austmus initiative.",
+				"url": "https://t.co/b1zgdaPHly",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b1zgdaPHly",
+								"expanded_url": "http://www.FrogID.net.au",
+								"display_url": "FrogID.net.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2333,
+				"friends_count": 1053,
+				"listed_count": 39,
+				"created_at": "Tue Sep 05 05:04:26 +0000 2017",
+				"favourites_count": 2345,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1376,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928552482199838721/LSfcPTMQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928552482199838721/LSfcPTMQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/904933218754879488/1586133240",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is so exciting.  I have provided a very small number of recordings, and am thrilled that so many others have contributed many many more https://t.co/uTn8cUeY5f"
+	},
+	{
 		"created_at": "Tue Dec 15 20:53:21 +0000 2020",
 		"id": 1338950295993213000,
 		"id_str": "1338950295993212928",
