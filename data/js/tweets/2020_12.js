@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 17 22:17:39 +0000 2020",
+		"id": 1339359594519343000,
+		"id_str": "1339696286287556608",
+		"full_text": "I wrote about using Twitter to sharing my reading. https://t.co/2c2GHogMfp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2c2GHogMfp",
+					"expanded_url": "https://twitter.com/RAforAll/status/1339218005729947648",
+					"display_url": "twitter.com/RAforAll/statu…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3370554556,
+			"id_str": "3370554556",
+			"name": "Danni Faith",
+			"screen_name": "dannifaith1",
+			"location": "Brooklyn, NY",
+			"description": "Brooklynite |Writer + Poet |She/her/hers| 🗣️🇩🇪\n| Tell me what you're reading",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 230,
+			"friends_count": 467,
+			"listed_count": 6,
+			"created_at": "Sat Jul 11 09:10:24 +0000 2015",
+			"favourites_count": 1050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265839814332604416/7yIXrD1g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265839814332604416/7yIXrD1g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3370554556/1450222513",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1339218005729947600,
+		"quoted_status_id_str": "1339218005729947648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2c2GHogMfp",
+			"expanded": "https://twitter.com/RAforAll/status/1339218005729947648",
+			"display": "twitter.com/RAforAll/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 16 14:37:08 +0000 2020",
+			"id": 1339218005729947600,
+			"id_str": "1339218005729947648",
+			"full_text": "Today on the blog: Using a Single Twitter Thread to Record Your Year in Reading: A Guest Post by Bookseller @dannifaith1. This is a must read for all library workers. So excited to bring this one to you all. https://t.co/HP9F2qIq5P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				231
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dannifaith1",
+						"name": "Danni Faith",
+						"id": 3370554556,
+						"id_str": "3370554556",
+						"indices": [
+							108,
+							120
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HP9F2qIq5P",
+						"expanded_url": "https://raforall.blogspot.com/2020/12/using-single-twitter-thread-to-record.html",
+						"display_url": "raforall.blogspot.com/2020/12/using-…",
+						"indices": [
+							208,
+							231
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary.",
+				"url": "https://t.co/UqsI4i1DEP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UqsI4i1DEP",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3614,
+				"friends_count": 2523,
+				"listed_count": 140,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 27188,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36618,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1399068744",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wrote about using Twitter to sharing my reading. https://t.co/2c2GHogMfp"
+	},
+	{
+		"created_at": "Thu Dec 17 22:16:50 +0000 2020",
+		"id": 1339696078543675400,
+		"id_str": "1339696078543675394",
+		"full_text": "This is very interesting research https://t.co/vhFA4WCTKH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vhFA4WCTKH",
+					"expanded_url": "https://twitter.com/anuausi/status/1339037300341149696",
+					"display_url": "twitter.com/anuausi/status…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2539,
+			"friends_count": 882,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1339037300341149700,
+		"quoted_status_id_str": "1339037300341149696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vhFA4WCTKH",
+			"expanded": "https://twitter.com/anuausi/status/1339037300341149696",
+			"display": "twitter.com/anuausi/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 16 02:39:05 +0000 2020",
+			"id": 1339037300341149700,
+			"id_str": "1339037300341149696",
+			"full_text": "New #AUResearch suggests that kangaroos are capable of intentionally communicating with humans, suggesting a higher level of cognitive function than previously thought.\n\n🦘🦘🦘\n\nhttps://t.co/9tUCUjSeds via @guardian.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AUResearch",
+						"indices": [
+							4,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "guardian",
+						"name": "The Guardian",
+						"id": 87818409,
+						"id_str": "87818409",
+						"indices": [
+							203,
+							212
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9tUCUjSeds",
+						"expanded_url": "http://bit.ly/37oBWAE",
+						"display_url": "bit.ly/37oBWAE",
+						"indices": [
+							175,
+							198
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 983176614409265200,
+				"id_str": "983176614409265152",
+				"name": "ANU Australian Studies Institute",
+				"screen_name": "ANUausi",
+				"location": "Ngunnawal Ngambri Country",
+				"description": "AuSI aims to connect researchers focused on Australian-based topics, and bring an awareness of Australian perspectives to global conversations.",
+				"url": "https://t.co/EdVSSAfNfg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EdVSSAfNfg",
+								"expanded_url": "http://ausi.anu.edu.au",
+								"display_url": "ausi.anu.edu.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1634,
+				"friends_count": 1115,
+				"listed_count": 15,
+				"created_at": "Mon Apr 09 02:55:46 +0000 2018",
+				"favourites_count": 3579,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4350,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/989693681060929536/9nkUrYgG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/989693681060929536/9nkUrYgG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/983176614409265152/1605833179",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is very interesting research https://t.co/vhFA4WCTKH"
+	},
+	{
+		"created_at": "Thu Dec 17 22:15:40 +0000 2020",
+		"id": 1339660732711882800,
+		"id_str": "1339695787496800256",
+		"full_text": "Being kind to your brain (and yourself) ... Why we might feel so tired ... \n\nhttps://t.co/6x16lQmX4V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6x16lQmX4V",
+					"expanded_url": "https://www.abc.net.au/news/science/2020-12-18/zoom-meetings-video-calls-brain-fatigue-neuroscience-attention/12974106?utm_source=abc_news_web&utm_medium=content_shared&utm_content=twitter&utm_campaign=abc_news_web",
+					"display_url": "abc.net.au/news/science/2…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52325959,
+			"id_str": "52325959",
+			"name": "Dr Rachel Franks",
+			"screen_name": "cfwriter",
+			"location": "Sydney : Gadigal Land, NSW",
+			"description": "crime fiction | true crime | Robert ‘Nosey Bob’ Howard | Australian history | early-Sydney newspapers | libraries | cats | always caffeinated | she, her",
+			"url": "https://t.co/VD2ArN9iyY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VD2ArN9iyY",
+							"expanded_url": "https://rachelfranks.academia.edu",
+							"display_url": "rachelfranks.academia.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1540,
+			"friends_count": 1301,
+			"listed_count": 62,
+			"created_at": "Tue Jun 30 06:33:54 +0000 2009",
+			"favourites_count": 14103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329899101752684545/SNxWWF3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329899101752684545/SNxWWF3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52325959/1605907432",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Being kind to your brain (and yourself) ... Why we might feel so tired ... \n\nhttps://t.co/6x16lQmX4V"
+	},
+	{
 		"created_at": "Thu Dec 17 05:54:18 +0000 2020",
 		"id": 1339448818362814500,
 		"id_str": "1339448818362814464",
