@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 00:27:15 +0000 2020",
+		"id": 1339970940466282500,
+		"id_str": "1340091289795055617",
+		"full_text": "The Washington Post asked readers to describe 2020 in one word or phrase. Here’s what they said. https://t.co/BcbbJOAjUe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BcbbJOAjUe",
+					"expanded_url": "https://wapo.st/3nyRbwF",
+					"display_url": "wapo.st/3nyRbwF",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2467791,
+			"id_str": "2467791",
+			"name": "The Washington Post",
+			"screen_name": "washingtonpost",
+			"location": "Washington, DC",
+			"description": "Democracy Dies in Darkness.",
+			"url": "http://t.co/Hq7hTYkOPg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Hq7hTYkOPg",
+							"expanded_url": "http://washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16975463,
+			"friends_count": 1687,
+			"listed_count": 98595,
+			"created_at": "Tue Mar 27 11:19:39 +0000 2007",
+			"favourites_count": 4379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 377738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+			"profile_link_color": "0057EC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DBDBDB",
+			"profile_text_color": "323232",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Washington Post asked readers to describe 2020 in one word or phrase. Here’s what they said. https://t.co/BcbbJOAjUe"
+	},
+	{
 		"created_at": "Thu Dec 17 22:17:39 +0000 2020",
 		"id": 1339359594519343000,
 		"id_str": "1339696286287556608",
