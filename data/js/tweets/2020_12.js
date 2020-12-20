@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 20 06:52:27 +0000 2020",
+		"id": 1340024995469283300,
+		"id_str": "1340550613306785794",
+		"full_text": "#OCLCresearch has sought to better understand the difficulty of cataloging topics relating to Indigenous peoples in respectful &amp; inclusive ways through conversations with library staff.\n\n@MerrileeIAm highlights some learnings in this Hanging Together blog. https://t.co/UsvXUUhbqQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OCLCresearch",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MerrileeIAm",
+					"name": "Merrilee Proffitt",
+					"id": 9148432,
+					"id_str": "9148432",
+					"indices": [
+						191,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UsvXUUhbqQ",
+					"expanded_url": "https://hangingtogether.org/?p=8770&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Hangingtogetherorg+(hangingtogether.org",
+					"display_url": "hangingtogether.org/?p=8770&utm_so…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29516133,
+			"id_str": "29516133",
+			"name": "OCLC",
+			"screen_name": "OCLC",
+			"location": "Worldwide",
+			"description": "A global library cooperative providing shared services, research and community programs to thousands of libraries. Together we make breakthroughs possible.",
+			"url": "https://t.co/FjBv6oXtJq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FjBv6oXtJq",
+							"expanded_url": "http://oc.lc/links",
+							"display_url": "oc.lc/links",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30300,
+			"friends_count": 1068,
+			"listed_count": 1384,
+			"created_at": "Tue Apr 07 19:04:34 +0000 2009",
+			"favourites_count": 2962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E0E1DD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319730259684634626/nsaVpkJq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319730259684634626/nsaVpkJq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29516133/1513799573",
+			"profile_link_color": "0083BE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F3F1ED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OCLCresearch has sought to better understand the difficulty of cataloging topics relating to Indigenous peoples in respectful &amp; inclusive ways through conversations with library staff.\n\n@MerrileeIAm highlights some learnings in this Hanging Together blog. https://t.co/UsvXUUhbqQ"
+	},
+	{
 		"created_at": "Sat Dec 19 00:27:15 +0000 2020",
 		"id": 1339970940466282500,
 		"id_str": "1340091289795055617",
