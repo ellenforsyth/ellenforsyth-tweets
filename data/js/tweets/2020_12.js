@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 21:48:25 +0000 2020",
+		"id": 1341138478818418700,
+		"id_str": "1341138478818418688",
+		"full_text": "This is a really interesting listen (looking forward to reading the book) https://t.co/LCRKKv5bty",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LCRKKv5bty",
+					"expanded_url": "https://twitter.com/cfwriter/status/1340763929597775872",
+					"display_url": "twitter.com/cfwriter/statu…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2540,
+			"friends_count": 882,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1340763929597776000,
+		"quoted_status_id_str": "1340763929597775872",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LCRKKv5bty",
+			"expanded": "https://twitter.com/cfwriter/status/1340763929597775872",
+			"display": "twitter.com/cfwriter/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 20 21:00:05 +0000 2020",
+			"id": 1340763929597776000,
+			"id_str": "1340763929597775872",
+			"full_text": "Have you met Nosey Bob?\n\nI chatted to Suzanne Hill, for @ABCaustralia's \"Nightlife\",  about Robert 'Nosey Bob' Howard: a man who was famous for being the long-serving, noseless executioner of NSW.\n\nMy book on his life will be out in 2022, @newsouthpub.\n\nhttps://t.co/h45EEECy9v",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ABCaustralia",
+						"name": "ABC Australia",
+						"id": 16714896,
+						"id_str": "16714896",
+						"indices": [
+							56,
+							69
+						]
+					},
+					{
+						"screen_name": "newsouthpub",
+						"name": "NewSouth Publishing",
+						"id": 203852769,
+						"id_str": "203852769",
+						"indices": [
+							239,
+							251
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/h45EEECy9v",
+						"expanded_url": "https://www.abc.net.au/radio/programs/nightlife/crime-nosey-bob/12996692",
+						"display_url": "abc.net.au/radio/programs…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52325959,
+				"id_str": "52325959",
+				"name": "Dr Rachel Franks",
+				"screen_name": "cfwriter",
+				"location": "Sydney : Gadigal Land, NSW",
+				"description": "crime fiction | true crime | Robert ‘Nosey Bob’ Howard | Australian history | early-Sydney newspapers | libraries | cats | always caffeinated | she, her",
+				"url": "https://t.co/VD2ArN9iyY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VD2ArN9iyY",
+								"expanded_url": "https://rachelfranks.academia.edu",
+								"display_url": "rachelfranks.academia.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1539,
+				"friends_count": 1301,
+				"listed_count": 62,
+				"created_at": "Tue Jun 30 06:33:54 +0000 2009",
+				"favourites_count": 14156,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9959,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1329899101752684545/SNxWWF3L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329899101752684545/SNxWWF3L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52325959/1605907432",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a really interesting listen (looking forward to reading the book) https://t.co/LCRKKv5bty"
+	},
+	{
+		"created_at": "Mon Dec 21 21:20:08 +0000 2020",
+		"id": 1341131363097870300,
+		"id_str": "1341131363097870340",
+		"full_text": "Consider participating https://t.co/HxZFsrgcHP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HxZFsrgcHP",
+					"expanded_url": "https://twitter.com/shannondowney/status/1338557940521869313",
+					"display_url": "twitter.com/shannondowney/…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2540,
+			"friends_count": 882,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338557940521869300,
+		"quoted_status_id_str": "1338557940521869313",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HxZFsrgcHP",
+			"expanded": "https://twitter.com/shannondowney/status/1338557940521869313",
+			"display": "twitter.com/shannondowney/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 14 18:54:16 +0000 2020",
+			"id": 1338557940521869300,
+			"id_str": "1338557940521869313",
+			"full_text": "I had another idea. I really want to support everyone as we roll into 2021. \n\nI present to you: #MakeDontBreak \n\nA daily making challenge for the month of January including daily prompts from some of the most amazing people I know.\n\nInfo + sign up:\n\nhttps://t.co/YWaPdBpOhC   RT? https://t.co/baItKcLNtk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MakeDontBreak",
+						"indices": [
+							96,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YWaPdBpOhC",
+						"expanded_url": "https://www.badasscrossstitch.com/craftivism-1/makedontbreak",
+						"display_url": "badasscrossstitch.com/craftivism-1/m…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1338557778999304200,
+						"id_str": "1338557778999304202",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EpODNUCW4AoFXsx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpODNUCW4AoFXsx.jpg",
+						"url": "https://t.co/baItKcLNtk",
+						"display_url": "pic.twitter.com/baItKcLNtk",
+						"expanded_url": "https://twitter.com/ShannonDowney/status/1338557940521869313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1338557778999304200,
+						"id_str": "1338557778999304202",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EpODNUCW4AoFXsx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpODNUCW4AoFXsx.jpg",
+						"url": "https://t.co/baItKcLNtk",
+						"display_url": "pic.twitter.com/baItKcLNtk",
+						"expanded_url": "https://twitter.com/ShannonDowney/status/1338557940521869313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23645051,
+				"id_str": "23645051",
+				"name": "Shannon “Badass Cross Stitch” Downey",
+				"screen_name": "ShannonDowney",
+				"location": "On The Run",
+				"description": "Full-time Art Activist traveling the US by RV to bring the change + community. Faculty at @columbiachi Instigator of: @BadassHERstory and #RitasQuilt - Chi 4eva",
+				"url": "https://t.co/1K2cbOXXPU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1K2cbOXXPU",
+								"expanded_url": "https://linktr.ee/BadassCrossStitch",
+								"display_url": "linktr.ee/BadassCrossSti…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28519,
+				"friends_count": 13176,
+				"listed_count": 602,
+				"created_at": "Tue Mar 10 20:09:05 +0000 2009",
+				"favourites_count": 8543,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32734,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "43CAF0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824680221102125057/ZrLkFl2N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824680221102125057/ZrLkFl2N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23645051/1485447544",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 126,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Consider participating https://t.co/HxZFsrgcHP"
+	},
+	{
 		"created_at": "Sun Dec 20 06:52:27 +0000 2020",
 		"id": 1340024995469283300,
 		"id_str": "1340550613306785794",
