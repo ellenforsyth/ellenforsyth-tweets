@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 06:26:12 +0000 2020",
+		"id": 1338514088347897900,
+		"id_str": "1341993561999331329",
+		"full_text": "\"[A]geism is a social justice issue, and museums aren’t immune to the problem.\"\n\nOn the Alliance blog, Toya Northington shares her insights from offering creative aging programs at the @SpeedArtMuseum, and how it intersects with the museum's DEAI work: https://t.co/DVExkAnitZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpeedArtMuseum",
+					"name": "Speed Art Museum",
+					"id": 1436021744,
+					"id_str": "1436021744",
+					"indices": [
+						185,
+						200
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DVExkAnitZ",
+					"expanded_url": "https://www.aam-us.org/2020/12/14/rebuilding-pathways-how-deai-and-creative-aging-intersect-at-the-speed-art-museum/",
+					"display_url": "aam-us.org/2020/12/14/reb…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23070306,
+			"id_str": "23070306",
+			"name": "American Alliance of Museums",
+			"screen_name": "AAMers",
+			"location": "Arlington, VA",
+			"description": "Championing Museums. Nurturing Excellence. \n#AAM2021 •  #MuseumsAdvocacy2021\n#InviteCongress • #MuseumsAdvocacy • CFM @futureofmuseums\n\n(RTs ≠ endorsement)",
+			"url": "https://t.co/kE6XIsLRQm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kE6XIsLRQm",
+							"expanded_url": "http://aam-us.org/",
+							"display_url": "aam-us.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63137,
+			"friends_count": 3541,
+			"listed_count": 1905,
+			"created_at": "Fri Mar 06 14:40:01 +0000 2009",
+			"favourites_count": 31651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0055A5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207681449584988160/4KUHmJW1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207681449584988160/4KUHmJW1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23070306/1591385507",
+			"profile_link_color": "007F7B",
+			"profile_sidebar_border_color": "004347",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "311C4F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"[A]geism is a social justice issue, and museums aren’t immune to the problem.\"\n\nOn the Alliance blog, Toya Northington shares her insights from offering creative aging programs at the @SpeedArtMuseum, and how it intersects with the museum's DEAI work: https://t.co/DVExkAnitZ"
+	},
+	{
+		"created_at": "Thu Dec 24 06:00:05 +0000 2020",
+		"id": 1341986988182753300,
+		"id_str": "1341986988182753281",
+		"full_text": "@cfwriter thanks for this reminder",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfwriter",
+					"name": "Dr Rachel Franks",
+					"id": 52325959,
+					"id_str": "52325959",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341850327809622000,
+		"in_reply_to_status_id_str": "1341850327809622016",
+		"in_reply_to_user_id": 52325959,
+		"in_reply_to_user_id_str": "52325959",
+		"in_reply_to_screen_name": "cfwriter",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2541,
+			"friends_count": 882,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cfwriter thanks for this reminder"
+	},
+	{
+		"created_at": "Wed Dec 23 19:34:18 +0000 2020",
+		"id": 1341510114247729200,
+		"id_str": "1341829503954210816",
+		"full_text": "\"When I get a call from purchasing at @ClevelandClinic at midnight, I know the need is dire. I thought about the fact that every Amish lady in a community knows how to sew. We could utilize the talents in the community to make protective gear.\" https://t.co/6JwxfyhL3b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClevelandClinic",
+					"name": "Cleveland Clinic",
+					"id": 24236494,
+					"id_str": "24236494",
+					"indices": [
+						38,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6JwxfyhL3b",
+					"expanded_url": "http://www.kitchensisters.org/present/the-amish-pandemic-sewing-frolic/",
+					"display_url": "kitchensisters.org/present/the-am…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16459243,
+			"id_str": "16459243",
+			"name": "The Kitchen Sisters",
+			"screen_name": "kitchensisters",
+			"location": "San Francisco",
+			"description": "The Kitchen Sisters (Davia Nelson & Nikki Silva), producers of NPR's The Keepers, Hidden Kitchens, Hidden World of Girls & The Kitchen Sisters Present podcast",
+			"url": "http://t.co/AVmB8ffkDA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AVmB8ffkDA",
+							"expanded_url": "http://www.kitchensisters.org",
+							"display_url": "kitchensisters.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16949,
+			"friends_count": 3851,
+			"listed_count": 622,
+			"created_at": "Thu Sep 25 22:38:03 +0000 2008",
+			"favourites_count": 8413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16459243/1546894354",
+			"profile_link_color": "1EBBEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"When I get a call from purchasing at @ClevelandClinic at midnight, I know the need is dire. I thought about the fact that every Amish lady in a community knows how to sew. We could utilize the talents in the community to make protective gear.\" https://t.co/6JwxfyhL3b"
+	},
+	{
 		"created_at": "Tue Dec 22 20:28:00 +0000 2020",
 		"id": 1341480632631713800,
 		"id_str": "1341480632631713793",
