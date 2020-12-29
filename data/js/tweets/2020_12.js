@@ -1,6 +1,780 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 28 21:51:16 +0000 2020",
+		"id": 1343675914362650600,
+		"id_str": "1343675914362650626",
+		"full_text": "Aldo Amoretti shoots Public Library Dornbirn https://t.co/h9IEiv66OD interesting that they went with high, fixed shelving (and there are some nice looking reading nooks)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h9IEiv66OD",
+					"expanded_url": "https://www.dietrich.untertrifaller.com/en/aldo-amoretti-fotografiert-stadtbibliothek-dornbirn/",
+					"display_url": "dietrich.untertrifaller.com/en/aldo-amoret…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2540,
+			"friends_count": 881,
+			"listed_count": 224,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Aldo Amoretti shoots Public Library Dornbirn https://t.co/h9IEiv66OD interesting that they went with high, fixed shelving (and there are some nice looking reading nooks)"
+	},
+	{
+		"created_at": "Mon Dec 28 20:09:31 +0000 2020",
+		"id": 1343650304366051300,
+		"id_str": "1343650304366051330",
+		"full_text": "really interesting reading and with ideas for others in the in the glamr sectors https://t.co/WfPd1EDafU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WfPd1EDafU",
+					"expanded_url": "https://twitter.com/AAMers/status/1342900485267673088",
+					"display_url": "twitter.com/AAMers/status/…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2540,
+			"friends_count": 881,
+			"listed_count": 224,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1342900485267673000,
+		"quoted_status_id_str": "1342900485267673088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WfPd1EDafU",
+			"expanded": "https://twitter.com/AAMers/status/1342900485267673088",
+			"display": "twitter.com/AAMers/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 26 18:30:00 +0000 2020",
+			"id": 1342900485267673000,
+			"id_str": "1342900485267673088",
+			"full_text": "#ICYMI: Review how museums responded to the pandemic in this month-by-month \"time capsule\" of the @futureofmuseums' 2020 blog posts, as well as tools that museums may find helpful as they work to recover in 2021: https://t.co/CEsOzFyQEr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ICYMI",
+						"indices": [
+							0,
+							6
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "futureofmuseums",
+						"name": "Future of Museums",
+						"id": 20688961,
+						"id_str": "20688961",
+						"indices": [
+							98,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CEsOzFyQEr",
+						"expanded_url": "https://www.aam-us.org/2020/12/22/a-pandemic-time-capsule-and-tools-for-2021/",
+						"display_url": "aam-us.org/2020/12/22/a-p…",
+						"indices": [
+							213,
+							236
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23070306,
+				"id_str": "23070306",
+				"name": "American Alliance of Museums",
+				"screen_name": "AAMers",
+				"location": "Arlington, VA",
+				"description": "Championing Museums. Nurturing Excellence. \n#AAM2021 •  #MuseumsAdvocacy2021\n#InviteCongress • #MuseumsAdvocacy • CFM @futureofmuseums\n\n(RTs ≠ endorsement)",
+				"url": "https://t.co/kE6XIsLRQm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kE6XIsLRQm",
+								"expanded_url": "http://aam-us.org/",
+								"display_url": "aam-us.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63144,
+				"friends_count": 3541,
+				"listed_count": 1905,
+				"created_at": "Fri Mar 06 14:40:01 +0000 2009",
+				"favourites_count": 31651,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34535,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0055A5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1207681449584988160/4KUHmJW1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207681449584988160/4KUHmJW1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23070306/1591385507",
+				"profile_link_color": "007F7B",
+				"profile_sidebar_border_color": "004347",
+				"profile_sidebar_fill_color": "D9D9D9",
+				"profile_text_color": "311C4F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "really interesting reading and with ideas for others in the in the glamr sectors https://t.co/WfPd1EDafU"
+	},
+	{
+		"created_at": "Mon Dec 28 20:07:42 +0000 2020",
+		"id": 1343566144763011000,
+		"id_str": "1343649847153283072",
+		"full_text": "Recording of the week: Sámi Yoik; evoking reindeer, the wind and 'wind nose' https://t.co/VATWIjn7yZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VATWIjn7yZ",
+					"expanded_url": "https://shar.es/aouNj9",
+					"display_url": "shar.es/aouNj9",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22028935,
+			"id_str": "22028935",
+			"name": "Sound Archive",
+			"screen_name": "soundarchive",
+			"location": "London, UK",
+			"description": "Sound Archive @BritishLibrary: 7 million recordings of music, voices, environments. Tweets by Steve Cleary. Blog: https://t.co/TuSRYUV7Ns",
+			"url": "http://t.co/QQ7BIbQ40P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/QQ7BIbQ40P",
+							"expanded_url": "http://www.bl.uk/soundarchive",
+							"display_url": "bl.uk/soundarchive",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TuSRYUV7Ns",
+							"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision",
+							"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18776,
+			"friends_count": 1338,
+			"listed_count": 811,
+			"created_at": "Thu Feb 26 16:36:05 +0000 2009",
+			"favourites_count": 726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22028935/1535972358",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Recording of the week: Sámi Yoik; evoking reindeer, the wind and 'wind nose' https://t.co/VATWIjn7yZ"
+	},
+	{
+		"created_at": "Mon Dec 28 20:04:04 +0000 2020",
+		"id": 1343648935630364700,
+		"id_str": "1343648935630364672",
+		"full_text": "an interesting approach for  #readadv https://t.co/DkXkAv97hJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "readadv",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DkXkAv97hJ",
+					"expanded_url": "https://twitter.com/PublishersWkly/status/1343557328747044865",
+					"display_url": "twitter.com/PublishersWkly…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2540,
+			"friends_count": 881,
+			"listed_count": 224,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1343557328747044900,
+		"quoted_status_id_str": "1343557328747044865",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DkXkAv97hJ",
+			"expanded": "https://twitter.com/PublishersWkly/status/1343557328747044865",
+			"display": "twitter.com/PublishersWkly…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 28 14:00:03 +0000 2020",
+			"id": 1343557328747044900,
+			"id_str": "1343557328747044865",
+			"full_text": "What to read in 2021 based on what you loved in 2020 | @washingtonpost https://t.co/HlEsO5ehER https://t.co/O3OvH1b6X0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "washingtonpost",
+						"name": "The Washington Post",
+						"id": 2467791,
+						"id_str": "2467791",
+						"indices": [
+							55,
+							70
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HlEsO5ehER",
+						"expanded_url": "http://pw-ne.ws/fb62e",
+						"display_url": "pw-ne.ws/fb62e",
+						"indices": [
+							71,
+							94
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1343557326477938700,
+						"id_str": "1343557326477938690",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/EqVGRRwXUAIUwQs.png",
+						"media_url_https": "https://pbs.twimg.com/media/EqVGRRwXUAIUwQs.png",
+						"url": "https://t.co/O3OvH1b6X0",
+						"display_url": "pic.twitter.com/O3OvH1b6X0",
+						"expanded_url": "https://twitter.com/PublishersWkly/status/1343557328747044865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 734,
+								"h": 367,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 734,
+								"h": 367,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1343557326477938700,
+						"id_str": "1343557326477938690",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/EqVGRRwXUAIUwQs.png",
+						"media_url_https": "https://pbs.twimg.com/media/EqVGRRwXUAIUwQs.png",
+						"url": "https://t.co/O3OvH1b6X0",
+						"display_url": "pic.twitter.com/O3OvH1b6X0",
+						"expanded_url": "https://twitter.com/PublishersWkly/status/1343557328747044865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 734,
+								"h": 367,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 734,
+								"h": 367,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19816859,
+				"id_str": "19816859",
+				"name": "Publishers Weekly",
+				"screen_name": "PublishersWkly",
+				"location": "New York City",
+				"description": "The international source for book publishing and bookselling news, reviews, and information.",
+				"url": "http://t.co/qODygkG2sd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qODygkG2sd",
+								"expanded_url": "http://www.publishersweekly.com/",
+								"display_url": "publishersweekly.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 806254,
+				"friends_count": 604,
+				"listed_count": 11668,
+				"created_at": "Sat Jan 31 14:38:55 +0000 2009",
+				"favourites_count": 43,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 75543,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472046796202459136/7aCV2gq3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472046796202459136/7aCV2gq3_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19816859/1608306134",
+				"profile_link_color": "093C94",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "an interesting approach for  #readadv https://t.co/DkXkAv97hJ"
+	},
+	{
 		"created_at": "Sun Dec 27 02:50:58 +0000 2020",
 		"id": 1343026557409869800,
 		"id_str": "1343026557409869832",
