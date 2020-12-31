@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 30 20:08:50 +0000 2020",
+		"id": 1344374908831162400,
+		"id_str": "1344374908831162368",
+		"full_text": "I found out about this via an alert from Intangible Cultural Heritage Network - good to see this kind of inclusion https://t.co/gXISiQ2hyC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gXISiQ2hyC",
+					"expanded_url": "https://twitter.com/rufuspolk/status/1335149326885146624",
+					"display_url": "twitter.com/rufuspolk/stat…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2540,
+			"friends_count": 881,
+			"listed_count": 224,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1335149326885146600,
+		"quoted_status_id_str": "1335149326885146624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gXISiQ2hyC",
+			"expanded": "https://twitter.com/rufuspolk/status/1335149326885146624",
+			"display": "twitter.com/rufuspolk/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 05 09:09:40 +0000 2020",
+			"id": 1335149326885146600,
+			"id_str": "1335149326885146624",
+			"full_text": "Speculoos made Brussels cultural heritage https://t.co/ivqToN8rL1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ivqToN8rL1",
+						"expanded_url": "https://www.brusselstimes.com/brussels-2/143904/speculoos-made-brussels-cultural-heritage-pascal-smet-maison-dandoy-tartine-et-boterham/",
+						"display_url": "brusselstimes.com/brussels-2/143…",
+						"indices": [
+							42,
+							65
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134472494,
+				"id_str": "134472494",
+				"name": "Rufus Polk",
+				"screen_name": "rufuspolk",
+				"location": "Wallonia region of Belgium",
+				"description": "Expat New Orleanian in Belgium who likes to read. Posting about lots of things, including the Balkans, Gabon, Timor-Leste, and Uganda.",
+				"url": "http://t.co/uyChANtLnJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/uyChANtLnJ",
+								"expanded_url": "https://twitter.com/rufuspolk",
+								"display_url": "twitter.com/rufuspolk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1780,
+				"friends_count": 2003,
+				"listed_count": 71,
+				"created_at": "Sun Apr 18 14:28:09 +0000 2010",
+				"favourites_count": 41667,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 153245,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/833254299/IMG_3226_1_1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/833254299/IMG_3226_1_1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134472494/1578428276",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I found out about this via an alert from Intangible Cultural Heritage Network - good to see this kind of inclusion https://t.co/gXISiQ2hyC"
+	},
+	{
 		"created_at": "Tue Dec 29 21:23:57 +0000 2020",
 		"id": 1344030929933770800,
 		"id_str": "1344031425234792448",
