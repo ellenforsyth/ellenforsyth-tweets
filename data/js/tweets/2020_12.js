@@ -1,6 +1,499 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 31 21:56:19 +0000 2020",
+		"id": 1344764348640596000,
+		"id_str": "1344764348640595969",
+		"full_text": "shows the importance of various libraries and other organisations collecting and archiving social media as well as other formats (but  need to remember not only written word needs collecting as that privileges some as well as misses key information) https://t.co/FC7uzE9tG7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FC7uzE9tG7",
+					"expanded_url": "https://twitter.com/guardianculture/status/1344417870168485888",
+					"display_url": "twitter.com/guardiancultur…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2541,
+			"friends_count": 882,
+			"listed_count": 224,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1344417870168486000,
+		"quoted_status_id_str": "1344417870168485888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FC7uzE9tG7",
+			"expanded": "https://twitter.com/guardianculture/status/1344417870168485888",
+			"display": "twitter.com/guardiancultur…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 30 22:59:32 +0000 2020",
+			"id": 1344417870168486000,
+			"id_str": "1344417870168485888",
+			"full_text": "Texts, tweets and posts have replaced letters. Is our history becoming transitory? https://t.co/vmIuAr1SVz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vmIuAr1SVz",
+						"expanded_url": "https://www.theguardian.com/culture/2020/dec/31/texts-tweets-and-posts-have-replaced-letters-is-our-history-becoming-transitory?CMP=twt_a-culture_b-gdnculture",
+						"display_url": "theguardian.com/culture/2020/d…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46400289,
+				"id_str": "46400289",
+				"name": "Guardian culture",
+				"screen_name": "guardianculture",
+				"location": "London",
+				"description": "Culture news, reviews, interviews and features from the @Guardian. Support the Guardian today: https://t.co/g2jWebD5y0",
+				"url": "http://t.co/TSkPdslt70",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TSkPdslt70",
+								"expanded_url": "http://www.theguardian.com/culture",
+								"display_url": "theguardian.com/culture",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/g2jWebD5y0",
+								"expanded_url": "http://support.theguardian.com",
+								"display_url": "support.theguardian.com",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 110022,
+				"friends_count": 805,
+				"listed_count": 2864,
+				"created_at": "Thu Jun 11 14:41:01 +0000 2009",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 120231,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1061909535617630208/Ygqccq0n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061909535617630208/Ygqccq0n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46400289/1542013922",
+				"profile_link_color": "005789",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CAE3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "shows the importance of various libraries and other organisations collecting and archiving social media as well as other formats (but  need to remember not only written word needs collecting as that privileges some as well as misses key information) https://t.co/FC7uzE9tG7"
+	},
+	{
+		"created_at": "Thu Dec 31 20:31:33 +0000 2020",
+		"id": 1344743013101174800,
+		"id_str": "1344743013101174785",
+		"full_text": "have you added these to your library collection?  Great titles to include and thanks to @hijabilibrarian for all their work https://t.co/ykwioSGAOS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hijabilibrarian",
+					"name": "Hijabi Librarians",
+					"id": 969025567302578200,
+					"id_str": "969025567302578177",
+					"indices": [
+						88,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ykwioSGAOS",
+					"expanded_url": "https://twitter.com/hijabilibrarian/status/1344662540085821446",
+					"display_url": "twitter.com/hijabilibraria…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2541,
+			"friends_count": 882,
+			"listed_count": 224,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 6993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1344662540085821400,
+		"quoted_status_id_str": "1344662540085821446",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ykwioSGAOS",
+			"expanded": "https://twitter.com/hijabilibrarian/status/1344662540085821446",
+			"display": "twitter.com/hijabilibraria…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 31 15:11:46 +0000 2020",
+			"id": 1344662540085821400,
+			"id_str": "1344662540085821446",
+			"full_text": "Happy New Year! Here is our list of favorite Kidlit/YA books of 2020! https://t.co/7yK4QCjMi7 #hijabilibrarians #BestOf2020 #kidlit #ya #Alhamdulillah",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hijabilibrarians",
+						"indices": [
+							94,
+							111
+						]
+					},
+					{
+						"text": "BestOf2020",
+						"indices": [
+							112,
+							123
+						]
+					},
+					{
+						"text": "kidlit",
+						"indices": [
+							124,
+							131
+						]
+					},
+					{
+						"text": "ya",
+						"indices": [
+							132,
+							135
+						]
+					},
+					{
+						"text": "Alhamdulillah",
+						"indices": [
+							136,
+							150
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7yK4QCjMi7",
+						"expanded_url": "http://hijabilibrarians.com/2020/12/31/favorite-books-of-2020/",
+						"display_url": "hijabilibrarians.com/2020/12/31/fav…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 969025567302578200,
+				"id_str": "969025567302578177",
+				"name": "Hijabi Librarians",
+				"screen_name": "hijabilibrarian",
+				"location": "United States",
+				"description": "Collective of Muslimah librarians reviewing and discussing kidlit/YA books featuring Muslim characters, interviewing authors, and providing resources",
+				"url": "https://t.co/gsS1JcHufb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gsS1JcHufb",
+								"expanded_url": "http://hijabilibrarians.wordpress.com",
+								"display_url": "hijabilibrarians.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1796,
+				"friends_count": 810,
+				"listed_count": 37,
+				"created_at": "Thu Mar 01 01:44:33 +0000 2018",
+				"favourites_count": 1439,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 371,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1009642390313930753/B-iP6c0D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009642390313930753/B-iP6c0D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/969025567302578177/1544630721",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "have you added these to your library collection?  Great titles to include and thanks to @hijabilibrarian for all their work https://t.co/ykwioSGAOS"
+	},
+	{
 		"created_at": "Wed Dec 30 20:08:50 +0000 2020",
 		"id": 1344374908831162400,
 		"id_str": "1344374908831162368",
