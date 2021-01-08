@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 23:11:04 +0000 2021",
+		"id": 1347256693416104000,
+		"id_str": "1347319873345445888",
+		"full_text": "The numbers are in, 2020 was Australia’s 4th warmest year on record, 1.15 °C above average.  \n\nFor Australia as a whole, annual rainfall was 4% above average at 483.4 mm. \n\nFind out more in our #AnnualClimateStatement for 2020: https://t.co/fldsTv58mv @WMO https://t.co/SrOHYo2bP5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AnnualClimateStatement",
+					"indices": [
+						194,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WMO",
+					"name": "World Meteorological Organization",
+					"id": 113062227,
+					"id_str": "113062227",
+					"indices": [
+						252,
+						256
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fldsTv58mv",
+					"expanded_url": "http://ow.ly/OqMq50D24QU",
+					"display_url": "ow.ly/OqMq50D24QU",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347064759347077000,
+					"id_str": "1347064759347077120",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHC_XyVEAQy5Mr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHC_XyVEAQy5Mr.jpg",
+					"url": "https://t.co/SrOHYo2bP5",
+					"display_url": "pic.twitter.com/SrOHYo2bP5",
+					"expanded_url": "https://twitter.com/BOM_au/status/1347256693416103939/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347064759347077000,
+					"id_str": "1347064759347077120",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHC_XyVEAQy5Mr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHC_XyVEAQy5Mr.jpg",
+					"url": "https://t.co/SrOHYo2bP5",
+					"display_url": "pic.twitter.com/SrOHYo2bP5",
+					"expanded_url": "https://twitter.com/BOM_au/status/1347256693416103939/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 229000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1347064759347077120/vid/640x360/rMUyJVySUzrTcMtB.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1347064759347077120/vid/480x270/Mm9aR7HjouSURkFw.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1347064759347077120/vid/1280x720/Z41aaSFKYjFklqkt.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1347064759347077120/pl/Pog1w0RRd-gXpwGZ.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 188545143,
+			"id_str": "188545143",
+			"name": "Bureau of Meteorology, Australia",
+			"screen_name": "BOM_au",
+			"location": "Australia",
+			"description": "Official Bureau of Meteorology account for national weather and Bureau information. Always check https://t.co/RBt18W1ROk for the latest warnings.",
+			"url": "http://t.co/2yfWnpvy0n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2yfWnpvy0n",
+							"expanded_url": "http://www.bom.gov.au",
+							"display_url": "bom.gov.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RBt18W1ROk",
+							"expanded_url": "http://www.bom.gov.au/australia/warnings",
+							"display_url": "bom.gov.au/australia/warn…",
+							"indices": [
+								97,
+								120
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 121765,
+			"friends_count": 218,
+			"listed_count": 934,
+			"created_at": "Thu Sep 09 00:11:06 +0000 2010",
+			"favourites_count": 2540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276426542189441024/F0hR0URu_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276426542189441024/F0hR0URu_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/188545143/1602466937",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The numbers are in, 2020 was Australia’s 4th warmest year on record, 1.15 °C above average.  \n\nFor Australia as a whole, annual rainfall was 4% above average at 483.4 mm. \n\nFind out more in our #AnnualClimateStatement for 2020: https://t.co/fldsTv58mv @WMO https://t.co/SrOHYo2bP5"
+	},
+	{
+		"created_at": "Thu Jan 07 23:10:57 +0000 2021",
+		"id": 1347273067815383000,
+		"id_str": "1347319844643893249",
+		"full_text": "The 2020 annual #climate summary for #NewSouthWales is now available, confirming 2020 was warmer than average (+0.91 °C; our coolest year since 2012); and wetter than average.\n\nWe analyse all the weather over the past year at: https://t.co/TYacMKBlFT\n\n#AnnualClimateStatement https://t.co/XAJggiFf39",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "climate",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "NewSouthWales",
+					"indices": [
+						37,
+						51
+					]
+				},
+				{
+					"text": "AnnualClimateStatement",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TYacMKBlFT",
+					"expanded_url": "http://ow.ly/ShPc50D25bK",
+					"display_url": "ow.ly/ShPc50D25bK",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347273065407926300,
+					"id_str": "1347273065407926273",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ErJ5tv8XUAEY9k7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErJ5tv8XUAEY9k7.jpg",
+					"url": "https://t.co/XAJggiFf39",
+					"display_url": "pic.twitter.com/XAJggiFf39",
+					"expanded_url": "https://twitter.com/BOM_NSW/status/1347273067815383045/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 632,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347273065407926300,
+					"id_str": "1347273065407926273",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ErJ5tv8XUAEY9k7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErJ5tv8XUAEY9k7.jpg",
+					"url": "https://t.co/XAJggiFf39",
+					"display_url": "pic.twitter.com/XAJggiFf39",
+					"expanded_url": "https://twitter.com/BOM_NSW/status/1347273067815383045/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 632,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 632,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							150,
+							79
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ErJ5tv8XUAEY9k7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2845888230,
+			"id_str": "2845888230",
+			"name": "Bureau of Meteorology, New South Wales",
+			"screen_name": "BOM_NSW",
+			"location": "New South Wales, Australia",
+			"description": "Official Bureau of Meteorology account for New South Wales weather information. Always check https://t.co/wdIsJywOiW for the latest warnings.",
+			"url": "http://t.co/AblD5Ys9wC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AblD5Ys9wC",
+							"expanded_url": "http://www.bom.gov.au/nsw",
+							"display_url": "bom.gov.au/nsw",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wdIsJywOiW",
+							"expanded_url": "http://www.bom.gov.au/nsw/warnings",
+							"display_url": "bom.gov.au/nsw/warnings",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 102330,
+			"friends_count": 161,
+			"listed_count": 645,
+			"created_at": "Wed Oct 08 03:35:46 +0000 2014",
+			"favourites_count": 619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276427788514258947/MSJHEYm5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276427788514258947/MSJHEYm5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2845888230/1602464604",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 2020 annual #climate summary for #NewSouthWales is now available, confirming 2020 was warmer than average (+0.91 °C; our coolest year since 2012); and wetter than average.\n\nWe analyse all the weather over the past year at: https://t.co/TYacMKBlFT\n\n#AnnualClimateStatement https://t.co/XAJggiFf39"
+	},
+	{
 		"created_at": "Wed Jan 06 22:46:54 +0000 2021",
 		"id": 1346950423484137500,
 		"id_str": "1346951403198038016",
