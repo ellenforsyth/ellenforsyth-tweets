@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 20:45:39 +0000 2021",
+		"id": 1349666329683366000,
+		"id_str": "1350182383216062464",
+		"full_text": "When faced with the pandemic, governments around the world have adopted draconian measures to limit the disaster. Why do they refuse to invest as much in the environment as they are prepared to invest in the fight against COVID-19? https://t.co/tIz3BA0HCj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tIz3BA0HCj",
+					"expanded_url": "https://bit.ly/3so9x6u",
+					"display_url": "bit.ly/3so9x6u",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.percolate.com\" rel=\"nofollow\">Percolate</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6580122,
+			"id_str": "6580122",
+			"name": "Oxford Academic",
+			"screen_name": "OUPAcademic",
+			"location": "New York City & Oxford",
+			"description": "Oxford University Press’s academic news and insights for the thinking world, brought to you by OUP's social media team.",
+			"url": "http://t.co/JU3e2aMphQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JU3e2aMphQ",
+							"expanded_url": "http://blog.oup.com",
+							"display_url": "blog.oup.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101862,
+			"friends_count": 3382,
+			"listed_count": 2522,
+			"created_at": "Mon Jun 04 21:33:13 +0000 2007",
+			"favourites_count": 5957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BFBFBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/583516526742999040/HWzESF4N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/583516526742999040/HWzESF4N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6580122/1398257568",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "002147",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When faced with the pandemic, governments around the world have adopted draconian measures to limit the disaster. Why do they refuse to invest as much in the environment as they are prepared to invest in the fight against COVID-19? https://t.co/tIz3BA0HCj"
+	},
+	{
 		"created_at": "Wed Jan 13 20:12:37 +0000 2021",
 		"id": 1349122809549754400,
 		"id_str": "1349449292507877376",
