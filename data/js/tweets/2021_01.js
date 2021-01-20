@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 05:06:59 +0000 2021",
+		"id": 1351758097228857300,
+		"id_str": "1351758097228857347",
+		"full_text": "@jobeaz @kylastephan There is some information here https://t.co/dGolWqwEpR mainly about staffing (and it is more recent than the cover shown below indicates)",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jobeaz",
+					"name": "Jo Beazley",
+					"id": 16292857,
+					"id_str": "16292857",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "kylastephan",
+					"name": "Kyla Stephan",
+					"id": 1183987591,
+					"id_str": "1183987591",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dGolWqwEpR",
+					"expanded_url": "https://www.sl.nsw.gov.au/public-library-services/content/living-learning-libraries",
+					"display_url": "sl.nsw.gov.au/public-library…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1351752666364346400,
+		"in_reply_to_status_id_str": "1351752666364346372",
+		"in_reply_to_user_id": 16292857,
+		"in_reply_to_user_id_str": "16292857",
+		"in_reply_to_screen_name": "jobeaz",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2546,
+			"friends_count": 887,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jobeaz @kylastephan There is some information here https://t.co/dGolWqwEpR mainly about staffing (and it is more recent than the cover shown below indicates)"
+	},
+	{
+		"created_at": "Tue Jan 19 21:05:31 +0000 2021",
+		"id": 1351423737627721700,
+		"id_str": "1351636931201781762",
+		"full_text": "#HearHear \n\nThis is really important ...👇 https://t.co/k7FZazPZir",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HearHear",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k7FZazPZir",
+					"expanded_url": "https://twitter.com/kefimochi/status/1351209444374409216",
+					"display_url": "twitter.com/kefimochi/stat…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52325959,
+			"id_str": "52325959",
+			"name": "Dr Rachel Franks",
+			"screen_name": "cfwriter",
+			"location": "Sydney : Gadigal Land, NSW",
+			"description": "crime fiction | true crime | Robert ‘Nosey Bob’ Howard | Australian history | early-Sydney newspapers | libraries | cats | always caffeinated | she, her",
+			"url": "https://t.co/VD2ArN9iyY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VD2ArN9iyY",
+							"expanded_url": "https://rachelfranks.academia.edu",
+							"display_url": "rachelfranks.academia.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1538,
+			"friends_count": 1300,
+			"listed_count": 62,
+			"created_at": "Tue Jun 30 06:33:54 +0000 2009",
+			"favourites_count": 14520,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329899101752684545/SNxWWF3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329899101752684545/SNxWWF3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52325959/1605907432",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351209444374409200,
+		"quoted_status_id_str": "1351209444374409216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k7FZazPZir",
+			"expanded": "https://twitter.com/kefimochi/status/1351209444374409216",
+			"display": "twitter.com/kefimochi/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 18 16:46:50 +0000 2021",
+			"id": 1351209444374409200,
+			"id_str": "1351209444374409216",
+			"full_text": "Remember to keep your hashtags accessible by using pascal case #SomethingSomethingHashtag instead of #somethingsomethinghashtag 👏\n\nThis allows someone with a screen reader to hear the words individually rather than as a long incoherent word!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SomethingSomethingHashtag",
+						"indices": [
+							63,
+							89
+						]
+					},
+					{
+						"text": "somethingsomethinghashtag",
+						"indices": [
+							101,
+							127
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1009594769817796600,
+				"id_str": "1009594769817796608",
+				"name": "Cake is Kate. Always has been. 💫",
+				"screen_name": "kefimochi",
+				"location": "Bay Area, CA",
+				"description": "Software Engineer. She/her. #BlackLivesMatter\n@cake_imposter\n\n• Etsy https://t.co/s0PiNPTozb \n• GitHub https://t.co/3MrRpsuThJ\n• Instagram https://t.co/67mGViqsrn",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/s0PiNPTozb",
+								"expanded_url": "http://etsy.com/shop/KefiStore",
+								"display_url": "etsy.com/shop/KefiStore",
+								"indices": [
+									69,
+									92
+								]
+							},
+							{
+								"url": "https://t.co/3MrRpsuThJ",
+								"expanded_url": "http://github.com/kefimochi",
+								"display_url": "github.com/kefimochi",
+								"indices": [
+									103,
+									126
+								]
+							},
+							{
+								"url": "https://t.co/67mGViqsrn",
+								"expanded_url": "http://instagram.com/kefimochi",
+								"display_url": "instagram.com/kefimochi",
+								"indices": [
+									139,
+									162
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17172,
+				"friends_count": 670,
+				"listed_count": 159,
+				"created_at": "Thu Jun 21 00:32:05 +0000 2018",
+				"favourites_count": 175471,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26640,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1302862083944456192/HxMstsQP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1302862083944456192/HxMstsQP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1009594769817796608/1604553420",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 214,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#HearHear \n\nThis is really important ...👇 https://t.co/k7FZazPZir"
+	},
+	{
 		"created_at": "Fri Jan 15 20:45:39 +0000 2021",
 		"id": 1349666329683366000,
 		"id_str": "1350182383216062464",
