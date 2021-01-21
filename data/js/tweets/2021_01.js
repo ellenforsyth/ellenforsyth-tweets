@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 17:37:28 +0000 2021",
+		"id": 1351946174551494700,
+		"id_str": "1351946964384927745",
+		"full_text": "WATCH: Amanda Gorman, the youngest inaugural poet in U.S. history, recites a poem on unity in the U.S. at #Inauguration2021 https://t.co/3sIv7DBpla",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Inauguration2021",
+					"indices": [
+						106,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351945676696014800,
+					"id_str": "1351945676696014849",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EsMT4HpXUAcMuwG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsMT4HpXUAcMuwG.jpg",
+					"url": "https://t.co/3sIv7DBpla",
+					"display_url": "pic.twitter.com/3sIv7DBpla",
+					"expanded_url": "https://twitter.com/MSNBC/status/1351946174551494658/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351945676696014800,
+					"id_str": "1351945676696014849",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EsMT4HpXUAcMuwG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsMT4HpXUAcMuwG.jpg",
+					"url": "https://t.co/3sIv7DBpla",
+					"display_url": "pic.twitter.com/3sIv7DBpla",
+					"expanded_url": "https://twitter.com/MSNBC/status/1351946174551494658/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 352513,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351945676696014849/vid/1280x720/xyIRHXvliKosm-48.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351945676696014849/vid/640x360/OuN69s20xwiAZDWC.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1351945676696014849/pl/3YYPYr7qaPX6XAaI.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351945676696014849/vid/480x270/58LyCAkplTRNa80R.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2836421,
+			"id_str": "2836421",
+			"name": "MSNBC",
+			"screen_name": "MSNBC",
+			"location": "",
+			"description": "The place for in-depth analysis, political commentary and diverse perspectives. Home of @MSNBCDaily.",
+			"url": "https://t.co/YBwtJIhwY3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YBwtJIhwY3",
+							"expanded_url": "http://msnbc.com/live",
+							"display_url": "msnbc.com/live",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4046516,
+			"friends_count": 766,
+			"listed_count": 27572,
+			"created_at": "Thu Mar 29 13:15:41 +0000 2007",
+			"favourites_count": 821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 234843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1321089811290202119/6QEBEjWk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321089811290202119/6QEBEjWk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2836421/1585585008",
+			"profile_link_color": "0CB1C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EEEEEE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5633,
+		"favorite_count": 22330,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WATCH: Amanda Gorman, the youngest inaugural poet in U.S. history, recites a poem on unity in the U.S. at #Inauguration2021 https://t.co/3sIv7DBpla"
+	},
+	{
 		"created_at": "Wed Jan 20 05:06:59 +0000 2021",
 		"id": 1351758097228857300,
 		"id_str": "1351758097228857347",
