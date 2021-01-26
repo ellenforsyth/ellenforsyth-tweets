@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 26 00:07:55 +0000 2021",
+		"id": 1353568632328994800,
+		"id_str": "1353857162020196352",
+		"full_text": "Lots of smart folks said important things. https://t.co/Ca7N4OtXUK via @wired",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WIRED",
+					"name": "WIRED",
+					"id": 1344951,
+					"id_str": "1344951",
+					"indices": [
+						71,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ca7N4OtXUK",
+					"expanded_url": "https://www.wired.com/story/dandd-must-grapple-with-the-racism-in-fantasy/?utm_source=twitter&utm_medium=social&utm_campaign=onsite-share&utm_brand=wired&utm_social-type=earned",
+					"display_url": "wired.com/story/dandd-mu…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15970670,
+			"id_str": "15970670",
+			"name": "🏳️‍🌈 Donna Prior",
+			"screen_name": "_Danicia_",
+			"location": "Tacoma, WA",
+			"description": "They/Them. Community Director @CatanStudio. Exec. Director @OrcaCon! Twitch Affiliate - https://t.co/NAKixywWET\nDice Envy Affiliate - https://t.co/wAZU17wjuU #BLM",
+			"url": "https://t.co/GCCfNbC4Q1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCCfNbC4Q1",
+							"expanded_url": "http://about.me/Danicia",
+							"display_url": "about.me/Danicia",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NAKixywWET",
+							"expanded_url": "https://bit.ly/SubMeTwitch",
+							"display_url": "bit.ly/SubMeTwitch",
+							"indices": [
+								88,
+								111
+							]
+						},
+						{
+							"url": "https://t.co/wAZU17wjuU",
+							"expanded_url": "http://bit.ly/3gzXb3X",
+							"display_url": "bit.ly/3gzXb3X",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4905,
+			"friends_count": 1330,
+			"listed_count": 312,
+			"created_at": "Sun Aug 24 17:29:22 +0000 2008",
+			"favourites_count": 34753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D11E59",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339336373812150274/w7QuRsLB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339336373812150274/w7QuRsLB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15970670/1605906229",
+			"profile_link_color": "B73CE8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B880D5",
+			"profile_text_color": "D151BA",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lots of smart folks said important things. https://t.co/Ca7N4OtXUK via @wired"
+	},
+	{
+		"created_at": "Mon Jan 25 22:49:50 +0000 2021",
+		"id": 1353837511554994200,
+		"id_str": "1353837511554994177",
+		"full_text": "@IndigenousX Yaama, good morning. I am on Gamilaraay/Kamilaroi land",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IndigenousX",
+					"name": "Daniel James",
+					"id": 172652106,
+					"id_str": "172652106",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1353794290594455600,
+		"in_reply_to_status_id_str": "1353794290594455552",
+		"in_reply_to_user_id": 172652106,
+		"in_reply_to_user_id_str": "172652106",
+		"in_reply_to_screen_name": "IndigenousX",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2545,
+			"friends_count": 887,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IndigenousX Yaama, good morning. I am on Gamilaraay/Kamilaroi land"
+	},
+	{
 		"created_at": "Sun Jan 24 08:58:53 +0000 2021",
 		"id": 1353086779922944000,
 		"id_str": "1353266009067507717",
