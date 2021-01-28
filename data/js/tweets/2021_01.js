@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 27 21:48:15 +0000 2021",
+		"id": 1354535562007302100,
+		"id_str": "1354546787529318401",
+		"full_text": "Twitter is opening up its full tweet archive to academic researchers for free - The Verge https://t.co/btbTW4nRwL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/btbTW4nRwL",
+					"expanded_url": "https://www.theverge.com/2021/1/26/22250203/twitter-academic-research-public-tweet-archive-free-access",
+					"display_url": "theverge.com/2021/1/26/2225…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4262733020,
+			"id_str": "4262733020",
+			"name": "LISResearchAu",
+			"screen_name": "LISResearchAu",
+			"location": "",
+			"description": "An Australian Research Council funded project aimed at encouraging and enabling research culture and practice in Australia's library and information profession.",
+			"url": "https://t.co/Wo5aqHnV4Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wo5aqHnV4Y",
+							"expanded_url": "http://lisresearch.org.au",
+							"display_url": "lisresearch.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1212,
+			"friends_count": 1193,
+			"listed_count": 53,
+			"created_at": "Tue Nov 17 01:50:40 +0000 2015",
+			"favourites_count": 326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/673964999593750529/lMBK0DWn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/673964999593750529/lMBK0DWn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4262733020/1449551300",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Twitter is opening up its full tweet archive to academic researchers for free - The Verge https://t.co/btbTW4nRwL"
+	},
+	{
 		"created_at": "Tue Jan 26 00:07:55 +0000 2021",
 		"id": 1353568632328994800,
 		"id_str": "1353857162020196352",
@@ -46,7 +152,7 @@ Grailbird.data.tweets_2021_01 =
 		"user": {
 			"id": 15970670,
 			"id_str": "15970670",
-			"name": "🏳️‍🌈 Donna Prior",
+			"name": "🏳️🌈 Donna Prior",
 			"screen_name": "_Danicia_",
 			"location": "Tacoma, WA",
 			"description": "They/Them. Community Director @CatanStudio. Exec. Director @OrcaCon! Twitch Affiliate - https://t.co/NAKixywWET\nDice Envy Affiliate - https://t.co/wAZU17wjuU #BLM",
