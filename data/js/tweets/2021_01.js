@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 30 18:45:57 +0000 2021",
+		"id": 1355588074411946000,
+		"id_str": "1355588074411945984",
+		"full_text": "interesting and useful information https://t.co/OhPAwVUzJZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OhPAwVUzJZ",
+					"expanded_url": "https://twitter.com/CILIP_LSG/status/1354454384973901831",
+					"display_url": "twitter.com/CILIP_LSG/stat…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2544,
+			"friends_count": 889,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1354454384973901800,
+		"quoted_status_id_str": "1354454384973901831",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OhPAwVUzJZ",
+			"expanded": "https://twitter.com/CILIP_LSG/status/1354454384973901831",
+			"display": "twitter.com/CILIP_LSG/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 27 15:41:04 +0000 2021",
+			"id": 1354454384973901800,
+			"id_str": "1354454384973901831",
+			"full_text": "Who uses a local studies collection? Latest section added to the Local Studies Toolkit. https://t.co/G9E7SDFmJA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/G9E7SDFmJA",
+						"expanded_url": "https://lslibrarians.wordpress.com/2021/01/27/toolkit-who-uses-a-local-studies-collection/",
+						"display_url": "lslibrarians.wordpress.com/2021/01/27/too…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216800462,
+				"id_str": "216800462",
+				"name": "CILIP Local Studies",
+				"screen_name": "CILIP_LSG",
+				"location": "UK",
+				"description": "Local Studies Group of the Chartered Institute of Library and Information Professionals (CILIP).",
+				"url": "http://t.co/HlfYZLOqgc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HlfYZLOqgc",
+								"expanded_url": "http://www.cilip.org.uk/lsg",
+								"display_url": "cilip.org.uk/lsg",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1149,
+				"friends_count": 668,
+				"listed_count": 56,
+				"created_at": "Wed Nov 17 19:16:14 +0000 2010",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2343,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1484829443/5b1edf42-9289-4932-a56b-8b92821b5f27_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484829443/5b1edf42-9289-4932-a56b-8b92821b5f27_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216800462/1428687458",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "interesting and useful information https://t.co/OhPAwVUzJZ"
+	},
+	{
+		"created_at": "Sat Jan 30 18:41:27 +0000 2021",
+		"id": 1354611776541745200,
+		"id_str": "1355586944114155528",
+		"full_text": "You can also buy direct from Aunty Elaine and profits from those sales go back into Wiradjuri language resources. \n\nEmail Aunt here: Wiradjuri.woman23@gmail.com https://t.co/CUx4gSJLUB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CUx4gSJLUB",
+					"expanded_url": "https://twitter.com/AnitaHeiss/status/1354577323647897600",
+					"display_url": "twitter.com/AnitaHeiss/sta…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42200093,
+			"id_str": "42200093",
+			"name": "💧Prof Anita Heiss",
+			"screen_name": "AnitaHeiss",
+			"location": "Jagera",
+			"description": "Wiradjuri. Author. Runner. Prof of Communications @ UQ. Board Member @uqpbooks Ambassador @GOFoundationAU @IndigenousLF #LivingTheBestLifeIcan",
+			"url": "https://t.co/ai3SyX76EW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ai3SyX76EW",
+							"expanded_url": "http://www.anitaheiss.com",
+							"display_url": "anitaheiss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33254,
+			"friends_count": 3990,
+			"listed_count": 610,
+			"created_at": "Sun May 24 11:40:17 +0000 2009",
+			"favourites_count": 79742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 116026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039437731976241153/Y7KU2giL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039437731976241153/Y7KU2giL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42200093/1511680186",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1354577323647897600,
+		"quoted_status_id_str": "1354577323647897600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CUx4gSJLUB",
+			"expanded": "https://twitter.com/AnitaHeiss/status/1354577323647897600",
+			"display": "twitter.com/AnitaHeiss/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 27 23:49:35 +0000 2021",
+			"id": 1354577323647897600,
+			"id_str": "1354577323647897600",
+			"full_text": "Absolutely love that this beautiful book WHERE HAPPINESS HIDES by Anthony Bertini and Jennifer Goldsmith has been translated into #Wiradjuri NGINHA YIING DURRULGALI by Aunty Elaine Lomas and Letetia Harris. \n\nGet your copies here: https://t.co/YWVFssWYPo #language #literacy https://t.co/tk0aHpmJBe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Wiradjuri",
+						"indices": [
+							130,
+							140
+						]
+					},
+					{
+						"text": "language",
+						"indices": [
+							255,
+							264
+						]
+					},
+					{
+						"text": "literacy",
+						"indices": [
+							265,
+							274
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YWVFssWYPo",
+						"expanded_url": "https://www.dirtlanepress.com/where-happiness-hides",
+						"display_url": "dirtlanepress.com/where-happines…",
+						"indices": [
+							231,
+							254
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1354577311220162600,
+						"id_str": "1354577311220162565",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Esxs40AU4AU1Uwb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Esxs40AU4AU1Uwb.jpg",
+						"url": "https://t.co/tk0aHpmJBe",
+						"display_url": "pic.twitter.com/tk0aHpmJBe",
+						"expanded_url": "https://twitter.com/AnitaHeiss/status/1354577323647897600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1354577311220162600,
+						"id_str": "1354577311220162565",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Esxs40AU4AU1Uwb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Esxs40AU4AU1Uwb.jpg",
+						"url": "https://t.co/tk0aHpmJBe",
+						"display_url": "pic.twitter.com/tk0aHpmJBe",
+						"expanded_url": "https://twitter.com/AnitaHeiss/status/1354577323647897600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42200093,
+				"id_str": "42200093",
+				"name": "💧Prof Anita Heiss",
+				"screen_name": "AnitaHeiss",
+				"location": "Jagera",
+				"description": "Wiradjuri. Author. Runner. Prof of Communications @ UQ. Board Member @uqpbooks Ambassador @GOFoundationAU @IndigenousLF #LivingTheBestLifeIcan",
+				"url": "https://t.co/ai3SyX76EW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ai3SyX76EW",
+								"expanded_url": "http://www.anitaheiss.com",
+								"display_url": "anitaheiss.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33254,
+				"friends_count": 3990,
+				"listed_count": 610,
+				"created_at": "Sun May 24 11:40:17 +0000 2009",
+				"favourites_count": 79742,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 116026,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1039437731976241153/Y7KU2giL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039437731976241153/Y7KU2giL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42200093/1511680186",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can also buy direct from Aunty Elaine and profits from those sales go back into Wiradjuri language resources. \n\nEmail Aunt here: Wiradjuri.woman23@gmail.com https://t.co/CUx4gSJLUB"
+	},
+	{
+		"created_at": "Sat Jan 30 18:37:25 +0000 2021",
+		"id": 1355585929994330000,
+		"id_str": "1355585929994330114",
+		"full_text": "Gitchi-Gami https://t.co/DymTrjbRlf via @KDDandco knitting and local studies - are you collecting work by local designers?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KDDandco",
+					"name": "KDD (Kate Davies Designs) 🧶📚",
+					"id": 20640071,
+					"id_str": "20640071",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DymTrjbRlf",
+					"expanded_url": "https://kddandco.com/2021/01/27/gitchi-gami/",
+					"display_url": "kddandco.com/2021/01/27/git…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2544,
+			"friends_count": 889,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gitchi-Gami https://t.co/DymTrjbRlf via @KDDandco knitting and local studies - are you collecting work by local designers?"
+	},
+	{
 		"created_at": "Fri Jan 29 09:08:30 +0000 2021",
 		"id": 1355073864255103000,
 		"id_str": "1355080369809182723",
