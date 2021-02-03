@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 02 20:25:16 +0000 2021",
+		"id": 1356652399776137200,
+		"id_str": "1356700234299056128",
+		"full_text": "Legacies of Catalogue Descriptions and Curatorial Voice: training materials and next steps. @RossiAtanassova @BL_DigiSchol on the end of the first year of our @ahrcpress funded project, and plans for our pandemic induced extension! https://t.co/hwMaHrCOXZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RossiAtanassova",
+					"name": "Rossitza Atanassova",
+					"id": 211179164,
+					"id_str": "211179164",
+					"indices": [
+						92,
+						108
+					]
+				},
+				{
+					"screen_name": "BL_DigiSchol",
+					"name": "Digital Scholarship",
+					"id": 744814089172455400,
+					"id_str": "744814089172455424",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"screen_name": "ahrcpress",
+					"name": "Arts and Humanities Research Council",
+					"id": 36320714,
+					"id_str": "36320714",
+					"indices": [
+						159,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hwMaHrCOXZ",
+					"expanded_url": "https://blogs.bl.uk/digital-scholarship/2021/02/legacies-of-catalogue-descriptions-and-curatorial-voice-training-materials-and-next-steps.html",
+					"display_url": "blogs.bl.uk/digital-schola…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110465562,
+			"id_str": "110465562",
+			"name": "James Baker",
+			"screen_name": "j_w_baker",
+			"location": "Faversham⇆Falmer⇆London⇆EU",
+			"description": "Senior Lecturer Digital History & Archives @SussexHumsLab @HistoryatSussex. People+Power+Stuff+Art+Tech·@ProgHist Ed·@SoftwareSaved Fellow·DHish·He/Him",
+			"url": "https://t.co/2MgCgC3t85",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2MgCgC3t85",
+							"expanded_url": "http://cradledincaricature.com/",
+							"display_url": "cradledincaricature.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5423,
+			"friends_count": 3054,
+			"listed_count": 222,
+			"created_at": "Mon Feb 01 17:00:59 +0000 2010",
+			"favourites_count": 5922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788722932000362496/pWmJ5Ris_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788722932000362496/pWmJ5Ris_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110465562/1464596371",
+			"profile_link_color": "700000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Legacies of Catalogue Descriptions and Curatorial Voice: training materials and next steps. @RossiAtanassova @BL_DigiSchol on the end of the first year of our @ahrcpress funded project, and plans for our pandemic induced extension! https://t.co/hwMaHrCOXZ"
+	},
+	{
 		"created_at": "Tue Feb 02 05:55:22 +0000 2021",
 		"id": 1356370754502332400,
 		"id_str": "1356481315714068482",
@@ -224,7 +361,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Mon Feb 01 10:14:35 +0000 2021",
 		"id": 1356184160860164000,
 		"id_str": "1356184160860164098",
-		"full_text": "Ravelry: Amsterdam Building Blocks pattern by Jake Henzler - this is local studies knitting  which I found out about via ⁦@SimplyKnitMag⁩ (borrowed online from my public library) https://t.co/QygRNpWSO6",
+		"full_text": "Ravelry: Amsterdam Building Blocks pattern by Jake Henzler - this is local studies knitting  which I found out about via @SimplyKnitMag (borrowed online from my public library) https://t.co/QygRNpWSO6",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -335,6 +472,6 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Ravelry: Amsterdam Building Blocks pattern by Jake Henzler - this is local studies knitting  which I found out about via ⁦@SimplyKnitMag⁩ (borrowed online from my public library) https://t.co/QygRNpWSO6"
+		"text": "Ravelry: Amsterdam Building Blocks pattern by Jake Henzler - this is local studies knitting  which I found out about via @SimplyKnitMag (borrowed online from my public library) https://t.co/QygRNpWSO6"
 	}
 ]
