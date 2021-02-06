@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 06 04:35:51 +0000 2021",
+		"id": 1357910855644369000,
+		"id_str": "1357910855644368897",
+		"full_text": "this is great - I am a fan of twitter reading groups - and I like the way the @BioDivLibrary collection was used https://t.co/n6uocUCiyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BioDivLibrary",
+					"name": "BHL",
+					"id": 20813165,
+					"id_str": "20813165",
+					"indices": [
+						78,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n6uocUCiyX",
+					"expanded_url": "https://twitter.com/BioDivLibrary/status/1356241347141894147",
+					"display_url": "twitter.com/BioDivLibrary/…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2543,
+			"friends_count": 889,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1356241347141894100,
+		"quoted_status_id_str": "1356241347141894147",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n6uocUCiyX",
+			"expanded": "https://twitter.com/BioDivLibrary/status/1356241347141894147",
+			"display": "twitter.com/BioDivLibrary/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 01 14:01:49 +0000 2021",
+			"id": 1356241347141894100,
+			"id_str": "1356241347141894147",
+			"full_text": "When the U.K. went into its first national lockdown due to COVID-19, @__clare__ founded the @MycoBookClub—a new, socially distanced way to connect with other fungi lovers. Learn how BHL's #OpenAccess collections inspired this Twitter-based book club ➡️ https://t.co/1HXoMHPkdC https://t.co/2TdKFyQ7Dk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenAccess",
+						"indices": [
+							188,
+							199
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "__clare__",
+						"name": "Clare Blencowe",
+						"id": 14296107,
+						"id_str": "14296107",
+						"indices": [
+							69,
+							79
+						]
+					},
+					{
+						"screen_name": "MycoBookClub",
+						"name": "The Mycological Book Club",
+						"id": 1254170032910872600,
+						"id_str": "1254170032910872580",
+						"indices": [
+							92,
+							105
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1HXoMHPkdC",
+						"expanded_url": "https://s.si.edu/2MorPnH",
+						"display_url": "s.si.edu/2MorPnH",
+						"indices": [
+							253,
+							276
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1356241344780501000,
+						"id_str": "1356241344780500994",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/EtJWUUFXAAIPBCj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtJWUUFXAAIPBCj.jpg",
+						"url": "https://t.co/2TdKFyQ7Dk",
+						"display_url": "pic.twitter.com/2TdKFyQ7Dk",
+						"expanded_url": "https://twitter.com/BioDivLibrary/status/1356241347141894147/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1356241344780501000,
+						"id_str": "1356241344780500994",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/EtJWUUFXAAIPBCj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtJWUUFXAAIPBCj.jpg",
+						"url": "https://t.co/2TdKFyQ7Dk",
+						"display_url": "pic.twitter.com/2TdKFyQ7Dk",
+						"expanded_url": "https://twitter.com/BioDivLibrary/status/1356241347141894147/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20813165,
+				"id_str": "20813165",
+				"name": "BHL",
+				"screen_name": "BioDivLibrary",
+				"location": "everywhere, all the time",
+				"description": "Biodiversity Heritage Library provides free & #openaccess to #biodiversity literature online. Legal: https://t.co/dJOZaQ7IFu",
+				"url": "http://t.co/uVc0sELg3X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/uVc0sELg3X",
+								"expanded_url": "http://www.biodiversitylibrary.org",
+								"display_url": "biodiversitylibrary.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dJOZaQ7IFu",
+								"expanded_url": "http://s.si.edu/legal",
+								"display_url": "s.si.edu/legal",
+								"indices": [
+									101,
+									124
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 28983,
+				"friends_count": 1458,
+				"listed_count": 1,
+				"created_at": "Fri Feb 13 22:26:16 +0000 2009",
+				"favourites_count": 42559,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37815,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1542638971/BHL_Small_Logo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542638971/BHL_Small_Logo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20813165/1479386651",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is great - I am a fan of twitter reading groups - and I like the way the @BioDivLibrary collection was used https://t.co/n6uocUCiyX"
+	},
+	{
 		"created_at": "Thu Feb 04 21:09:46 +0000 2021",
 		"id": 1356598541674766300,
 		"id_str": "1357436208570191873",
