@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 14 09:56:49 +0000 2021",
+		"id": 1360890733679440000,
+		"id_str": "1360890733679439874",
+		"full_text": "Important stories, great photographs https://t.co/G3c6cZvXGh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G3c6cZvXGh",
+					"expanded_url": "https://twitter.com/guardian/status/1360671897294364674",
+					"display_url": "twitter.com/guardian/statu…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2541,
+			"friends_count": 889,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1360671897294364700,
+		"quoted_status_id_str": "1360671897294364674",
+		"quoted_status_permalink": {
+			"url": "https://t.co/G3c6cZvXGh",
+			"expanded": "https://twitter.com/guardian/status/1360671897294364674",
+			"display": "twitter.com/guardian/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 13 19:27:15 +0000 2021",
+			"id": 1360671897294364700,
+			"id_str": "1360671897294364674",
+			"full_text": "Moree elders: proud, strong and always resilient https://t.co/q32ABRW702",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/q32ABRW702",
+						"expanded_url": "https://www.theguardian.com/australia-news/2021/feb/14/moree-elders-proud-strong-and-always-resilient?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1613244433",
+						"display_url": "theguardian.com/australia-news…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87818409,
+				"id_str": "87818409",
+				"name": "The Guardian",
+				"screen_name": "guardian",
+				"location": "London",
+				"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+				"url": "https://t.co/c53pnmnuIT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c53pnmnuIT",
+								"expanded_url": "https://www.theguardian.com",
+								"display_url": "theguardian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gWyuUVlObq",
+								"expanded_url": "https://support.theguardian.com",
+								"display_url": "support.theguardian.com",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9532100,
+				"friends_count": 1071,
+				"listed_count": 64350,
+				"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+				"favourites_count": 137,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 655739,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1569228354",
+				"profile_link_color": "005789",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CAE3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Important stories, great photographs https://t.co/G3c6cZvXGh"
+	},
+	{
+		"created_at": "Sun Feb 14 09:53:36 +0000 2021",
+		"id": 1360861690645016600,
+		"id_str": "1360889922417123330",
+		"full_text": "This is the township of Menindee’s drinking water supply. The pool behind weir 32 that provides water to the township of 600 turned green in January and a thick slime now covers up to a third of its surface. ⁦@annefdavies⁩  https://t.co/N2RIbpJqzF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annefdavies",
+					"name": "Anne Davies",
+					"id": 223080067,
+					"id_str": "223080067",
+					"indices": [
+						209,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N2RIbpJqzF",
+					"expanded_url": "https://www.theguardian.com/environment/2021/feb/14/toxic-blooms-and-local-fury-whats-going-on-at-menindee-lakes?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52012432,
+			"id_str": "52012432",
+			"name": "Gabrielle Chan",
+			"screen_name": "gabriellechan",
+			"location": "Wiradjuri country",
+			"description": "Independent writer, politics, rural stuff. Find me in Guardian, Meanjin, Griffith Review. Rusted Off (Penguin 2018). New book coming in 2021.",
+			"url": "https://t.co/iBOsLPUmtk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iBOsLPUmtk",
+							"expanded_url": "https://www.penguin.com.au/books/rusted-off-9780143789284",
+							"display_url": "penguin.com.au/books/rusted-o…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15050,
+			"friends_count": 1794,
+			"listed_count": 291,
+			"created_at": "Mon Jun 29 09:44:59 +0000 2009",
+			"favourites_count": 3731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/987050403236741120/MMDI2Lys_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/987050403236741120/MMDI2Lys_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52012432/1524166354",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the township of Menindee’s drinking water supply. The pool behind weir 32 that provides water to the township of 600 turned green in January and a thick slime now covers up to a third of its surface. ⁦@annefdavies⁩  https://t.co/N2RIbpJqzF"
+	},
+	{
 		"created_at": "Sun Feb 14 07:03:22 +0000 2021",
 		"id": 1360827388863549400,
 		"id_str": "1360847084618801153",
