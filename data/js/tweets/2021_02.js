@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 15 20:13:37 +0000 2021",
+		"id": 1361408345437954000,
+		"id_str": "1361408345437954053",
+		"full_text": "enjoyable listening, and a reminder to record your environment for local studies https://t.co/HIJnauDkKn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HIJnauDkKn",
+					"expanded_url": "https://twitter.com/CherylTipp/status/1361257323101114372",
+					"display_url": "twitter.com/CherylTipp/sta…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2541,
+			"friends_count": 889,
+			"listed_count": 224,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1541190131",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361257323101114400,
+		"quoted_status_id_str": "1361257323101114372",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HIJnauDkKn",
+			"expanded": "https://twitter.com/CherylTipp/status/1361257323101114372",
+			"display": "twitter.com/CherylTipp/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 15 10:13:31 +0000 2021",
+			"id": 1361257323101114400,
+			"id_str": "1361257323101114372",
+			"full_text": "Here's a piece I wrote about the UK's only swimming songbird, the White-throated Dipper \n\nhttps://t.co/y4DEgJ2uRL https://t.co/MjZlDVnaBk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y4DEgJ2uRL",
+						"expanded_url": "https://blogs.bl.uk/sound-and-vision/2021/02/recording-of-the-week-the-swimming-songbird.html",
+						"display_url": "blogs.bl.uk/sound-and-visi…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1361257277869723600,
+						"id_str": "1361257277869723649",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/EuQoSC9XEAEPRzx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuQoSC9XEAEPRzx.jpg",
+						"url": "https://t.co/MjZlDVnaBk",
+						"display_url": "pic.twitter.com/MjZlDVnaBk",
+						"expanded_url": "https://twitter.com/CherylTipp/status/1361257323101114372/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 418,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 738,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1260,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1361257277869723600,
+						"id_str": "1361257277869723649",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/EuQoSC9XEAEPRzx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuQoSC9XEAEPRzx.jpg",
+						"url": "https://t.co/MjZlDVnaBk",
+						"display_url": "pic.twitter.com/MjZlDVnaBk",
+						"expanded_url": "https://twitter.com/CherylTipp/status/1361257323101114372/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 418,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 738,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1260,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 360786743,
+				"id_str": "360786743",
+				"name": "Cheryl Tipp",
+				"screen_name": "CherylTipp",
+				"location": "London",
+				"description": "Curator of Wildlife & Environmental Sounds at the British Library. Partial to all things sonic. Wildlife, environment, soundscapes, sound art, the list goes on.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5907,
+				"friends_count": 1378,
+				"listed_count": 199,
+				"created_at": "Tue Aug 23 19:21:06 +0000 2011",
+				"favourites_count": 3039,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7620,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1510198948/Bird_on_a_grammaphone_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510198948/Bird_on_a_grammaphone_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/360786743/1443024712",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "enjoyable listening, and a reminder to record your environment for local studies https://t.co/HIJnauDkKn"
+	},
+	{
 		"created_at": "Sun Feb 14 09:56:49 +0000 2021",
 		"id": 1360890733679440000,
 		"id_str": "1360890733679439874",
@@ -232,7 +515,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Sun Feb 14 09:53:36 +0000 2021",
 		"id": 1360861690645016600,
 		"id_str": "1360889922417123330",
-		"full_text": "This is the township of Menindee’s drinking water supply. The pool behind weir 32 that provides water to the township of 600 turned green in January and a thick slime now covers up to a third of its surface. ⁦@annefdavies⁩  https://t.co/N2RIbpJqzF",
+		"full_text": "This is the township of Menindee’s drinking water supply. The pool behind weir 32 that provides water to the township of 600 turned green in January and a thick slime now covers up to a third of its surface. @annefdavies  https://t.co/N2RIbpJqzF",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -343,7 +626,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "This is the township of Menindee’s drinking water supply. The pool behind weir 32 that provides water to the township of 600 turned green in January and a thick slime now covers up to a third of its surface. ⁦@annefdavies⁩  https://t.co/N2RIbpJqzF"
+		"text": "This is the township of Menindee’s drinking water supply. The pool behind weir 32 that provides water to the township of 600 turned green in January and a thick slime now covers up to a third of its surface. @annefdavies  https://t.co/N2RIbpJqzF"
 	},
 	{
 		"created_at": "Sun Feb 14 07:03:22 +0000 2021",
