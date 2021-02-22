@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 22 02:54:03 +0000 2021",
+		"id": 1363428587005616000,
+		"id_str": "1363683445126275081",
+		"full_text": "Delightful!\n\nMarch of the southern hairy-nosed wombat seen from space as trails crisscross the Nullarbor: https://t.co/N4DdGRLljv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N4DdGRLljv",
+					"expanded_url": "http://www.abc.net.au/news/2021-02-21/southern-hairy-nosed-wombat-nullarbor-march-wombats-wa/13173482",
+					"display_url": "abc.net.au/news/2021-02-2…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52325959,
+			"id_str": "52325959",
+			"name": "Dr Rachel Franks",
+			"screen_name": "cfwriter",
+			"location": "Sydney : Gadigal Land, NSW",
+			"description": "crime fiction | true crime | Robert ‘Nosey Bob’ Howard | Australian history | early-Sydney newspapers | libraries | cats | always caffeinated | she, her",
+			"url": "https://t.co/VD2ArN9iyY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VD2ArN9iyY",
+							"expanded_url": "https://rachelfranks.academia.edu",
+							"display_url": "rachelfranks.academia.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1548,
+			"friends_count": 1311,
+			"listed_count": 62,
+			"created_at": "Tue Jun 30 06:33:54 +0000 2009",
+			"favourites_count": 14782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329899101752684545/SNxWWF3L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329899101752684545/SNxWWF3L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52325959/1605907432",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Delightful!\n\nMarch of the southern hairy-nosed wombat seen from space as trails crisscross the Nullarbor: https://t.co/N4DdGRLljv"
+	},
+	{
 		"created_at": "Sun Feb 21 03:11:57 +0000 2021",
 		"id": 1363325560647164000,
 		"id_str": "1363325560647163908",
