@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 04 21:25:02 +0000 2021",
+		"id": 1367531535549804500,
+		"id_str": "1367586909363400711",
+		"full_text": "I am certain I really don’t have to explain library staff why fiction is amazing. But, if I were to ask you what you’ve read lately that will help improve your work skills, my guess is that you would not name a work of fiction. Let's change that: https://t.co/ClImm8eeHm https://t.co/yyky4SNY6M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ClImm8eeHm",
+					"expanded_url": "http://bit.ly/380ioTn",
+					"display_url": "bit.ly/380ioTn",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1366379031919272000,
+					"id_str": "1366379031919271939",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EvZafXoXIAMVGjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EvZafXoXIAMVGjA.jpg",
+					"url": "https://t.co/yyky4SNY6M",
+					"display_url": "pic.twitter.com/yyky4SNY6M",
+					"expanded_url": "https://twitter.com/webmastergirl/status/1367531535549804555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 218,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 218,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1366379031919272000,
+					"id_str": "1366379031919271939",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EvZafXoXIAMVGjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EvZafXoXIAMVGjA.jpg",
+					"url": "https://t.co/yyky4SNY6M",
+					"display_url": "pic.twitter.com/yyky4SNY6M",
+					"expanded_url": "https://twitter.com/webmastergirl/status/1367531535549804555/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 218,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 218,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							122,
+							109
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EvZafXoXIAMVGjA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14400108,
+			"id_str": "14400108",
+			"name": "Angela Hursh - #LibraryMarketing",
+			"screen_name": "webmastergirl",
+			"location": "Cincinnati, OH",
+			"description": "Senior Engagement Consultant for @NoveListRA. Formerly @CincyLibrary and @Local12. Now, I help libraries do better marketing. 📚 Opinions are all mine.",
+			"url": "https://t.co/fwUAmVoIBL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fwUAmVoIBL",
+							"expanded_url": "https://superlibrarymarketing.com/",
+							"display_url": "superlibrarymarketing.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3453,
+			"friends_count": 2270,
+			"listed_count": 324,
+			"created_at": "Tue Apr 15 19:32:52 +0000 2008",
+			"favourites_count": 8336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306289789566627845/b30rGaVj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306289789566627845/b30rGaVj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14400108/1405540883",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am certain I really don’t have to explain library staff why fiction is amazing. But, if I were to ask you what you’ve read lately that will help improve your work skills, my guess is that you would not name a work of fiction. Let's change that: https://t.co/ClImm8eeHm https://t.co/yyky4SNY6M"
+	},
+	{
 		"created_at": "Thu Mar 04 03:28:31 +0000 2021",
 		"id": 1367314426794279000,
 		"id_str": "1367315997326077953",
