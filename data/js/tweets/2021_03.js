@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 17 04:21:23 +0000 2021",
+		"id": 1371996067798032400,
+		"id_str": "1372040341168087051",
+		"full_text": "#RA2021 @lisaSfuller highlights the need for diverse voices in all kinds of writing, as is allows people to see themselves and reflect to others (so think broadly about your collections)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RA2021",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lisaSfuller",
+					"name": "Lisa Fuller",
+					"id": 1132067722760675300,
+					"id_str": "1132067722760675329",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44496145,
+			"id_str": "44496145",
+			"name": "NSWRISG",
+			"screen_name": "NSWRISG",
+			"location": "Sydney, Australia",
+			"description": "New South Wales Reference and Information Services Group, supporting readers advisory and reference & information services throughout NSW public libraries.",
+			"url": "https://t.co/S2gHC0nlmm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S2gHC0nlmm",
+							"expanded_url": "http://wiki.libraries.nsw.gov.au/doku.php",
+							"display_url": "wiki.libraries.nsw.gov.au/doku.php",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 178,
+			"friends_count": 56,
+			"listed_count": 20,
+			"created_at": "Thu Jun 04 00:06:15 +0000 2009",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/248937245/risg__logo_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/248937245/risg__logo_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44496145/1525311075",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#RA2021 @lisaSfuller highlights the need for diverse voices in all kinds of writing, as is allows people to see themselves and reflect to others (so think broadly about your collections)"
+	},
+	{
+		"created_at": "Wed Mar 17 04:21:18 +0000 2021",
+		"id": 1372034291115249700,
+		"id_str": "1372040320280535040",
+		"full_text": "Thanks for having me #RA2021 - I really enjoyed talking about these 5 great titles (below). Here is a link to my little indyreads list if you’re interested 📚 https://t.co/jmjHlJyGv9 https://t.co/w6ugl4Ixaf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RA2021",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jmjHlJyGv9",
+					"expanded_url": "https://indyreads.libraries.nsw.gov.au/list/indyreads-cald-titles-29808",
+					"display_url": "indyreads.libraries.nsw.gov.au/list/indyreads…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1372034285880844300,
+					"id_str": "1372034285880844288",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Ewpx6eWVoAARZBw.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ewpx6eWVoAARZBw.png",
+					"url": "https://t.co/w6ugl4Ixaf",
+					"display_url": "pic.twitter.com/w6ugl4Ixaf",
+					"expanded_url": "https://twitter.com/mariasavvidis/status/1372034291115249664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 706,
+							"h": 233,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 224,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 706,
+							"h": 233,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1372034285880844300,
+					"id_str": "1372034285880844288",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Ewpx6eWVoAARZBw.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ewpx6eWVoAARZBw.png",
+					"url": "https://t.co/w6ugl4Ixaf",
+					"display_url": "pic.twitter.com/w6ugl4Ixaf",
+					"expanded_url": "https://twitter.com/mariasavvidis/status/1372034291115249664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 706,
+							"h": 233,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 224,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 706,
+							"h": 233,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 727312478,
+			"id_str": "727312478",
+			"name": "maria savvidis",
+			"screen_name": "mariasavvidis",
+			"location": "Wangal and Gadigal lands",
+			"description": "Librarian @statelibrarynsw / President Oral History NSW / https://t.co/sBVNBYea2G / Views are my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sBVNBYea2G",
+							"expanded_url": "http://oralhistorynsw.org.au",
+							"display_url": "oralhistorynsw.org.au",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 538,
+			"friends_count": 966,
+			"listed_count": 8,
+			"created_at": "Tue Jul 31 01:53:27 +0000 2012",
+			"favourites_count": 14927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358713555483197442/Fpgnachy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358713555483197442/Fpgnachy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727312478/1612780278",
+			"profile_link_color": "6699CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "0E0E0E",
+			"profile_text_color": "4A66C1",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for having me #RA2021 - I really enjoyed talking about these 5 great titles (below). Here is a link to my little indyreads list if you’re interested 📚 https://t.co/jmjHlJyGv9 https://t.co/w6ugl4Ixaf"
+	},
+	{
 		"created_at": "Tue Mar 16 04:08:21 +0000 2021",
 		"id": 1371674676313780200,
 		"id_str": "1371674676313780224",
