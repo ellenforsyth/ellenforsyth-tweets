@@ -1,6 +1,572 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 18 04:35:45 +0000 2021",
+		"id": 1372406347585654800,
+		"id_str": "1372406347585654785",
+		"full_text": "shows the importance of actually exploring what is happening in your community for library collections https://t.co/b47b94wvwZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b47b94wvwZ",
+					"expanded_url": "https://twitter.com/laplcentral/status/1370421076732350467",
+					"display_url": "twitter.com/laplcentral/st…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2540,
+			"friends_count": 889,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1616035174",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1370421076732350500,
+		"quoted_status_id_str": "1370421076732350467",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b47b94wvwZ",
+			"expanded": "https://twitter.com/laplcentral/status/1370421076732350467",
+			"display": "twitter.com/laplcentral/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 12 17:07:00 +0000 2021",
+			"id": 1370421076732350500,
+			"id_str": "1370421076732350467",
+			"full_text": "Black Cowboys Exist, They Always Have https://t.co/JyF1fX3UMq https://t.co/MSeLhbPLAe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JyF1fX3UMq",
+						"expanded_url": "http://lapl.me/z4Lnd6Y",
+						"display_url": "lapl.me/z4Lnd6Y",
+						"indices": [
+							38,
+							61
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1370421074547126300,
+						"id_str": "1370421074547126276",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/EwS2tN0XMAQGHyo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwS2tN0XMAQGHyo.jpg",
+						"url": "https://t.co/MSeLhbPLAe",
+						"display_url": "pic.twitter.com/MSeLhbPLAe",
+						"expanded_url": "https://twitter.com/laplcentral/status/1370421076732350467/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 322,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1310,
+								"h": 621,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 569,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1370421074547126300,
+						"id_str": "1370421074547126276",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/EwS2tN0XMAQGHyo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwS2tN0XMAQGHyo.jpg",
+						"url": "https://t.co/MSeLhbPLAe",
+						"display_url": "pic.twitter.com/MSeLhbPLAe",
+						"expanded_url": "https://twitter.com/laplcentral/status/1370421076732350467/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 322,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1310,
+								"h": 621,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 569,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 81743882,
+				"id_str": "81743882",
+				"name": "Central Library",
+				"screen_name": "laplcentral",
+				"location": "630 W 5th Street",
+				"description": "The @lapubliclibrary Richard J. Riordan Central Library in downtown Los Angeles is both a leading public research library and a major architectural landmark.",
+				"url": "https://t.co/F6Ow4gPvl6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F6Ow4gPvl6",
+								"expanded_url": "http://www.lapl.org/branches/central-library",
+								"display_url": "lapl.org/branches/centr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6789,
+				"friends_count": 295,
+				"listed_count": 186,
+				"created_at": "Mon Oct 12 02:42:58 +0000 2009",
+				"favourites_count": 5353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7106,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F89728",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875438134158163968/n-iCA4EV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875438134158163968/n-iCA4EV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/81743882/1497555861",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "shows the importance of actually exploring what is happening in your community for library collections https://t.co/b47b94wvwZ"
+	},
+	{
+		"created_at": "Thu Mar 18 02:35:19 +0000 2021",
+		"id": 1372311640993984500,
+		"id_str": "1372376035870699525",
+		"full_text": "It's National #ClosetheGap Day today and the 2021 Close the Gap report is now available on our website here:\nhttps://t.co/wPSdzzLo3L\nFollow @closethegapOZ for more great coverage of the excellent work of First Nations organisations. \n@juliepower @smh \nhttps://t.co/WlUQGugrqW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ClosetheGap",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "closethegapOZ",
+					"name": "#ClosetheGapDay 🖤 💛 ❤️ Campaign 💙 💚",
+					"id": 1025327454,
+					"id_str": "1025327454",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"screen_name": "juliepower",
+					"name": "Julie Power",
+					"id": 14198428,
+					"id_str": "14198428",
+					"indices": [
+						234,
+						245
+					]
+				},
+				{
+					"screen_name": "smh",
+					"name": "The Sydney Morning Herald",
+					"id": 16675569,
+					"id_str": "16675569",
+					"indices": [
+						246,
+						250
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wPSdzzLo3L",
+					"expanded_url": "https://humanrights.gov.au/our-work/aboriginal-and-torres-strait-islander-social-justice/publications/close-gap-2021",
+					"display_url": "humanrights.gov.au/our-work/abori…",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/WlUQGugrqW",
+					"expanded_url": "https://www.theage.com.au/national/the-outstanding-health-outcome-indigenous-communities-have-produced-20210316-p57baq.html",
+					"display_url": "theage.com.au/national/the-o…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36540378,
+			"id_str": "36540378",
+			"name": "Australian Human Rights Commission",
+			"screen_name": "AusHumanRights",
+			"location": "Sydney, NSW, Australia",
+			"description": "The Australian Human Rights Commission, Australia's human rights watchdog.\n1300 369 711\nMedia contacts: https://t.co/e9yExe8QQZ",
+			"url": "http://t.co/gY9pYf81L4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/gY9pYf81L4",
+							"expanded_url": "http://www.humanrights.gov.au",
+							"display_url": "humanrights.gov.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e9yExe8QQZ",
+							"expanded_url": "https://www.humanrights.gov.au/about/media-contacts",
+							"display_url": "humanrights.gov.au/about/media-co…",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62512,
+			"friends_count": 16795,
+			"listed_count": 874,
+			"created_at": "Thu Apr 30 00:46:34 +0000 2009",
+			"favourites_count": 2796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140515498355855360/htOI64hx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140515498355855360/htOI64hx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36540378/1563768869",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's National #ClosetheGap Day today and the 2021 Close the Gap report is now available on our website here:\nhttps://t.co/wPSdzzLo3L\nFollow @closethegapOZ for more great coverage of the excellent work of First Nations organisations. \n@juliepower @smh \nhttps://t.co/WlUQGugrqW"
+	},
+	{
+		"created_at": "Wed Mar 17 20:13:32 +0000 2021",
+		"id": 1371025391922581500,
+		"id_str": "1372279956496027652",
+		"full_text": "Daydreaming is surprisingly hard. Here’s how to do it better. https://t.co/ZywmdAQYpo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZywmdAQYpo",
+					"expanded_url": "https://wapo.st/2Or0bYk",
+					"display_url": "wapo.st/2Or0bYk",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2467791,
+			"id_str": "2467791",
+			"name": "The Washington Post",
+			"screen_name": "washingtonpost",
+			"location": "Washington, DC",
+			"description": "Democracy Dies in Darkness.",
+			"url": "http://t.co/Hq7hTYkOPg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Hq7hTYkOPg",
+							"expanded_url": "http://washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17750519,
+			"friends_count": 1688,
+			"listed_count": 100853,
+			"created_at": "Tue Mar 27 11:19:39 +0000 2007",
+			"favourites_count": 4342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 384750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+			"profile_link_color": "0057EC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DBDBDB",
+			"profile_text_color": "323232",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 131,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daydreaming is surprisingly hard. Here’s how to do it better. https://t.co/ZywmdAQYpo"
+	},
+	{
 		"created_at": "Wed Mar 17 04:21:23 +0000 2021",
 		"id": 1371996067798032400,
 		"id_str": "1372040341168087051",
