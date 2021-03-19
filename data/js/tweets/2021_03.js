@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 18 21:05:49 +0000 2021",
+		"id": 1372540878816960500,
+		"id_str": "1372655504854446080",
+		"full_text": "Smithsonian Magazine: A Dictionary of Science Fiction Runs From Afrofuturism to Zero-G - https://t.co/4o1qwmAIMo  #writings #ScienceFiction #dictionaries #reference",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "writings",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "ScienceFiction",
+					"indices": [
+						124,
+						139
+					]
+				},
+				{
+					"text": "dictionaries",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"text": "reference",
+					"indices": [
+						154,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4o1qwmAIMo",
+					"expanded_url": "https://www.smithsonianmag.com/arts-culture/dictionary-science-fiction-runs-afrofuturism-zero-g-180977224/",
+					"display_url": "smithsonianmag.com/arts-culture/d…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6979102,
+			"id_str": "6979102",
+			"name": "Tara Calishain",
+			"screen_name": "ResearchBuzz",
+			"location": "North Cack baby, not a boss ",
+			"description": "Obsessed with search engines, info collections, & databases since forever. News and resources covering same since 1998. Wrote a stack of books. She/her. Say hi.",
+			"url": "http://t.co/N8gqhQKHJ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/N8gqhQKHJ5",
+							"expanded_url": "http://www.researchbuzz.com",
+							"display_url": "researchbuzz.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5573,
+			"friends_count": 3507,
+			"listed_count": 574,
+			"created_at": "Wed Jun 20 22:25:01 +0000 2007",
+			"favourites_count": 12654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+			"profile_link_color": "243A8F",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Smithsonian Magazine: A Dictionary of Science Fiction Runs From Afrofuturism to Zero-G - https://t.co/4o1qwmAIMo  #writings #ScienceFiction #dictionaries #reference"
+	},
+	{
+		"created_at": "Thu Mar 18 20:58:02 +0000 2021",
+		"id": 1372653544860389400,
+		"id_str": "1372653544860389376",
+		"full_text": "Five SF Stories in Which Kindness Prevails https://t.co/ZyiDT1hT4L via @tordotcom a very interesting mix (I have not read all of these titles)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tordotcom",
+					"name": "Tor.com",
+					"id": 16151835,
+					"id_str": "16151835",
+					"indices": [
+						71,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZyiDT1hT4L",
+					"expanded_url": "https://www.tor.com/2021/03/16/five-sf-stories-in-which-kindness-prevails/",
+					"display_url": "tor.com/2021/03/16/fiv…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2539,
+			"friends_count": 890,
+			"listed_count": 225,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1616035174",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Five SF Stories in Which Kindness Prevails https://t.co/ZyiDT1hT4L via @tordotcom a very interesting mix (I have not read all of these titles)"
+	},
+	{
 		"created_at": "Thu Mar 18 04:35:45 +0000 2021",
 		"id": 1372406347585654800,
 		"id_str": "1372406347585654785",
