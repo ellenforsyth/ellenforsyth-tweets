@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sat Mar 20 04:41:54 +0000 2021",
+		"id": 1372737184059453400,
+		"id_str": "1373132669383405570",
+		"full_text": "We're very happy to announce our very own 2020 Notable Australian Graphic Novels list. The shortlist includes the books deemed of highest interest for libraries published in 2020. They are all widely available, including through library suppliers. #LoveOzComix #Libcomix https://t.co/dpGBAxY6dX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LoveOzComix",
+					"indices": [
+						248,
+						260
+					]
+				},
+				{
+					"text": "Libcomix",
+					"indices": [
+						261,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1372732110297997300,
+					"id_str": "1372732110297997314",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EwzslM4VoAIiAnh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwzslM4VoAIiAnh.jpg",
+					"url": "https://t.co/dpGBAxY6dX",
+					"display_url": "pic.twitter.com/dpGBAxY6dX",
+					"expanded_url": "https://twitter.com/ALIAGraphic/status/1372737184059453440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1372732110297997300,
+					"id_str": "1372732110297997314",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EwzslM4VoAIiAnh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwzslM4VoAIiAnh.jpg",
+					"url": "https://t.co/dpGBAxY6dX",
+					"display_url": "pic.twitter.com/dpGBAxY6dX",
+					"expanded_url": "https://twitter.com/ALIAGraphic/status/1372737184059453440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1128109431697231900,
+			"id_str": "1128109431697231872",
+			"name": "ALIA Graphic Novels and Comics",
+			"screen_name": "ALIAGraphic",
+			"location": "Australia",
+			"description": "Promoting and advocating for comics and graphic novels at libraries and schools. #ALIAGraphic #LoveOzComix #LibComix #EduComix",
+			"url": "https://t.co/UIT3rV0nEV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UIT3rV0nEV",
+							"expanded_url": "https://aliagraphic.blogspot.com",
+							"display_url": "aliagraphic.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 589,
+			"friends_count": 391,
+			"listed_count": 9,
+			"created_at": "Tue May 14 01:27:02 +0000 2019",
+			"favourites_count": 1153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233651343438401537/zVokG-8d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233651343438401537/zVokG-8d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1128109431697231872/1557799957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're very happy to announce our very own 2020 Notable Australian Graphic Novels list. The shortlist includes the books deemed of highest interest for libraries published in 2020. They are all widely available, including through library suppliers. #LoveOzComix #Libcomix https://t.co/dpGBAxY6dX"
+	},
+	{
 		"created_at": "Thu Mar 18 21:05:49 +0000 2021",
 		"id": 1372540878816960500,
 		"id_str": "1372655504854446080",
