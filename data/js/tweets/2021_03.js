@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 23 10:18:02 +0000 2021",
+		"id": 1374169064747069400,
+		"id_str": "1374304422809853952",
+		"full_text": "This is how the record-breaking flooding of the Hastings River near Port Macquarie looks compared with historical data  https://t.co/RhyCANNYWj https://t.co/0kgI9Zew4m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RhyCANNYWj",
+					"expanded_url": "https://www.theguardian.com/news/datablog/2021/mar/23/these-animated-graphs-show-how-extreme-nsw-record-breaking-flooding-floods-and-rainfall-is",
+					"display_url": "theguardian.com/news/datablog/…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1374168513846206500,
+					"id_str": "1374168513846206466",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374168513846206466/pu/img/QWLRweNGMU0JPNy5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374168513846206466/pu/img/QWLRweNGMU0JPNy5.jpg",
+					"url": "https://t.co/0kgI9Zew4m",
+					"display_url": "pic.twitter.com/0kgI9Zew4m",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1374169064747069441/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1374168513846206500,
+					"id_str": "1374168513846206466",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1374168513846206466/pu/img/QWLRweNGMU0JPNy5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1374168513846206466/pu/img/QWLRweNGMU0JPNy5.jpg",
+					"url": "https://t.co/0kgI9Zew4m",
+					"display_url": "pic.twitter.com/0kgI9Zew4m",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1374169064747069441/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 31233,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1374168513846206466/pu/vid/320x320/uk8v5Z27--bYMCtS.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1374168513846206466/pu/vid/540x540/uehPp_6sHVEIh3Xl.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1374168513846206466/pu/vid/720x720/uBUphZZPgM74JVXI.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1374168513846206466/pu/pl/eUindkoDwX8FEvGe.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48176841,
+			"id_str": "48176841",
+			"name": "Nick Evershed",
+			"screen_name": "NickEvershed",
+			"location": "Australia",
+			"description": "Data and interactives at @GuardianAus. Occasional investigations. Used to be a scientist. DMs open, or secure contact in bio.",
+			"url": "https://t.co/CSW1wFifUI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CSW1wFifUI",
+							"expanded_url": "http://www.theguardian.com/profile/nick-evershed",
+							"display_url": "theguardian.com/profile/nick-e…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11036,
+			"friends_count": 3961,
+			"listed_count": 401,
+			"created_at": "Thu Jun 18 00:22:56 +0000 2009",
+			"favourites_count": 10877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232466138476339201/wlz3JKyL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232466138476339201/wlz3JKyL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48176841/1550016882",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is how the record-breaking flooding of the Hastings River near Port Macquarie looks compared with historical data  https://t.co/RhyCANNYWj https://t.co/0kgI9Zew4m"
+	},
+	{
 		"created_at": "Sat Mar 20 04:41:54 +0000 2021",
 		"id": 1372737184059453400,
 		"id_str": "1373132669383405570",
