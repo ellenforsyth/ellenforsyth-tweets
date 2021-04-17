@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 16 22:07:14 +0000 2021",
+		"id": 1383162398673039400,
+		"id_str": "1383180209810075648",
+		"full_text": "‘Cutting our culture up’: outrage after WA decides not to prosecute over alleged destruction of sacred site https://t.co/Nn6PlitFdA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nn6PlitFdA",
+					"expanded_url": "https://www.theguardian.com/australia-news/2021/apr/17/cutting-our-culture-up-outrage-after-wa-decides-not-to-prosecute-over-alleged-destruction-of-sacred-site?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 386814685,
+			"id_str": "386814685",
+			"name": "Dr Mike Jones",
+			"screen_name": "MikeJonesPhD",
+			"location": "Ngunnawal and Ngambri country",
+			"description": "Archives, history, collections, museums, digital humanities, art. Books, music, film. Queer. Goth at heart. He/him/his.",
+			"url": "https://t.co/Xg2PKqU99s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xg2PKqU99s",
+							"expanded_url": "http://www.mikejonesonline.com/",
+							"display_url": "mikejonesonline.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4380,
+			"friends_count": 2062,
+			"listed_count": 280,
+			"created_at": "Fri Oct 07 23:33:41 +0000 2011",
+			"favourites_count": 63948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1577505685/ProfilePic_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1577505685/ProfilePic_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/386814685/1398208719",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Cutting our culture up’: outrage after WA decides not to prosecute over alleged destruction of sacred site https://t.co/Nn6PlitFdA"
+	},
+	{
 		"created_at": "Thu Apr 15 05:17:41 +0000 2021",
 		"id": 1382563757059051500,
 		"id_str": "1382563757059051521",
