@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 21 10:23:48 +0000 2021",
+		"id": 1384493781555290000,
+		"id_str": "1384815121713664003",
+		"full_text": "Thrilled to annonce that our study on the impact and value of public libraries in Denmark is now published in English translation - blog post with background and link to report https://t.co/hT6502coql  #libraries",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "libraries",
+					"indices": [
+						202,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hT6502coql",
+					"expanded_url": "https://christianlauersen.net/2021/04/19/a-haven-in-our-community-the-impact-and-value-of-public-libraries/",
+					"display_url": "christianlauersen.net/2021/04/19/a-h…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773795797,
+			"id_str": "773795797",
+			"name": "Christian Lauersen",
+			"screen_name": "clauersen",
+			"location": "Copenhagen",
+			"description": "Director of libraries and citizen services in Roskilde Municipality. Founder of https://t.co/jHF14wmFN1. Happy about socks and cycling. LEGO aficionado. Own views",
+			"url": "https://t.co/onCt7lXgZ1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/onCt7lXgZ1",
+							"expanded_url": "http://christianlauersen.net/",
+							"display_url": "christianlauersen.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jHF14wmFN1",
+							"expanded_url": "http://libraryplanet.net",
+							"display_url": "libraryplanet.net",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4384,
+			"friends_count": 655,
+			"listed_count": 320,
+			"created_at": "Wed Aug 22 14:28:21 +0000 2012",
+			"favourites_count": 22653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCEBB6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035814182355197952/f_4sKvma_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035814182355197952/f_4sKvma_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773795797/1423469908",
+			"profile_link_color": "CE7834",
+			"profile_sidebar_border_color": "F0A830",
+			"profile_sidebar_fill_color": "78C0A8",
+			"profile_text_color": "5E412F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thrilled to annonce that our study on the impact and value of public libraries in Denmark is now published in English translation - blog post with background and link to report https://t.co/hT6502coql  #libraries"
+	},
+	{
 		"created_at": "Fri Apr 16 22:07:14 +0000 2021",
 		"id": 1383162398673039400,
 		"id_str": "1383180209810075648",
