@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 24 00:09:16 +0000 2021",
+		"id": 1385345165582160000,
+		"id_str": "1385747635726733317",
+		"full_text": "Avenues of Honour once stood proudly in hundreds of Australian cities and towns. \n\nBut these stands of sacred trees, which gave families a place to grieve their war dead, are being bulldozed and forgotten, writes Greg Moore. https://t.co/EM0uIJiOtN @uommedia @unimelb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uommedia",
+					"name": "UniMelb Newsroom",
+					"id": 16608403,
+					"id_str": "16608403",
+					"indices": [
+						249,
+						258
+					]
+				},
+				{
+					"screen_name": "UniMelb",
+					"name": "University of Melbourne",
+					"id": 14862794,
+					"id_str": "14862794",
+					"indices": [
+						259,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EM0uIJiOtN",
+					"expanded_url": "https://theconversation.com/the-years-condemn-australia-is-forgetting-sacred-trees-planted-to-remember-our-war-dead-159426",
+					"display_url": "theconversation.com/the-years-cond…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224495471,
+			"id_str": "224495471",
+			"name": "The Conversation",
+			"screen_name": "ConversationEDU",
+			"location": "Australia",
+			"description": "Independent news from the sharpest academic minds.  \nRead: https://t.co/pXIyo0sdkZ\nSign up: https://t.co/tTlAQjh3cS\nDonate: https://t.co/TvbSODXXxw",
+			"url": "https://t.co/QMffpg0dE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QMffpg0dE5",
+							"expanded_url": "https://donate.theconversation.com",
+							"display_url": "donate.theconversation.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pXIyo0sdkZ",
+							"expanded_url": "http://theconversation.com/au",
+							"display_url": "theconversation.com/au",
+							"indices": [
+								59,
+								82
+							]
+						},
+						{
+							"url": "https://t.co/tTlAQjh3cS",
+							"expanded_url": "http://bit.ly/2YBhBpn",
+							"display_url": "bit.ly/2YBhBpn",
+							"indices": [
+								92,
+								115
+							]
+						},
+						{
+							"url": "https://t.co/TvbSODXXxw",
+							"expanded_url": "http://bit.ly/2Wsvz8T",
+							"display_url": "bit.ly/2Wsvz8T",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 183925,
+			"friends_count": 4935,
+			"listed_count": 3003,
+			"created_at": "Thu Dec 09 04:36:36 +0000 2010",
+			"favourites_count": 4323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E5E5E5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133216986022834176/XL7As8ay_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133216986022834176/XL7As8ay_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224495471/1616535822",
+			"profile_link_color": "D8362A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Avenues of Honour once stood proudly in hundreds of Australian cities and towns. \n\nBut these stands of sacred trees, which gave families a place to grieve their war dead, are being bulldozed and forgotten, writes Greg Moore. https://t.co/EM0uIJiOtN @uommedia @unimelb"
+	},
+	{
 		"created_at": "Wed Apr 21 10:23:48 +0000 2021",
 		"id": 1384493781555290000,
 		"id_str": "1384815121713664003",
