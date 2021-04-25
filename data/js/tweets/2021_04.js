@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 24 10:38:55 +0000 2021",
+		"id": 1385906088604618800,
+		"id_str": "1385906088604618754",
+		"full_text": "Interesting #CitizenScience project https://t.co/rpdJjYJa9u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CitizenScience",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rpdJjYJa9u",
+					"expanded_url": "https://twitter.com/cottonhubune/status/1383927112038420491",
+					"display_url": "twitter.com/cottonhubune/s…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 889,
+			"listed_count": 224,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1616529980",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1383927112038420500,
+		"quoted_status_id_str": "1383927112038420491",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rpdJjYJa9u",
+			"expanded": "https://twitter.com/cottonhubune/status/1383927112038420491",
+			"display": "twitter.com/cottonhubune/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 18 23:35:10 +0000 2021",
+			"id": 1383927112038420500,
+			"id_str": "1383927112038420491",
+			"full_text": "So the @CottonResearch supprted @ERS_UNE  and @CottonInfoAust  #SoilYourUndies got a lot of coverage on the ABC this weekend. Underpants experiments are taking place in Australian paddocks and gardens — all in the name of soil health https://t.co/OfeQZ0ho6M",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SoilYourUndies",
+						"indices": [
+							63,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CottonResearch",
+						"name": "CRDC",
+						"id": 2835437540,
+						"id_str": "2835437540",
+						"indices": [
+							7,
+							22
+						]
+					},
+					{
+						"screen_name": "ERS_UNE",
+						"name": "ERS_UNE",
+						"id": 2573856006,
+						"id_str": "2573856006",
+						"indices": [
+							32,
+							40
+						]
+					},
+					{
+						"screen_name": "CottonInfoAust",
+						"name": "CottonInfo",
+						"id": 239224118,
+						"id_str": "239224118",
+						"indices": [
+							46,
+							61
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OfeQZ0ho6M",
+						"expanded_url": "https://www.abc.net.au/news/2021-04-19/healthy-soil-microbes-soil-your-undies-campaign/100071254?utm_campaign=abc_news_web&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web",
+						"display_url": "abc.net.au/news/2021-04-1…",
+						"indices": [
+							234,
+							257
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 825871267550998500,
+				"id_str": "825871267550998528",
+				"name": "Cotton Hub at UNE",
+				"screen_name": "CottonHubUNE",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 562,
+				"friends_count": 64,
+				"listed_count": 4,
+				"created_at": "Mon Jan 30 01:00:28 +0000 2017",
+				"favourites_count": 266,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 304,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825872117333843970/zCX_WWbc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825872117333843970/zCX_WWbc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/825871267550998528/1485738294",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting #CitizenScience project https://t.co/rpdJjYJa9u"
+	},
+	{
 		"created_at": "Sat Apr 24 00:09:16 +0000 2021",
 		"id": 1385345165582160000,
 		"id_str": "1385747635726733317",
