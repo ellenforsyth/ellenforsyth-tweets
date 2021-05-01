@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 30 08:14:57 +0000 2021",
+		"id": 1388044188311195600,
+		"id_str": "1388044188311195653",
+		"full_text": "A very interesting article - thanks to an alert via Nancy Marchant https://t.co/pCQpgok16V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pCQpgok16V",
+					"expanded_url": "https://twitter.com/ConquerMaths/status/1387848157002883076",
+					"display_url": "twitter.com/ConquerMaths/s…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2540,
+			"friends_count": 890,
+			"listed_count": 224,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1616529980",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1387848157002883000,
+		"quoted_status_id_str": "1387848157002883076",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pCQpgok16V",
+			"expanded": "https://twitter.com/ConquerMaths/status/1387848157002883076",
+			"display": "twitter.com/ConquerMaths/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 29 19:16:00 +0000 2021",
+			"id": 1387848157002883000,
+			"id_str": "1387848157002883076",
+			"full_text": "The Beautiful Math of Knitting—Yes, Knitting—Could Create the Toughest Gear Ever\n\nA fundamental equation may enable ultra-sturdy, never-before-seen fabrics.\n\nhttps://t.co/nVmgXl3ViC\n\n#coolmaths #binary #knitting #binary",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				219
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "coolmaths",
+						"indices": [
+							183,
+							193
+						]
+					},
+					{
+						"text": "binary",
+						"indices": [
+							194,
+							201
+						]
+					},
+					{
+						"text": "knitting",
+						"indices": [
+							202,
+							211
+						]
+					},
+					{
+						"text": "binary",
+						"indices": [
+							212,
+							219
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nVmgXl3ViC",
+						"expanded_url": "https://www.popularmechanics.com/science/math/a36276147/hidden-binary-of-knitting/",
+						"display_url": "popularmechanics.com/science/math/a…",
+						"indices": [
+							158,
+							181
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 434960091,
+				"id_str": "434960091",
+				"name": "ConquerMaths",
+				"screen_name": "ConquerMaths",
+				"location": "Newcastle Upon Tyne",
+				"description": "Our mission is to help everyone improve their maths skills and learn with ease!",
+				"url": "https://t.co/0rKn1O3Z6H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0rKn1O3Z6H",
+								"expanded_url": "https://conquermaths.com/",
+								"display_url": "conquermaths.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2097,
+				"friends_count": 1898,
+				"listed_count": 180,
+				"created_at": "Mon Dec 12 14:32:23 +0000 2011",
+				"favourites_count": 305,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17031,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1269979017018556418/PwfK-4L-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269979017018556418/PwfK-4L-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/434960091/1591622371",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A very interesting article - thanks to an alert via Nancy Marchant https://t.co/pCQpgok16V"
+	},
+	{
 		"created_at": "Wed Apr 28 05:38:21 +0000 2021",
 		"id": 1387221689847754800,
 		"id_str": "1387279999787421700",
