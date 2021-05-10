@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 09 10:31:20 +0000 2021",
+		"id": 1391197678692757500,
+		"id_str": "1391340000764125189",
+		"full_text": "Welcome back, Darling-Baaka River!  A healthy river is so important to many communities. #nswpol #ReviveOurRivers  https://t.co/y4a8sSDzRo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nswpol",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "ReviveOurRivers",
+					"indices": [
+						97,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y4a8sSDzRo",
+					"expanded_url": "https://www.abc.net.au/news/2021-05-09/darling-river-runs-revitalising-drought-hit-communities/100114088",
+					"display_url": "abc.net.au/news/2021-05-0…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16400289,
+			"id_str": "16400289",
+			"name": "Nature Conservation Council of NSW",
+			"screen_name": "naturensw",
+			"location": "New South Wales, Australia.",
+			"description": "We are a movement of passionate people who want nature in NSW to thrive. We represent more than 150 organisations and thousands of people who share this vision.",
+			"url": "https://t.co/v1hP6C0ja8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1hP6C0ja8",
+							"expanded_url": "http://nature.org.au",
+							"display_url": "nature.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8668,
+			"friends_count": 3258,
+			"listed_count": 259,
+			"created_at": "Mon Sep 22 05:38:28 +0000 2008",
+			"favourites_count": 3795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955573656393998337/jqIKeTnE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955573656393998337/jqIKeTnE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16400289/1594770735",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome back, Darling-Baaka River!  A healthy river is so important to many communities. #nswpol #ReviveOurRivers  https://t.co/y4a8sSDzRo"
+	},
+	{
 		"created_at": "Fri May 07 21:28:29 +0000 2021",
 		"id": 1390780601087656000,
 		"id_str": "1390780601087655936",
