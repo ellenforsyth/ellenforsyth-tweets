@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 14 09:43:21 +0000 2021",
+		"id": 1392895704540930000,
+		"id_str": "1393139862367195142",
+		"full_text": "Environment department tried to bury research that found huge underspend on Australian threatened species https://t.co/V35VUO4MVT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V35VUO4MVT",
+					"expanded_url": "https://www.theguardian.com/environment/2021/may/14/environment-department-tried-to-bury-research-that-found-huge-underspend-on-australian-threatened-species?CMP=twt_a-environment_b-gdneco",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20582958,
+			"id_str": "20582958",
+			"name": "Guardian Environment",
+			"screen_name": "guardianeco",
+			"location": "London, UK",
+			"description": "News and comment on the world's most important environmental stories",
+			"url": "https://t.co/IrYc3fUv80",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IrYc3fUv80",
+							"expanded_url": "https://www.theguardian.com/environment",
+							"display_url": "theguardian.com/environment",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499076,
+			"friends_count": 7709,
+			"listed_count": 12176,
+			"created_at": "Wed Feb 11 10:47:37 +0000 2009",
+			"favourites_count": 1096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 68523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061914878275977217/tF7xfYAu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061914878275977217/tF7xfYAu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20582958/1542015197",
+			"profile_link_color": "005689",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CAE3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Environment department tried to bury research that found huge underspend on Australian threatened species https://t.co/V35VUO4MVT"
+	},
+	{
 		"created_at": "Sun May 09 10:31:20 +0000 2021",
 		"id": 1391197678692757500,
 		"id_str": "1391340000764125189",
