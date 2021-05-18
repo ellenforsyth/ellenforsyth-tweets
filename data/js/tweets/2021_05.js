@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 17 08:40:15 +0000 2021",
+		"id": 1394022322730852400,
+		"id_str": "1394211147042025473",
+		"full_text": "Woollen #trousers discovered in western China’s Tarim Basin date back to around 3,300 years ago. The were created for horse-riding &amp; it shows in the design: straight fitting legs &amp; wide crotch with sewn reinforcement. They were woven on a loom in precisely-sized segments #Pants https://t.co/SZxSRw72rE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "trousers",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "Pants",
+					"indices": [
+						280,
+						286
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1394022318675005400,
+					"id_str": "1394022318675005448",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/E1iP6bmXEAgCDnI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1iP6bmXEAgCDnI.jpg",
+					"url": "https://t.co/SZxSRw72rE",
+					"display_url": "pic.twitter.com/SZxSRw72rE",
+					"expanded_url": "https://twitter.com/LloydLlewJ/status/1394022322730852352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 710,
+							"h": 477,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 477,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394022318675005400,
+					"id_str": "1394022318675005448",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/E1iP6bmXEAgCDnI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1iP6bmXEAgCDnI.jpg",
+					"url": "https://t.co/SZxSRw72rE",
+					"display_url": "pic.twitter.com/SZxSRw72rE",
+					"expanded_url": "https://twitter.com/LloydLlewJ/status/1394022322730852352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 710,
+							"h": 477,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 477,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1394022318645649400,
+					"id_str": "1394022318645649408",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/E1iP6bfXIAARrXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1iP6bfXIAARrXJ.jpg",
+					"url": "https://t.co/SZxSRw72rE",
+					"display_url": "pic.twitter.com/SZxSRw72rE",
+					"expanded_url": "https://twitter.com/LloydLlewJ/status/1394022322730852352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 580,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1394022318695985200,
+					"id_str": "1394022318695985152",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/E1iP6brXMAA6ejo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1iP6brXMAA6ejo.jpg",
+					"url": "https://t.co/SZxSRw72rE",
+					"display_url": "pic.twitter.com/SZxSRw72rE",
+					"expanded_url": "https://twitter.com/LloydLlewJ/status/1394022322730852352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1394022318683328500,
+					"id_str": "1394022318683328512",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/E1iP6boWEAAyx5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1iP6boWEAAyx5C.jpg",
+					"url": "https://t.co/SZxSRw72rE",
+					"display_url": "pic.twitter.com/SZxSRw72rE",
+					"expanded_url": "https://twitter.com/LloydLlewJ/status/1394022322730852352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1887887593,
+			"id_str": "1887887593",
+			"name": "Professor Lloyd Llewellyn-Jones ‎لويد لولين جونز",
+			"screen_name": "LloydLlewJ",
+			"location": "Taffs Well, Rhondda Cynnon Taf",
+			"description": "#Historian #Author #Cymro #Welsh #Persia #Iran #Gay #Costume #Antiquity #Bible #Christian #Culture #MyViews Agent: @albioneye agauntlett@pfd.co.uk",
+			"url": "https://t.co/kPrMDmNWBZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kPrMDmNWBZ",
+							"expanded_url": "https://www.cardiff.ac.uk/people/view/204823-llewellyn-jones-lloyd",
+							"display_url": "cardiff.ac.uk/people/view/20…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13384,
+			"friends_count": 4362,
+			"listed_count": 152,
+			"created_at": "Fri Sep 20 21:15:47 +0000 2013",
+			"favourites_count": 49745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354357505204383744/HjsDgFpx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354357505204383744/HjsDgFpx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1887887593/1610492828",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "67dcf0e246cf00a0",
+			"url": "https://api.twitter.com/1.1/geo/id/67dcf0e246cf00a0.json",
+			"place_type": "city",
+			"name": "Taff's Well",
+			"full_name": "Taff's Well, Wales",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.272984,
+							51.5390695
+						],
+						[
+							-3.2564152,
+							51.5390695
+						],
+						[
+							-3.2564152,
+							51.5545324
+						],
+						[
+							-3.272984,
+							51.5545324
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 108,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Woollen #trousers discovered in western China’s Tarim Basin date back to around 3,300 years ago. The were created for horse-riding &amp; it shows in the design: straight fitting legs &amp; wide crotch with sewn reinforcement. They were woven on a loom in precisely-sized segments #Pants https://t.co/SZxSRw72rE"
+	},
+	{
 		"created_at": "Fri May 14 09:43:21 +0000 2021",
 		"id": 1392895704540930000,
 		"id_str": "1393139862367195142",
