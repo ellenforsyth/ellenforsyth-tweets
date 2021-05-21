@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 20 22:05:16 +0000 2021",
+		"id": 1395470422653735000,
+		"id_str": "1395500902555951105",
+		"full_text": "The search for the 2021 World Champion is ongoing! 🔥 Will it be you? Turn yourself in by sending us your application until 13th June!  🧶🤘🏼 \n\nFor competition songs and more information visit our website and fulfill your destiny!! 💥\n\nSTAAAAART KNITTING! \n\n#heavymetalknitting https://t.co/XPn0aYobhU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "heavymetalknitting",
+					"indices": [
+						254,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1395470418610360300,
+					"id_str": "1395470418610360320",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E12088PWEAATyL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E12088PWEAATyL1.jpg",
+					"url": "https://t.co/XPn0aYobhU",
+					"display_url": "pic.twitter.com/XPn0aYobhU",
+					"expanded_url": "https://twitter.com/HeavyKnitting/status/1395470422653734915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1909,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395470418610360300,
+					"id_str": "1395470418610360320",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E12088PWEAATyL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E12088PWEAATyL1.jpg",
+					"url": "https://t.co/XPn0aYobhU",
+					"display_url": "pic.twitter.com/XPn0aYobhU",
+					"expanded_url": "https://twitter.com/HeavyKnitting/status/1395470422653734915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1909,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115511832398184400,
+			"id_str": "1115511832398184449",
+			"name": "Heavy Metal Knitting",
+			"screen_name": "HeavyKnitting",
+			"location": "Joensuu, Suomi",
+			"description": "Heavy Metal Knitting World Championships in July 2021. Application period is open NOW! Keep on knitting, you metalhead! 🧶",
+			"url": "https://t.co/x5bhUUTFo7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x5bhUUTFo7",
+							"expanded_url": "https://heavymetalknitting.com",
+							"display_url": "heavymetalknitting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 714,
+			"friends_count": 43,
+			"listed_count": 9,
+			"created_at": "Tue Apr 09 07:08:40 +0000 2019",
+			"favourites_count": 275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115513526590824448/5sMa8T7V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115513526590824448/5sMa8T7V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115511832398184449/1620165450",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The search for the 2021 World Champion is ongoing! 🔥 Will it be you? Turn yourself in by sending us your application until 13th June!  🧶🤘🏼 \n\nFor competition songs and more information visit our website and fulfill your destiny!! 💥\n\nSTAAAAART KNITTING! \n\n#heavymetalknitting https://t.co/XPn0aYobhU"
+	},
+	{
+		"created_at": "Thu May 20 19:49:01 +0000 2021",
+		"id": 1395031449657561000,
+		"id_str": "1395466610572357633",
+		"full_text": "If you're a convention organizer, or involved in programming, or even if you just enjoy attending conventions and can use your voice, read this essay by my friend @SGJ72. Really good stuff, and that reservation analogy hits hard (as it should). https://t.co/PunE2KQcXw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SGJ72",
+					"name": "Stephen Graham Jones",
+					"id": 214950903,
+					"id_str": "214950903",
+					"indices": [
+						163,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PunE2KQcXw",
+					"expanded_url": "https://www.tor.com/2021/05/19/open-letter-to-cons-from-the-indians-no-longer-in-the-background-of-a-john-wayne-movie/",
+					"display_url": "tor.com/2021/05/19/ope…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15204836,
+			"id_str": "15204836",
+			"name": "BrianKeene",
+			"screen_name": "BrianKeene",
+			"location": "",
+			"description": "Best-selling award winning author, comic book writer, film producer, and podcaster. Also a Board member of the @ScaresThatCare charity.",
+			"url": "https://t.co/Sf8t0BlGYP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Sf8t0BlGYP",
+							"expanded_url": "http://www.briankeene.com",
+							"display_url": "briankeene.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18146,
+			"friends_count": 1062,
+			"listed_count": 654,
+			"created_at": "Mon Jun 23 07:46:47 +0000 2008",
+			"favourites_count": 40334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 88177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F030F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/850152423200927745/v8L12nca_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/850152423200927745/v8L12nca_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15204836/1438638982",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're a convention organizer, or involved in programming, or even if you just enjoy attending conventions and can use your voice, read this essay by my friend @SGJ72. Really good stuff, and that reservation analogy hits hard (as it should). https://t.co/PunE2KQcXw"
+	},
+	{
+		"created_at": "Thu May 20 19:45:38 +0000 2021",
+		"id": 1395292957851390000,
+		"id_str": "1395465758763745281",
+		"full_text": "Has the expansion of the city of Sydney encroaching on the habitat of the long-nosed bandicoot changed them genetically? Our scientists at AMRI reveal what's happening: https://t.co/DMVr4fYjyy #conservation #genomics #bandicoots @AustmusResearch",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "conservation",
+					"indices": [
+						193,
+						206
+					]
+				},
+				{
+					"text": "genomics",
+					"indices": [
+						207,
+						216
+					]
+				},
+				{
+					"text": "bandicoots",
+					"indices": [
+						217,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AustmusResearch",
+					"name": "AMRI",
+					"id": 1700471420,
+					"id_str": "1700471420",
+					"indices": [
+						229,
+						245
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DMVr4fYjyy",
+					"expanded_url": "https://bit.ly/3vVLLQf",
+					"display_url": "bit.ly/3vVLLQf",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20570871,
+			"id_str": "20570871",
+			"name": "Australian Museum",
+			"screen_name": "austmus",
+			"location": "Sydney",
+			"description": "Australia's first museum, showcasing an outstanding natural history and cultural collection. A New South Wales Government funded cultural institution.",
+			"url": "https://t.co/Ighbj7S0qS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ighbj7S0qS",
+							"expanded_url": "http://australian.museum",
+							"display_url": "australian.museum",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23929,
+			"friends_count": 2598,
+			"listed_count": 0,
+			"created_at": "Wed Feb 11 04:23:20 +0000 2009",
+			"favourites_count": 11032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368698830485475329/G-a6Mv9J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368698830485475329/G-a6Mv9J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20570871/1620608953",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Has the expansion of the city of Sydney encroaching on the habitat of the long-nosed bandicoot changed them genetically? Our scientists at AMRI reveal what's happening: https://t.co/DMVr4fYjyy #conservation #genomics #bandicoots @AustmusResearch"
+	},
+	{
+		"created_at": "Thu May 20 19:31:18 +0000 2021",
+		"id": 1395462153818099700,
+		"id_str": "1395462153818099717",
+		"full_text": "Scientists discover 'remnants of ancient rainforests' in path of Coffs Harbour bypass development https://t.co/hmj8OOViCj via @abcnews",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hmj8OOViCj",
+					"expanded_url": "https://www.abc.net.au/news/2021-05-21/rare-plant-species-found-near-highway-coffs-harbour-nsw/100149038?utm_campaign=news-article-share-control&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web",
+					"display_url": "abc.net.au/news/2021-05-2…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 889,
+			"listed_count": 224,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1616529980",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scientists discover 'remnants of ancient rainforests' in path of Coffs Harbour bypass development https://t.co/hmj8OOViCj via @abcnews"
+	},
+	{
 		"created_at": "Mon May 17 08:40:15 +0000 2021",
 		"id": 1394022322730852400,
 		"id_str": "1394211147042025473",
@@ -226,7 +785,7 @@ Grailbird.data.tweets_2021_05 =
 		"user": {
 			"id": 1887887593,
 			"id_str": "1887887593",
-			"name": "Professor Lloyd Llewellyn-Jones ‎لويد لولين جونز",
+			"name": "Professor Lloyd Llewellyn-Jones لويد لولين جونز",
 			"screen_name": "LloydLlewJ",
 			"location": "Taffs Well, Rhondda Cynnon Taf",
 			"description": "#Historian #Author #Cymro #Welsh #Persia #Iran #Gay #Costume #Antiquity #Bible #Christian #Culture #MyViews Agent: @albioneye agauntlett@pfd.co.uk",
