@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 26 01:59:13 +0000 2021",
+		"id": 1395620767694418000,
+		"id_str": "1397371716804829187",
+		"full_text": "Join us and @aliangac for the next #auslibchat https://t.co/GGbBSsAOTT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auslibchat",
+					"indices": [
+						35,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aliangac",
+					"name": "ALIA NGAC",
+					"id": 304710508,
+					"id_str": "304710508",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GGbBSsAOTT",
+					"expanded_url": "https://twitter.com/ALIANewGrads/status/1395610235537031169",
+					"display_url": "twitter.com/ALIANewGrads/s…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1128109431697231900,
+			"id_str": "1128109431697231872",
+			"name": "ALIA Graphic Novels and Comics",
+			"screen_name": "ALIAGraphic",
+			"location": "Australia",
+			"description": "Promoting and advocating for comics and graphic novels at libraries and schools. #ALIAGraphic #LoveOzComix #LibComix #EduComix",
+			"url": "https://t.co/UIT3rV0nEV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UIT3rV0nEV",
+							"expanded_url": "https://aliagraphic.blogspot.com",
+							"display_url": "aliagraphic.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 657,
+			"friends_count": 398,
+			"listed_count": 11,
+			"created_at": "Tue May 14 01:27:02 +0000 2019",
+			"favourites_count": 1273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233651343438401537/zVokG-8d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233651343438401537/zVokG-8d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1128109431697231872/1557799957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1395610235537031200,
+		"quoted_status_id_str": "1395610235537031169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GGbBSsAOTT",
+			"expanded": "https://twitter.com/ALIANewGrads/status/1395610235537031169",
+			"display": "twitter.com/ALIANewGrads/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 21 05:19:43 +0000 2021",
+			"id": 1395610235537031200,
+			"id_str": "1395610235537031169",
+			"full_text": "Next month @aliangac are joining @ALIAGraphic for #AusLibChat 😀 Explore the link below to discover the times to join the chat and read the ALIA Graphic Presents: Get the Full Picture questions.  \n\nMore info 👇\nhttps://t.co/FNSke1ozmZ https://t.co/wXkjdlxz50",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				232
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AusLibChat",
+						"indices": [
+							50,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aliangac",
+						"name": "ALIA NGAC",
+						"id": 304710508,
+						"id_str": "304710508",
+						"indices": [
+							11,
+							20
+						]
+					},
+					{
+						"screen_name": "ALIAGraphic",
+						"name": "ALIA Graphic Novels and Comics",
+						"id": 1128109431697231900,
+						"id_str": "1128109431697231872",
+						"indices": [
+							33,
+							45
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FNSke1ozmZ",
+						"expanded_url": "https://alianewgrads.wordpress.com/alia-graphic-presents-get-the-full-picture-1-6-2021/",
+						"display_url": "alianewgrads.wordpress.com/alia-graphic-p…",
+						"indices": [
+							209,
+							232
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1395606542762668000,
+						"id_str": "1395606542762668035",
+						"indices": [
+							233,
+							256
+						],
+						"media_url": "http://pbs.twimg.com/media/E14wwaOUcAMxIks.png",
+						"media_url_https": "https://pbs.twimg.com/media/E14wwaOUcAMxIks.png",
+						"url": "https://t.co/wXkjdlxz50",
+						"display_url": "pic.twitter.com/wXkjdlxz50",
+						"expanded_url": "https://twitter.com/ALIANewGrads/status/1395610235537031169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1395606542762668000,
+						"id_str": "1395606542762668035",
+						"indices": [
+							233,
+							256
+						],
+						"media_url": "http://pbs.twimg.com/media/E14wwaOUcAMxIks.png",
+						"media_url_https": "https://pbs.twimg.com/media/E14wwaOUcAMxIks.png",
+						"url": "https://t.co/wXkjdlxz50",
+						"display_url": "pic.twitter.com/wXkjdlxz50",
+						"expanded_url": "https://twitter.com/ALIANewGrads/status/1395610235537031169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 411873818,
+				"id_str": "411873818",
+				"name": "ALIA New Graduates",
+				"screen_name": "ALIANewGrads",
+				"location": "Australia",
+				"description": "ALIA SNGG account. Keep updated on social & PD news from OZ Tweeters: @AndersenNikki @bibliotecash @itsArtistCool @KerenMoskal @AusCollections @threestarnighs",
+				"url": "https://t.co/YP47Fco97u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YP47Fco97u",
+								"expanded_url": "https://www.alia.org.au/groups/alia-new-graduates",
+								"display_url": "alia.org.au/groups/alia-ne…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3004,
+				"friends_count": 605,
+				"listed_count": 112,
+				"created_at": "Mon Nov 14 00:23:57 +0000 2011",
+				"favourites_count": 4359,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9109,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/864115305307492352/_r-5d6iS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/864115305307492352/_r-5d6iS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/411873818/1600076699",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FA0505",
+				"profile_sidebar_fill_color": "FAFAFA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us and @aliangac for the next #auslibchat https://t.co/GGbBSsAOTT"
+	},
+	{
 		"created_at": "Tue May 25 00:47:20 +0000 2021",
 		"id": 1396978186089427000,
 		"id_str": "1396991238302167053",
