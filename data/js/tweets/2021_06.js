@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 07 00:53:31 +0000 2021",
+		"id": 1401690488923623400,
+		"id_str": "1401703834200600576",
+		"full_text": "Hey @slqld! Forget #StateOfOrigin how about a #StateLibraryofOrigin challenge?\n\n❄️Our Antarctic collection\nhttps://t.co/LB3oSS5nv3\nVs\n🐟Your Fishing industry interviews\nhttps://t.co/Sq5n3xHzBW\n\nThe state with the most #Amplify transcriptions by the end of #Game1 wins! #uptheblues https://t.co/BzGom90A7s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StateOfOrigin",
+					"indices": [
+						19,
+						33
+					]
+				},
+				{
+					"text": "StateLibraryofOrigin",
+					"indices": [
+						46,
+						67
+					]
+				},
+				{
+					"text": "Amplify",
+					"indices": [
+						217,
+						225
+					]
+				},
+				{
+					"text": "Game1",
+					"indices": [
+						255,
+						261
+					]
+				},
+				{
+					"text": "uptheblues",
+					"indices": [
+						268,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slqld",
+					"name": "State Library of Qld",
+					"id": 22097835,
+					"id_str": "22097835",
+					"indices": [
+						4,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LB3oSS5nv3",
+					"expanded_url": "http://ow.ly/DiGe50F46fh",
+					"display_url": "ow.ly/DiGe50F46fh",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"url": "https://t.co/Sq5n3xHzBW",
+					"expanded_url": "http://ow.ly/kjJH50F46fi",
+					"display_url": "ow.ly/kjJH50F46fi",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1401690486780436500,
+					"id_str": "1401690486780436485",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/E3POEj2XoAUWeQM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3POEj2XoAUWeQM.jpg",
+					"url": "https://t.co/BzGom90A7s",
+					"display_url": "pic.twitter.com/BzGom90A7s",
+					"expanded_url": "https://twitter.com/statelibrarynsw/status/1401690488923623425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401690486780436500,
+					"id_str": "1401690486780436485",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/E3POEj2XoAUWeQM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3POEj2XoAUWeQM.jpg",
+					"url": "https://t.co/BzGom90A7s",
+					"display_url": "pic.twitter.com/BzGom90A7s",
+					"expanded_url": "https://twitter.com/statelibrarynsw/status/1401690488923623425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121597205,
+			"id_str": "121597205",
+			"name": "State Library of NSW",
+			"screen_name": "statelibrarynsw",
+			"location": "Sydney, Australia",
+			"description": "Collecting, connecting and challenging ideas since 1826. Funded by the NSW Government.",
+			"url": "https://t.co/M4rzAKs3RK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M4rzAKs3RK",
+							"expanded_url": "http://www.sl.nsw.gov.au",
+							"display_url": "sl.nsw.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18370,
+			"friends_count": 1026,
+			"listed_count": 458,
+			"created_at": "Wed Mar 10 00:43:42 +0000 2010",
+			"favourites_count": 7092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937050911/intero_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937050911/intero_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121597205/1504572564",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A6A6A6",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey @slqld! Forget #StateOfOrigin how about a #StateLibraryofOrigin challenge?\n\n❄️Our Antarctic collection\nhttps://t.co/LB3oSS5nv3\nVs\n🐟Your Fishing industry interviews\nhttps://t.co/Sq5n3xHzBW\n\nThe state with the most #Amplify transcriptions by the end of #Game1 wins! #uptheblues https://t.co/BzGom90A7s"
+	},
+	{
 		"created_at": "Sat Jun 05 08:01:24 +0000 2021",
 		"id": 1400876318313652200,
 		"id_str": "1401086739666534406",
