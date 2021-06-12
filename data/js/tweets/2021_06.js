@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 12 06:25:48 +0000 2021",
+		"id": 1403599395312922600,
+		"id_str": "1403599395312922626",
+		"full_text": "looking forward to this (I will not be following live, but appreciate being able to listen later) https://t.co/RB3TFxboyy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RB3TFxboyy",
+					"expanded_url": "https://twitter.com/BL_DigiSchol/status/1403256652460089345",
+					"display_url": "twitter.com/BL_DigiSchol/s…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2520,
+			"friends_count": 891,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1403256652460089300,
+		"quoted_status_id_str": "1403256652460089345",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RB3TFxboyy",
+			"expanded": "https://twitter.com/BL_DigiSchol/status/1403256652460089345",
+			"display": "twitter.com/BL_DigiSchol/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 11 07:43:51 +0000 2021",
+			"id": 1403256652460089300,
+			"id_str": "1403256652460089345",
+			"full_text": "We are a day too late for #FolkloreThursday, but maybe #FolkloreFriday is a thing too! If you love folklore every day, check out @LibraryFolklore's event \"Libraries &amp; Museums &amp; Archives (Oh My!)\" @CherylTipp &amp; @miss_wisdom are on the bill: https://t.co/FEzuuPfem8 #folklorelibrary",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				292
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FolkloreThursday",
+						"indices": [
+							26,
+							43
+						]
+					},
+					{
+						"text": "FolkloreFriday",
+						"indices": [
+							55,
+							70
+						]
+					},
+					{
+						"text": "folklorelibrary",
+						"indices": [
+							276,
+							292
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LibraryFolklore",
+						"name": "The Folklore Library & Archive",
+						"id": 1385712651343470600,
+						"id_str": "1385712651343470599",
+						"indices": [
+							129,
+							145
+						]
+					},
+					{
+						"screen_name": "CherylTipp",
+						"name": "Cheryl Tipp",
+						"id": 360786743,
+						"id_str": "360786743",
+						"indices": [
+							204,
+							215
+						]
+					},
+					{
+						"screen_name": "miss_wisdom",
+						"name": "Stella Wisdom",
+						"id": 24890687,
+						"id_str": "24890687",
+						"indices": [
+							222,
+							234
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FEzuuPfem8",
+						"expanded_url": "https://blogs.bl.uk/digital-scholarship/2021/06/libraries-museums-archives-oh-my.html",
+						"display_url": "blogs.bl.uk/digital-schola…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744814089172455400,
+				"id_str": "744814089172455424",
+				"name": "Digital Scholarship",
+				"screen_name": "BL_DigiSchol",
+				"location": "United Kingdom",
+				"description": "Enabling innovative research with @britishlibrary digital collections. Tweets by @ndalyrose, @miss_wisdom, @mia_out & @BL_AdiKS",
+				"url": "https://t.co/E7eDKDTLxe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/E7eDKDTLxe",
+								"expanded_url": "http://www.bl.uk/subjects/digital-scholarship",
+								"display_url": "bl.uk/subjects/digit…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3620,
+				"friends_count": 1710,
+				"listed_count": 84,
+				"created_at": "Mon Jun 20 08:48:11 +0000 2016",
+				"favourites_count": 843,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1713,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744814089172455424/1466432652",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "looking forward to this (I will not be following live, but appreciate being able to listen later) https://t.co/RB3TFxboyy"
+	},
+	{
 		"created_at": "Mon Jun 07 00:53:31 +0000 2021",
 		"id": 1401690488923623400,
 		"id_str": "1401703834200600576",
