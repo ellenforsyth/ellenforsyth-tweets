@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 13 22:52:19 +0000 2021",
+		"id": 1404010220465148000,
+		"id_str": "1404210050369945600",
+		"full_text": "Myall Creek Memorial draws people from region, state and beyond | Photos https://t.co/5OFSXDT3ts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5OFSXDT3ts",
+					"expanded_url": "https://ift.tt/2RPY8yV",
+					"display_url": "ift.tt/2RPY8yV",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168005031,
+			"id_str": "168005031",
+			"name": "Inverell Times",
+			"screen_name": "inverelltimes",
+			"location": "Inverell",
+			"description": "The Inverell Times is a bi-weekly newspaper and a news website. The newspaper is published on Tuesday and Friday. An e-edition is also published on those days.",
+			"url": "http://t.co/oD50TVy4kr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oD50TVy4kr",
+							"expanded_url": "http://www.inverelltimes.com.au",
+							"display_url": "inverelltimes.com.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1477,
+			"friends_count": 315,
+			"listed_count": 35,
+			"created_at": "Sun Jul 18 03:40:32 +0000 2010",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1205303862/TIMES_LOGO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205303862/TIMES_LOGO_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Myall Creek Memorial draws people from region, state and beyond | Photos https://t.co/5OFSXDT3ts"
+	},
+	{
 		"created_at": "Sat Jun 12 21:34:59 +0000 2021",
 		"id": 1403828200329728000,
 		"id_str": "1403828200329728005",
