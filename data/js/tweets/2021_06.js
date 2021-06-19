@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 18 22:18:49 +0000 2021",
+		"id": 1406013556999422000,
+		"id_str": "1406013556999421953",
+		"full_text": "some very good examples of the importance of oral history recording https://t.co/K81I3O6CwC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K81I3O6CwC",
+					"expanded_url": "https://twitter.com/BL_OralHistory/status/1405811442536812544",
+					"display_url": "twitter.com/BL_OralHistory…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2522,
+			"friends_count": 890,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1405811442536812500,
+		"quoted_status_id_str": "1405811442536812544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K81I3O6CwC",
+			"expanded": "https://twitter.com/BL_OralHistory/status/1405811442536812544",
+			"display": "twitter.com/BL_OralHistory…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 18 08:55:41 +0000 2021",
+			"id": 1405811442536812500,
+			"id_str": "1405811442536812544",
+			"full_text": "'With the use of oral history, learners are able to analyse and dissect the lived experiences of the Windrush Generation, perspectives that they may never before have considered.' @BL_Learning \nhttps://t.co/WHxP9Q4N13",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BL_Learning",
+						"name": "British Library Learning",
+						"id": 1181989315,
+						"id_str": "1181989315",
+						"indices": [
+							180,
+							192
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WHxP9Q4N13",
+						"expanded_url": "https://blogs.bl.uk/sound-and-vision/2021/06/windrush-voices.html",
+						"display_url": "blogs.bl.uk/sound-and-visi…",
+						"indices": [
+							194,
+							217
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2827421813,
+				"id_str": "2827421813",
+				"name": "British Library Oral History",
+				"screen_name": "BL_OralHistory",
+				"location": "London",
+				"description": "Posts from British Library oral history department staff & National Life Stories, an oral history fieldwork charity run out of the BL.",
+				"url": "https://t.co/KuQytPEVhU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KuQytPEVhU",
+								"expanded_url": "http://www.bl.uk/subjects/oral-history",
+								"display_url": "bl.uk/subjects/oral-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4570,
+				"friends_count": 765,
+				"listed_count": 74,
+				"created_at": "Mon Oct 13 13:28:53 +0000 2014",
+				"favourites_count": 3963,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4491,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/521654189399609347/BQl7LL2K_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/521654189399609347/BQl7LL2K_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2827421813/1413207133",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some very good examples of the importance of oral history recording https://t.co/K81I3O6CwC"
+	},
+	{
+		"created_at": "Fri Jun 18 22:14:43 +0000 2021",
+		"id": 1402310622071644200,
+		"id_str": "1406012525678718977",
+		"full_text": "Library of Congress Acquires Audio Diaries from Healthcare Workers during COVID-19 | Library of Congress https://t.co/gMi8ZkJf77",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gMi8ZkJf77",
+					"expanded_url": "https://www.loc.gov/item/prn-21-028/library-of-congress-acquires-audio-diaries-from-healthcare-workers-during-covid-19/2021-06-08/?loclr=ealn",
+					"display_url": "loc.gov/item/prn-21-02…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3654292827,
+			"id_str": "3654292827",
+			"name": "SoundLearning",
+			"screen_name": "SoundLearningAP",
+			"location": "",
+			"description": "A literacy initiative of the Audio Publishers Association",
+			"url": "http://t.co/g31XmMToEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g31XmMToEo",
+							"expanded_url": "http://soundlearningapa.org",
+							"display_url": "soundlearningapa.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 492,
+			"friends_count": 584,
+			"listed_count": 32,
+			"created_at": "Mon Sep 14 15:34:35 +0000 2015",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/643908180506841089/WgOIoijM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/643908180506841089/WgOIoijM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3654292827/1442354698",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Library of Congress Acquires Audio Diaries from Healthcare Workers during COVID-19 | Library of Congress https://t.co/gMi8ZkJf77"
+	},
+	{
 		"created_at": "Tue Jun 15 22:39:01 +0000 2021",
 		"id": 1404931478736105500,
 		"id_str": "1404931478736105472",
