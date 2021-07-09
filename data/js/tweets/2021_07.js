@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 21:50:13 +0000 2021",
+		"id": 1412999944001052700,
+		"id_str": "1413254117712031746",
+		"full_text": "Last year’s lockdown yielded an unexpected benefit for Aboriginal children and their Kinship carers: reciprocal care and companionship.\n\nYet there were also lessons to be learned for the current #nswlockdown. \n\nLearn more in a new report 👇\n\nhttps://t.co/IAdExhFDje",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nswlockdown",
+					"indices": [
+						195,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IAdExhFDje",
+					"expanded_url": "https://bit.ly/3wz3Svn",
+					"display_url": "bit.ly/3wz3Svn",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 278782436,
+			"id_str": "278782436",
+			"name": "Sydney Uni Media",
+			"screen_name": "SydneyUni_Media",
+			"location": "Camperdown, Sydney",
+			"description": "Latest news and expert commentary from @Sydney_Uni. RTs ≠ endorsements. CRICOS#: 00026A",
+			"url": "https://t.co/UEEFLOjF69",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UEEFLOjF69",
+							"expanded_url": "http://sydney.edu.au/news-opinion/subscribe.html",
+							"display_url": "sydney.edu.au/news-opinion/s…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9055,
+			"friends_count": 1841,
+			"listed_count": 124,
+			"created_at": "Thu Apr 07 23:49:09 +0000 2011",
+			"favourites_count": 2334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117684941964210176/Weve6uC-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117684941964210176/Weve6uC-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/278782436/1620360991",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last year’s lockdown yielded an unexpected benefit for Aboriginal children and their Kinship carers: reciprocal care and companionship.\n\nYet there were also lessons to be learned for the current #nswlockdown. \n\nLearn more in a new report 👇\n\nhttps://t.co/IAdExhFDje"
+	},
+	{
 		"created_at": "Wed Jul 07 11:28:55 +0000 2021",
 		"id": 1412735376741998600,
 		"id_str": "1412735376741998597",
