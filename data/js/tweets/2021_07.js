@@ -1,6 +1,1056 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 05:33:15 +0000 2021",
+		"id": 1414457809777856500,
+		"id_str": "1414457809777856512",
+		"full_text": "This is lovely https://t.co/yy47hdnAd6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yy47hdnAd6",
+					"expanded_url": "https://twitter.com/antarcticmoss/status/1414443709853171713",
+					"display_url": "twitter.com/antarcticmoss/…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 892,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1414443709853171700,
+		"quoted_status_id_str": "1414443709853171713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yy47hdnAd6",
+			"expanded": "https://twitter.com/antarcticmoss/status/1414443709853171713",
+			"display": "twitter.com/antarcticmoss/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 12 04:37:14 +0000 2021",
+			"id": 1414443709853171700,
+			"id_str": "1414443709853171713",
+			"full_text": "Students' 'CuttleCam' streams congregation of giant cuttlefish https://t.co/f92xZ5kHHS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/f92xZ5kHHS",
+						"expanded_url": "https://www.abc.net.au/news/2021-07-12/cuttlecam-goes-live-off-the-coast-of-whyalla/100286032",
+						"display_url": "abc.net.au/news/2021-07-1…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2812984627,
+				"id_str": "2812984627",
+				"name": "Professor Sharon Robinson, Dharawal Country",
+				"screen_name": "Antarcticmoss",
+				"location": "Dharawal Country, Australia",
+				"description": "Exec Director @UOWGC #Antarctic #ClimateChangeBio @saef_arc Editor@GlobalChangeBio Faculty@HomewardBound16 https://t.co/59Pl5lXEfh Views her own",
+				"url": "https://t.co/gUE9hy11Wk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gUE9hy11Wk",
+								"expanded_url": "https://scholars.uow.edu.au/display/sharon_robinson",
+								"display_url": "scholars.uow.edu.au/display/sharon…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/59Pl5lXEfh",
+								"expanded_url": "https://www.professarobinson.com/",
+								"display_url": "professarobinson.com",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3528,
+				"friends_count": 4963,
+				"listed_count": 195,
+				"created_at": "Tue Sep 16 11:16:18 +0000 2014",
+				"favourites_count": 25185,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49019,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/511841348865912832/BqyizKlI_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/511841348865912832/BqyizKlI_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2812984627/1410867478",
+				"profile_link_color": "94D487",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is lovely https://t.co/yy47hdnAd6"
+	},
+	{
+		"created_at": "Sun Jul 11 22:31:52 +0000 2021",
+		"id": 1414351761700053000,
+		"id_str": "1414351761700052992",
+		"full_text": "a very interesting read even if you don't drink coffee https://t.co/soIm38YkVF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/soIm38YkVF",
+					"expanded_url": "https://twitter.com/longform/status/1413114320590942218",
+					"display_url": "twitter.com/longform/statu…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 892,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413114320590942200,
+		"quoted_status_id_str": "1413114320590942218",
+		"quoted_status_permalink": {
+			"url": "https://t.co/soIm38YkVF",
+			"expanded": "https://twitter.com/longform/status/1413114320590942218",
+			"display": "twitter.com/longform/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 08 12:34:43 +0000 2021",
+			"id": 1413114320590942200,
+			"id_str": "1413114320590942218",
+			"full_text": "\"The invisible addiction: is it time to give up caffeine?\" https://t.co/Xitp1GU8tT  (@michaelpollan) https://t.co/PeFMcrn82u",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "michaelpollan",
+						"name": "Michael Pollan",
+						"id": 24223641,
+						"id_str": "24223641",
+						"indices": [
+							85,
+							99
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Xitp1GU8tT",
+						"expanded_url": "http://long.fm/ZZY3A7M",
+						"display_url": "long.fm/ZZY3A7M",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1413114319731150800,
+						"id_str": "1413114319731150850",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/E5xj_J6X0AIR7kR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5xj_J6X0AIR7kR.jpg",
+						"url": "https://t.co/PeFMcrn82u",
+						"display_url": "pic.twitter.com/PeFMcrn82u",
+						"expanded_url": "https://twitter.com/longform/status/1413114320590942218/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 408,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1413114319731150800,
+						"id_str": "1413114319731150850",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/E5xj_J6X0AIR7kR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5xj_J6X0AIR7kR.jpg",
+						"url": "https://t.co/PeFMcrn82u",
+						"display_url": "pic.twitter.com/PeFMcrn82u",
+						"expanded_url": "https://twitter.com/longform/status/1413114320590942218/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 408,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://longform.org/\" rel=\"nofollow\">Longform.org CMS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 125547081,
+				"id_str": "125547081",
+				"name": "Longform",
+				"screen_name": "longform",
+				"location": "Brooklyn, NY",
+				"description": "The best articles on the web, recommended daily. Conversations with non-fiction writers on @longformpodcast.",
+				"url": "https://t.co/iaVOK2Z5rf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iaVOK2Z5rf",
+								"expanded_url": "http://longform.org",
+								"display_url": "longform.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 220129,
+				"friends_count": 2179,
+				"listed_count": 3875,
+				"created_at": "Tue Mar 23 04:05:12 +0000 2010",
+				"favourites_count": 474,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15186,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/512306726633107456/ekZR-5Zs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/512306726633107456/ekZR-5Zs_normal.png",
+				"profile_link_color": "D61132",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 91,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "a very interesting read even if you don't drink coffee https://t.co/soIm38YkVF"
+	},
+	{
+		"created_at": "Sun Jul 11 22:25:28 +0000 2021",
+		"id": 1414350154371518500,
+		"id_str": "1414350154371518465",
+		"full_text": "interesting research https://t.co/4rU5lj4jl4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4rU5lj4jl4",
+					"expanded_url": "https://twitter.com/CarnegieUKTrust/status/1412699545407045632",
+					"display_url": "twitter.com/CarnegieUKTrus…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 892,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1412699545407045600,
+		"quoted_status_id_str": "1412699545407045632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4rU5lj4jl4",
+			"expanded": "https://twitter.com/CarnegieUKTrust/status/1412699545407045632",
+			"display": "twitter.com/CarnegieUKTrus…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 07 09:06:32 +0000 2021",
+			"id": 1412699545407045600,
+			"id_str": "1412699545407045632",
+			"full_text": "NEW REPORT📣| Creating Space for Kindness highlights the role that public #libraries can play in creating space for #kindness &amp; improving community #wellbeing 👉https://t.co/jkhYBOQY1k\n\n#SpaceForKindness https://t.co/QOYRjlG0W2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "libraries",
+						"indices": [
+							73,
+							83
+						]
+					},
+					{
+						"text": "kindness",
+						"indices": [
+							115,
+							124
+						]
+					},
+					{
+						"text": "wellbeing",
+						"indices": [
+							151,
+							161
+						]
+					},
+					{
+						"text": "SpaceForKindness",
+						"indices": [
+							188,
+							205
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jkhYBOQY1k",
+						"expanded_url": "https://bit.ly/SpaceForKindness",
+						"display_url": "bit.ly/SpaceForKindne…",
+						"indices": [
+							163,
+							186
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1412699264917061600,
+						"id_str": "1412699264917061632",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/E5rqfyPWQAAJeVa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5rqfyPWQAAJeVa.jpg",
+						"url": "https://t.co/QOYRjlG0W2",
+						"display_url": "pic.twitter.com/QOYRjlG0W2",
+						"expanded_url": "https://twitter.com/CarnegieUKTrust/status/1412699545407045632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 516,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 910,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1417,
+								"h": 1075,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1412699264917061600,
+						"id_str": "1412699264917061632",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/E5rqfyPWQAAJeVa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5rqfyPWQAAJeVa.jpg",
+						"url": "https://t.co/QOYRjlG0W2",
+						"display_url": "pic.twitter.com/QOYRjlG0W2",
+						"expanded_url": "https://twitter.com/CarnegieUKTrust/status/1412699545407045632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 516,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 910,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1417,
+								"h": 1075,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 324969914,
+				"id_str": "324969914",
+				"name": "Carnegie UK Trust",
+				"screen_name": "CarnegieUKTrust",
+				"location": "UK",
+				"description": "Tweets from the Carnegie UK Trust. Working to improve the wellbeing of people throughout the UK & Ireland.",
+				"url": "http://t.co/4ism5G8XSu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/4ism5G8XSu",
+								"expanded_url": "http://www.carnegieuktrust.org.uk",
+								"display_url": "carnegieuktrust.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11906,
+				"friends_count": 2667,
+				"listed_count": 270,
+				"created_at": "Mon Jun 27 14:33:47 +0000 2011",
+				"favourites_count": 4529,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18756,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1133758754242084867/vQT4RwHJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133758754242084867/vQT4RwHJ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/324969914/1579186357",
+				"profile_link_color": "452266",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62,
+			"favorite_count": 128,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "interesting research https://t.co/4rU5lj4jl4"
+	},
+	{
+		"created_at": "Sun Jul 11 21:59:05 +0000 2021",
+		"id": 1414313546926760000,
+		"id_str": "1414343512372355080",
+		"full_text": "In July 1983, the federal government successfully argued in the High Court that federal laws were to be sustained in state contexts when they were upholding the UNESCO Convention for the Protection of the World Cultural and Natural Heritage.\n\nMore here: https://t.co/jBMjYZLZuh https://t.co/ZzCKn3sRoM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jBMjYZLZuh",
+					"expanded_url": "http://bit.ly/36iHxHL",
+					"display_url": "bit.ly/36iHxHL",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410434951720226800,
+					"id_str": "1410434951720226822",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/E5LfHaQUUAY25zK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5LfHaQUUAY25zK.jpg",
+					"url": "https://t.co/ZzCKn3sRoM",
+					"display_url": "pic.twitter.com/ZzCKn3sRoM",
+					"expanded_url": "https://twitter.com/nma/status/1414313546926759938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 742,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410434951720226800,
+					"id_str": "1410434951720226822",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/E5LfHaQUUAY25zK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5LfHaQUUAY25zK.jpg",
+					"url": "https://t.co/ZzCKn3sRoM",
+					"display_url": "pic.twitter.com/ZzCKn3sRoM",
+					"expanded_url": "https://twitter.com/nma/status/1414313546926759938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 742,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47875190,
+			"id_str": "47875190",
+			"name": "National Museum of Australia",
+			"screen_name": "nma",
+			"location": "Canberra",
+			"description": "The National Museum brings to life the rich and diverse stories of Australia through compelling objects, ideas and events. #OurNMA",
+			"url": "https://t.co/gW3LqD0jxr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gW3LqD0jxr",
+							"expanded_url": "http://nma.gov.au",
+							"display_url": "nma.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38463,
+			"friends_count": 774,
+			"listed_count": 580,
+			"created_at": "Wed Jun 17 06:10:40 +0000 2009",
+			"favourites_count": 6069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369742385572315136/1WGEcyNv_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369742385572315136/1WGEcyNv_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47875190/1619058703",
+			"profile_link_color": "635A52",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "7DB9F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In July 1983, the federal government successfully argued in the High Court that federal laws were to be sustained in state contexts when they were upholding the UNESCO Convention for the Protection of the World Cultural and Natural Heritage.\n\nMore here: https://t.co/jBMjYZLZuh https://t.co/ZzCKn3sRoM"
+	},
+	{
 		"created_at": "Thu Jul 08 21:50:13 +0000 2021",
 		"id": 1412999944001052700,
 		"id_str": "1413254117712031746",
