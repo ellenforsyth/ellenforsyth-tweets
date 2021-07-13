@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 13 06:18:46 +0000 2021",
+		"id": 1414831651100795000,
+		"id_str": "1414831651100794880",
+		"full_text": "A few thoughts on Pivoting During the Pandemic: Ideas for Serving Your Community Anytime, Anywhere https://t.co/xJXj5W4M74",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xJXj5W4M74",
+					"expanded_url": "https://ift.tt/3B0xkOi",
+					"display_url": "ift.tt/3B0xkOi",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 892,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A few thoughts on Pivoting During the Pandemic: Ideas for Serving Your Community Anytime, Anywhere https://t.co/xJXj5W4M74"
+	},
+	{
+		"created_at": "Tue Jul 13 04:58:26 +0000 2021",
+		"id": 1414513046211473400,
+		"id_str": "1414811436178558976",
+		"full_text": "Highly Recommended: HEALER OF THE WATER MONSTER, written by Brian Young (Navajo); cover by Shonto Begay (Navajo).  https://t.co/Wi9Ku6FHPh #NavajoVoices https://t.co/uXN9Y9ZTg2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NavajoVoices",
+					"indices": [
+						139,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wi9Ku6FHPh",
+					"expanded_url": "https://americanindiansinchildrensliterature.blogspot.com/2021/07/highly-recommended-healer-of-water.html",
+					"display_url": "…ansinchildrensliterature.blogspot.com/2021/07/highly…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414512804686614500,
+					"id_str": "1414512804686614530",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Fb5sWWUAIf93T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Fb5sWWUAIf93T.jpg",
+					"url": "https://t.co/uXN9Y9ZTg2",
+					"display_url": "pic.twitter.com/uXN9Y9ZTg2",
+					"expanded_url": "https://twitter.com/debreese/status/1414513046211473409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1356,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414512804686614500,
+					"id_str": "1414512804686614530",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Fb5sWWUAIf93T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Fb5sWWUAIf93T.jpg",
+					"url": "https://t.co/uXN9Y9ZTg2",
+					"display_url": "pic.twitter.com/uXN9Y9ZTg2",
+					"expanded_url": "https://twitter.com/debreese/status/1414513046211473409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1356,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19234329,
+			"id_str": "19234329",
+			"name": "Debbie Reese (tribally enrolled, Nambé Pueblo)",
+			"screen_name": "debreese",
+			"location": "My homelands: Nambé Pueblo",
+			"description": "Tewa Name: P'oesay P'oekwîn \nFounder: American Indians in Children's Literature\nPhD Education;  ALA's 2019 Arbuthnot Lecturer; she/her.",
+			"url": "https://t.co/NVQ6HsQuy1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NVQ6HsQuy1",
+							"expanded_url": "http://americanindiansinchildrensliterature.net",
+							"display_url": "…ricanindiansinchildrensliterature.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37937,
+			"friends_count": 2211,
+			"listed_count": 695,
+			"created_at": "Tue Jan 20 12:46:28 +0000 2009",
+			"favourites_count": 24765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276171239506280449/oU8cKF5b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276171239506280449/oU8cKF5b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19234329/1397522755",
+			"profile_link_color": "010101",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Highly Recommended: HEALER OF THE WATER MONSTER, written by Brian Young (Navajo); cover by Shonto Begay (Navajo).  https://t.co/Wi9Ku6FHPh #NavajoVoices https://t.co/uXN9Y9ZTg2"
+	},
+	{
 		"created_at": "Mon Jul 12 05:33:15 +0000 2021",
 		"id": 1414457809777856500,
 		"id_str": "1414457809777856512",
