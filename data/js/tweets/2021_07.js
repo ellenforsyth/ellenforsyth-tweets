@@ -1,6 +1,952 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 14 05:42:23 +0000 2021",
+		"id": 1414864355405963300,
+		"id_str": "1415184884000165890",
+		"full_text": "Hey all our NSW newsroom in Western Sydney has created social media videos featuring Sydney community leaders delivering COVID health warnings in Assyrian, Vietnamese, Cantonese &amp; Mandarin. The vids are based on NSW Health messaging: all links here: https://t.co/P2my7qjGbp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P2my7qjGbp",
+					"expanded_url": "https://about.abc.net.au/.../abc-nsw-rolls-out-community.../",
+					"display_url": "about.abc.net.au/.../abc-nsw-ro…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12311062,
+			"id_str": "12311062",
+			"name": "🦄 Flip Prior 🦄",
+			"screen_name": "FlipPrior",
+			"location": "Sydney, Australia",
+			"description": "Journalist/trainer/experimenter at @abcnews via @twitter @walkleys @westaustralian. @ona Women’s Leadership Accelerator alum. Open DMs.",
+			"url": "https://t.co/TYTKjiyiZh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TYTKjiyiZh",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9563,
+			"friends_count": 1394,
+			"listed_count": 246,
+			"created_at": "Wed Jan 16 08:12:18 +0000 2008",
+			"favourites_count": 24060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 39537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412745531365806084/4MrGaS_f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412745531365806084/4MrGaS_f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12311062/1459425172",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey all our NSW newsroom in Western Sydney has created social media videos featuring Sydney community leaders delivering COVID health warnings in Assyrian, Vietnamese, Cantonese &amp; Mandarin. The vids are based on NSW Health messaging: all links here: https://t.co/P2my7qjGbp"
+	},
+	{
+		"created_at": "Wed Jul 14 03:11:16 +0000 2021",
+		"id": 1415146851494359000,
+		"id_str": "1415146851494359043",
+		"full_text": "Just in case you have not seen this impressive map https://t.co/zTEvV4HFDF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zTEvV4HFDF",
+					"expanded_url": "https://twitter.com/IndigenousLF/status/1285760728239165441",
+					"display_url": "twitter.com/IndigenousLF/s…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 892,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1285760728239165400,
+		"quoted_status_id_str": "1285760728239165441",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zTEvV4HFDF",
+			"expanded": "https://twitter.com/IndigenousLF/status/1285760728239165441",
+			"display": "twitter.com/IndigenousLF/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 22 02:17:00 +0000 2020",
+			"id": 1285760728239165400,
+			"id_str": "1285760728239165441",
+			"full_text": "Learn the name of the Indigenous language of the land on which you live! Check out the interactive map First Languages Australia and learn about the amazing history of your area. https://t.co/PttLDvC2KR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PttLDvC2KR",
+						"expanded_url": "https://ab.co/32q1Wd1",
+						"display_url": "ab.co/32q1Wd1",
+						"indices": [
+							179,
+							202
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 332554525,
+				"id_str": "332554525",
+				"name": "Indigenous Literacy Foundation",
+				"screen_name": "IndigenousLF",
+				"location": "Australia",
+				"description": "Our vision is equity of opportunity. We're dedicated to lifting literacy levels in remote communities so all Australian children have the same opportunities.",
+				"url": "https://t.co/jo8fTI7gKr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jo8fTI7gKr",
+								"expanded_url": "http://www.ilf.org.au",
+								"display_url": "ilf.org.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14928,
+				"friends_count": 2790,
+				"listed_count": 207,
+				"created_at": "Sun Jul 10 01:13:02 +0000 2011",
+				"favourites_count": 5987,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11897,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1268039930497753092/wWHPiE6P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268039930497753092/wWHPiE6P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/332554525/1625103313",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just in case you have not seen this impressive map https://t.co/zTEvV4HFDF"
+	},
+	{
+		"created_at": "Tue Jul 13 23:16:30 +0000 2021",
+		"id": 1414777078533136400,
+		"id_str": "1415087771090227201",
+		"full_text": "Otintaai: The Rising Sun and the I-Kiribati climate change warrior https://t.co/MoQolj64Vq via @te_papa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Te_Papa",
+					"name": "Te Papa",
+					"id": 29090322,
+					"id_str": "29090322",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MoQolj64Vq",
+					"expanded_url": "https://blog.tepapa.govt.nz/2021/07/13/otintaai-the-rising-sun-and-the-i-kiribati-climate-change-warrior/",
+					"display_url": "blog.tepapa.govt.nz/2021/07/13/oti…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1124229476483620900,
+			"id_str": "1124229476483620865",
+			"name": "Vunilagi Vou",
+			"screen_name": "VunilagiV",
+			"location": "Ōtara, South Auckland",
+			"description": "Vunilagi Vou is a #SouthAuckland-based gallery, community and consultancy that centralises contemporary Pacific / #MoanaOceania art and audiences. Est. 2019.",
+			"url": "https://t.co/39FNG6lLMK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/39FNG6lLMK",
+							"expanded_url": "https://linktr.ee/VunilagiVou",
+							"display_url": "linktr.ee/VunilagiVou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 664,
+			"friends_count": 590,
+			"listed_count": 3,
+			"created_at": "Fri May 03 08:29:29 +0000 2019",
+			"favourites_count": 1491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124478023938367488/tNZcQ3n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124478023938367488/tNZcQ3n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1124229476483620865/1557651587",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Otintaai: The Rising Sun and the I-Kiribati climate change warrior https://t.co/MoQolj64Vq via @te_papa"
+	},
+	{
+		"created_at": "Tue Jul 13 20:37:32 +0000 2021",
+		"id": 1415019652070129700,
+		"id_str": "1415047764753354757",
+		"full_text": "British Library medieval killer rabbits, marginalia makes everyone happy. https://t.co/hDrtzoNhif",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hDrtzoNhif",
+					"expanded_url": "https://shar.es/aWoBtR",
+					"display_url": "shar.es/aWoBtR",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 977887595110727700,
+			"id_str": "977887595110727681",
+			"name": "Dr. Francesca Bihet",
+			"screen_name": "FrancescaBihet",
+			"location": "",
+			"description": "\"Evening Folklorist\", fairy-enthusiast, Victoriana, Classical Civilisation, Jersey, and history mystery .",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1110,
+			"friends_count": 511,
+			"listed_count": 34,
+			"created_at": "Sun Mar 25 12:39:05 +0000 2018",
+			"favourites_count": 656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283148242151186432/4sYTAJlw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283148242151186432/4sYTAJlw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/977887595110727681/1521982080",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "British Library medieval killer rabbits, marginalia makes everyone happy. https://t.co/hDrtzoNhif"
+	},
+	{
+		"created_at": "Tue Jul 13 11:36:21 +0000 2021",
+		"id": 1414910355856371700,
+		"id_str": "1414911572749606917",
+		"full_text": "When you’re absolutely delighted it’s #CowAppreciationDay but you’re in a sepia-toned photograph so you feel obliged to pose formally. https://t.co/8ypRNf2wjV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CowAppreciationDay",
+					"indices": [
+						38,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414910332179468300,
+					"id_str": "1414910332179468292",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E6LFc1qWUAQVAJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6LFc1qWUAQVAJN.jpg",
+					"url": "https://t.co/8ypRNf2wjV",
+					"display_url": "pic.twitter.com/8ypRNf2wjV",
+					"expanded_url": "https://twitter.com/natlibscot/status/1414910355856371714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 514,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 514,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 514,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414910332179468300,
+					"id_str": "1414910332179468292",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E6LFc1qWUAQVAJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6LFc1qWUAQVAJN.jpg",
+					"url": "https://t.co/8ypRNf2wjV",
+					"display_url": "pic.twitter.com/8ypRNf2wjV",
+					"expanded_url": "https://twitter.com/natlibscot/status/1414910355856371714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 514,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 514,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 514,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75286820,
+			"id_str": "75286820",
+			"name": "National Library of Scotland",
+			"screen_name": "natlibscot",
+			"location": "Edinburgh, Scotland",
+			"description": "Scotland's national library. We hold millions of items, so if you can think of it, we probably have it. Reading rooms open - more info at https://t.co/JQAB0xiktu",
+			"url": "https://t.co/rFWJQ32r32",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rFWJQ32r32",
+							"expanded_url": "http://www.nls.uk",
+							"display_url": "nls.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JQAB0xiktu",
+							"expanded_url": "http://www.nls.uk/reopening",
+							"display_url": "nls.uk/reopening",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 57635,
+			"friends_count": 3581,
+			"listed_count": 1016,
+			"created_at": "Fri Sep 18 14:01:31 +0000 2009",
+			"favourites_count": 63151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 39695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "241A1A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057906231745093632/hCkKsgR5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057906231745093632/hCkKsgR5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75286820/1625836912",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 449,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you’re absolutely delighted it’s #CowAppreciationDay but you’re in a sepia-toned photograph so you feel obliged to pose formally. https://t.co/8ypRNf2wjV"
+	},
+	{
+		"created_at": "Tue Jul 13 09:15:12 +0000 2021",
+		"id": 1413523719972999200,
+		"id_str": "1414876050132135940",
+		"full_text": "2021 International Innovators:\nALA Presidential Citations honor forward-thinking global libraries\n\nhttps://t.co/c1GWX52bBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c1GWX52bBC",
+					"expanded_url": "https://americanlibrariesmagazine.org/2021/07/08/2021-international-innovators/?fbclid=IwAR21ClgKOW6vJQTb54n9BCe0DReZcLyK_7jKsnWBUXpiHkptGHRP_XwIV80",
+					"display_url": "americanlibrariesmagazine.org/2021/07/08/202…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 789292980,
+			"id_str": "789292980",
+			"name": "IFLA CPDWL",
+			"screen_name": "IFLACPDWL",
+			"location": "global",
+			"description": "An award-winning #IFLA section, Continuing Professional Development and Workplace Learning, host of #CPDWLChat & advocate for all #LIS learning.",
+			"url": "https://t.co/bJbCRg3rC2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bJbCRg3rC2",
+							"expanded_url": "https://www.ifla.org/cpdwl",
+							"display_url": "ifla.org/cpdwl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 772,
+			"friends_count": 395,
+			"listed_count": 22,
+			"created_at": "Wed Aug 29 13:02:07 +0000 2012",
+			"favourites_count": 2197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132715451769733120/Id3vrj-X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132715451769733120/Id3vrj-X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/789292980/1601935738",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021 International Innovators:\nALA Presidential Citations honor forward-thinking global libraries\n\nhttps://t.co/c1GWX52bBC"
+	},
+	{
+		"created_at": "Tue Jul 13 09:13:43 +0000 2021",
+		"id": 1414875676604129300,
+		"id_str": "1414875676604129284",
+		"full_text": "@janecowell8 thanks for sharing this series of articles, very helpful to read a case study from one library service",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janecowell8",
+					"name": "Jane Cowell",
+					"id": 717284725,
+					"id_str": "717284725",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1414850430039851000,
+		"in_reply_to_status_id_str": "1414850430039851009",
+		"in_reply_to_user_id": 717284725,
+		"in_reply_to_user_id_str": "717284725",
+		"in_reply_to_screen_name": "janecowell8",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 892,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@janecowell8 thanks for sharing this series of articles, very helpful to read a case study from one library service"
+	},
+	{
 		"created_at": "Tue Jul 13 06:18:46 +0000 2021",
 		"id": 1414831651100795000,
 		"id_str": "1414831651100794880",
