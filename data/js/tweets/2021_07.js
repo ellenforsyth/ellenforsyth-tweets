@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 00:51:46 +0000 2021",
+		"id": 1416128999042998300,
+		"id_str": "1416198910616514567",
+		"full_text": "A rare sighting of a glass octopus reveals its nearly transparent membrane in extraordinary detail https://t.co/27xXQCm6fY https://t.co/V5Wv4esynW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/27xXQCm6fY",
+					"expanded_url": "https://www.thisiscolossal.com/2021/07/glass-octopus/",
+					"display_url": "thisiscolossal.com/2021/07/glass-…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1416128985902293000,
+					"id_str": "1416128985902292999",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/E6cZz0jXIAcTeiu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6cZz0jXIAcTeiu.jpg",
+					"url": "https://t.co/V5Wv4esynW",
+					"display_url": "pic.twitter.com/V5Wv4esynW",
+					"expanded_url": "https://twitter.com/Colossal/status/1416128999042998272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1941,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416128985902293000,
+					"id_str": "1416128985902292999",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/E6cZz0jXIAcTeiu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6cZz0jXIAcTeiu.jpg",
+					"url": "https://t.co/V5Wv4esynW",
+					"display_url": "pic.twitter.com/V5Wv4esynW",
+					"expanded_url": "https://twitter.com/Colossal/status/1416128999042998272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1941,
+							"h": 1092,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 203063180,
+			"id_str": "203063180",
+			"name": "Colossal",
+			"screen_name": "Colossal",
+			"location": "Chicago",
+			"description": "Art, design, photography, and visual culture. #blacklivesmatter",
+			"url": "https://t.co/WMywZPtjpC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WMywZPtjpC",
+							"expanded_url": "http://colossal.art",
+							"display_url": "colossal.art",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153486,
+			"friends_count": 658,
+			"listed_count": 4482,
+			"created_at": "Fri Oct 15 13:06:40 +0000 2010",
+			"favourites_count": 3036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1293526002237411328/X1StNvSV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293526002237411328/X1StNvSV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/203063180/1617805529",
+			"profile_link_color": "E06100",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 78,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A rare sighting of a glass octopus reveals its nearly transparent membrane in extraordinary detail https://t.co/27xXQCm6fY https://t.co/V5Wv4esynW"
+	},
+	{
+		"created_at": "Fri Jul 16 23:07:22 +0000 2021",
+		"id": 1416172635159814100,
+		"id_str": "1416172635159814149",
+		"full_text": "Eagle Watch 2021 https://t.co/lo1xw4Ffr5 via @BirdlifeOz with some background information and the all important #eaglecam happy watching",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eaglecam",
+					"indices": [
+						112,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BirdlifeOz",
+					"name": "BirdLife Australia",
+					"id": 145136771,
+					"id_str": "145136771",
+					"indices": [
+						45,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lo1xw4Ffr5",
+					"expanded_url": "https://www.birdlife.org.au/visit-us/discovery-centre/eagle-cam",
+					"display_url": "birdlife.org.au/visit-us/disco…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 893,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Eagle Watch 2021 https://t.co/lo1xw4Ffr5 via @BirdlifeOz with some background information and the all important #eaglecam happy watching"
+	},
+	{
 		"created_at": "Thu Jul 15 11:09:24 +0000 2021",
 		"id": 1415629566064746500,
 		"id_str": "1415629566064746500",
