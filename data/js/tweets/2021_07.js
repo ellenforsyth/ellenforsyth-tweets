@@ -1,6 +1,622 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 24 06:39:45 +0000 2021",
+		"id": 1418822232164507600,
+		"id_str": "1418823198079074308",
+		"full_text": "“There’s a humanity that clings to the sheets and sometimes you can’t wash that away.” \n\nBegoña M Rueda reflects on her prize-winning account of laundry work during the Covid crisis \n https://t.co/P8f6RRWhjC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P8f6RRWhjC",
+					"expanded_url": "https://www.theguardian.com/books/2021/jul/23/death-and-detergents-spanish-poet-sets-hospital-laundry-work-to-verse",
+					"display_url": "theguardian.com/books/2021/jul…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21760231,
+			"id_str": "21760231",
+			"name": "Scottish Poetry Library",
+			"screen_name": "ByLeavesWeLive",
+			"location": "Edinburgh",
+			"description": "Bringing people and poems together. Open for public visits from 10am to 2pm weekdays. We’re also operating free postal borrowing.",
+			"url": "https://t.co/3dTTDcNzjV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3dTTDcNzjV",
+							"expanded_url": "http://www.scottishpoetrylibrary.org.uk",
+							"display_url": "scottishpoetrylibrary.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44037,
+			"friends_count": 10367,
+			"listed_count": 953,
+			"created_at": "Tue Feb 24 14:57:21 +0000 2009",
+			"favourites_count": 1114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410893236785319939/_M0kigaq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410893236785319939/_M0kigaq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21760231/1446139739",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“There’s a humanity that clings to the sheets and sometimes you can’t wash that away.” \n\nBegoña M Rueda reflects on her prize-winning account of laundry work during the Covid crisis \n https://t.co/P8f6RRWhjC"
+	},
+	{
+		"created_at": "Fri Jul 23 23:34:04 +0000 2021",
+		"id": 1418716073025687600,
+		"id_str": "1418716073025687554",
+		"full_text": "Telling Stories with Library Data\nSee how The Met’s Watson Library uses data visualizations https://t.co/CcfNADk1o4 via @metmuseum interesting",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "metmuseum",
+					"name": "The Metropolitan Museum of Art",
+					"id": 17057271,
+					"id_str": "17057271",
+					"indices": [
+						120,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CcfNADk1o4",
+					"expanded_url": "https://www.metmuseum.org/perspectives/articles/2021/7/library-data-stories",
+					"display_url": "metmuseum.org/perspectives/a…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. Mostly on Gadigal or Gamilaraay country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2526,
+			"friends_count": 893,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Telling Stories with Library Data\nSee how The Met’s Watson Library uses data visualizations https://t.co/CcfNADk1o4 via @metmuseum interesting"
+	},
+	{
+		"created_at": "Fri Jul 23 22:41:46 +0000 2021",
+		"id": 1417873723999260700,
+		"id_str": "1418702907407441921",
+		"full_text": "New In the Field blog post! Contributors @julianabsleal Émilie Labbé &amp; @dwebsterbu share thoughts about the Timor International Solidarity Archive (TISA) project. 👉 Read more https://t.co/UYBZT8PF39 https://t.co/yuAkIOmjeb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "julianabsleal",
+					"name": "Juliana Leal",
+					"id": 1182389829755179000,
+					"id_str": "1182389829755179009",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"screen_name": "dwebsterbu",
+					"name": "David Webster 🌈",
+					"id": 2975475327,
+					"id_str": "2975475327",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UYBZT8PF39",
+					"expanded_url": "https://archivists.ca/Blog/10765490",
+					"display_url": "archivists.ca/Blog/10765490",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417873720790683600,
+					"id_str": "1417873720790683659",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/E61MowgXEAsJv7N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E61MowgXEAsJv7N.jpg",
+					"url": "https://t.co/yuAkIOmjeb",
+					"display_url": "pic.twitter.com/yuAkIOmjeb",
+					"expanded_url": "https://twitter.com/archivistsdotca/status/1417873723999260679/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417873720790683600,
+					"id_str": "1417873720790683659",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/E61MowgXEAsJv7N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E61MowgXEAsJv7N.jpg",
+					"url": "https://t.co/yuAkIOmjeb",
+					"display_url": "pic.twitter.com/yuAkIOmjeb",
+					"expanded_url": "https://twitter.com/archivistsdotca/status/1417873723999260679/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 277048857,
+			"id_str": "277048857",
+			"name": "ACA",
+			"screen_name": "archivistsdotca",
+			"location": "Ottawa, Ontario",
+			"description": "The Association of Canadian Archivists represents archivists across Canada. Our mission is to provide leadership & community.",
+			"url": "https://t.co/46Jrvb9S4H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/46Jrvb9S4H",
+							"expanded_url": "http://archivists.ca",
+							"display_url": "archivists.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3947,
+			"friends_count": 1163,
+			"listed_count": 162,
+			"created_at": "Mon Apr 04 16:03:39 +0000 2011",
+			"favourites_count": 1742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1299737610/ACA_logo-no-tab-no-wrds_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299737610/ACA_logo-no-tab-no-wrds_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/277048857/1424910477",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New In the Field blog post! Contributors @julianabsleal Émilie Labbé &amp; @dwebsterbu share thoughts about the Timor International Solidarity Archive (TISA) project. 👉 Read more https://t.co/UYBZT8PF39 https://t.co/yuAkIOmjeb"
+	},
+	{
+		"created_at": "Fri Jul 23 19:31:35 +0000 2021",
+		"id": 1418647146417504300,
+		"id_str": "1418655049048227843",
+		"full_text": "NEWS: The Library is offering grants to individuals and organizations working to document cultures and traditions of Black, Indigenous, and communities of color traditionally underrepresented in the U.S. Applications due Sept. 7: https://t.co/Yux6tb3FWy https://t.co/7s87dwjrsV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yux6tb3FWy",
+					"expanded_url": "https://www.loc.gov/item/prn-21-039/library-of-congress-offers-grants-to-support-contemporary-cultural-field-research-within-diverse-communities/2021-07-23/?loclr=twloc",
+					"display_url": "loc.gov/item/prn-21-03…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418647143766704000,
+					"id_str": "1418647143766704129",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/E7AMD5nWQAEP_yX.png",
+					"media_url_https": "https://pbs.twimg.com/media/E7AMD5nWQAEP_yX.png",
+					"url": "https://t.co/7s87dwjrsV",
+					"display_url": "pic.twitter.com/7s87dwjrsV",
+					"expanded_url": "https://twitter.com/librarycongress/status/1418647146417504257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 486,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 486,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418647143766704000,
+					"id_str": "1418647143766704129",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/E7AMD5nWQAEP_yX.png",
+					"media_url_https": "https://pbs.twimg.com/media/E7AMD5nWQAEP_yX.png",
+					"url": "https://t.co/7s87dwjrsV",
+					"display_url": "pic.twitter.com/7s87dwjrsV",
+					"expanded_url": "https://twitter.com/librarycongress/status/1418647146417504257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 486,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 486,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7152572,
+			"id_str": "7152572",
+			"name": "Library of Congress",
+			"screen_name": "librarycongress",
+			"location": "Washington, DC",
+			"description": "World’s largest library. Explore collections, services & plan a visit. Follow @LibnOfCongress to meet Carla Hayden, 14th Librarian of Congress.",
+			"url": "http://t.co/Y59Fk0BSEE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Y59Fk0BSEE",
+							"expanded_url": "http://www.loc.gov",
+							"display_url": "loc.gov",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1212951,
+			"friends_count": 12,
+			"listed_count": 14808,
+			"created_at": "Fri Jun 29 14:23:25 +0000 2007",
+			"favourites_count": 5065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031924537070428160/r_nQaWjy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031924537070428160/r_nQaWjy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7152572/1607352545",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "C5E0F1",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "6C6A6A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 44,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEWS: The Library is offering grants to individuals and organizations working to document cultures and traditions of Black, Indigenous, and communities of color traditionally underrepresented in the U.S. Applications due Sept. 7: https://t.co/Yux6tb3FWy https://t.co/7s87dwjrsV"
+	},
+	{
 		"created_at": "Wed Jul 21 10:44:29 +0000 2021",
 		"id": 1417797621393936400,
 		"id_str": "1417797621393936385",
