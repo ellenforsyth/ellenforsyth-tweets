@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 26 23:11:46 +0000 2021",
+		"id": 1418606997252018200,
+		"id_str": "1419797621342838787",
+		"full_text": "Today on the blog: Access the @LibraryJournal State of RA survey data results and sign up for a 8/17 FREE Webinar breaking it down with @NoveListRA: https://t.co/XDic8lC2ae",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LibraryJournal",
+					"name": "Library Journal",
+					"id": 15169290,
+					"id_str": "15169290",
+					"indices": [
+						30,
+						45
+					]
+				},
+				{
+					"screen_name": "NoveListRA",
+					"name": "NoveListRA",
+					"id": 75113821,
+					"id_str": "75113821",
+					"indices": [
+						136,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XDic8lC2ae",
+					"expanded_url": "http://raforall.blogspot.com/2021/07/ra-survey-results-available-and-webinar.html",
+					"display_url": "raforall.blogspot.com/2021/07/ra-sur…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary. She/Her",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4040,
+			"friends_count": 2876,
+			"listed_count": 152,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 31977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1614280328",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today on the blog: Access the @LibraryJournal State of RA survey data results and sign up for a 8/17 FREE Webinar breaking it down with @NoveListRA: https://t.co/XDic8lC2ae"
+	},
+	{
 		"created_at": "Sat Jul 24 11:19:21 +0000 2021",
 		"id": 1418893561400119300,
 		"id_str": "1418893561400119302",
