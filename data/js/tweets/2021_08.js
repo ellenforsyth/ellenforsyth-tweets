@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 00:22:49 +0000 2021",
+		"id": 1422706736041840600,
+		"id_str": "1422714607404154880",
+		"full_text": ".@JessMBWilson launches the #DigitalNation21 Australia report and infographic. Check out website see it for yourself\n\nhttps://t.co/nmUWYEDBNs https://t.co/Vr2kfHS6ta",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalNation21",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JessMBWilson",
+					"name": "Jess Wilson",
+					"id": 3048252565,
+					"id_str": "3048252565",
+					"indices": [
+						1,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nmUWYEDBNs",
+					"expanded_url": "https://www.goodthingsfoundation.org.au/news/digital-nation-australia-2021",
+					"display_url": "goodthingsfoundation.org.au/news/digital-n…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422706515245363200,
+					"id_str": "1422706515245363200",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E754CazVcAAKv8i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E754CazVcAAKv8i.jpg",
+					"url": "https://t.co/Vr2kfHS6ta",
+					"display_url": "pic.twitter.com/Vr2kfHS6ta",
+					"expanded_url": "https://twitter.com/goodthingsaus/status/1422706736041840640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1503,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422706515245363200,
+					"id_str": "1422706515245363200",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E754CazVcAAKv8i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E754CazVcAAKv8i.jpg",
+					"url": "https://t.co/Vr2kfHS6ta",
+					"display_url": "pic.twitter.com/Vr2kfHS6ta",
+					"expanded_url": "https://twitter.com/goodthingsaus/status/1422706736041840640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1503,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 890602338209206300,
+			"id_str": "890602338209206276",
+			"name": "Good Things Foundation Australia",
+			"screen_name": "goodthingsaus",
+			"location": "Australia",
+			"description": "Our vision is a world where everyone benefits from digital. We manage the national #digitalinclusion network #BeConnectedAU and @getonlineweekau campaign.",
+			"url": "https://t.co/6sQH73dtIm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sQH73dtIm",
+							"expanded_url": "https://www.goodthingsfoundation.org.au",
+							"display_url": "goodthingsfoundation.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 891,
+			"friends_count": 670,
+			"listed_count": 16,
+			"created_at": "Thu Jul 27 15:58:38 +0000 2017",
+			"favourites_count": 1510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421968984572760064/Xn14a_8Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421968984572760064/Xn14a_8Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/890602338209206276/1628037154",
+			"profile_link_color": "31C3E3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@JessMBWilson launches the #DigitalNation21 Australia report and infographic. Check out website see it for yourself\n\nhttps://t.co/nmUWYEDBNs https://t.co/Vr2kfHS6ta"
+	},
+	{
 		"created_at": "Tue Aug 03 05:05:53 +0000 2021",
 		"id": 1422411819746877400,
 		"id_str": "1422423452598689799",
