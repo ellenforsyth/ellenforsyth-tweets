@@ -1,6 +1,980 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 06:27:56 +0000 2021",
+		"id": 1423168880524939300,
+		"id_str": "1423168880524939265",
+		"full_text": "This is interesting https://t.co/EE36asHFLp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EE36asHFLp",
+					"expanded_url": "https://twitter.com/guardianeco/status/1423115679633264646",
+					"display_url": "twitter.com/guardianeco/st…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2526,
+			"friends_count": 891,
+			"listed_count": 222,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1423115679633264600,
+		"quoted_status_id_str": "1423115679633264646",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EE36asHFLp",
+			"expanded": "https://twitter.com/guardianeco/status/1423115679633264646",
+			"display": "twitter.com/guardianeco/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 05 02:56:32 +0000 2021",
+			"id": 1423115679633264600,
+			"id_str": "1423115679633264646",
+			"full_text": "Giant bird-eating centipedes exist – and they’re surprisingly important for Australia’s ecosystem https://t.co/l5nSglVWgl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/l5nSglVWgl",
+						"expanded_url": "https://www.theguardian.com/australia-news/2021/aug/05/giant-bird-eating-centipedes-exist-and-theyre-surprisingly-important-for-australias-ecosystem?CMP=twt_a-environment_b-gdneco",
+						"display_url": "theguardian.com/australia-news…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20582958,
+				"id_str": "20582958",
+				"name": "Guardian Environment",
+				"screen_name": "guardianeco",
+				"location": "London, UK",
+				"description": "News and comment on the world's most important environmental stories",
+				"url": "https://t.co/IrYc3fUv80",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IrYc3fUv80",
+								"expanded_url": "https://www.theguardian.com/environment",
+								"display_url": "theguardian.com/environment",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 500461,
+				"friends_count": 7677,
+				"listed_count": 12251,
+				"created_at": "Wed Feb 11 10:47:37 +0000 2009",
+				"favourites_count": 1093,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 69292,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1061914878275977217/tF7xfYAu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061914878275977217/tF7xfYAu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20582958/1542015197",
+				"profile_link_color": "005689",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CAE3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is interesting https://t.co/EE36asHFLp"
+	},
+	{
+		"created_at": "Wed Aug 04 22:57:34 +0000 2021",
+		"id": 1423055289465467000,
+		"id_str": "1423055538938548226",
+		"full_text": "https://t.co/sARbsk3JQU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sARbsk3JQU",
+					"expanded_url": "https://www.theguardian.com/science/2021/aug/05/australian-mathematician-discovers-applied-geometry-engraved-on-3700-year-old-tablet",
+					"display_url": "theguardian.com/science/2021/a…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49508220,
+			"id_str": "49508220",
+			"name": "Erik Champion",
+			"screen_name": "nzerik",
+			"location": "Perth, Australia",
+			"description": "Games! Digital Humanities! Digital Culture! Virtual Heritage! Viz! Emeritus Professor. Hon. Research Fellow, UWA. Hon. Research Prof, ANU. 2 Books out in 2021",
+			"url": "https://t.co/a0LZeWjI6A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a0LZeWjI6A",
+							"expanded_url": "http://erikchampion.wordpress.com/",
+							"display_url": "erikchampion.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1726,
+			"friends_count": 418,
+			"listed_count": 280,
+			"created_at": "Mon Jun 22 02:28:28 +0000 2009",
+			"favourites_count": 16633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1360474590137384965/PgfgapbG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1360474590137384965/PgfgapbG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49508220/1563279140",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/sARbsk3JQU"
+	},
+	{
+		"created_at": "Wed Aug 04 22:22:37 +0000 2021",
+		"id": 1423046746502926300,
+		"id_str": "1423046746502926336",
+		"full_text": "Interesting #citizenscience project identifying owls https://t.co/jjgj1Wx35Y via @ABCscience could be great listening",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "citizenscience",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ABCscience",
+					"name": "ABC Science",
+					"id": 24646005,
+					"id_str": "24646005",
+					"indices": [
+						81,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jjgj1Wx35Y",
+					"expanded_url": "https://hootdetective.net.au/",
+					"display_url": "hootdetective.net.au",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2526,
+			"friends_count": 891,
+			"listed_count": 222,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting #citizenscience project identifying owls https://t.co/jjgj1Wx35Y via @ABCscience could be great listening"
+	},
+	{
+		"created_at": "Wed Aug 04 22:19:43 +0000 2021",
+		"id": 1423046013422477300,
+		"id_str": "1423046013422477312",
+		"full_text": "Carlo Ratti Associati designs MAE Museum dedicated to carbon fibre https://t.co/ZqwwrVKYsF via @dezeen this could be fun",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dezeen",
+					"name": "Dezeen",
+					"id": 26012202,
+					"id_str": "26012202",
+					"indices": [
+						95,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZqwwrVKYsF",
+					"expanded_url": "https://www.dezeen.com/2021/08/03/carlo-ratti-associati-mae-museum-carbon-fibre-architecture-news/",
+					"display_url": "dezeen.com/2021/08/03/car…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2526,
+			"friends_count": 891,
+			"listed_count": 222,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Carlo Ratti Associati designs MAE Museum dedicated to carbon fibre https://t.co/ZqwwrVKYsF via @dezeen this could be fun"
+	},
+	{
+		"created_at": "Wed Aug 04 22:00:09 +0000 2021",
+		"id": 1423041089129181200,
+		"id_str": "1423041089129181188",
+		"full_text": "This looks an amazing conservation challenge https://t.co/crDWo81pMl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/crDWo81pMl",
+					"expanded_url": "https://twitter.com/bodcons/status/1422884212542148617",
+					"display_url": "twitter.com/bodcons/status…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2526,
+			"friends_count": 891,
+			"listed_count": 222,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1422884212542148600,
+		"quoted_status_id_str": "1422884212542148617",
+		"quoted_status_permalink": {
+			"url": "https://t.co/crDWo81pMl",
+			"expanded": "https://twitter.com/bodcons/status/1422884212542148617",
+			"display": "twitter.com/bodcons/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 04 11:36:46 +0000 2021",
+			"id": 1422884212542148600,
+			"id_str": "1422884212542148617",
+			"full_text": "This week we've been asked by our colleagues in the Rare Books to take record photos of a recent acquisition. Any ideas what this #whatisitwednesday could be?\n(Hint, our PPE of choice is an EpiPen) https://t.co/YPMnBAbf0C",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "whatisitwednesday",
+						"indices": [
+							130,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1422884194259251200,
+						"id_str": "1422884194259251200",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/E78ZostXMAAQJTZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E78ZostXMAAQJTZ.jpg",
+						"url": "https://t.co/YPMnBAbf0C",
+						"display_url": "pic.twitter.com/YPMnBAbf0C",
+						"expanded_url": "https://twitter.com/BodCons/status/1422884212542148617/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1422884194259251200,
+						"id_str": "1422884194259251200",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/E78ZostXMAAQJTZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E78ZostXMAAQJTZ.jpg",
+						"url": "https://t.co/YPMnBAbf0C",
+						"display_url": "pic.twitter.com/YPMnBAbf0C",
+						"expanded_url": "https://twitter.com/BodCons/status/1422884212542148617/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 717370367149535200,
+				"id_str": "717370367149535232",
+				"name": "BodleianConservation",
+				"screen_name": "BodCons",
+				"location": "Oxford, England",
+				"description": "Activities from the Conservation & Collection Care team at the Bodleian Libraries, University of Oxford. Caring for our collections since 1602. #BodCons",
+				"url": "https://t.co/iqnIsLtiQH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iqnIsLtiQH",
+								"expanded_url": "http://www.bodleian.ox.ac.uk/our-work/conservation/about-us",
+								"display_url": "bodleian.ox.ac.uk/our-work/conse…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4138,
+				"friends_count": 511,
+				"listed_count": 87,
+				"created_at": "Tue Apr 05 15:16:38 +0000 2016",
+				"favourites_count": 6153,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2739,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/717372063820988416/mCtRUZ4x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/717372063820988416/mCtRUZ4x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/717370367149535232/1459948708",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 57,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This looks an amazing conservation challenge https://t.co/crDWo81pMl"
+	},
+	{
+		"created_at": "Wed Aug 04 10:18:08 +0000 2021",
+		"id": 1422856749992726500,
+		"id_str": "1422864422612062208",
+		"full_text": "'Thousands of mice in the roof': Regional families struggle as mouse plague drags on with no end in sight https://t.co/25FBYcxFbZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/25FBYcxFbZ",
+					"expanded_url": "https://www.abc.net.au/news/2021-08-04/mouse-plague-causing-distress-for-regional-families-nsw/100350518",
+					"display_url": "abc.net.au/news/2021-08-0…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19937197,
+			"id_str": "19937197",
+			"name": "ABC Rural",
+			"screen_name": "ABCRural",
+			"location": "Australia",
+			"description": "ABC Rural: covering Australia's agriculture and mining. This is an official @abcaustralia account",
+			"url": "https://t.co/xrAfv2hYs4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xrAfv2hYs4",
+							"expanded_url": "http://www.abc.net.au/news/rural",
+							"display_url": "abc.net.au/news/rural",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45922,
+			"friends_count": 983,
+			"listed_count": 857,
+			"created_at": "Mon Feb 02 22:14:21 +0000 2009",
+			"favourites_count": 1262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 63217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1362224200346345473/HQcxFw7r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362224200346345473/HQcxFw7r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19937197/1613614059",
+			"profile_link_color": "F14726",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Thousands of mice in the roof': Regional families struggle as mouse plague drags on with no end in sight https://t.co/25FBYcxFbZ"
+	},
+	{
 		"created_at": "Wed Aug 04 00:22:49 +0000 2021",
 		"id": 1422706736041840600,
 		"id_str": "1422714607404154880",
