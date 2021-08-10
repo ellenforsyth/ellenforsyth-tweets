@@ -1,6 +1,699 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 09 11:04:13 +0000 2021",
+		"id": 1424685430558109700,
+		"id_str": "1424687958372749313",
+		"full_text": "New #Japanese design book online!\n\n元禄風流明治振 - a book of kimono pattern designs\n#FullyDigitised and available in #IIIF\n\nIf you zoom in, you can even see the book-within-a-book!\n\nhttps://t.co/0FYPkHKZAB https://t.co/XE2QeuLTdn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Japanese",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "FullyDigitised",
+					"indices": [
+						78,
+						93
+					]
+				},
+				{
+					"text": "IIIF",
+					"indices": [
+						111,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0FYPkHKZAB",
+					"expanded_url": "http://access.bl.uk/item/viewer/ark:/81055/vdc_100122585893.0x000001",
+					"display_url": "access.bl.uk/item/viewer/ar…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424684759142256600,
+					"id_str": "1424684759142256645",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E8V_PXmWUAUix85.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8V_PXmWUAUix85.png",
+					"url": "https://t.co/XE2QeuLTdn",
+					"display_url": "pic.twitter.com/XE2QeuLTdn",
+					"expanded_url": "https://twitter.com/BL_MadeDigital/status/1424685430558109696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 571,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 571,
+							"h": 429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 571,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424684759142256600,
+					"id_str": "1424684759142256645",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E8V_PXmWUAUix85.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8V_PXmWUAUix85.png",
+					"url": "https://t.co/XE2QeuLTdn",
+					"display_url": "pic.twitter.com/XE2QeuLTdn",
+					"expanded_url": "https://twitter.com/BL_MadeDigital/status/1424685430558109696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 571,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 571,
+							"h": 429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 571,
+							"h": 429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1424684989606764500,
+					"id_str": "1424684989606764544",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E8V_cyJXoAAgfHE.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8V_cyJXoAAgfHE.png",
+					"url": "https://t.co/XE2QeuLTdn",
+					"display_url": "pic.twitter.com/XE2QeuLTdn",
+					"expanded_url": "https://twitter.com/BL_MadeDigital/status/1424685430558109696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 407,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 899,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1424685048461201400,
+					"id_str": "1424685048461201409",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E8V_gNZXEAEFBeA.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8V_gNZXEAEFBeA.png",
+					"url": "https://t.co/XE2QeuLTdn",
+					"display_url": "pic.twitter.com/XE2QeuLTdn",
+					"expanded_url": "https://twitter.com/BL_MadeDigital/status/1424685430558109696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 770,
+							"h": 419,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 770,
+							"h": 419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 961143751879155700,
+			"id_str": "961143751879155712",
+			"name": "HeritageMadeDigital",
+			"screen_name": "BL_MadeDigital",
+			"location": "London, England",
+			"description": "The @britishlibrary’s initiative to make its unique & fragile collections freely available online. Highlighting how people use digital collections #OurDigitalBL",
+			"url": "https://t.co/nWn3Lkm9XC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nWn3Lkm9XC",
+							"expanded_url": "https://www.bl.uk/projects/heritage-made-digital",
+							"display_url": "bl.uk/projects/herit…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9109,
+			"friends_count": 1822,
+			"listed_count": 162,
+			"created_at": "Wed Feb 07 07:45:02 +0000 2018",
+			"favourites_count": 8718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346068838597742595/bWKXmGkO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346068838597742595/bWKXmGkO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961143751879155712/1609762796",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New #Japanese design book online!\n\n元禄風流明治振 - a book of kimono pattern designs\n#FullyDigitised and available in #IIIF\n\nIf you zoom in, you can even see the book-within-a-book!\n\nhttps://t.co/0FYPkHKZAB https://t.co/XE2QeuLTdn"
+	},
+	{
+		"created_at": "Mon Aug 09 08:37:00 +0000 2021",
+		"id": 1424619413328830500,
+		"id_str": "1424650911264112644",
+		"full_text": "As  the @IPCC_CH assessment is due out soon,  remember there are 7 big opportunities for #museums to contribute to climate action (thread below)... https://t.co/l51EKwnQTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "museums",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IPCC_CH",
+					"name": "IPCC",
+					"id": 192942213,
+					"id_str": "192942213",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l51EKwnQTo",
+					"expanded_url": "https://twitter.com/Henry_McGhie/status/1403985530740776962",
+					"display_url": "twitter.com/Henry_McGhie/s…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 804441498,
+			"id_str": "804441498",
+			"name": "Henry McGhie 💚🌬️🏦🏞️📗♻️🕊️",
+			"screen_name": "Henry_McGhie",
+			"location": "Blue marble",
+			"description": "Curating Tomorrow supports museums etc. to contribute to sustainable development, our blueprint for a better future for all & with nature.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2326,
+			"friends_count": 142,
+			"listed_count": 44,
+			"created_at": "Wed Sep 05 11:54:15 +0000 2012",
+			"favourites_count": 20818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339648918225907712/kK6UUAIt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339648918225907712/kK6UUAIt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/804441498/1622701195",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1403985530740777000,
+		"quoted_status_id_str": "1403985530740776962",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l51EKwnQTo",
+			"expanded": "https://twitter.com/Henry_McGhie/status/1403985530740776962",
+			"display": "twitter.com/Henry_McGhie/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 13 08:00:09 +0000 2021",
+			"id": 1403985530740777000,
+			"id_str": "1403985530740776962",
+			"full_text": "The 17 Sustainable Development Goals address the biggest challenges facing the world. Everyone in #museums, the cultural sector etc has a part to play. This free guide helps show you how, and why. Now on 16K downloads https://t.co/n2NCtk0w11 https://t.co/7qECdSYl02",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "museums",
+						"indices": [
+							98,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/n2NCtk0w11",
+						"expanded_url": "https://bit.ly/3iz4ldv",
+						"display_url": "bit.ly/3iz4ldv",
+						"indices": [
+							218,
+							241
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1403984325415256000,
+						"id_str": "1403984325415256064",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/E3v0TiqXwAAnz-V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3v0TiqXwAAnz-V.jpg",
+						"url": "https://t.co/7qECdSYl02",
+						"display_url": "pic.twitter.com/7qECdSYl02",
+						"expanded_url": "https://twitter.com/Henry_McGhie/status/1403985530740776962/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1532,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 846,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 479,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1403984325415256000,
+						"id_str": "1403984325415256064",
+						"indices": [
+							242,
+							265
+						],
+						"media_url": "http://pbs.twimg.com/media/E3v0TiqXwAAnz-V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3v0TiqXwAAnz-V.jpg",
+						"url": "https://t.co/7qECdSYl02",
+						"display_url": "pic.twitter.com/7qECdSYl02",
+						"expanded_url": "https://twitter.com/Henry_McGhie/status/1403985530740776962/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1532,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 846,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 479,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 804441498,
+				"id_str": "804441498",
+				"name": "Henry McGhie 💚🌬️🏦🏞️📗♻️🕊️",
+				"screen_name": "Henry_McGhie",
+				"location": "Blue marble",
+				"description": "Curating Tomorrow supports museums etc. to contribute to sustainable development, our blueprint for a better future for all & with nature.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2326,
+				"friends_count": 142,
+				"listed_count": 44,
+				"created_at": "Wed Sep 05 11:54:15 +0000 2012",
+				"favourites_count": 20818,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15054,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1339648918225907712/kK6UUAIt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339648918225907712/kK6UUAIt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/804441498/1622701195",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As  the @IPCC_CH assessment is due out soon,  remember there are 7 big opportunities for #museums to contribute to climate action (thread below)... https://t.co/l51EKwnQTo"
+	},
+	{
+		"created_at": "Mon Aug 09 08:32:33 +0000 2021",
+		"id": 1424647065418682400,
+		"id_str": "1424649790550208513",
+		"full_text": "Got questions about the latest #IPCC report? Check out our explainer: https://t.co/s1Nf32ByXj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IPCC",
+					"indices": [
+						31,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s1Nf32ByXj",
+					"expanded_url": "https://climc.nl/3AnOTq5",
+					"display_url": "climc.nl/3AnOTq5",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1892683062,
+			"id_str": "1892683062",
+			"name": "Climate Council",
+			"screen_name": "climatecouncil",
+			"location": "Australia",
+			"description": "Providing Australians with a reliable source of information on climate science.",
+			"url": "https://t.co/a7RdsEKQW4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a7RdsEKQW4",
+							"expanded_url": "https://www.climatecouncil.org.au/resources/primed-for-action",
+							"display_url": "climatecouncil.org.au/resources/prim…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58574,
+			"friends_count": 17135,
+			"listed_count": 1041,
+			"created_at": "Sun Sep 22 06:29:31 +0000 2013",
+			"favourites_count": 1974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/504862206479970304/rWWL00qW_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/504862206479970304/rWWL00qW_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1892683062/1572313559",
+			"profile_link_color": "EFAB23",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Got questions about the latest #IPCC report? Check out our explainer: https://t.co/s1Nf32ByXj"
+	},
+	{
 		"created_at": "Mon Aug 09 04:09:53 +0000 2021",
 		"id": 1424583690189901800,
 		"id_str": "1424583690189901825",
