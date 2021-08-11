@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 10 11:03:17 +0000 2021",
+		"id": 1425049246181380000,
+		"id_str": "1425050110283554820",
+		"full_text": "The Sydney Film Festival is looking for an archivist.  https://t.co/DBYI1hdcQw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DBYI1hdcQw",
+					"expanded_url": "https://www.sff.org.au/about/our-organisation/jobs/",
+					"display_url": "sff.org.au/about/our-orga…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18129652,
+			"id_str": "18129652",
+			"name": "Tim Sherratt",
+			"screen_name": "wragge",
+			"location": "Canberra, Australia",
+			"description": "Historian and hacker. Associate Professor of Digital Heritage, University of Canberra. He/Him.",
+			"url": "https://t.co/Khu6oJWrGb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Khu6oJWrGb",
+							"expanded_url": "http://timsherratt.org",
+							"display_url": "timsherratt.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7838,
+			"friends_count": 4199,
+			"listed_count": 418,
+			"created_at": "Mon Dec 15 03:39:55 +0000 2008",
+			"favourites_count": 5528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230763554048888832/usvb1CRP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230763554048888832/usvb1CRP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18129652/1611281373",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Sydney Film Festival is looking for an archivist.  https://t.co/DBYI1hdcQw"
+	},
+	{
+		"created_at": "Tue Aug 10 10:13:28 +0000 2021",
+		"id": 1425037573576036400,
+		"id_str": "1425037573576036353",
+		"full_text": "this is a great series with much inspiration for local studies collections as well (it really is enjoyable watching) https://t.co/i6ywC6PGWg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i6ywC6PGWg",
+					"expanded_url": "https://twitter.com/baibi/status/1404298909820669953",
+					"display_url": "twitter.com/baibi/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 894,
+			"listed_count": 222,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1404298909820670000,
+		"quoted_status_id_str": "1404298909820669953",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i6ywC6PGWg",
+			"expanded": "https://twitter.com/baibi/status/1404298909820669953",
+			"display": "twitter.com/baibi/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 14 04:45:25 +0000 2021",
+			"id": 1404298909820670000,
+			"id_str": "1404298909820669953",
+			"full_text": "‘New ABC show Chopsticks or Fork? reveals the stories of migrants who helped create Aussie Chinese favourites like honey chicken’ (featuring Kuo Mei-fen @KuehBihun) https://t.co/Ek1QtLV7Tb #chinozhist",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "chinozhist",
+						"indices": [
+							189,
+							200
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KuehBihun",
+						"name": "Mei-fen Kuo 郭美芬",
+						"id": 756331229050392600,
+						"id_str": "756331229050392579",
+						"indices": [
+							153,
+							163
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ek1QtLV7Tb",
+						"expanded_url": "https://www.abc.net.au/news/2021-06-14/chopsticks-or-fork-lemon-chicken-honey-prawn-chinese-restaurant/100208280?utm_campaign=news-article-share-control&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web",
+						"display_url": "abc.net.au/news/2021-06-1…",
+						"indices": [
+							165,
+							188
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23577749,
+				"id_str": "23577749",
+				"name": "Kate Bagnall 白碧",
+				"screen_name": "baibi",
+				"location": "Hobart, Tasmania",
+				"description": "Chinese Australasian history. History of the family. Legal histories of migration and citizenship. She/her.",
+				"url": "https://t.co/FMCvU6egSe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FMCvU6egSe",
+								"expanded_url": "http://katebagnall.com",
+								"display_url": "katebagnall.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2629,
+				"friends_count": 1822,
+				"listed_count": 82,
+				"created_at": "Tue Mar 10 10:33:57 +0000 2009",
+				"favourites_count": 15533,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16708,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/989102076666953728/asKxLoMt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/989102076666953728/asKxLoMt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23577749/1458440223",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is a great series with much inspiration for local studies collections as well (it really is enjoyable watching) https://t.co/i6ywC6PGWg"
+	},
+	{
 		"created_at": "Mon Aug 09 11:04:13 +0000 2021",
 		"id": 1424685430558109700,
 		"id_str": "1424687958372749313",
