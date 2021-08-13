@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 19:41:46 +0000 2021",
+		"id": 1425898001826910200,
+		"id_str": "1425905369813946370",
+		"full_text": "Mental health during lockdowns 'depends on where you live' and better-designed homes could help, study says https://t.co/AV9agfXeFQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AV9agfXeFQ",
+					"expanded_url": "https://www.abc.net.au/news/2021-08-13/covid-lockdown-mental-health-and-anxiety-depends-on-housing/100369398",
+					"display_url": "abc.net.au/news/2021-08-1…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates (mostly automated) from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1812312,
+			"friends_count": 1192,
+			"listed_count": 12927,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 328746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1624321744",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mental health during lockdowns 'depends on where you live' and better-designed homes could help, study says https://t.co/AV9agfXeFQ"
+	},
+	{
+		"created_at": "Thu Aug 12 10:51:03 +0000 2021",
+		"id": 1425767476348870700,
+		"id_str": "1425771808184147975",
+		"full_text": "Here we go - Lorena got the vaccination rate figures for Indigenous people in far western NSW and it's at least *14 percentage points less* than the overall rate for that area https://t.co/MCLVQu5qgQ https://t.co/pm1g1AKS9w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MCLVQu5qgQ",
+					"expanded_url": "https://www.theguardian.com/australia-news/2021/aug/12/anger-as-slow-vaccine-rollout-leaves-western-nsw-aboriginal-communities-exposed-to-covid",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425766987657990100,
+					"id_str": "1425766987657990144",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lXhW_VUAAr_XO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lXhW_VUAAr_XO.jpg",
+					"url": "https://t.co/pm1g1AKS9w",
+					"display_url": "pic.twitter.com/pm1g1AKS9w",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1425767476348870658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1290,
+							"h": 886,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 824,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425766987657990100,
+					"id_str": "1425766987657990144",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lXhW_VUAAr_XO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lXhW_VUAAr_XO.jpg",
+					"url": "https://t.co/pm1g1AKS9w",
+					"display_url": "pic.twitter.com/pm1g1AKS9w",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1425767476348870658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1290,
+							"h": 886,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 824,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48176841,
+			"id_str": "48176841",
+			"name": "Nick Evershed",
+			"screen_name": "NickEvershed",
+			"location": "Australia",
+			"description": "Data and interactives at @GuardianAus. ALDI dad. Occasional investigations. Used to be a scientist. DMs open, or secure contact in bio.",
+			"url": "https://t.co/b4kNBtMHmO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b4kNBtMHmO",
+							"expanded_url": "http://www.theguardian.com/profile/nick-evershed",
+							"display_url": "theguardian.com/profile/nick-e…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11931,
+			"friends_count": 4019,
+			"listed_count": 411,
+			"created_at": "Thu Jun 18 00:22:56 +0000 2009",
+			"favourites_count": 11000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232466138476339201/wlz3JKyL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232466138476339201/wlz3JKyL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48176841/1550016882",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here we go - Lorena got the vaccination rate figures for Indigenous people in far western NSW and it's at least *14 percentage points less* than the overall rate for that area https://t.co/MCLVQu5qgQ https://t.co/pm1g1AKS9w"
+	},
+	{
 		"created_at": "Tue Aug 10 11:03:17 +0000 2021",
 		"id": 1425049246181380000,
 		"id_str": "1425050110283554820",
