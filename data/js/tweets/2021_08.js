@@ -1,10 +1,467 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 21:13:06 +0000 2021",
+		"id": 1427740290404675600,
+		"id_str": "1427740290404675587",
+		"full_text": "Snøhetta adds reflective underground extension to Ordrupgaard Museum https://t.co/Lqv3fWAELJ via @dezeen an interesting look",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dezeen",
+					"name": "Dezeen",
+					"id": 26012202,
+					"id_str": "26012202",
+					"indices": [
+						97,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Lqv3fWAELJ",
+					"expanded_url": "https://www.dezeen.com/2021/08/17/snohetta-glittering-extension-ordrupgaard-museum-denmark-architecture/",
+					"display_url": "dezeen.com/2021/08/17/sno…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 895,
+			"listed_count": 222,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Snøhetta adds reflective underground extension to Ordrupgaard Museum https://t.co/Lqv3fWAELJ via @dezeen an interesting look"
+	},
+	{
+		"created_at": "Tue Aug 17 21:11:57 +0000 2021",
+		"id": 1427740002235031600,
+		"id_str": "1427740002235031554",
+		"full_text": "Minecraft library provides gamers with \"a safe haven for press freedom\" https://t.co/1DHZWmASNE via @dezeen an interesting approach",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dezeen",
+					"name": "Dezeen",
+					"id": 26012202,
+					"id_str": "26012202",
+					"indices": [
+						100,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1DHZWmASNE",
+					"expanded_url": "https://www.dezeen.com/2021/08/17/uncensored-library-reporters-without-borders-minecraft-censored-books/",
+					"display_url": "dezeen.com/2021/08/17/unc…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 895,
+			"listed_count": 222,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Minecraft library provides gamers with \"a safe haven for press freedom\" https://t.co/1DHZWmASNE via @dezeen an interesting approach"
+	},
+	{
+		"created_at": "Tue Aug 17 12:04:11 +0000 2021",
+		"id": 1427454008231223300,
+		"id_str": "1427602152181047297",
+		"full_text": "Western Sydney is absolutely smashing it with the vaccination rate in the last fortnight surging up to 13 % points in some areas - check out new map and table of vax increase here  https://t.co/TLPBqJeDkY https://t.co/amq6wmDUFQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TLPBqJeDkY",
+					"expanded_url": "https://www.theguardian.com/news/datablog/ng-interactive/2021/aug/17/which-parts-australia-have-highest-vaccination-rates-by-state-nsw-sydney-victoria-melbourne-lga-suburb-check-your-area-vaccine-number-coverage-percentage-percent-population-look-up-interactive-map",
+					"display_url": "theguardian.com/news/datablog/…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427453115289149400,
+					"id_str": "1427453115289149465",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/E89VC55VoBkTY1L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89VC55VoBkTY1L.jpg",
+					"url": "https://t.co/amq6wmDUFQ",
+					"display_url": "pic.twitter.com/amq6wmDUFQ",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1427454008231223296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 922,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1668,
+							"h": 1282,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427453115289149400,
+					"id_str": "1427453115289149465",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/E89VC55VoBkTY1L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89VC55VoBkTY1L.jpg",
+					"url": "https://t.co/amq6wmDUFQ",
+					"display_url": "pic.twitter.com/amq6wmDUFQ",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1427454008231223296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 922,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1668,
+							"h": 1282,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427453141432213500,
+					"id_str": "1427453141432213504",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/E89VEbSVIAATSai.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89VEbSVIAATSai.jpg",
+					"url": "https://t.co/amq6wmDUFQ",
+					"display_url": "pic.twitter.com/amq6wmDUFQ",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1427454008231223296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1099,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 623,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48176841,
+			"id_str": "48176841",
+			"name": "Nick Evershed",
+			"screen_name": "NickEvershed",
+			"location": "Australia",
+			"description": "Data and interactives at @GuardianAus. ALDI dad. Occasional investigations. Used to be a scientist. DMs open, or secure contact in bio.",
+			"url": "https://t.co/b4kNBtMHmO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b4kNBtMHmO",
+							"expanded_url": "http://www.theguardian.com/profile/nick-evershed",
+							"display_url": "theguardian.com/profile/nick-e…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12068,
+			"friends_count": 4020,
+			"listed_count": 416,
+			"created_at": "Thu Jun 18 00:22:56 +0000 2009",
+			"favourites_count": 11038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232466138476339201/wlz3JKyL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232466138476339201/wlz3JKyL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48176841/1550016882",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Western Sydney is absolutely smashing it with the vaccination rate in the last fortnight surging up to 13 % points in some areas - check out new map and table of vax increase here  https://t.co/TLPBqJeDkY https://t.co/amq6wmDUFQ"
+	},
+	{
 		"created_at": "Mon Aug 16 10:51:08 +0000 2021",
 		"id": 1427221382266376200,
 		"id_str": "1427221382266376192",
-		"full_text": "Forgetful, confused and a bit cranky? Here are some scientifically proven ways to lift your lockdown mood via ⁦@GuardianAus⁩  (you may be doing them already) https://t.co/58IMUc83te",
+		"full_text": "Forgetful, confused and a bit cranky? Here are some scientifically proven ways to lift your lockdown mood via @GuardianAus  (you may be doing them already) https://t.co/58IMUc83te",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +573,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Forgetful, confused and a bit cranky? Here are some scientifically proven ways to lift your lockdown mood via ⁦@GuardianAus⁩  (you may be doing them already) https://t.co/58IMUc83te"
+		"text": "Forgetful, confused and a bit cranky? Here are some scientifically proven ways to lift your lockdown mood via @GuardianAus  (you may be doing them already) https://t.co/58IMUc83te"
 	},
 	{
 		"created_at": "Sat Aug 14 07:26:05 +0000 2021",
