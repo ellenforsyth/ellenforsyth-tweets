@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 03:51:48 +0000 2021",
+		"id": 1428510857068171300,
+		"id_str": "1428565405744828416",
+		"full_text": "Waimakariri Libraries have earned a top spot in the first NPSIG International Music Competition after composing an original song and music video about how much they love their library. “Down at Your Library”, was awarded fourth place! 🔊 LISTEN HERE: https://t.co/FUFKMYWcNq https://t.co/D3TEu2UBeg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FUFKMYWcNq",
+					"expanded_url": "http://ow.ly/7ZqW50FTQF5",
+					"display_url": "ow.ly/7ZqW50FTQF5",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428510855193317400,
+					"id_str": "1428510855193317388",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E9MXDeGWUAwK5LY.png",
+					"media_url_https": "https://pbs.twimg.com/media/E9MXDeGWUAwK5LY.png",
+					"url": "https://t.co/D3TEu2UBeg",
+					"display_url": "pic.twitter.com/D3TEu2UBeg",
+					"expanded_url": "https://twitter.com/lianzaoffice/status/1428510857068171265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 321,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 321,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 321,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428510855193317400,
+					"id_str": "1428510855193317388",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E9MXDeGWUAwK5LY.png",
+					"media_url_https": "https://pbs.twimg.com/media/E9MXDeGWUAwK5LY.png",
+					"url": "https://t.co/D3TEu2UBeg",
+					"display_url": "pic.twitter.com/D3TEu2UBeg",
+					"expanded_url": "https://twitter.com/lianzaoffice/status/1428510857068171265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 321,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 321,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 321,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117247211,
+			"id_str": "117247211",
+			"name": "LIANZA (Library & Information Assn NZ Aotearoa)",
+			"screen_name": "lianzaoffice",
+			"location": "Wellington, NZ",
+			"description": "Strengthening our members to be innovative & \nresponsive to future information needs.",
+			"url": "https://t.co/r3OcMci7Kb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3OcMci7Kb",
+							"expanded_url": "http://www.lianza.org.nz",
+							"display_url": "lianza.org.nz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3667,
+			"friends_count": 2789,
+			"listed_count": 167,
+			"created_at": "Thu Feb 25 00:49:57 +0000 2010",
+			"favourites_count": 10787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146279164997177344/zPKJk2EM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146279164997177344/zPKJk2EM_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117247211/1595211273",
+			"profile_link_color": "2E8992",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Waimakariri Libraries have earned a top spot in the first NPSIG International Music Competition after composing an original song and music video about how much they love their library. “Down at Your Library”, was awarded fourth place! 🔊 LISTEN HERE: https://t.co/FUFKMYWcNq https://t.co/D3TEu2UBeg"
+	},
+	{
+		"created_at": "Thu Aug 19 21:57:16 +0000 2021",
+		"id": 1428476183130165200,
+		"id_str": "1428476183130165249",
+		"full_text": "For libraries in Australia to consider too - the importance of culturally and linguistically diverse staff https://t.co/DP80seZ4Hs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DP80seZ4Hs",
+					"expanded_url": "https://twitter.com/RAforAll/status/1428062061385355269",
+					"display_url": "twitter.com/RAforAll/statu…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2530,
+			"friends_count": 896,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1428062061385355300,
+		"quoted_status_id_str": "1428062061385355269",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DP80seZ4Hs",
+			"expanded": "https://twitter.com/RAforAll/status/1428062061385355269",
+			"display": "twitter.com/RAforAll/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 18 18:31:42 +0000 2021",
+			"id": 1428062061385355300,
+			"id_str": "1428062061385355269",
+			"full_text": "'Must reflect the communities we serve': The critical role that Black librarians play https://t.co/oBJbLeCTDe via @indystar",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "indystar",
+						"name": "IndyStar",
+						"id": 16550142,
+						"id_str": "16550142",
+						"indices": [
+							114,
+							123
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oBJbLeCTDe",
+						"expanded_url": "https://www.indystar.com/story/news/local/indianapolis/2021/08/12/indianapolis-library-black-librarians-play-critical-role-community/8091776002/",
+						"display_url": "indystar.com/story/news/loc…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary. She/Her",
+				"url": "https://t.co/UqsI4i1DEP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UqsI4i1DEP",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4084,
+				"friends_count": 2906,
+				"listed_count": 152,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 32197,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41351,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1614280328",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For libraries in Australia to consider too - the importance of culturally and linguistically diverse staff https://t.co/DP80seZ4Hs"
+	},
+	{
+		"created_at": "Thu Aug 19 19:05:51 +0000 2021",
+		"id": 1427695011781566500,
+		"id_str": "1428433046626205696",
+		"full_text": "A massive crocheted canopy provides shade for a shopping district in Malaga. https://t.co/n7moXnA3JG https://t.co/f0Qq9YEoaf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n7moXnA3JG",
+					"expanded_url": "https://www.thisiscolossal.com/2021/08/crocheted-canopy-malaga/",
+					"display_url": "thisiscolossal.com/2021/08/croche…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427694973902852000,
+					"id_str": "1427694973902852104",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AxA7cXEAgcDDf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AxA7cXEAgcDDf.jpg",
+					"url": "https://t.co/f0Qq9YEoaf",
+					"display_url": "pic.twitter.com/f0Qq9YEoaf",
+					"expanded_url": "https://twitter.com/Colossal/status/1427695011781566476/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1003,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1254,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427694973902852000,
+					"id_str": "1427694973902852104",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AxA7cXEAgcDDf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AxA7cXEAgcDDf.jpg",
+					"url": "https://t.co/f0Qq9YEoaf",
+					"display_url": "pic.twitter.com/f0Qq9YEoaf",
+					"expanded_url": "https://twitter.com/Colossal/status/1427695011781566476/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1003,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1254,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 203063180,
+			"id_str": "203063180",
+			"name": "Colossal",
+			"screen_name": "Colossal",
+			"location": "Chicago",
+			"description": "Art, design, photography, and visual culture. #blacklivesmatter",
+			"url": "https://t.co/WMywZPtjpC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WMywZPtjpC",
+							"expanded_url": "http://colossal.art",
+							"display_url": "colossal.art",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153515,
+			"friends_count": 657,
+			"listed_count": 4486,
+			"created_at": "Fri Oct 15 13:06:40 +0000 2010",
+			"favourites_count": 3040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1293526002237411328/X1StNvSV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293526002237411328/X1StNvSV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/203063180/1627484723",
+			"profile_link_color": "E06100",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 571,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A massive crocheted canopy provides shade for a shopping district in Malaga. https://t.co/n7moXnA3JG https://t.co/f0Qq9YEoaf"
+	},
+	{
 		"created_at": "Wed Aug 18 22:30:23 +0000 2021",
 		"id": 1428121038710210600,
 		"id_str": "1428122129501802496",
