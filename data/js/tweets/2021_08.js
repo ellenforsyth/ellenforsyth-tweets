@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 22 20:30:23 +0000 2021",
+		"id": 1428825509757075500,
+		"id_str": "1429541483070181379",
+		"full_text": "Every city takes pride in developing downtowns, waterfronts, and farmers markets as gathering spaces for everyone. \n\nYet do such projects bring their intended economic, community, and civic benefits?\n\nThere are some worthy lessons in these case studies. https://t.co/XL4WKynW0O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XL4WKynW0O",
+					"expanded_url": "https://www.brookings.edu/essay/beyond-traditional-measures-examining-the-holistic-impacts-of-public-space-investments-in-three-cities/",
+					"display_url": "brookings.edu/essay/beyond-t…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 286337674,
+			"id_str": "286337674",
+			"name": "Amy Liu",
+			"screen_name": "amy_liuw",
+			"location": "Washington, DC",
+			"description": "Vice President @BrookingsInst, Director @BrookingsMetro, and resident of an older suburb",
+			"url": "https://t.co/0mYCPycHJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mYCPycHJp",
+							"expanded_url": "http://www.brookings.edu/experts/liua.aspx",
+							"display_url": "brookings.edu/experts/liua.a…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8259,
+			"friends_count": 1329,
+			"listed_count": 275,
+			"created_at": "Fri Apr 22 20:11:32 +0000 2011",
+			"favourites_count": 2411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307132087581974528/VlrkFYqQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307132087581974528/VlrkFYqQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/286337674/1544456721",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every city takes pride in developing downtowns, waterfronts, and farmers markets as gathering spaces for everyone. \n\nYet do such projects bring their intended economic, community, and civic benefits?\n\nThere are some worthy lessons in these case studies. https://t.co/XL4WKynW0O"
+	},
+	{
 		"created_at": "Sun Aug 22 02:31:23 +0000 2021",
 		"id": 1429269940436091000,
 		"id_str": "1429269940436090880",
