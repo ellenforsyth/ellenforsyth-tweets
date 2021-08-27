@@ -1,6 +1,1156 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 26 11:22:30 +0000 2021",
+		"id": 1430700113656115200,
+		"id_str": "1430853153000284161",
+		"full_text": "Our #BirdingAtHome competition is now in full swing! We're challenging you to get outdoors and conduct a bird survey in your own backyard or local park. 1/7\n📷 Photo credit: Common Bronzewing © Wendy Alexander 2021 https://t.co/NnbkWmK9i0 https://t.co/Yq2sdfWYNr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BirdingAtHome",
+					"indices": [
+						4,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NnbkWmK9i0",
+					"expanded_url": "http://birdlifephotography.org.au",
+					"display_url": "birdlifephotography.org.au",
+					"indices": [
+						214,
+						237
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430698728940216300,
+					"id_str": "1430698728940216321",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E9rc6e8VoAESARQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9rc6e8VoAESARQ.jpg",
+					"url": "https://t.co/Yq2sdfWYNr",
+					"display_url": "pic.twitter.com/Yq2sdfWYNr",
+					"expanded_url": "https://twitter.com/UrbanBirdsOz/status/1430700113656115207/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 590,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1562,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1041,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430698728940216300,
+					"id_str": "1430698728940216321",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E9rc6e8VoAESARQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9rc6e8VoAESARQ.jpg",
+					"url": "https://t.co/Yq2sdfWYNr",
+					"display_url": "pic.twitter.com/Yq2sdfWYNr",
+					"expanded_url": "https://twitter.com/UrbanBirdsOz/status/1430700113656115207/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 590,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1562,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1041,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 927695714116710400,
+			"id_str": "927695714116710406",
+			"name": "Birds in Backyards",
+			"screen_name": "UrbanBirdsOz",
+			"location": "Australia",
+			"description": "BirdLife Australia Insta: @birdsinbackyards Fb: BirdsinBackyards YouTube: https://t.co/8oWRDL7sty BIBY, Powerful Owl, Birds in Schools, Bird Strike",
+			"url": "https://t.co/0Bh5V11eT8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Bh5V11eT8",
+							"expanded_url": "http://linktr.ee/UrbanBirdsOz",
+							"display_url": "linktr.ee/UrbanBirdsOz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8oWRDL7sty",
+							"expanded_url": "http://tiny.cc/kfjqbz",
+							"display_url": "tiny.cc/kfjqbz",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2315,
+			"friends_count": 285,
+			"listed_count": 38,
+			"created_at": "Tue Nov 07 00:34:28 +0000 2017",
+			"favourites_count": 3874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1293681139228405761/7dL7AMEC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293681139228405761/7dL7AMEC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/927695714116710406/1614570138",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our #BirdingAtHome competition is now in full swing! We're challenging you to get outdoors and conduct a bird survey in your own backyard or local park. 1/7\n📷 Photo credit: Common Bronzewing © Wendy Alexander 2021 https://t.co/NnbkWmK9i0 https://t.co/Yq2sdfWYNr"
+	},
+	{
+		"created_at": "Thu Aug 26 11:16:37 +0000 2021",
+		"id": 1430851672805314600,
+		"id_str": "1430851672805314560",
+		"full_text": "How to make the perfect lamingtons – via ⁦@guardian⁩ I will have to try these as I have a different favourite recipe (and it is mentioned in this article).  https://t.co/UnsXWM1TbC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						42,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UnsXWM1TbC",
+					"expanded_url": "https://www.theguardian.com/food/2021/aug/25/how-to-make-the-perfect-lamingtons-recipe?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/food/2021/aug/…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 898,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to make the perfect lamingtons – via ⁦@guardian⁩ I will have to try these as I have a different favourite recipe (and it is mentioned in this article).  https://t.co/UnsXWM1TbC"
+	},
+	{
+		"created_at": "Thu Aug 26 09:28:36 +0000 2021",
+		"id": 1430824488329879600,
+		"id_str": "1430824488329879553",
+		"full_text": "Mulberry farmer pioneers growing techniques to revive ancient fruit's popularity https://t.co/AfZLSjDtn0 mulberries are enjoyable",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AfZLSjDtn0",
+					"expanded_url": "https://www.abc.net.au/news/2021-08-14/mulberry-farmer-revives-ancient-fruits-popularity/100198606?utm_campaign=news-article-share-next-actions-0&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web",
+					"display_url": "abc.net.au/news/2021-08-1…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 898,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mulberry farmer pioneers growing techniques to revive ancient fruit's popularity https://t.co/AfZLSjDtn0 mulberries are enjoyable"
+	},
+	{
+		"created_at": "Thu Aug 26 08:52:53 +0000 2021",
+		"id": 1430815500573941800,
+		"id_str": "1430815500573941760",
+		"full_text": "Take time to watch this short video https://t.co/svwdoGGnFp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/svwdoGGnFp",
+					"expanded_url": "https://twitter.com/abcrural/status/1430704244600967178",
+					"display_url": "twitter.com/abcrural/statu…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 898,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1430704244600967200,
+		"quoted_status_id_str": "1430704244600967178",
+		"quoted_status_permalink": {
+			"url": "https://t.co/svwdoGGnFp",
+			"expanded": "https://twitter.com/abcrural/status/1430704244600967178",
+			"display": "twitter.com/abcrural/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 26 01:30:47 +0000 2021",
+			"id": 1430704244600967200,
+			"id_str": "1430704244600967178",
+			"full_text": "Farmer unable to get to family funeral because of border lockdown pays tribute in the paddock  https://t.co/myaI0QFSvy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/myaI0QFSvy",
+						"expanded_url": "https://www.abc.net.au/news/2021-08-26/sheep-art-tribute-/100405436",
+						"display_url": "abc.net.au/news/2021-08-2…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19937197,
+				"id_str": "19937197",
+				"name": "ABC Rural",
+				"screen_name": "ABCRural",
+				"location": "Australia",
+				"description": "ABC Rural: covering Australia's agriculture and mining. This is an official @abcaustralia account",
+				"url": "https://t.co/xrAfv2hYs4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xrAfv2hYs4",
+								"expanded_url": "http://www.abc.net.au/news/rural",
+								"display_url": "abc.net.au/news/rural",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46091,
+				"friends_count": 987,
+				"listed_count": 870,
+				"created_at": "Mon Feb 02 22:14:21 +0000 2009",
+				"favourites_count": 1328,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 63429,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1362224200346345473/HQcxFw7r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362224200346345473/HQcxFw7r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19937197/1613614059",
+				"profile_link_color": "F14726",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Take time to watch this short video https://t.co/svwdoGGnFp"
+	},
+	{
+		"created_at": "Thu Aug 26 08:52:10 +0000 2021",
+		"id": 1430706363919859700,
+		"id_str": "1430815322559246338",
+		"full_text": "Every dog has its day ... to celebrate 🥳 Show us yours! #dogsoftwitter #InternationalDogDay https://t.co/SMCDllCTeE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dogsoftwitter",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"text": "InternationalDogDay",
+					"indices": [
+						71,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430706294361493500,
+					"id_str": "1430706294361493520",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E9rjy2VVEBAhsxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9rjy2VVEBAhsxM.jpg",
+					"url": "https://t.co/SMCDllCTeE",
+					"display_url": "pic.twitter.com/SMCDllCTeE",
+					"expanded_url": "https://twitter.com/ABCRural/status/1430706363919859712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430706294361493500,
+					"id_str": "1430706294361493520",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E9rjy2VVEBAhsxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9rjy2VVEBAhsxM.jpg",
+					"url": "https://t.co/SMCDllCTeE",
+					"display_url": "pic.twitter.com/SMCDllCTeE",
+					"expanded_url": "https://twitter.com/ABCRural/status/1430706363919859712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19937197,
+			"id_str": "19937197",
+			"name": "ABC Rural",
+			"screen_name": "ABCRural",
+			"location": "Australia",
+			"description": "ABC Rural: covering Australia's agriculture and mining. This is an official @abcaustralia account",
+			"url": "https://t.co/xrAfv2hYs4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xrAfv2hYs4",
+							"expanded_url": "http://www.abc.net.au/news/rural",
+							"display_url": "abc.net.au/news/rural",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46091,
+			"friends_count": 987,
+			"listed_count": 870,
+			"created_at": "Mon Feb 02 22:14:21 +0000 2009",
+			"favourites_count": 1328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 63429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1362224200346345473/HQcxFw7r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362224200346345473/HQcxFw7r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19937197/1613614059",
+			"profile_link_color": "F14726",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every dog has its day ... to celebrate 🥳 Show us yours! #dogsoftwitter #InternationalDogDay https://t.co/SMCDllCTeE"
+	},
+	{
+		"created_at": "Thu Aug 26 08:41:50 +0000 2021",
+		"id": 1430804258891255800,
+		"id_str": "1430812722132701185",
+		"full_text": "For Australia-wide vaccination data - including breakdowns by state and territory, age group, aged and disability care, etc - bookmark our vaccine rollout tracker: https://t.co/zKFHayg6wh @abcnews #COVID19Aus https://t.co/ZaZoEPQFzf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19Aus",
+					"indices": [
+						197,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						188,
+						196
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zKFHayg6wh",
+					"expanded_url": "https://www.abc.net.au/news/2021-03-02/charting-australias-covid-vaccine-rollout/13197518",
+					"display_url": "abc.net.au/news/2021-03-0…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430803404394143700,
+					"id_str": "1430803404394143744",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/E9s8HZZVIAAGTxQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9s8HZZVIAAGTxQ.jpg",
+					"url": "https://t.co/ZaZoEPQFzf",
+					"display_url": "pic.twitter.com/ZaZoEPQFzf",
+					"expanded_url": "https://twitter.com/ingating/status/1430804258891255815/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 632,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 869,
+							"h": 935,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 869,
+							"h": 935,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430803404394143700,
+					"id_str": "1430803404394143744",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/E9s8HZZVIAAGTxQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9s8HZZVIAAGTxQ.jpg",
+					"url": "https://t.co/ZaZoEPQFzf",
+					"display_url": "pic.twitter.com/ZaZoEPQFzf",
+					"expanded_url": "https://twitter.com/ingating/status/1430804258891255815/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 632,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 869,
+							"h": 935,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 869,
+							"h": 935,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430804027277602800,
+					"id_str": "1430804027277602819",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/E9s8rp0UcAMrgJA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9s8rp0UcAMrgJA.jpg",
+					"url": "https://t.co/ZaZoEPQFzf",
+					"display_url": "pic.twitter.com/ZaZoEPQFzf",
+					"expanded_url": "https://twitter.com/ingating/status/1430804258891255815/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 994,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 994,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 437,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430804128658116600,
+					"id_str": "1430804128658116612",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/E9s8xjfUUAQ4v5B.png",
+					"media_url_https": "https://pbs.twimg.com/media/E9s8xjfUUAQ4v5B.png",
+					"url": "https://t.co/ZaZoEPQFzf",
+					"display_url": "pic.twitter.com/ZaZoEPQFzf",
+					"expanded_url": "https://twitter.com/ingating/status/1430804258891255815/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 692,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 692,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1430804231959707600,
+					"id_str": "1430804231959707652",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/E9s83kUVgAQUUV1.png",
+					"media_url_https": "https://pbs.twimg.com/media/E9s83kUVgAQUUV1.png",
+					"url": "https://t.co/ZaZoEPQFzf",
+					"display_url": "pic.twitter.com/ZaZoEPQFzf",
+					"expanded_url": "https://twitter.com/ingating/status/1430804258891255815/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 444,
+							"h": 342,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 444,
+							"h": 342,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 342,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1430796721324318700,
+		"in_reply_to_status_id_str": "1430796721324318723",
+		"in_reply_to_user_id": 190544821,
+		"in_reply_to_user_id_str": "190544821",
+		"in_reply_to_screen_name": "ingating",
+		"user": {
+			"id": 190544821,
+			"id_str": "190544821",
+			"name": "Inga Ting",
+			"screen_name": "ingating",
+			"location": "Sydney, Australia",
+			"description": "Data journalist at @abcnews; previously at @smh. I like to stare at spreadsheets. Profile pic by the brilliant @mkbrangan. DMs open. Email ting.inga@abc.net.au",
+			"url": "https://t.co/lVL1RMGGkE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lVL1RMGGkE",
+							"expanded_url": "https://www.abc.net.au/news/inga-ting/8749946?nw=0&pfm=ms&pfmredir=sm",
+							"display_url": "abc.net.au/news/inga-ting…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3393,
+			"friends_count": 1431,
+			"listed_count": 140,
+			"created_at": "Tue Sep 14 06:09:47 +0000 2010",
+			"favourites_count": 1353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844049737363865602/ReW7KRGS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844049737363865602/ReW7KRGS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/190544821/1490073539",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For Australia-wide vaccination data - including breakdowns by state and territory, age group, aged and disability care, etc - bookmark our vaccine rollout tracker: https://t.co/zKFHayg6wh @abcnews #COVID19Aus https://t.co/ZaZoEPQFzf"
+	},
+	{
 		"created_at": "Wed Aug 25 21:51:25 +0000 2021",
 		"id": 1423534015731044400,
 		"id_str": "1430649039247187968",
