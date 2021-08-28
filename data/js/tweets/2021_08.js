@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 27 23:16:31 +0000 2021",
+		"id": 1431395228842221600,
+		"id_str": "1431395228842221568",
+		"full_text": "great to see these forming part of a local studies collection, shows the importance of collecting information about local music events https://t.co/h3TbrJGFd4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h3TbrJGFd4",
+					"expanded_url": "https://twitter.com/washingtonpost/status/1430050022788411415",
+					"display_url": "twitter.com/washingtonpost…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 899,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1430050022788411400,
+		"quoted_status_id_str": "1430050022788411415",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h3TbrJGFd4",
+			"expanded": "https://twitter.com/washingtonpost/status/1430050022788411415",
+			"display": "twitter.com/washingtonpost…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 24 06:11:09 +0000 2021",
+			"id": 1430050022788411400,
+			"id_str": "1430050022788411415",
+			"full_text": "Perspective: A new collection of photographs helps put go-go music in the picture https://t.co/szJhhQuoxJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/szJhhQuoxJ",
+						"expanded_url": "https://wapo.st/2XKszJf",
+						"display_url": "wapo.st/2XKszJf",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2467791,
+				"id_str": "2467791",
+				"name": "The Washington Post",
+				"screen_name": "washingtonpost",
+				"location": "Washington, DC",
+				"description": "Democracy Dies in Darkness.",
+				"url": "http://t.co/Hq7hTYkOPg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Hq7hTYkOPg",
+								"expanded_url": "http://washingtonpost.com",
+								"display_url": "washingtonpost.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18196223,
+				"friends_count": 1720,
+				"listed_count": 103006,
+				"created_at": "Tue Mar 27 11:19:39 +0000 2007",
+				"favourites_count": 4296,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 400728,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+				"profile_link_color": "0057EC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DBDBDB",
+				"profile_text_color": "323232",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "great to see these forming part of a local studies collection, shows the importance of collecting information about local music events https://t.co/h3TbrJGFd4"
+	},
+	{
 		"created_at": "Thu Aug 26 11:22:30 +0000 2021",
 		"id": 1430700113656115200,
 		"id_str": "1430853153000284161",
@@ -207,7 +427,7 @@ Grailbird.data.tweets_2021_08 =
 		"created_at": "Thu Aug 26 11:16:37 +0000 2021",
 		"id": 1430851672805314600,
 		"id_str": "1430851672805314560",
-		"full_text": "How to make the perfect lamingtons – via ⁦@guardian⁩ I will have to try these as I have a different favourite recipe (and it is mentioned in this article).  https://t.co/UnsXWM1TbC",
+		"full_text": "How to make the perfect lamingtons – via @guardian I will have to try these as I have a different favourite recipe (and it is mentioned in this article).  https://t.co/UnsXWM1TbC",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -319,7 +539,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "How to make the perfect lamingtons – via ⁦@guardian⁩ I will have to try these as I have a different favourite recipe (and it is mentioned in this article).  https://t.co/UnsXWM1TbC"
+		"text": "How to make the perfect lamingtons – via @guardian I will have to try these as I have a different favourite recipe (and it is mentioned in this article).  https://t.co/UnsXWM1TbC"
 	},
 	{
 		"created_at": "Thu Aug 26 09:28:36 +0000 2021",
