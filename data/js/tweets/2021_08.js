@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 30 21:33:55 +0000 2021",
+		"id": 1431103931497730000,
+		"id_str": "1432456574685958151",
+		"full_text": "Daud Salim is the first—and the only—bookseller to return to the storied street. https://t.co/Or1oRbGkcJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Or1oRbGkcJ",
+					"expanded_url": "https://www.atlasobscura.com/articles/mosul-iraq-bookstore?utm_medium=atlas-page&utm_source=twitter",
+					"display_url": "atlasobscura.com/articles/mosul…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57047586,
+			"id_str": "57047586",
+			"name": "Atlas Obscura",
+			"screen_name": "atlasobscura",
+			"location": "Everywhere",
+			"description": "The definitive guide to the world's hidden wonders.",
+			"url": "http://t.co/eRquXCISa8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/eRquXCISa8",
+							"expanded_url": "http://atlasobscura.com",
+							"display_url": "atlasobscura.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 470710,
+			"friends_count": 3326,
+			"listed_count": 5267,
+			"created_at": "Wed Jul 15 15:33:08 +0000 2009",
+			"favourites_count": 19980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 74617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093601394022600704/J6QnZxnP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093601394022600704/J6QnZxnP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57047586/1569941652",
+			"profile_link_color": "CCB48D",
+			"profile_sidebar_border_color": "4F6D85",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daud Salim is the first—and the only—bookseller to return to the storied street. https://t.co/Or1oRbGkcJ"
+	},
+	{
 		"created_at": "Fri Aug 27 23:16:31 +0000 2021",
 		"id": 1431395228842221600,
 		"id_str": "1431395228842221568",
