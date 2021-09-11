@@ -1,6 +1,800 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 23:02:52 +0000 2021",
+		"id": 1436465223183966200,
+		"id_str": "1436465223183966209",
+		"full_text": "yes - this https://t.co/9k2Vmv5Sx3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9k2Vmv5Sx3",
+					"expanded_url": "https://twitter.com/RAforAll/status/1436329553023193097",
+					"display_url": "twitter.com/RAforAll/statu…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 901,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1436329553023193000,
+		"quoted_status_id_str": "1436329553023193097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9k2Vmv5Sx3",
+			"expanded": "https://twitter.com/RAforAll/status/1436329553023193097",
+			"display": "twitter.com/RAforAll/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 10 14:03:45 +0000 2021",
+			"id": 1436329553023193000,
+			"id_str": "1436329553023193097",
+			"full_text": "On the blog: Start a Book and Don't Finish It: A Call to Action Flashback: https://t.co/4NIj4Wic8m",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4NIj4Wic8m",
+						"expanded_url": "http://raforall.blogspot.com/2021/09/start-book-and-dont-finish-it-call-to.html",
+						"display_url": "raforall.blogspot.com/2021/09/start-…",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474412986,
+				"id_str": "2474412986",
+				"name": "Becky Spratford",
+				"screen_name": "RAforAll",
+				"location": "Chicagoland",
+				"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary. She/Her",
+				"url": "https://t.co/UqsI4i1DEP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UqsI4i1DEP",
+								"expanded_url": "http://raforall.blogspot.com",
+								"display_url": "raforall.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4167,
+				"friends_count": 2944,
+				"listed_count": 152,
+				"created_at": "Fri May 02 18:51:55 +0000 2014",
+				"favourites_count": 32811,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41858,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1614280328",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "yes - this https://t.co/9k2Vmv5Sx3"
+	},
+	{
+		"created_at": "Fri Sep 10 23:01:51 +0000 2021",
+		"id": 1434886612144558000,
+		"id_str": "1436464967780220931",
+		"full_text": "Highly Recommended! SHARICE'S BIG VOICE: A NATIVE KID BECOMES A CONGRESSWOMAN https://t.co/RtZmPLudrQ #NativeTwitter #IndigenousTwitter #Educators #Librarians #TriballySpecific #HoChunkVoice #OwnVoice https://t.co/jKOX3gz2Pi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NativeTwitter",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"text": "IndigenousTwitter",
+					"indices": [
+						117,
+						135
+					]
+				},
+				{
+					"text": "Educators",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "Librarians",
+					"indices": [
+						147,
+						158
+					]
+				},
+				{
+					"text": "TriballySpecific",
+					"indices": [
+						159,
+						176
+					]
+				},
+				{
+					"text": "HoChunkVoice",
+					"indices": [
+						177,
+						190
+					]
+				},
+				{
+					"text": "OwnVoice",
+					"indices": [
+						191,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RtZmPLudrQ",
+					"expanded_url": "https://americanindiansinchildrensliterature.blogspot.com/2021/09/highly-recommended-sharices-big-voice.html",
+					"display_url": "…ansinchildrensliterature.blogspot.com/2021/09/highly…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1434886055396843500,
+					"id_str": "1434886055396843529",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/E-m9Q9kXIAkXmhS.png",
+					"media_url_https": "https://pbs.twimg.com/media/E-m9Q9kXIAkXmhS.png",
+					"url": "https://t.co/jKOX3gz2Pi",
+					"display_url": "pic.twitter.com/jKOX3gz2Pi",
+					"expanded_url": "https://twitter.com/debreese/status/1434886612144558083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434886055396843500,
+					"id_str": "1434886055396843529",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/E-m9Q9kXIAkXmhS.png",
+					"media_url_https": "https://pbs.twimg.com/media/E-m9Q9kXIAkXmhS.png",
+					"url": "https://t.co/jKOX3gz2Pi",
+					"display_url": "pic.twitter.com/jKOX3gz2Pi",
+					"expanded_url": "https://twitter.com/debreese/status/1434886612144558083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19234329,
+			"id_str": "19234329",
+			"name": "Debbie Reese (tribally enrolled, Nambé Pueblo)",
+			"screen_name": "debreese",
+			"location": "My homelands: Nambé Pueblo",
+			"description": "Tewa Name: P'oesay P'oekwîn \nFounder: American Indians in Children's Literature\nPhD Education;  ALA's 2019 Arbuthnot Lecturer; she/her.",
+			"url": "https://t.co/NVQ6HsQuy1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NVQ6HsQuy1",
+							"expanded_url": "http://americanindiansinchildrensliterature.net",
+							"display_url": "…ricanindiansinchildrensliterature.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38043,
+			"friends_count": 2208,
+			"listed_count": 0,
+			"created_at": "Tue Jan 20 12:46:28 +0000 2009",
+			"favourites_count": 24790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276171239506280449/oU8cKF5b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276171239506280449/oU8cKF5b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19234329/1397522755",
+			"profile_link_color": "010101",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Highly Recommended! SHARICE'S BIG VOICE: A NATIVE KID BECOMES A CONGRESSWOMAN https://t.co/RtZmPLudrQ #NativeTwitter #IndigenousTwitter #Educators #Librarians #TriballySpecific #HoChunkVoice #OwnVoice https://t.co/jKOX3gz2Pi"
+	},
+	{
+		"created_at": "Fri Sep 10 22:59:19 +0000 2021",
+		"id": 1435952535735619600,
+		"id_str": "1436464333068779526",
+		"full_text": "\"How to write a #sustainbility plan for a museum?\" L'institution entend bien montrer l'exemple avec cet article publié sur son blog que je vais continuer à suivre ! J'espère voir d'autres formats naître autour de cette thématique. 👀 https://t.co/pzRW7psH6L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sustainbility",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pzRW7psH6L",
+					"expanded_url": "https://www.vam.ac.uk/blog/design-and-society/how-to-write-a-sustainability-plan-for-a-museum",
+					"display_url": "vam.ac.uk/blog/design-an…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435951702906179600,
+		"in_reply_to_status_id_str": "1435951702906179586",
+		"in_reply_to_user_id": 3310955999,
+		"in_reply_to_user_id_str": "3310955999",
+		"in_reply_to_screen_name": "solweigmary",
+		"user": {
+			"id": 3310955999,
+			"id_str": "3310955999",
+			"name": "Solweig Mary",
+			"screen_name": "solweigmary",
+			"location": "Paris, France",
+			"description": "Social Media Strategist & Manager #Art #Science 🏛️🌷🌿\nCurrently: @Le_Museum, @FracCentre.\n#Museogeek #Musesocial #Scicomm #GenZ #Freelance\n\nShe/Her 🏳️‍🌈",
+			"url": "https://t.co/RHGhNuECVA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RHGhNuECVA",
+							"expanded_url": "https://bit.ly/Agence-Digitalis",
+							"display_url": "bit.ly/Agence-Digital…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 738,
+			"friends_count": 1034,
+			"listed_count": 9,
+			"created_at": "Sat Jun 06 18:46:41 +0000 2015",
+			"favourites_count": 15867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1430463320402845700/KU1F1zJy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1430463320402845700/KU1F1zJy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3310955999/1630339337",
+			"profile_link_color": "C8AB9F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "\"How to write a #sustainbility plan for a museum?\" L'institution entend bien montrer l'exemple avec cet article publié sur son blog que je vais continuer à suivre ! J'espère voir d'autres formats naître autour de cette thématique. 👀 https://t.co/pzRW7psH6L"
+	},
+	{
+		"created_at": "Fri Sep 10 22:55:38 +0000 2021",
+		"id": 1436429059962118100,
+		"id_str": "1436463404122710018",
+		"full_text": "https://t.co/mzLmUDycOK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mzLmUDycOK",
+					"expanded_url": "https://www.thisiscolossal.com/2021/09/nick-cave-soundsuit-mosaic/",
+					"display_url": "thisiscolossal.com/2021/09/nick-c…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108690285,
+			"id_str": "108690285",
+			"name": "Wendy Gingell",
+			"screen_name": "WendyGingell",
+			"location": "Barcelona, Espana",
+			"description": "Currently learning to better communicate with my young pup.",
+			"url": "https://t.co/8y5s7lotG1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8y5s7lotG1",
+							"expanded_url": "http://www.tallergingell.com",
+							"display_url": "tallergingell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93,
+			"friends_count": 275,
+			"listed_count": 8,
+			"created_at": "Tue Jan 26 19:14:36 +0000 2010",
+			"favourites_count": 963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/568166702093832192/2zDp6rMn_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/568166702093832192/2zDp6rMn_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/mzLmUDycOK"
+	},
+	{
+		"created_at": "Fri Sep 10 22:54:51 +0000 2021",
+		"id": 1436463208278028300,
+		"id_str": "1436463208278028290",
+		"full_text": "Pandemic Objects: Mass Testing https://t.co/PAhLUHzkAi this is a really interesting ongoing series from @V_and_A highlights the importance of contemporary collecting",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "V_and_A",
+					"name": "V&A",
+					"id": 18807671,
+					"id_str": "18807671",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PAhLUHzkAi",
+					"expanded_url": "https://www.vam.ac.uk/blog/design-and-society/pandemic-objects-mass-testing",
+					"display_url": "vam.ac.uk/blog/design-an…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 901,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pandemic Objects: Mass Testing https://t.co/PAhLUHzkAi this is a really interesting ongoing series from @V_and_A highlights the importance of contemporary collecting"
+	},
+	{
 		"created_at": "Thu Sep 09 02:55:07 +0000 2021",
 		"id": 1435798897897607200,
 		"id_str": "1435798897897607169",
