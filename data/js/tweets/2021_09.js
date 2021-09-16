@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 03:15:16 +0000 2021",
+		"id": 1438340683299844000,
+		"id_str": "1438340683299844102",
+		"full_text": "today is #ploverappreciationday - they are amazing birds https://t.co/7Tc25CzvZg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ploverappreciationday",
+					"indices": [
+						9,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Tc25CzvZg",
+					"expanded_url": "https://twitter.com/birdlife_hoodie/status/1438289076839272451",
+					"display_url": "twitter.com/birdlife_hoodi…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2534,
+			"friends_count": 905,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438289076839272400,
+		"quoted_status_id_str": "1438289076839272451",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7Tc25CzvZg",
+			"expanded": "https://twitter.com/birdlife_hoodie/status/1438289076839272451",
+			"display": "twitter.com/birdlife_hoodi…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 15 23:50:12 +0000 2021",
+			"id": 1438289076839272400,
+			"id_str": "1438289076839272451",
+			"full_text": "Did you know there are 68 species of plovers in the world? These include all birds of the family Charadriidae (plovers, dotterels and lapwings!). Nests are simple scrapes in the ground, in the open, with a good view to see threats coming from far away.\n#PloverAppreciationDay https://t.co/ixXCkz75eb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PloverAppreciationDay",
+						"indices": [
+							253,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1438286338277662700,
+						"id_str": "1438286338277662720",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/E_XRzeZWYAAItaX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_XRzeZWYAAItaX.jpg",
+						"url": "https://t.co/ixXCkz75eb",
+						"display_url": "pic.twitter.com/ixXCkz75eb",
+						"expanded_url": "https://twitter.com/birdlife_hoodie/status/1438289076839272451/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1438286338277662700,
+						"id_str": "1438286338277662720",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/E_XRzeZWYAAItaX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_XRzeZWYAAItaX.jpg",
+						"url": "https://t.co/ixXCkz75eb",
+						"display_url": "pic.twitter.com/ixXCkz75eb",
+						"expanded_url": "https://twitter.com/birdlife_hoodie/status/1438289076839272451/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3229452806,
+				"id_str": "3229452806",
+				"name": "Hooded Plover",
+				"screen_name": "birdlife_hoodie",
+				"location": "",
+				"description": "@BirdlifeOz's Hooded Plover Recovery Project which began in 2006, focusing on Research, Education and On-ground Actions #ThinkBeachBirds #MindTheHoodies",
+				"url": "https://t.co/uxL7iQohQN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uxL7iQohQN",
+								"expanded_url": "http://www.birdlife.org.au/beach",
+								"display_url": "birdlife.org.au/beach",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1089,
+				"friends_count": 323,
+				"listed_count": 19,
+				"created_at": "Fri May 29 05:29:09 +0000 2015",
+				"favourites_count": 2005,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1722,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/750472897458688000/sgHjlt_c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/750472897458688000/sgHjlt_c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3229452806/1441063196",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "today is #ploverappreciationday - they are amazing birds https://t.co/7Tc25CzvZg"
+	},
+	{
 		"created_at": "Wed Sep 15 00:16:33 +0000 2021",
 		"id": 1437933319321100300,
 		"id_str": "1437933319321100288",
