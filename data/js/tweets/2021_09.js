@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 19 05:40:03 +0000 2021",
+		"id": 1438386603572043800,
+		"id_str": "1439464280579923970",
+		"full_text": "I wrote a @gdnlongread about the fascinating science of element analysis—of detecting where a pinch of cotton or tea comes from, based on the levels of strontium or carbon in it. \n\nAlong the way, I found murder: the story of a boy found dead in the Thames.\nhttps://t.co/xcvdrYf5iU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gdnlongread",
+					"name": "The Guardian Long Read",
+					"id": 2853449164,
+					"id_str": "2853449164",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xcvdrYf5iU",
+					"expanded_url": "https://www.theguardian.com/news/2021/sep/16/food-fraud-counterfeit-cotton-detectives-untangling-global-supply-chain",
+					"display_url": "theguardian.com/news/2021/sep/…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 454692246,
+			"id_str": "454692246",
+			"name": "Samanth Subramanian",
+			"screen_name": "samanth_s",
+			"location": "London",
+			"description": "Writer @qz + @gdnlongread. Words also in @newyorker, @NYTMag, @WIRED and others. My JBS Haldane biography is out now. Newsletter: https://t.co/8aoAyzqFy0",
+			"url": "https://t.co/e6Rh4ysFEY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e6Rh4ysFEY",
+							"expanded_url": "http://www.samanth.in",
+							"display_url": "samanth.in",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8aoAyzqFy0",
+							"expanded_url": "http://samanth.substack.com",
+							"display_url": "samanth.substack.com",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17777,
+			"friends_count": 492,
+			"listed_count": 301,
+			"created_at": "Wed Jan 04 08:25:09 +0000 2012",
+			"favourites_count": 1568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DCF1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359837926096445445/R7mCpWug_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359837926096445445/R7mCpWug_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/454692246/1613044915",
+			"profile_link_color": "5C91B9",
+			"profile_sidebar_border_color": "C0DCF1",
+			"profile_sidebar_fill_color": "1C1C1C",
+			"profile_text_color": "C0DCF1",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wrote a @gdnlongread about the fascinating science of element analysis—of detecting where a pinch of cotton or tea comes from, based on the levels of strontium or carbon in it. \n\nAlong the way, I found murder: the story of a boy found dead in the Thames.\nhttps://t.co/xcvdrYf5iU"
+	},
+	{
 		"created_at": "Fri Sep 17 04:37:59 +0000 2021",
 		"id": 1438631281382674400,
 		"id_str": "1438723887080960005",
