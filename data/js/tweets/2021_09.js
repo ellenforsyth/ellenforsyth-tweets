@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 19:36:58 +0000 2021",
+		"id": 1440037288713416700,
+		"id_str": "1440037288713416709",
+		"full_text": "Very interesting archive https://t.co/wPhQIw1uCF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wPhQIw1uCF",
+					"expanded_url": "https://twitter.com/libcolleen/status/1440031724948258816",
+					"display_url": "twitter.com/libcolleen/sta…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 905,
+			"listed_count": 222,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1440031724948258800,
+		"quoted_status_id_str": "1440031724948258816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wPhQIw1uCF",
+			"expanded": "https://twitter.com/libcolleen/status/1440031724948258816",
+			"display": "twitter.com/libcolleen/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 20 19:14:52 +0000 2021",
+			"id": 1440031724948258800,
+			"id_str": "1440031724948258816",
+			"full_text": "Segregation erased generations of Black history. This Louisiana funeral home is rediscovering it \n\"The archive holds funeral programs amassed over generations by a single funeral home built to serve Black residents\" \nhttps://t.co/S6eRgOgsfa via @theadvocatebr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "theadvocatebr",
+						"name": "The Advocate",
+						"id": 3983511,
+						"id_str": "3983511",
+						"indices": [
+							245,
+							259
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/S6eRgOgsfa",
+						"expanded_url": "https://www.theadvocate.com/baton_rouge/news/article_b1d68d04-17fe-11ec-9010-17ed71c56f0e.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+						"display_url": "theadvocate.com/baton_rouge/ne…",
+						"indices": [
+							217,
+							240
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 194605722,
+				"id_str": "194605722",
+				"name": "Colleen Theisen",
+				"screen_name": "LibColleen",
+				"location": "Iowa City, IA",
+				"description": "MLIS program lecturer. Special collections/archives. \nLibrary, archives, & museum news links. \nShe/her.  \n@historyb00ks on TikTok. #LibrariesAreNotNeutral",
+				"url": "https://t.co/ymmBRbmfpi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ymmBRbmfpi",
+								"expanded_url": "https://www.getrevue.co/profile/libcolleen",
+								"display_url": "getrevue.co/profile/libcol…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5382,
+				"friends_count": 3666,
+				"listed_count": 286,
+				"created_at": "Fri Sep 24 15:08:17 +0000 2010",
+				"favourites_count": 79317,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29458,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1295449307957657600/TV51uils_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295449307957657600/TV51uils_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/194605722/1611805709",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very interesting archive https://t.co/wPhQIw1uCF"
+	},
+	{
 		"created_at": "Sun Sep 19 05:40:03 +0000 2021",
 		"id": 1438386603572043800,
 		"id_str": "1439464280579923970",
