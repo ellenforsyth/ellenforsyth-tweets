@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 11:55:55 +0000 2021",
+		"id": 1440088442696724500,
+		"id_str": "1440283649459453958",
+		"full_text": "It's #WorldAlzheimersDay. In 2019, Dementia including Alzheimer's disease was the second leading cause of death in Australia, with 15,016 deaths.\n\n@DementiaAus\n\n#CausesofDeath #Dementia #Alzheimers #AlzheimersAwareness https://t.co/5OY2SlJCXI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldAlzheimersDay",
+					"indices": [
+						5,
+						24
+					]
+				},
+				{
+					"text": "CausesofDeath",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"text": "Dementia",
+					"indices": [
+						176,
+						185
+					]
+				},
+				{
+					"text": "Alzheimers",
+					"indices": [
+						186,
+						197
+					]
+				},
+				{
+					"text": "AlzheimersAwareness",
+					"indices": [
+						198,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DementiaAus",
+					"name": "Dementia Australia",
+					"id": 64925824,
+					"id_str": "64925824",
+					"indices": [
+						147,
+						159
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440088434190786600,
+					"id_str": "1440088434190786565",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E_w4zQ0XIAUbzED.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_w4zQ0XIAUbzED.jpg",
+					"url": "https://t.co/5OY2SlJCXI",
+					"display_url": "pic.twitter.com/5OY2SlJCXI",
+					"expanded_url": "https://twitter.com/ABSStats/status/1440088442696724492/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440088434190786600,
+					"id_str": "1440088434190786565",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E_w4zQ0XIAUbzED.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_w4zQ0XIAUbzED.jpg",
+					"url": "https://t.co/5OY2SlJCXI",
+					"display_url": "pic.twitter.com/5OY2SlJCXI",
+					"expanded_url": "https://twitter.com/ABSStats/status/1440088442696724492/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://nuvi.com/\" rel=\"nofollow\">Nuvi Publish</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 172532664,
+			"id_str": "172532664",
+			"name": "Australian Bureau of Statistics",
+			"screen_name": "ABSStats",
+			"location": "Australia",
+			"description": "Informing Australia's important decisions. About us: https://t.co/MYj7Pt48f7. Our social media guidelines: https://t.co/oF0Kt25VQA",
+			"url": "https://t.co/pcBX0fg7Kg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pcBX0fg7Kg",
+							"expanded_url": "http://abs.gov.au",
+							"display_url": "abs.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MYj7Pt48f7",
+							"expanded_url": "http://bit.ly/ABSabout",
+							"display_url": "bit.ly/ABSabout",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/oF0Kt25VQA",
+							"expanded_url": "http://bit.ly/1QsQmN5",
+							"display_url": "bit.ly/1QsQmN5",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 83429,
+			"friends_count": 641,
+			"listed_count": 580,
+			"created_at": "Thu Jul 29 23:19:30 +0000 2010",
+			"favourites_count": 796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397439973888913408/JnnGSPIq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397439973888913408/JnnGSPIq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/172532664/1622008872",
+			"profile_link_color": "2354D1",
+			"profile_sidebar_border_color": "E5F4FB",
+			"profile_sidebar_fill_color": "E5F4FB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's #WorldAlzheimersDay. In 2019, Dementia including Alzheimer's disease was the second leading cause of death in Australia, with 15,016 deaths.\n\n@DementiaAus\n\n#CausesofDeath #Dementia #Alzheimers #AlzheimersAwareness https://t.co/5OY2SlJCXI"
+	},
+	{
 		"created_at": "Mon Sep 20 19:36:58 +0000 2021",
 		"id": 1440037288713416700,
 		"id_str": "1440037288713416709",
