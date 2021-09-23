@@ -1,6 +1,678 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 22:03:50 +0000 2021",
+		"id": 1440799021921013800,
+		"id_str": "1440799021921013763",
+		"full_text": "The community coalition bridging the gaps in Aotearoa’s Covid-19 response https://t.co/JURUScKrDh via @te_papa impressive work and impressive collecting",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Te_Papa",
+					"name": "Te Papa",
+					"id": 29090322,
+					"id_str": "29090322",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JURUScKrDh",
+					"expanded_url": "https://blog.tepapa.govt.nz/2021/09/21/the-community-coalition-bridging-the-gaps-in-aotearoas-covid-19-response/",
+					"display_url": "blog.tepapa.govt.nz/2021/09/21/the…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2532,
+			"friends_count": 905,
+			"listed_count": 222,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The community coalition bridging the gaps in Aotearoa’s Covid-19 response https://t.co/JURUScKrDh via @te_papa impressive work and impressive collecting"
+	},
+	{
+		"created_at": "Wed Sep 22 19:54:16 +0000 2021",
+		"id": 1440718986572796000,
+		"id_str": "1440766417951866891",
+		"full_text": "Happy 100th birthday to Betty Reid Soskin! The nation’s oldest serving Park Ranger. In her honor we’ve curated a mixtape of Betty stories gathered by producers and archivists over the years. @thisisloveshow @PhoebeVJudge @laurenspohrer @rootsnsoular https://t.co/V1Isq5DPER https://t.co/VU3gBn3xuW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisisloveshow",
+					"name": "This is Love",
+					"id": 952611878726963200,
+					"id_str": "952611878726963201",
+					"indices": [
+						191,
+						206
+					]
+				},
+				{
+					"screen_name": "PhoebeVJudge",
+					"name": "Phoebe Judge",
+					"id": 868473678,
+					"id_str": "868473678",
+					"indices": [
+						207,
+						220
+					]
+				},
+				{
+					"screen_name": "laurenspohrer",
+					"name": "Lauren Spohrer",
+					"id": 14096284,
+					"id_str": "14096284",
+					"indices": [
+						221,
+						235
+					]
+				},
+				{
+					"screen_name": "rootsnsoular",
+					"name": "Mike Kappus",
+					"id": 247148992,
+					"id_str": "247148992",
+					"indices": [
+						236,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V1Isq5DPER",
+					"expanded_url": "https://mailchi.mp/kitchensisters/new-on-the-podcast-100-years-of-betty-reid-soskin?e=ccc5d25eeb",
+					"display_url": "mailchi.mp/kitchensisters…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1440718270307311600,
+					"id_str": "1440718270307311620",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E_51ojMVIAQWTGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_51ojMVIAQWTGs.jpg",
+					"url": "https://t.co/VU3gBn3xuW",
+					"display_url": "pic.twitter.com/VU3gBn3xuW",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1440718986572795915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440718270307311600,
+					"id_str": "1440718270307311620",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E_51ojMVIAQWTGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_51ojMVIAQWTGs.jpg",
+					"url": "https://t.co/VU3gBn3xuW",
+					"display_url": "pic.twitter.com/VU3gBn3xuW",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1440718986572795915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440718270277898200,
+					"id_str": "1440718270277898241",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E_51ojFUUAEarSg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_51ojFUUAEarSg.jpg",
+					"url": "https://t.co/VU3gBn3xuW",
+					"display_url": "pic.twitter.com/VU3gBn3xuW",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1440718986572795915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 790,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440718270307311600,
+					"id_str": "1440718270307311627",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E_51ojMVIAskuBn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_51ojMVIAskuBn.jpg",
+					"url": "https://t.co/VU3gBn3xuW",
+					"display_url": "pic.twitter.com/VU3gBn3xuW",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1440718986572795915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 878,
+							"h": 1167,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 878,
+							"h": 1167,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440718270504444000,
+					"id_str": "1440718270504443905",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E_51oj7VIAE0wlG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_51oj7VIAE0wlG.jpg",
+					"url": "https://t.co/VU3gBn3xuW",
+					"display_url": "pic.twitter.com/VU3gBn3xuW",
+					"expanded_url": "https://twitter.com/kitchensisters/status/1440718986572795915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 585,
+							"h": 778,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 585,
+							"h": 778,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16459243,
+			"id_str": "16459243",
+			"name": "The Kitchen Sisters",
+			"screen_name": "kitchensisters",
+			"location": "San Francisco",
+			"description": "The Kitchen Sisters (Davia Nelson & Nikki Silva), producers of NPR's The Keepers, Hidden Kitchens, Hidden World of Girls & The Kitchen Sisters Present podcast",
+			"url": "http://t.co/AVmB8ffkDA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AVmB8ffkDA",
+							"expanded_url": "http://www.kitchensisters.org",
+							"display_url": "kitchensisters.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17002,
+			"friends_count": 3855,
+			"listed_count": 624,
+			"created_at": "Thu Sep 25 22:38:03 +0000 2008",
+			"favourites_count": 8582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/525087107002687488/wzj1a4No_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16459243/1546894354",
+			"profile_link_color": "1EBBEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy 100th birthday to Betty Reid Soskin! The nation’s oldest serving Park Ranger. In her honor we’ve curated a mixtape of Betty stories gathered by producers and archivists over the years. @thisisloveshow @PhoebeVJudge @laurenspohrer @rootsnsoular https://t.co/V1Isq5DPER https://t.co/VU3gBn3xuW"
+	},
+	{
+		"created_at": "Wed Sep 22 11:08:59 +0000 2021",
+		"id": 1440634222662750200,
+		"id_str": "1440634222662750210",
+		"full_text": "Yes, listening is reading (interesting comments in this article) https://t.co/lPxXT87Nrb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lPxXT87Nrb",
+					"expanded_url": "https://twitter.com/abc_everyday/status/1439710915356676098",
+					"display_url": "twitter.com/abc_everyday/s…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2532,
+			"friends_count": 905,
+			"listed_count": 222,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1439710915356676000,
+		"quoted_status_id_str": "1439710915356676098",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lPxXT87Nrb",
+			"expanded": "https://twitter.com/abc_everyday/status/1439710915356676098",
+			"display": "twitter.com/abc_everyday/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 19 22:00:05 +0000 2021",
+			"id": 1439710915356676000,
+			"id_str": "1439710915356676098",
+			"full_text": "Is listening to an audiobook just as good as reading on a page? https://t.co/9cGndqDeDH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9cGndqDeDH",
+						"expanded_url": "https://ab.co/3EwDWpg",
+						"display_url": "ab.co/3EwDWpg",
+						"indices": [
+							64,
+							87
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.spredfast.com/\" rel=\"nofollow\">Khoros Publishing</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 137507788,
+				"id_str": "137507788",
+				"name": "ABC Everyday",
+				"screen_name": "abc_everyday",
+				"location": "Australia",
+				"description": "🏠 Home of conversations about...\n🤤 Food ❤️️ Sex + Relationships 🧘‍♀‍ Mental Health\n🙅‍♀‍ A no judgement zone\n🤳 Send us what your ‘everyday’ looks like",
+				"url": "https://t.co/L4cFJpGBzg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L4cFJpGBzg",
+								"expanded_url": "https://www.abc.net.au/everyday/",
+								"display_url": "abc.net.au/everyday/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28784,
+				"friends_count": 160,
+				"listed_count": 502,
+				"created_at": "Mon Apr 26 23:35:50 +0000 2010",
+				"favourites_count": 438,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8405,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "205A41",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1339320262307692544/IFk98vEM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339320262307692544/IFk98vEM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/137507788/1608153910",
+				"profile_link_color": "5C97B6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes, listening is reading (interesting comments in this article) https://t.co/lPxXT87Nrb"
+	},
+	{
 		"created_at": "Tue Sep 21 11:55:55 +0000 2021",
 		"id": 1440088442696724500,
 		"id_str": "1440283649459453958",
