@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 23:30:27 +0000 2021",
+		"id": 1448423311902392300,
+		"id_str": "1448430965542457344",
+		"full_text": "How have you been keeping busy during lockdown? The @nma want to hear from you about your COVID-19 experience - what  you’ve lost &amp; gained &amp; the changes to the way you work, learn &amp; stay in touch. Submit to the 'Momentous' project: \nhttps://t.co/EGuXDYZYVY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nma",
+					"name": "National Museum of Australia",
+					"id": 47875190,
+					"id_str": "47875190",
+					"indices": [
+						52,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EGuXDYZYVY",
+					"expanded_url": "https://momentous.nma.gov.au",
+					"display_url": "momentous.nma.gov.au",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2903066796,
+			"id_str": "2903066796",
+			"name": "Australian Academy of the Humanities",
+			"screen_name": "HumanitiesAU",
+			"location": "Canberra, Australia",
+			"description": "Official account of the Australian Academy of the Humanities. Tweets by Comms Team. RTs ≠ endorsements. Follow news of Academy Fellows on #AAHFellow",
+			"url": "http://t.co/mHsgfv1nRD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mHsgfv1nRD",
+							"expanded_url": "http://www.humanities.org.au",
+							"display_url": "humanities.org.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5196,
+			"friends_count": 1552,
+			"listed_count": 73,
+			"created_at": "Mon Nov 17 23:36:17 +0000 2014",
+			"favourites_count": 2267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCE0E3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1428229688112025601/iUHnJd7E_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1428229688112025601/iUHnJd7E_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2903066796/1629351468",
+			"profile_link_color": "005695",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How have you been keeping busy during lockdown? The @nma want to hear from you about your COVID-19 experience - what  you’ve lost &amp; gained &amp; the changes to the way you work, learn &amp; stay in touch. Submit to the 'Momentous' project: \nhttps://t.co/EGuXDYZYVY"
+	},
+	{
+		"created_at": "Wed Oct 13 21:57:17 +0000 2021",
+		"id": 1448181710517112800,
+		"id_str": "1448407520632918018",
+		"full_text": "Today is the International Day for Disaster Risk Reduction.\n\nAre you concerned about the risk of bushfires? Our new guide is here to help.\n\nLearn more in this five-minute @SBSNews interview. 🎧\n\n#DRRday #OnlyTogether  https://t.co/bzEWGzcvRx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRRday",
+					"indices": [
+						194,
+						201
+					]
+				},
+				{
+					"text": "OnlyTogether",
+					"indices": [
+						202,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SBSNews",
+					"name": "SBS News",
+					"id": 8197942,
+					"id_str": "8197942",
+					"indices": [
+						171,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bzEWGzcvRx",
+					"expanded_url": "https://www.sbs.com.au/news/audiotrack/csiro-produces-guide-help-protect-future-bushfires",
+					"display_url": "sbs.com.au/news/audiotrac…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174083824,
+			"id_str": "174083824",
+			"name": "CSIRO",
+			"screen_name": "CSIRO",
+			"location": "Australia",
+			"description": "We ♥ science. We're Australia's national science agency. We solve the greatest challenges through innovative science and technology. RTs not endorsements.",
+			"url": "https://t.co/uQjDbxq1tI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uQjDbxq1tI",
+							"expanded_url": "http://www.csiro.au/",
+							"display_url": "csiro.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110905,
+			"friends_count": 1744,
+			"listed_count": 1683,
+			"created_at": "Tue Aug 03 02:06:21 +0000 2010",
+			"favourites_count": 5263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "02A9CE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432141040392179712/VSXP9BDy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432141040392179712/VSXP9BDy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174083824/1633906010",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3FFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is the International Day for Disaster Risk Reduction.\n\nAre you concerned about the risk of bushfires? Our new guide is here to help.\n\nLearn more in this five-minute @SBSNews interview. 🎧\n\n#DRRday #OnlyTogether  https://t.co/bzEWGzcvRx"
+	},
+	{
+		"created_at": "Wed Oct 13 21:01:14 +0000 2021",
+		"id": 1448393412445569000,
+		"id_str": "1448393412445569025",
+		"full_text": "Want to add healthy years to your life? Here’s what new longevity research says. https://t.co/Azb7X1aclV via @washingtonpost - no guarantees, but some actions/approaches which may help - including joy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonpost",
+					"name": "The Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						109,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Azb7X1aclV",
+					"expanded_url": "https://www.washingtonpost.com/lifestyle/wellness/longevity-research-diet-exercise-tips/2021/10/10/edb5cdc2-2856-11ec-9de8-156fed3e81bf_story.html?tid=ss_tw",
+					"display_url": "washingtonpost.com/lifestyle/well…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2536,
+			"friends_count": 911,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to add healthy years to your life? Here’s what new longevity research says. https://t.co/Azb7X1aclV via @washingtonpost - no guarantees, but some actions/approaches which may help - including joy"
+	},
+	{
 		"created_at": "Tue Oct 12 20:44:27 +0000 2021",
 		"id": 1446091616305942500,
 		"id_str": "1448026803214307333",
