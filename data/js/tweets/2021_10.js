@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 21:35:31 +0000 2021",
+		"id": 1448962596003061800,
+		"id_str": "1449126818003308545",
+		"full_text": "‘Lumber Jill’ was the name given to women who worked in the oft-forgotten Women’s Timber Corps (WTC) during the Second World War.\nhttps://t.co/B6jWRxwy55",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B6jWRxwy55",
+					"expanded_url": "https://blogs.bl.uk/untoldlives/2021/10/diary-of-a-lumber-jill.html",
+					"display_url": "blogs.bl.uk/untoldlives/20…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 385484556,
+			"id_str": "385484556",
+			"name": "Untold Lives",
+			"screen_name": "UntoldLives",
+			"location": "",
+			"description": "Sharing stories from the past - a British Library blog",
+			"url": "https://t.co/FoTJ01vpkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FoTJ01vpkS",
+							"expanded_url": "http://blogs.bl.uk/untoldlives/",
+							"display_url": "blogs.bl.uk/untoldlives/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7196,
+			"friends_count": 827,
+			"listed_count": 205,
+			"created_at": "Wed Oct 05 15:47:15 +0000 2011",
+			"favourites_count": 1522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1575073964/Twitter_Dore_Street_c13856-01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1575073964/Twitter_Dore_Street_c13856-01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/385484556/1452188361",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Lumber Jill’ was the name given to women who worked in the oft-forgotten Women’s Timber Corps (WTC) during the Second World War.\nhttps://t.co/B6jWRxwy55"
+	},
+	{
 		"created_at": "Wed Oct 13 23:30:27 +0000 2021",
 		"id": 1448423311902392300,
 		"id_str": "1448430965542457344",
