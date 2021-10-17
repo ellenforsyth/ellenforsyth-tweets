@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 06:28:10 +0000 2021",
+		"id": 1449561415707070500,
+		"id_str": "1449623250116304896",
+		"full_text": "#InternationalSawfishDay is a day for me to reflect on the outstanding work of @NLC_74 Malak Malak Rangers who have saved 77 Largetooth #Sawfish pups from certain death in the #NT #Australia #INTLsawfishday @sawfishconserv @USMPhillipsLab @AustMarConsSoc \n\nhttps://t.co/dYQ98UVnc1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternationalSawfishDay",
+					"indices": [
+						0,
+						24
+					]
+				},
+				{
+					"text": "Sawfish",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "NT",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "Australia",
+					"indices": [
+						180,
+						190
+					]
+				},
+				{
+					"text": "INTLsawfishday",
+					"indices": [
+						191,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NLC_74",
+					"name": "Northern Land Council",
+					"id": 2743962804,
+					"id_str": "2743962804",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"screen_name": "sawfishconserv",
+					"name": "SawfishConservation",
+					"id": 905622485546225700,
+					"id_str": "905622485546225664",
+					"indices": [
+						207,
+						222
+					]
+				},
+				{
+					"screen_name": "USMPhillipsLab",
+					"name": "Phillips Lab @ USM",
+					"id": 728658519768051700,
+					"id_str": "728658519768051712",
+					"indices": [
+						223,
+						238
+					]
+				},
+				{
+					"screen_name": "AustMarConsSoc",
+					"name": "Australian Marine Conservation Society",
+					"id": 18295924,
+					"id_str": "18295924",
+					"indices": [
+						239,
+						254
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dYQ98UVnc1",
+					"expanded_url": "https://www.abc.net.au/news/2021-09-19/sawfish-endangered-species-rescue-program-nt-top-end-daly-river/100473184?fbclid=IwAR2JkYr0forbrNiCx7N3RceqaOrVLv0Oe4nQ14Ydcw86zM61V3YeAfwAYvM",
+					"display_url": "abc.net.au/news/2021-09-1…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 753657336678355000,
+			"id_str": "753657336678354944",
+			"name": "Peter Kyne",
+			"screen_name": "spottedcatshark",
+			"location": "Larrakia Country",
+			"description": "Conservation & sustainability - sharks & flatsharks - birds & birding - music & guitars - caught a ride with the moon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1851,
+			"friends_count": 1541,
+			"listed_count": 36,
+			"created_at": "Thu Jul 14 18:28:06 +0000 2016",
+			"favourites_count": 21985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440055230108893184/2UVu6Bn7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440055230108893184/2UVu6Bn7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/753657336678354944/1563457078",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#InternationalSawfishDay is a day for me to reflect on the outstanding work of @NLC_74 Malak Malak Rangers who have saved 77 Largetooth #Sawfish pups from certain death in the #NT #Australia #INTLsawfishday @sawfishconserv @USMPhillipsLab @AustMarConsSoc \n\nhttps://t.co/dYQ98UVnc1"
+	},
+	{
 		"created_at": "Fri Oct 15 21:35:31 +0000 2021",
 		"id": 1448962596003061800,
 		"id_str": "1449126818003308545",
