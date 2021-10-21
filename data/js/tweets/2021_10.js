@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 10:39:08 +0000 2021",
+		"id": 1450747949424603100,
+		"id_str": "1450773571656028160",
+		"full_text": "A little girl was kidnapped in Geneva in 1977. Her recovery unearthed a hidden Maori treasure. #twitterstorians  https://t.co/IOiOLTu4UW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "twitterstorians",
+					"indices": [
+						95,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IOiOLTu4UW",
+					"expanded_url": "https://www.abc.net.au/news/2021-10-20/stuff-the-british-stole-motunui-epa-new-zealand/100501452",
+					"display_url": "abc.net.au/news/2021-10-2…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 364780220,
+			"id_str": "364780220",
+			"name": "Dr Kristyn Harman 👩🏻‍🎓",
+			"screen_name": "DrKrissyH",
+			"location": "Australia",
+			"description": "Historian @UTAS_ Author of Aboriginal Convicts; Cleansing the Colony: Transporting Convicts from New Zealand to Van Diemen’s Land. Senior Editor @JUTLP 💉💉",
+			"url": "https://t.co/BrxWkuNjSY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BrxWkuNjSY",
+							"expanded_url": "http://www.utas.edu.au/profiles/staff/aboriginal-studies/kristyn-harman",
+							"display_url": "utas.edu.au/profiles/staff…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3273,
+			"friends_count": 3590,
+			"listed_count": 46,
+			"created_at": "Tue Aug 30 09:56:19 +0000 2011",
+			"favourites_count": 130183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443390137346318338/uTGA5BMw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443390137346318338/uTGA5BMw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/364780220/1609707877",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A little girl was kidnapped in Geneva in 1977. Her recovery unearthed a hidden Maori treasure. #twitterstorians  https://t.co/IOiOLTu4UW"
+	},
+	{
 		"created_at": "Mon Oct 18 09:30:07 +0000 2021",
 		"id": 1450029534645006300,
 		"id_str": "1450031426443694081",
