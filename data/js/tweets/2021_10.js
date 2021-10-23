@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 23:19:48 +0000 2021",
+		"id": 1451689777544061000,
+		"id_str": "1451689777544060929",
+		"full_text": "Great that there is a comic about legal deposit https://t.co/AfpVw71jO6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AfpVw71jO6",
+					"expanded_url": "https://twitter.com/BLEnglish_Drama/status/1451475057411346469",
+					"display_url": "twitter.com/BLEnglish_Dram…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2537,
+			"friends_count": 916,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 7996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1451475057411346400,
+		"quoted_status_id_str": "1451475057411346469",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AfpVw71jO6",
+			"expanded": "https://twitter.com/BLEnglish_Drama/status/1451475057411346469",
+			"display": "twitter.com/BLEnglish_Dram…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 22 09:06:35 +0000 2021",
+			"id": 1451475057411346400,
+			"id_str": "1451475057411346469",
+			"full_text": "Comic fans! Look for the @britishlibrary stand &amp; panel discussion on contemporary UK comics with @streakofpith @yoms @saramkenney &amp; @petegenepool at @ThoughtBubbleUK convention next month. @Contemporary_BL’s @IanCooke13 blogs here:\n\nhttps://t.co/PHYEFULGyR https://t.co/v0q7fAJu4S",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "britishlibrary",
+						"name": "The British Library",
+						"id": 21744554,
+						"id_str": "21744554",
+						"indices": [
+							25,
+							40
+						]
+					},
+					{
+						"screen_name": "streakofpith",
+						"name": "Hannah Berry",
+						"id": 634591216,
+						"id_str": "634591216",
+						"indices": [
+							101,
+							114
+						]
+					},
+					{
+						"screen_name": "yoms",
+						"name": "Yoms",
+						"id": 6988142,
+						"id_str": "6988142",
+						"indices": [
+							115,
+							120
+						]
+					},
+					{
+						"screen_name": "saramkenney",
+						"name": "Sara Kenney",
+						"id": 527317981,
+						"id_str": "527317981",
+						"indices": [
+							121,
+							133
+						]
+					},
+					{
+						"screen_name": "petegenepool",
+						"name": "Pete Genepool",
+						"id": 34591052,
+						"id_str": "34591052",
+						"indices": [
+							140,
+							153
+						]
+					},
+					{
+						"screen_name": "ThoughtBubbleUK",
+						"name": "Thought Bubble Festival",
+						"id": 27214362,
+						"id_str": "27214362",
+						"indices": [
+							157,
+							173
+						]
+					},
+					{
+						"screen_name": "Contemporary_BL",
+						"name": "British Library Contemporary British Collections",
+						"id": 701819935111123000,
+						"id_str": "701819935111122949",
+						"indices": [
+							197,
+							213
+						]
+					},
+					{
+						"screen_name": "IanCooke13",
+						"name": "Ian Cooke",
+						"id": 990545664,
+						"id_str": "990545664",
+						"indices": [
+							216,
+							227
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PHYEFULGyR",
+						"expanded_url": "https://bit.ly/3B8JiE6",
+						"display_url": "bit.ly/3B8JiE6",
+						"indices": [
+							241,
+							264
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1451474858592899000,
+						"id_str": "1451474858592899072",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/FCSssZLXEAARsjk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCSssZLXEAARsjk.jpg",
+						"url": "https://t.co/v0q7fAJu4S",
+						"display_url": "pic.twitter.com/v0q7fAJu4S",
+						"expanded_url": "https://twitter.com/BLEnglish_Drama/status/1451475057411346469/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2041,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1196,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1451474858592899000,
+						"id_str": "1451474858592899072",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/FCSssZLXEAARsjk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCSssZLXEAARsjk.jpg",
+						"url": "https://t.co/v0q7fAJu4S",
+						"display_url": "pic.twitter.com/v0q7fAJu4S",
+						"expanded_url": "https://twitter.com/BLEnglish_Drama/status/1451475057411346469/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2041,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 678,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1196,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3130729767,
+				"id_str": "3130729767",
+				"name": "BL English and Drama",
+				"screen_name": "BLEnglish_Drama",
+				"location": "London, England",
+				"description": "From Shakespeare's First Folio to Wendy Cope's emails, the literature and drama collections at the British Library are unparalleled.",
+				"url": "http://t.co/cA27E2XbDR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cA27E2XbDR",
+								"expanded_url": "http://www.bl.uk",
+								"display_url": "bl.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1103,
+				"friends_count": 482,
+				"listed_count": 32,
+				"created_at": "Tue Mar 31 15:32:05 +0000 2015",
+				"favourites_count": 306,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 690,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/590893705424416769/80qVr09p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/590893705424416769/80qVr09p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3130729767/1429714637",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great that there is a comic about legal deposit https://t.co/AfpVw71jO6"
+	},
+	{
 		"created_at": "Wed Oct 20 10:39:08 +0000 2021",
 		"id": 1450747949424603100,
 		"id_str": "1450773571656028160",
@@ -43,7 +422,7 @@ Grailbird.data.tweets_2021_10 =
 		"user": {
 			"id": 364780220,
 			"id_str": "364780220",
-			"name": "Dr Kristyn Harman 👩🏻‍🎓",
+			"name": "Dr Kristyn Harman 👩🏻🎓",
 			"screen_name": "DrKrissyH",
 			"location": "Australia",
 			"description": "Historian @UTAS_ Author of Aboriginal Convicts; Cleansing the Colony: Transporting Convicts from New Zealand to Van Diemen’s Land. Senior Editor @JUTLP 💉💉",
