@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 06 02:08:18 +0000 2021",
+		"id": 1456770051311382500,
+		"id_str": "1456805611073536001",
+		"full_text": "To coincide with COP26, we look at how you can make your venue and practices more carbon neutral.\n\nhttps://t.co/aa6O2bVTMn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aa6O2bVTMn",
+					"expanded_url": "https://www.artshub.com.au/news/career-advice/making-your-organisation-carbon-neutral-2511695/",
+					"display_url": "artshub.com.au/news/career-ad…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 811335,
+			"id_str": "811335",
+			"name": "ArtsHub",
+			"screen_name": "ArtsHub",
+			"location": "Australia",
+			"description": "National Art News for the Arts Industry, Artists and Arts lovers.  #ArtsHub",
+			"url": "https://t.co/MwWcP1tul7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MwWcP1tul7",
+							"expanded_url": "http://artshub.com.au",
+							"display_url": "artshub.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44484,
+			"friends_count": 3013,
+			"listed_count": 917,
+			"created_at": "Mon Mar 05 03:16:55 +0000 2007",
+			"favourites_count": 6121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415122657566101515/GIHjB7j5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415122657566101515/GIHjB7j5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/811335/1629251995",
+			"profile_link_color": "43385C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "5ED4DC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To coincide with COP26, we look at how you can make your venue and practices more carbon neutral.\n\nhttps://t.co/aa6O2bVTMn"
+	},
+	{
+		"created_at": "Sat Nov 06 02:06:20 +0000 2021",
+		"id": 1452811579863539700,
+		"id_str": "1456805117294829570",
+		"full_text": "Measuring the Social Impact of Museums can shape the impact and interactions the public has with their cultural institutions. It's time to begin. #jhumda https://t.co/ceDzYjdDzU via @AAMers",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "jhumda",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AAMers",
+					"name": "American Alliance of Museums",
+					"id": 23070306,
+					"id_str": "23070306",
+					"indices": [
+						182,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ceDzYjdDzU",
+					"expanded_url": "https://www.aam-us.org/2021/02/02/measuring-the-social-impact-of-museums-call-for-study-sites/",
+					"display_url": "aam-us.org/2021/02/02/mea…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 955572712096845800,
+			"id_str": "955572712096845824",
+			"name": "Jill Reynolds",
+			"screen_name": "Jenebask",
+			"location": "Baltimore, MD",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32,
+			"friends_count": 90,
+			"listed_count": 1,
+			"created_at": "Mon Jan 22 22:47:43 +0000 2018",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409579589400137728/J7zwnWZT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409579589400137728/J7zwnWZT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/955572712096845824/1624904938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Measuring the Social Impact of Museums can shape the impact and interactions the public has with their cultural institutions. It's time to begin. #jhumda https://t.co/ceDzYjdDzU via @AAMers"
+	},
+	{
+		"created_at": "Fri Nov 05 20:59:37 +0000 2021",
+		"id": 1456727929908445200,
+		"id_str": "1456727929908445184",
+		"full_text": "The perfect dish for when you're watching... https://t.co/gmtbhDEpgv via @SBSFood this is possible for all sorts of #readadv (including watching)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "readadv",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SBSFood",
+					"name": "SBS Food",
+					"id": 22104722,
+					"id_str": "22104722",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gmtbhDEpgv",
+					"expanded_url": "https://www.sbs.com.au/food/blog/2021/10/28/perfect-dish-when-youre-watching?dlb=[2021/11/05]%20del_fd_bau_02&did=DM6004&cid=food:edm:acfood:relation:foodedm:na:na",
+					"display_url": "sbs.com.au/food/blog/2021…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2537,
+			"friends_count": 918,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The perfect dish for when you're watching... https://t.co/gmtbhDEpgv via @SBSFood this is possible for all sorts of #readadv (including watching)"
+	},
+	{
 		"created_at": "Thu Nov 04 22:37:56 +0000 2021",
 		"id": 1456390281205465000,
 		"id_str": "1456390281205465090",
