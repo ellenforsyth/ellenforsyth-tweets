@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 07 18:27:18 +0000 2021",
+		"id": 1457414371479408600,
+		"id_str": "1457414371479408640",
+		"full_text": "Interesting report on Understanding the Social Wellbeing Impacts of the Nation's Libraries and Museums done by @US_IMLS https://t.co/yHD6sQG6VS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "US_IMLS",
+					"name": "IMLS",
+					"id": 36240331,
+					"id_str": "36240331",
+					"indices": [
+						111,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yHD6sQG6VS",
+					"expanded_url": "https://twitter.com/margogustina/status/1457408711354318848",
+					"display_url": "twitter.com/margogustina/s…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 919,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1457408711354318800,
+		"quoted_status_id_str": "1457408711354318848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yHD6sQG6VS",
+			"expanded": "https://twitter.com/margogustina/status/1457408711354318848",
+			"display": "twitter.com/margogustina/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 07 18:04:48 +0000 2021",
+			"id": 1457408711354318800,
+			"id_str": "1457408711354318848",
+			"full_text": "This has been published: https://t.co/gDzvNyATCg. @NNY_LN and the rest of the Libraries in Community Systems team will be building on this report. 1/3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NNY_LN",
+						"name": "NNY Library Network",
+						"id": 842760669686566900,
+						"id_str": "842760669686566912",
+						"indices": [
+							50,
+							57
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gDzvNyATCg",
+						"expanded_url": "https://www.imls.gov/publications/understanding-social-wellbeing-impacts-nations-libraries-and-museums",
+						"display_url": "imls.gov/publications/u…",
+						"indices": [
+							25,
+							48
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 326849293,
+				"id_str": "326849293",
+				"name": "Margo Gustina",
+				"screen_name": "MargoGustina",
+				"location": "",
+				"description": "Librarian. Pro-complexity, hater of essentialism, lover of artifacts of human endeavor. they/them.",
+				"url": "https://t.co/ZWyEa4eJoY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZWyEa4eJoY",
+								"expanded_url": "http://margogustina.info",
+								"display_url": "margogustina.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 258,
+				"friends_count": 239,
+				"listed_count": 12,
+				"created_at": "Thu Jun 30 15:55:52 +0000 2011",
+				"favourites_count": 2410,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 814,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1349502222183194626/JNTdZI62_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349502222183194626/JNTdZI62_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/326849293/1604101371",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting report on Understanding the Social Wellbeing Impacts of the Nation's Libraries and Museums done by @US_IMLS https://t.co/yHD6sQG6VS"
+	},
+	{
+		"created_at": "Sun Nov 07 09:30:41 +0000 2021",
+		"id": 1457279327200940000,
+		"id_str": "1457279327200940040",
+		"full_text": "New species of rare tadpole-carrying frog discovered in northern NSW via ⁦@GuardianAus⁩ exciting news https://t.co/mUlCkMPPI0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuardianAus",
+					"name": "Guardian Australia",
+					"id": 1092378031,
+					"id_str": "1092378031",
+					"indices": [
+						74,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mUlCkMPPI0",
+					"expanded_url": "https://www.theguardian.com/environment/2021/nov/07/new-species-of-rare-tadpole-carrying-frog-discovered-in-northern-nsw?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 919,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New species of rare tadpole-carrying frog discovered in northern NSW via ⁦@GuardianAus⁩ exciting news https://t.co/mUlCkMPPI0"
+	},
+	{
 		"created_at": "Sat Nov 06 02:08:18 +0000 2021",
 		"id": 1456770051311382500,
 		"id_str": "1456805611073536001",
