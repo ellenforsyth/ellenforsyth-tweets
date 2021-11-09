@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 03:33:46 +0000 2021",
+		"id": 1457914283891691500,
+		"id_str": "1457914283891691523",
+		"full_text": "…and there is a special pollinator song🐝 https://t.co/sZfxGd1qXe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sZfxGd1qXe",
+					"expanded_url": "https://twitter.com/westgatebio/status/1457811237253775360",
+					"display_url": "twitter.com/westgatebio/st…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 920,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1457811237253775400,
+		"quoted_status_id_str": "1457811237253775360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sZfxGd1qXe",
+			"expanded": "https://twitter.com/westgatebio/status/1457811237253775360",
+			"display": "twitter.com/westgatebio/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 08 20:44:18 +0000 2021",
+			"id": 1457811237253775400,
+			"id_str": "1457811237253775360",
+			"full_text": "Get ready. Lots of ways to take part in Australian Pollinator Week – 13-21 November 2021 #biodiversity #citizenscience #bees  https://t.co/eYyjG8HOf2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "biodiversity",
+						"indices": [
+							89,
+							102
+						]
+					},
+					{
+						"text": "citizenscience",
+						"indices": [
+							103,
+							118
+						]
+					},
+					{
+						"text": "bees",
+						"indices": [
+							119,
+							124
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eYyjG8HOf2",
+						"expanded_url": "https://www.australianpollinatorweek.org.au/",
+						"display_url": "australianpollinatorweek.org.au",
+						"indices": [
+							126,
+							149
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 408152861,
+				"id_str": "408152861",
+				"name": "Westgate Biodiversity: Bili Nursery and Landcare",
+				"screen_name": "westgatebio",
+				"location": "Port Melbourne, Victoria",
+				"description": "Westgate Biodiversity: Bili Nursery & Landcare cares for Westgate Park and supplies the unique flora to the local community of the coastal area of Melbourne",
+				"url": "https://t.co/r9VKhXePiF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r9VKhXePiF",
+								"expanded_url": "http://www.westgatebiodiversity.org.au/",
+								"display_url": "westgatebiodiversity.org.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 463,
+				"friends_count": 542,
+				"listed_count": 10,
+				"created_at": "Wed Nov 09 01:49:21 +0000 2011",
+				"favourites_count": 518,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 939,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1186135394154270721/artblN2z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186135394154270721/artblN2z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/408152861/1470304975",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "…and there is a special pollinator song🐝 https://t.co/sZfxGd1qXe"
+	},
+	{
+		"created_at": "Tue Nov 09 03:30:57 +0000 2021",
+		"id": 1457913573909225500,
+		"id_str": "1457913573909225472",
+		"full_text": "@CatyJ That is very sad news",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatyJ",
+					"name": "CatyJ",
+					"id": 15732431,
+					"id_str": "15732431",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1457651862534963200,
+		"in_reply_to_status_id_str": "1457651862534963203",
+		"in_reply_to_user_id": 15732431,
+		"in_reply_to_user_id_str": "15732431",
+		"in_reply_to_screen_name": "CatyJ",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 920,
+			"listed_count": 223,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CatyJ That is very sad news"
+	},
+	{
+		"created_at": "Mon Nov 08 20:29:26 +0000 2021",
+		"id": 1457588803812610000,
+		"id_str": "1457807494701477892",
+		"full_text": "Public libraries across the state continued to adapt and innovate in response to the #COVID19 lockdown. Our new report reveals how #NSWPublicLibraries supported their communities during a health crisis.\n\nRead it here: https://t.co/LwtvvjUBqZ https://t.co/Ikl26nl7Pt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "NSWPublicLibraries",
+					"indices": [
+						131,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LwtvvjUBqZ",
+					"expanded_url": "http://ow.ly/qPeH50GHUV6",
+					"display_url": "ow.ly/qPeH50GHUV6",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457588802562760700,
+					"id_str": "1457588802562760706",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FDplSxVXIAI95Tg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDplSxVXIAI95Tg.jpg",
+					"url": "https://t.co/Ikl26nl7Pt",
+					"display_url": "pic.twitter.com/Ikl26nl7Pt",
+					"expanded_url": "https://twitter.com/statelibrarynsw/status/1457588803812610049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457588802562760700,
+					"id_str": "1457588802562760706",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FDplSxVXIAI95Tg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDplSxVXIAI95Tg.jpg",
+					"url": "https://t.co/Ikl26nl7Pt",
+					"display_url": "pic.twitter.com/Ikl26nl7Pt",
+					"expanded_url": "https://twitter.com/statelibrarynsw/status/1457588803812610049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121597205,
+			"id_str": "121597205",
+			"name": "State Library of NSW",
+			"screen_name": "statelibrarynsw",
+			"location": "Sydney, Australia",
+			"description": "Collecting, connecting and challenging ideas since 1826. Funded by the NSW Government.",
+			"url": "https://t.co/M4rzAKs3RK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M4rzAKs3RK",
+							"expanded_url": "http://www.sl.nsw.gov.au",
+							"display_url": "sl.nsw.gov.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18933,
+			"friends_count": 1032,
+			"listed_count": 461,
+			"created_at": "Wed Mar 10 00:43:42 +0000 2010",
+			"favourites_count": 7399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/937050911/intero_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/937050911/intero_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121597205/1504572564",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A6A6A6",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Public libraries across the state continued to adapt and innovate in response to the #COVID19 lockdown. Our new report reveals how #NSWPublicLibraries supported their communities during a health crisis.\n\nRead it here: https://t.co/LwtvvjUBqZ https://t.co/Ikl26nl7Pt"
+	},
+	{
 		"created_at": "Sun Nov 07 18:27:18 +0000 2021",
 		"id": 1457414371479408600,
 		"id_str": "1457414371479408640",
@@ -246,7 +795,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Sun Nov 07 09:30:41 +0000 2021",
 		"id": 1457279327200940000,
 		"id_str": "1457279327200940040",
-		"full_text": "New species of rare tadpole-carrying frog discovered in northern NSW via ⁦@GuardianAus⁩ exciting news https://t.co/mUlCkMPPI0",
+		"full_text": "New species of rare tadpole-carrying frog discovered in northern NSW via @GuardianAus exciting news https://t.co/mUlCkMPPI0",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -358,7 +907,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "New species of rare tadpole-carrying frog discovered in northern NSW via ⁦@GuardianAus⁩ exciting news https://t.co/mUlCkMPPI0"
+		"text": "New species of rare tadpole-carrying frog discovered in northern NSW via @GuardianAus exciting news https://t.co/mUlCkMPPI0"
 	},
 	{
 		"created_at": "Sat Nov 06 02:08:18 +0000 2021",
