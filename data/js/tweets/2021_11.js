@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 10:24:45 +0000 2021",
+		"id": 1457746657697804300,
+		"id_str": "1458017709099130887",
+		"full_text": "Our Poem of the Moment is “The Shivering River”, curated by National Makar @KathleenJamie from lines submitted by The people of Scotland. The accompanying film was directed by @Filmpoem. This is one of a trio of poems in The Life-breath Songs series.\n\n https://t.co/FmcR538NVf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KathleenJamie",
+					"name": "Kathleen Jamie",
+					"id": 718707504,
+					"id_str": "718707504",
+					"indices": [
+						75,
+						89
+					]
+				},
+				{
+					"screen_name": "Filmpoem",
+					"name": "Filmpoem",
+					"id": 154929891,
+					"id_str": "154929891",
+					"indices": [
+						176,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FmcR538NVf",
+					"expanded_url": "https://www.scottishpoetrylibrary.org.uk/poem/the-shivering-river/",
+					"display_url": "scottishpoetrylibrary.org.uk/poem/the-shive…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21760231,
+			"id_str": "21760231",
+			"name": "Scottish Poetry Library",
+			"screen_name": "ByLeavesWeLive",
+			"location": "Edinburgh",
+			"description": "Bringing people and poems together. Open for public visits from 10am to 2pm weekdays. We’re also operating free postal borrowing.",
+			"url": "https://t.co/3dTTDcNzjV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3dTTDcNzjV",
+							"expanded_url": "http://www.scottishpoetrylibrary.org.uk",
+							"display_url": "scottishpoetrylibrary.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44319,
+			"friends_count": 8673,
+			"listed_count": 946,
+			"created_at": "Tue Feb 24 14:57:21 +0000 2009",
+			"favourites_count": 1607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410893236785319939/_M0kigaq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410893236785319939/_M0kigaq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21760231/1633095808",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our Poem of the Moment is “The Shivering River”, curated by National Makar @KathleenJamie from lines submitted by The people of Scotland. The accompanying film was directed by @Filmpoem. This is one of a trio of poems in The Life-breath Songs series.\n\n https://t.co/FmcR538NVf"
+	},
+	{
 		"created_at": "Tue Nov 09 03:33:46 +0000 2021",
 		"id": 1457914283891691500,
 		"id_str": "1457914283891691523",
