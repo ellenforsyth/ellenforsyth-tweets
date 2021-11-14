@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 14 03:13:06 +0000 2021",
+		"id": 1459675546535665700,
+		"id_str": "1459721021859123205",
+		"full_text": "#WildPollinatorCount starts today! You can join in any time this week, anywhere in Australia. Instructions, ID resources and submission form on our website 👇🦋🪰🐝🌸 #ozpollinators #ozinverts @WildPollOceania  https://t.co/apJrpSl7EY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WildPollinatorCount",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "ozpollinators",
+					"indices": [
+						162,
+						176
+					]
+				},
+				{
+					"text": "ozinverts",
+					"indices": [
+						177,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WildPollOceania",
+					"name": "Wild Pollinators Oceania",
+					"id": 1011875061291073500,
+					"id_str": "1011875061291073536",
+					"indices": [
+						188,
+						204
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/apJrpSl7EY",
+					"expanded_url": "https://wildpollinatorcount.com/2021/11/13/time-to-count-4/",
+					"display_url": "wildpollinatorcount.com/2021/11/13/tim…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2574559213,
+			"id_str": "2574559213",
+			"name": "Dr Manu Saunders",
+			"screen_name": "ManuSaunders",
+			"location": "Armidale, Anaiwan Country",
+			"description": "Lecturer in Ecology @ERS_UNE. Ecosystem Services| Insects| Plants | Conservation | Community Ecology| SciComm| Co-founder #WildPollinatorCount| My opinions",
+			"url": "https://t.co/YglFYGYTCQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YglFYGYTCQ",
+							"expanded_url": "https://ecologyisnotadirtyword.com/",
+							"display_url": "ecologyisnotadirtyword.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9095,
+			"friends_count": 3891,
+			"listed_count": 250,
+			"created_at": "Wed Jun 18 09:59:16 +0000 2014",
+			"favourites_count": 47512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0466F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337305303365251072/-9MOF2E4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337305303365251072/-9MOF2E4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2574559213/1605420544",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#WildPollinatorCount starts today! You can join in any time this week, anywhere in Australia. Instructions, ID resources and submission form on our website 👇🦋🪰🐝🌸 #ozpollinators #ozinverts @WildPollOceania  https://t.co/apJrpSl7EY"
+	},
+	{
 		"created_at": "Tue Nov 09 10:24:45 +0000 2021",
 		"id": 1457746657697804300,
 		"id_str": "1458017709099130887",
