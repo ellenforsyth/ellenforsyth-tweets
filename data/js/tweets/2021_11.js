@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 10:07:45 +0000 2021",
+		"id": 1463036341374042000,
+		"id_str": "1463086863858634754",
+		"full_text": "Fighting plagues and predators: Australia’s path to a pest and weed-free future.\n\nInvasive species are a major threat to biodiversity in Australia. 🦊\n\nOur new report produced with @CentreInvasives offers a roadmap to help manage the problem. 🌱 https://t.co/GcEVRyrqYU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CentreInvasives",
+					"name": "Centre for Invasive Species Solutions",
+					"id": 940456949614645200,
+					"id_str": "940456949614645249",
+					"indices": [
+						180,
+						196
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GcEVRyrqYU",
+					"expanded_url": "https://blog.csiro.au/invasive-species-australia/",
+					"display_url": "blog.csiro.au/invasive-speci…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174083824,
+			"id_str": "174083824",
+			"name": "CSIRO",
+			"screen_name": "CSIRO",
+			"location": "Australia",
+			"description": "We ♥ science. We're Australia's national science agency. We solve the greatest challenges through innovative science and technology. RTs not endorsements.",
+			"url": "https://t.co/UHEEbExWFg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UHEEbExWFg",
+							"expanded_url": "http://www.csiro.au/",
+							"display_url": "csiro.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111789,
+			"friends_count": 1744,
+			"listed_count": 1681,
+			"created_at": "Tue Aug 03 02:06:21 +0000 2010",
+			"favourites_count": 5355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "02A9CE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432141040392179712/VSXP9BDy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432141040392179712/VSXP9BDy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174083824/1636328413",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3FFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fighting plagues and predators: Australia’s path to a pest and weed-free future.\n\nInvasive species are a major threat to biodiversity in Australia. 🦊\n\nOur new report produced with @CentreInvasives offers a roadmap to help manage the problem. 🌱 https://t.co/GcEVRyrqYU"
+	},
+	{
 		"created_at": "Thu Nov 18 21:17:02 +0000 2021",
 		"id": 1461443355271843800,
 		"id_str": "1461443355271843845",
