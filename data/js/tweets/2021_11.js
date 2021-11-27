@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 27 01:04:20 +0000 2021",
+		"id": 1464383468985593900,
+		"id_str": "1464399660194271234",
+		"full_text": "New #CSIRO research shows forest fires in #Australia have increased 800 per cent in three decades. \n https://t.co/erN5eN5nrv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CSIRO",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "Australia",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/erN5eN5nrv",
+					"expanded_url": "https://www.abc.net.au/news/2021-11-26/climate-change-increases-risk-of-megafires-csiro/100653146",
+					"display_url": "abc.net.au/news/2021-11-2…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174083824,
+			"id_str": "174083824",
+			"name": "CSIRO",
+			"screen_name": "CSIRO",
+			"location": "Australia",
+			"description": "We ♥ science. We're Australia's national science agency. We solve the greatest challenges through innovative science and technology. RTs not endorsements.",
+			"url": "https://t.co/UHEEbExWFg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UHEEbExWFg",
+							"expanded_url": "http://www.csiro.au/",
+							"display_url": "csiro.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111883,
+			"friends_count": 1744,
+			"listed_count": 1684,
+			"created_at": "Tue Aug 03 02:06:21 +0000 2010",
+			"favourites_count": 5371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "02A9CE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432141040392179712/VSXP9BDy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432141040392179712/VSXP9BDy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174083824/1636328413",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3FFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New #CSIRO research shows forest fires in #Australia have increased 800 per cent in three decades. \n https://t.co/erN5eN5nrv"
+	},
+	{
+		"created_at": "Fri Nov 26 10:08:51 +0000 2021",
+		"id": 1461351522059522000,
+		"id_str": "1464174304325562368",
+		"full_text": "🏆 Best scifi/fantasy/horror 2021 @jeffvandermeer @carolinehwrites @ericasatifka @wlgoodwater @dedreytnien @darylwriterguy @ClaireNorth42 @casskhaw @starkholborn @Louisecarey25 @elly_bangs @AliyaWhiteley @xuetingni @ChenQiufan @kaifulee @Pulpcurry https://t.co/2yBBHhbGpA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeffvandermeer",
+					"name": "Jeff VanderMeer",
+					"id": 14414706,
+					"id_str": "14414706",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"screen_name": "carolinehwrites",
+					"name": "Caroline Hardaker",
+					"id": 4818683969,
+					"id_str": "4818683969",
+					"indices": [
+						49,
+						65
+					]
+				},
+				{
+					"screen_name": "ericasatifka",
+					"name": "Erica L. Satifka knows how to get to apocalypse",
+					"id": 16021457,
+					"id_str": "16021457",
+					"indices": [
+						66,
+						79
+					]
+				},
+				{
+					"screen_name": "wlgoodwater",
+					"name": "Walter Goodwater",
+					"id": 851224668333719600,
+					"id_str": "851224668333719552",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"screen_name": "dedreytnien",
+					"name": "kit schluter",
+					"id": 2832107814,
+					"id_str": "2832107814",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"screen_name": "darylwriterguy",
+					"name": "𝙳𝚊𝚛𝚢𝚕 𝙶𝚛𝚎𝚐𝚘𝚛𝚢",
+					"id": 91235096,
+					"id_str": "91235096",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"screen_name": "ClaireNorth42",
+					"name": "Claire North",
+					"id": 2563082400,
+					"id_str": "2563082400",
+					"indices": [
+						122,
+						136
+					]
+				},
+				{
+					"screen_name": "casskhaw",
+					"name": "Cassandra Khaw is updates-only for now",
+					"id": 278937589,
+					"id_str": "278937589",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"screen_name": "starkholborn",
+					"name": "Stark Holborn",
+					"id": 1691210233,
+					"id_str": "1691210233",
+					"indices": [
+						147,
+						160
+					]
+				},
+				{
+					"screen_name": "Louisecarey25",
+					"name": "Louise Carey",
+					"id": 351104017,
+					"id_str": "351104017",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"screen_name": "elly_bangs",
+					"name": "Elly Bangs",
+					"id": 4397947049,
+					"id_str": "4397947049",
+					"indices": [
+						176,
+						187
+					]
+				},
+				{
+					"screen_name": "AliyaWhiteley",
+					"name": "Aliya Whiteley",
+					"id": 960236834,
+					"id_str": "960236834",
+					"indices": [
+						188,
+						202
+					]
+				},
+				{
+					"screen_name": "xuetingni",
+					"name": "Xueting C. Ni 倪雪亭",
+					"id": 170456392,
+					"id_str": "170456392",
+					"indices": [
+						203,
+						213
+					]
+				},
+				{
+					"screen_name": "ChenQiufan",
+					"name": "Stanley Qiufan Chen 陈楸帆",
+					"id": 387398904,
+					"id_str": "387398904",
+					"indices": [
+						214,
+						225
+					]
+				},
+				{
+					"screen_name": "kaifulee",
+					"name": "Kai-Fu Lee",
+					"id": 50940456,
+					"id_str": "50940456",
+					"indices": [
+						226,
+						235
+					]
+				},
+				{
+					"screen_name": "Pulpcurry",
+					"name": "Andrew Nette",
+					"id": 297790369,
+					"id_str": "297790369",
+					"indices": [
+						236,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2yBBHhbGpA",
+					"expanded_url": "https://www.washingtonpost.com/arts-entertainment/2021/11/18/best-science-fiction-fantasy-horror-novels/",
+					"display_url": "washingtonpost.com/arts-entertain…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18653685,
+			"id_str": "18653685",
+			"name": "Post Book World",
+			"screen_name": "BookWorld",
+			"location": "Washington, D.C.",
+			"description": "All things books from The Washington Post.",
+			"url": "http://t.co/Q00MJOoqyW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Q00MJOoqyW",
+							"expanded_url": "http://www.washingtonpost.com/books",
+							"display_url": "washingtonpost.com/books",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17895,
+			"friends_count": 488,
+			"listed_count": 700,
+			"created_at": "Tue Jan 06 00:34:21 +0000 2009",
+			"favourites_count": 286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1321119975873171456/l0NRYorg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321119975873171456/l0NRYorg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18653685/1469482512",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🏆 Best scifi/fantasy/horror 2021 @jeffvandermeer @carolinehwrites @ericasatifka @wlgoodwater @dedreytnien @darylwriterguy @ClaireNorth42 @casskhaw @starkholborn @Louisecarey25 @elly_bangs @AliyaWhiteley @xuetingni @ChenQiufan @kaifulee @Pulpcurry https://t.co/2yBBHhbGpA"
+	},
+	{
 		"created_at": "Tue Nov 23 10:07:45 +0000 2021",
 		"id": 1463036341374042000,
 		"id_str": "1463086863858634754",
