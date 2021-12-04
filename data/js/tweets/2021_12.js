@@ -1,10 +1,128 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 23:23:32 +0000 2021",
+		"id": 1466075551635054600,
+		"id_str": "1466911005514952704",
+		"full_text": "📢 Our @WaPoFood holiday cookie package has arrived!! 📢 It was a pleasure to work with 12 such very talented bakers, who offered up these delicious, gorgeous recipes (thread!). https://t.co/NOxw83pFYe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WaPoFood",
+					"name": "Post Food",
+					"id": 35289761,
+					"id_str": "35289761",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NOxw83pFYe",
+					"expanded_url": "https://www.washingtonpost.com/food/interactive/2021/holiday-cookie-recipes/?tid=ss_tw",
+					"display_url": "washingtonpost.com/food/interacti…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 274038125,
+			"id_str": "274038125",
+			"name": "Becky Krystal",
+			"screen_name": "BeckyKrystal",
+			"location": "Washington, D.C.",
+			"description": "Staff writer for Voraciously @WaPoFood, dog owner, wannabe culinary genius. Opinions and desserts my own.",
+			"url": "http://t.co/JAid664rxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/JAid664rxw",
+							"expanded_url": "http://www.washingtonpost.com/people/becky-krystal",
+							"display_url": "washingtonpost.com/people/becky-k…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2661,
+			"friends_count": 422,
+			"listed_count": 95,
+			"created_at": "Tue Mar 29 16:16:08 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963076021980450817/22a6mwuR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963076021980450817/22a6mwuR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/274038125/1558454626",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 Our @WaPoFood holiday cookie package has arrived!! 📢 It was a pleasure to work with 12 such very talented bakers, who offered up these delicious, gorgeous recipes (thread!). https://t.co/NOxw83pFYe"
+	},
+	{
 		"created_at": "Thu Dec 02 10:08:20 +0000 2021",
 		"id": 1466348501466435600,
 		"id_str": "1466348501466435590",
-		"full_text": "The Roaring Twenties 2.0 | National Museums Scotland Blog via ⁦@NtlMuseumsScot⁩ an interesting perspective (plus a museum perspective on some films) https://t.co/mwGzoyh8D8",
+		"full_text": "The Roaring Twenties 2.0 | National Museums Scotland Blog via @NtlMuseumsScot an interesting perspective (plus a museum perspective on some films) https://t.co/mwGzoyh8D8",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,6 +234,6 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "The Roaring Twenties 2.0 | National Museums Scotland Blog via ⁦@NtlMuseumsScot⁩ an interesting perspective (plus a museum perspective on some films) https://t.co/mwGzoyh8D8"
+		"text": "The Roaring Twenties 2.0 | National Museums Scotland Blog via @NtlMuseumsScot an interesting perspective (plus a museum perspective on some films) https://t.co/mwGzoyh8D8"
 	}
 ]
