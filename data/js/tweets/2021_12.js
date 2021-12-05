@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 09:49:00 +0000 2021",
+		"id": 1466791101566759000,
+		"id_str": "1467068410609561600",
+		"full_text": "Romance fiction is just as important as literary fiction or crime fiction or science fiction. Storytelling is just as valuable as exquisite language. Superb fantasy novels are just as notable as superb Booker prize winners. A great book is a great book.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 370003710,
+			"id_str": "370003710",
+			"name": "Will Dean",
+			"screen_name": "willrdean",
+			"location": "The forest",
+			"description": "Writer. The Last Thing To Burn ‘21, First Born ‘22 (Hodder UK, Emily Bestler US). Tuva (Oneworld) Bad Apples ‘21. Lit Agent: Kate Burke, Screen: Conrad Williams",
+			"url": "https://t.co/qRwJr5vTiV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qRwJr5vTiV",
+							"expanded_url": "http://blakefriedmann.co.uk/will-dean",
+							"display_url": "blakefriedmann.co.uk/will-dean",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13595,
+			"friends_count": 1991,
+			"listed_count": 86,
+			"created_at": "Thu Sep 08 09:21:22 +0000 2011",
+			"favourites_count": 102986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227213145724379141/6AaKF3DO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227213145724379141/6AaKF3DO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/370003710/1592030117",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 493,
+		"favorite_count": 2475,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Romance fiction is just as important as literary fiction or crime fiction or science fiction. Storytelling is just as valuable as exquisite language. Superb fantasy novels are just as notable as superb Booker prize winners. A great book is a great book."
+	},
+	{
 		"created_at": "Fri Dec 03 23:23:32 +0000 2021",
 		"id": 1466075551635054600,
 		"id_str": "1466911005514952704",
