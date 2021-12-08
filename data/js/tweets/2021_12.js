@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 20:11:48 +0000 2021",
+		"id": 1468222029597917200,
+		"id_str": "1468312305989402625",
+		"full_text": "How did we (@BL_DigiSchol &amp; @britishlibrary colleagues) respond to the pandemic? I've just blogged: \"Digital transformations and the pandemic: the Digital Scholarship view\", check it out: https://t.co/8rm5rsyEQ7 @BLAsia_Africa #bldigital https://t.co/Hf9rFPNvgf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bldigital",
+					"indices": [
+						231,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BL_DigiSchol",
+					"name": "Digital Scholarship",
+					"id": 744814089172455400,
+					"id_str": "744814089172455424",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "britishlibrary",
+					"name": "The British Library",
+					"id": 21744554,
+					"id_str": "21744554",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "BLAsia_Africa",
+					"name": "BL Asian and African",
+					"id": 1307133222,
+					"id_str": "1307133222",
+					"indices": [
+						216,
+						230
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8rm5rsyEQ7",
+					"expanded_url": "https://blogs.bl.uk/digital-scholarship/2021/12/digital-transformations-and-the-pandemic-the-digital-scholarship-view.html",
+					"display_url": "blogs.bl.uk/digital-schola…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468222000854360000,
+					"id_str": "1468222000854360073",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FGAsIXxWYAkS7-h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGAsIXxWYAkS7-h.jpg",
+					"url": "https://t.co/Hf9rFPNvgf",
+					"display_url": "pic.twitter.com/Hf9rFPNvgf",
+					"expanded_url": "https://twitter.com/BL_AdiKS/status/1468222029597917199/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 947,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1216,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468222000854360000,
+					"id_str": "1468222000854360073",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FGAsIXxWYAkS7-h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGAsIXxWYAkS7-h.jpg",
+					"url": "https://t.co/Hf9rFPNvgf",
+					"display_url": "pic.twitter.com/Hf9rFPNvgf",
+					"expanded_url": "https://twitter.com/BL_AdiKS/status/1468222029597917199/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 947,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1216,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2277671516,
+			"id_str": "2277671516",
+			"name": "Adi Keinan-Schoonbae",
+			"screen_name": "BL_AdiKS",
+			"location": "London",
+			"description": "Digital Curator @britishlibrary @BL_DigiSchol for @BLAsia_Africa collections. Former @UCLarchaeology @MicroPasts",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1639,
+			"friends_count": 572,
+			"listed_count": 81,
+			"created_at": "Sun Jan 05 14:18:58 +0000 2014",
+			"favourites_count": 6176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111383582759518208/4boX0J0i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111383582759518208/4boX0J0i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2277671516/1553810381",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How did we (@BL_DigiSchol &amp; @britishlibrary colleagues) respond to the pandemic? I've just blogged: \"Digital transformations and the pandemic: the Digital Scholarship view\", check it out: https://t.co/8rm5rsyEQ7 @BLAsia_Africa #bldigital https://t.co/Hf9rFPNvgf"
+	},
+	{
 		"created_at": "Sat Dec 04 09:49:00 +0000 2021",
 		"id": 1466791101566759000,
 		"id_str": "1467068410609561600",
