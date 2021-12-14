@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 07:48:27 +0000 2021",
+		"id": 1470263907591807000,
+		"id_str": "1470299562774446080",
+		"full_text": "The #AussieBirdCount results are IN!\n\nFor the 8th year in a row, Rainbow Lorikeets have taken the crown for the most counted bird.\n\nOver 100,000 people took part this year, and together we counted and vetted almost 5 million birds.\n\nA huge thank you to everyone who counted! https://t.co/urEW4pZcHg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AussieBirdCount",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470263894950228000,
+					"id_str": "1470263894950227969",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdtOQCXMAE_k8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdtOQCXMAE_k8y.jpg",
+					"url": "https://t.co/urEW4pZcHg",
+					"display_url": "pic.twitter.com/urEW4pZcHg",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1470263907591806978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470263894950228000,
+					"id_str": "1470263894950227969",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdtOQCXMAE_k8y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdtOQCXMAE_k8y.jpg",
+					"url": "https://t.co/urEW4pZcHg",
+					"display_url": "pic.twitter.com/urEW4pZcHg",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1470263907591806978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470263897940762600,
+					"id_str": "1470263897940762624",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdtObLXIAAghxb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdtObLXIAAghxb.jpg",
+					"url": "https://t.co/urEW4pZcHg",
+					"display_url": "pic.twitter.com/urEW4pZcHg",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1470263907591806978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470263900167979000,
+					"id_str": "1470263900167979008",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdtOjeXwAAS-ZH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdtOjeXwAAS-ZH.jpg",
+					"url": "https://t.co/urEW4pZcHg",
+					"display_url": "pic.twitter.com/urEW4pZcHg",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1470263907591806978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1499,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470263902315454500,
+					"id_str": "1470263902315454467",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdtOreXoAMucex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdtOreXoAMucex.jpg",
+					"url": "https://t.co/urEW4pZcHg",
+					"display_url": "pic.twitter.com/urEW4pZcHg",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1470263907591806978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145136771,
+			"id_str": "145136771",
+			"name": "BirdLife Australia",
+			"screen_name": "BirdlifeOz",
+			"location": "Australia",
+			"description": "Conserving Australia's birds and their habitats through advocacy, targeted research, on-ground work and monitoring.  Standing together to stop extinctions!",
+			"url": "https://t.co/i9NWEcpO5i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/i9NWEcpO5i",
+							"expanded_url": "https://birdlife.org.au/",
+							"display_url": "birdlife.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24862,
+			"friends_count": 942,
+			"listed_count": 403,
+			"created_at": "Tue May 18 06:05:23 +0000 2010",
+			"favourites_count": 12816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1580EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145136771/1636690023",
+			"profile_link_color": "003A80",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B6B8B1",
+			"profile_text_color": "0F0E0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #AussieBirdCount results are IN!\n\nFor the 8th year in a row, Rainbow Lorikeets have taken the crown for the most counted bird.\n\nOver 100,000 people took part this year, and together we counted and vetted almost 5 million birds.\n\nA huge thank you to everyone who counted! https://t.co/urEW4pZcHg"
+	},
+	{
 		"created_at": "Sun Dec 12 03:11:58 +0000 2021",
 		"id": 1469761434770935800,
 		"id_str": "1469867595377504260",
@@ -38,7 +329,7 @@ Grailbird.data.tweets_2021_12 =
 			"name": "Guardian Australia",
 			"screen_name": "GuardianAus",
 			"location": "Australia",
-			"description": "Latest news from Guardian Australia\n\n📨 Newsletters: https://t.co/iUNmfKF1Ef\n📰 Contribute: https://t.co/BD5vlNOCo4\n👩‍💻 Live blog: https://t.co/fZdHED7j2x",
+			"description": "Latest news from Guardian Australia\n\n📨 Newsletters: https://t.co/iUNmfKF1Ef\n📰 Contribute: https://t.co/BD5vlNOCo4\n👩💻 Live blog: https://t.co/fZdHED7j2x",
 			"url": "https://t.co/11mlSVzfGG",
 			"entities": {
 				"url": {
