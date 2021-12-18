@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 10:27:02 +0000 2021",
+		"id": 1471625278820524000,
+		"id_str": "1471789026029944833",
+		"full_text": "A big look at how quickly countries were able to vaccinate against Covid-19  – and how that rollout speed relates to wealth, cases and contract agreements https://t.co/ll0Uc72B8e https://t.co/YbkQkwou8t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ll0Uc72B8e",
+					"expanded_url": "https://www.theguardian.com/world/ng-interactive/2021/dec/17/vaccine-rollout-data-by-country-shows-who-has-vaccinated-faster-and-why-exposing-the-global-covid-19-divide",
+					"display_url": "theguardian.com/world/ng-inter…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471624154508001300,
+					"id_str": "1471624154508001284",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471624154508001284/pu/img/DNEUy3d2wF3jyp8F.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471624154508001284/pu/img/DNEUy3d2wF3jyp8F.jpg",
+					"url": "https://t.co/YbkQkwou8t",
+					"display_url": "pic.twitter.com/YbkQkwou8t",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1471625278820524032/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471624154508001300,
+					"id_str": "1471624154508001284",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471624154508001284/pu/img/DNEUy3d2wF3jyp8F.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471624154508001284/pu/img/DNEUy3d2wF3jyp8F.jpg",
+					"url": "https://t.co/YbkQkwou8t",
+					"display_url": "pic.twitter.com/YbkQkwou8t",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1471625278820524032/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12266,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471624154508001284/pu/vid/480x270/4wGTgIO_sDVz5oVy.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471624154508001284/pu/vid/1280x720/Zmj5TQki_fFBbmo2.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471624154508001284/pu/vid/640x360/rxx7gOw--ATV5frP.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471624154508001284/pu/pl/iC2YpbwYnig4t1my.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48176841,
+			"id_str": "48176841",
+			"name": "Nick Evershed",
+			"screen_name": "NickEvershed",
+			"location": "Australia",
+			"description": "Data and interactives at @GuardianAus. ALDI dad. Occasional investigations. Used to be a scientist. DMs open, or secure contact in bio.",
+			"url": "https://t.co/b4kNBtMHmO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b4kNBtMHmO",
+							"expanded_url": "http://www.theguardian.com/profile/nick-evershed",
+							"display_url": "theguardian.com/profile/nick-e…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12631,
+			"friends_count": 4046,
+			"listed_count": 425,
+			"created_at": "Thu Jun 18 00:22:56 +0000 2009",
+			"favourites_count": 11329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471717792801976324/kFThM-t-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471717792801976324/kFThM-t-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48176841/1550016882",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A big look at how quickly countries were able to vaccinate against Covid-19  – and how that rollout speed relates to wealth, cases and contract agreements https://t.co/ll0Uc72B8e https://t.co/YbkQkwou8t"
+	},
+	{
 		"created_at": "Wed Dec 15 22:07:11 +0000 2021",
 		"id": 1471240446684766200,
 		"id_str": "1471240446684766208",
