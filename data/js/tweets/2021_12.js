@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 19 20:46:33 +0000 2021",
+		"id": 1472669707564040200,
+		"id_str": "1472669707564040193",
+		"full_text": "This looks amazing (it has interior decoration as well) but it made me wonder about a local studies twist to cookie or gingerbread houses (could be an interesting project some time). https://t.co/WyFAy6j75k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WyFAy6j75k",
+					"expanded_url": "https://twitter.com/epicurious/status/1472341201802215427",
+					"display_url": "twitter.com/epicurious/sta…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2537,
+			"friends_count": 926,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1472341201802215400,
+		"quoted_status_id_str": "1472341201802215427",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WyFAy6j75k",
+			"expanded": "https://twitter.com/epicurious/status/1472341201802215427",
+			"display": "twitter.com/epicurious/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 18 23:01:11 +0000 2021",
+			"id": 1472341201802215400,
+			"id_str": "1472341201802215427",
+			"full_text": "Need a project? https://t.co/2CDqTjkXxV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2CDqTjkXxV",
+						"expanded_url": "https://trib.al/qME8WIj",
+						"display_url": "trib.al/qME8WIj",
+						"indices": [
+							16,
+							39
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16145224,
+				"id_str": "16145224",
+				"name": "epicurious",
+				"screen_name": "epicurious",
+				"location": "New York City",
+				"description": "",
+				"url": "https://t.co/TLJZuoDtB8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TLJZuoDtB8",
+								"expanded_url": "http://www.epicurious.com",
+								"display_url": "epicurious.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2704121,
+				"friends_count": 270,
+				"listed_count": 9821,
+				"created_at": "Fri Sep 05 15:49:30 +0000 2008",
+				"favourites_count": 4605,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 75693,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656919506007162880/IwTV0izS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656919506007162880/IwTV0izS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16145224/1623794406",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "2D7C0B",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This looks amazing (it has interior decoration as well) but it made me wonder about a local studies twist to cookie or gingerbread houses (could be an interesting project some time). https://t.co/WyFAy6j75k"
+	},
+	{
 		"created_at": "Fri Dec 17 10:27:02 +0000 2021",
 		"id": 1471625278820524000,
 		"id_str": "1471789026029944833",
