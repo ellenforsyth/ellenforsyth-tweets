@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 21 03:22:43 +0000 2021",
+		"id": 1473131794086072300,
+		"id_str": "1473131794086072321",
+		"full_text": "This is wonderful (and hopefully will inspire some local studies recordings as well) - go and have a listen, it is brilliant https://t.co/8gcqWVh0ha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8gcqWVh0ha",
+					"expanded_url": "https://twitter.com/mtchl/status/1473129167268954113",
+					"display_url": "twitter.com/mtchl/status/1…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal country.",
+			"url": "https://t.co/Tw5J1g7ySX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Tw5J1g7ySX",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 926,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1473129167268954000,
+		"quoted_status_id_str": "1473129167268954113",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8gcqWVh0ha",
+			"expanded": "https://twitter.com/mtchl/status/1473129167268954113",
+			"display": "twitter.com/mtchl/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 21 03:12:17 +0000 2021",
+			"id": 1473129167268954000,
+			"id_str": "1473129167268954113",
+			"full_text": "✨ Launched! ✨Get immersed in a Murrumbidgee wetland with this audiovisual data-story. Created for @theCEWH  @FlowMERprogram https://t.co/7yP07zh27X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "theCEWH",
+						"name": "Environmental Water",
+						"id": 1727599344,
+						"id_str": "1727599344",
+						"indices": [
+							98,
+							106
+						]
+					},
+					{
+						"screen_name": "FlowMERprogram",
+						"name": "The Flow-MER Program",
+						"id": 1202819599181336600,
+						"id_str": "1202819599181336581",
+						"indices": [
+							108,
+							123
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7yP07zh27X",
+						"expanded_url": "https://flow-mer.org.au/napnap/",
+						"display_url": "flow-mer.org.au/napnap/",
+						"indices": [
+							124,
+							147
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14902853,
+				"id_str": "14902853",
+				"name": "Mitchell Whitelaw",
+				"screen_name": "mtchl",
+				"location": "Canberra",
+				"description": "Digital culture & design; generous interfaces; data vis; more-than-human worlds. Theory and practice. Professor, @ANU_Design. Latest: https://t.co/Mv5QVkgwD2",
+				"url": "https://t.co/4Wy5qAo15C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4Wy5qAo15C",
+								"expanded_url": "http://mtchl.net",
+								"display_url": "mtchl.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Mv5QVkgwD2",
+								"expanded_url": "http://molonglo.life",
+								"display_url": "molonglo.life",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3611,
+				"friends_count": 606,
+				"listed_count": 253,
+				"created_at": "Sun May 25 23:25:05 +0000 2008",
+				"favourites_count": 6154,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9704,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3D3D3D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/399568370/mtchl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/399568370/mtchl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14902853/1399695416",
+				"profile_link_color": "5C220F",
+				"profile_sidebar_border_color": "414141",
+				"profile_sidebar_fill_color": "71754A",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is wonderful (and hopefully will inspire some local studies recordings as well) - go and have a listen, it is brilliant https://t.co/8gcqWVh0ha"
+	},
+	{
 		"created_at": "Sun Dec 19 20:46:33 +0000 2021",
 		"id": 1472669707564040200,
 		"id_str": "1472669707564040193",
