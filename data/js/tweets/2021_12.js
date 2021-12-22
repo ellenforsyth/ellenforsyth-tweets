@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 22 03:02:27 +0000 2021",
+		"id": 1473397871445561300,
+		"id_str": "1473489078934900739",
+		"full_text": "Looking for something to do on Boxing Day while your Christmas dinner digests? 🎄 Why not take part in our #BirdsInBackyards Summer surveys! 🐦\n\nhttps://t.co/xhPeQLY9QB \n\n📷 Photo: Peregrine Falcon © Kevin Bowring 2021 https://t.co/NnbkWmK9i0 https://t.co/6v8KQhMs29",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BirdsInBackyards",
+					"indices": [
+						106,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xhPeQLY9QB",
+					"expanded_url": "https://www.birdsinbackyards.net/content/article/Suns-out-birds-out-Its-summer-survey-time",
+					"display_url": "birdsinbackyards.net/content/articl…",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/NnbkWmK9i0",
+					"expanded_url": "http://birdlifephotography.org.au",
+					"display_url": "birdlifephotography.org.au",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1472419594446930000,
+					"id_str": "1472419594446929922",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FG8V0edVgAISLD7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG8V0edVgAISLD7.jpg",
+					"url": "https://t.co/6v8KQhMs29",
+					"display_url": "pic.twitter.com/6v8KQhMs29",
+					"expanded_url": "https://twitter.com/UrbanBirdsOz/status/1473397871445561346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472419594446930000,
+					"id_str": "1472419594446929922",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FG8V0edVgAISLD7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG8V0edVgAISLD7.jpg",
+					"url": "https://t.co/6v8KQhMs29",
+					"display_url": "pic.twitter.com/6v8KQhMs29",
+					"expanded_url": "https://twitter.com/UrbanBirdsOz/status/1473397871445561346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 927695714116710400,
+			"id_str": "927695714116710406",
+			"name": "Birds in Backyards",
+			"screen_name": "UrbanBirdsOz",
+			"location": "Australia",
+			"description": "BirdLife Australia Insta: @birdsinbackyards Fb: BirdsinBackyards YouTube: https://t.co/8oWRDL7sty BIBY, Powerful Owl, Birds in Schools, Bird Strike",
+			"url": "https://t.co/0Bh5V11eT8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Bh5V11eT8",
+							"expanded_url": "http://linktr.ee/UrbanBirdsOz",
+							"display_url": "linktr.ee/UrbanBirdsOz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8oWRDL7sty",
+							"expanded_url": "http://tiny.cc/kfjqbz",
+							"display_url": "tiny.cc/kfjqbz",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2727,
+			"friends_count": 297,
+			"listed_count": 47,
+			"created_at": "Tue Nov 07 00:34:28 +0000 2017",
+			"favourites_count": 4905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1293681139228405761/7dL7AMEC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293681139228405761/7dL7AMEC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/927695714116710406/1632267787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking for something to do on Boxing Day while your Christmas dinner digests? 🎄 Why not take part in our #BirdsInBackyards Summer surveys! 🐦\n\nhttps://t.co/xhPeQLY9QB \n\n📷 Photo: Peregrine Falcon © Kevin Bowring 2021 https://t.co/NnbkWmK9i0 https://t.co/6v8KQhMs29"
+	},
+	{
 		"created_at": "Tue Dec 21 03:22:43 +0000 2021",
 		"id": 1473131794086072300,
 		"id_str": "1473131794086072321",
