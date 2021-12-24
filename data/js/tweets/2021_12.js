@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 24 02:28:46 +0000 2021",
+		"id": 1474205378787250200,
+		"id_str": "1474205378787250177",
+		"full_text": "@superchicken77 @ArnoldArboretum That looks a good one to try",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "superchicken77",
+					"name": "Library Owl",
+					"id": 86904214,
+					"id_str": "86904214",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ArnoldArboretum",
+					"name": "Arnold Arboretum",
+					"id": 48025961,
+					"id_str": "48025961",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1474189674658762800,
+		"in_reply_to_status_id_str": "1474189674658762759",
+		"in_reply_to_user_id": 86904214,
+		"in_reply_to_user_id_str": "86904214",
+		"in_reply_to_screen_name": "superchicken77",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2539,
+			"friends_count": 927,
+			"listed_count": 0,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@superchicken77 @ArnoldArboretum That looks a good one to try"
+	},
+	{
+		"created_at": "Fri Dec 24 01:03:39 +0000 2021",
+		"id": 1473990626949668900,
+		"id_str": "1474183957402980370",
+		"full_text": "Is time dragging today? You can help researchers while avoiding doomscrolling... https://t.co/wkYVoRSy9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wkYVoRSy9o",
+					"expanded_url": "https://twitter.com/libcrowds/status/1473737089766334472",
+					"display_url": "twitter.com/libcrowds/stat…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744814089172455400,
+			"id_str": "744814089172455424",
+			"name": "Digital Scholarship",
+			"screen_name": "BL_DigiSchol",
+			"location": "United Kingdom",
+			"description": "Enabling innovative research with @britishlibrary digital collections. Tweets by @ndalyrose, @miss_wisdom, @mia_out & @BL_AdiKS",
+			"url": "https://t.co/E7eDKDTLxe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E7eDKDTLxe",
+							"expanded_url": "http://www.bl.uk/subjects/digital-scholarship",
+							"display_url": "bl.uk/subjects/digit…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3843,
+			"friends_count": 1836,
+			"listed_count": 94,
+			"created_at": "Mon Jun 20 08:48:11 +0000 2016",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744814089172455424/1466432652",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1473737089766334500,
+		"quoted_status_id_str": "1473737089766334472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wkYVoRSy9o",
+			"expanded": "https://twitter.com/libcrowds/status/1473737089766334472",
+			"display": "twitter.com/libcrowds/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 22 19:27:57 +0000 2021",
+			"id": 1473737089766334500,
+			"id_str": "1473737089766334472",
+			"full_text": "Help us understand a period of immense change by reading what ordinary people living through those changes read.\n\nWhat did the Victorians think a 'machine' was - and did it matter if you were a worker or a factory owner, or where you lived? Help find out: https://t.co/pzUVm0WXer",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pzUVm0WXer",
+						"expanded_url": "https://www.zooniverse.org/projects/bldigital/living-with-machines/",
+						"display_url": "zooniverse.org/projects/bldig…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3234931837,
+				"id_str": "3234931837",
+				"name": "LibCrowds",
+				"screen_name": "LibCrowds",
+				"location": "London, England",
+				"description": "Crowdsourcing projects at the British Library @BL_DigiSchol @LivingwMachines. Tweets mostly @mia_out. Join or view our newsletter https://t.co/pGxwBGzbYQ",
+				"url": "https://t.co/SURlqPLgTx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SURlqPLgTx",
+								"expanded_url": "http://www.libcrowds.com",
+								"display_url": "libcrowds.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pGxwBGzbYQ",
+								"expanded_url": "https://bit.ly/LibCrowds",
+								"display_url": "bit.ly/LibCrowds",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1019,
+				"friends_count": 1335,
+				"listed_count": 32,
+				"created_at": "Wed Jun 03 08:47:01 +0000 2015",
+				"favourites_count": 712,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2036,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/614090415290077184/v3y8QHrV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/614090415290077184/v3y8QHrV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3234931837/1433325256",
+				"profile_link_color": "CC0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is time dragging today? You can help researchers while avoiding doomscrolling... https://t.co/wkYVoRSy9o"
+	},
+	{
 		"created_at": "Wed Dec 22 20:52:44 +0000 2021",
 		"id": 1473758426974998500,
 		"id_str": "1473758426974998528",
