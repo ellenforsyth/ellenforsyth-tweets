@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 26 06:58:23 +0000 2021",
+		"id": 1474998005254148000,
+		"id_str": "1474998005254148096",
+		"full_text": "sobering reading https://t.co/xZ8pBM90D0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xZ8pBM90D0",
+					"expanded_url": "https://twitter.com/NYTmag/status/1474022094761517056",
+					"display_url": "twitter.com/NYTmag/status/…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2540,
+			"friends_count": 927,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1474022094761517000,
+		"quoted_status_id_str": "1474022094761517056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xZ8pBM90D0",
+			"expanded": "https://twitter.com/NYTmag/status/1474022094761517056",
+			"display": "twitter.com/NYTmag/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 23 14:20:28 +0000 2021",
+			"id": 1474022094761517000,
+			"id_str": "1474022094761517056",
+			"full_text": "Our cover this week: Our last issue of the year always honors the artists, innovators and thinkers we lost over the past twelve months. \nThese are The Lives They Lived. \n\nhttps://t.co/iKDXe4Nvoi https://t.co/Ma8ES93gO8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iKDXe4Nvoi",
+						"expanded_url": "https://nyti.ms/3yTxgz4",
+						"display_url": "nyti.ms/3yTxgz4",
+						"indices": [
+							171,
+							194
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1474022092182073300,
+						"id_str": "1474022092182073348",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/FHTHSHuXMAQGndx.png",
+						"media_url_https": "https://pbs.twimg.com/media/FHTHSHuXMAQGndx.png",
+						"url": "https://t.co/Ma8ES93gO8",
+						"display_url": "pic.twitter.com/Ma8ES93gO8",
+						"expanded_url": "https://twitter.com/NYTmag/status/1474022094761517056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 631,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 559,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 631,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1474022092182073300,
+						"id_str": "1474022092182073348",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/FHTHSHuXMAQGndx.png",
+						"media_url_https": "https://pbs.twimg.com/media/FHTHSHuXMAQGndx.png",
+						"url": "https://t.co/Ma8ES93gO8",
+						"display_url": "pic.twitter.com/Ma8ES93gO8",
+						"expanded_url": "https://twitter.com/NYTmag/status/1474022094761517056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 631,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 559,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 631,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16929600,
+				"id_str": "16929600",
+				"name": "NYT Magazine",
+				"screen_name": "NYTmag",
+				"location": "New York, NY",
+				"description": "Stories from the Sunday Magazine. We're on email too: https://t.co/z59XgaFsDT",
+				"url": "https://t.co/gvk0bOffLF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gvk0bOffLF",
+								"expanded_url": "http://nytimes.com/magazine",
+								"display_url": "nytimes.com/magazine",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/z59XgaFsDT",
+								"expanded_url": "https://nyti.ms/2PwOTxg",
+								"display_url": "nyti.ms/2PwOTxg",
+								"indices": [
+									54,
+									77
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 262414,
+				"friends_count": 201,
+				"listed_count": 5300,
+				"created_at": "Thu Oct 23 16:19:20 +0000 2008",
+				"favourites_count": 845,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 32175,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878264759216484354/_622k9tZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878264759216484354/_622k9tZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16929600/1489090976",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 80,
+			"favorite_count": 319,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "sobering reading https://t.co/xZ8pBM90D0"
+	},
+	{
 		"created_at": "Fri Dec 24 21:02:10 +0000 2021",
 		"id": 1474485574908084200,
 		"id_str": "1474485574908084225",
