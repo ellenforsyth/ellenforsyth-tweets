@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 26 22:22:19 +0000 2021",
+		"id": 1475230522955612200,
+		"id_str": "1475230522955612170",
+		"full_text": "Very interesting reading (and well worth reading right to the end) and yes, it is also depressing and frustrating reading https://t.co/0LbL3OnBQu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0LbL3OnBQu",
+					"expanded_url": "https://twitter.com/LibraryJournal/status/1471214781147369484",
+					"display_url": "twitter.com/LibraryJournal…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2539,
+			"friends_count": 927,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1471214781147369500,
+		"quoted_status_id_str": "1471214781147369484",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0LbL3OnBQu",
+			"expanded": "https://twitter.com/LibraryJournal/status/1471214781147369484",
+			"display": "twitter.com/LibraryJournal…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 15 20:25:12 +0000 2021",
+			"id": 1471214781147369500,
+			"id_str": "1471214781147369484",
+			"full_text": "New Article: \"Sixty Years Of Gender Representation In Children’s #Books: Conditions Associated With Overrepresentation of Male Versus Female Protagonists\" (via @PLOSONE) https://t.co/DnjBGMlnsT https://t.co/KvrGXSmQul",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Books",
+						"indices": [
+							65,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PLOSONE",
+						"name": "PLOS ONE",
+						"id": 27596259,
+						"id_str": "27596259",
+						"indices": [
+							160,
+							168
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DnjBGMlnsT",
+						"expanded_url": "http://ow.ly/CEKC50HbJK2",
+						"display_url": "ow.ly/CEKC50HbJK2",
+						"indices": [
+							170,
+							193
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1471214780035879000,
+						"id_str": "1471214780035878912",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/FGrODDBX0AAhb3l.png",
+						"media_url_https": "https://pbs.twimg.com/media/FGrODDBX0AAhb3l.png",
+						"url": "https://t.co/KvrGXSmQul",
+						"display_url": "pic.twitter.com/KvrGXSmQul",
+						"expanded_url": "https://twitter.com/LibraryJournal/status/1471214781147369484/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 673,
+								"h": 522,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 673,
+								"h": 522,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 673,
+								"h": 522,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1471214780035879000,
+						"id_str": "1471214780035878912",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/FGrODDBX0AAhb3l.png",
+						"media_url_https": "https://pbs.twimg.com/media/FGrODDBX0AAhb3l.png",
+						"url": "https://t.co/KvrGXSmQul",
+						"display_url": "pic.twitter.com/KvrGXSmQul",
+						"expanded_url": "https://twitter.com/LibraryJournal/status/1471214781147369484/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 673,
+								"h": 522,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 673,
+								"h": 522,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 673,
+								"h": 522,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15169290,
+				"id_str": "15169290",
+				"name": "Library Journal",
+				"screen_name": "LibraryJournal",
+				"location": "New York, NY",
+				"description": "Library views, news, and book reviews from LJ staffers",
+				"url": "http://t.co/WSOb61lYld",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WSOb61lYld",
+								"expanded_url": "http://www.libraryjournal.com",
+								"display_url": "libraryjournal.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 243705,
+				"friends_count": 410,
+				"listed_count": 5862,
+				"created_at": "Thu Jun 19 13:51:48 +0000 2008",
+				"favourites_count": 3842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 51078,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5E9F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011300661726760969/aq50CI4f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15169290/1539277524",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "6C6C6C",
+				"profile_sidebar_fill_color": "CBCDC5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very interesting reading (and well worth reading right to the end) and yes, it is also depressing and frustrating reading https://t.co/0LbL3OnBQu"
+	},
+	{
 		"created_at": "Sun Dec 26 06:58:23 +0000 2021",
 		"id": 1474998005254148000,
 		"id_str": "1474998005254148096",
