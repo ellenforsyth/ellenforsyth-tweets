@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 03 23:34:34 +0000 2022",
+		"id": 1478147808045584400,
+		"id_str": "1478147808045584387",
+		"full_text": "Publishing more fiction by Australian authors with disability is crucial for disabled people's representation - and their wellbeing https://t.co/FKHXAAAhhz  by @LielKBridgford via @abcnews points for libraries to consider too",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LielKBridgford",
+					"name": "Liel K Bridgford",
+					"id": 1324148359699947500,
+					"id_str": "1324148359699947520",
+					"indices": [
+						160,
+						175
+					]
+				},
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						180,
+						188
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FKHXAAAhhz",
+					"expanded_url": "https://www.abc.net.au/news/2022-01-04/australian-authors-own-voices-and-disability-fiction/100704684?utm_campaign=abc_news_web&utm_content=twitter&utm_medium=content_shared&utm_source=abc_news_web",
+					"display_url": "abc.net.au/news/2022-01-0…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2536,
+			"friends_count": 926,
+			"listed_count": 0,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Publishing more fiction by Australian authors with disability is crucial for disabled people's representation - and their wellbeing https://t.co/FKHXAAAhhz  by @LielKBridgford via @abcnews points for libraries to consider too"
+	},
+	{
 		"created_at": "Mon Jan 03 04:51:31 +0000 2022",
 		"id": 1477865183842222000,
 		"id_str": "1477865183842222080",
