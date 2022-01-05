@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 20:45:18 +0000 2022",
+		"id": 1478467599247634400,
+		"id_str": "1478467599247634435",
+		"full_text": "this looks an interesting call for contributions (which I found out thanks to @CelmaraPocock ) https://t.co/154WgKt1QR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CelmaraPocock",
+					"name": "CelmaraPocock",
+					"id": 1299157946182414300,
+					"id_str": "1299157946182414336",
+					"indices": [
+						78,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/154WgKt1QR",
+					"expanded_url": "https://twitter.com/aanpress/status/1478010558607671302",
+					"display_url": "twitter.com/aanpress/statu…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2537,
+			"friends_count": 926,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1478010558607671300,
+		"quoted_status_id_str": "1478010558607671302",
+		"quoted_status_permalink": {
+			"url": "https://t.co/154WgKt1QR",
+			"expanded": "https://twitter.com/aanpress/status/1478010558607671302",
+			"display": "twitter.com/aanpress/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 03 14:29:11 +0000 2022",
+			"id": 1478010558607671300,
+			"id_str": "1478010558607671302",
+			"full_text": "And lastly calling all authors, author librarians and librarian authors, you've asked for it, you've been excited about it, and at last we can announce the OC for 'The Librarian' https://t.co/txWaMyNWYt https://t.co/kQa7OYmlNk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/txWaMyNWYt",
+						"expanded_url": "http://aanpress.com/TL_2022_submission.pdf",
+						"display_url": "aanpress.com/TL_2022_submis…",
+						"indices": [
+							179,
+							202
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1478010502030712800,
+						"id_str": "1478010502030712840",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/FILyuIPWYAg1xMO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FILyuIPWYAg1xMO.jpg",
+						"url": "https://t.co/kQa7OYmlNk",
+						"display_url": "pic.twitter.com/kQa7OYmlNk",
+						"expanded_url": "https://twitter.com/aanpress/status/1478010558607671302/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 492,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 841,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 279,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1478010502030712800,
+						"id_str": "1478010502030712840",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/FILyuIPWYAg1xMO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FILyuIPWYAg1xMO.jpg",
+						"url": "https://t.co/kQa7OYmlNk",
+						"display_url": "pic.twitter.com/kQa7OYmlNk",
+						"expanded_url": "https://twitter.com/aanpress/status/1478010558607671302/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 492,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 841,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 279,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 826594230164475900,
+				"id_str": "826594230164475905",
+				"name": "Air and Nothingness Press (aanpress.com)",
+				"screen_name": "aanpress",
+				"location": "Pittsburgh, PA",
+				"description": "Publisher of F/SF anthologies and story collections by authors Steph Swainston, Jonathan L. Howard, Jamie Lackey, and Robert Desnos - 25th Year 1997-2022",
+				"url": "https://t.co/SleWmukKzN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SleWmukKzN",
+								"expanded_url": "http://www.aanpress.com",
+								"display_url": "aanpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 849,
+				"friends_count": 120,
+				"listed_count": 17,
+				"created_at": "Wed Feb 01 00:53:16 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2861,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826595437775814656/J0Jsyv90_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826595437775814656/J0Jsyv90_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/826594230164475905/1638144002",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this looks an interesting call for contributions (which I found out thanks to @CelmaraPocock ) https://t.co/154WgKt1QR"
+	},
+	{
 		"created_at": "Mon Jan 03 23:34:34 +0000 2022",
 		"id": 1478147808045584400,
 		"id_str": "1478147808045584387",
