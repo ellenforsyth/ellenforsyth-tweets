@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 06:39:47 +0000 2022",
+		"id": 1478979590773096400,
+		"id_str": "1478979590773096448",
+		"full_text": "There are roles for local studies collecting in this https://t.co/MkjNMOuI4X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MkjNMOuI4X",
+					"expanded_url": "https://twitter.com/citiesandmemory/status/1478811537703718915",
+					"display_url": "twitter.com/citiesandmemor…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2537,
+			"friends_count": 926,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1478811537703719000,
+		"quoted_status_id_str": "1478811537703718915",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MkjNMOuI4X",
+			"expanded": "https://twitter.com/citiesandmemory/status/1478811537703718915",
+			"display": "twitter.com/citiesandmemor…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 05 19:32:00 +0000 2022",
+			"id": 1478811537703719000,
+			"id_str": "1478811537703718915",
+			"full_text": "\"If we can help people to listen again to the sounds in which they are immersed every day, then we can also help them to appreciate them.\" Our call to action for the #fieldrecording world in this essay on the noise made by people 📖 📢 https://t.co/E2umpTQVDH https://t.co/GxqTo1s2nE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "fieldrecording",
+						"indices": [
+							166,
+							181
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/E2umpTQVDH",
+						"expanded_url": "https://citiesandmemory.com/anthropophony-the-noise-made-by-people/",
+						"display_url": "citiesandmemory.com/anthropophony-…",
+						"indices": [
+							234,
+							257
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1478715904896680000,
+						"id_str": "1478715904896679936",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478715904896679936/pu/img/Ejz5n5t0EfRcl2mI.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478715904896679936/pu/img/Ejz5n5t0EfRcl2mI.jpg",
+						"url": "https://t.co/GxqTo1s2nE",
+						"display_url": "pic.twitter.com/GxqTo1s2nE",
+						"expanded_url": "https://twitter.com/citiesandmemory/status/1478811537703718915/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1478715904896680000,
+						"id_str": "1478715904896679936",
+						"indices": [
+							258,
+							281
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478715904896679936/pu/img/Ejz5n5t0EfRcl2mI.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478715904896679936/pu/img/Ejz5n5t0EfRcl2mI.jpg",
+						"url": "https://t.co/GxqTo1s2nE",
+						"display_url": "pic.twitter.com/GxqTo1s2nE",
+						"expanded_url": "https://twitter.com/citiesandmemory/status/1478811537703718915/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 8442,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1478715904896679936/pu/vid/640x360/RWLQ_JVpN7RMqGy6.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1478715904896679936/pu/vid/1280x720/ku1UEj_30CYCX66B.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1478715904896679936/pu/pl/lbulTByWRuS1ELrW.m3u8?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1478715904896679936/pu/vid/480x270/5BYZ9z6ezm-ZSPLL.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2233320109,
+				"id_str": "2233320109",
+				"name": "Cities and Memory",
+				"screen_name": "citiesandmemory",
+				"location": "Oxford, UK",
+				"description": "Remixing the world, one sound at a time: global sound map & #fieldrecording. 1000s of sounds, 100+ countries, 1000 contributing artists. Made by @stuartfowkes",
+				"url": "http://t.co/QOf4nfuEOF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QOf4nfuEOF",
+								"expanded_url": "http://www.citiesandmemory.com",
+								"display_url": "citiesandmemory.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8329,
+				"friends_count": 6950,
+				"listed_count": 204,
+				"created_at": "Fri Dec 06 17:44:22 +0000 2013",
+				"favourites_count": 3850,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8623,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1361264001720741888/q7zeaIMX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361264001720741888/q7zeaIMX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2233320109/1632235301",
+				"profile_link_color": "036A8F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There are roles for local studies collecting in this https://t.co/MkjNMOuI4X"
+	},
+	{
 		"created_at": "Tue Jan 04 20:45:18 +0000 2022",
 		"id": 1478467599247634400,
 		"id_str": "1478467599247634435",
