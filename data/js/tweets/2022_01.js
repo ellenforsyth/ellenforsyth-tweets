@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 08 03:11:11 +0000 2022",
+		"id": 1479651872478621700,
+		"id_str": "1479651872478621700",
+		"full_text": "some interesting reading https://t.co/inUIeuRL6k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/inUIeuRL6k",
+					"expanded_url": "https://twitter.com/IFLA/status/1479078548245823491",
+					"display_url": "twitter.com/IFLA/status/14…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2536,
+			"friends_count": 926,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1479078548245823500,
+		"quoted_status_id_str": "1479078548245823491",
+		"quoted_status_permalink": {
+			"url": "https://t.co/inUIeuRL6k",
+			"expanded": "https://twitter.com/IFLA/status/1479078548245823491",
+			"display": "twitter.com/IFLA/status/14…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 06 13:13:00 +0000 2022",
+			"id": 1479078548245823500,
+			"id_str": "1479078548245823491",
+			"full_text": "The future has rarely been so uncertain!\n\nBut we owe it to ourselves and our communities to think through the options and the trends that will define them.\n\nOur 2021 update of the #IFLATrendReport shares 20 ideas, and how to work with them!\n\nhttps://t.co/fdd2HwA1KG https://t.co/uRJPRQ2zGu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IFLATrendReport",
+						"indices": [
+							180,
+							196
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fdd2HwA1KG",
+						"expanded_url": "http://bit.ly/3F2oWyp",
+						"display_url": "bit.ly/3F2oWyp",
+						"indices": [
+							242,
+							265
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1479078492193144800,
+						"id_str": "1479078492193144832",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FIa-DVoXwAAgZob.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIa-DVoXwAAgZob.jpg",
+						"url": "https://t.co/uRJPRQ2zGu",
+						"display_url": "pic.twitter.com/uRJPRQ2zGu",
+						"expanded_url": "https://twitter.com/IFLA/status/1479078548245823491/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1479078492193144800,
+						"id_str": "1479078492193144832",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FIa-DVoXwAAgZob.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIa-DVoXwAAgZob.jpg",
+						"url": "https://t.co/uRJPRQ2zGu",
+						"display_url": "pic.twitter.com/uRJPRQ2zGu",
+						"expanded_url": "https://twitter.com/IFLA/status/1479078548245823491/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53361561,
+				"id_str": "53361561",
+				"name": "IFLA",
+				"screen_name": "IFLA",
+				"location": "The Hague, The Netherlands",
+				"description": "The International Federation of Library Associations and Institutions (IFLA) is the global voice of the library and information profession.",
+				"url": "https://t.co/l1M6glk56U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l1M6glk56U",
+								"expanded_url": "http://www.ifla.org",
+								"display_url": "ifla.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31874,
+				"friends_count": 454,
+				"listed_count": 1093,
+				"created_at": "Fri Jul 03 11:32:45 +0000 2009",
+				"favourites_count": 1249,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4435,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0EDD4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53361561/1600429819",
+				"profile_link_color": "00502F",
+				"profile_sidebar_border_color": "C8002F",
+				"profile_sidebar_fill_color": "F0EDD4",
+				"profile_text_color": "002D19",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "some interesting reading https://t.co/inUIeuRL6k"
+	},
+	{
+		"created_at": "Sat Jan 08 03:10:54 +0000 2022",
+		"id": 1479454886362333200,
+		"id_str": "1479651802358312965",
+		"full_text": "From safeguarding the #MemoryoftheWorld to promoting #CulturalDiversity and supporting #creativity — 2022 will bring many opportunities to work with our Members, volunteers, and partners to promote #libraries as #CulturalRights defenders.\n\nRead more here: https://t.co/4nJ068M6hn https://t.co/K3aQbeHJ59",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MemoryoftheWorld",
+					"indices": [
+						22,
+						39
+					]
+				},
+				{
+					"text": "CulturalDiversity",
+					"indices": [
+						53,
+						71
+					]
+				},
+				{
+					"text": "creativity",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "libraries",
+					"indices": [
+						198,
+						208
+					]
+				},
+				{
+					"text": "CulturalRights",
+					"indices": [
+						212,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4nJ068M6hn",
+					"expanded_url": "http://bit.ly/3JSv9As",
+					"display_url": "bit.ly/3JSv9As",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1479454740186599400,
+					"id_str": "1479454740186599425",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FIgUP2oXEAEAnIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIgUP2oXEAEAnIK.jpg",
+					"url": "https://t.co/K3aQbeHJ59",
+					"display_url": "pic.twitter.com/K3aQbeHJ59",
+					"expanded_url": "https://twitter.com/IFLA/status/1479454886362333186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479454740186599400,
+					"id_str": "1479454740186599425",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FIgUP2oXEAEAnIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIgUP2oXEAEAnIK.jpg",
+					"url": "https://t.co/K3aQbeHJ59",
+					"display_url": "pic.twitter.com/K3aQbeHJ59",
+					"expanded_url": "https://twitter.com/IFLA/status/1479454886362333186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53361561,
+			"id_str": "53361561",
+			"name": "IFLA",
+			"screen_name": "IFLA",
+			"location": "The Hague, The Netherlands",
+			"description": "The International Federation of Library Associations and Institutions (IFLA) is the global voice of the library and information profession.",
+			"url": "https://t.co/l1M6glk56U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l1M6glk56U",
+							"expanded_url": "http://www.ifla.org",
+							"display_url": "ifla.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31874,
+			"friends_count": 454,
+			"listed_count": 1093,
+			"created_at": "Fri Jul 03 11:32:45 +0000 2009",
+			"favourites_count": 1249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0EDD4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53361561/1600429819",
+			"profile_link_color": "00502F",
+			"profile_sidebar_border_color": "C8002F",
+			"profile_sidebar_fill_color": "F0EDD4",
+			"profile_text_color": "002D19",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From safeguarding the #MemoryoftheWorld to promoting #CulturalDiversity and supporting #creativity — 2022 will bring many opportunities to work with our Members, volunteers, and partners to promote #libraries as #CulturalRights defenders.\n\nRead more here: https://t.co/4nJ068M6hn https://t.co/K3aQbeHJ59"
+	},
+	{
 		"created_at": "Thu Jan 06 23:21:50 +0000 2022",
 		"id": 1479231764899979300,
 		"id_str": "1479231764899979268",
