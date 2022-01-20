@@ -1,10 +1,306 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 03:51:53 +0000 2022",
+		"id": 1484010767116824600,
+		"id_str": "1484010767116824577",
+		"full_text": "#PenguinAwarenessDay to help with the day https://t.co/R4aeMBnCxo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PenguinAwarenessDay",
+					"indices": [
+						0,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R4aeMBnCxo",
+					"expanded_url": "https://twitter.com/WIRESWildlife/status/1483997792322592774",
+					"display_url": "twitter.com/WIRESWildlife/…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 929,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1622503416",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1483997792322592800,
+		"quoted_status_id_str": "1483997792322592774",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R4aeMBnCxo",
+			"expanded": "https://twitter.com/WIRESWildlife/status/1483997792322592774",
+			"display": "twitter.com/WIRESWildlife/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 20 03:00:19 +0000 2022",
+			"id": 1483997792322592800,
+			"id_str": "1483997792322592774",
+			"full_text": "This is an image of a Royal Penguin on Macquarie Island, these penguins are named after the feathers on their head because it makes them look like they're wearing a crown. There are currently 1.7 million on this island making them considered near threatened. https://t.co/TBXLCGxj2K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1483997200766353400,
+						"id_str": "1483997200766353409",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/FJg3l29aQAE_qf4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJg3l29aQAE_qf4.jpg",
+						"url": "https://t.co/TBXLCGxj2K",
+						"display_url": "pic.twitter.com/TBXLCGxj2K",
+						"expanded_url": "https://twitter.com/WIRESWildlife/status/1483997792322592774/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1483997200766353400,
+						"id_str": "1483997200766353409",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/FJg3l29aQAE_qf4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJg3l29aQAE_qf4.jpg",
+						"url": "https://t.co/TBXLCGxj2K",
+						"display_url": "pic.twitter.com/TBXLCGxj2K",
+						"expanded_url": "https://twitter.com/WIRESWildlife/status/1483997792322592774/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29445539,
+				"id_str": "29445539",
+				"name": "WIRES",
+				"screen_name": "WIRESWildlife",
+				"location": "NSW, Australia",
+				"description": "WIRES provides assistance for native Australian wildlife and the community across Australia 24-hours a day, 365 days a year via our  Rescue line 1300 094 737",
+				"url": "https://t.co/cNvqS1knNa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cNvqS1knNa",
+								"expanded_url": "https://linktr.ee/WIRESWildlifeRescue",
+								"display_url": "linktr.ee/WIRESWildlifeR…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10608,
+				"friends_count": 653,
+				"listed_count": 123,
+				"created_at": "Tue Apr 07 13:20:53 +0000 2009",
+				"favourites_count": 1215,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2720,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/593302273813446656/VLf3fj91_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/593302273813446656/VLf3fj91_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29445539/1625706378",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#PenguinAwarenessDay to help with the day https://t.co/R4aeMBnCxo"
+	},
+	{
 		"created_at": "Tue Jan 18 22:10:23 +0000 2022",
 		"id": 1483562441376243700,
 		"id_str": "1483562441376243718",
-		"full_text": "Ruthie and Petal promote Wiradjuri language in their online puppet series via ⁦@abcnews⁩  https://t.co/sFkmcJPUBD",
+		"full_text": "Ruthie and Petal promote Wiradjuri language in their online puppet series via @abcnews  https://t.co/sFkmcJPUBD",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +412,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Ruthie and Petal promote Wiradjuri language in their online puppet series via ⁦@abcnews⁩  https://t.co/sFkmcJPUBD"
+		"text": "Ruthie and Petal promote Wiradjuri language in their online puppet series via @abcnews  https://t.co/sFkmcJPUBD"
 	},
 	{
 		"created_at": "Wed Jan 12 20:03:31 +0000 2022",
