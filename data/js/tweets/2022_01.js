@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 24 02:43:28 +0000 2022",
+		"id": 1478527065406115800,
+		"id_str": "1485443102324432897",
+		"full_text": "For @pubhisint members interested in video games as public history - a piece by @madhareday et al: https://t.co/XbfD7WePiD\n@AppliedHist @aaphnetwork @PH_Weekly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pubhisint",
+					"name": "IFPH-FIHP",
+					"id": 552203304,
+					"id_str": "552203304",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"screen_name": "madhareday",
+					"name": "Abbie Hartman",
+					"id": 789242626360782800,
+					"id_str": "789242626360782848",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"screen_name": "AppliedHist",
+					"name": "Centre for Applied History",
+					"id": 935288734064373800,
+					"id_str": "935288734064373760",
+					"indices": [
+						123,
+						135
+					]
+				},
+				{
+					"screen_name": "aaphnetwork",
+					"name": "Australia and Aotearoa NZ Public History Network",
+					"id": 1442386583278162000,
+					"id_str": "1442386583278161927",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"screen_name": "PH_Weekly",
+					"name": "Public History Weekly (PHW)",
+					"id": 1400691313,
+					"id_str": "1400691313",
+					"indices": [
+						149,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XbfD7WePiD",
+					"expanded_url": "http://gamestudies.org/2104/articles/hartman_tulloch_young",
+					"display_url": "gamestudies.org/2104/articles/…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 614752239,
+			"id_str": "614752239",
+			"name": "Tanya Evans",
+			"screen_name": "TanyaEvans14",
+			"location": "Sydney",
+			"description": "Public historian. Historian of Australia and Britain from the 18th century to the present. Director of the Centre for Applied History, Macquarie Uni. She/her.",
+			"url": "http://t.co/Yaz93znG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Yaz93znG",
+							"expanded_url": "http://www.mq.edu.au/about_us/faculties_and_departments/faculty_of_arts/mhpir/modern_history/staff/dr_tanya_evans/",
+							"display_url": "mq.edu.au/about_us/facul…",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2842,
+			"friends_count": 2426,
+			"listed_count": 57,
+			"created_at": "Thu Jun 21 23:40:08 +0000 2012",
+			"favourites_count": 11872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2407483195/ml50ogpni6ffhtuuuz6t_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2407483195/ml50ogpni6ffhtuuuz6t_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For @pubhisint members interested in video games as public history - a piece by @madhareday et al: https://t.co/XbfD7WePiD\n@AppliedHist @aaphnetwork @PH_Weekly"
+	},
+	{
 		"created_at": "Fri Jan 21 04:26:28 +0000 2022",
 		"id": 1484381860977590300,
 		"id_str": "1484381860977590273",
