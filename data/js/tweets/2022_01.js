@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 24 22:12:02 +0000 2022",
+		"id": 1485734676761575400,
+		"id_str": "1485737183197937667",
+		"full_text": "\"I am grateful that my art is appreciated by so many, and that it has come to represent something so powerful to so many.\"\n\nThe Aboriginal flag is now freely available for public use, after its designer agreed to transfer copyright to the Commonwealth.\n\nhttps://t.co/o0UH2KIrAz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o0UH2KIrAz",
+					"expanded_url": "https://www.abc.net.au/news/2022-01-24/aboriginal-flag-copyright-transferred-to-commonwealth/100778324",
+					"display_url": "abc.net.au/news/2022-01-2…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23377444,
+			"id_str": "23377444",
+			"name": "ABC Indigenous",
+			"screen_name": "ABCIndigenous",
+			"location": "Australia",
+			"description": "Home of #BlackAs #KikiandKitty, #BlueWaterEmpire, #MysteryRoad, #Cleverman, #ABCBlackComedy. This is an official @ABCAustralia account. RT not endorsement.",
+			"url": "https://t.co/n78OA61bdj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n78OA61bdj",
+							"expanded_url": "http://www.abc.net.au/indigenous/",
+							"display_url": "abc.net.au/indigenous/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40739,
+			"friends_count": 4495,
+			"listed_count": 349,
+			"created_at": "Mon Mar 09 00:32:56 +0000 2009",
+			"favourites_count": 9698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148784074007314432/0O-GKXxa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148784074007314432/0O-GKXxa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23377444/1636505309",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I am grateful that my art is appreciated by so many, and that it has come to represent something so powerful to so many.\"\n\nThe Aboriginal flag is now freely available for public use, after its designer agreed to transfer copyright to the Commonwealth.\n\nhttps://t.co/o0UH2KIrAz"
+	},
+	{
 		"created_at": "Mon Jan 24 02:43:28 +0000 2022",
 		"id": 1478527065406115800,
 		"id_str": "1485443102324432897",
