@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 10:12:30 +0000 2022",
+		"id": 1485039967961497600,
+		"id_str": "1486643270037897217",
+		"full_text": "‘After the gold rush; before Tiananmen: how Chinese-Australians put down deep roots in the regions’ https://t.co/ve2CnwctzL #chinozhist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chinozhist",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ve2CnwctzL",
+					"expanded_url": "https://www.theguardian.com/australia-news/2022/jan/23/after-the-gold-rush-before-tiananmen-how-chinese-australians-put-down-deep-roots-in-the-regions",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23577749,
+			"id_str": "23577749",
+			"name": "Kate Bagnall 白碧",
+			"screen_name": "baibi",
+			"location": "Hobart, Tasmania",
+			"description": "Chinese Australasian history. History of the family. Legal histories of migration and citizenship.",
+			"url": "https://t.co/7fqD9Jno1Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7fqD9Jno1Y",
+							"expanded_url": "http://katebagnall.com",
+							"display_url": "katebagnall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2718,
+			"friends_count": 1825,
+			"listed_count": 82,
+			"created_at": "Tue Mar 10 10:33:57 +0000 2009",
+			"favourites_count": 17257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989102076666953728/asKxLoMt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989102076666953728/asKxLoMt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23577749/1458440223",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘After the gold rush; before Tiananmen: how Chinese-Australians put down deep roots in the regions’ https://t.co/ve2CnwctzL #chinozhist"
+	},
+	{
 		"created_at": "Tue Jan 25 22:31:28 +0000 2022",
 		"id": 1486104459298349000,
 		"id_str": "1486104459298349057",
