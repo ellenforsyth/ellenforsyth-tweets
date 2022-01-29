@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 09:52:45 +0000 2022",
+		"id": 1486852843554308000,
+		"id_str": "1487000685111484429",
+		"full_text": "To combat anti-vaxxer misinformation the government should be publishing one of the most important numbers of the pandemic – here it is \nhttps://t.co/UxzBSwgWVv https://t.co/WbvFVqTgml",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UxzBSwgWVv",
+					"expanded_url": "https://www.theguardian.com/news/datablog/ng-interactive/2022/jan/28/the-simple-numbers-every-government-should-use-to-fight-anti-vaccine-misinformation",
+					"display_url": "theguardian.com/news/datablog/…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486852433074528300,
+					"id_str": "1486852433074528256",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1486852433074528256/pu/img/3hRiR6wQHrRikzI6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1486852433074528256/pu/img/3hRiR6wQHrRikzI6.jpg",
+					"url": "https://t.co/WbvFVqTgml",
+					"display_url": "pic.twitter.com/WbvFVqTgml",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1486852843554308097/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486852433074528300,
+					"id_str": "1486852433074528256",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1486852433074528256/pu/img/3hRiR6wQHrRikzI6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1486852433074528256/pu/img/3hRiR6wQHrRikzI6.jpg",
+					"url": "https://t.co/WbvFVqTgml",
+					"display_url": "pic.twitter.com/WbvFVqTgml",
+					"expanded_url": "https://twitter.com/NickEvershed/status/1486852843554308097/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 880,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25240,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486852433074528256/pu/vid/540x540/Ltyk8QWY9MyJ9pfy.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486852433074528256/pu/vid/720x720/uKawMb19CKRGPxdx.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1486852433074528256/pu/vid/320x320/gwrDiZcTSIkOrPgE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1486852433074528256/pu/pl/0V3FdRLFfmEDjtsM.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48176841,
+			"id_str": "48176841",
+			"name": "Nick Evershed",
+			"screen_name": "NickEvershed",
+			"location": "Australia",
+			"description": "Data and interactives at @GuardianAus. ALDI dad. Occasional investigations. Used to be a scientist. DMs open, or secure contact in bio.",
+			"url": "https://t.co/b4kNBtMHmO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b4kNBtMHmO",
+							"expanded_url": "http://www.theguardian.com/profile/nick-evershed",
+							"display_url": "theguardian.com/profile/nick-e…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12760,
+			"friends_count": 4064,
+			"listed_count": 424,
+			"created_at": "Thu Jun 18 00:22:56 +0000 2009",
+			"favourites_count": 11477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471717792801976324/kFThM-t-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471717792801976324/kFThM-t-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48176841/1550016882",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To combat anti-vaxxer misinformation the government should be publishing one of the most important numbers of the pandemic – here it is \nhttps://t.co/UxzBSwgWVv https://t.co/WbvFVqTgml"
+	},
+	{
 		"created_at": "Thu Jan 27 10:12:30 +0000 2022",
 		"id": 1485039967961497600,
 		"id_str": "1486643270037897217",
