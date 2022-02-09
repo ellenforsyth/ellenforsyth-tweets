@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 20:06:24 +0000 2022",
+		"id": 1490709980705706000,
+		"id_str": "1491141382823886850",
+		"full_text": "New #BLdigital blog post about @britishlibrary @Contemporary_BL PhD placement projects on enhanced curation, hybrid archives &amp; emerging formats collections. Deadline to apply: 5pm 25 February, projects start from June 2022 https://t.co/VbWoCzD69H @BLEnglish_Drama @giugimonogatari",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLdigital",
+					"indices": [
+						4,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "britishlibrary",
+					"name": "The British Library",
+					"id": 21744554,
+					"id_str": "21744554",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "Contemporary_BL",
+					"name": "British Library Contemporary British Collections",
+					"id": 701819935111123000,
+					"id_str": "701819935111122949",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"screen_name": "BLEnglish_Drama",
+					"name": "BL English and Drama",
+					"id": 3130729767,
+					"id_str": "3130729767",
+					"indices": [
+						251,
+						267
+					]
+				},
+				{
+					"screen_name": "giugimonogatari",
+					"name": "Giulia Carla Rossi",
+					"id": 44106928,
+					"id_str": "44106928",
+					"indices": [
+						268,
+						284
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VbWoCzD69H",
+					"expanded_url": "https://blogs.bl.uk/digital-scholarship/2022/02/new-phd-placements-on-enhanced-curation-hybrid-archives-and-emerging-formats.html",
+					"display_url": "blogs.bl.uk/digital-schola…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744814089172455400,
+			"id_str": "744814089172455424",
+			"name": "Digital Scholarship",
+			"screen_name": "BL_DigiSchol",
+			"location": "United Kingdom",
+			"description": "Enabling innovative research with @britishlibrary digital collections. Tweets by @ndalyrose, @miss_wisdom, @mia_out & @BL_AdiKS",
+			"url": "https://t.co/E7eDKDTLxe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E7eDKDTLxe",
+							"expanded_url": "http://www.bl.uk/subjects/digital-scholarship",
+							"display_url": "bl.uk/subjects/digit…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3879,
+			"friends_count": 1854,
+			"listed_count": 94,
+			"created_at": "Mon Jun 20 08:48:11 +0000 2016",
+			"favourites_count": 975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/744876300029038592/o7XyntdX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744814089172455424/1466432652",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New #BLdigital blog post about @britishlibrary @Contemporary_BL PhD placement projects on enhanced curation, hybrid archives &amp; emerging formats collections. Deadline to apply: 5pm 25 February, projects start from June 2022 https://t.co/VbWoCzD69H @BLEnglish_Drama @giugimonogatari"
+	},
+	{
 		"created_at": "Mon Feb 07 10:27:18 +0000 2022",
 		"id": 1490633258622537700,
 		"id_str": "1490633258622537729",
