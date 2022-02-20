@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 19 21:18:09 +0000 2022",
+		"id": 1495145704834351000,
+		"id_str": "1495145704834351104",
+		"full_text": "In Riverina rice fields, farmers and scientists join forces to save a mysterious waterbird via ⁦@GuardianAus⁩  https://t.co/rYYkKVWVQR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuardianAus",
+					"name": "Guardian Australia",
+					"id": 1092378031,
+					"id_str": "1092378031",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rYYkKVWVQR",
+					"expanded_url": "https://www.theguardian.com/australia-news/2022/feb/20/in-riverina-rice-fields-farmers-and-scientists-join-forces-to-save-a-mysterious-waterbird?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2532,
+			"friends_count": 931,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Riverina rice fields, farmers and scientists join forces to save a mysterious waterbird via ⁦@GuardianAus⁩  https://t.co/rYYkKVWVQR"
+	},
+	{
+		"created_at": "Sat Feb 19 08:56:01 +0000 2022",
+		"id": 1494958635834876000,
+		"id_str": "1494958941679149057",
+		"full_text": "SAVE SPITALFIELDS FROM THE SERIAL KILLER! \n\nSupport my crowd-funder to launch a COMMUNITY TOURISM PROJECT as a BETTER ALTERNATIVE to the serial killer tours that monetise misogyny. \n\nhttps://t.co/N7mRk1gArH https://t.co/S6Txvwqq9A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N7mRk1gArH",
+					"expanded_url": "https://bit.ly/3gN6Arq",
+					"display_url": "bit.ly/3gN6Arq",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494958456570359800,
+					"id_str": "1494958456570359809",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FL8oy63XsAEZx1N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL8oy63XsAEZx1N.jpg",
+					"url": "https://t.co/S6Txvwqq9A",
+					"display_url": "pic.twitter.com/S6Txvwqq9A",
+					"expanded_url": "https://twitter.com/thegentleauthor/status/1494958635834875908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 876,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 876,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494958456570359800,
+					"id_str": "1494958456570359809",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FL8oy63XsAEZx1N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL8oy63XsAEZx1N.jpg",
+					"url": "https://t.co/S6Txvwqq9A",
+					"display_url": "pic.twitter.com/S6Txvwqq9A",
+					"expanded_url": "https://twitter.com/thegentleauthor/status/1494958635834875908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 876,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 876,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494958481702539300,
+					"id_str": "1494958481702539268",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FL8o0YfWUAQuJp2.png",
+					"media_url_https": "https://pbs.twimg.com/media/FL8o0YfWUAQuJp2.png",
+					"url": "https://t.co/S6Txvwqq9A",
+					"display_url": "pic.twitter.com/S6Txvwqq9A",
+					"expanded_url": "https://twitter.com/thegentleauthor/status/1494958635834875908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1032,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1202,
+							"h": 1034,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 227492981,
+			"id_str": "227492981",
+			"name": "Spitalfields Life",
+			"screen_name": "thegentleauthor",
+			"location": "Spitalfields",
+			"description": "In the midst of life I woke to find myself living in an old house beside Brick Lane in the East End of London  (they/the author)",
+			"url": "http://t.co/YjrCFBhCRS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YjrCFBhCRS",
+							"expanded_url": "http://spitalfieldslife.com",
+							"display_url": "spitalfieldslife.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30508,
+			"friends_count": 22686,
+			"listed_count": 565,
+			"created_at": "Fri Dec 17 00:08:22 +0000 2010",
+			"favourites_count": 24098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 56037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0000A0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192308341/img_64141_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192308341/img_64141_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/227492981/1358723560",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "14007A",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "580AFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SAVE SPITALFIELDS FROM THE SERIAL KILLER! \n\nSupport my crowd-funder to launch a COMMUNITY TOURISM PROJECT as a BETTER ALTERNATIVE to the serial killer tours that monetise misogyny. \n\nhttps://t.co/N7mRk1gArH https://t.co/S6Txvwqq9A"
+	},
+	{
 		"created_at": "Fri Feb 18 21:02:22 +0000 2022",
 		"id": 1494779345713328000,
 		"id_str": "1494779345713328128",
