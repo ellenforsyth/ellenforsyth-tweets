@@ -1,10 +1,234 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 21 10:17:42 +0000 2022",
+		"id": 1495501035728691200,
+		"id_str": "1495704275451883521",
+		"full_text": "Turn up the volume and tune in to the Sound of Water as Nap Nap Swamp comes alive. 🐸🌱\n\nA week of audio was recorded at Nap Nap Swamp in western NSW as #WaterForTheEnvironment flowed into the site. \n\nFind out more: https://t.co/oN8W7OJH8e https://t.co/Pln2H5Utyb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WaterForTheEnvironment",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oN8W7OJH8e",
+					"expanded_url": "https://ab.co/34Xf0tP",
+					"display_url": "ab.co/34Xf0tP",
+					"indices": [
+						214,
+						237
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495500776436760600,
+					"id_str": "1495500776436760578",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1495500776436760578/pu/img/IUqtczN4KfMKHQY_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1495500776436760578/pu/img/IUqtczN4KfMKHQY_.jpg",
+					"url": "https://t.co/Pln2H5Utyb",
+					"display_url": "pic.twitter.com/Pln2H5Utyb",
+					"expanded_url": "https://twitter.com/theCEWH/status/1495501035728691202/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495500776436760600,
+					"id_str": "1495500776436760578",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1495500776436760578/pu/img/IUqtczN4KfMKHQY_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1495500776436760578/pu/img/IUqtczN4KfMKHQY_.jpg",
+					"url": "https://t.co/Pln2H5Utyb",
+					"display_url": "pic.twitter.com/Pln2H5Utyb",
+					"expanded_url": "https://twitter.com/theCEWH/status/1495501035728691202/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495500776436760578/pu/vid/320x320/dG8af7u3UweA-UST.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495500776436760578/pu/vid/640x640/AIP2NB0ruFBBWloS.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495500776436760578/pu/vid/540x540/BbZ6hlw0DsvGeEvL.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1495500776436760578/pu/pl/BQWRFzJxKYEKCvhi.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1727599344,
+			"id_str": "1727599344",
+			"name": "Environmental Water",
+			"screen_name": "theCEWH",
+			"location": "Australia",
+			"description": "Official Twitter feed of Commonwealth Environmental Water Holder, Hilton Taylor, working for the health of our waterways.",
+			"url": "https://t.co/UMDy1qHCVM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UMDy1qHCVM",
+							"expanded_url": "http://www.environment.gov.au/water/cewo",
+							"display_url": "environment.gov.au/water/cewo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3915,
+			"friends_count": 666,
+			"listed_count": 61,
+			"created_at": "Wed Sep 04 05:01:06 +0000 2013",
+			"favourites_count": 2535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478908797661822977/fCE9K4VU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478908797661822977/fCE9K4VU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1727599344/1626041899",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Turn up the volume and tune in to the Sound of Water as Nap Nap Swamp comes alive. 🐸🌱\n\nA week of audio was recorded at Nap Nap Swamp in western NSW as #WaterForTheEnvironment flowed into the site. \n\nFind out more: https://t.co/oN8W7OJH8e https://t.co/Pln2H5Utyb"
+	},
+	{
 		"created_at": "Sat Feb 19 21:18:09 +0000 2022",
 		"id": 1495145704834351000,
 		"id_str": "1495145704834351104",
-		"full_text": "In Riverina rice fields, farmers and scientists join forces to save a mysterious waterbird via ⁦@GuardianAus⁩  https://t.co/rYYkKVWVQR",
+		"full_text": "In Riverina rice fields, farmers and scientists join forces to save a mysterious waterbird via @GuardianAus  https://t.co/rYYkKVWVQR",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +340,7 @@ Grailbird.data.tweets_2022_02 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "In Riverina rice fields, farmers and scientists join forces to save a mysterious waterbird via ⁦@GuardianAus⁩  https://t.co/rYYkKVWVQR"
+		"text": "In Riverina rice fields, farmers and scientists join forces to save a mysterious waterbird via @GuardianAus  https://t.co/rYYkKVWVQR"
 	},
 	{
 		"created_at": "Sat Feb 19 08:56:01 +0000 2022",
