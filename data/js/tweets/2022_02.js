@@ -1,10 +1,127 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 25 20:25:53 +0000 2022",
+		"id": 1495705766937911300,
+		"id_str": "1497306878287572993",
+		"full_text": "New recording of the week, from Jonnie Robinson, Lead Curator of Spoken English https://t.co/58zMmLyba5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/58zMmLyba5",
+					"expanded_url": "https://blogs.bl.uk/sound-and-vision/2022/02/recording-of-the-week-dialect-in-childrens-play.html",
+					"display_url": "blogs.bl.uk/sound-and-visi…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22028935,
+			"id_str": "22028935",
+			"name": "Sound Archive",
+			"screen_name": "soundarchive",
+			"location": "London, UK",
+			"description": "Sound Archive @BritishLibrary: 7 million recordings of music, voices, environments. Tweets by Steve Cleary. Blog: https://t.co/TuSRYUV7Ns",
+			"url": "http://t.co/QQ7BIbQ40P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/QQ7BIbQ40P",
+							"expanded_url": "http://www.bl.uk/soundarchive",
+							"display_url": "bl.uk/soundarchive",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TuSRYUV7Ns",
+							"expanded_url": "http://britishlibrary.typepad.co.uk/sound-and-vision",
+							"display_url": "britishlibrary.typepad.co.uk/sound-and-visi…",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18926,
+			"friends_count": 1613,
+			"listed_count": 809,
+			"created_at": "Thu Feb 26 16:36:05 +0000 2009",
+			"favourites_count": 1046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/122587530/soundarchive_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22028935/1535972358",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New recording of the week, from Jonnie Robinson, Lead Curator of Spoken English https://t.co/58zMmLyba5"
+	},
+	{
 		"created_at": "Tue Feb 22 10:04:12 +0000 2022",
 		"id": 1496063264102711300,
 		"id_str": "1496063264102711296",
-		"full_text": "Magpies outwit scientists by helping each other to remove tracking devices via ⁦@abcnews⁩ interesting behaviour (and how research can have unplanned elements) https://t.co/2OAzYnxMZL",
+		"full_text": "Magpies outwit scientists by helping each other to remove tracking devices via @abcnews interesting behaviour (and how research can have unplanned elements) https://t.co/2OAzYnxMZL",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +233,7 @@ Grailbird.data.tweets_2022_02 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Magpies outwit scientists by helping each other to remove tracking devices via ⁦@abcnews⁩ interesting behaviour (and how research can have unplanned elements) https://t.co/2OAzYnxMZL"
+		"text": "Magpies outwit scientists by helping each other to remove tracking devices via @abcnews interesting behaviour (and how research can have unplanned elements) https://t.co/2OAzYnxMZL"
 	},
 	{
 		"created_at": "Mon Feb 21 10:17:42 +0000 2022",
