@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 21:26:36 +0000 2022",
+		"id": 1497723334897053700,
+		"id_str": "1498046935697362944",
+		"full_text": "A group of Anaiwan people from the Newara Aboriginal coorp have done a something historically in our region. Its the last official day of our 6 week campaign. We crowdfunded $371,000 to purchase a block of our own Anaiwan land. WE SET A GOAL AND WE ACHIEVED OUR GOAL. https://t.co/PvOV2ojvYz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1497722766946349000,
+					"id_str": "1497722766946349059",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1497722766946349059/pu/img/qjWRuzAHBrgbAxVY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1497722766946349059/pu/img/qjWRuzAHBrgbAxVY.jpg",
+					"url": "https://t.co/PvOV2ojvYz",
+					"display_url": "pic.twitter.com/PvOV2ojvYz",
+					"expanded_url": "https://twitter.com/IndigenousX/status/1497723334897053697/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497722766946349000,
+					"id_str": "1497722766946349059",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1497722766946349059/pu/img/qjWRuzAHBrgbAxVY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1497722766946349059/pu/img/qjWRuzAHBrgbAxVY.jpg",
+					"url": "https://t.co/PvOV2ojvYz",
+					"display_url": "pic.twitter.com/PvOV2ojvYz",
+					"expanded_url": "https://twitter.com/IndigenousX/status/1497723334897053697/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 140022,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497722766946349059/pu/vid/320x320/GcVTOiCl8qghZZ5Q.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497722766946349059/pu/vid/540x540/ctSpdzsCnswqRw-L.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1497722766946349059/pu/pl/2gHkpdohdlUzyIoa.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1497722766946349059/pu/vid/720x720/r0l8NZDi1O97vF0m.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 172652106,
+			"id_str": "172652106",
+			"name": "Dave Widders",
+			"screen_name": "IndigenousX",
+			"location": "Armidale,  NSW",
+			"description": "Proud Anaiwan man. Working to create change, educate and promote Aboriginal Culture. I'm part of the oldest living continuous culture in the world and loving it",
+			"url": "https://t.co/KZWzgi4IN9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KZWzgi4IN9",
+							"expanded_url": "http://www.Newaracorp.com",
+							"display_url": "Newaracorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73922,
+			"friends_count": 6561,
+			"listed_count": 855,
+			"created_at": "Fri Jul 30 06:58:27 +0000 2010",
+			"favourites_count": 78016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 141331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496782897860472835/WFL_LZlC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496782897860472835/WFL_LZlC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/172652106/1645695827",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 493,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A group of Anaiwan people from the Newara Aboriginal coorp have done a something historically in our region. Its the last official day of our 6 week campaign. We crowdfunded $371,000 to purchase a block of our own Anaiwan land. WE SET A GOAL AND WE ACHIEVED OUR GOAL. https://t.co/PvOV2ojvYz"
+	},
+	{
+		"created_at": "Sun Feb 27 21:23:54 +0000 2022",
+		"id": 1498046015995146200,
+		"id_str": "1498046255116988418",
+		"full_text": "What if a critically endangered bird could be given a shot at survival by protecting 7% of Tas native forests earmarked for logging? \nWhat if the forestry industry had, for different reasons, already argued logging should be cut by roughly that amount?\nhttps://t.co/tXJSOjwGBO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tXJSOjwGBO",
+					"expanded_url": "https://www.theguardian.com/environment/2022/feb/27/swift-parrot-its-not-rocket-science-how-we-could-save-the-worlds-fastest-parrot",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20581978,
+			"id_str": "20581978",
+			"name": "Adam Morton",
+			"screen_name": "adamlmorton",
+			"location": "lutruwita/Tasmania",
+			"description": "Climate and environment editor @GuardianAus. Co-creator, Australia v The Climate podcast. Co-founder @TasInquirer. Other stuff.",
+			"url": "https://t.co/hRnA9uSm8e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hRnA9uSm8e",
+							"expanded_url": "https://www.theguardian.com/profile/adam-morton",
+							"display_url": "theguardian.com/profile/adam-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14614,
+			"friends_count": 1880,
+			"listed_count": 405,
+			"created_at": "Wed Feb 11 10:09:29 +0000 2009",
+			"favourites_count": 11811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1452352784666292224/ukHGsTm4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1452352784666292224/ukHGsTm4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20581978/1561674242",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What if a critically endangered bird could be given a shot at survival by protecting 7% of Tas native forests earmarked for logging? \nWhat if the forestry industry had, for different reasons, already argued logging should be cut by roughly that amount?\nhttps://t.co/tXJSOjwGBO"
+	},
+	{
+		"created_at": "Sun Feb 27 09:34:17 +0000 2022",
+		"id": 1497867676416614400,
+		"id_str": "1497867676416614405",
+		"full_text": "@hunting_relos @BirdlifeOz @murrigellas And @womensart1",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hunting_relos",
+					"name": "Mandy Gwan",
+					"id": 1353595992692514800,
+					"id_str": "1353595992692514817",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BirdlifeOz",
+					"name": "BirdLife Australia",
+					"id": 145136771,
+					"id_str": "145136771",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "murrigellas",
+					"name": "MURRIGELLAS",
+					"id": 918615097815154700,
+					"id_str": "918615097815154688",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "womensart1",
+					"name": "#WOMENSART",
+					"id": 4823705386,
+					"id_str": "4823705386",
+					"indices": [
+						44,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1497866935962574800,
+		"in_reply_to_status_id_str": "1497866935962574848",
+		"in_reply_to_user_id": 16970274,
+		"in_reply_to_user_id_str": "16970274",
+		"in_reply_to_screen_name": "ellenforsyth",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2532,
+			"friends_count": 935,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@hunting_relos @BirdlifeOz @murrigellas And @womensart1"
+	},
+	{
 		"created_at": "Fri Feb 25 20:25:53 +0000 2022",
 		"id": 1495705766937911300,
 		"id_str": "1497306878287572993",
