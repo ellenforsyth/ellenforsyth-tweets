@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 28 21:08:19 +0000 2022",
+		"id": 1495462957127377000,
+		"id_str": "1498404722247540741",
+		"full_text": "How a Book Is Made, From Cover to Cover\n\nhttps://t.co/EUjtYfSSnQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EUjtYfSSnQ",
+					"expanded_url": "https://www.nytimes.com/interactive/2022/02/19/books/how-a-book-is-made.html",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19826509,
+			"id_str": "19826509",
+			"name": "Open Culture",
+			"screen_name": "openculture",
+			"location": "Planet Claire",
+			"description": "We make the web a more intelligent place. A Thought-Provoking Blog. Free Courses. Free Audio Books & eBooks. And more.",
+			"url": "http://t.co/HVA1Vpy2Ba",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HVA1Vpy2Ba",
+							"expanded_url": "http://www.openculture.com",
+							"display_url": "openculture.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 446051,
+			"friends_count": 1048,
+			"listed_count": 0,
+			"created_at": "Sat Jan 31 19:01:34 +0000 2009",
+			"favourites_count": 1058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86ACB7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19826509/1491930107",
+			"profile_link_color": "306885",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "F6F2E3",
+			"profile_text_color": "62625D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How a Book Is Made, From Cover to Cover\n\nhttps://t.co/EUjtYfSSnQ"
+	},
+	{
 		"created_at": "Sun Feb 27 21:26:36 +0000 2022",
 		"id": 1497723334897053700,
 		"id_str": "1498046935697362944",
