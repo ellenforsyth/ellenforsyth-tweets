@@ -1,10 +1,117 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 10 21:50:58 +0000 2022",
+		"id": 1502039335881031700,
+		"id_str": "1502039335881031681",
+		"full_text": "@jobeaz That sounds strange. I hope your day improves.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jobeaz",
+					"name": "Jo Beazley",
+					"id": 16292857,
+					"id_str": "16292857",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1502022951717453800,
+		"in_reply_to_status_id_str": "1502022951717453825",
+		"in_reply_to_user_id": 16292857,
+		"in_reply_to_user_id_str": "16292857",
+		"in_reply_to_screen_name": "jobeaz",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533,
+			"friends_count": 937,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jobeaz That sounds strange. I hope your day improves."
+	},
+	{
 		"created_at": "Sat Mar 05 10:03:51 +0000 2022",
 		"id": 1500049441826705400,
 		"id_str": "1500049441826705409",
-		"full_text": "Crème de la crème: three comforting custard bake recipes from Sally Wise via ⁦⁦@GuardianAus⁩ these looks brilliant, I will have to experiment (sometime in the future) https://t.co/Y1qBFPZCKA",
+		"full_text": "Crème de la crème: three comforting custard bake recipes from Sally Wise via @GuardianAus these looks brilliant, I will have to experiment (sometime in the future) https://t.co/Y1qBFPZCKA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +223,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Crème de la crème: three comforting custard bake recipes from Sally Wise via ⁦⁦@GuardianAus⁩ these looks brilliant, I will have to experiment (sometime in the future) https://t.co/Y1qBFPZCKA"
+		"text": "Crème de la crème: three comforting custard bake recipes from Sally Wise via @GuardianAus these looks brilliant, I will have to experiment (sometime in the future) https://t.co/Y1qBFPZCKA"
 	},
 	{
 		"created_at": "Fri Mar 04 08:50:14 +0000 2022",
