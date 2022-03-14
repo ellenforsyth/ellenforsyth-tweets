@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 13 20:35:06 +0000 2022",
+		"id": 1503107406737264600,
+		"id_str": "1503107406737264641",
+		"full_text": "You can contribute to this data through a very short weekly survey https://t.co/BSgPa4J6A1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BSgPa4J6A1",
+					"expanded_url": "https://twitter.com/Flutrack/status/1501703395702636544",
+					"display_url": "twitter.com/Flutrack/statu…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2532,
+			"friends_count": 939,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1501703395702636500,
+		"quoted_status_id_str": "1501703395702636544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BSgPa4J6A1",
+			"expanded": "https://twitter.com/Flutrack/status/1501703395702636544",
+			"display": "twitter.com/Flutrack/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 09 23:36:04 +0000 2022",
+			"id": 1501703395702636500,
+			"id_str": "1501703395702636544",
+			"full_text": "Hi FluTrackers,\nHere is the link to this week's report for Australia: https://t.co/XkXrmXgBXw (Please note that this is a download link and you may need to open it in a browser if you're using Twitter on your mobile). https://t.co/ZJFHAoNwcm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XkXrmXgBXw",
+						"expanded_url": "https://www.flutracking.net/Info/Report/202211/AU",
+						"display_url": "flutracking.net/Info/Report/20…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1501703103841972200,
+						"id_str": "1501703103841972227",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/FNcfBD6aMAMZPJA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNcfBD6aMAMZPJA.jpg",
+						"url": "https://t.co/ZJFHAoNwcm",
+						"display_url": "pic.twitter.com/ZJFHAoNwcm",
+						"expanded_url": "https://twitter.com/Flutrack/status/1501703395702636544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 942,
+								"h": 773,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 558,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 942,
+								"h": 773,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1501703103841972200,
+						"id_str": "1501703103841972227",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/FNcfBD6aMAMZPJA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNcfBD6aMAMZPJA.jpg",
+						"url": "https://t.co/ZJFHAoNwcm",
+						"display_url": "pic.twitter.com/ZJFHAoNwcm",
+						"expanded_url": "https://twitter.com/Flutrack/status/1501703395702636544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 942,
+								"h": 773,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 558,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 942,
+								"h": 773,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 75984163,
+				"id_str": "75984163",
+				"name": "FluTracking",
+				"screen_name": "Flutrack",
+				"location": "Australia & New Zealand",
+				"description": "Online weekly survey of flu symptoms in Australia & New Zealand.\n\nCommunity guidelines for posting can be found here: https://t.co/Wpazi3ot1O",
+				"url": "http://t.co/XGksi9VJnS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XGksi9VJnS",
+								"expanded_url": "http://www.flutracking.net",
+								"display_url": "flutracking.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Wpazi3ot1O",
+								"expanded_url": "https://www.health.nsw.gov.au/social/Pages",
+								"display_url": "health.nsw.gov.au/social/Pages",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1406,
+				"friends_count": 1849,
+				"listed_count": 18,
+				"created_at": "Mon Sep 21 08:08:55 +0000 2009",
+				"favourites_count": 54,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 346,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1336534318210899972/qcfPsaS2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336534318210899972/qcfPsaS2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/75984163/1629153922",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can contribute to this data through a very short weekly survey https://t.co/BSgPa4J6A1"
+	},
+	{
 		"created_at": "Thu Mar 10 21:50:58 +0000 2022",
 		"id": 1502039335881031700,
 		"id_str": "1502039335881031681",
