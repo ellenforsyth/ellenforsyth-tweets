@@ -1,10 +1,324 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 18 02:08:18 +0000 2022",
+		"id": 1504639978051027000,
+		"id_str": "1504640811505688576",
+		"full_text": "Congratulations to all the shortlisted creators and publishers. \nCheck out our blog post for the full wrap up, including classroom resources from the publishers for selected titles. \n#Libraries #Comics #LibComix\n \nhttps://t.co/u5GcS3TR5K https://t.co/OUhXskysvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Libraries",
+					"indices": [
+						183,
+						193
+					]
+				},
+				{
+					"text": "Comics",
+					"indices": [
+						194,
+						201
+					]
+				},
+				{
+					"text": "LibComix",
+					"indices": [
+						202,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u5GcS3TR5K",
+					"expanded_url": "https://aliagraphic.blogspot.com/2022/03/alia-graphics-notable-australian.html",
+					"display_url": "aliagraphic.blogspot.com/2022/03/alia-g…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1504375688471933000,
+					"id_str": "1504375688471932933",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FOCdt9gacAUjXIj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOCdt9gacAUjXIj.jpg",
+					"url": "https://t.co/OUhXskysvD",
+					"display_url": "pic.twitter.com/OUhXskysvD",
+					"expanded_url": "https://twitter.com/ALIAGraphic/status/1504639978051026949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 311,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 548,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 731,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504375688471933000,
+					"id_str": "1504375688471932933",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FOCdt9gacAUjXIj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOCdt9gacAUjXIj.jpg",
+					"url": "https://t.co/OUhXskysvD",
+					"display_url": "pic.twitter.com/OUhXskysvD",
+					"expanded_url": "https://twitter.com/ALIAGraphic/status/1504639978051026949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 311,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 548,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 731,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1128109431697231900,
+			"id_str": "1128109431697231872",
+			"name": "ALIA Graphic Novels and Comics",
+			"screen_name": "ALIAGraphic",
+			"location": "Australia",
+			"description": "Promoting and advocating for comics and graphic novels at libraries and schools. #ALIAGraphic #LoveOzComix #LibComix #EduComix",
+			"url": "https://t.co/UIT3rV0nEV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UIT3rV0nEV",
+							"expanded_url": "https://aliagraphic.blogspot.com",
+							"display_url": "aliagraphic.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 828,
+			"friends_count": 415,
+			"listed_count": 20,
+			"created_at": "Tue May 14 01:27:02 +0000 2019",
+			"favourites_count": 1790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233651343438401537/zVokG-8d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233651343438401537/zVokG-8d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1128109431697231872/1557799957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to all the shortlisted creators and publishers. \nCheck out our blog post for the full wrap up, including classroom resources from the publishers for selected titles. \n#Libraries #Comics #LibComix\n \nhttps://t.co/u5GcS3TR5K https://t.co/OUhXskysvD"
+	},
+	{
+		"created_at": "Fri Mar 18 02:06:00 +0000 2022",
+		"id": 1504639849340366800,
+		"id_str": "1504640231009849349",
+		"full_text": "We have a Postdoctoral Research Fellow position available at CSU that will be working in the area of libraries and social work. Here is the advertisement if you are interested in applying: https://t.co/1x58bsaltt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1x58bsaltt",
+					"expanded_url": "https://external-jobs.csu.edu.au/cw/en/job/494373/postdoctoral-research-fellow",
+					"display_url": "external-jobs.csu.edu.au/cw/en/job/4943…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1500467448,
+			"id_str": "1500467448",
+			"name": "Information Studies at Charles Sturt University",
+			"screen_name": "SISCSU",
+			"location": "Australia",
+			"description": "A global leader in online and flexible education for the information professions and high quality research in information studies.",
+			"url": "https://t.co/DyU8BhlaiU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DyU8BhlaiU",
+							"expanded_url": "https://arts-ed.csu.edu.au/schools/information-communication-studies",
+							"display_url": "arts-ed.csu.edu.au/schools/inform…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1390,
+			"friends_count": 260,
+			"listed_count": 43,
+			"created_at": "Tue Jun 11 06:15:12 +0000 2013",
+			"favourites_count": 510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136165388704595969/sRk4Y-II_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136165388704595969/sRk4Y-II_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1500467448/1370933158",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have a Postdoctoral Research Fellow position available at CSU that will be working in the area of libraries and social work. Here is the advertisement if you are interested in applying: https://t.co/1x58bsaltt"
+	},
+	{
 		"created_at": "Tue Mar 15 18:55:15 +0000 2022",
 		"id": 1503807053160419300,
 		"id_str": "1503807053160419328",
-		"full_text": "The two animals inflicting a staggering annual death toll on Australia's native wildlife via ⁦@ABCscience⁩  https://t.co/kVJepxgq8j",
+		"full_text": "The two animals inflicting a staggering annual death toll on Australia's native wildlife via @ABCscience  https://t.co/kVJepxgq8j",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +430,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "The two animals inflicting a staggering annual death toll on Australia's native wildlife via ⁦@ABCscience⁩  https://t.co/kVJepxgq8j"
+		"text": "The two animals inflicting a staggering annual death toll on Australia's native wildlife via @ABCscience  https://t.co/kVJepxgq8j"
 	},
 	{
 		"created_at": "Mon Mar 14 10:05:59 +0000 2022",
