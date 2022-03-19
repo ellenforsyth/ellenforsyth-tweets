@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 18 10:23:02 +0000 2022",
+		"id": 1504763767414005800,
+		"id_str": "1504765314088591367",
+		"full_text": "⚡️Strollers have been put in central Lviv on March 18, representing the number of children killed in Russia's war against Ukraine.\n\nAccording to Prosecutor General’s Office, Russian forces have killed 109 children and injured more than 130 since Feb. 24. \n\n📷 Asami Terajima https://t.co/OGtrIsElHi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504762389455069200,
+					"id_str": "1504762389455069184",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FOH9a67WYAAQERo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOH9a67WYAAQERo.jpg",
+					"url": "https://t.co/OGtrIsElHi",
+					"display_url": "pic.twitter.com/OGtrIsElHi",
+					"expanded_url": "https://twitter.com/KyivIndependent/status/1504763767414005762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504762389455069200,
+					"id_str": "1504762389455069184",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FOH9a67WYAAQERo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOH9a67WYAAQERo.jpg",
+					"url": "https://t.co/OGtrIsElHi",
+					"display_url": "pic.twitter.com/OGtrIsElHi",
+					"expanded_url": "https://twitter.com/KyivIndependent/status/1504763767414005762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1462548977367359500,
+			"id_str": "1462548977367359490",
+			"name": "The Kyiv Independent",
+			"screen_name": "KyivIndependent",
+			"location": "Kyiv",
+			"description": "Independent English-language journalism in Ukraine.\n\nBecome our patron: https://t.co/4OIXdyilwG\n\nDonate: https://t.co/SoNr2TVrxO",
+			"url": "https://t.co/WZvsaFpT20",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WZvsaFpT20",
+							"expanded_url": "http://kyivindependent.com",
+							"display_url": "kyivindependent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4OIXdyilwG",
+							"expanded_url": "http://patreon.com/kyivindependent",
+							"display_url": "patreon.com/kyivindependent",
+							"indices": [
+								72,
+								95
+							]
+						},
+						{
+							"url": "https://t.co/SoNr2TVrxO",
+							"expanded_url": "https://www.gofundme.com/f/kyivindependent-launch",
+							"display_url": "gofundme.com/f/kyivindepend…",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1918502,
+			"friends_count": 19,
+			"listed_count": 13446,
+			"created_at": "Sun Nov 21 22:30:41 +0000 2021",
+			"favourites_count": 132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462549054420926466/SZ36DVvO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462549054420926466/SZ36DVvO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1462548977367359490/1637535531",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9418,
+		"favorite_count": 23009,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⚡️Strollers have been put in central Lviv on March 18, representing the number of children killed in Russia's war against Ukraine.\n\nAccording to Prosecutor General’s Office, Russian forces have killed 109 children and injured more than 130 since Feb. 24. \n\n📷 Asami Terajima https://t.co/OGtrIsElHi"
+	},
+	{
 		"created_at": "Fri Mar 18 02:08:18 +0000 2022",
 		"id": 1504639978051027000,
 		"id_str": "1504640811505688576",
