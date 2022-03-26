@@ -1,10 +1,340 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 25 19:33:58 +0000 2022",
+		"id": 1507440677033939000,
+		"id_str": "1507440677033938944",
+		"full_text": "Always good to see a new issue  of @eblip (and I look forward to reading it) https://t.co/Y6eLgDmIyt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eblip",
+					"name": "EBLIP",
+					"id": 22291194,
+					"id_str": "22291194",
+					"indices": [
+						35,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y6eLgDmIyt",
+					"expanded_url": "https://twitter.com/eblip/status/1505699115555909634",
+					"display_url": "twitter.com/eblip/status/1…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2534,
+			"friends_count": 942,
+			"listed_count": 0,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1505699115555909600,
+		"quoted_status_id_str": "1505699115555909634",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y6eLgDmIyt",
+			"expanded": "https://twitter.com/eblip/status/1505699115555909634",
+			"display": "twitter.com/eblip/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 21 00:13:38 +0000 2022",
+			"id": 1505699115555909600,
+			"id_str": "1505699115555909634",
+			"full_text": "It's spring, and a new issue of EBLIP Journal has sprung!\nhttps://t.co/Zs0bh5uZv1\n#information #library #research https://t.co/S9odLoUBnF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "information",
+						"indices": [
+							82,
+							94
+						]
+					},
+					{
+						"text": "library",
+						"indices": [
+							95,
+							103
+						]
+					},
+					{
+						"text": "research",
+						"indices": [
+							104,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Zs0bh5uZv1",
+						"expanded_url": "https://journals.library.ualberta.ca/eblip/index.php/EBLIP",
+						"display_url": "journals.library.ualberta.ca/eblip/index.ph…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1505699104579457000,
+						"id_str": "1505699104579457030",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/FOVRW6sVEAYTDmE.png",
+						"media_url_https": "https://pbs.twimg.com/media/FOVRW6sVEAYTDmE.png",
+						"url": "https://t.co/S9odLoUBnF",
+						"display_url": "pic.twitter.com/S9odLoUBnF",
+						"expanded_url": "https://twitter.com/eblip/status/1505699115555909634/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1505699104579457000,
+						"id_str": "1505699104579457030",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/FOVRW6sVEAYTDmE.png",
+						"media_url_https": "https://pbs.twimg.com/media/FOVRW6sVEAYTDmE.png",
+						"url": "https://t.co/S9odLoUBnF",
+						"display_url": "pic.twitter.com/S9odLoUBnF",
+						"expanded_url": "https://twitter.com/eblip/status/1505699115555909634/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22291194,
+				"id_str": "22291194",
+				"name": "EBLIP",
+				"screen_name": "eblip",
+				"location": "",
+				"description": "Evidence Based Library and Information Practice journal",
+				"url": "http://t.co/M1iWuO4zPS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/M1iWuO4zPS",
+								"expanded_url": "http://ejournals.library.ualberta.ca/index.php/EBLIP",
+								"display_url": "ejournals.library.ualberta.ca/index.php/EBLIP",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1585,
+				"friends_count": 62,
+				"listed_count": 0,
+				"created_at": "Sat Feb 28 20:18:40 +0000 2009",
+				"favourites_count": 1101,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1203,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/84706849/eblip_logo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/84706849/eblip_logo_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Always good to see a new issue  of @eblip (and I look forward to reading it) https://t.co/Y6eLgDmIyt"
+	},
+	{
 		"created_at": "Wed Mar 23 11:37:35 +0000 2022",
 		"id": 1506596015331496000,
 		"id_str": "1506596015331495941",
-		"full_text": "‘Legends are to be told’: Colombian library goes beyond books to keep stories alive via ⁦⁦@guardian⁩ interesting oral history project with local library in small town https://t.co/731TGZ5Yrg",
+		"full_text": "‘Legends are to be told’: Colombian library goes beyond books to keep stories alive via @guardian interesting oral history project with local library in small town https://t.co/731TGZ5Yrg",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +446,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "‘Legends are to be told’: Colombian library goes beyond books to keep stories alive via ⁦⁦@guardian⁩ interesting oral history project with local library in small town https://t.co/731TGZ5Yrg"
+		"text": "‘Legends are to be told’: Colombian library goes beyond books to keep stories alive via @guardian interesting oral history project with local library in small town https://t.co/731TGZ5Yrg"
 	},
 	{
 		"created_at": "Sun Mar 20 09:18:56 +0000 2022",
