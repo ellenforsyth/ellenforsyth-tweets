@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 16 23:15:54 +0000 2022",
+		"id": 1515469058778763300,
+		"id_str": "1515469058778763264",
+		"full_text": "@griffey Really sorry to hear this, sad and tough times",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "griffey",
+					"name": "Jason Griffey",
+					"id": 1200241,
+					"id_str": "1200241",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1515418168134705200,
+		"in_reply_to_status_id_str": "1515418168134705153",
+		"in_reply_to_user_id": 1200241,
+		"in_reply_to_user_id_str": "1200241",
+		"in_reply_to_screen_name": "griffey",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2540,
+			"friends_count": 945,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@griffey Really sorry to hear this, sad and tough times"
+	},
+	{
+		"created_at": "Sat Apr 16 23:10:40 +0000 2022",
+		"id": 1515467742073471000,
+		"id_str": "1515467742073470976",
+		"full_text": "Digitising family photographs and videos also makes them easier to share with extended family https://t.co/sfpHN2OduT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sfpHN2OduT",
+					"expanded_url": "https://twitter.com/Infolass/status/1515220020128800768",
+					"display_url": "twitter.com/Infolass/statu…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2540,
+			"friends_count": 945,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1515220020128800800,
+		"quoted_status_id_str": "1515220020128800768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sfpHN2OduT",
+			"expanded": "https://twitter.com/Infolass/status/1515220020128800768",
+			"display": "twitter.com/Infolass/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 16 06:46:18 +0000 2022",
+			"id": 1515220020128800800,
+			"id_str": "1515220020128800768",
+			"full_text": "From wedding tapes to holiday albums, how libraries are bringing old memories back to life https://t.co/zop8sFw2gX https://t.co/8hIv5oM5OI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zop8sFw2gX",
+						"expanded_url": "https://buff.ly/3uH3Qnc",
+						"display_url": "buff.ly/3uH3Qnc",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1515220017436143600,
+						"id_str": "1515220017436143617",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/FQckk-_XsAE2AvV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQckk-_XsAE2AvV.jpg",
+						"url": "https://t.co/8hIv5oM5OI",
+						"display_url": "pic.twitter.com/8hIv5oM5OI",
+						"expanded_url": "https://twitter.com/Infolass/status/1515220020128800768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 862,
+								"h": 485,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 862,
+								"h": 485,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1515220017436143600,
+						"id_str": "1515220017436143617",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/FQckk-_XsAE2AvV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQckk-_XsAE2AvV.jpg",
+						"url": "https://t.co/8hIv5oM5OI",
+						"display_url": "pic.twitter.com/8hIv5oM5OI",
+						"expanded_url": "https://twitter.com/Infolass/status/1515220020128800768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 862,
+								"h": 485,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 862,
+								"h": 485,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83548506,
+				"id_str": "83548506",
+				"name": "Liz Pidgeon",
+				"screen_name": "Infolass",
+				"location": "Melbourne, Victoria, Australia",
+				"description": "Local & Family History Librarian @YarraPlentyLib in Melbourne's north. #libraries #collections #genealogy #localhistory #Nillumbik #Banyule #Whittlesea",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1715,
+				"friends_count": 1775,
+				"listed_count": 103,
+				"created_at": "Mon Oct 19 07:53:13 +0000 2009",
+				"favourites_count": 3169,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12605,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1211554226020552704/Rzp0eeCB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211554226020552704/Rzp0eeCB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83548506/1577692014",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Digitising family photographs and videos also makes them easier to share with extended family https://t.co/sfpHN2OduT"
+	},
+	{
 		"created_at": "Tue Apr 12 00:08:16 +0000 2022",
 		"id": 1513666489189994500,
 		"id_str": "1513670296837844999",
