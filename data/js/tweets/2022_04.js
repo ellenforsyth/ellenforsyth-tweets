@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 17 23:21:21 +0000 2022",
+		"id": 1515832818580213800,
+		"id_str": "1515832818580213760",
+		"full_text": "these are joyful (particularly the tea cosies, I remember an aunt crocheting a poodle bottle cover) https://t.co/8uYalopgaZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8uYalopgaZ",
+					"expanded_url": "https://twitter.com/TroveAustralia/status/1515572015545131010",
+					"display_url": "twitter.com/TroveAustralia…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2540,
+			"friends_count": 945,
+			"listed_count": 218,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1515572015545131000,
+		"quoted_status_id_str": "1515572015545131010",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8uYalopgaZ",
+			"expanded": "https://twitter.com/TroveAustralia/status/1515572015545131010",
+			"display": "twitter.com/TroveAustralia…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 17 06:05:01 +0000 2022",
+			"id": 1515572015545131000,
+			"id_str": "1515572015545131010",
+			"full_text": "If you're looking for a new hobby to whittle away the hours this weekend, we are pleased to present you with the cosiest of solutions... BYO wool, tea and bickies\n\nView the knitting pattern in Trove: https://t.co/lU1wEOArNp https://t.co/t4QZiZDEGD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lU1wEOArNp",
+						"expanded_url": "https://bit.ly/3JGiYFM",
+						"display_url": "bit.ly/3JGiYFM",
+						"indices": [
+							200,
+							223
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1515572013653536800,
+						"id_str": "1515572013653536772",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/media/FQhkt3FXsAQQY5X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQhkt3FXsAQQY5X.jpg",
+						"url": "https://t.co/t4QZiZDEGD",
+						"display_url": "pic.twitter.com/t4QZiZDEGD",
+						"expanded_url": "https://twitter.com/TroveAustralia/status/1515572015545131010/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 641,
+								"h": 801,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 641,
+								"h": 801,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1515572013653536800,
+						"id_str": "1515572013653536772",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/media/FQhkt3FXsAQQY5X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQhkt3FXsAQQY5X.jpg",
+						"url": "https://t.co/t4QZiZDEGD",
+						"display_url": "pic.twitter.com/t4QZiZDEGD",
+						"expanded_url": "https://twitter.com/TroveAustralia/status/1515572015545131010/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 641,
+								"h": 801,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 641,
+								"h": 801,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119219640,
+				"id_str": "119219640",
+				"name": "Trove",
+				"screen_name": "TroveAustralia",
+				"location": "Canberra, Australia",
+				"description": "Trove is your window into Australia's stories. Tweets by the Trove team at National Library of Australia. https://t.co/YoggWZE8L5",
+				"url": "http://t.co/xJewI037dI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xJewI037dI",
+								"expanded_url": "http://trove.nla.gov.au/",
+								"display_url": "trove.nla.gov.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YoggWZE8L5",
+								"expanded_url": "http://trove.nla.gov.au",
+								"display_url": "trove.nla.gov.au",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 24091,
+				"friends_count": 1792,
+				"listed_count": 523,
+				"created_at": "Wed Mar 03 00:52:10 +0000 2010",
+				"favourites_count": 8693,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9884,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C3E065",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1290190065906225158/UxRx_NgU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290190065906225158/UxRx_NgU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119219640/1593129353",
+				"profile_link_color": "619744",
+				"profile_sidebar_border_color": "D8F098",
+				"profile_sidebar_fill_color": "ECF0D6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "these are joyful (particularly the tea cosies, I remember an aunt crocheting a poodle bottle cover) https://t.co/8uYalopgaZ"
+	},
+	{
 		"created_at": "Sat Apr 16 23:15:54 +0000 2022",
 		"id": 1515469058778763300,
 		"id_str": "1515469058778763264",
