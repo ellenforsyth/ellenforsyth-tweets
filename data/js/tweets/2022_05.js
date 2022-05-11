@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 10 22:42:57 +0000 2022",
+		"id": 1524142534775414800,
+		"id_str": "1524158075992563712",
+		"full_text": "“This is not normal and we should not accept that this is the way things are.”\n\nScientists are alarmed severe and widespread bleaching has been confirmed on the Reef for the first time during a La Niña year. \n\nThis is why we must #PutClimateFirst\n\nhttps://t.co/5YgS16GPID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PutClimateFirst",
+					"indices": [
+						230,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5YgS16GPID",
+					"expanded_url": "https://www.theguardian.com/environment/2022/may/10/devastating-90-of-reefs-surveyed-on-great-barrier-reef-affected-by-coral-bleaching-in-2022",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1892683062,
+			"id_str": "1892683062",
+			"name": "Climate Council",
+			"screen_name": "climatecouncil",
+			"location": "Australia",
+			"description": "Providing Australians with a reliable source of information on climate science.\n\nAuthorised by Amanda McKenzie, Climate Council of Australia Ltd, Sydney.",
+			"url": "https://t.co/0jPFUeY6Fe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0jPFUeY6Fe",
+							"expanded_url": "https://climc.nl/3B4DD1L",
+							"display_url": "climc.nl/3B4DD1L",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62475,
+			"friends_count": 17069,
+			"listed_count": 1095,
+			"created_at": "Sun Sep 22 06:29:31 +0000 2013",
+			"favourites_count": 2113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/504862206479970304/rWWL00qW_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/504862206479970304/rWWL00qW_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1892683062/1648695499",
+			"profile_link_color": "EFAB23",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“This is not normal and we should not accept that this is the way things are.”\n\nScientists are alarmed severe and widespread bleaching has been confirmed on the Reef for the first time during a La Niña year. \n\nThis is why we must #PutClimateFirst\n\nhttps://t.co/5YgS16GPID"
+	},
+	{
 		"created_at": "Sun May 08 21:28:19 +0000 2022",
 		"id": 1523414518264926200,
 		"id_str": "1523414518264926209",
