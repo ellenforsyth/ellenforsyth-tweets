@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 26 11:27:15 +0000 2022",
+		"id": 1529786234989449200,
+		"id_str": "1529786234989449216",
+		"full_text": "Very interesting https://t.co/zegUL4pEB7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zegUL4pEB7",
+					"expanded_url": "https://twitter.com/ifla_lbes/status/1529767517295607809",
+					"display_url": "twitter.com/ifla_lbes/stat…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2534,
+			"friends_count": 954,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1529767517295607800,
+		"quoted_status_id_str": "1529767517295607809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zegUL4pEB7",
+			"expanded": "https://twitter.com/ifla_lbes/status/1529767517295607809",
+			"display": "twitter.com/ifla_lbes/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 26 10:12:52 +0000 2022",
+			"id": 1529767517295607800,
+			"id_str": "1529767517295607809",
+			"full_text": "The American Institute of Architects and  @ALALibrary award five libraries with the 2022 Building Award for excellence in architectural design. https://t.co/kKvsxTdvjp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ALALibrary",
+						"name": "American Library Association",
+						"id": 21799699,
+						"id_str": "21799699",
+						"indices": [
+							42,
+							53
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kKvsxTdvjp",
+						"expanded_url": "https://www.infodocket.com/2022/05/18/five-projects-receive-2022-aia-ala-library-building-award/",
+						"display_url": "infodocket.com/2022/05/18/fiv…",
+						"indices": [
+							144,
+							167
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 719470883094585300,
+				"id_str": "719470883094585344",
+				"name": "IFLA Section - Library Buildings and Equipment",
+				"screen_name": "ifla_lbes",
+				"location": "",
+				"description": "Winner IFLA Dynamic Unit Award 2019 #iflabuild2021 #library #buildings and #equipment section of @ifla https://t.co/arzConj4dx",
+				"url": "https://t.co/ay2Ikew6QN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ay2Ikew6QN",
+								"expanded_url": "http://www.ifla.org/library-buildings-and-equipment",
+								"display_url": "ifla.org/library-buildi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/arzConj4dx",
+								"expanded_url": "https://www.facebook.com/groups/1649951498620366/",
+								"display_url": "facebook.com/groups/1649951…",
+								"indices": [
+									103,
+									126
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 952,
+				"friends_count": 91,
+				"listed_count": 33,
+				"created_at": "Mon Apr 11 10:23:20 +0000 2016",
+				"favourites_count": 1485,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1999,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073262729396408325/m_K34zH__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073262729396408325/m_K34zH__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/719470883094585344/1633477105",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very interesting https://t.co/zegUL4pEB7"
+	},
+	{
 		"created_at": "Wed May 18 04:21:49 +0000 2022",
 		"id": 1526780071604023300,
 		"id_str": "1526780071604023296",
