@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 31 22:57:36 +0000 2022",
+		"id": 1531425801966878700,
+		"id_str": "1531771909922488320",
+		"full_text": "A @TroveAustralia-inspired knitting book, Vintage Knits, has just been published by @nlagovau Publishing.\nDiscover the original patterns on Trove by searching here: https://t.co/j92S5g5JP6\nBackground story via @abcnews:  https://t.co/AvUr0Ydcxb\n#KnittingPatterns #knitting",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KnittingPatterns",
+					"indices": [
+						245,
+						262
+					]
+				},
+				{
+					"text": "knitting",
+					"indices": [
+						263,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TroveAustralia",
+					"name": "Trove",
+					"id": 119219640,
+					"id_str": "119219640",
+					"indices": [
+						2,
+						17
+					]
+				},
+				{
+					"screen_name": "nlagovau",
+					"name": "National Library of Australia",
+					"id": 42354375,
+					"id_str": "42354375",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						210,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j92S5g5JP6",
+					"expanded_url": "https://trove.nla.gov.au/search/category/lists?keyword=knitting%20patterns",
+					"display_url": "trove.nla.gov.au/search/categor…",
+					"indices": [
+						165,
+						188
+					]
+				},
+				{
+					"url": "https://t.co/AvUr0Ydcxb",
+					"expanded_url": "https://www.abc.net.au/news/2022-05-31/vintage-knits-from-national-library-archive-for-new-generation/101106820",
+					"display_url": "abc.net.au/news/2022-05-3…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 783530478,
+			"id_str": "783530478",
+			"name": "Tessa Wooldridge",
+			"screen_name": "OzPentimenti",
+			"location": "Ngambri-Ngunnawal country, Aus",
+			"description": "Researcher Writer Reader (previously @OzKidsYALit) Rummaging in literature, history and landscape.",
+			"url": "https://t.co/iFyE9EPnir",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iFyE9EPnir",
+							"expanded_url": "https://tessawooldridge.com/",
+							"display_url": "tessawooldridge.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 233,
+			"friends_count": 294,
+			"listed_count": 4,
+			"created_at": "Mon Aug 27 01:21:35 +0000 2012",
+			"favourites_count": 225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897328230515879936/bb1JReAS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897328230515879936/bb1JReAS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/783530478/1547336289",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A @TroveAustralia-inspired knitting book, Vintage Knits, has just been published by @nlagovau Publishing.\nDiscover the original patterns on Trove by searching here: https://t.co/j92S5g5JP6\nBackground story via @abcnews:  https://t.co/AvUr0Ydcxb\n#KnittingPatterns #knitting"
+	},
+	{
 		"created_at": "Thu May 26 11:27:15 +0000 2022",
 		"id": 1529786234989449200,
 		"id_str": "1529786234989449216",
