@@ -1,0 +1,86 @@
+Grailbird.data.tweets_2022_06 = 
+[
+	{
+		"created_at": "Sat Jun 04 00:53:32 +0000 2022",
+		"id": 1532848511695302700,
+		"id_str": "1532888246707171329",
+		"full_text": "We must cherisshe and protecte the beautye, kyndenesse, pleasure, delighte, thoughtfulnesse, complexitye, and gentilnesse that so manye yn thys worlde are determined to disregard and belittle.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 440519278,
+			"id_str": "440519278",
+			"name": "Chaucer Doth Tweet",
+			"screen_name": "LeVostreGC",
+			"location": "London and eek Kente",
+			"description": "Geoffrey Chaucer (Le Vostre GC): Servaunt of the Kynge. Blogger. Wryter of verse. Wearer of litel woolen hatte. Deputy Forestere of North Petherton. He/hym/hys.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98194,
+			"friends_count": 24206,
+			"listed_count": 1216,
+			"created_at": "Mon Dec 19 03:12:16 +0000 2011",
+			"favourites_count": 13519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/689504791643336704/BAuTuTuB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/689504791643336704/BAuTuTuB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/440519278/1383815143",
+			"profile_link_color": "800956",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 147,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We must cherisshe and protecte the beautye, kyndenesse, pleasure, delighte, thoughtfulnesse, complexitye, and gentilnesse that so manye yn thys worlde are determined to disregard and belittle."
+	}
+]
