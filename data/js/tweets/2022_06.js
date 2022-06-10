@@ -1,6 +1,174 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 09 21:38:36 +0000 2022",
+		"id": 1534791268638740500,
+		"id_str": "1535013516863631360",
+		"full_text": "My piece for @ConversationEDU on @abcnews announced cuts to librarians and archivists @ALIANational @ausarchivists @RMIT \n\nThe ABC's plan to axe its librarians will damage its journalism. Here's why https://t.co/jRzmOjLO42 via @ConversationEDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "abcnews",
+					"name": "ABC News",
+					"id": 2768501,
+					"id_str": "2768501",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"screen_name": "ALIANational",
+					"name": "Aust Lib & Info Assn",
+					"id": 43796164,
+					"id_str": "43796164",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"screen_name": "ausarchivists",
+					"name": "Aust Archivists",
+					"id": 96327562,
+					"id_str": "96327562",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"screen_name": "RMIT",
+					"name": "RMIT University",
+					"id": 6778812,
+					"id_str": "6778812",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						227,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jRzmOjLO42",
+					"expanded_url": "https://theconversation.com/the-abcs-plan-to-axe-its-librarians-will-damage-its-journalism-heres-why-184733?utm_source=twitter&utm_medium=bylinetwitterbutton",
+					"display_url": "theconversation.com/the-abcs-plan-…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97316192,
+			"id_str": "97316192",
+			"name": "Prof/Dr Lisa M Given 🇨🇦🇦🇺",
+			"screen_name": "lisagiven",
+			"location": "Melbourne, Victoria",
+			"description": "Professor & Director, Social Change Enabling Capability Platform @RMIT. Editor-in-Chief @arist_org. All things info science, qualitative, metal & cats (she/her)",
+			"url": "https://t.co/CCC0GKP0jN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCC0GKP0jN",
+							"expanded_url": "http://lisagiven.com/",
+							"display_url": "lisagiven.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2445,
+			"friends_count": 3125,
+			"listed_count": 52,
+			"created_at": "Wed Dec 16 23:47:10 +0000 2009",
+			"favourites_count": 14150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026938518591815685/IRGLYQ-S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026938518591815685/IRGLYQ-S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97316192/1609145790",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My piece for @ConversationEDU on @abcnews announced cuts to librarians and archivists @ALIANational @ausarchivists @RMIT \n\nThe ABC's plan to axe its librarians will damage its journalism. Here's why https://t.co/jRzmOjLO42 via @ConversationEDU"
+	},
+	{
 		"created_at": "Tue Jun 07 09:03:55 +0000 2022",
 		"id": 1534098818740154400,
 		"id_str": "1534098818740154368",
