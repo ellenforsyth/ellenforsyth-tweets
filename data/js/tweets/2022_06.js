@@ -1,6 +1,154 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 11 00:30:48 +0000 2022",
+		"id": 1535296897837150200,
+		"id_str": "1535419241213865984",
+		"full_text": "We did another thing!\nSeriously, y'all, libraries are not neutral. @yasmeen_azadi @readingspark @AmeliaNGibson @rchancell \nhttps://t.co/VcF5EWuuMr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yasmeen_azadi",
+					"name": "Yasmeen Shorish",
+					"id": 172608008,
+					"id_str": "172608008",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"screen_name": "readingspark",
+					"name": "Dr. Sarah Park Dahlen 박사라",
+					"id": 15538756,
+					"id_str": "15538756",
+					"indices": [
+						82,
+						95
+					]
+				},
+				{
+					"screen_name": "AmeliaNGibson",
+					"name": "Dr. G is laying low for the moment",
+					"id": 192424439,
+					"id_str": "192424439",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"screen_name": "rchancell",
+					"name": "Dr. Renate Chancellor",
+					"id": 252387320,
+					"id_str": "252387320",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VcF5EWuuMr",
+					"expanded_url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/89576-once-more-for-those-in-the-back-libraries-are-not-neutral.html",
+					"display_url": "publishersweekly.com/pw/by-topic/in…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1210273355607289900,
+			"id_str": "1210273355607289856",
+			"name": "Dr. Augusta Baker Endowed Chair at the U of SC",
+			"screen_name": "BakerChair",
+			"location": "Columbia, SC",
+			"description": "The Augusta Baker Chair is a diversity in libraries initiative at the University of South Carolina’s School of Library and Information Science.",
+			"url": "https://t.co/ZUDkjgFqQ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZUDkjgFqQ0",
+							"expanded_url": "https://bit.ly/BakerLectures",
+							"display_url": "bit.ly/BakerLectures",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2462,
+			"friends_count": 1094,
+			"listed_count": 42,
+			"created_at": "Thu Dec 26 18:57:44 +0000 2019",
+			"favourites_count": 7906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511463029040427014/IJcTe2I4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511463029040427014/IJcTe2I4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1210273355607289856/1577387910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 144,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We did another thing!\nSeriously, y'all, libraries are not neutral. @yasmeen_azadi @readingspark @AmeliaNGibson @rchancell \nhttps://t.co/VcF5EWuuMr"
+	},
+	{
 		"created_at": "Thu Jun 09 21:38:36 +0000 2022",
 		"id": 1534791268638740500,
 		"id_str": "1535013516863631360",
