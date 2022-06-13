@@ -1,6 +1,639 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 13 00:07:06 +0000 2022",
+		"id": 1536125168808259600,
+		"id_str": "1536138053341040640",
+		"full_text": "Last winter, thousands of dead and dying #frogs were found across #Australia. \n\nIn the last few weeks, as it's cooled, we’ve started getting scarily similar reports. @ConversationEDU @AustmusResearch @UNSW @unswbees\n\nWe need your help.\n\nhttps://t.co/AOM95VpVLK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "frogs",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "Australia",
+					"indices": [
+						66,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						166,
+						182
+					]
+				},
+				{
+					"screen_name": "AustmusResearch",
+					"name": "AMRI",
+					"id": 1700471420,
+					"id_str": "1700471420",
+					"indices": [
+						183,
+						199
+					]
+				},
+				{
+					"screen_name": "UNSW",
+					"name": "UNSW",
+					"id": 14769030,
+					"id_str": "14769030",
+					"indices": [
+						200,
+						205
+					]
+				},
+				{
+					"screen_name": "unswbees",
+					"name": "UNSW Biological, Earth and Environmental Sciences",
+					"id": 950592744426111000,
+					"id_str": "950592744426110976",
+					"indices": [
+						206,
+						215
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AOM95VpVLK",
+					"expanded_url": "https://theconversation.com/australian-frogs-are-dying-en-masse-again-and-we-need-your-help-to-find-out-why-184255",
+					"display_url": "theconversation.com/australian-fro…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216979622,
+			"id_str": "216979622",
+			"name": "Jodi Rowley",
+			"screen_name": "jodirowley",
+			"location": "Australian Museum & UNSW",
+			"description": "Conservation #biologist obsessed with #frogs. Lead Scientist, #FrogID. Searching for the Peppered Tree #Frog. @austmus & @UNSW, 2022 @natgeo Explorer.",
+			"url": "https://t.co/miq15eIMbi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/miq15eIMbi",
+							"expanded_url": "http://www.jodirowley.com",
+							"display_url": "jodirowley.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11313,
+			"friends_count": 1742,
+			"listed_count": 267,
+			"created_at": "Thu Nov 18 07:08:51 +0000 2010",
+			"favourites_count": 22565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E3B39",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816499907288711169/Au5kRUr3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816499907288711169/Au5kRUr3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216979622/1398342662",
+			"profile_link_color": "F0593E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "D4C8D4",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last winter, thousands of dead and dying #frogs were found across #Australia. \n\nIn the last few weeks, as it's cooled, we’ve started getting scarily similar reports. @ConversationEDU @AustmusResearch @UNSW @unswbees\n\nWe need your help.\n\nhttps://t.co/AOM95VpVLK"
+	},
+	{
+		"created_at": "Sun Jun 12 23:57:14 +0000 2022",
+		"id": 1536135568224288800,
+		"id_str": "1536135568224288768",
+		"full_text": "this is a really interesting project https://t.co/vzhj0Qm3rI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vzhj0Qm3rI",
+					"expanded_url": "https://twitter.com/thelibraryzine/status/1535280321230348289",
+					"display_url": "twitter.com/thelibraryzine…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 956,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1535280321230348300,
+		"quoted_status_id_str": "1535280321230348289",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vzhj0Qm3rI",
+			"expanded": "https://twitter.com/thelibraryzine/status/1535280321230348289",
+			"display": "twitter.com/thelibraryzine…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 10 15:18:47 +0000 2022",
+			"id": 1535280321230348300,
+			"id_str": "1535280321230348289",
+			"full_text": "Countdown to the @BaldwinHills Zinefest is almost complete! Today’s spotlight is on the @LAPublicLibrary West Valley region. https://t.co/WZ4okaIl0e #illustration #photography #design #zine #lapubliclibrary #LosAngeles https://t.co/AcowVgBp34",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "illustration",
+						"indices": [
+							149,
+							162
+						]
+					},
+					{
+						"text": "photography",
+						"indices": [
+							163,
+							175
+						]
+					},
+					{
+						"text": "design",
+						"indices": [
+							176,
+							183
+						]
+					},
+					{
+						"text": "zine",
+						"indices": [
+							184,
+							189
+						]
+					},
+					{
+						"text": "lapubliclibrary",
+						"indices": [
+							190,
+							206
+						]
+					},
+					{
+						"text": "LosAngeles",
+						"indices": [
+							207,
+							218
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BaldwinHills",
+						"name": "Baldwin Hills Library",
+						"id": 591302959,
+						"id_str": "591302959",
+						"indices": [
+							17,
+							30
+						]
+					},
+					{
+						"screen_name": "LAPublicLibrary",
+						"name": "L.A. Public Library",
+						"id": 33573444,
+						"id_str": "33573444",
+						"indices": [
+							88,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WZ4okaIl0e",
+						"expanded_url": "https://www.nonstndrd.com/the-library-zine-project",
+						"display_url": "nonstndrd.com/the-library-zi…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1535280312279650300,
+						"id_str": "1535280312279650305",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/FU5pT0wUUAEN3eD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FU5pT0wUUAEN3eD.jpg",
+						"url": "https://t.co/AcowVgBp34",
+						"display_url": "pic.twitter.com/AcowVgBp34",
+						"expanded_url": "https://twitter.com/thelibraryzine/status/1535280321230348289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 638,
+								"h": 825,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 526,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 638,
+								"h": 825,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1535280312279650300,
+						"id_str": "1535280312279650305",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/FU5pT0wUUAEN3eD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FU5pT0wUUAEN3eD.jpg",
+						"url": "https://t.co/AcowVgBp34",
+						"display_url": "pic.twitter.com/AcowVgBp34",
+						"expanded_url": "https://twitter.com/thelibraryzine/status/1535280321230348289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 638,
+								"h": 825,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 526,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 638,
+								"h": 825,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1535280312141262800,
+						"id_str": "1535280312141262849",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/FU5pT0PUsAEBSQr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FU5pT0PUsAEBSQr.jpg",
+						"url": "https://t.co/AcowVgBp34",
+						"display_url": "pic.twitter.com/AcowVgBp34",
+						"expanded_url": "https://twitter.com/thelibraryzine/status/1535280321230348289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1535280312141246500,
+						"id_str": "1535280312141246465",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/FU5pT0PUcAEO_Co.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FU5pT0PUcAEO_Co.jpg",
+						"url": "https://t.co/AcowVgBp34",
+						"display_url": "pic.twitter.com/AcowVgBp34",
+						"expanded_url": "https://twitter.com/thelibraryzine/status/1535280321230348289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1535280312166387700,
+						"id_str": "1535280312166387712",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/FU5pT0VUEAA5l61.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FU5pT0VUEAA5l61.jpg",
+						"url": "https://t.co/AcowVgBp34",
+						"display_url": "pic.twitter.com/AcowVgBp34",
+						"expanded_url": "https://twitter.com/thelibraryzine/status/1535280321230348289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1525569233345577000,
+				"id_str": "1525569233345576960",
+				"name": "The Library Zine",
+				"screen_name": "thelibraryzine",
+				"location": "Los Angeles, CA",
+				"description": "Illustrated photographs of each @lapubliclibrary branch by @nonstndrd for the Creator in Residence program. Available online now, printed copies soon!",
+				"url": "https://t.co/lkgXayWf4l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lkgXayWf4l",
+								"expanded_url": "https://www.nonstndrd.com/the-library-zine-project",
+								"display_url": "nonstndrd.com/the-library-zi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56,
+				"friends_count": 105,
+				"listed_count": 1,
+				"created_at": "Sat May 14 20:10:33 +0000 2022",
+				"favourites_count": 122,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1535281039051853824/EvVTFHpY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1535281039051853824/EvVTFHpY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1525569233345576960/1653317874",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is a really interesting project https://t.co/vzhj0Qm3rI"
+	},
+	{
 		"created_at": "Sat Jun 11 00:30:48 +0000 2022",
 		"id": 1535296897837150200,
 		"id_str": "1535419241213865984",
