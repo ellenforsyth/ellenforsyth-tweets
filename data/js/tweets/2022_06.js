@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 13 23:29:28 +0000 2022",
+		"id": 1536487336774717400,
+		"id_str": "1536490968631119872",
+		"full_text": "Help us understand why frogs are dead and dying across #Australia by sending in reports to calls@frogid.net.au\n \nTo help determine the impact of frog deaths on Australia's frogs, please use the #FrogID app to record frog calls whenever you can.\n \nhttps://t.co/hSTf2Dv0Ja",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Australia",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "FrogID",
+					"indices": [
+						194,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hSTf2Dv0Ja",
+					"expanded_url": "https://theconversation.com/australian-frogs-are-dying-en-masse-again-and-we-need-your-help-to-find-out-why-184255",
+					"display_url": "theconversation.com/australian-fro…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 904933218754879500,
+			"id_str": "904933218754879488",
+			"name": "FrogID",
+			"screen_name": "FrogIDAus",
+			"location": "",
+			"description": "Australia’s national frog count! Download the FrogID app, record frog calls and help save Australia's frogs. An @Austmus initiative.",
+			"url": "https://t.co/w4U0ovlbYP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w4U0ovlbYP",
+							"expanded_url": "http://www.FrogID.net.au",
+							"display_url": "FrogID.net.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3439,
+			"friends_count": 1079,
+			"listed_count": 49,
+			"created_at": "Tue Sep 05 05:04:26 +0000 2017",
+			"favourites_count": 2691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453520735075323906/q1jJV3hy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453520735075323906/q1jJV3hy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/904933218754879488/1637671446",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Help us understand why frogs are dead and dying across #Australia by sending in reports to calls@frogid.net.au\n \nTo help determine the impact of frog deaths on Australia's frogs, please use the #FrogID app to record frog calls whenever you can.\n \nhttps://t.co/hSTf2Dv0Ja"
+	},
+	{
 		"created_at": "Mon Jun 13 00:07:06 +0000 2022",
 		"id": 1536125168808259600,
 		"id_str": "1536138053341040640",
