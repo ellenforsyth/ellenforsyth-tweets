@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 22:38:30 +0000 2022",
+		"id": 1537565307145171000,
+		"id_str": "1537565307145170945",
+		"full_text": "Now is a really good time to start donating. I know there are really good reasons why not everyone can donate, but it could be time to try. https://t.co/4YuaaQOR4o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4YuaaQOR4o",
+					"expanded_url": "https://twitter.com/lifebloodau/status/1536468517230366720",
+					"display_url": "twitter.com/lifebloodau/st…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2530,
+			"friends_count": 947,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 8934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1536468517230366700,
+		"quoted_status_id_str": "1536468517230366720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4YuaaQOR4o",
+			"expanded": "https://twitter.com/lifebloodau/status/1536468517230366720",
+			"display": "twitter.com/lifebloodau/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 13 22:00:15 +0000 2022",
+			"id": 1536468517230366700,
+			"id_str": "1536468517230366720",
+			"full_text": "This National Blood Donor Week we celebrate our half a million active donors in Australia who gave 1,596,803 individual donations last year. Today, on World Blood Donor Day, we thank each one of you, who took the time to give life and continue to be the Lifeblood of Australia. https://t.co/1ngugol7Fh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1536467241004318700,
+						"id_str": "1536467241004318721",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1536467241004318721/pu/img/qsZeH32PWe1dvY3c.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1536467241004318721/pu/img/qsZeH32PWe1dvY3c.jpg",
+						"url": "https://t.co/1ngugol7Fh",
+						"display_url": "pic.twitter.com/1ngugol7Fh",
+						"expanded_url": "https://twitter.com/lifebloodau/status/1536468517230366720/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1536467241004318700,
+						"id_str": "1536467241004318721",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1536467241004318721/pu/img/qsZeH32PWe1dvY3c.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1536467241004318721/pu/img/qsZeH32PWe1dvY3c.jpg",
+						"url": "https://t.co/1ngugol7Fh",
+						"display_url": "pic.twitter.com/1ngugol7Fh",
+						"expanded_url": "https://twitter.com/lifebloodau/status/1536468517230366720/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 10010,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1536467241004318721/pu/vid/720x720/vFhhGxk56N-9zN7k.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1536467241004318721/pu/vid/540x540/TbIiZUdR3yrH4A-L.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1536467241004318721/pu/pl/-KVM36cxICC_xfLV.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1536467241004318721/pu/vid/320x320/uxgbVKNK3sStKdog.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36544738,
+				"id_str": "36544738",
+				"name": "lifebloodau",
+				"screen_name": "lifebloodau",
+				"location": "Australia",
+				"description": "Lifeblood. Give Life. Give Blood. Call 13 14 95 or book online. #lifebloodau",
+				"url": "https://t.co/lBDxn9wss7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lBDxn9wss7",
+								"expanded_url": "https://lifebloodau.com/2rKMGXW",
+								"display_url": "lifebloodau.com/2rKMGXW",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19026,
+				"friends_count": 2801,
+				"listed_count": 207,
+				"created_at": "Thu Apr 30 01:03:11 +0000 2009",
+				"favourites_count": 8389,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14394,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1329296923098980352/AT36j_RC_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329296923098980352/AT36j_RC_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36544738/1652658820",
+				"profile_link_color": "FF0D00",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E0E0E0",
+				"profile_text_color": "242324",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now is a really good time to start donating. I know there are really good reasons why not everyone can donate, but it could be time to try. https://t.co/4YuaaQOR4o"
+	},
+	{
 		"created_at": "Mon Jun 13 23:29:28 +0000 2022",
 		"id": 1536487336774717400,
 		"id_str": "1536490968631119872",
