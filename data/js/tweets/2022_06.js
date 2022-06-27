@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 01:25:35 +0000 2022",
+		"id": 1541214772770705400,
+		"id_str": "1541231233128345601",
+		"full_text": "Wiradjuri heroes Yarri and Jacky Jacky celebrated 170 years after 1852 Gundagai flood.\n\n https://t.co/z5NZQul0M2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z5NZQul0M2",
+					"expanded_url": "https://www.abc.net.au/news/2022-06-27/gundagai-flood-wiradjuri-heroes-yarri-and-jacky-jacky-celebrated/101184050",
+					"display_url": "abc.net.au/news/2022-06-2…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23377444,
+			"id_str": "23377444",
+			"name": "ABC Indigenous",
+			"screen_name": "ABCIndigenous",
+			"location": "Australia",
+			"description": "Home of #BlackAs #KikiandKitty, #BlueWaterEmpire, #MysteryRoad, #Cleverman, #ABCBlackComedy. This is an official @ABCAustralia account. RT not endorsement.",
+			"url": "https://t.co/n78OA61bdj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n78OA61bdj",
+							"expanded_url": "http://www.abc.net.au/indigenous/",
+							"display_url": "abc.net.au/indigenous/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41769,
+			"friends_count": 4465,
+			"listed_count": 351,
+			"created_at": "Mon Mar 09 00:32:56 +0000 2009",
+			"favourites_count": 9642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148784074007314432/0O-GKXxa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148784074007314432/0O-GKXxa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23377444/1654219574",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wiradjuri heroes Yarri and Jacky Jacky celebrated 170 years after 1852 Gundagai flood.\n\n https://t.co/z5NZQul0M2"
+	},
+	{
 		"created_at": "Sat Jun 25 22:04:09 +0000 2022",
 		"id": 1540818154481660000,
 		"id_str": "1540818154481659904",
