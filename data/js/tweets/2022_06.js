@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 00:20:46 +0000 2022",
+		"id": 1541146545260617700,
+		"id_str": "1541577309710581760",
+		"full_text": "No. There are plenty of places for people to get misinformation if that is what they desire. It has nothing to do with your personal feelings or what offends you and everything to do with the Holocaust happened and having materials that say it didn't is disinformation. https://t.co/s5Lx95jZKQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s5Lx95jZKQ",
+					"expanded_url": "https://twitter.com/nancy_pearl/status/1540839483708432387",
+					"display_url": "twitter.com/nancy_pearl/st…",
+					"indices": [
+						270,
+						293
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20703602,
+			"id_str": "20703602",
+			"name": "Robin Bradford ⚾️🍹🎼📚",
+			"screen_name": "Tuphlos",
+			"location": "Midwest start/PNW currently",
+			"description": "librarian. lawyer. book concierge, White Sox fan, Liverpool fan. MA, MLS, JD. 2016 RWA Cathie Linz Librarian of the Year. Anti-Racism is ACTIVE, not passive.",
+			"url": "https://t.co/xZrfObqRe5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xZrfObqRe5",
+							"expanded_url": "http://ko-fi.com/robinbradford",
+							"display_url": "ko-fi.com/robinbradford",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10312,
+			"friends_count": 3445,
+			"listed_count": 389,
+			"created_at": "Thu Feb 12 18:54:05 +0000 2009",
+			"favourites_count": 75197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 393952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1513235706554077194/Ojq2zF7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513235706554077194/Ojq2zF7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20703602/1404306997",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1540839483708432400,
+		"quoted_status_id_str": "1540839483708432387",
+		"quoted_status_permalink": {
+			"url": "https://t.co/s5Lx95jZKQ",
+			"expanded": "https://twitter.com/nancy_pearl/status/1540839483708432387",
+			"display": "twitter.com/nancy_pearl/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 25 23:28:54 +0000 2022",
+			"id": 1540839483708432400,
+			"id_str": "1540839483708432387",
+			"full_text": "@JasonReynolds83 @kelseybogan @sitKonrad @UABookBans The point I was trying to make (and obviously did a less than adequate job) was that talking about banning books is complex and nuanced. Personally I am offended by Holocaust deniers and anti-vaxxers but maybe we need to hear what they’re saying in order to dispute them.",
+			"truncated": false,
+			"display_text_range": [
+				53,
+				324
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JasonReynolds83",
+						"name": "Jason Reynolds",
+						"id": 22417382,
+						"id_str": "22417382",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "kelseybogan",
+						"name": "Kelsey Bogan (is pro-abortion rights w/o apology)",
+						"id": 2924325348,
+						"id_str": "2924325348",
+						"indices": [
+							17,
+							29
+						]
+					},
+					{
+						"screen_name": "sitKonrad",
+						"name": "mommysreading (is against forced gestation)",
+						"id": 1378542133,
+						"id_str": "1378542133",
+						"indices": [
+							30,
+							40
+						]
+					},
+					{
+						"screen_name": "UABookBans",
+						"name": "UniteAgainstBookBans",
+						"id": 1510320205356052700,
+						"id_str": "1510320205356052673",
+						"indices": [
+							41,
+							52
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1540835691311075300,
+			"in_reply_to_status_id_str": "1540835691311075329",
+			"in_reply_to_user_id": 22417382,
+			"in_reply_to_user_id_str": "22417382",
+			"in_reply_to_screen_name": "JasonReynolds83",
+			"user": {
+				"id": 150770880,
+				"id_str": "150770880",
+				"name": "Nancy Pearl",
+				"screen_name": "Nancy_Pearl",
+				"location": "Seattle, WA",
+				"description": "Author of The Writer's Library (co-author @JeffSchwager10), George & Lizzie, and the Book Lust series; Book Lust with Nancy Pearl on @seattlechannel",
+				"url": "https://t.co/7gG9BJrPGv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7gG9BJrPGv",
+								"expanded_url": "http://www.nancypearl.com",
+								"display_url": "nancypearl.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16473,
+				"friends_count": 1376,
+				"listed_count": 703,
+				"created_at": "Tue Jun 01 19:46:48 +0000 2010",
+				"favourites_count": 26572,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10196,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860938645431136256/Hef16r4w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860938645431136256/Hef16r4w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/150770880/1596750628",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 31,
+		"favorite_count": 144,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No. There are plenty of places for people to get misinformation if that is what they desire. It has nothing to do with your personal feelings or what offends you and everything to do with the Holocaust happened and having materials that say it didn't is disinformation. https://t.co/s5Lx95jZKQ"
+	},
+	{
+		"created_at": "Mon Jun 27 23:02:22 +0000 2022",
+		"id": 1541557578479845400,
+		"id_str": "1541557578479845376",
+		"full_text": "@QueenOfRats I agree - reading is reading - my latest read is a comic about knitting and it is not an inferior read because it is a comic, it is a really interesting way to write about knitting patterns.  I have been really enjoying #KnitStrips",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KnitStrips",
+					"indices": [
+						233,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "QueenOfRats",
+					"name": "Alex Brown 🐀 (they/them) - Ignyte & Hugo finalist",
+					"id": 22109714,
+					"id_str": "22109714",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541261505613537300,
+		"in_reply_to_status_id_str": "1541261505613537280",
+		"in_reply_to_user_id": 22109714,
+		"in_reply_to_user_id_str": "22109714",
+		"in_reply_to_screen_name": "QueenOfRats",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2532,
+			"friends_count": 949,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@QueenOfRats I agree - reading is reading - my latest read is a comic about knitting and it is not an inferior read because it is a comic, it is a really interesting way to write about knitting patterns.  I have been really enjoying #KnitStrips"
+	},
+	{
+		"created_at": "Mon Jun 27 21:48:44 +0000 2022",
+		"id": 1541539051362484200,
+		"id_str": "1541539051362484224",
+		"full_text": "@CatyJ excellent timing",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatyJ",
+					"name": "CatyJ",
+					"id": 15732431,
+					"id_str": "15732431",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541324553213059000,
+		"in_reply_to_status_id_str": "1541324553213059073",
+		"in_reply_to_user_id": 15732431,
+		"in_reply_to_user_id_str": "15732431",
+		"in_reply_to_screen_name": "CatyJ",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2532,
+			"friends_count": 949,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CatyJ excellent timing"
+	},
+	{
 		"created_at": "Mon Jun 27 01:25:35 +0000 2022",
 		"id": 1541214772770705400,
 		"id_str": "1541231233128345601",
