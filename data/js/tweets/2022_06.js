@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 29 01:46:09 +0000 2022",
+		"id": 1541957700501639200,
+		"id_str": "1541961186631385088",
+		"full_text": "🚨 Just published🚨\nIntroducing the Australian Frog Atlas! The most detailed maps of Australia’s frogs have now been produced and are open access for frog research and conservation. 🐸 Learn more @austmus 👉https://t.co/5UVcinjFuv @FrogIDAus https://t.co/pz9PJkdJoF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "austmus",
+					"name": "Australian Museum",
+					"id": 20570871,
+					"id_str": "20570871",
+					"indices": [
+						193,
+						201
+					]
+				},
+				{
+					"screen_name": "FrogIDAus",
+					"name": "FrogID",
+					"id": 904933218754879500,
+					"id_str": "904933218754879488",
+					"indices": [
+						227,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5UVcinjFuv",
+					"expanded_url": "https://australian.museum/blog/amri-news/australian-frog-atlas/",
+					"display_url": "australian.museum/blog/amri-news…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541948724007805000,
+					"id_str": "1541948724007804928",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FWYaMeRaIAANstG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWYaMeRaIAANstG.jpg",
+					"url": "https://t.co/pz9PJkdJoF",
+					"display_url": "pic.twitter.com/pz9PJkdJoF",
+					"expanded_url": "https://twitter.com/AustmusResearch/status/1541957700501639169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1065,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1817,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541948724007805000,
+					"id_str": "1541948724007804928",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/FWYaMeRaIAANstG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWYaMeRaIAANstG.jpg",
+					"url": "https://t.co/pz9PJkdJoF",
+					"display_url": "pic.twitter.com/pz9PJkdJoF",
+					"expanded_url": "https://twitter.com/AustmusResearch/status/1541957700501639169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1065,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1817,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 603,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1700471420,
+			"id_str": "1700471420",
+			"name": "AMRI",
+			"screen_name": "AustmusResearch",
+			"location": "Sydney, Australia",
+			"description": "Australian Museum Research Institute. Understanding & responding to challenges facing our planet through scientific research & communication.",
+			"url": "https://t.co/XBCzoNOBjo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XBCzoNOBjo",
+							"expanded_url": "https://australian.museum/get-involved/amri/",
+							"display_url": "australian.museum/get-involved/a…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2806,
+			"friends_count": 375,
+			"listed_count": 80,
+			"created_at": "Sun Aug 25 23:57:22 +0000 2013",
+			"favourites_count": 3410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/633919753896112128/rHDrfUAc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/633919753896112128/rHDrfUAc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1700471420/1404965269",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨 Just published🚨\nIntroducing the Australian Frog Atlas! The most detailed maps of Australia’s frogs have now been produced and are open access for frog research and conservation. 🐸 Learn more @austmus 👉https://t.co/5UVcinjFuv @FrogIDAus https://t.co/pz9PJkdJoF"
+	},
+	{
+		"created_at": "Tue Jun 28 22:40:17 +0000 2022",
+		"id": 1541911892725497900,
+		"id_str": "1541914411274604544",
+		"full_text": "It’s here as promised: my analysis of the #culturaldiversity data in #census2021 &amp; its implications for Australia’s future planning, institutions that should reflect us, and those most impacted by #COVID19: https://t.co/X3s3J3LEY2 in @ConversationEDU @westsyduics @YoungResilient",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "culturaldiversity",
+					"indices": [
+						42,
+						60
+					]
+				},
+				{
+					"text": "census2021",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						201,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConversationEDU",
+					"name": "The Conversation",
+					"id": 224495471,
+					"id_str": "224495471",
+					"indices": [
+						238,
+						254
+					]
+				},
+				{
+					"screen_name": "westsyduics",
+					"name": "Institute for Culture and Society (ICS)",
+					"id": 213916833,
+					"id_str": "213916833",
+					"indices": [
+						255,
+						267
+					]
+				},
+				{
+					"screen_name": "YoungResilient",
+					"name": "Young and Resilient",
+					"id": 1263680342667321300,
+					"id_str": "1263680342667321344",
+					"indices": [
+						268,
+						283
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X3s3J3LEY2",
+					"expanded_url": "https://theconversation.com/census-data-shows-were-more-culturally-diverse-than-ever-our-institutions-must-reflect-this-185575",
+					"display_url": "theconversation.com/census-data-sh…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 231872635,
+			"id_str": "231872635",
+			"name": "Sukhmani Khorana",
+			"screen_name": "sukhmani_sees",
+			"location": "Sydney, Australia",
+			"description": "VC’s Senior Research Fellow @YoungResilient @westernsydneyu | Media-Migration-Affect | Intersectional Feminist | Refugee Advocate | Inauthentic Foodie",
+			"url": "https://t.co/oaJA7Tvbgh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oaJA7Tvbgh",
+							"expanded_url": "https://www.researchgate.net/profile/Sukhmani_Khorana",
+							"display_url": "researchgate.net/profile/Sukhma…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1132,
+			"friends_count": 1087,
+			"listed_count": 23,
+			"created_at": "Wed Dec 29 18:03:09 +0000 2010",
+			"favourites_count": 8552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115068936133812224/5NIrWsiy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115068936133812224/5NIrWsiy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/231872635/1554687183",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s here as promised: my analysis of the #culturaldiversity data in #census2021 &amp; its implications for Australia’s future planning, institutions that should reflect us, and those most impacted by #COVID19: https://t.co/X3s3J3LEY2 in @ConversationEDU @westsyduics @YoungResilient"
+	},
+	{
+		"created_at": "Tue Jun 28 22:36:02 +0000 2022",
+		"id": 1541893395978805200,
+		"id_str": "1541913340565258240",
+		"full_text": "I love that comics librarians are getting louder about disavowing \"gateway to reading\" language.\n\nComics are valid in and of themselves. They aren't some means to an end.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30585609,
+			"id_str": "30585609",
+			"name": "Matthew Noe 😔💜",
+			"screen_name": "NoetheMatt",
+			"location": "Worcester, MA",
+			"description": "Overcaffeinated Kentuckian in Massachusetts. ALA GNCRT Past-President. Ask me about #GraphicMedicine. Trying to be kind, do good, and read comics. (He/Him)",
+			"url": "https://t.co/KiYpzt2nUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KiYpzt2nUs",
+							"expanded_url": "https://linktr.ee/NoetheMatt",
+							"display_url": "linktr.ee/NoetheMatt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8409,
+			"friends_count": 4368,
+			"listed_count": 281,
+			"created_at": "Sun Apr 12 02:50:17 +0000 2009",
+			"favourites_count": 112552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 132499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877960484997169152/VOMHAddJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877960484997169152/VOMHAddJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30585609/1464970044",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "319ee7b36c9149da",
+			"url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json",
+			"place_type": "city",
+			"name": "Arlington",
+			"full_name": "Arlington, VA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-77.172219,
+							38.827378
+						],
+						[
+							-77.031779,
+							38.827378
+						],
+						[
+							-77.031779,
+							38.934311
+						],
+						[
+							-77.172219,
+							38.934311
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 192,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I love that comics librarians are getting louder about disavowing \"gateway to reading\" language.\n\nComics are valid in and of themselves. They aren't some means to an end."
+	},
+	{
 		"created_at": "Tue Jun 28 00:20:46 +0000 2022",
 		"id": 1541146545260617700,
 		"id_str": "1541577309710581760",
