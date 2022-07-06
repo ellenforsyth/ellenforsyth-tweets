@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 05 21:58:50 +0000 2022",
+		"id": 1544440694278070300,
+		"id_str": "1544440694278070272",
+		"full_text": "@ifla_lbes @IFLA @coffeemiss congratulations @coffeemiss",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ifla_lbes",
+					"name": "IFLA Section - Library Buildings and Equipment",
+					"id": 719470883094585300,
+					"id_str": "719470883094585344",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "IFLA",
+					"name": "IFLA",
+					"id": 53361561,
+					"id_str": "53361561",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"screen_name": "coffeemiss",
+					"name": "Vicki McDonald",
+					"id": 534853449,
+					"id_str": "534853449",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "coffeemiss",
+					"name": "Vicki McDonald",
+					"id": 534853449,
+					"id_str": "534853449",
+					"indices": [
+						45,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1544278926998085600,
+		"in_reply_to_status_id_str": "1544278926998085633",
+		"in_reply_to_user_id": 719470883094585300,
+		"in_reply_to_user_id_str": "719470883094585344",
+		"in_reply_to_screen_name": "ifla_lbes",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 947,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ifla_lbes @IFLA @coffeemiss congratulations @coffeemiss"
+	},
+	{
 		"created_at": "Mon Jul 04 01:14:34 +0000 2022",
 		"id": 1541383950630760400,
 		"id_str": "1543765177317081088",
