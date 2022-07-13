@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 00:49:51 +0000 2022",
+		"id": 1546850177834782700,
+		"id_str": "1547020445433864193",
+		"full_text": "Today on the blog: \n\nNice White Librarians Need to Give Up Their Comfort via @himissjulie \n\nA must read. Thank you for allowing me to share, Julie. \n\nhttps://t.co/EuMae7B0GW\n\nCc @Tuphlos",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "himissjulie",
+					"name": "Julie&",
+					"id": 31188307,
+					"id_str": "31188307",
+					"indices": [
+						77,
+						89
+					]
+				},
+				{
+					"screen_name": "Tuphlos",
+					"name": "Robin Bradford ⚾️🍹🎼📚",
+					"id": 20703602,
+					"id_str": "20703602",
+					"indices": [
+						178,
+						186
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EuMae7B0GW",
+					"expanded_url": "http://raforall.blogspot.com/2022/07/nice-white-librarians-need-to-give-up.html",
+					"display_url": "raforall.blogspot.com/2022/07/nice-w…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary. She/Her",
+			"url": "https://t.co/UqsI4i1DEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqsI4i1DEP",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4935,
+			"friends_count": 3231,
+			"listed_count": 147,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 39620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1614280328",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today on the blog: \n\nNice White Librarians Need to Give Up Their Comfort via @himissjulie \n\nA must read. Thank you for allowing me to share, Julie. \n\nhttps://t.co/EuMae7B0GW\n\nCc @Tuphlos"
+	},
+	{
 		"created_at": "Fri Jul 08 05:55:38 +0000 2022",
 		"id": 1544328095041298400,
 		"id_str": "1545285461832507394",
