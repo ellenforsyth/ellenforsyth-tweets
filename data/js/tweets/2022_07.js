@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 23:25:44 +0000 2022",
+		"id": 1549439072908763100,
+		"id_str": "1549898382352982016",
+		"full_text": "Happy to announce that my “Comics Are Reading” @ALA_Booklist comic is now available as a downloadable full-size poster (prints up to 18”x24”)— please spread the word! Thanks. https://t.co/X3Z41bvOm1 https://t.co/51rG0gVU3h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ALA_Booklist",
+					"name": "ALA_Booklist is #ReadingGraphic",
+					"id": 22972227,
+					"id_str": "22972227",
+					"indices": [
+						47,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X3Z41bvOm1",
+					"expanded_url": "https://alagraphics-gift-shop.myspreadshop.com/comics-are-reading",
+					"display_url": "alagraphics-gift-shop.myspreadshop.com/comics-are-rea…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549439066780967000,
+					"id_str": "1549439066780966913",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FYC2nziXoAEjn-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYC2nziXoAEjn-f.jpg",
+					"url": "https://t.co/51rG0gVU3h",
+					"display_url": "pic.twitter.com/51rG0gVU3h",
+					"expanded_url": "https://twitter.com/Nate_Powell_Art/status/1549439072908763141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549439066780967000,
+					"id_str": "1549439066780966913",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FYC2nziXoAEjn-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYC2nziXoAEjn-f.jpg",
+					"url": "https://t.co/51rG0gVU3h",
+					"display_url": "pic.twitter.com/51rG0gVU3h",
+					"expanded_url": "https://twitter.com/Nate_Powell_Art/status/1549439072908763141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2170109952,
+			"id_str": "2170109952",
+			"name": "Nate Powell (SDCC booth 1217)",
+			"screen_name": "Nate_Powell_Art",
+			"location": "Bloomington, IN",
+			"description": "Comics maker, Arkansan, dad, aging punk— my new book SAVE IT FOR LATER is out from Abrams: https://t.co/r9Kja5F3vt",
+			"url": "https://t.co/OeW94PIeBF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OeW94PIeBF",
+							"expanded_url": "http://www.seemybrotherdance.org",
+							"display_url": "seemybrotherdance.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/r9Kja5F3vt",
+							"expanded_url": "https://www.abramsbooks.com/product/save-it-for-later_9781419749124/",
+							"display_url": "abramsbooks.com/product/save-i…",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11049,
+			"friends_count": 970,
+			"listed_count": 200,
+			"created_at": "Sat Nov 02 11:46:46 +0000 2013",
+			"favourites_count": 230659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A313D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232391202101694464/z6MZNlny_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232391202101694464/z6MZNlny_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2170109952/1639853969",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 420,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy to announce that my “Comics Are Reading” @ALA_Booklist comic is now available as a downloadable full-size poster (prints up to 18”x24”)— please spread the word! Thanks. https://t.co/X3Z41bvOm1 https://t.co/51rG0gVU3h"
+	},
+	{
+		"created_at": "Wed Jul 20 23:14:21 +0000 2022",
+		"id": 1549895515978211300,
+		"id_str": "1549895515978211328",
+		"full_text": "This is another suggestion for #LamingtonDay https://t.co/UEss9q0WtZ I have this on my to bake list. Bought lamingtons are also really great. Have a lovely day with chocolate and coconut 😍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LamingtonDay",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UEss9q0WtZ",
+					"expanded_url": "https://www.goodfood.com.au/recipes/helen-gohs-lamington-chocolate-cake-with-marmalade-and-coconut-20210712-h1x3pf",
+					"display_url": "goodfood.com.au/recipes/helen-…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 954,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is another suggestion for #LamingtonDay https://t.co/UEss9q0WtZ I have this on my to bake list. Bought lamingtons are also really great. Have a lovely day with chocolate and coconut 😍"
+	},
+	{
 		"created_at": "Sat Jul 16 05:25:19 +0000 2022",
 		"id": 1548176935028924400,
 		"id_str": "1548176935028924421",
