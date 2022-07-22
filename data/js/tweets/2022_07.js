@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 22:27:42 +0000 2022",
+		"id": 1550012761253580800,
+		"id_str": "1550246162997067776",
+		"full_text": "Do you have Fijian or Chinese heritage? The @nlagovau wants to expand its #Chinese-Australian and #Fijian-Australian collections  - and this means hearing your stories https://t.co/WD7pgcJWiD https://t.co/CYh0qTldeC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Chinese",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "Fijian",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nlagovau",
+					"name": "National Library of Australia",
+					"id": 42354375,
+					"id_str": "42354375",
+					"indices": [
+						44,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WD7pgcJWiD",
+					"expanded_url": "http://ow.ly/31HE50K0PP2",
+					"display_url": "ow.ly/31HE50K0PP2",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1550012759684808700,
+					"id_str": "1550012759684808707",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FYLAZIJWAAM5LTY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYLAZIJWAAM5LTY.jpg",
+					"url": "https://t.co/CYh0qTldeC",
+					"display_url": "pic.twitter.com/CYh0qTldeC",
+					"expanded_url": "https://twitter.com/thecanberrapage/status/1550012761253580802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550012759684808700,
+					"id_str": "1550012759684808707",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FYLAZIJWAAM5LTY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYLAZIJWAAM5LTY.jpg",
+					"url": "https://t.co/CYh0qTldeC",
+					"display_url": "pic.twitter.com/CYh0qTldeC",
+					"expanded_url": "https://twitter.com/thecanberrapage/status/1550012761253580802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143692646,
+			"id_str": "143692646",
+			"name": "The Canberra Page",
+			"screen_name": "thecanberrapage",
+			"location": "Canberra",
+			"description": "Join us as we showcase Canberra from the 1900's to now.",
+			"url": "https://t.co/bUnxGwO9Dk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bUnxGwO9Dk",
+							"expanded_url": "http://www.fb.com/thecanberrapage",
+							"display_url": "fb.com/thecanberrapage",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1330,
+			"friends_count": 310,
+			"listed_count": 21,
+			"created_at": "Fri May 14 04:31:20 +0000 2010",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908738972477661184/XhrAxo9o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908738972477661184/XhrAxo9o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143692646/1504275996",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you have Fijian or Chinese heritage? The @nlagovau wants to expand its #Chinese-Australian and #Fijian-Australian collections  - and this means hearing your stories https://t.co/WD7pgcJWiD https://t.co/CYh0qTldeC"
+	},
+	{
+		"created_at": "Thu Jul 21 22:24:58 +0000 2022",
+		"id": 1550245476544688000,
+		"id_str": "1550245476544688129",
+		"full_text": "@madradish I am a fan of the no gifts approach but donations also an option",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "madradish",
+					"name": "Molly",
+					"id": 23568186,
+					"id_str": "23568186",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1549956407642161200,
+		"in_reply_to_status_id_str": "1549956407642161153",
+		"in_reply_to_user_id": 23568186,
+		"in_reply_to_user_id_str": "23568186",
+		"in_reply_to_screen_name": "madradish",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 954,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@madradish I am a fan of the no gifts approach but donations also an option"
+	},
+	{
 		"created_at": "Wed Jul 20 23:25:44 +0000 2022",
 		"id": 1549439072908763100,
 		"id_str": "1549898382352982016",
