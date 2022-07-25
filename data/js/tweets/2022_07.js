@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 24 23:47:11 +0000 2022",
+		"id": 1551341605583560700,
+		"id_str": "1551353330806702082",
+		"full_text": "Welcome to #LIW2022: Rewrite, Renew, Reimagine!\n\nThis week it's time to re-engage with your library's collections, resources &amp; services &amp; to explore the possibilities of rewriting, renewing &amp; reimagining stories of all kinds. \n\nExplore what's on 👉 https://t.co/aJaVtj3G6q https://t.co/FPfblx46rJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIW2022",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aJaVtj3G6q",
+					"expanded_url": "https://bit.ly/3cviebG",
+					"display_url": "bit.ly/3cviebG",
+					"indices": [
+						260,
+						283
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1551341603725447200,
+					"id_str": "1551341603725447168",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/FYd4-B9XEAAhYUa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYd4-B9XEAAhYUa.jpg",
+					"url": "https://t.co/FPfblx46rJ",
+					"display_url": "pic.twitter.com/FPfblx46rJ",
+					"expanded_url": "https://twitter.com/ALIANational/status/1551341605583560706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1251,
+							"h": 1251,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551341603725447200,
+					"id_str": "1551341603725447168",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/FYd4-B9XEAAhYUa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYd4-B9XEAAhYUa.jpg",
+					"url": "https://t.co/FPfblx46rJ",
+					"display_url": "pic.twitter.com/FPfblx46rJ",
+					"expanded_url": "https://twitter.com/ALIANational/status/1551341605583560706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1251,
+							"h": 1251,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43796164,
+			"id_str": "43796164",
+			"name": "Aust Lib & Info Assn",
+			"screen_name": "ALIANational",
+			"location": "Canberra, Australia",
+			"description": "Australia's peak body for library and information professionals - Australian Library and Information Association",
+			"url": "http://t.co/Vo7rN2KMEn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Vo7rN2KMEn",
+							"expanded_url": "http://www.alia.org.au",
+							"display_url": "alia.org.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12057,
+			"friends_count": 1218,
+			"listed_count": 536,
+			"created_at": "Mon Jun 01 01:11:18 +0000 2009",
+			"favourites_count": 8608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000545938548/5b6097f515bfa4d032e528cf3a13ebdc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000545938548/5b6097f515bfa4d032e528cf3a13ebdc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43796164/1496018435",
+			"profile_link_color": "64CBC9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome to #LIW2022: Rewrite, Renew, Reimagine!\n\nThis week it's time to re-engage with your library's collections, resources &amp; services &amp; to explore the possibilities of rewriting, renewing &amp; reimagining stories of all kinds. \n\nExplore what's on 👉 https://t.co/aJaVtj3G6q https://t.co/FPfblx46rJ"
+	},
+	{
 		"created_at": "Fri Jul 22 21:54:32 +0000 2022",
 		"id": 1550600207561154600,
 		"id_str": "1550600207561154560",
