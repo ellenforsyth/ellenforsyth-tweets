@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 26 22:41:15 +0000 2022",
+		"id": 1551894484488691700,
+		"id_str": "1552061513464045568",
+		"full_text": "Yep - this happened! Massive shout out to amazing client co-creators @missoulalibrary! https://t.co/XyEYFOKn5x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "missoulalibrary",
+					"name": "MPL",
+					"id": 20117642,
+					"id_str": "20117642",
+					"indices": [
+						69,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XyEYFOKn5x",
+					"expanded_url": "https://twitter.com/ifla_lbes/status/1551886632009211909",
+					"display_url": "twitter.com/ifla_lbes/stat…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2648131424,
+			"id_str": "2648131424",
+			"name": "traci lesneski",
+			"screen_name": "LesneskiTraci",
+			"location": "",
+			"description": "lover of architecture & design, lover of travel, advocate for learning and libraries, @msrltd CEO and principal, @ifla_lbes (all views my own) she/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 720,
+			"listed_count": 23,
+			"created_at": "Tue Jul 15 15:20:41 +0000 2014",
+			"favourites_count": 7304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/706939071055138817/oJk6Ij6q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/706939071055138817/oJk6Ij6q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2648131424/1443799409",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1551886632009212000,
+		"quoted_status_id_str": "1551886632009211909",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XyEYFOKn5x",
+			"expanded": "https://twitter.com/ifla_lbes/status/1551886632009211909",
+			"display": "twitter.com/ifla_lbes/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 26 11:06:20 +0000 2022",
+			"id": 1551886632009212000,
+			"id_str": "1551886632009211909",
+			"full_text": "And the winner of the #ploty is Missoula Public Library - massive congrats to @LesneskiTraci @msrltd - THE PUBLIC LIBRARY OF THE YEAR @IFLA @iflawlic #WLIC2022 https://t.co/W7WsDpPPRF https://t.co/lhjKLmKLJa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ploty",
+						"indices": [
+							22,
+							28
+						]
+					},
+					{
+						"text": "WLIC2022",
+						"indices": [
+							150,
+							159
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LesneskiTraci",
+						"name": "traci lesneski",
+						"id": 2648131424,
+						"id_str": "2648131424",
+						"indices": [
+							78,
+							92
+						]
+					},
+					{
+						"screen_name": "msrltd",
+						"name": "MSR Design",
+						"id": 96433146,
+						"id_str": "96433146",
+						"indices": [
+							93,
+							100
+						]
+					},
+					{
+						"screen_name": "IFLA",
+						"name": "IFLA",
+						"id": 53361561,
+						"id_str": "53361561",
+						"indices": [
+							134,
+							139
+						]
+					},
+					{
+						"screen_name": "iflawlic",
+						"name": "IFLA World Library and Information Congress",
+						"id": 3062439831,
+						"id_str": "3062439831",
+						"indices": [
+							140,
+							149
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/W7WsDpPPRF",
+						"expanded_url": "https://twitter.com/ifla_lbes/status/1551874873252876293",
+						"display_url": "twitter.com/ifla_lbes/stat…",
+						"indices": [
+							160,
+							183
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1551886626263122000,
+						"id_str": "1551886626263121920",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/FYloqhIXwAAMenn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FYloqhIXwAAMenn.jpg",
+						"url": "https://t.co/lhjKLmKLJa",
+						"display_url": "pic.twitter.com/lhjKLmKLJa",
+						"expanded_url": "https://twitter.com/ifla_lbes/status/1551886632009211909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1551886626263122000,
+						"id_str": "1551886626263121920",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/FYloqhIXwAAMenn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FYloqhIXwAAMenn.jpg",
+						"url": "https://t.co/lhjKLmKLJa",
+						"display_url": "pic.twitter.com/lhjKLmKLJa",
+						"expanded_url": "https://twitter.com/ifla_lbes/status/1551886632009211909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 719470883094585300,
+				"id_str": "719470883094585344",
+				"name": "IFLA Section - Library Buildings and Equipment",
+				"screen_name": "ifla_lbes",
+				"location": "",
+				"description": "Winner IFLA Dynamic Unit Award 2019 #iflabuild2021 #library #buildings and #equipment section of @ifla https://t.co/arzConj4dx",
+				"url": "https://t.co/ay2Ikew6QN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ay2Ikew6QN",
+								"expanded_url": "http://www.ifla.org/library-buildings-and-equipment",
+								"display_url": "ifla.org/library-buildi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/arzConj4dx",
+								"expanded_url": "https://www.facebook.com/groups/1649951498620366/",
+								"display_url": "facebook.com/groups/1649951…",
+								"indices": [
+									103,
+									126
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1006,
+				"friends_count": 94,
+				"listed_count": 33,
+				"created_at": "Mon Apr 11 10:23:20 +0000 2016",
+				"favourites_count": 1542,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2046,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073262729396408325/m_K34zH__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073262729396408325/m_K34zH__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/719470883094585344/1633477105",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1551874873252876300,
+			"quoted_status_id_str": "1551874873252876293",
+			"quoted_status_permalink": {
+				"url": "https://t.co/W7WsDpPPRF",
+				"expanded": "https://twitter.com/ifla_lbes/status/1551874873252876293",
+				"display": "twitter.com/ifla_lbes/stat…"
+			},
+			"retweet_count": 11,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yep - this happened! Massive shout out to amazing client co-creators @missoulalibrary! https://t.co/XyEYFOKn5x"
+	},
+	{
 		"created_at": "Tue Jul 26 05:27:57 +0000 2022",
 		"id": 1551801473507688400,
 		"id_str": "1551801473507688448",
