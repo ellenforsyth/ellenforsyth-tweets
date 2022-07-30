@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 29 23:06:44 +0000 2022",
+		"id": 1553155092479877000,
+		"id_str": "1553155092479877121",
+		"full_text": "Importance of research... and not assumptions https://t.co/RWz8jeoVqM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RWz8jeoVqM",
+					"expanded_url": "https://twitter.com/librarycongress/status/1553019061570764800",
+					"display_url": "twitter.com/librarycongres…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 955,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1553019061570764800,
+		"quoted_status_id_str": "1553019061570764800",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RWz8jeoVqM",
+			"expanded": "https://twitter.com/librarycongress/status/1553019061570764800",
+			"display": "twitter.com/librarycongres…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 29 14:06:12 +0000 2022",
+			"id": 1553019061570764800,
+			"id_str": "1553019061570764800",
+			"full_text": "An example of how Library collections can influence pop culture: Neither the 1992 film \"Newsies\" nor the original Broadway adaptation of the musical featured newsies who were girls. However...🧵 https://t.co/JGcjUFFjgw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1553018056393343000,
+						"id_str": "1553018056393342977",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/FY1tsa0XwAERfqp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FY1tsa0XwAERfqp.jpg",
+						"url": "https://t.co/JGcjUFFjgw",
+						"display_url": "pic.twitter.com/JGcjUFFjgw",
+						"expanded_url": "https://twitter.com/librarycongress/status/1553019061570764800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 732,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 732,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1553018056393343000,
+						"id_str": "1553018056393342977",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/FY1tsa0XwAERfqp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FY1tsa0XwAERfqp.jpg",
+						"url": "https://t.co/JGcjUFFjgw",
+						"display_url": "pic.twitter.com/JGcjUFFjgw",
+						"expanded_url": "https://twitter.com/librarycongress/status/1553019061570764800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 732,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 732,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7152572,
+				"id_str": "7152572",
+				"name": "Library of Congress",
+				"screen_name": "librarycongress",
+				"location": "Washington, DC",
+				"description": "World’s largest library. Explore collections, services & plan a visit. Follow @LibnOfCongress to meet Carla Hayden, 14th Librarian of Congress.",
+				"url": "http://t.co/Y59Fk0BSEE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Y59Fk0BSEE",
+								"expanded_url": "http://www.loc.gov",
+								"display_url": "loc.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1222116,
+				"friends_count": 13,
+				"listed_count": 14737,
+				"created_at": "Fri Jun 29 14:23:25 +0000 2007",
+				"favourites_count": 5120,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 22802,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1031924537070428160/r_nQaWjy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031924537070428160/r_nQaWjy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7152572/1633697433",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "C5E0F1",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "6C6A6A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 127,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Importance of research... and not assumptions https://t.co/RWz8jeoVqM"
+	},
+	{
 		"created_at": "Wed Jul 27 21:54:26 +0000 2022",
 		"id": 1552412121560158200,
 		"id_str": "1552412121560158208",
