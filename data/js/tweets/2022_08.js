@@ -1,10 +1,415 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 21:22:18 +0000 2022",
+		"id": 1556929551678279700,
+		"id_str": "1557115075508719616",
+		"full_text": "Looms were the precursor to computers. Textile history matters. https://t.co/NdZ52PGQHs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NdZ52PGQHs",
+					"expanded_url": "https://twitter.com/LeedsMuseums/status/1554820869993639937",
+					"display_url": "twitter.com/LeedsMuseums/s…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 386445771,
+			"id_str": "386445771",
+			"name": "Karie Westermann",
+			"screen_name": "kariebookish",
+			"location": "Glasgow, Scotland",
+			"description": "Wool & words. Designer & writer. She/her. Perpetually tired. Will ask for help if needed. \n\n🇩🇰🏴󠁧󠁢󠁳󠁣󠁴󠁿 💉https://t.co/7k3h88qLy3",
+			"url": "https://t.co/mIoEqFK8DJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mIoEqFK8DJ",
+							"expanded_url": "http://www.kariebookish.net",
+							"display_url": "kariebookish.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7k3h88qLy3",
+							"expanded_url": "https://ko-fi.com/kariebookish",
+							"display_url": "ko-fi.com/kariebookish",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10188,
+			"friends_count": 351,
+			"listed_count": 206,
+			"created_at": "Fri Oct 07 09:21:36 +0000 2011",
+			"favourites_count": 50945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 97930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114817819181494272/tGWCc83M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114817819181494272/tGWCc83M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/386445771/1554628327",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "8C9A0A",
+			"profile_sidebar_fill_color": "311A63",
+			"profile_text_color": "98720E",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1554820869993640000,
+		"quoted_status_id_str": "1554820869993639937",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NdZ52PGQHs",
+			"expanded": "https://twitter.com/LeedsMuseums/status/1554820869993639937",
+			"display": "twitter.com/LeedsMuseums/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 03 13:25:57 +0000 2022",
+			"id": 1554820869993640000,
+			"id_str": "1554820869993639937",
+			"full_text": "The Dobby loom was a gamechanger for mechanical production! It used holes in cards, or pegs, which told the device when to raise or lower the threads.\n\nThis meant that weaving became faster and cheaper, because it reduced the labour it needed from slow and expensive humans. https://t.co/9o6r1fl1ug",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1554819234022051800,
+						"id_str": "1554819234022051840",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/FZPT2wXUUAAZV29.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZPT2wXUUAAZV29.jpg",
+						"url": "https://t.co/9o6r1fl1ug",
+						"display_url": "pic.twitter.com/9o6r1fl1ug",
+						"expanded_url": "https://twitter.com/LeedsMuseums/status/1554820869993639937/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2016,
+								"h": 1512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1554819234022051800,
+						"id_str": "1554819234022051840",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/FZPT2wXUUAAZV29.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZPT2wXUUAAZV29.jpg",
+						"url": "https://t.co/9o6r1fl1ug",
+						"display_url": "pic.twitter.com/9o6r1fl1ug",
+						"expanded_url": "https://twitter.com/LeedsMuseums/status/1554820869993639937/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2016,
+								"h": 1512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1554820859721724000,
+			"in_reply_to_status_id_str": "1554820859721723905",
+			"in_reply_to_user_id": 28075476,
+			"in_reply_to_user_id_str": "28075476",
+			"in_reply_to_screen_name": "LeedsMuseums",
+			"user": {
+				"id": 28075476,
+				"id_str": "28075476",
+				"name": "Leeds Museums & Galleries",
+				"screen_name": "LeedsMuseums",
+				"location": "Leeds, West Yorkshire",
+				"description": "Discover our collections, 9 venues, and behind the scenes moments in the greatest city in the world™.",
+				"url": "https://t.co/m8SGP4VQTW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m8SGP4VQTW",
+								"expanded_url": "http://museumsandgalleries.leeds.gov.uk",
+								"display_url": "museumsandgalleries.leeds.gov.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31825,
+				"friends_count": 3181,
+				"listed_count": 0,
+				"created_at": "Wed Apr 01 08:56:07 +0000 2009",
+				"favourites_count": 18258,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21359,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1144216908247556096/3N78WT4i_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144216908247556096/3N78WT4i_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28075476/1599052065",
+				"profile_link_color": "A39568",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 19,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looms were the precursor to computers. Textile history matters. https://t.co/NdZ52PGQHs"
+	},
+	{
+		"created_at": "Tue Aug 09 08:05:32 +0000 2022",
+		"id": 1556898069245005800,
+		"id_str": "1556914562586120192",
+		"full_text": "Newly named species day! 🎉 \n\nThis is one of our most exciting days in the scientific year. We have described 139 new species covering fish, insects and more. 🦋  https://t.co/8tDLfEo8is",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8tDLfEo8is",
+					"expanded_url": "https://blog.csiro.au/ten-new-species/",
+					"display_url": "blog.csiro.au/ten-new-specie…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174083824,
+			"id_str": "174083824",
+			"name": "CSIRO",
+			"screen_name": "CSIRO",
+			"location": "Australia",
+			"description": "We ♥ science. We're Australia's national science agency. We solve the greatest challenges through innovative science and technology. RTs not endorsements.",
+			"url": "https://t.co/UHEEbExWFg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UHEEbExWFg",
+							"expanded_url": "http://www.csiro.au/",
+							"display_url": "csiro.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118437,
+			"friends_count": 1743,
+			"listed_count": 1699,
+			"created_at": "Tue Aug 03 02:06:21 +0000 2010",
+			"favourites_count": 5790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "02A9CE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1502071479370137600/drD3fRtv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502071479370137600/drD3fRtv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174083824/1657690099",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3FFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Newly named species day! 🎉 \n\nThis is one of our most exciting days in the scientific year. We have described 139 new species covering fish, insects and more. 🦋  https://t.co/8tDLfEo8is"
+	},
+	{
 		"created_at": "Sun Aug 07 09:57:16 +0000 2022",
 		"id": 1556217904651468800,
 		"id_str": "1556217904651468800",
-		"full_text": "How trees use the 'wood-wide web' to talk to each other via ⁦@ABCscience⁩ great to see Australian research about this https://t.co/ch3m7SIMNq",
+		"full_text": "How trees use the 'wood-wide web' to talk to each other via @ABCscience great to see Australian research about this https://t.co/ch3m7SIMNq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +521,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "How trees use the 'wood-wide web' to talk to each other via ⁦@ABCscience⁩ great to see Australian research about this https://t.co/ch3m7SIMNq"
+		"text": "How trees use the 'wood-wide web' to talk to each other via @ABCscience great to see Australian research about this https://t.co/ch3m7SIMNq"
 	},
 	{
 		"created_at": "Fri Aug 05 23:30:58 +0000 2022",
