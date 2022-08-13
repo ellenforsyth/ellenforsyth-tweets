@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 22:50:30 +0000 2022",
+		"id": 1558224437463650300,
+		"id_str": "1558224437463650304",
+		"full_text": "This is a great account of connections... also shows the value of research https://t.co/2XFWQZhG9B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2XFWQZhG9B",
+					"expanded_url": "https://twitter.com/CarlosLehnebach/status/1558002233970544640",
+					"display_url": "twitter.com/CarlosLehnebac…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 959,
+			"listed_count": 0,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1558002233970544600,
+		"quoted_status_id_str": "1558002233970544640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2XFWQZhG9B",
+			"expanded": "https://twitter.com/CarlosLehnebach/status/1558002233970544640",
+			"display": "twitter.com/CarlosLehnebac…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 12 08:07:33 +0000 2022",
+			"id": 1558002233970544600,
+			"id_str": "1558002233970544640",
+			"full_text": "It all started with a seed packet I found in our botanical collections   @Te_Papa more in my blog published today:  A century-old seed surprise, a Hawke’s Bay nurseryman, and his great-great-granddaughter https://t.co/mvZWmCh8O6 via @te_papa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				241
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Te_Papa",
+						"name": "Te Papa",
+						"id": 29090322,
+						"id_str": "29090322",
+						"indices": [
+							73,
+							81
+						]
+					},
+					{
+						"screen_name": "Te_Papa",
+						"name": "Te Papa",
+						"id": 29090322,
+						"id_str": "29090322",
+						"indices": [
+							233,
+							241
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mvZWmCh8O6",
+						"expanded_url": "https://blog.tepapa.govt.nz/2022/08/12/a-century-old-seed-surprise-a-hawkes-bay-nurseryman-and-his-great-great-granddaughter/",
+						"display_url": "blog.tepapa.govt.nz/2022/08/12/a-c…",
+						"indices": [
+							205,
+							228
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 765358420757192700,
+				"id_str": "765358420757192704",
+				"name": "Botany Curator",
+				"screen_name": "CarlosLehnebach",
+				"location": "Wellington City, New Zealand",
+				"description": "#WELTherbarium @Te_Papa, Botanist interested in orchids, pollination, alpine plants, systematics and other botanical curiosities. Views my own. He/his/him",
+				"url": "https://t.co/3oMmsS4Upr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3oMmsS4Upr",
+								"expanded_url": "http://blog.tepapa.govt.nz/author/carloslehnebach/",
+								"display_url": "blog.tepapa.govt.nz/author/carlosl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1976,
+				"friends_count": 1065,
+				"listed_count": 31,
+				"created_at": "Tue Aug 16 01:24:02 +0000 2016",
+				"favourites_count": 3328,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 741,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787969907581255680/x8MD0g7L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787969907581255680/x8MD0g7L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/765358420757192704/1471311151",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a great account of connections... also shows the value of research https://t.co/2XFWQZhG9B"
+	},
+	{
+		"created_at": "Fri Aug 12 22:31:02 +0000 2022",
+		"id": 1558074049032384500,
+		"id_str": "1558219537866461184",
+		"full_text": "This. https://t.co/sUZRqCPEPA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sUZRqCPEPA",
+					"expanded_url": "https://twitter.com/has_bookpushers/status/1558073033729908736",
+					"display_url": "twitter.com/has_bookpusher…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20703602,
+			"id_str": "20703602",
+			"name": "Robin Bradford ⚾️🍹🎼📚",
+			"screen_name": "Tuphlos",
+			"location": "Midwest start/PNW currently",
+			"description": "librarian. lawyer. book concierge, White Sox fan, Liverpool fan. MA, MLS, JD. 2016 RWA Cathie Linz Librarian of the Year. Anti-Racism is ACTIVE, not passive.",
+			"url": "https://t.co/xZrfObqRe5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xZrfObqRe5",
+							"expanded_url": "http://ko-fi.com/robinbradford",
+							"display_url": "ko-fi.com/robinbradford",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10369,
+			"friends_count": 3446,
+			"listed_count": 377,
+			"created_at": "Thu Feb 12 18:54:05 +0000 2009",
+			"favourites_count": 77167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 395885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1513235706554077194/Ojq2zF7J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513235706554077194/Ojq2zF7J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20703602/1404306997",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1558073033729908700,
+		"quoted_status_id_str": "1558073033729908736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sUZRqCPEPA",
+			"expanded": "https://twitter.com/has_bookpushers/status/1558073033729908736",
+			"display": "twitter.com/has_bookpusher…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 12 12:48:53 +0000 2022",
+			"id": 1558073033729908700,
+			"id_str": "1558073033729908736",
+			"full_text": "THERE IS NO SUCH THING AS TRAGEDY IN A FUCKING ROMANCE. It's a genre of hope. Wuthering Heights AND Romeo and Juliet is a freaking tragedy. They're love stories with romantic elements.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28217524,
+				"id_str": "28217524",
+				"name": "Has",
+				"screen_name": "has_bookpushers",
+				"location": "Somewhere in a book",
+				"description": "Bookaholic and bookpusher. I dont Auto-follow but will reply @replies. Spammers/marketeers will be blocked",
+				"url": "https://t.co/NNOOCV15ZS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NNOOCV15ZS",
+								"expanded_url": "http://www.Thebookpushers.com",
+								"display_url": "Thebookpushers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3715,
+				"friends_count": 674,
+				"listed_count": 226,
+				"created_at": "Wed Apr 01 22:47:29 +0000 2009",
+				"favourites_count": 32221,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 155902,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/646073281951481856/2ySYyzFI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/646073281951481856/2ySYyzFI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28217524/1567437774",
+				"profile_link_color": "045DA9",
+				"profile_sidebar_border_color": "0D2030",
+				"profile_sidebar_fill_color": "141414",
+				"profile_text_color": "7F93A4",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 174,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 53,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This. https://t.co/sUZRqCPEPA"
+	},
+	{
 		"created_at": "Tue Aug 09 21:22:18 +0000 2022",
 		"id": 1556929551678279700,
 		"id_str": "1557115075508719616",
