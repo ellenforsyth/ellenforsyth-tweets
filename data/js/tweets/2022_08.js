@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 14 07:32:41 +0000 2022",
+		"id": 1555075679544303600,
+		"id_str": "1558718235985743872",
+		"full_text": "I got interested in why the River Wye was in such a bad state, and that led me to Peter Hammond and @ashsmith43 at @WindrushWasp, who took on sewage pollution, feeble regulators, and the giant water industry and, hopefully for all of our rivers, won.\nhttps://t.co/6Z2mcl3BgT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ashsmith43",
+					"name": "Ashley Smith",
+					"id": 354247712,
+					"id_str": "354247712",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"screen_name": "WindrushWasp",
+					"name": "Windrush WASP",
+					"id": 1009815120963428400,
+					"id_str": "1009815120963428352",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6Z2mcl3BgT",
+					"expanded_url": "https://www.theguardian.com/environment/2022/aug/04/sewage-sleuths-river-pollution-slow-dirty-death-of-welsh-and-english-rivers",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 365687890,
+			"id_str": "365687890",
+			"name": "Oliver Bullough",
+			"screen_name": "OliverBullough",
+			"location": "Hay-on-Wye/Y Gelli",
+			"description": "Journalist; author of Butler to the World and Moneyland\n\nSign up to my newsletter from @CodaStory here: https://t.co/3Ek9Ww79Kr…",
+			"url": "https://t.co/wgjC5Ui0Au",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wgjC5Ui0Au",
+							"expanded_url": "https://profilebooks.com/work/butler-to-the-world/",
+							"display_url": "profilebooks.com/work/butler-to…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3Ek9Ww79Kr",
+							"expanded_url": "http://codastory.com/newsletters/ol",
+							"display_url": "codastory.com/newsletters/ol",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 41624,
+			"friends_count": 1011,
+			"listed_count": 796,
+			"created_at": "Wed Aug 31 21:18:09 +0000 2011",
+			"favourites_count": 24091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036173881483165696/qpsoiwZa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036173881483165696/qpsoiwZa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/365687890/1647882703",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 318,
+		"favorite_count": 712,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I got interested in why the River Wye was in such a bad state, and that led me to Peter Hammond and @ashsmith43 at @WindrushWasp, who took on sewage pollution, feeble regulators, and the giant water industry and, hopefully for all of our rivers, won.\nhttps://t.co/6Z2mcl3BgT"
+	},
+	{
 		"created_at": "Sun Aug 14 07:09:50 +0000 2022",
 		"id": 1558712486463172600,
 		"id_str": "1558712486463172608",
