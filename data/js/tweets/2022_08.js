@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 15 11:59:23 +0000 2022",
+		"id": 1559130278823616500,
+		"id_str": "1559147738947678208",
+		"full_text": "\"Even in the language of its description, the dress hinted at a complex past.\"\n\nReflecting on Ukraine's ongoing situation, Director Chris Breward follows a thread he picked up after searching our collection for objects related to the country’s history.\nhttps://t.co/8mNldkF0wz https://t.co/CjRZX54FGp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8mNldkF0wz",
+					"expanded_url": "http://blog.nms.ac.uk/2022/08/15/womans-dress-of-dark-blue-cotton-ukraine-c-1880-the-complex-reality-behind-a-simple-description/",
+					"display_url": "blog.nms.ac.uk/2022/08/15/wom…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559130274696503300,
+					"id_str": "1559130274696503296",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FaMkuWXXoAA0axf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaMkuWXXoAA0axf.jpg",
+					"url": "https://t.co/CjRZX54FGp",
+					"display_url": "pic.twitter.com/CjRZX54FGp",
+					"expanded_url": "https://twitter.com/NtlMuseumsScot/status/1559130278823616513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559130274696503300,
+					"id_str": "1559130274696503296",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FaMkuWXXoAA0axf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaMkuWXXoAA0axf.jpg",
+					"url": "https://t.co/CjRZX54FGp",
+					"display_url": "pic.twitter.com/CjRZX54FGp",
+					"expanded_url": "https://twitter.com/NtlMuseumsScot/status/1559130278823616513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95401304,
+			"id_str": "95401304",
+			"name": "National Museums Scotland",
+			"screen_name": "NtlMuseumsScot",
+			"location": "Edinburgh, Scotland",
+			"description": "Telling stories from Scotland's national collections. \nAlso tweeting from @NMSEngage @NMSPartnerships @NMSlibraries @NatSciNMS",
+			"url": "https://t.co/fruk0HRe7o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fruk0HRe7o",
+							"expanded_url": "https://www.nms.ac.uk",
+							"display_url": "nms.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86918,
+			"friends_count": 4768,
+			"listed_count": 1550,
+			"created_at": "Tue Dec 08 11:23:52 +0000 2009",
+			"favourites_count": 32705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057566439077568512/LX9nCQs0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057566439077568512/LX9nCQs0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95401304/1511775408",
+			"profile_link_color": "0D6DB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E0ECF5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Even in the language of its description, the dress hinted at a complex past.\"\n\nReflecting on Ukraine's ongoing situation, Director Chris Breward follows a thread he picked up after searching our collection for objects related to the country’s history.\nhttps://t.co/8mNldkF0wz https://t.co/CjRZX54FGp"
+	},
+	{
+		"created_at": "Mon Aug 15 09:27:54 +0000 2022",
+		"id": 1559109617090961400,
+		"id_str": "1559109617090961408",
+		"full_text": "@snailx I hope you enjoy the time (and hopefully sleep lots)",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "snailx",
+					"name": "snail",
+					"id": 13043432,
+					"id_str": "13043432",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1559048528387002400,
+		"in_reply_to_status_id_str": "1559048528387002368",
+		"in_reply_to_user_id": 13043432,
+		"in_reply_to_user_id_str": "13043432",
+		"in_reply_to_screen_name": "snailx",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2525,
+			"friends_count": 959,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@snailx I hope you enjoy the time (and hopefully sleep lots)"
+	},
+	{
 		"created_at": "Sun Aug 14 07:32:41 +0000 2022",
 		"id": 1555075679544303600,
 		"id_str": "1558718235985743872",
