@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 08:04:24 +0000 2022",
+		"id": 1559800829556686800,
+		"id_str": "1559813381103972352",
+		"full_text": "In Demonstration Against Torture Violeta Morales depicts a demonstration against torture by the group Movement Against Torture Sebastián Acevedo (MCTSA), of which she was co-ordinator. https://t.co/9jvKUzh9GF https://t.co/2ealKQoszJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9jvKUzh9GF",
+					"expanded_url": "https://cain.ulster.ac.uk/conflicttextiles/search-quilts2/fulltextiles1/?id=233",
+					"display_url": "cain.ulster.ac.uk/conflicttextil…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559800825316262000,
+					"id_str": "1559800825316261890",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWGliFWQAIbWQA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWGliFWQAIbWQA.jpg",
+					"url": "https://t.co/2ealKQoszJ",
+					"display_url": "pic.twitter.com/2ealKQoszJ",
+					"expanded_url": "https://twitter.com/conflicttextil1/status/1559800829556686850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559800825316262000,
+					"id_str": "1559800825316261890",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWGliFWQAIbWQA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWGliFWQAIbWQA.jpg",
+					"url": "https://t.co/2ealKQoszJ",
+					"display_url": "pic.twitter.com/2ealKQoszJ",
+					"expanded_url": "https://twitter.com/conflicttextil1/status/1559800829556686850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1140934710119620600,
+			"id_str": "1140934710119620608",
+			"name": "@conflicttextiles",
+			"screen_name": "conflicttextil1",
+			"location": "Ulster University",
+			"description": "Conflict Textiles is a large collection of international textiles, exhibitions and associated events, all of which focus on elements of conflict + human rights.",
+			"url": "https://t.co/sS0ZAocF1s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sS0ZAocF1s",
+							"expanded_url": "https://cain.ulster.ac.uk/conflicttextiles/",
+							"display_url": "cain.ulster.ac.uk/conflicttextil…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1070,
+			"friends_count": 1299,
+			"listed_count": 14,
+			"created_at": "Tue Jun 18 10:50:07 +0000 2019",
+			"favourites_count": 1568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140935219635281921/KgsMfNow_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140935219635281921/KgsMfNow_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140934710119620608/1659116458",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Demonstration Against Torture Violeta Morales depicts a demonstration against torture by the group Movement Against Torture Sebastián Acevedo (MCTSA), of which she was co-ordinator. https://t.co/9jvKUzh9GF https://t.co/2ealKQoszJ"
+	},
+	{
 		"created_at": "Mon Aug 15 11:59:23 +0000 2022",
 		"id": 1559130278823616500,
 		"id_str": "1559147738947678208",
