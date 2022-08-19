@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 21:53:17 +0000 2022",
+		"id": 1560384363489276000,
+		"id_str": "1560384363489275904",
+		"full_text": "you can listen to frogs... https://t.co/MpWEZPTYQ4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MpWEZPTYQ4",
+					"expanded_url": "https://twitter.com/AMDigiVol/status/1560129404503736320",
+					"display_url": "twitter.com/AMDigiVol/stat…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2525,
+			"friends_count": 959,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1560129404503736300,
+		"quoted_status_id_str": "1560129404503736320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MpWEZPTYQ4",
+			"expanded": "https://twitter.com/AMDigiVol/status/1560129404503736320",
+			"display": "twitter.com/AMDigiVol/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 18 05:00:10 +0000 2022",
+			"id": 1560129404503736300,
+			"id_str": "1560129404503736320",
+			"full_text": "Have you checked out our brand new audio analysis tool? We've teamed up with @FrogIDAus 🐸 so volunteers can test their skill in identifying calling frogs in #citizenscience recordings 🎧, join in the fun here:  https://t.co/UHiAZXBZ4i https://t.co/w9jsrG4ejT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "citizenscience",
+						"indices": [
+							157,
+							172
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FrogIDAus",
+						"name": "FrogID",
+						"id": 904933218754879500,
+						"id_str": "904933218754879488",
+						"indices": [
+							77,
+							87
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UHiAZXBZ4i",
+						"expanded_url": "http://ow.ly/Kc8B50KmvCj",
+						"display_url": "ow.ly/Kc8B50KmvCj",
+						"indices": [
+							210,
+							233
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1560129403383943200,
+						"id_str": "1560129403383943171",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/FaaxbSxXkAMwZVJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaaxbSxXkAMwZVJ.jpg",
+						"url": "https://t.co/w9jsrG4ejT",
+						"display_url": "pic.twitter.com/w9jsrG4ejT",
+						"expanded_url": "https://twitter.com/AMDigiVol/status/1560129404503736320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1560129403383943200,
+						"id_str": "1560129403383943171",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/FaaxbSxXkAMwZVJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FaaxbSxXkAMwZVJ.jpg",
+						"url": "https://t.co/w9jsrG4ejT",
+						"display_url": "pic.twitter.com/w9jsrG4ejT",
+						"expanded_url": "https://twitter.com/AMDigiVol/status/1560129404503736320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3308487751,
+				"id_str": "3308487751",
+				"name": "DigiVol",
+				"screen_name": "AMDigiVol",
+				"location": "Sydney, New South Wales",
+				"description": "Crowdsourcing volunteers to build knowledge and communities through digitising biodiversity collections.  A collaboration between @austmus and @atlaslivingaust",
+				"url": "http://t.co/82r6KX2CWr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/82r6KX2CWr",
+								"expanded_url": "http://www.digivol.org",
+								"display_url": "digivol.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 613,
+				"friends_count": 604,
+				"listed_count": 16,
+				"created_at": "Fri Aug 07 04:37:55 +0000 2015",
+				"favourites_count": 986,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 459,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1315845318026559488/u5axixZz_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315845318026559488/u5axixZz_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308487751/1461891562",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "you can listen to frogs... https://t.co/MpWEZPTYQ4"
+	},
+	{
+		"created_at": "Thu Aug 18 21:52:49 +0000 2022",
+		"id": 1558932664136114200,
+		"id_str": "1560384244714975232",
+		"full_text": "🚨 New research using #FrogID #citizenscience data has revealed that human modified environments impact #frog breeding seasons, causing frogs to begin breeding earlier and for longer. \nRead more: https://t.co/0qMsuo2X6B\nGraphical abstract by @graciegliu https://t.co/NgvvUBUi0F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FrogID",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "citizenscience",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"text": "frog",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "graciegliu",
+					"name": "Gracie Liu",
+					"id": 1099486155140083700,
+					"id_str": "1099486155140083719",
+					"indices": [
+						241,
+						252
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0qMsuo2X6B",
+					"expanded_url": "https://australian.museum/blog/amri-news/frog-breeding-longer-in-city/",
+					"display_url": "australian.museum/blog/amri-news…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558932662953414700,
+					"id_str": "1558932662953414656",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FaJw_1QXkAACl04.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaJw_1QXkAACl04.jpg",
+					"url": "https://t.co/NgvvUBUi0F",
+					"display_url": "pic.twitter.com/NgvvUBUi0F",
+					"expanded_url": "https://twitter.com/FrogIDAus/status/1558932664136114178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558932662953414700,
+					"id_str": "1558932662953414656",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FaJw_1QXkAACl04.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaJw_1QXkAACl04.jpg",
+					"url": "https://t.co/NgvvUBUi0F",
+					"display_url": "pic.twitter.com/NgvvUBUi0F",
+					"expanded_url": "https://twitter.com/FrogIDAus/status/1558932664136114178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 904933218754879500,
+			"id_str": "904933218754879488",
+			"name": "FrogID",
+			"screen_name": "FrogIDAus",
+			"location": "",
+			"description": "Australia’s national frog count! Download the FrogID app, record frog calls and help save Australia's frogs. An @Austmus initiative.",
+			"url": "https://t.co/w4U0ovlbYP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w4U0ovlbYP",
+							"expanded_url": "http://www.FrogID.net.au",
+							"display_url": "FrogID.net.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3492,
+			"friends_count": 1092,
+			"listed_count": 48,
+			"created_at": "Tue Sep 05 05:04:26 +0000 2017",
+			"favourites_count": 2735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453520735075323906/q1jJV3hy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453520735075323906/q1jJV3hy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/904933218754879488/1637671446",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨 New research using #FrogID #citizenscience data has revealed that human modified environments impact #frog breeding seasons, causing frogs to begin breeding earlier and for longer. \nRead more: https://t.co/0qMsuo2X6B\nGraphical abstract by @graciegliu https://t.co/NgvvUBUi0F"
+	},
+	{
 		"created_at": "Wed Aug 17 08:04:24 +0000 2022",
 		"id": 1559800829556686800,
 		"id_str": "1559813381103972352",
