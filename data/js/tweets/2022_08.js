@@ -1,10 +1,308 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 25 20:35:05 +0000 2022",
+		"id": 1562901399876169700,
+		"id_str": "1562901399876169728",
+		"full_text": "If you are in Australia, consider contributing weekly data for this research (it takes under a minute each week) https://t.co/F8KTvtiy2w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F8KTvtiy2w",
+					"expanded_url": "https://twitter.com/flutrack/status/1562604233291345920",
+					"display_url": "twitter.com/flutrack/statu…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 961,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1562604233291346000,
+		"quoted_status_id_str": "1562604233291345920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F8KTvtiy2w",
+			"expanded": "https://twitter.com/flutrack/status/1562604233291345920",
+			"display": "twitter.com/flutrack/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 25 00:54:15 +0000 2022",
+			"id": 1562604233291346000,
+			"id_str": "1562604233291345920",
+			"full_text": "Hi FluTrackers,\nHere is the link to this week's report for Australia: https://t.co/J3VBLPBZAu (Please note that this is a download link and you may need to open it in a browser if you're using Twitter on your mobile). https://t.co/n3x3UrYLY2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/J3VBLPBZAu",
+						"expanded_url": "https://www.flutracking.net/Info/Report/202235/AU",
+						"display_url": "flutracking.net/Info/Report/20…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1562604200995209200,
+						"id_str": "1562604200995209216",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/Fa98PeTaQAA91VR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fa98PeTaQAA91VR.jpg",
+						"url": "https://t.co/n3x3UrYLY2",
+						"display_url": "pic.twitter.com/n3x3UrYLY2",
+						"expanded_url": "https://twitter.com/Flutrack/status/1562604233291345920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1562604200995209200,
+						"id_str": "1562604200995209216",
+						"indices": [
+							218,
+							241
+						],
+						"media_url": "http://pbs.twimg.com/media/Fa98PeTaQAA91VR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fa98PeTaQAA91VR.jpg",
+						"url": "https://t.co/n3x3UrYLY2",
+						"display_url": "pic.twitter.com/n3x3UrYLY2",
+						"expanded_url": "https://twitter.com/Flutrack/status/1562604233291345920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 75984163,
+				"id_str": "75984163",
+				"name": "FluTracking",
+				"screen_name": "Flutrack",
+				"location": "Australia & New Zealand",
+				"description": "Online weekly survey of respiratory symptoms in Australia & New Zealand.",
+				"url": "https://t.co/r1hNAVQZUw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r1hNAVQZUw",
+								"expanded_url": "http://www.flutracking.net",
+								"display_url": "flutracking.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1587,
+				"friends_count": 1843,
+				"listed_count": 21,
+				"created_at": "Mon Sep 21 08:08:55 +0000 2009",
+				"favourites_count": 79,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 398,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1336534318210899972/qcfPsaS2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336534318210899972/qcfPsaS2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/75984163/1629153922",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are in Australia, consider contributing weekly data for this research (it takes under a minute each week) https://t.co/F8KTvtiy2w"
+	},
+	{
 		"created_at": "Wed Aug 24 19:37:42 +0000 2022",
 		"id": 1562524570094932000,
 		"id_str": "1562524570094931969",
-		"full_text": "About · SoundSwell - Santa Cruz Music Project via ⁦@SantaCruzPL⁩ sounds like a very interesting local studies music project based on contemporary collecting and partnership  https://t.co/ak108O5VJ5",
+		"full_text": "About · SoundSwell - Santa Cruz Music Project via @SantaCruzPL sounds like a very interesting local studies music project based on contemporary collecting and partnership  https://t.co/ak108O5VJ5",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +414,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "About · SoundSwell - Santa Cruz Music Project via ⁦@SantaCruzPL⁩ sounds like a very interesting local studies music project based on contemporary collecting and partnership  https://t.co/ak108O5VJ5"
+		"text": "About · SoundSwell - Santa Cruz Music Project via @SantaCruzPL sounds like a very interesting local studies music project based on contemporary collecting and partnership  https://t.co/ak108O5VJ5"
 	},
 	{
 		"created_at": "Sat Aug 20 05:14:04 +0000 2022",
