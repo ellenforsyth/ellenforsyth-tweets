@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 31 09:17:20 +0000 2022",
+		"id": 1564905165974487000,
+		"id_str": "1564905165974487040",
+		"full_text": "Includes some hints…(and great views of magpies) https://t.co/QX486ikhf0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QX486ikhf0",
+					"expanded_url": "https://twitter.com/UrbanBirdsOz/status/1564778728005111808",
+					"display_url": "twitter.com/UrbanBirdsOz/s…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2527,
+			"friends_count": 963,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1564778728005111800,
+		"quoted_status_id_str": "1564778728005111808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QX486ikhf0",
+			"expanded": "https://twitter.com/UrbanBirdsOz/status/1564778728005111808",
+			"display": "twitter.com/UrbanBirdsOz/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 31 00:54:55 +0000 2022",
+			"id": 1564778728005111800,
+			"id_str": "1564778728005111808",
+			"full_text": "A friendly reminder of why some Australian Magpies are swooping at the moment...\n\nVideo: Mitch Anderson https://t.co/PtxfgcrTyu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1564775783066833000,
+						"id_str": "1564775783066832896",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1564775783066832896/pu/img/C7RvJNA3LEoXoGT8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1564775783066832896/pu/img/C7RvJNA3LEoXoGT8.jpg",
+						"url": "https://t.co/PtxfgcrTyu",
+						"display_url": "pic.twitter.com/PtxfgcrTyu",
+						"expanded_url": "https://twitter.com/UrbanBirdsOz/status/1564778728005111808/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1564775783066833000,
+						"id_str": "1564775783066832896",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1564775783066832896/pu/img/C7RvJNA3LEoXoGT8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1564775783066832896/pu/img/C7RvJNA3LEoXoGT8.jpg",
+						"url": "https://t.co/PtxfgcrTyu",
+						"display_url": "pic.twitter.com/PtxfgcrTyu",
+						"expanded_url": "https://twitter.com/UrbanBirdsOz/status/1564778728005111808/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 59666,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1564775783066832896/pu/pl/zwqAAnH6VEWVqjg9.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1564775783066832896/pu/vid/720x720/xpVUjmYpCxpUeuGw.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1564775783066832896/pu/vid/540x540/rJMO3yaPRx0rr3F4.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1564775783066832896/pu/vid/320x320/mD6cMiFKw2ZdOCxw.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 927695714116710400,
+				"id_str": "927695714116710406",
+				"name": "Birds in Backyards",
+				"screen_name": "UrbanBirdsOz",
+				"location": "Australia",
+				"description": "BirdLife Australia Insta: birdsinbackyards Fb: BirdsinBackyards YouTube: https://t.co/T1zWOOPaU2 BIBY, Powerful Owl, Birds in Schools, Bird Strike, Gang-gang",
+				"url": "https://t.co/hTOMUy8hE3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hTOMUy8hE3",
+								"expanded_url": "http://linktr.ee/UrbanBirdsOz",
+								"display_url": "linktr.ee/UrbanBirdsOz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/T1zWOOPaU2",
+								"expanded_url": "http://tinyurl.com/BIBYTV",
+								"display_url": "tinyurl.com/BIBYTV",
+								"indices": [
+									73,
+									96
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3219,
+				"friends_count": 322,
+				"listed_count": 52,
+				"created_at": "Tue Nov 07 00:34:28 +0000 2017",
+				"favourites_count": 5542,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2519,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1293681139228405761/7dL7AMEC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293681139228405761/7dL7AMEC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/927695714116710406/1656748712",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 387,
+			"favorite_count": 1635,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Includes some hints…(and great views of magpies) https://t.co/QX486ikhf0"
+	},
+	{
 		"created_at": "Mon Aug 29 06:26:20 +0000 2022",
 		"id": 1564137356793618400,
 		"id_str": "1564137356793618432",
