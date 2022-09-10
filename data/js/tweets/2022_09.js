@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 02:59:17 +0000 2022",
+		"id": 1568433904557920300,
+		"id_str": "1568433904557920256",
+		"full_text": "still time to join in for #NaturePact this year https://t.co/V6rbfyqmph",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NaturePact",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V6rbfyqmph",
+					"expanded_url": "https://twitter.com/natureforall/status/1565350546537873410",
+					"display_url": "twitter.com/natureforall/s…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2526,
+			"friends_count": 964,
+			"listed_count": 217,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1565350546537873400,
+		"quoted_status_id_str": "1565350546537873410",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V6rbfyqmph",
+			"expanded": "https://twitter.com/natureforall/status/1565350546537873410",
+			"display": "twitter.com/natureforall/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 01 14:47:07 +0000 2022",
+			"id": 1565350546537873400,
+			"id_str": "1565350546537873410",
+			"full_text": "The People and Parks Foundation #NaturePact campaign has started! Sign up and encourage others to join you and enjoy time in nature. 👏\n Share your experiences for a chance to win some beautiful nature-based prizes! 🍃🤩\nMore info 👇\nhttps://t.co/9ZvLy1SfNK\n#NatureLoveStory",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NaturePact",
+						"indices": [
+							32,
+							43
+						]
+					},
+					{
+						"text": "NatureLoveStory",
+						"indices": [
+							254,
+							270
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9ZvLy1SfNK",
+						"expanded_url": "https://peopleandparks.org/nature-pact/",
+						"display_url": "peopleandparks.org/nature-pact/",
+						"indices": [
+							230,
+							253
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2752306146,
+				"id_str": "2752306146",
+				"name": "#NatureForAll",
+				"screen_name": "natureforall",
+				"location": "Global",
+				"description": "A global movement to inspire love of nature, built on the knowledge that the more people experience nature, the more they appreciate, love, and care for it.",
+				"url": "https://t.co/5whH641I8P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5whH641I8P",
+								"expanded_url": "https://natureforall.global/",
+								"display_url": "natureforall.global",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3911,
+				"friends_count": 1436,
+				"listed_count": 76,
+				"created_at": "Thu Aug 21 15:04:19 +0000 2014",
+				"favourites_count": 8784,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6324,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1361707017560326147/jaJjjivM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361707017560326147/jaJjjivM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2752306146/1658512231",
+				"profile_link_color": "016B95",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "still time to join in for #NaturePact this year https://t.co/V6rbfyqmph"
+	},
+	{
 		"created_at": "Wed Sep 07 03:34:16 +0000 2022",
 		"id": 1567355545946067000,
 		"id_str": "1567355545946066944",
