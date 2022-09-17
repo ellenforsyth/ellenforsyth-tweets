@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 00:11:21 +0000 2022",
+		"id": 1570926766696317000,
+		"id_str": "1570928356966961152",
+		"full_text": "Save the date – there’s only 1 MONTH TO GO until the 2022 #AussieBirdCount and we can’t wait! \n\nThe 2022 event will run from October 17‒23 during National Bird Week. Register as a counter today and find out more at: https://t.co/9BSwsfEBTC\n\n🖌️ @bottlefullorain https://t.co/3iiy5ygk1f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AussieBirdCount",
+					"indices": [
+						58,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bottlefullorain",
+					"name": "Anna Wilson",
+					"id": 931312296,
+					"id_str": "931312296",
+					"indices": [
+						244,
+						260
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9BSwsfEBTC",
+					"expanded_url": "https://aussiebirdcount.org.au/",
+					"display_url": "aussiebirdcount.org.au",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1570926762153939000,
+					"id_str": "1570926762153938944",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc0NkSpXEAAHqq9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc0NkSpXEAAHqq9.jpg",
+					"url": "https://t.co/3iiy5ygk1f",
+					"display_url": "pic.twitter.com/3iiy5ygk1f",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1570926766696316935/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570926762153939000,
+					"id_str": "1570926762153938944",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc0NkSpXEAAHqq9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc0NkSpXEAAHqq9.jpg",
+					"url": "https://t.co/3iiy5ygk1f",
+					"display_url": "pic.twitter.com/3iiy5ygk1f",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1570926766696316935/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145136771,
+			"id_str": "145136771",
+			"name": "BirdLife Australia",
+			"screen_name": "BirdlifeOz",
+			"location": "Australia",
+			"description": "Conserving Australia's birds and their habitats through advocacy, targeted research, on-ground work and monitoring.  Standing together to stop extinctions!",
+			"url": "https://t.co/i9NWEcHXjq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/i9NWEcHXjq",
+							"expanded_url": "https://birdlife.org.au/",
+							"display_url": "birdlife.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26801,
+			"friends_count": 951,
+			"listed_count": 415,
+			"created_at": "Tue May 18 06:05:23 +0000 2010",
+			"favourites_count": 12923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1580EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145136771/1663384589",
+			"profile_link_color": "003A80",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B6B8B1",
+			"profile_text_color": "0F0E0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Save the date – there’s only 1 MONTH TO GO until the 2022 #AussieBirdCount and we can’t wait! \n\nThe 2022 event will run from October 17‒23 during National Bird Week. Register as a counter today and find out more at: https://t.co/9BSwsfEBTC\n\n🖌️ @bottlefullorain https://t.co/3iiy5ygk1f"
+	},
+	{
 		"created_at": "Mon Sep 12 21:58:18 +0000 2022",
 		"id": 1569445321352298500,
 		"id_str": "1569445321352298497",
