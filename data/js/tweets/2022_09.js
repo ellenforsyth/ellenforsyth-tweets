@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 24 19:13:45 +0000 2022",
+		"id": 1573747854954332200,
+		"id_str": "1573752566504005632",
+		"full_text": "Green sea turtles and dugongs are the grazers of the Australian seas and rely heavily on seagrass.\n\nSadly, floodwater carries dense clouds of sediment, choking the lush seagrass meadows on which these gentle grazers rely, writes @usceduau's @mantaturtle.\nhttps://t.co/FDspaeqNNc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "usceduau",
+					"name": "UniSC: University of the Sunshine Coast",
+					"id": 221620566,
+					"id_str": "221620566",
+					"indices": [
+						229,
+						238
+					]
+				},
+				{
+					"screen_name": "mantaturtle",
+					"name": "Dr. Kathy A. Townsend",
+					"id": 304863683,
+					"id_str": "304863683",
+					"indices": [
+						241,
+						253
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FDspaeqNNc",
+					"expanded_url": "https://bit.ly/3Sf3XQu",
+					"display_url": "bit.ly/3Sf3XQu",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224495471,
+			"id_str": "224495471",
+			"name": "The Conversation",
+			"screen_name": "ConversationEDU",
+			"location": "Australia",
+			"description": "Independent news from the sharpest academic minds.  \nRead: https://t.co/pXIyo0sdkZ\nSign up: https://t.co/tTlAQjh3cS\nDonate: https://t.co/TvbSODXXxw",
+			"url": "https://t.co/IhyOfLXqKD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IhyOfLXqKD",
+							"expanded_url": "https://donate.theconversation.com",
+							"display_url": "donate.theconversation.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pXIyo0sdkZ",
+							"expanded_url": "http://theconversation.com/au",
+							"display_url": "theconversation.com/au",
+							"indices": [
+								59,
+								82
+							]
+						},
+						{
+							"url": "https://t.co/tTlAQjh3cS",
+							"expanded_url": "http://bit.ly/2YBhBpn",
+							"display_url": "bit.ly/2YBhBpn",
+							"indices": [
+								92,
+								115
+							]
+						},
+						{
+							"url": "https://t.co/TvbSODXXxw",
+							"expanded_url": "http://bit.ly/2Wsvz8T",
+							"display_url": "bit.ly/2Wsvz8T",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 197944,
+			"friends_count": 4927,
+			"listed_count": 3055,
+			"created_at": "Thu Dec 09 04:36:36 +0000 2010",
+			"favourites_count": 4573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 86359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E5E5E5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1523434229568516096/6rkFtNYN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1523434229568516096/6rkFtNYN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224495471/1656635942",
+			"profile_link_color": "D8362A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Green sea turtles and dugongs are the grazers of the Australian seas and rely heavily on seagrass.\n\nSadly, floodwater carries dense clouds of sediment, choking the lush seagrass meadows on which these gentle grazers rely, writes @usceduau's @mantaturtle.\nhttps://t.co/FDspaeqNNc"
+	},
+	{
 		"created_at": "Sun Sep 18 10:47:20 +0000 2022",
 		"id": 1571413260129439700,
 		"id_str": "1571450795421478912",
