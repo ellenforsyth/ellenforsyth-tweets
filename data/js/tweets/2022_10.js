@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 03 20:03:15 +0000 2022",
+		"id": 1577026516281856000,
+		"id_str": "1577026516281856000",
+		"full_text": "Likely to have relevance for libraries too https://t.co/mc4DbQUZ2w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mc4DbQUZ2w",
+					"expanded_url": "https://twitter.com/AAMers/status/1576980403449126913",
+					"display_url": "twitter.com/AAMers/status/…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2530,
+			"friends_count": 966,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1576980403449127000,
+		"quoted_status_id_str": "1576980403449126913",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mc4DbQUZ2w",
+			"expanded": "https://twitter.com/AAMers/status/1576980403449126913",
+			"display": "twitter.com/AAMers/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 03 17:00:01 +0000 2022",
+			"id": 1576980403449127000,
+			"id_str": "1576980403449126913",
+			"full_text": "Have you ever felt like you don't belong? @msichicago developed a new survey to understand how people's sense of belonging impacts their decision to visit—or not visit—museums. Learn more about the project, and get your free copy of the easy-to-use tool: https://t.co/d5JmL3Nl6b",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msichicago",
+						"name": "MSI Chicago",
+						"id": 19539565,
+						"id_str": "19539565",
+						"indices": [
+							42,
+							53
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/d5JmL3Nl6b",
+						"expanded_url": "https://www.aam-us.org/2022/09/30/a-free-survey-to-measure-a-sense-of-belonging-at-museums/",
+						"display_url": "aam-us.org/2022/09/30/a-f…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23070306,
+				"id_str": "23070306",
+				"name": "American Alliance of Museums",
+				"screen_name": "AAMers",
+				"location": "Arlington, VA",
+				"description": "Championing Museums. Nurturing Excellence. (RTs ≠ endorsement)\n\nSave the dates!\n\n#MuseumsAdvocacy2023 📆 Feb. 27–28, 2023\n#AAM2023 in Denver! 📆 May 19–22, 2023",
+				"url": "https://t.co/b3AGenU8KI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b3AGenU8KI",
+								"expanded_url": "http://aam-us.org",
+								"display_url": "aam-us.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 66519,
+				"friends_count": 3713,
+				"listed_count": 1953,
+				"created_at": "Fri Mar 06 14:40:01 +0000 2009",
+				"favourites_count": 32542,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36822,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0055A5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1207681449584988160/4KUHmJW1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207681449584988160/4KUHmJW1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23070306/1654091391",
+				"profile_link_color": "007F7B",
+				"profile_sidebar_border_color": "004347",
+				"profile_sidebar_fill_color": "D9D9D9",
+				"profile_text_color": "311C4F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Likely to have relevance for libraries too https://t.co/mc4DbQUZ2w"
+	},
+	{
 		"created_at": "Sun Oct 02 20:55:16 +0000 2022",
 		"id": 1576677219271049200,
 		"id_str": "1576677219271049216",
