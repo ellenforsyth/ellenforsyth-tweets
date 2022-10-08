@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 23:16:26 +0000 2022",
+		"id": 1578524680302243800,
+		"id_str": "1578524680302243840",
+		"full_text": "@Infoventurer really tough time - thinking of you",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Infoventurer",
+					"name": "Kathryn Greenhill *4 vax* *still masking*",
+					"id": 170927111,
+					"id_str": "170927111",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1578515025907441700,
+		"in_reply_to_status_id_str": "1578515025907441664",
+		"in_reply_to_user_id": 170927111,
+		"in_reply_to_user_id_str": "170927111",
+		"in_reply_to_screen_name": "Infoventurer",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2324,
+			"friends_count": 977,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Infoventurer really tough time - thinking of you"
+	},
+	{
+		"created_at": "Fri Oct 07 21:53:27 +0000 2022",
+		"id": 1578503799018115000,
+		"id_str": "1578503799018115072",
+		"full_text": "@gcwhite It really is amazing stuff - don’t waste it",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gcwhite",
+					"name": "🌻Grant",
+					"id": 18702123,
+					"id_str": "18702123",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1578503487620423700,
+		"in_reply_to_status_id_str": "1578503487620423680",
+		"in_reply_to_user_id": 18702123,
+		"in_reply_to_user_id_str": "18702123",
+		"in_reply_to_screen_name": "gcwhite",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2324,
+			"friends_count": 977,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gcwhite It really is amazing stuff - don’t waste it"
+	},
+	{
+		"created_at": "Fri Oct 07 21:38:50 +0000 2022",
+		"id": 1578500118827106300,
+		"id_str": "1578500118827106304",
+		"full_text": "7 reasons not to throw out your chickpea juice https://t.co/jETP6tmsuT I have made the meringues (and they are amazing)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jETP6tmsuT",
+					"expanded_url": "https://www.sbs.com.au/food/blog/2022/09/08/7-reasons-not-throw-out-your-chickpea-juice?dlb=[2022/10/07]%20del_fdh_bau&did=DM18438&cid=food:edm:acfoodhealth:relation:foodhealthedm:na:na",
+					"display_url": "sbs.com.au/food/blog/2022…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2324,
+			"friends_count": 977,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "7 reasons not to throw out your chickpea juice https://t.co/jETP6tmsuT I have made the meringues (and they are amazing)"
+	},
+	{
+		"created_at": "Fri Oct 07 21:28:37 +0000 2022",
+		"id": 1577612061793820700,
+		"id_str": "1578497550717374464",
+		"full_text": "You can now knit the University of Glasgow! Or rather you can knit patterns inspired by our iconic architecture.\n\nThe UofG knitting pattern book is part of our @UofGArts @UofGknitting research project on the history of knitted textiles in Scotland. 🧶\n\n@Lynncabrams explains more https://t.co/PinBrPN1ZU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UofGArts",
+					"name": "UofG Arts",
+					"id": 4493812037,
+					"id_str": "4493812037",
+					"indices": [
+						160,
+						169
+					]
+				},
+				{
+					"screen_name": "UofGknitting",
+					"name": "Fleece to Fashion",
+					"id": 2545404338,
+					"id_str": "2545404338",
+					"indices": [
+						170,
+						183
+					]
+				},
+				{
+					"screen_name": "Lynncabrams",
+					"name": "Lynn Abrams",
+					"id": 549250668,
+					"id_str": "549250668",
+					"indices": [
+						252,
+						264
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577610754890645500,
+					"id_str": "1577610754890645504",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FeTNtsQWQAE3NEO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeTNtsQWQAE3NEO.jpg",
+					"url": "https://t.co/PinBrPN1ZU",
+					"display_url": "pic.twitter.com/PinBrPN1ZU",
+					"expanded_url": "https://twitter.com/UofGlasgow/status/1577612061793820672/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1185,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1628,
+							"h": 1648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577610754890645500,
+					"id_str": "1577610754890645504",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FeTNtsQWQAE3NEO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeTNtsQWQAE3NEO.jpg",
+					"url": "https://t.co/PinBrPN1ZU",
+					"display_url": "pic.twitter.com/PinBrPN1ZU",
+					"expanded_url": "https://twitter.com/UofGlasgow/status/1577612061793820672/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1185,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1628,
+							"h": 1648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 82160,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577610754890645504/vid/320x320/Kblogg2ruLn7U3US.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1577610754890645504/pl/GPocSQVCPK0kcNFe.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577610754890645504/vid/720x720/kVGrQhuRDRB-QdyS.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577610754890645504/vid/540x540/-cb-UOv7XXxfqO95.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19760151,
+			"id_str": "19760151",
+			"name": "University of Glasgow",
+			"screen_name": "UofGlasgow",
+			"location": "Scotland",
+			"description": "Changing the world since 1451 🌍 | #TeamUofG #WorldChangingGlasgow",
+			"url": "https://t.co/Kkf4tL3bea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kkf4tL3bea",
+							"expanded_url": "http://www.glasgow.ac.uk/",
+							"display_url": "glasgow.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130283,
+			"friends_count": 1972,
+			"listed_count": 1270,
+			"created_at": "Fri Jan 30 09:06:35 +0000 2009",
+			"favourites_count": 30698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572136349049692160/gl4PGx60_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572136349049692160/gl4PGx60_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19760151/1663661490",
+			"profile_link_color": "003865",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can now knit the University of Glasgow! Or rather you can knit patterns inspired by our iconic architecture.\n\nThe UofG knitting pattern book is part of our @UofGArts @UofGknitting research project on the history of knitted textiles in Scotland. 🧶\n\n@Lynncabrams explains more https://t.co/PinBrPN1ZU"
+	},
+	{
 		"created_at": "Thu Oct 06 11:33:59 +0000 2022",
 		"id": 1577853580387782700,
 		"id_str": "1577985518926602241",
@@ -38,7 +599,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Guardian Australia",
 			"screen_name": "GuardianAus",
 			"location": "Australia",
-			"description": "Latest news from Guardian Australia\n\n📨 Newsletters: https://t.co/iUNmfKF1Ef\n📰 Contribute: https://t.co/BD5vlNOCo4\n👩‍💻 Live blog: https://t.co/fZdHED7j2x",
+			"description": "Latest news from Guardian Australia\n\n📨 Newsletters: https://t.co/iUNmfKF1Ef\n📰 Contribute: https://t.co/BD5vlNOCo4\n👩💻 Live blog: https://t.co/fZdHED7j2x",
 			"url": "https://t.co/11mlSVzfGG",
 			"entities": {
 				"url": {
