@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 09:24:11 +0000 2022",
+		"id": 1579031163150008300,
+		"id_str": "1579040016927322112",
+		"full_text": "Kew Royal Botanic Gardens: Digitising Kew’s fungi collection - https://t.co/Mn0rbjC20m #Kew #fungi #DigitizingProjects",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kew",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "fungi",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "DigitizingProjects",
+					"indices": [
+						99,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mn0rbjC20m",
+					"expanded_url": "https://www.kew.org/read-and-watch/digitising-fungarium",
+					"display_url": "kew.org/read-and-watch…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6979102,
+			"id_str": "6979102",
+			"name": "Tara Calishain",
+			"screen_name": "ResearchBuzz",
+			"location": "",
+			"description": "Autistic, writer, obsessed w/ search engines, databases, info collections. Writing ResearchBuzz since 1998. The NSA thinks I'm clever. Having fun: https://t.co/SVLVPk0SuC",
+			"url": "https://t.co/q7iEdl772H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/q7iEdl772H",
+							"expanded_url": "http://www.researchbuzz.com",
+							"display_url": "researchbuzz.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SVLVPk0SuC",
+							"expanded_url": "http://RBGizmos.com",
+							"display_url": "RBGizmos.com",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5975,
+			"friends_count": 3738,
+			"listed_count": 576,
+			"created_at": "Wed Jun 20 22:25:01 +0000 2007",
+			"favourites_count": 25229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 102131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/572069625517453312/0zTcuSnw_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6979102/1663074514",
+			"profile_link_color": "243A8F",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kew Royal Botanic Gardens: Digitising Kew’s fungi collection - https://t.co/Mn0rbjC20m #Kew #fungi #DigitizingProjects"
+	},
+	{
 		"created_at": "Sat Oct 08 21:55:01 +0000 2022",
 		"id": 1578866582344044500,
 		"id_str": "1578866582344044544",
