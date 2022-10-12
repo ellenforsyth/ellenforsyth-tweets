@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 18:36:03 +0000 2022",
+		"id": 1579903672581992400,
+		"id_str": "1579903672581992453",
+		"full_text": "This is fun, make sure you do some counting next week (for those in Australia). If not in Australia you may have local bird counts you can participate in. #AussieBirdCount https://t.co/1LJ9IOTdWR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AussieBirdCount",
+					"indices": [
+						155,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1LJ9IOTdWR",
+					"expanded_url": "https://twitter.com/birdlifeoz/status/1579783385412534274",
+					"display_url": "twitter.com/birdlifeoz/sta…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2325,
+			"friends_count": 978,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9857,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1579783385412534300,
+		"quoted_status_id_str": "1579783385412534274",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1LJ9IOTdWR",
+			"expanded": "https://twitter.com/birdlifeoz/status/1579783385412534274",
+			"display": "twitter.com/birdlifeoz/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 11 10:38:04 +0000 2022",
+			"id": 1579783385412534300,
+			"id_str": "1579783385412534274",
+			"full_text": "So, how DO you do the #AussieBirdCount?\n\nWe've put this guide together for you to help you out. Share it with your mates who haven't taken part yet!\n\nHead to the website to see some answers to our FAQs, and then sign up to the count 👉 https://t.co/KAssm7dm6l https://t.co/kAiSI51fFW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AussieBirdCount",
+						"indices": [
+							22,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KAssm7dm6l",
+						"expanded_url": "http://aussiebirdcount.org.au",
+						"display_url": "aussiebirdcount.org.au",
+						"indices": [
+							235,
+							258
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1579783368216121300,
+						"id_str": "1579783368216121344",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/FeyEmnSXkAAAtw2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeyEmnSXkAAAtw2.jpg",
+						"url": "https://t.co/kAiSI51fFW",
+						"display_url": "pic.twitter.com/kAiSI51fFW",
+						"expanded_url": "https://twitter.com/BirdlifeOz/status/1579783385412534274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1579783368216121300,
+						"id_str": "1579783368216121344",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/FeyEmnSXkAAAtw2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeyEmnSXkAAAtw2.jpg",
+						"url": "https://t.co/kAiSI51fFW",
+						"display_url": "pic.twitter.com/kAiSI51fFW",
+						"expanded_url": "https://twitter.com/BirdlifeOz/status/1579783385412534274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1579783373534494700,
+						"id_str": "1579783373534494723",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/FeyEm7GXgAMH4tJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeyEm7GXgAMH4tJ.jpg",
+						"url": "https://t.co/kAiSI51fFW",
+						"display_url": "pic.twitter.com/kAiSI51fFW",
+						"expanded_url": "https://twitter.com/BirdlifeOz/status/1579783385412534274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1579783377762373600,
+						"id_str": "1579783377762373633",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/FeyEnK2X0AEv9Aj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeyEnK2X0AEv9Aj.jpg",
+						"url": "https://t.co/kAiSI51fFW",
+						"display_url": "pic.twitter.com/kAiSI51fFW",
+						"expanded_url": "https://twitter.com/BirdlifeOz/status/1579783385412534274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1500,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1579783381684031500,
+						"id_str": "1579783381684031489",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/FeyEnZdXkAEzSNA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FeyEnZdXkAEzSNA.jpg",
+						"url": "https://t.co/kAiSI51fFW",
+						"display_url": "pic.twitter.com/kAiSI51fFW",
+						"expanded_url": "https://twitter.com/BirdlifeOz/status/1579783385412534274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 145136771,
+				"id_str": "145136771",
+				"name": "BirdLife Australia",
+				"screen_name": "BirdlifeOz",
+				"location": "Australia",
+				"description": "Home of the #AussieBirdCount! BirdLife Australia is proud to be the nation's largest bird conservation organisation.",
+				"url": "https://t.co/i9NWEcHXjq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i9NWEcHXjq",
+								"expanded_url": "https://birdlife.org.au/",
+								"display_url": "birdlife.org.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26939,
+				"friends_count": 952,
+				"listed_count": 417,
+				"created_at": "Tue May 18 06:05:23 +0000 2010",
+				"favourites_count": 12942,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10883,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1580EB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/145136771/1663384589",
+				"profile_link_color": "003A80",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B6B8B1",
+				"profile_text_color": "0F0E0E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is fun, make sure you do some counting next week (for those in Australia). If not in Australia you may have local bird counts you can participate in. #AussieBirdCount https://t.co/1LJ9IOTdWR"
+	},
+	{
 		"created_at": "Mon Oct 10 18:36:35 +0000 2022",
 		"id": 1579541420368887800,
 		"id_str": "1579541420368887808",
