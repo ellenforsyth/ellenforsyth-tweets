@@ -1,6 +1,827 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 16 06:41:50 +0000 2022",
+		"id": 1581321252580782000,
+		"id_str": "1581535873015087104",
+		"full_text": "Speaking as a synagogue librarian who is sick of antisemitism and the Holocaust being taught incorrectly:\n\nPLEASE DON'T TEACH OR RECOMMEND THE BOY IN THE STRIPED PAJAMAS.\n\nIt's the number one taught Holocaust book. \n\nIT SYMPATHIZES WITH THE NAZIS. \n\nIt is factually inaccurate.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38240407,
+			"id_str": "38240407",
+			"name": "🌸 Susan Kusel 🌸",
+			"screen_name": "susankusel",
+			"location": "Arlington, VA",
+			"description": "🔯 Synagogue librarian/Book Consultant. ADHD. Author of The Passover Guest, Holiday House/Neal Porter Books. Sydney Taylor Book Award Winner. Agent @renarossner",
+			"url": "https://t.co/mrQOhYEi7t",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mrQOhYEi7t",
+							"expanded_url": "http://susankusel.com",
+							"display_url": "susankusel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2337,
+			"friends_count": 1896,
+			"listed_count": 59,
+			"created_at": "Wed May 06 18:16:54 +0000 2009",
+			"favourites_count": 14196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1573509322658783247/jE7OqOVQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1573509322658783247/jE7OqOVQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38240407/1547084721",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5283,
+		"favorite_count": 29912,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Speaking as a synagogue librarian who is sick of antisemitism and the Holocaust being taught incorrectly:\n\nPLEASE DON'T TEACH OR RECOMMEND THE BOY IN THE STRIPED PAJAMAS.\n\nIt's the number one taught Holocaust book. \n\nIT SYMPATHIZES WITH THE NAZIS. \n\nIt is factually inaccurate."
+	},
+	{
+		"created_at": "Sun Oct 16 00:56:25 +0000 2022",
+		"id": 1581448945964056600,
+		"id_str": "1581448945964056579",
+		"full_text": "Hearing about taypani milaythina-tu: Return to Country https://t.co/jaLZ8Dh1cc (lots of information on website) #2022OHA very moving session",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2022OHA",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jaLZ8Dh1cc",
+					"expanded_url": "https://www.tmag.tas.gov.au/whats_on/exhibitions/current_upcoming/info/taypani_milaythina-tu_return_to_country",
+					"display_url": "tmag.tas.gov.au/whats_on/exhib…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2329,
+			"friends_count": 981,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hearing about taypani milaythina-tu: Return to Country https://t.co/jaLZ8Dh1cc (lots of information on website) #2022OHA very moving session"
+	},
+	{
+		"created_at": "Sat Oct 15 22:17:57 +0000 2022",
+		"id": 1581409066064437200,
+		"id_str": "1581409066064437248",
+		"full_text": "#2022OHA hearing about the Australian generations oral history collection https://t.co/LWmjQ7qI4m and use for secondary research. Importance of consideration of secondary analysis at time of recording and what is covered in permissions.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2022OHA",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LWmjQ7qI4m",
+					"expanded_url": "https://catalogue.nla.gov.au/Record/5973925?lookfor=Australian%20generations%20%23[format:Audio]&offset=1&max=665",
+					"display_url": "catalogue.nla.gov.au/Record/5973925…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2329,
+			"friends_count": 981,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#2022OHA hearing about the Australian generations oral history collection https://t.co/LWmjQ7qI4m and use for secondary research. Importance of consideration of secondary analysis at time of recording and what is covered in permissions."
+	},
+	{
+		"created_at": "Sat Oct 15 22:06:29 +0000 2022",
+		"id": 1581406181280874500,
+		"id_str": "1581406181280874496",
+		"full_text": "Ready for the final morning of #2022OHA thank you @oralhistoryaus for such a great conference. The photographs show some of the environment near the conference venue. https://t.co/HKX2KXWWV9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2022OHA",
+					"indices": [
+						31,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oralhistoryaus",
+					"name": "Oral History Australia",
+					"id": 1339430983196500000,
+					"id_str": "1339430983196499968",
+					"indices": [
+						50,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581406109088510000,
+					"id_str": "1581406109088509952",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FfJIekHacAAYbHb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfJIekHacAAYbHb.jpg",
+					"url": "https://t.co/HKX2KXWWV9",
+					"display_url": "pic.twitter.com/HKX2KXWWV9",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/1581406181280874496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1542,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581406109088510000,
+					"id_str": "1581406109088509952",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FfJIekHacAAYbHb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfJIekHacAAYbHb.jpg",
+					"url": "https://t.co/HKX2KXWWV9",
+					"display_url": "pic.twitter.com/HKX2KXWWV9",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/1581406181280874496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1542,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1581406125555351600,
+					"id_str": "1581406125555351552",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FfJIfhdagAAYx16.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfJIfhdagAAYx16.jpg",
+					"url": "https://t.co/HKX2KXWWV9",
+					"display_url": "pic.twitter.com/HKX2KXWWV9",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/1581406181280874496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1542,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1581406147780948000,
+					"id_str": "1581406147780947968",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FfJIg0QaMAATe4_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfJIg0QaMAATe4_.jpg",
+					"url": "https://t.co/HKX2KXWWV9",
+					"display_url": "pic.twitter.com/HKX2KXWWV9",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/1581406181280874496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1542,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 904,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1581406164608483300,
+					"id_str": "1581406164608483329",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FfJIhy8aAAEUOuK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfJIhy8aAAEUOuK.jpg",
+					"url": "https://t.co/HKX2KXWWV9",
+					"display_url": "pic.twitter.com/HKX2KXWWV9",
+					"expanded_url": "https://twitter.com/ellenforsyth/status/1581406181280874496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1542,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2329,
+			"friends_count": 981,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ready for the final morning of #2022OHA thank you @oralhistoryaus for such a great conference. The photographs show some of the environment near the conference venue. https://t.co/HKX2KXWWV9"
+	},
+	{
+		"created_at": "Sat Oct 15 22:06:25 +0000 2022",
+		"id": 1581405058729902000,
+		"id_str": "1581406166663696384",
+		"full_text": "The #AussieBirdCount starts TOMORROW and runs til Oct 23!\n\nLast year we had over 100k people count birds, and 4,936,509 birds counted. Will we crack 5 million this year?\n\nIt takes 20 minutes, is super easy, and today's your last chance to register: https://t.co/9BSwsfF9Ja https://t.co/3XQk80Gy0P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AussieBirdCount",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9BSwsfF9Ja",
+					"expanded_url": "https://aussiebirdcount.org.au/",
+					"display_url": "aussiebirdcount.org.au",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581405054464131000,
+					"id_str": "1581405054464131076",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FfJHhLVXgAQXlwW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfJHhLVXgAQXlwW.jpg",
+					"url": "https://t.co/3XQk80Gy0P",
+					"display_url": "pic.twitter.com/3XQk80Gy0P",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1581405058729902081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581405054464131000,
+					"id_str": "1581405054464131076",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FfJHhLVXgAQXlwW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfJHhLVXgAQXlwW.jpg",
+					"url": "https://t.co/3XQk80Gy0P",
+					"display_url": "pic.twitter.com/3XQk80Gy0P",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1581405058729902081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145136771,
+			"id_str": "145136771",
+			"name": "BirdLife Australia",
+			"screen_name": "BirdlifeOz",
+			"location": "Australia",
+			"description": "Home of the #AussieBirdCount! BirdLife Australia is proud to be the nation's largest bird conservation organisation.",
+			"url": "https://t.co/i9NWEcHXjq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/i9NWEcHXjq",
+							"expanded_url": "https://birdlife.org.au/",
+							"display_url": "birdlife.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26995,
+			"friends_count": 953,
+			"listed_count": 419,
+			"created_at": "Tue May 18 06:05:23 +0000 2010",
+			"favourites_count": 12966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1580EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1784228777/twitter-logo-bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145136771/1663384589",
+			"profile_link_color": "003A80",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B6B8B1",
+			"profile_text_color": "0F0E0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #AussieBirdCount starts TOMORROW and runs til Oct 23!\n\nLast year we had over 100k people count birds, and 4,936,509 birds counted. Will we crack 5 million this year?\n\nIt takes 20 minutes, is super easy, and today's your last chance to register: https://t.co/9BSwsfF9Ja https://t.co/3XQk80Gy0P"
+	},
+	{
 		"created_at": "Sat Oct 15 05:32:00 +0000 2022",
 		"id": 1581155912668287000,
 		"id_str": "1581155912668286976",
