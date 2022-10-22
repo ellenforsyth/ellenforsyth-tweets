@@ -1,6 +1,800 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 22:40:58 +0000 2022",
+		"id": 1583589187412164600,
+		"id_str": "1583589187412164608",
+		"full_text": "@AlecaDell @historyvictoria @PRO_Vic @AMigrationHN Congratulations - it is a fabulous book. Thank you for writing it. I have used some phrases from it (with attribution) and have been encouraging other people to read it (including local studies staff in public libraries).",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlecaDell",
+					"name": "Alexandra Dellios",
+					"id": 263878175,
+					"id_str": "263878175",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "historyvictoria",
+					"name": "RHSV",
+					"id": 359209222,
+					"id_str": "359209222",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "PRO_Vic",
+					"name": "PRO Victoria",
+					"id": 137539905,
+					"id_str": "137539905",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"screen_name": "AMigrationHN",
+					"name": "Australian Migration History Network",
+					"id": 958881932485382100,
+					"id_str": "958881932485382152",
+					"indices": [
+						37,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1583291035072966700,
+		"in_reply_to_status_id_str": "1583291035072966656",
+		"in_reply_to_user_id": 263878175,
+		"in_reply_to_user_id_str": "263878175",
+		"in_reply_to_screen_name": "AlecaDell",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2329,
+			"friends_count": 985,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlecaDell @historyvictoria @PRO_Vic @AMigrationHN Congratulations - it is a fabulous book. Thank you for writing it. I have used some phrases from it (with attribution) and have been encouraging other people to read it (including local studies staff in public libraries)."
+	},
+	{
+		"created_at": "Fri Oct 21 22:03:05 +0000 2022",
+		"id": 1465992541250195500,
+		"id_str": "1583579651401994240",
+		"full_text": "Please share! \n\nOur list of Best Books of 2021 is available now at American Indians in Children's Literature: https://t.co/lU2VZRQrid #NativeTwitter #IndigenousTwitter https://t.co/q7Mxu9NYWp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NativeTwitter",
+					"indices": [
+						134,
+						148
+					]
+				},
+				{
+					"text": "IndigenousTwitter",
+					"indices": [
+						149,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lU2VZRQrid",
+					"expanded_url": "https://americanindiansinchildrensliterature.blogspot.com/2021/12/aicls-best-books-of-2020.html",
+					"display_url": "…ansinchildrensliterature.blogspot.com/2021/12/aicls-…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465992334395551700,
+					"id_str": "1465992334395551752",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FFhAQs8XsAgPVV2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFhAQs8XsAgPVV2.jpg",
+					"url": "https://t.co/q7Mxu9NYWp",
+					"display_url": "pic.twitter.com/q7Mxu9NYWp",
+					"expanded_url": "https://twitter.com/debreese/status/1465992541250195457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 910,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 974,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465992334395551700,
+					"id_str": "1465992334395551752",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FFhAQs8XsAgPVV2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFhAQs8XsAgPVV2.jpg",
+					"url": "https://t.co/q7Mxu9NYWp",
+					"display_url": "pic.twitter.com/q7Mxu9NYWp",
+					"expanded_url": "https://twitter.com/debreese/status/1465992541250195457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 910,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 974,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19234329,
+			"id_str": "19234329",
+			"name": "Debbie Reese (tribally enrolled, Nambé Pueblo)",
+			"screen_name": "debreese",
+			"location": "My homelands: Nambé Pueblo",
+			"description": "Tewa Name: P'oesay P'oekwîn \nFounder: American Indians in Children's Literature\nPhD Education;  ALA's 2019 Arbuthnot Lecturer; she/her.",
+			"url": "https://t.co/NVQ6HsQuy1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NVQ6HsQuy1",
+							"expanded_url": "http://americanindiansinchildrensliterature.net",
+							"display_url": "…ricanindiansinchildrensliterature.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41518,
+			"friends_count": 2245,
+			"listed_count": 696,
+			"created_at": "Tue Jan 20 12:46:28 +0000 2009",
+			"favourites_count": 25346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276171239506280449/oU8cKF5b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276171239506280449/oU8cKF5b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19234329/1397522755",
+			"profile_link_color": "010101",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 237,
+		"favorite_count": 422,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please share! \n\nOur list of Best Books of 2021 is available now at American Indians in Children's Literature: https://t.co/lU2VZRQrid #NativeTwitter #IndigenousTwitter https://t.co/q7Mxu9NYWp"
+	},
+	{
+		"created_at": "Fri Oct 21 21:30:00 +0000 2022",
+		"id": 1583571325733703700,
+		"id_str": "1583571325733703680",
+		"full_text": "Helpful ideas for libraries to consider too via #JohnVincent https://t.co/w5NcPrxzHH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JohnVincent",
+					"indices": [
+						48,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w5NcPrxzHH",
+					"expanded_url": "https://twitter.com/kidsinmuseums/status/1488876598375952388",
+					"display_url": "twitter.com/kidsinmuseums/…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2329,
+			"friends_count": 985,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1488876598375952400,
+		"quoted_status_id_str": "1488876598375952388",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w5NcPrxzHH",
+			"expanded": "https://twitter.com/kidsinmuseums/status/1488876598375952388",
+			"display": "twitter.com/kidsinmuseums/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 02 14:06:57 +0000 2022",
+			"id": 1488876598375952400,
+			"id_str": "1488876598375952388",
+			"full_text": "How can your museum engage children, young people and families with LGBTQ+ heritage?\n\nNew resource now live on our website! 🚨 https://t.co/wtlatNZUAF #LGBTHM22 #QueerMuseums  #LGBTplusHM\n\nA big thank you to @magmidd and all who contributed to the resource. https://t.co/24DhiJZsOE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				256
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LGBTHM22",
+						"indices": [
+							150,
+							159
+						]
+					},
+					{
+						"text": "QueerMuseums",
+						"indices": [
+							160,
+							173
+						]
+					},
+					{
+						"text": "LGBTplusHM",
+						"indices": [
+							175,
+							186
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "magmidd",
+						"name": "Margaret Middleton",
+						"id": 1700058480,
+						"id_str": "1700058480",
+						"indices": [
+							207,
+							215
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wtlatNZUAF",
+						"expanded_url": "http://bit.ly/3HmZeXr",
+						"display_url": "bit.ly/3HmZeXr",
+						"indices": [
+							126,
+							149
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1488822141407670300,
+						"id_str": "1488822141407670273",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/media/FKlb2XhXMAEvUWu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKlb2XhXMAEvUWu.jpg",
+						"url": "https://t.co/24DhiJZsOE",
+						"display_url": "pic.twitter.com/24DhiJZsOE",
+						"expanded_url": "https://twitter.com/kidsinmuseums/status/1488876598375952388/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1363,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 798,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1488822141407670300,
+						"id_str": "1488822141407670273",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/media/FKlb2XhXMAEvUWu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKlb2XhXMAEvUWu.jpg",
+						"url": "https://t.co/24DhiJZsOE",
+						"display_url": "pic.twitter.com/24DhiJZsOE",
+						"expanded_url": "https://twitter.com/kidsinmuseums/status/1488876598375952388/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1363,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 798,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28099702,
+				"id_str": "28099702",
+				"name": "Kids in Museums",
+				"screen_name": "kidsinmuseums",
+				"location": "London",
+				"description": "We work with museums, heritage sites and cultural organisations to help them welcome and include children, young people and families.",
+				"url": "https://t.co/DDSjs68HGC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DDSjs68HGC",
+								"expanded_url": "http://kidsinmuseums.org.uk",
+								"display_url": "kidsinmuseums.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37773,
+				"friends_count": 6796,
+				"listed_count": 844,
+				"created_at": "Wed Apr 01 12:55:22 +0000 2009",
+				"favourites_count": 27009,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 56124,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1478299862563229696/O8nE5MmT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478299862563229696/O8nE5MmT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28099702/1656405871",
+				"profile_link_color": "4A8FA8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Helpful ideas for libraries to consider too via #JohnVincent https://t.co/w5NcPrxzHH"
+	},
+	{
+		"created_at": "Fri Oct 21 19:39:02 +0000 2022",
+		"id": 1583543400552222700,
+		"id_str": "1583543400552222720",
+		"full_text": "@cfwriter And there is some brush turkeys specific research too see https://t.co/3hFWW8UoZX",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfwriter",
+					"name": "Dr Rachel Franks (she, her)",
+					"id": 52325959,
+					"id_str": "52325959",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3hFWW8UoZX",
+					"expanded_url": "https://www.spotteron.com/bigcitybirds/info",
+					"display_url": "spotteron.com/bigcitybirds/i…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1583542914415591400,
+		"in_reply_to_status_id_str": "1583542914415591425",
+		"in_reply_to_user_id": 16970274,
+		"in_reply_to_user_id_str": "16970274",
+		"in_reply_to_screen_name": "ellenforsyth",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2329,
+			"friends_count": 985,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@cfwriter And there is some brush turkeys specific research too see https://t.co/3hFWW8UoZX"
+	},
+	{
 		"created_at": "Thu Oct 20 23:04:36 +0000 2022",
 		"id": 1583232747916910600,
 		"id_str": "1583232747916910593",
