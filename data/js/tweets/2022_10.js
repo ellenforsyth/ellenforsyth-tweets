@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 05:10:57 +0000 2022",
+		"id": 1584412104962216000,
+		"id_str": "1584412104962215937",
+		"full_text": "If you are in a very wet area, with wombats, please check under your car. See this post by @Wombat_Rescue https://t.co/eRHJuV7Lgo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wombat_Rescue",
+					"name": "Wombat Rescue",
+					"id": 1065360852885286900,
+					"id_str": "1065360852885286913",
+					"indices": [
+						91,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eRHJuV7Lgo",
+					"expanded_url": "https://twitter.com/Wombat_Rescue/status/1584119451477164032",
+					"display_url": "twitter.com/Wombat_Rescue/…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2330,
+			"friends_count": 986,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 9995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1584119451477164000,
+		"quoted_status_id_str": "1584119451477164032",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eRHJuV7Lgo",
+			"expanded": "https://twitter.com/Wombat_Rescue/status/1584119451477164032",
+			"display": "twitter.com/Wombat_Rescue/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 23 09:48:03 +0000 2022",
+			"id": 1584119451477164000,
+			"id_str": "1584119451477164032",
+			"full_text": "Just posted a photo https://t.co/ghvJPRFUba",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ghvJPRFUba",
+						"expanded_url": "https://www.instagram.com/p/CkDT-yRhNbF/?igshid=YTgzYjQ4ZTY=",
+						"display_url": "instagram.com/p/CkDT-yRhNbF/…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1065360852885286900,
+				"id_str": "1065360852885286913",
+				"name": "Wombat Rescue",
+				"screen_name": "Wombat_Rescue",
+				"location": "Australian Capital Territory",
+				"description": "To protect, support and rescue wombats through education, advocacy and in-field services",
+				"url": "https://t.co/6gMqbUnWlX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6gMqbUnWlX",
+								"expanded_url": "http://www.wombatrescue.com.au",
+								"display_url": "wombatrescue.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 131,
+				"friends_count": 26,
+				"listed_count": 1,
+				"created_at": "Wed Nov 21 21:46:35 +0000 2018",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 198,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1065365639819227136/jQs-AkdE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065365639819227136/jQs-AkdE_normal.jpg",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are in a very wet area, with wombats, please check under your car. See this post by @Wombat_Rescue https://t.co/eRHJuV7Lgo"
+	},
+	{
 		"created_at": "Fri Oct 21 22:40:58 +0000 2022",
 		"id": 1583589187412164600,
 		"id_str": "1583589187412164608",
