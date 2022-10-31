@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 30 21:09:54 +0000 2022",
+		"id": 1586827760772984800,
+		"id_str": "1586827760772984832",
+		"full_text": "More black books please https://t.co/K5i1uETKeT via @publiclibnews UK research with parents - relevant for Australia too",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "publiclibnews",
+					"name": "Public Libraries News",
+					"id": 84678666,
+					"id_str": "84678666",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K5i1uETKeT",
+					"expanded_url": "https://www.voice-online.co.uk/news/features-news/2022/10/11/more-black-books-please/#.Y17n1nvODa8.twitter",
+					"display_url": "voice-online.co.uk/news/features-…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, content creation, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country.",
+			"url": "https://t.co/KIxKPRNDhv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPRNDhv",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 984,
+			"listed_count": 216,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 10050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More black books please https://t.co/K5i1uETKeT via @publiclibnews UK research with parents - relevant for Australia too"
+	},
+	{
+		"created_at": "Sun Oct 30 20:59:35 +0000 2022",
+		"id": 1585618739617202200,
+		"id_str": "1586825162766581762",
+		"full_text": "\"Birdsong would have once been the natural soundtrack to all human lives, and I do think that it is embedded somewhere deep within our psyches” 🐦 New research from the UK suggests that hearing birdsong has a beneficial effect on mental health: https://t.co/JIDI7aOCCR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JIDI7aOCCR",
+					"expanded_url": "https://www.theguardian.com/environment/2022/oct/27/bird-birdsong-encounters-improve-mental-health-study",
+					"display_url": "theguardian.com/environment/20…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2233320109,
+			"id_str": "2233320109",
+			"name": "Cities and Memory 🇺🇦",
+			"screen_name": "citiesandmemory",
+			"location": "Oxford, UK",
+			"description": "One of the world's biggest sound & #fieldrecording projects: remixing the world, one sound at a time. 1,000+ contributors, 100+ countries. Made by @stuartfowkes",
+			"url": "https://t.co/pcYi4gnaMh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pcYi4gnaMh",
+							"expanded_url": "http://www.citiesandmemory.com",
+							"display_url": "citiesandmemory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8881,
+			"friends_count": 6958,
+			"listed_count": 218,
+			"created_at": "Fri Dec 06 17:44:22 +0000 2013",
+			"favourites_count": 4219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529751902564626433/PONqRYv4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529751902564626433/PONqRYv4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2233320109/1653556668",
+			"profile_link_color": "036A8F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Birdsong would have once been the natural soundtrack to all human lives, and I do think that it is embedded somewhere deep within our psyches” 🐦 New research from the UK suggests that hearing birdsong has a beneficial effect on mental health: https://t.co/JIDI7aOCCR"
+	},
+	{
 		"created_at": "Sat Oct 29 21:25:36 +0000 2022",
 		"id": 1584530772060672000,
 		"id_str": "1586469323098714112",
