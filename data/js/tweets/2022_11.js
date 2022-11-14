@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 13 21:12:46 +0000 2022",
+		"id": 1590844345057673200,
+		"id_str": "1591901913687404545",
+		"full_text": "Growing up in Cuba, Angela Alvarez wanted to be a singer. \n\nIt now almost seems impossible that her long-held dream has become a reality: Alvarez, 95, was nominated for a Latin Grammy for best new artist. https://t.co/mfmgkKWtla",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mfmgkKWtla",
+					"expanded_url": "https://wapo.st/3WT5wpG",
+					"display_url": "wapo.st/3WT5wpG",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2467791,
+			"id_str": "2467791",
+			"name": "The Washington Post",
+			"screen_name": "washingtonpost",
+			"location": "Washington, DC",
+			"description": "Democracy Dies in Darkness",
+			"url": "https://t.co/1KN78z0bbe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1KN78z0bbe",
+							"expanded_url": "http://washingtonpost.com",
+							"display_url": "washingtonpost.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19947591,
+			"friends_count": 1711,
+			"listed_count": 107920,
+			"created_at": "Tue Mar 27 11:19:39 +0000 2007",
+			"favourites_count": 4154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 444773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "333333",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060271522319925257/fJKwJ0r2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+			"profile_link_color": "0057EC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DBDBDB",
+			"profile_text_color": "323232",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Growing up in Cuba, Angela Alvarez wanted to be a singer. \n\nIt now almost seems impossible that her long-held dream has become a reality: Alvarez, 95, was nominated for a Latin Grammy for best new artist. https://t.co/mfmgkKWtla"
+	},
+	{
 		"created_at": "Thu Nov 10 21:25:51 +0000 2022",
 		"id": 1590818038747902000,
 		"id_str": "1590818038747901952",
