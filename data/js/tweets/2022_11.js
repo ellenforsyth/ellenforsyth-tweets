@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 07:14:55 +0000 2022",
+		"id": 1593503000995451000,
+		"id_str": "1593503000995450880",
+		"full_text": "@Alison_Wish @SClib @statelibrarynsw @cfwriter I forgot to photograph the room with everyone in it. Only have a photograph of it when empty.",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Alison_Wish",
+					"name": "Alison Wishart",
+					"id": 3002807360,
+					"id_str": "3002807360",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "SClib",
+					"name": "尾木 聡",
+					"id": 2578335133,
+					"id_str": "2578335133",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"screen_name": "statelibrarynsw",
+					"name": "State Library of NSW",
+					"id": 121597205,
+					"id_str": "121597205",
+					"indices": [
+						20,
+						36
+					]
+				},
+				{
+					"screen_name": "cfwriter",
+					"name": "Dr Rachel Franks (she, her)",
+					"id": 52325959,
+					"id_str": "52325959",
+					"indices": [
+						37,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1593402249950027800,
+		"in_reply_to_status_id_str": "1593402249950027777",
+		"in_reply_to_user_id": 3002807360,
+		"in_reply_to_user_id_str": "3002807360",
+		"in_reply_to_screen_name": "Alison_Wish",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country. @ellenforsyth@ausglam.space",
+			"url": "https://t.co/KIxKPS5MvD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPS5MvD",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2309,
+			"friends_count": 978,
+			"listed_count": 213,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 10195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Alison_Wish @SClib @statelibrarynsw @cfwriter I forgot to photograph the room with everyone in it. Only have a photograph of it when empty."
+	},
+	{
 		"created_at": "Wed Nov 16 18:13:25 +0000 2022",
 		"id": 1592747366406582300,
 		"id_str": "1592943941787463686",
