@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 21:16:59 +0000 2022",
+		"id": 1593292888267542500,
+		"id_str": "1593714913452920832",
+		"full_text": "Love this idea https://t.co/TBKNjKkfAG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TBKNjKkfAG",
+					"expanded_url": "https://twitter.com/vantine/status/1593292505520521220",
+					"display_url": "twitter.com/vantine/status…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford (she/her)",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the public library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97, P '24 @HorrorWriters Secretary.",
+			"url": "https://t.co/mgx26gRKzg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mgx26gRKzg",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4974,
+			"friends_count": 3229,
+			"listed_count": 144,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 41896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1614280328",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1593292505520521200,
+		"quoted_status_id_str": "1593292505520521220",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TBKNjKkfAG",
+			"expanded": "https://twitter.com/vantine/status/1593292505520521220",
+			"display": "twitter.com/vantine/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 17 17:18:29 +0000 2022",
+			"id": 1593292505520521200,
+			"id_str": "1593292505520521220",
+			"full_text": "Books that could be best friends as a #bookdisplay. \nBy this I mean books that work together with similar characters, themes, tone, and so forth… which books do you think should be besties?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bookdisplay",
+						"indices": [
+							38,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16698448,
+				"id_str": "16698448",
+				"name": "Lila🦇",
+				"screen_name": "vantine",
+				"location": "",
+				"description": "Librarian -Into #bookdisplays, #passivereadadv and #collectiondevelopment for everyone at every age. Volunteer manager HWA Also MA -Holocaust/Antisemitism.",
+				"url": "https://t.co/EV4tLCXnnM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EV4tLCXnnM",
+								"expanded_url": "https://bookdisplays.blogspot.com",
+								"display_url": "bookdisplays.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1244,
+				"friends_count": 1938,
+				"listed_count": 43,
+				"created_at": "Sat Oct 11 18:11:39 +0000 2008",
+				"favourites_count": 110796,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22883,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4C686B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1569836330925826053/Gh-pnaAF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569836330925826053/Gh-pnaAF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16698448/1459653299",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love this idea https://t.co/TBKNjKkfAG"
+	},
+	{
 		"created_at": "Fri Nov 18 07:14:55 +0000 2022",
 		"id": 1593503000995451000,
 		"id_str": "1593503000995450880",
