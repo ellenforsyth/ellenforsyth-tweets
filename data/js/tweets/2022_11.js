@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 24 22:50:56 +0000 2022",
+		"id": 1595831320738816000,
+		"id_str": "1595912882163974144",
+		"full_text": "Buy art for your wall or jewelry for your body that is created by Native people, but do this, too:\n\nBuy children's and young adult books created by Native people! They tell damn good stories, AND, they interrupt the stereotyping and bias that is pervasive in children's bks.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19234329,
+			"id_str": "19234329",
+			"name": "Debbie Reese (tribally enrolled, Nambé Pueblo)",
+			"screen_name": "debreese",
+			"location": "My homelands: Nambé Pueblo",
+			"description": "Tewa Name: P'oesay P'oekwîn \nFounder: American Indians in Children's Literature\nPhD Education;  ALA's 2019 Arbuthnot Lecturer; she/her.",
+			"url": "https://t.co/NVQ6HsQuy1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NVQ6HsQuy1",
+							"expanded_url": "http://americanindiansinchildrensliterature.net",
+							"display_url": "…ricanindiansinchildrensliterature.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40380,
+			"friends_count": 2187,
+			"listed_count": 681,
+			"created_at": "Tue Jan 20 12:46:28 +0000 2009",
+			"favourites_count": 25358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276171239506280449/oU8cKF5b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276171239506280449/oU8cKF5b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19234329/1397522755",
+			"profile_link_color": "010101",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 325,
+		"favorite_count": 1032,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Buy art for your wall or jewelry for your body that is created by Native people, but do this, too:\n\nBuy children's and young adult books created by Native people! They tell damn good stories, AND, they interrupt the stereotyping and bias that is pervasive in children's bks."
+	},
+	{
 		"created_at": "Wed Nov 23 19:13:06 +0000 2022",
 		"id": 1595493913346904000,
 		"id_str": "1595495673197219840",
