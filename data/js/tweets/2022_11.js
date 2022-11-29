@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 28 23:51:19 +0000 2022",
+		"id": 1597153329058021400,
+		"id_str": "1597377629719756800",
+		"full_text": "Out today! The world's biggest collection of obsolete and disappearing sounds, from VHS, video games and modems to cultural traditions, industrial practices and endangered natural sounds. This is Obsolete Sounds 📼 🎧",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2233320109,
+			"id_str": "2233320109",
+			"name": "Cities and Memory 🇺🇦",
+			"screen_name": "citiesandmemory",
+			"location": "Oxford, UK",
+			"description": "One of the world's biggest sound & #fieldrecording projects: remixing the world, one sound at a time. 1,000+ contributors, 100+ countries. Made by @stuartfowkes",
+			"url": "https://t.co/pcYi4gnaMh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pcYi4gnaMh",
+							"expanded_url": "http://www.citiesandmemory.com",
+							"display_url": "citiesandmemory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8927,
+			"friends_count": 6906,
+			"listed_count": 221,
+			"created_at": "Fri Dec 06 17:44:22 +0000 2013",
+			"favourites_count": 4297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1529751902564626433/PONqRYv4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529751902564626433/PONqRYv4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2233320109/1653556668",
+			"profile_link_color": "036A8F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 356,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Out today! The world's biggest collection of obsolete and disappearing sounds, from VHS, video games and modems to cultural traditions, industrial practices and endangered natural sounds. This is Obsolete Sounds 📼 🎧"
+	},
+	{
 		"created_at": "Sun Nov 27 21:51:05 +0000 2022",
 		"id": 1596984800761774000,
 		"id_str": "1596984984874598401",
