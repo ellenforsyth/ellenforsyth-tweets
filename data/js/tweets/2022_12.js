@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 09 22:16:48 +0000 2022",
+		"id": 1601340111832371200,
+		"id_str": "1601340111832371200",
+		"full_text": "this looks amazing https://t.co/wzg9ZICIAx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wzg9ZICIAx",
+					"expanded_url": "https://twitter.com/transgressnorth/status/1600833305074548736",
+					"display_url": "twitter.com/transgressnort…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country. @ellenforsyth@ausglam.space",
+			"url": "https://t.co/KIxKPS5MvD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPS5MvD",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2286,
+			"friends_count": 966,
+			"listed_count": 212,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 10295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1600833305074548700,
+		"quoted_status_id_str": "1600833305074548736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wzg9ZICIAx",
+			"expanded": "https://twitter.com/transgressnorth/status/1600833305074548736",
+			"display": "twitter.com/transgressnort…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 08 12:42:56 +0000 2022",
+			"id": 1600833305074548700,
+			"id_str": "1600833305074548736",
+			"full_text": "We are very excited to share https://t.co/ZPxgy8waJI - a brand new interactive, open-access website that seeks to open up a magical gateway to Scotland’s diverse oral storytelling traditions, made in collaboration with Rectangle Design and TRACS #YS2022 #TalesOfScotland https://t.co/Qp7Hg5578u",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "YS2022",
+						"indices": [
+							246,
+							253
+						]
+					},
+					{
+						"text": "TalesOfScotland",
+						"indices": [
+							254,
+							270
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZPxgy8waJI",
+						"expanded_url": "http://mapofstories.scot",
+						"display_url": "mapofstories.scot",
+						"indices": [
+							29,
+							52
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1600832354087485400,
+						"id_str": "1600832354087485440",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/FjdMi2JWQAAIuxD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FjdMi2JWQAAIuxD.jpg",
+						"url": "https://t.co/Qp7Hg5578u",
+						"display_url": "pic.twitter.com/Qp7Hg5578u",
+						"expanded_url": "https://twitter.com/transgressnorth/status/1600833305074548736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 566,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1705,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 999,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1600832354087485400,
+						"id_str": "1600832354087485440",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/FjdMi2JWQAAIuxD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FjdMi2JWQAAIuxD.jpg",
+						"url": "https://t.co/Qp7Hg5578u",
+						"display_url": "pic.twitter.com/Qp7Hg5578u",
+						"expanded_url": "https://twitter.com/transgressnorth/status/1600833305074548736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 566,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1705,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 999,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 204400146,
+				"id_str": "204400146",
+				"name": "Transgressive North",
+				"screen_name": "transgressnorth",
+				"location": "Edinburgh",
+				"description": "We make films and music, run the Folk Film Gathering and the Film Education Journal. New project: https://t.co/IGZ7nGg52S",
+				"url": "https://t.co/WfCtECfrYX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WfCtECfrYX",
+								"expanded_url": "http://www.transgressivenorth.com",
+								"display_url": "transgressivenorth.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IGZ7nGg52S",
+								"expanded_url": "http://mapofstories.scot",
+								"display_url": "mapofstories.scot",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1169,
+				"friends_count": 1896,
+				"listed_count": 13,
+				"created_at": "Mon Oct 18 16:20:39 +0000 2010",
+				"favourites_count": 6958,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2573,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1598632609801805824/oJhmGbQb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1598632609801805824/oJhmGbQb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/204400146/1665833725",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 199,
+			"favorite_count": 541,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this looks amazing https://t.co/wzg9ZICIAx"
+	},
+	{
+		"created_at": "Fri Dec 09 21:21:37 +0000 2022",
+		"id": 1601326223535526000,
+		"id_str": "1601326223535525888",
+		"full_text": "While this is about a cat, think about it in terms of local studies in libraries... https://t.co/ichVOvKkNb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ichVOvKkNb",
+					"expanded_url": "https://twitter.com/knitsonik/status/1594767485969973248",
+					"display_url": "twitter.com/knitsonik/stat…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country. @ellenforsyth@ausglam.space",
+			"url": "https://t.co/KIxKPS5MvD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPS5MvD",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2286,
+			"friends_count": 966,
+			"listed_count": 212,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 10295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1594767485969973200,
+		"quoted_status_id_str": "1594767485969973248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ichVOvKkNb",
+			"expanded": "https://twitter.com/knitsonik/status/1594767485969973248",
+			"display": "twitter.com/knitsonik/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 21 18:59:32 +0000 2022",
+			"id": 1594767485969973200,
+			"id_str": "1594767485969973248",
+			"full_text": "Baker Lang: a glorious knitted ode to a well-loved cat https://t.co/32rxjI9jYR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/32rxjI9jYR",
+						"expanded_url": "https://www.knitsonik.com/2022/11/21/baker-lang-a-glorious-knitted-ode-to-a-well-loved-cat/",
+						"display_url": "knitsonik.com/2022/11/21/bak…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">Jetpack.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18935811,
+				"id_str": "18935811",
+				"name": "Felicity (Felix) Ford ♥️🇪🇺",
+				"screen_name": "knitsonik",
+				"location": "Reading, UK",
+				"description": "Celebrating daily life through creative process. Missy Elliott Superfan. Publisher of KNITSONIK books, projects and courses: https://t.co/X4rwgOLTYc",
+				"url": "https://t.co/2s0pkRteqR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2s0pkRteqR",
+								"expanded_url": "https://knitsonik.com/",
+								"display_url": "knitsonik.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/X4rwgOLTYc",
+								"expanded_url": "http://linktr.ee/knitsonik",
+								"display_url": "linktr.ee/knitsonik",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3417,
+				"friends_count": 1359,
+				"listed_count": 102,
+				"created_at": "Tue Jan 13 11:47:04 +0000 2009",
+				"favourites_count": 18165,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12266,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1571895456015212544/d0Yp0uW0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571895456015212544/d0Yp0uW0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18935811/1663604084",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "While this is about a cat, think about it in terms of local studies in libraries... https://t.co/ichVOvKkNb"
+	},
+	{
 		"created_at": "Wed Dec 07 20:04:29 +0000 2022",
 		"id": 1600582035835588600,
 		"id_str": "1600582035835588608",
