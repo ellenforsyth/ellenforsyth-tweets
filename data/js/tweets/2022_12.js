@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 03:28:46 +0000 2022",
+		"id": 1601781006075572200,
+		"id_str": "1601781006075572224",
+		"full_text": "@AnitaHeiss @citedesarts @AusCouncilArts @SimonSchusterAU sounds busy and fabulous - happy writing and have fun visiting libraries",
+		"truncated": false,
+		"display_text_range": [
+			58,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnitaHeiss",
+					"name": "Prof Anita Heiss AM",
+					"id": 42200093,
+					"id_str": "42200093",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "citedesarts",
+					"name": "Cité inter. des arts",
+					"id": 76590358,
+					"id_str": "76590358",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "AusCouncilArts",
+					"name": "Australia Council",
+					"id": 135364687,
+					"id_str": "135364687",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "SimonSchusterAU",
+					"name": "SimonSchusterANZ",
+					"id": 39650175,
+					"id_str": "39650175",
+					"indices": [
+						41,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1601742187389415400,
+		"in_reply_to_status_id_str": "1601742187389415426",
+		"in_reply_to_user_id": 42200093,
+		"in_reply_to_user_id_str": "42200093",
+		"in_reply_to_screen_name": "AnitaHeiss",
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country. @ellenforsyth@ausglam.space",
+			"url": "https://t.co/KIxKPS5MvD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPS5MvD",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2286,
+			"friends_count": 965,
+			"listed_count": 212,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 10301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AnitaHeiss @citedesarts @AusCouncilArts @SimonSchusterAU sounds busy and fabulous - happy writing and have fun visiting libraries"
+	},
+	{
 		"created_at": "Fri Dec 09 22:16:48 +0000 2022",
 		"id": 1601340111832371200,
 		"id_str": "1601340111832371200",
