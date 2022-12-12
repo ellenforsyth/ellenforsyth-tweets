@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 08:54:39 +0000 2022",
+		"id": 1601863017939226600,
+		"id_str": "1601863017939226624",
+		"full_text": "Some potentially fun (as well as some scary) baking ideas. https://t.co/uhQ3TIWaTr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uhQ3TIWaTr",
+					"expanded_url": "https://twitter.com/nlagovau/status/1601782345564135424",
+					"display_url": "twitter.com/nlagovau/statu…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16970274,
+			"id_str": "16970274",
+			"name": "ellen forsyth (she/her)",
+			"screen_name": "ellenforsyth",
+			"location": "NSW, Australia",
+			"description": "😷 libraries, reading, local studies, games, climate and a few other things. The opinions are my own. On Gadigal and Wangal country. @ellenforsyth@ausglam.space",
+			"url": "https://t.co/KIxKPS5MvD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KIxKPS5MvD",
+							"expanded_url": "http://readplayparticipate.blogspot.com/",
+							"display_url": "readplayparticipate.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2286,
+			"friends_count": 965,
+			"listed_count": 212,
+			"created_at": "Sat Oct 25 19:15:16 +0000 2008",
+			"favourites_count": 10309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "001329",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088585514247061504/5UI3uYwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16970274/1645174236",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "004358",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1601782345564135400,
+		"quoted_status_id_str": "1601782345564135424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uhQ3TIWaTr",
+			"expanded": "https://twitter.com/nlagovau/status/1601782345564135424",
+			"display": "twitter.com/nlagovau/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 11 03:34:05 +0000 2022",
+			"id": 1601782345564135400,
+			"id_str": "1601782345564135424",
+			"full_text": "We've recently digitised over 50 cookbooks and you can now access them from home in Trove.\n\nThanks to a generous multi-year gift from the Australian Ethical Food Group, there's also more cookbooks on the way!\n\nBrowse cookbooks in Trove: https://t.co/jsEthasuQf https://t.co/IP8940ZwXS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jsEthasuQf",
+						"expanded_url": "https://bit.ly/3iJeCpy",
+						"display_url": "bit.ly/3iJeCpy",
+						"indices": [
+							237,
+							260
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1601782324567351300,
+						"id_str": "1601782324567351296",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/FjqsiZ9WIAAmpVD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FjqsiZ9WIAAmpVD.jpg",
+						"url": "https://t.co/IP8940ZwXS",
+						"display_url": "pic.twitter.com/IP8940ZwXS",
+						"expanded_url": "https://twitter.com/nlagovau/status/1601782345564135424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1805,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 798,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1601782324567351300,
+						"id_str": "1601782324567351296",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/FjqsiZ9WIAAmpVD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FjqsiZ9WIAAmpVD.jpg",
+						"url": "https://t.co/IP8940ZwXS",
+						"display_url": "pic.twitter.com/IP8940ZwXS",
+						"expanded_url": "https://twitter.com/nlagovau/status/1601782345564135424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1805,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 798,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42354375,
+				"id_str": "42354375",
+				"name": "National Library of Australia",
+				"screen_name": "nlagovau",
+				"location": "Canberra, Australia",
+				"description": "We collect, preserve and make accessible the best Australian stories. Read all about it.",
+				"url": "https://t.co/49MbLCt9G8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/49MbLCt9G8",
+								"expanded_url": "http://www.nla.gov.au",
+								"display_url": "nla.gov.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47817,
+				"friends_count": 424,
+				"listed_count": 1022,
+				"created_at": "Mon May 25 05:09:03 +0000 2009",
+				"favourites_count": 10763,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14019,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001285927136718848/0TmXDd3r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42354375/1668568282",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some potentially fun (as well as some scary) baking ideas. https://t.co/uhQ3TIWaTr"
+	},
+	{
 		"created_at": "Sun Dec 11 03:28:46 +0000 2022",
 		"id": 1601781006075572200,
 		"id_str": "1601781006075572224",
