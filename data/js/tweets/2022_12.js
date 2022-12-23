@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Fri Dec 23 03:07:11 +0000 2022",
+		"id": 1606086139664011300,
+		"id_str": "1606124228993875969",
+		"full_text": "A must read for all who love Trove, by ⁦@MikeJonesPhD⁩ &amp; ⁦@bestqualitycrab⁩ :\n‘We need a comprehensive health strategy for all our national cultural institutions. We need sustainable, recurrent funding.’ #FundTrove #SaveTrove  https://t.co/iNX25AwhXR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FundTrove",
+					"indices": [
+						208,
+						218
+					]
+				},
+				{
+					"text": "SaveTrove",
+					"indices": [
+						219,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikeJonesPhD",
+					"name": "Dr Mike Jones",
+					"id": 386814685,
+					"id_str": "386814685",
+					"indices": [
+						40,
+						53
+					]
+				},
+				{
+					"screen_name": "bestqualitycrab",
+					"name": "deb verhoeven",
+					"id": 78442404,
+					"id_str": "78442404",
+					"indices": [
+						62,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iNX25AwhXR",
+					"expanded_url": "https://theconversation.com/troves-funding-runs-out-in-july-2023-and-the-national-library-is-threatening-to-pull-the-plug-its-time-for-a-radical-overhaul-197025",
+					"display_url": "theconversation.com/troves-funding…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 592216694,
+			"id_str": "592216694",
+			"name": "Michelle Arrow",
+			"screen_name": "MichelleArrow1",
+			"location": "Sydney",
+			"description": "Historian. Author, The Seventies (2019). Writing a biography of Anne Deveson. Whitlam Institute Fellow. She/her. Views my own. https://t.co/I7v78ooxI5",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/I7v78ooxI5",
+							"expanded_url": "http://newsouthbooks.com.au/books",
+							"display_url": "newsouthbooks.com.au/books",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5526,
+			"friends_count": 2122,
+			"listed_count": 49,
+			"created_at": "Sun May 27 23:11:14 +0000 2012",
+			"favourites_count": 56936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084578186187296768/v_re_vWf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084578186187296768/v_re_vWf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/592216694/1550719534",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A must read for all who love Trove, by ⁦@MikeJonesPhD⁩ &amp; ⁦@bestqualitycrab⁩ :\n‘We need a comprehensive health strategy for all our national cultural institutions. We need sustainable, recurrent funding.’ #FundTrove #SaveTrove  https://t.co/iNX25AwhXR"
+	},
+	{
 		"created_at": "Mon Dec 19 04:45:55 +0000 2022",
 		"id": 1604699526539145200,
 		"id_str": "1604699526539145216",
