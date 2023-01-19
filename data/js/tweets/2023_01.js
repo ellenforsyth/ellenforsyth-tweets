@@ -1,10 +1,125 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 18 10:04:55 +0000 2023",
+		"id": 1615644915295457300,
+		"id_str": "1615651442483933184",
+		"full_text": "‘A love letter to Australia's old school Chinese restaurants’ https://t.co/vMwczEcHFJ #chinozhist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chinozhist",
+					"indices": [
+						86,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vMwczEcHFJ",
+					"expanded_url": "https://www.sbs.com.au/news/article/a-love-letter-to-australias-old-school-chinese-restaurants/8d725cz3e?fbclid=IwAR2pRDMIGRLr_8SUxlv8y4mWLU68egm7FDuDnV253xRsTreP5UPlKrS5UjI",
+					"display_url": "sbs.com.au/news/article/a…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23577749,
+			"id_str": "23577749",
+			"name": "Kate Bagnall 白碧",
+			"screen_name": "baibi",
+			"location": "Hobart, Tasmania",
+			"description": "Chinese Australasian history. History of the family. Legal histories of migration and citizenship. @baibi@hcommons.social",
+			"url": "https://t.co/pFVGVLHtaS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pFVGVLHtaS",
+							"expanded_url": "http://chineseaustralia.org",
+							"display_url": "chineseaustralia.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2768,
+			"friends_count": 1845,
+			"listed_count": 86,
+			"created_at": "Tue Mar 10 10:33:57 +0000 2009",
+			"favourites_count": 18547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1597087897748144128/Rf-_ImDa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1597087897748144128/Rf-_ImDa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23577749/1669610404",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘A love letter to Australia's old school Chinese restaurants’ https://t.co/vMwczEcHFJ #chinozhist"
+	},
+	{
 		"created_at": "Tue Jan 10 09:58:28 +0000 2023",
 		"id": 1612750715256205300,
 		"id_str": "1612750715256205312",
-		"full_text": "How a great recipe hunt will help preserve, and contextualize, history via ⁦@washingtonpost⁩ importance of diversity in recipes (and other information) collected to tell the stories of a community. https://t.co/dJ8B9XhHFu",
+		"full_text": "How a great recipe hunt will help preserve, and contextualize, history via @washingtonpost importance of diversity in recipes (and other information) collected to tell the stories of a community. https://t.co/dJ8B9XhHFu",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +231,7 @@ Grailbird.data.tweets_2023_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "How a great recipe hunt will help preserve, and contextualize, history via ⁦@washingtonpost⁩ importance of diversity in recipes (and other information) collected to tell the stories of a community. https://t.co/dJ8B9XhHFu"
+		"text": "How a great recipe hunt will help preserve, and contextualize, history via @washingtonpost importance of diversity in recipes (and other information) collected to tell the stories of a community. https://t.co/dJ8B9XhHFu"
 	},
 	{
 		"created_at": "Mon Jan 09 09:21:35 +0000 2023",
