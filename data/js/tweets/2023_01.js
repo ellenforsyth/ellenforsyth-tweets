@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Sun Jan 22 06:02:44 +0000 2023",
+		"id": 1616928872116936700,
+		"id_str": "1617040046821117952",
+		"full_text": "I just read this in a mag: \"lose yourself in a gripping novel, literary classic or trashy chick lit instead\"\nI am SO FED UP with \"trashy\" being applied to romance, chick lit and women's fiction. Let's LOSE the work \"trashy\" to describe popular, emotionally uplifting fiction.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35406512,
+			"id_str": "35406512",
+			"name": "Anne Gracie",
+			"screen_name": "AnneGracie",
+			"location": "Australia",
+			"description": "I write historical romance for Berkley USA & Penguin Australia, I blog with the Word Wenches, I'm on FB, and I'm a creative procrastinator.",
+			"url": "http://t.co/tKa6AubkpG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tKa6AubkpG",
+							"expanded_url": "http://www.annegracie.com",
+							"display_url": "annegracie.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3390,
+			"friends_count": 2038,
+			"listed_count": 147,
+			"created_at": "Sun Apr 26 04:54:06 +0000 2009",
+			"favourites_count": 3419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2216275427/AnneGracie4a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2216275427/AnneGracie4a_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "7DA1B9",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I just read this in a mag: \"lose yourself in a gripping novel, literary classic or trashy chick lit instead\"\nI am SO FED UP with \"trashy\" being applied to romance, chick lit and women's fiction. Let's LOSE the work \"trashy\" to describe popular, emotionally uplifting fiction."
+	},
+	{
 		"created_at": "Wed Jan 18 10:04:55 +0000 2023",
 		"id": 1615644915295457300,
 		"id_str": "1615651442483933184",
