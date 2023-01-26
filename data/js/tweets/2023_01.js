@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 25 10:13:33 +0000 2023",
+		"id": 1618135097751765000,
+		"id_str": "1618190327160123393",
+		"full_text": "The 2022 Aussie Bird Count results are IN!\n\nDespite record rains and flooding across much of southern Australia, last year’s count saw more than 77,000 people submit over 124,000 bird counts. Together, we counted almost 4 million birds across the country!\n\n🖌️ @bottlefullorain https://t.co/CSWm9pE0td",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bottlefullorain",
+					"name": "Anna Wilson",
+					"id": 931312296,
+					"id_str": "931312296",
+					"indices": [
+						260,
+						276
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1618135076759298000,
+					"id_str": "1618135076759298049",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FnTFR3DWYAEJOnr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnTFR3DWYAEJOnr.jpg",
+					"url": "https://t.co/CSWm9pE0td",
+					"display_url": "pic.twitter.com/CSWm9pE0td",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1618135097751764992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1618135076759298000,
+					"id_str": "1618135076759298049",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FnTFR3DWYAEJOnr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnTFR3DWYAEJOnr.jpg",
+					"url": "https://t.co/CSWm9pE0td",
+					"display_url": "pic.twitter.com/CSWm9pE0td",
+					"expanded_url": "https://twitter.com/BirdlifeOz/status/1618135097751764992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145136771,
+			"id_str": "145136771",
+			"name": "BirdLife Australia",
+			"screen_name": "BirdlifeOz",
+			"location": "Australia",
+			"description": "Home of the #AussieBirdCount! We're proud to be Australia's largest bird conservation organisation.",
+			"url": "https://t.co/i9NWEcHXjq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/i9NWEcHXjq",
+							"expanded_url": "https://birdlife.org.au/",
+							"display_url": "birdlife.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26817,
+			"friends_count": 946,
+			"listed_count": 415,
+			"created_at": "Tue May 18 06:05:23 +0000 2010",
+			"favourites_count": 12894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1580EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1616314206906880000/ZZ9AyhAf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1616314206906880000/ZZ9AyhAf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145136771/1668057292",
+			"profile_link_color": "003A80",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B6B8B1",
+			"profile_text_color": "0F0E0E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 2022 Aussie Bird Count results are IN!\n\nDespite record rains and flooding across much of southern Australia, last year’s count saw more than 77,000 people submit over 124,000 bird counts. Together, we counted almost 4 million birds across the country!\n\n🖌️ @bottlefullorain https://t.co/CSWm9pE0td"
+	},
+	{
 		"created_at": "Sun Jan 22 06:02:44 +0000 2023",
 		"id": 1616928872116936700,
 		"id_str": "1617040046821117952",
