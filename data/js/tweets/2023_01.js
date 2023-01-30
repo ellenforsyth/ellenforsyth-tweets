@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 30 04:07:55 +0000 2023",
+		"id": 1619847022038896600,
+		"id_str": "1619910254493589506",
+		"full_text": "Public Lending Rights for e-book and audiobook loans has arrived https://t.co/iTApwOTTmq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iTApwOTTmq",
+					"expanded_url": "https://www.smh.com.au/culture/art-and-design/australian-authors-to-receive-compensation-for-e-book-loans-for-first-time-20230127-p5cfxk.html",
+					"display_url": "smh.com.au/culture/art-an…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43021559,
+			"id_str": "43021559",
+			"name": "Ross Balharrie",
+			"screen_name": "xmotorlib",
+			"location": "Sydney",
+			"description": "Libraries | Motorcycles | Bicycles | Owls | Bushwalking:  currently musing over digital publishing + public libraries. All opinions are my own\n@Xmotorlib@mastod",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 690,
+			"listed_count": 16,
+			"created_at": "Thu May 28 01:57:00 +0000 2009",
+			"favourites_count": 857,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0A090A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798420720497885184/fPrLoP9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798420720497885184/fPrLoP9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43021559/1450868643",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Public Lending Rights for e-book and audiobook loans has arrived https://t.co/iTApwOTTmq"
+	},
+	{
 		"created_at": "Wed Jan 25 10:13:33 +0000 2023",
 		"id": 1618135097751765000,
 		"id_str": "1618190327160123393",
