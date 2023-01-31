@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 31 01:07:03 +0000 2023",
+		"id": 1620029792761548800,
+		"id_str": "1620227123012341761",
+		"full_text": "The future doesn't need to be something that just happens to us.\n\nWe should feel confident and capable of influencing it!\n\nDiscover the latest update of our Trend Report, prepared by emerging leaders from across our field: https://t.co/vfqaYRt5mb #IFLATrends https://t.co/i7xkzbWAIj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFLATrends",
+					"indices": [
+						247,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vfqaYRt5mb",
+					"expanded_url": "http://bit.ly/3JcPrH0",
+					"display_url": "bit.ly/3JcPrH0",
+					"indices": [
+						223,
+						246
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1620029459863568400,
+					"id_str": "1620029459863568389",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FnuANeDWAAU3kJc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnuANeDWAAU3kJc.jpg",
+					"url": "https://t.co/i7xkzbWAIj",
+					"display_url": "pic.twitter.com/i7xkzbWAIj",
+					"expanded_url": "https://twitter.com/IFLA/status/1620029792761548806/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1620029459863568400,
+					"id_str": "1620029459863568389",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FnuANeDWAAU3kJc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnuANeDWAAU3kJc.jpg",
+					"url": "https://t.co/i7xkzbWAIj",
+					"display_url": "pic.twitter.com/i7xkzbWAIj",
+					"expanded_url": "https://twitter.com/IFLA/status/1620029792761548806/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53361561,
+			"id_str": "53361561",
+			"name": "IFLA",
+			"screen_name": "IFLA",
+			"location": "The Hague, The Netherlands",
+			"description": "The International Federation of Library Associations and Institutions (IFLA) is the global voice of the library and information profession.",
+			"url": "https://t.co/l1M6glk56U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l1M6glk56U",
+							"expanded_url": "http://www.ifla.org",
+							"display_url": "ifla.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33214,
+			"friends_count": 501,
+			"listed_count": 1115,
+			"created_at": "Fri Jul 03 11:32:45 +0000 2009",
+			"favourites_count": 1395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0EDD4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709293367012761601/8wjAVEqO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53361561/1600429819",
+			"profile_link_color": "00502F",
+			"profile_sidebar_border_color": "C8002F",
+			"profile_sidebar_fill_color": "F0EDD4",
+			"profile_text_color": "002D19",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The future doesn't need to be something that just happens to us.\n\nWe should feel confident and capable of influencing it!\n\nDiscover the latest update of our Trend Report, prepared by emerging leaders from across our field: https://t.co/vfqaYRt5mb #IFLATrends https://t.co/i7xkzbWAIj"
+	},
+	{
 		"created_at": "Mon Jan 30 04:07:55 +0000 2023",
 		"id": 1619847022038896600,
 		"id_str": "1619910254493589506",
