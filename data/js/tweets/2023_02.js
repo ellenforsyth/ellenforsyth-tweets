@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Mon Feb 20 09:52:25 +0000 2023",
+		"id": 1627544401198174200,
+		"id_str": "1627607096073273348",
+		"full_text": "Voting for the 6th annual #EucalyptoftheYear opens tomorrow!\n\nHelp us find Australia's favourite gum 💚🌿\n\nOnly one can emerge victorious on #NationalEucalyptDay, 23/03. Which species will it be?\n\n🌳: Caley's Ironbark, E. caleyi\n#EucBeaut #nature #treetwitter #trees https://t.co/r7GWgQSPQg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EucalyptoftheYear",
+					"indices": [
+						26,
+						44
+					]
+				},
+				{
+					"text": "NationalEucalyptDay",
+					"indices": [
+						139,
+						159
+					]
+				},
+				{
+					"text": "EucBeaut",
+					"indices": [
+						226,
+						235
+					]
+				},
+				{
+					"text": "nature",
+					"indices": [
+						236,
+						243
+					]
+				},
+				{
+					"text": "treetwitter",
+					"indices": [
+						244,
+						256
+					]
+				},
+				{
+					"text": "trees",
+					"indices": [
+						257,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1627544396269854700,
+					"id_str": "1627544396269854720",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FpYzAVvXoAA6jLC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpYzAVvXoAA6jLC.jpg",
+					"url": "https://t.co/r7GWgQSPQg",
+					"display_url": "pic.twitter.com/r7GWgQSPQg",
+					"expanded_url": "https://twitter.com/EucalyptAus/status/1627544401198174208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1627544396269854700,
+					"id_str": "1627544396269854720",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FpYzAVvXoAA6jLC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpYzAVvXoAA6jLC.jpg",
+					"url": "https://t.co/r7GWgQSPQg",
+					"display_url": "pic.twitter.com/r7GWgQSPQg",
+					"expanded_url": "https://twitter.com/EucalyptAus/status/1627544401198174208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">Agorapulse app</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 750980697456779300,
+			"id_str": "750980697456779266",
+			"name": "Eucalypt Australia",
+			"screen_name": "EucalyptAus",
+			"location": "Melbourne, Victoria",
+			"description": "For the promotion of conservation, education & research of #eucalypts in Australia. \nRetweets ≠ endorsement\nHome of #EucalyptoftheYear",
+			"url": "https://t.co/Hc6cQcIZGD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hc6cQcIZGD",
+							"expanded_url": "http://www.eucalyptaustralia.org.au",
+							"display_url": "eucalyptaustralia.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5398,
+			"friends_count": 775,
+			"listed_count": 78,
+			"created_at": "Thu Jul 07 09:12:05 +0000 2016",
+			"favourites_count": 8504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/768262678775070722/NuFA2nSO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/768262678775070722/NuFA2nSO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/750980697456779266/1520206748",
+			"profile_link_color": "992135",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Voting for the 6th annual #EucalyptoftheYear opens tomorrow!\n\nHelp us find Australia's favourite gum 💚🌿\n\nOnly one can emerge victorious on #NationalEucalyptDay, 23/03. Which species will it be?\n\n🌳: Caley's Ironbark, E. caleyi\n#EucBeaut #nature #treetwitter #trees https://t.co/r7GWgQSPQg"
+	},
+	{
 		"created_at": "Thu Feb 09 22:43:47 +0000 2023",
 		"id": 1623814950920802300,
 		"id_str": "1623814950920802306",
