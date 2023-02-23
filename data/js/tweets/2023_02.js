@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 23 03:40:17 +0000 2023",
+		"id": 1625267127031832600,
+		"id_str": "1628600607090278400",
+		"full_text": "Australia, show us why you #LoveAGum!\n\nTo celebrate 10 years of #NationalEucalyptDay on 23/3, let's kick off a nationwide #eucalypt lovefest!\n\nShare a snap or video that represents your love for #eucalypts &amp; tell us why with the tag #LoveAGum\n1/2\n#thicktrunktuesday #valentinesday https://t.co/QdfDLSVlPe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LoveAGum",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"text": "NationalEucalyptDay",
+					"indices": [
+						64,
+						84
+					]
+				},
+				{
+					"text": "eucalypt",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "eucalypts",
+					"indices": [
+						195,
+						205
+					]
+				},
+				{
+					"text": "LoveAGum",
+					"indices": [
+						237,
+						246
+					]
+				},
+				{
+					"text": "thicktrunktuesday",
+					"indices": [
+						251,
+						269
+					]
+				},
+				{
+					"text": "valentinesday",
+					"indices": [
+						270,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1625265338773553200,
+					"id_str": "1625265338773553152",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo4aNu9aQAAiPkg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo4aNu9aQAAiPkg.jpg",
+					"url": "https://t.co/QdfDLSVlPe",
+					"display_url": "pic.twitter.com/QdfDLSVlPe",
+					"expanded_url": "https://twitter.com/EucalyptAus/status/1625267127031832576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1625265338773553200,
+					"id_str": "1625265338773553152",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Fo4aNu9aQAAiPkg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fo4aNu9aQAAiPkg.jpg",
+					"url": "https://t.co/QdfDLSVlPe",
+					"display_url": "pic.twitter.com/QdfDLSVlPe",
+					"expanded_url": "https://twitter.com/EucalyptAus/status/1625267127031832576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 750980697456779300,
+			"id_str": "750980697456779266",
+			"name": "Eucalypt Australia",
+			"screen_name": "EucalyptAus",
+			"location": "Melbourne, Victoria",
+			"description": "For the promotion of conservation, education & research of #eucalypts in Australia. \nRetweets ≠ endorsement\nHome of #EucalyptoftheYear",
+			"url": "https://t.co/Hc6cQcIZGD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hc6cQcIZGD",
+							"expanded_url": "http://www.eucalyptaustralia.org.au",
+							"display_url": "eucalyptaustralia.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5412,
+			"friends_count": 776,
+			"listed_count": 79,
+			"created_at": "Thu Jul 07 09:12:05 +0000 2016",
+			"favourites_count": 8538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/768262678775070722/NuFA2nSO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/768262678775070722/NuFA2nSO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/750980697456779266/1520206748",
+			"profile_link_color": "992135",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Australia, show us why you #LoveAGum!\n\nTo celebrate 10 years of #NationalEucalyptDay on 23/3, let's kick off a nationwide #eucalypt lovefest!\n\nShare a snap or video that represents your love for #eucalypts &amp; tell us why with the tag #LoveAGum\n1/2\n#thicktrunktuesday #valentinesday https://t.co/QdfDLSVlPe"
+	},
+	{
 		"created_at": "Mon Feb 20 09:52:25 +0000 2023",
 		"id": 1627544401198174200,
 		"id_str": "1627607096073273348",
