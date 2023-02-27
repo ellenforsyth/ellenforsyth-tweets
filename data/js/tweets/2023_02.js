@@ -1,10 +1,125 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sun Feb 26 23:02:52 +0000 2023",
+		"id": 1629150024255869000,
+		"id_str": "1629980345272799232",
+		"full_text": "Big day in #HorrorForLibraries: Using Awards Lists As a RA Tool: Bram Stoker Awards Edition. \n\nhttps://t.co/G0UQOF1DXr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HorrorForLibraries",
+					"indices": [
+						11,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G0UQOF1DXr",
+					"expanded_url": "http://raforall.blogspot.com/2023/02/using-awards-lists-as-ra-tool-bram.html",
+					"display_url": "raforall.blogspot.com/2023/02/using-…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2474412986,
+			"id_str": "2474412986",
+			"name": "Becky Spratford (she/her)",
+			"screen_name": "RAforAll",
+			"location": "Chicagoland",
+			"description": "Matching books with readers thru the library esp. #HorrorForLibraries. Jersey Girl in exile. @AmherstCollege '97 P'24. @BlairSchool P'27 @HorrorWriters Sec.",
+			"url": "https://t.co/mgx26gRKzg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mgx26gRKzg",
+							"expanded_url": "http://raforall.blogspot.com",
+							"display_url": "raforall.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4954,
+			"friends_count": 3221,
+			"listed_count": 143,
+			"created_at": "Fri May 02 18:51:55 +0000 2014",
+			"favourites_count": 41888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555780672439070720/ltCP9rHK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474412986/1614280328",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big day in #HorrorForLibraries: Using Awards Lists As a RA Tool: Bram Stoker Awards Edition. \n\nhttps://t.co/G0UQOF1DXr"
+	},
+	{
 		"created_at": "Thu Feb 23 10:13:32 +0000 2023",
 		"id": 1628699573006004200,
 		"id_str": "1628699573006004224",
-		"full_text": "Less soggy, more glamwich: Australia’s salad sandwich glow up via ⁦@GuardianAus⁩ I am a fan of salad sandwiches https://t.co/UAND4JDST3",
+		"full_text": "Less soggy, more glamwich: Australia’s salad sandwich glow up via @GuardianAus I am a fan of salad sandwiches https://t.co/UAND4JDST3",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +231,7 @@ Grailbird.data.tweets_2023_02 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Less soggy, more glamwich: Australia’s salad sandwich glow up via ⁦@GuardianAus⁩ I am a fan of salad sandwiches https://t.co/UAND4JDST3"
+		"text": "Less soggy, more glamwich: Australia’s salad sandwich glow up via @GuardianAus I am a fan of salad sandwiches https://t.co/UAND4JDST3"
 	},
 	{
 		"created_at": "Thu Feb 23 03:40:17 +0000 2023",
