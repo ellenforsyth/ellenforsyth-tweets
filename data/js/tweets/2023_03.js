@@ -1,10 +1,127 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 09:55:49 +0000 2023",
+		"id": 1639047519945756700,
+		"id_str": "1639204361011363840",
+		"full_text": "More than half NSW forests lost since 1750 and logging ‘locking in’ species extinction, study finds https://t.co/qH99DEyvgb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qH99DEyvgb",
+					"expanded_url": "https://www.theguardian.com/australia-news/2023/mar/24/more-than-half-nsw-forests-lost-since-1750-and-logging-locking-in-species-extinction-study-finds?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter#Echobox=1679613351",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 788524,
+			"id_str": "788524",
+			"name": "Guardian news",
+			"screen_name": "guardiannews",
+			"location": "",
+			"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/2j7ifvSW8t",
+			"url": "https://t.co/UxihdJO26W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UxihdJO26W",
+							"expanded_url": "http://www.theguardian.com",
+							"display_url": "theguardian.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2j7ifvSW8t",
+							"expanded_url": "http://support.theguardian.com/uk/support",
+							"display_url": "support.theguardian.com/uk/support",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3862956,
+			"friends_count": 1214,
+			"listed_count": 35730,
+			"created_at": "Thu Feb 22 12:32:47 +0000 2007",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 345922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061915596328263680/EcBjYl5z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061915596328263680/EcBjYl5z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/788524/1542015319",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CAE3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More than half NSW forests lost since 1750 and logging ‘locking in’ species extinction, study finds https://t.co/qH99DEyvgb"
+	},
+	{
 		"created_at": "Mon Mar 20 09:44:28 +0000 2023",
 		"id": 1637751954914041900,
 		"id_str": "1637751954914041857",
-		"full_text": "Handing down the family secrets – one dish at a time via ⁦@guardian⁩ a lovely read about sharing recipes https://t.co/UM7m2XG9yh",
+		"full_text": "Handing down the family secrets – one dish at a time via @guardian a lovely read about sharing recipes https://t.co/UM7m2XG9yh",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +233,7 @@ Grailbird.data.tweets_2023_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Handing down the family secrets – one dish at a time via ⁦@guardian⁩ a lovely read about sharing recipes https://t.co/UM7m2XG9yh"
+		"text": "Handing down the family secrets – one dish at a time via @guardian a lovely read about sharing recipes https://t.co/UM7m2XG9yh"
 	},
 	{
 		"created_at": "Sun Mar 19 20:54:58 +0000 2023",
